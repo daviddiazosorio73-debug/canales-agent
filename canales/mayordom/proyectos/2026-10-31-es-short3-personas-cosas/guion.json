@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "Ama a las personas, usa las cosas ❤️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Ama a las personas. Us",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Ama a las personas, usa las cosas ❤️ #shorts",
+    "descripcion": "Vivimos en una época que ama las cosas y usa a las personas. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Vivimos en una época que ama las cosas y usa a las personas.",
+      "texto_pantalla": "Ama a las personas. Usa las cosas.",
+      "visual": {
+        "query": "bread fish basket"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús hizo lo contrario. Usó barro para amar a un ciego. Usó panes y peces para amar a una multitud. Usó agua y tinajas para bendecir una boda. Y al final, usó una cruz para amarte a ti. Esta semana, usa tus cosas para amar a alguien. Escribe en los comentarios a quién vas a bendecir.",
+      "texto_pantalla": "Ama a las personas. Usa las cosas.",
+      "visual": {
+        "query": "family embrace home"
+      }
+    }
+  ]
+}

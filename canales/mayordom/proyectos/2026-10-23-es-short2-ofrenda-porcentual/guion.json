@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-23",
+  "tema": "¿Cuánto debo ofrendar? La respuesta bíblica",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Cuánto ofrendar?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Cuánto debo ofrendar? La respuesta bíblica #shorts",
+    "descripcion": "¿Cuánto debo dar de ofrenda? ¿Lo que tenga en el bolsillo cuando pasa el ofrendero? (Deuteronomio 16:17) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-23T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuánto debo dar de ofrenda? ¿Lo que tenga en el bolsillo cuando pasa el ofrendero?",
+      "texto_pantalla": "¿Cuánto ofrendar?",
+      "visual": {
+        "query": "envelope money table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La Biblia da un principio. Deuteronomio dieciséis, versículo diecisiete: cada uno dará conforme a la bendición que Jehová su Dios le haya dado. Es decir, en proporción. Si ganas más, das más. Si ganas menos, das menos. Por eso muchos eligen un porcentaje fijo para sus ofrendas, además del diezmo, decidido con oración y planificado con su familia. ¿Ya elegiste el tuyo?",
+      "texto_pantalla": "¿Cuánto ofrendar?",
+      "referencia": "Deuteronomio 16:17",
+      "visual": {
+        "query": "family praying table"
+      }
+    }
+  ]
+}

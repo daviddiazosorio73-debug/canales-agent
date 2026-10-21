@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "Era rico… y se hizo pobre por ti ✝️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Se hizo pobre por ti",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Era rico… y se hizo pobre por ti ✝️ #shorts",
+    "descripcion": "Si alguna vez dudas de por qué dar, mira esto. (2 Corintios 8:9) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si alguna vez dudas de por qué dar, mira esto.",
+      "texto_pantalla": "Se hizo pobre por ti",
+      "visual": {
+        "query": "cross silhouette sunset"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Corintios ocho, versículo nueve: Porque ya conocéis la gracia de nuestro Señor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico, para que vosotros con su pobreza fueseis enriquecidos. No damos para que Dios nos ame. Damos porque ya nos amó. La generosidad nace al pie de la cruz. El sermón completo ya está en el canal.",
+      "texto_pantalla": "Se hizo pobre por ti",
+      "referencia": "2 Corintios 8:9",
+      "visual": {
+        "query": "manger stable light"
+      }
+    }
+  ]
+}

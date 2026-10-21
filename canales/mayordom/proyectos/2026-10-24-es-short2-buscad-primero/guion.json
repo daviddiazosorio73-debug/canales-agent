@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-24",
+  "tema": "Mateo 6:33: lo que casi nadie entiende",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Buscad primeramente…»",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Mateo 6:33: lo que casi nadie entiende #shorts",
+    "descripcion": "Todos citan Mateo seis treinta y tres. Pero pocos lo viven. (Mateo 6:33) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Todos citan Mateo seis treinta y tres. Pero pocos lo viven.",
+      "texto_pantalla": "«Buscad primeramente…»",
+      "visual": {
+        "query": "sunrise bible morning coffee"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas. Primeramente no es solo lo más importante. Es lo primero en tu día. Tu agenda revela qué buscas primero. Si lo primero que tocas en la mañana es tu celular, ya sabes quién está ganando. Mañana, antes que nada, busca a Dios. Sermón completo hoy a las seis.",
+      "texto_pantalla": "«Buscad primeramente…»",
+      "referencia": "Mateo 6:33",
+      "visual": {
+        "query": "phone alarm morning bed"
+      }
+    }
+  ]
+}

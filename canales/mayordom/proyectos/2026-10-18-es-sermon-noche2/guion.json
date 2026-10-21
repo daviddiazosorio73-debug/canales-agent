@@ -1,0 +1,135 @@
+{
+  "lang": "es",
+  "tipo": "sermon",
+  "noche": 2,
+  "fecha": "2026-10-18",
+  "serie": "Semana de Mayordomía 2026 · Todo por amor a Él",
+  "tema": "La ley tribal de Dios: cultivar relaciones positivas",
+  "version_biblica": "RVR1960 y NVI según el Sermonario oficial 2026",
+  "fuente_base": "Sermonario Semana de Mayordomía 2026, Día 2 (autor: Julian Archer, DPS). Adaptación original.",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Ama a las personas,",
+    "linea2": "USA LAS COSAS",
+    "etiqueta": "SEMANA DE MAYORDOMÍA · NOCHE 2",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Ama a las personas y usa las cosas: la ley tribal de Dios | Semana de Mayordomía · Noche 2",
+    "descripcion": "Vivimos en una época que ama las cosas y usa a las personas. Dios nos llama a lo contrario. Noche 2 de la Semana de Mayordomía 2026 «Todo por amor a Él».\n\nEn este sermón: ¿cuál es tu tribu?, la falsificación de Satanás en las relaciones, y cuatro pasos para ser mayordomo fiel de tus relaciones: la regla de oro, cuidar tus palabras, amar como Jesús y amar a las personas, no las cosas.\n\n📖 Hebreos 10:25 · 1 Timoteo 5:8 · Mateo 7:12 · Efesios 4:29 · Colosenses 4:6 · 1 Juan 4:20-21 · 1 Corintios 13:7\n📚 El hogar cristiano, pp. 29 y 221 · El Discurso Maestro de Jesucristo, p. 65\n\n🙏 Compromiso: mejorar mis relaciones creciendo en fidelidad, perdón y amor.\n💬 ¿A quién necesitas pedirle perdón esta semana?\n\nBasado en el Sermonario oficial de la Semana de Reavivamiento Espiritual de Mayordomía Cristiana 2026. Narración con voz sintética.",
+    "tags": [
+      "mayordomía cristiana",
+      "semana de mayordomía 2026",
+      "todo por amor a él",
+      "relaciones familiares",
+      "regla de oro",
+      "amar a las personas",
+      "familia cristiana",
+      "sermón adventista",
+      "mayordomía bíblica",
+      "Elena G. de White"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "TodoPorAmorAÉl",
+      "Familia"
+    ],
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "¿Cuál es tu tribu? Alguien lo definió con humor: cuando encuentres personas que no solo toleran tus rarezas, sino que las celebran gritando ¡yo también!, cuídalas, porque esos raros son tu tribu. Tu tribu es tu familia, tu iglesia, tu comunidad y, en un sentido más amplio, toda la familia humana. Y esta noche vamos a descubrir que Dios nos hizo mayordomos no solo de nuestro dinero o nuestro tiempo, sino también de nuestras relaciones.",
+      "texto_pantalla": "¿Cuál es tu tribu?",
+      "visual": {
+        "query": "friends laughing together table"
+      }
+    },
+    {
+      "id": "contexto",
+      "capitulo": "Mayordomos de relaciones",
+      "texto": "Hoy muchas personas viven aisladas, o completamente solas. Pero la Biblia valora la comunidad. Hebreos capítulo diez, versículo veinticinco, nos anima a no dejar de congregarnos, como algunos tienen por costumbre, sino a animarnos unos a otros, y más aún cuando vemos que se acerca el día del regreso de Cristo. Y Pablo es todavía más directo en primera de Timoteo capítulo cinco, versículo ocho: Porque si alguno no provee para los suyos, y mayormente para los de su casa, ha negado la fe, y es peor que un incrédulo. Cuidar de nuestra tribu no es opcional. Es parte de nuestra fe.",
+      "texto_pantalla": "Cuidar de los tuyos es parte de tu fe",
+      "referencia": "1 Timoteo 5:8",
+      "visual": {
+        "query": "family hands together"
+      }
+    },
+    {
+      "id": "falsificacion",
+      "capitulo": "El modelo de Dios y la falsificación",
+      "texto": "En cada área de la vida, Dios tiene un modelo, y Satanás tiene una falsificación. Dios dice: eres guardián de tu hermano. Satanás susurra: tu prioridad eres tú. Dios dice: provee para tu familia, sobre todo en tiempos difíciles. Satanás dice: que cada uno se las arregle. Dios dice: ama a tu cónyuge como Cristo amó a la iglesia. Satanás dice: asegúrate de que tu pareja atienda tus necesidades. Dios dice: haz a los demás lo que quieres que hagan contigo. Satanás dice: el mundo es competitivo, cuídate a cualquier precio. Algunas de esas ideas parecen razonables, pero al final destruyen las relaciones y dividen a la tribu. Elena G. de White escribió en El hogar cristiano, página veintinueve, que nuestra obra para Cristo debe comenzar en la familia, en el hogar, y que no hay campo misionero más importante que este.",
+      "texto_pantalla": "No hay campo misionero más importante que el hogar",
+      "referencia": "El hogar cristiano, p. 29",
+      "visual": {
+        "query": "home warm light evening family"
+      }
+    },
+    {
+      "id": "paso1",
+      "capitulo": "1. La regla de oro",
+      "texto": "¿Cómo cultivamos relaciones sanas en la práctica? Primer paso: la regla de oro. Jesús dijo en Mateo capítulo siete, versículo doce: Así que, todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos; porque esto es la ley y los profetas. Podríamos llamarla la regla de oro de la tribu. No importa si hablamos de tu esposa, de tu vecino o de alguien al otro lado del mundo. Antes de reaccionar, pregúntate: ¿cómo me gustaría que me trataran a mí en esta situación? Esa sola pregunta puede salvar un matrimonio, una amistad o una iglesia.",
+      "texto_pantalla": "Trata a otros como quieres ser tratado",
+      "referencia": "Mateo 7:12",
+      "visual": {
+        "query": "two people talking coffee kindness"
+      }
+    },
+    {
+      "id": "paso2",
+      "capitulo": "2. Cuidar las palabras",
+      "texto": "Segundo paso: cuidar nuestras palabras. Efesios capítulo cuatro, versículo veintinueve, en la Nueva Versión Internacional, dice: Eviten toda conversación obscena. Por el contrario, que sus palabras contribuyan a la necesaria edificación y sean de bendición para quienes escuchan. Una palabra puede construir o destruir en segundos. Y lo que sale de la boca nace en el corazón. Por eso no basta con morderse la lengua. Necesitamos pedirle a Dios cada día un corazón nuevo, que sea una fuente de palabras amables, alentadoras y que edifiquen. Piensa en la última discusión que tuviste. ¿Tus palabras sanaron o hirieron?",
+      "texto_pantalla": "Que tus palabras sean de bendición",
+      "referencia": "Efesios 4:29 (NVI)",
+      "visual": {
+        "query": "speech bubble conversation calm"
+      }
+    },
+    {
+      "id": "paso3",
+      "capitulo": "3. Amar como Jesús",
+      "texto": "Tercer paso: amar como Jesús. El apóstol Juan estuvo en primera fila viendo cómo Jesús trataba a la gente. Ya anciano, escribió en primera de Juan capítulo cuatro: Si alguno dice: Yo amo a Dios, y aborrece a su hermano, es mentiroso. Pues el que no ama a su hermano a quien ha visto, ¿cómo puede amar a Dios a quien no ha visto? Y añade: El que ama a Dios, ame también a su hermano. Elena G. de White lo resume en El Discurso Maestro de Jesucristo, página sesenta y cinco: no es la posición, ni el nacimiento, ni la nacionalidad, ni los privilegios religiosos lo que prueba que somos de la familia de Dios. Es el amor, un amor que abarca a toda la humanidad.",
+      "texto_pantalla": "El amor prueba que somos familia de Dios",
+      "referencia": "1 Juan 4:20-21",
+      "visual": {
+        "query": "embrace hug sunset"
+      }
+    },
+    {
+      "id": "paso4",
+      "capitulo": "4. Personas, no cosas",
+      "texto": "Cuarto paso, y es la ley tribal de esta noche. Memorízala: en una época que ama las cosas y usa a las personas, nosotros debemos amar a las personas y usar las cosas. El egoísmo y la codicia destruyen familias e iglesias. Pero mira cómo vivió Jesús: usó barro para amar a un ciego, usó la arena para defender a una mujer acusada, usó agua y tinajas para bendecir a unos recién casados, usó panes y peces para alimentar a una multitud, y al final usó una cruz y tres clavos para construir un puente de amor hacia nosotros. Esta ley cambia cómo compras, cómo viajas, cómo consumes y cómo cuidas de los demás.",
+      "texto_pantalla": "Ama a las personas. Usa las cosas.",
+      "visual": {
+        "query": "bread fish basket sharing"
+      }
+    },
+    {
+      "id": "historia",
+      "capitulo": "Un hermano así",
+      "texto": "Escucha esta historia. Un hombre, llamémosle Pedro, recibió de su hermano un auto deportivo nuevo. Un día, al salir de hacer compras, encontró a un joven sin hogar mirando el auto con los ojos muy abiertos. ¿Es suyo, señor?, preguntó. Sí, me lo regaló mi hermano. El joven dijo: ¡Qué increíble! Ojalá… ojalá… Pedro lo interrumpió: Ya sé, ojalá tuvieras un hermano así. No, señor, respondió el joven. Ojalá yo pudiera ser un hermano así. No necesitas ser rico para regalar un auto. Dios solo te pide que mires lo que puso en tus manos, mucho o poco, y lo uses para amar a las personas.",
+      "texto_pantalla": "«Ojalá yo pudiera ser un hermano así»",
+      "visual": {
+        "query": "car street city young man"
+      }
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Compromiso y oración",
+      "texto": "Te dejo tres preguntas. Primera: si mis palabras o acciones dañaron la confianza de alguien, ¿qué puedo hacer hoy para sanar esa relación? Segunda: ¿cómo cambiará esta ley tribal mi manera de comprar, consumir y cuidar? Tercera: ¿qué regalo, mayor que una cosa, puedo dar a otros esta semana? Primera de Corintios trece, versículo siete, dice que el amor todo lo sufre, todo lo cree, todo lo espera, todo lo soporta. El compromiso de esta noche: con la ayuda de Dios, elijo mejorar mis relaciones, creciendo en fidelidad, perdón y amor. Oremos. Señor, gracias por mi familia, mi iglesia y cada persona que pusiste en mi camino. Perdóname por amar las cosas más que a las personas. Dame un corazón como el de Jesús. Amén. Suscríbete y comparte este mensaje con alguien de tu tribu.",
+      "texto_pantalla": "Compromiso: fidelidad, perdón y amor",
+      "referencia": "1 Corintios 13:7",
+      "visual": {
+        "query": "church community singing light"
+      }
+    }
+  ]
+}

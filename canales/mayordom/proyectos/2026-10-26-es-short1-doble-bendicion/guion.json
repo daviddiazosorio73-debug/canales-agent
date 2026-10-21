@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-26",
+  "tema": "El que da recibe DOS veces 🎁",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dar te bendice dos vec",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El que da recibe DOS veces 🎁 #shorts",
+    "descripcion": "Cuando ayudas a alguien, hay dos personas bendecidas. ¿Sabes quién es la segunda? (Proverbios 11:25) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-26T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Cuando ayudas a alguien, hay dos personas bendecidas. ¿Sabes quién es la segunda?",
+      "texto_pantalla": "Dar te bendice dos veces",
+      "visual": {
+        "query": "hands giving gift"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Tú. Proverbios once, versículo veinticinco: El alma generosa será prosperada; y el que saciare, él también será saciado. Dios diseñó la generosidad como un circuito. Lo que sale de tus manos para bendecir, vuelve a tu vida como gozo, paz y un carácter más parecido al de Jesús. Hoy a las seis de la tarde comienza la serie del capítulo uno: Colaboradores de Dios.",
+      "texto_pantalla": "Dar te bendice dos veces",
+      "referencia": "Proverbios 11:25",
+      "visual": {
+        "query": "smiling friends sharing food"
+      }
+    }
+  ]
+}

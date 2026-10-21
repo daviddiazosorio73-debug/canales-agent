@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "3 Juan 2 NO dice lo que te dijeron",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "3 Juan 2 en contexto",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "3 Juan 2 NO dice lo que te dijeron #shorts",
+    "descripcion": "Amado, yo deseo que tú seas prosperado en todas las cosas. ¿Es una promesa de riqueza? (3 Juan 2) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Amado, yo deseo que tú seas prosperado en todas las cosas. ¿Es una promesa de riqueza?",
+      "texto_pantalla": "3 Juan 2 en contexto",
+      "visual": {
+        "query": "old letter writing ink"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Tercera de Juan dos es el saludo de una carta. Era una forma común de comenzar una carta en esa época, como cuando hoy escribimos: espero que estés bien. Juan desea que su amigo esté bien, así como prospera su alma. No es una garantía de dinero para todos. Leer la Biblia en contexto nos protege de promesas que Dios nunca hizo.",
+      "texto_pantalla": "3 Juan 2 en contexto",
+      "referencia": "3 Juan 2",
+      "visual": {
+        "query": "magnifying glass bible"
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "lang": "es",
+  "tipo": "analisis",
+  "fecha": "2026-10-29",
+  "serie": "Análisis MayorDom (martes y jueves)",
+  "tema": "El evangelio de la prosperidad: ¿Dios promete hacerte rico?",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Dios promete",
+    "linea2": "HACERTE RICO?",
+    "etiqueta": "ANÁLISIS · MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "«Siembra y Dios te hará rico»: el evangelio de la prosperidad bajo la lupa | Análisis",
+    "descripcion": "«Da una semilla y Dios te devolverá el ciento por uno». «Si tienes fe, prosperarás». Lo analizamos con la Biblia: qué hay de verdad, qué se distorsiona y cuál es la prosperidad que Dios sí promete.\n\n📖 3 Juan 2 · Malaquías 3:10 · Marcos 10:29-30 · 1 Timoteo 6:6-10 · Filipenses 4:11-13 · Mateo 6:19-21 · Hebreos 11:36-38\n\n💬 ¿Te han dicho que si das más, recibirás más dinero? Cuéntanos.\nAnalizamos ideas, no personas. Narración con voz sintética.",
+    "tags": [
+      "evangelio de la prosperidad",
+      "teología de la prosperidad",
+      "siembra y cosecha",
+      "3 Juan 2",
+      "1 Timoteo 6",
+      "Dios quiere que seas rico",
+      "mayordomía cristiana",
+      "análisis bíblico",
+      "mayordomía bíblica",
+      "contentamiento"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "Prosperidad",
+      "Análisis"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "Siembra una semilla de fe y Dios te devolverá el ciento por uno. Si estás pobre o enfermo, es porque te falta fe. Dios quiere que manejes el mejor auto. Seguro has escuchado frases así. Se le llama el evangelio de la prosperidad, y tiene millones de seguidores en Latinoamérica. Hoy lo analizamos con la Biblia abierta: qué tiene de verdad, qué distorsiona y qué prosperidad sí nos promete Dios.",
+      "texto_pantalla": "«Siembra y Dios te hará rico»",
+      "visual": {
+        "query": "money cash luxury lifestyle"
+      }
+    },
+    {
+      "id": "que_dice",
+      "capitulo": "Qué enseña",
+      "texto": "En resumen, esta enseñanza dice que Dios quiere que todos sus hijos sean ricos y sanos, que la riqueza material es una señal de bendición y de fe, y que la manera de obtenerla es dar, especialmente al ministerio que lo predica, como una semilla que Dios multiplicará. Se suelen citar textos como tercera de Juan, versículo dos: Amado, yo deseo que tú seas prosperado en todas las cosas, y que tengas salud. O Malaquías tres, versículo diez, con su promesa de abrir las ventanas de los cielos.",
+      "texto_pantalla": "Riqueza = señal de fe",
+      "referencia": "3 Juan 2",
+      "visual": {
+        "query": "seed planting hand soil"
+      }
+    },
+    {
+      "id": "verdad",
+      "capitulo": "Lo que tiene de verdad",
+      "texto": "Seamos justos. Hay verdades en este mensaje. Dios sí bendice al fiel. Malaquías tres sí promete bendición a quien es fiel en el diezmo. Dios sí se interesa en tu salud y en tus necesidades materiales. Y la Biblia no condena la riqueza en sí: Abraham, Job y José fueron prósperos. El problema no es lo que esta enseñanza afirma de la bondad de Dios. El problema es lo que añade, y lo que deja afuera.",
+      "texto_pantalla": "Dios sí bendice al fiel",
+      "referencia": "Malaquías 3:10",
+      "visual": {
+        "query": "harvest abundance field golden"
+      }
+    },
+    {
+      "id": "distorsion",
+      "capitulo": "Lo que distorsiona",
+      "texto": "Primera distorsión: tercera de Juan dos es un saludo personal, la forma habitual de comenzar una carta en esa época, no una promesa de riqueza para todos. Segunda: convierte el dar en una inversión para obtener más dinero. Pero Jesús enseñó a dar en secreto, sin que sepa tu izquierda lo que hace tu derecha, sin buscar ganancia. Tercera: si la pobreza o la enfermedad prueban falta de fe, entonces Pablo, Juan el Bautista y el mismo Jesús habrían tenido poca fe. Hebreos once menciona héroes de la fe que anduvieron de acá para allá, pobres, angustiados, maltratados, de los cuales el mundo no era digno. Su fe era grande, y no eran ricos.",
+      "texto_pantalla": "Si pobreza = poca fe… ¿Jesús tenía poca fe?",
+      "referencia": "Hebreos 11:37-38",
+      "visual": {
+        "query": "poor village dignity faith"
+      }
+    },
+    {
+      "id": "pablo",
+      "capitulo": "La advertencia de Pablo",
+      "texto": "Pablo advirtió exactamente sobre esto en primera de Timoteo seis. Habla de hombres que toman la piedad como fuente de ganancia. Y responde: Pero gran ganancia es la piedad acompañada de contentamiento; porque nada hemos traído a este mundo, y sin duda nada podremos sacar. Así que, teniendo sustento y abrigo, estemos contentos con esto. Porque los que quieren enriquecerse caen en tentación y lazo. Porque raíz de todos los males es el amor al dinero. Pablo no dice que el dinero sea malo. Dice que el amor al dinero es la raíz de muchos males.",
+      "texto_pantalla": "Gran ganancia es la piedad con contentamiento",
+      "referencia": "1 Timoteo 6:6-10",
+      "visual": {
+        "query": "simple life bread table candle"
+      }
+    },
+    {
+      "id": "verdadera",
+      "capitulo": "La prosperidad que Dios promete",
+      "texto": "Entonces, ¿qué prosperidad promete Dios? Una que no depende de la cuenta bancaria. Pablo dijo en Filipenses cuatro: he aprendido a contentarme, cualquiera que sea mi situación. Sé vivir humildemente, y sé tener abundancia. Todo lo puedo en Cristo que me fortalece. Ese famoso versículo no habla de conseguir lo que quiero, sino de estar firme en la escasez y en la abundancia. Y Jesús nos enseñó en Mateo seis a hacer tesoros en el cielo, donde ni la polilla ni el orín corrompen, porque donde esté tu tesoro, allí estará también tu corazón.",
+      "texto_pantalla": "La verdadera prosperidad: contentamiento y tesoro en el cielo",
+      "referencia": "Filipenses 4:11-13 · Mateo 6:19-21",
+      "visual": {
+        "query": "peaceful person sunset contentment"
+      }
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Conclusión",
+      "texto": "Conclusión: Dios es generoso y bendice al fiel, pero no es una máquina de dinero que se activa con semillas. Damos porque Él es el Dueño y porque lo amamos, no para hacer negocio con Él. Y medimos la bendición por la paz, el carácter y la eternidad, no por el auto que manejamos. Si te dijeron que estás pobre por falta de fe, quiero decirte algo: Dios te ama igual, y su prosperidad comienza en el corazón. ¿Qué opinas? Déjalo en los comentarios, con respeto. Aquí analizamos ideas, no personas. Suscríbete y comparte este análisis.",
+      "texto_pantalla": "Dios no es una máquina de dinero",
+      "visual": {
+        "query": "cross sunrise hope light"
+      }
+    }
+  ]
+}

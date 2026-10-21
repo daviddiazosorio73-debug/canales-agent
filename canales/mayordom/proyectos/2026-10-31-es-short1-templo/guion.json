@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "Tu cuerpo no es tuyo (dice la Biblia) 🏛️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Tu cuerpo, templo de D",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Tu cuerpo no es tuyo (dice la Biblia) 🏛️ #shorts",
+    "descripcion": "Tu cuerpo no es tuyo. No lo digo yo, lo dice la Biblia. (1 Corintios 6:19-20) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tu cuerpo no es tuyo. No lo digo yo, lo dice la Biblia.",
+      "texto_pantalla": "Tu cuerpo, templo de Dios",
+      "visual": {
+        "query": "temple columns light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primera de Corintios seis enseña que tu cuerpo es templo del Espíritu Santo, y que fuiste comprado por precio. Por eso cuidar tu salud no es vanidad. Es adoración. Dormir bien, comer natural, moverte, tomar agua y descansar en Dios también es mayordomía. ¿Qué hábito saludable vas a empezar esta semana?",
+      "texto_pantalla": "Tu cuerpo, templo de Dios",
+      "referencia": "1 Corintios 6:19-20",
+      "visual": {
+        "query": "healthy food vegetables"
+      }
+    }
+  ]
+}

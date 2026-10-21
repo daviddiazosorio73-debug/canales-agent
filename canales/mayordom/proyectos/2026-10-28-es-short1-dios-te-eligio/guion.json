@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-28",
+  "tema": "Dios no te necesita… pero te ELIGIÓ",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dios te eligió",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios no te necesita… pero te ELIGIÓ #shorts",
+    "descripcion": "Dios podría salvar al mundo sin ti. Enviar ángeles. Escribir el evangelio en el cielo. Pero no lo hizo. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-28T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dios podría salvar al mundo sin ti. Enviar ángeles. Escribir el evangelio en el cielo. Pero no lo hizo.",
+      "texto_pantalla": "Dios te eligió",
+      "visual": {
+        "query": "father child painting"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Eligió depender de personas como tú. ¿Por qué? Como un papá que deja a su hijo pintar la pared con él, aunque lo haría mejor solo. No es por la pared. Es por el hijo. Dios te incluye en su obra porque quiere formarte y compartir contigo su alegría. Hoy a las seis, el segundo sermón del capítulo uno: Colaboradores de Dios.",
+      "texto_pantalla": "Dios te eligió",
+      "visual": {
+        "query": "angels light clouds"
+      }
+    }
+  ]
+}

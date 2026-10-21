@@ -1,0 +1,91 @@
+{
+  "lang": "es",
+  "tipo": "sermon",
+  "serie": "Semana de Mayordomía 2026 · Todo por amor a Él",
+  "noche": 5,
+  "fecha": "2026-10-21",
+  "tema": "El tapiz del tiempo: tejiendo significado en cada minuto",
+  "version_biblica": "RVR1960 según el Sermonario oficial 2026",
+  "fuente_base": "Sermonario Semana de Reavivamiento Espiritual de Mayordomía Cristiana 2026, Día 5 (autora: Heli Otamo-Csizmadia, DTE). Adaptación original para video.",
+  "color_marca": [212, 168, 83],
+  "contenido_sintetico": true,
+  "miniatura": {"linea1": "¿Cuándo afilaste", "linea2": "TU HACHA?", "etiqueta": "SEMANA DE MAYORDOMÍA · NOCHE 5", "imagen": "gancho"},
+  "seo": {
+    "titulo": "«No tengo tiempo»: la trampa del leñador y el secreto del tiempo | Semana de Mayordomía · Noche 5",
+    "descripcion": "¿Siempre ocupado, pero cada día rindes menos? El leñador que no tenía tiempo de afilar su hacha te muestra el problema. Noche 5 de la Semana de Mayordomía 2026 «Todo por amor a Él».\n\nEn este sermón descubrirás por qué no puedes controlar el tiempo, pero sí cómo vivir cada momento; qué enseña Salomón en Eclesiastés 3 sobre «un tiempo para todo»; por qué el sábado es el lugar donde Dios afila tu hacha; y cómo formar el hábito de detenerte ante Dios.\n\n📖 Pasajes: Eclesiastés 3:1-15 · Génesis 2:2-3 · Mateo 6:33 · Isaías 56:2\n📚 Estudio citado: Lally et al. (2010), formación de hábitos, European Journal of Social Psychology.\n\n🙏 Compromiso: guardar el sábado, prepararme para él durante la semana y hacer de la pausa con Dios un hábito diario.\n\n💬 Comenta: ¿qué te quita más tiempo para estar con Dios?\n🔔 Suscríbete: cada noche a las 6:00 p. m. (hora de Lima), un nuevo tema de la Semana de Mayordomía.\n\nBasado en el Sermonario oficial de la Semana de Reavivamiento Espiritual de Mayordomía Cristiana 2026 «Todo por amor a Él». Narración con voz sintética.",
+    "tags": ["mayordomía del tiempo", "semana de mayordomía 2026", "todo por amor a él", "Eclesiastés 3", "todo tiene su tiempo", "el sábado", "administrar el tiempo", "sermón adventista", "mayordomía cristiana", "afilar el hacha", "hábitos espirituales", "mayordomía bíblica"],
+    "hashtags": ["MayordomíaBíblica", "TodoPorAmorAÉl", "TodoTieneSuTiempo"],
+    "privacidad": "private",
+    "publicar_en": "2026-10-21T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "¿Cuántas veces dijiste esta semana: no tengo tiempo? No tengo tiempo para orar. No tengo tiempo para leer la Biblia. No tengo tiempo para mi familia. Y sin embargo, el día sigue teniendo veinticuatro horas para todos. Esta noche quiero contarte la historia de un hombre muy trabajador que cada día rendía menos. No por flojo, sino por ocupado. Y al final de la historia vas a descubrir algo que quizá te está pasando a ti.",
+      "texto_pantalla": "«No tengo tiempo…»",
+      "visual": {"query": "clock time hands dark"}
+    },
+    {
+      "id": "lenador",
+      "capitulo": "La historia del leñador",
+      "texto": "El escritor argentino Jorge Bucay cuenta la historia de un leñador que consiguió trabajo en un aserradero. El sueldo era bueno y él quería causar una gran impresión. El primer día cortó dieciocho árboles. El capataz lo felicitó. Entusiasmado, al día siguiente se levantó más temprano y trabajó más duro. Pero solo cortó quince. Pensó que estaba cansado, así que se acostó más temprano. Al otro día cortó menos de la mitad. Luego siete. Luego cinco. Y el último día pasó toda la tarde luchando con un solo árbol. Preocupado, fue a ver al capataz para jurarle que estaba dando lo mejor de sí. El capataz lo miró y le hizo una sola pregunta: ¿cuándo fue la última vez que afilaste tu hacha? Y el leñador respondió: ¿afilarla? No he tenido tiempo. He estado demasiado ocupado cortando árboles.",
+      "texto_pantalla": "¿Cuándo afilaste tu hacha por última vez?",
+      "visual": {"query": "axe tree forest wood"}
+    },
+    {
+      "id": "incontrolable",
+      "capitulo": "El tiempo no se controla",
+      "texto": "No he tenido tiempo. Qué frase tan nuestra. El tiempo es parte de todo lo que vivimos, y sin embargo no lo controlamos. No podemos frenarlo, ni acelerarlo, ni recuperar un solo minuto que ya pasó. Y a los seres humanos nos cuesta mucho no tener el control. Por eso corremos, llenamos la agenda, hacemos más y más, como el leñador. Pensamos que más esfuerzo es la solución. Pero la mayordomía del tiempo no consiste en exprimir cada minuto. Consiste en entender quién es el Dueño del tiempo y aprender a vivir dentro de sus ritmos. Si el tiempo no está en nuestras manos, la pregunta correcta no es cómo lo controlo, sino cómo hago que cuente.",
+      "texto_pantalla": "No puedes controlar el tiempo. Sí puedes hacer que cuente.",
+      "visual": {"query": "hourglass sand time"}
+    },
+    {
+      "id": "salomon",
+      "capitulo": "Un tiempo para todo",
+      "texto": "El rey Salomón pensó mucho en esta pregunta, y la respondió con un poema. En Eclesiastés capítulo tres, versículo uno, dice: Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora. Y luego enumera: tiempo de nacer y tiempo de morir; tiempo de plantar y tiempo de arrancar; tiempo de llorar y tiempo de reír; tiempo de callar y tiempo de hablar. Fíjate que Salomón no habla del reloj que corre. Habla de momentos. Nosotros solemos mirar el tiempo solo hacia adelante: lo que tengo que hacer mañana, lo que viene la próxima semana. Pero Salomón nos dice que cada momento presente importa. El abrazo de hoy. El trabajo de hoy. La paz de hoy. Y en el versículo once añade algo precioso: Dios todo lo hizo hermoso en su tiempo, y puso eternidad en el corazón del ser humano. Es decir, fuimos hechos para algo más grande que la prisa.",
+      "texto_pantalla": "«Todo tiene su tiempo»",
+      "referencia": "Eclesiastés 3:1, 11",
+      "visual": {"query": "seasons tree sunrise field"}
+    },
+    {
+      "id": "presencia",
+      "capitulo": "Lo que importa: su presencia",
+      "texto": "Salomón también dice que Dios nos dio un trabajo en qué ocuparnos, el pan de cada día y la alegría de disfrutar el fruto de nuestro esfuerzo. Y concluye que Dios hace las cosas así para que lo reverenciemos. Ahí está la clave. El tiempo nos empuja siempre hacia el futuro, pero Dios nos invita a detenernos en el presente con Él. No solo a vivir el momento, sino a vivirlo conectados con Él: recordando quién es, lo que nos ha dado y cuánto nos ama. La fuerza para enfrentar el mañana nace de esa conexión de hoy. Ese es el hacha afilada. El leñador no necesitaba trabajar más horas. Necesitaba detenerse un momento para afilar. Y nosotros no necesitamos llenar más la agenda. Necesitamos detenernos ante Dios.",
+      "texto_pantalla": "La fuerza para el mañana nace de tu conexión con Dios hoy",
+      "visual": {"query": "person sitting quiet lake morning"}
+    },
+    {
+      "id": "sabado",
+      "capitulo": "El sábado: donde Dios afila tu hacha",
+      "texto": "Y Dios mismo nos regaló ese momento desde la creación. Génesis capítulo dos, versículos dos y tres, dice que Dios terminó su obra, reposó el séptimo día, y lo bendijo y lo santificó. El sábado es el taller donde Dios afila nuestra hacha. Es una pausa semanal para dejar de producir y simplemente estar con Él. Pero el sábado no es solo un día aislado. Es una escuela. Cada semana nos entrena para algo que luego llevamos a todos los días: el hábito de detenernos, enfocarnos y volver a poner a Dios en el centro. Quien aprende a descansar en Dios un día entero, aprende también a buscarlo en los minutos de cada día.",
+      "texto_pantalla": "El sábado: la pausa que afila tu vida",
+      "referencia": "Génesis 2:2-3",
+      "visual": {"query": "sunset peaceful nature rest"}
+    },
+    {
+      "id": "habito",
+      "capitulo": "Formar el hábito",
+      "texto": "Ahora, cambiar no es inmediato. Un estudio de la University College de Londres, publicado en dos mil diez, encontró que formar un nuevo hábito tomó en promedio sesenta y seis días, y en algunas personas hasta unos ocho meses. Pero hay una buena noticia en ese mismo estudio: fallar un día no arruinó el proceso. Si un día no lograste orar temprano, no te rindas. Vuelve mañana. La gracia de Dios también se nota en los hábitos. Y Jesús nos dio el orden correcto en Mateo capítulo seis, versículo treinta y tres: Mas buscad primeramente el reino de Dios y su justicia, y todas estas cosas os serán añadidas. Primero, saber qué importa: Dios y su reino. Segundo, practicar el descanso del sábado y la pausa diaria. Cuando unes esas dos cosas, nace un nuevo patrón de vida.",
+      "texto_pantalla": "66 días en promedio. Fallar un día no arruina el proceso.",
+      "referencia": "Mateo 6:33",
+      "visual": {"query": "calendar notebook morning coffee"}
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Tu compromiso de hoy",
+      "texto": "Hagámoslo práctico. Esta semana, prepárate para el sábado desde el miércoles: deja listas las tareas, la ropa, la comida, para que el sábado no te encuentre corriendo. Pon límites claros: el celular, el trabajo y las preocupaciones esperan. Cuida tus pensamientos durante esas horas santas. Y elige actividades que te acerquen a Dios y a tu familia: la iglesia, la naturaleza, ayudar a alguien. Además, cada día de la semana, regálale a Dios una pausa breve, aunque sean cinco minutos, para afilar tu hacha. El compromiso de esta noche es este: con la ayuda de Dios, elijo guardar el sábado, prepararme para él durante la semana, respetar sus límites, cuidar mis pensamientos y participar en actividades apropiadas. Si lo aceptas, escribe en los comentarios: hacha afilada.",
+      "texto_pantalla": "Compromiso: guardar y preparar el sábado",
+      "visual": {"query": "family walk nature sunset"}
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Reflexión y oración",
+      "texto": "Te dejo tres preguntas para meditar. Primera: ¿confío en que Dios está presente en mi vida diaria? Segunda: ¿puedo silenciar mis problemas por un momento y centrarme en quién es Dios? Tercera: ¿cómo voy a organizar los próximos meses para crear el hábito de detenerme ante Él? La Biblia dice en Isaías capítulo cincuenta y seis, versículo dos: Bienaventurado el hombre que hace esto, el hijo del hombre que lo abraza: que guarda el sábado para no profanarlo, y que guarda su mano de hacer lo malo. Oremos. Señor, perdóname por las veces que dije no tengo tiempo para ti. Tú eres el Dueño de cada minuto. Enséñame a detenerme, a descansar en ti y a vivir cada momento en tu presencia. Afila mi vida para tu servicio. En el nombre de Jesús, amén. Mañana a las seis de la tarde, la Noche seis: los fundamentos para practicar el diezmo. Suscríbete y comparte este mensaje con alguien que siempre está ocupado. Dios te bendiga.",
+      "texto_pantalla": "Mañana · 6:00 p. m. · Noche 6",
+      "referencia": "Isaías 56:2",
+      "visual": {"query": "starry night sky peaceful"}
+    }
+  ]
+}

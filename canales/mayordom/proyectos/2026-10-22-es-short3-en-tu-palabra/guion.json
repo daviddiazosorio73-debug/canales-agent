@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-22",
+  "tema": "Cuando el diezmo NO tiene lógica 🎣",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«En tu palabra echaré ",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Cuando el diezmo NO tiene lógica 🎣 #shorts",
+    "descripcion": "Mi sueldo no alcanza. ¿Cómo voy a diezmar si ya me falta? (Lucas 5:5) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-23T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Mi sueldo no alcanza. ¿Cómo voy a diezmar si ya me falta?",
+      "texto_pantalla": "«En tu palabra echaré la red»",
+      "visual": {
+        "query": "fishing boat night lake"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pedro pensó lo mismo. Toda la noche pescando y nada. Jesús le dijo: echa la red. Y Pedro respondió: Maestro, toda la noche hemos estado trabajando, y nada hemos pescado; mas en tu palabra echaré la red. Y la red se rompía de tantos peces. El diezmo a veces no tiene lógica. Pero tiene una promesa. ¿Te atreves a echar la red? El sermón de esta noche ya está en el canal.",
+      "texto_pantalla": "«En tu palabra echaré la red»",
+      "referencia": "Lucas 5:5",
+      "visual": {
+        "query": "fishing net full fish"
+      }
+    }
+  ]
+}

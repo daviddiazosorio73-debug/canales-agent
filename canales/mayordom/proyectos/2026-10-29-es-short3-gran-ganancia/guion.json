@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "La verdadera riqueza según Pablo 💎",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Gran ganancia es la p",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La verdadera riqueza según Pablo 💎 #shorts",
+    "descripcion": "¿Cuánto dinero necesitas para ser feliz? (1 Timoteo 6:6) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuánto dinero necesitas para ser feliz?",
+      "texto_pantalla": "«Gran ganancia es la piedad»",
+      "visual": {
+        "query": "simple bread table candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo responde en primera de Timoteo seis: Pero gran ganancia es la piedad acompañada de contentamiento; porque nada hemos traído a este mundo, y sin duda nada podremos sacar. Y advierte: raíz de todos los males es el amor al dinero. No el dinero. El amor al dinero. La verdadera riqueza es tener a Dios y estar en paz con lo que Él te da.",
+      "texto_pantalla": "«Gran ganancia es la piedad»",
+      "referencia": "1 Timoteo 6:6",
+      "visual": {
+        "query": "peaceful person sunset"
+      }
+    }
+  ]
+}

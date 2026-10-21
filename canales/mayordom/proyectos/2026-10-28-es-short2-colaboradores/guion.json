@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-28",
+  "tema": "No eres empleado de Dios. Eres esto 👇",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Colaboradores de Dios",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "No eres empleado de Dios. Eres esto 👇 #shorts",
+    "descripcion": "¿Te sientes como un empleado de Dios, que solo cumple órdenes? (1 Corintios 3:9) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-28T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Te sientes como un empleado de Dios, que solo cumple órdenes?",
+      "texto_pantalla": "«Colaboradores de Dios»",
+      "visual": {
+        "query": "team working together"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo dice en primera de Corintios tres, versículo nueve: Porque nosotros somos colaboradores de Dios. Colaboradores. Los que trabajan junto con Él, en la obra más importante del universo. Tu diezmo, tu ofrenda, tu tiempo y tus talentos no son impuestos. Son tu participación en la misión. Y eso es un honor, no una carga.",
+      "texto_pantalla": "«Colaboradores de Dios»",
+      "referencia": "1 Corintios 3:9",
+      "visual": {
+        "query": "handshake partnership"
+      }
+    }
+  ]
+}

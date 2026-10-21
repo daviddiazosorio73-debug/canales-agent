@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-22",
+  "tema": "¿Por qué EXACTAMENTE el 10%? #diezmo",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Por qué el 10 %?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Por qué EXACTAMENTE el 10%? #diezmo #shorts",
+    "descripcion": "¿Por qué el diezmo es exactamente el diez por ciento, y no lo que yo quiera dar? (Malaquías 3:10) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-22T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Por qué el diezmo es exactamente el diez por ciento, y no lo que yo quiera dar?",
+      "texto_pantalla": "¿Por qué el 10 %?",
+      "visual": {
+        "query": "calculator numbers notebook"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Porque Dios es exacto. Siete días de la creación, diez mandamientos, doce tribus, doce apóstoles. Si tu jefe te pagara menos de lo acordado, te molestarías. Dios eligió una medida precisa para que nadie tuviera dudas. Malaquías tres, versículo diez, dice: Traed todos los diezmos al alfolí. Todos. No casi todos. Y luego viene la promesa: probadme ahora en esto. Sermón completo hoy a las seis de la tarde.",
+      "texto_pantalla": "¿Por qué el 10 %?",
+      "referencia": "Malaquías 3:10",
+      "visual": {
+        "query": "ancient temple light"
+      }
+    }
+  ]
+}

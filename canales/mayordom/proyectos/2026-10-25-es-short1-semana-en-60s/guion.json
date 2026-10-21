@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-25",
+  "tema": "La Semana de Mayordomía en 60 segundos ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "8 noches en 60 segundo",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La Semana de Mayordomía en 60 segundos ⏱️ #shorts",
+    "descripcion": "Ocho noches. Ocho temas. Una sola idea. Aquí va en un minuto. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-25T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Ocho noches. Ocho temas. Una sola idea. Aquí va en un minuto.",
+      "texto_pantalla": "8 noches en 60 segundos",
+      "visual": {
+        "query": "calendar week planner"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Uno: ser discípulo tiene un precio. Dos: ama a las personas y usa las cosas. Tres: tu cuerpo es templo de Dios. Cuatro: tus talentos y dones son herramientas para la misión. Cinco: el sábado afila tu hacha. Seis: Dios es el Dueño, por eso diezmamos. Siete: los macedonios dieron en su pobreza. Y ocho: busca primero el reino de Dios. Una sola idea: todo por amor a Él. Todos los sermones están en el canal.",
+      "texto_pantalla": "8 noches en 60 segundos",
+      "visual": {
+        "query": "church light window"
+      }
+    }
+  ]
+}

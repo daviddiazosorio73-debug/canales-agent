@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-28",
+  "tema": "La respuesta que Dios está esperando de ti",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Heme aquí, envíame a ",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La respuesta que Dios está esperando de ti #shorts",
+    "descripcion": "Dios hizo una pregunta hace casi tres mil años. Y todavía espera respuestas. (Isaías 6:8) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dios hizo una pregunta hace casi tres mil años. Y todavía espera respuestas.",
+      "texto_pantalla": "«Heme aquí, envíame a mí»",
+      "visual": {
+        "query": "person mountain arms sunrise"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Isaías seis, versículo ocho: ¿A quién enviaré, y quién irá por nosotros? Y Isaías respondió: Heme aquí, envíame a mí. Hoy Dios te pregunta lo mismo. Quizá no para ir a otro país, sino a tu vecino, a tu familia, a tu iglesia. ¿Dónde quieres servir? Escribe heme aquí en los comentarios y cuéntanos.",
+      "texto_pantalla": "«Heme aquí, envíame a mí»",
+      "referencia": "Isaías 6:8",
+      "visual": {
+        "query": "road journey horizon"
+      }
+    }
+  ]
+}

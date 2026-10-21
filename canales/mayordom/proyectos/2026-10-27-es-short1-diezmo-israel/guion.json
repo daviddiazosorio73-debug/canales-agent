@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-27",
+  "tema": "¿El diezmo era SOLO para Israel? 🤔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿El diezmo era solo pa",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿El diezmo era SOLO para Israel? 🤔 #shorts",
+    "descripcion": "En redes se repite mucho: el diezmo era de la ley de Moisés y ya no aplica a los cristianos. ¿Es verdad? \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-27T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En redes se repite mucho: el diezmo era de la ley de Moisés y ya no aplica a los cristianos. ¿Es verdad?",
+      "texto_pantalla": "¿El diezmo era solo para Israel?",
+      "visual": {
+        "query": "smartphone social media"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hay algo correcto en ese argumento: el sistema del templo terminó en la cruz y Dios quiere que demos por amor. Pero hay datos que muchos no mencionan. Abraham y Jacob diezmaron siglos antes de Moisés. Jesús habló del diezmo. Y Pablo aplicó el modelo del templo al sostén de los predicadores. Hoy a las seis de la tarde lo analizamos con la Biblia abierta.",
+      "texto_pantalla": "¿El diezmo era solo para Israel?",
+      "visual": {
+        "query": "open bible study desk"
+      }
+    }
+  ]
+}

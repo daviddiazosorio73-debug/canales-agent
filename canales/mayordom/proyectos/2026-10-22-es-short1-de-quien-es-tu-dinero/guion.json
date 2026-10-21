@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-22",
+  "tema": "¿De quién es REALMENTE tu dinero? 💰",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿De quién es tu dinero",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿De quién es REALMENTE tu dinero? 💰 #shorts",
+    "descripcion": "¿De quién es el dinero que tienes en tu billetera? Piénsalo bien antes de responder. (Salmo 24:1) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-22T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿De quién es el dinero que tienes en tu billetera? Piénsalo bien antes de responder.",
+      "texto_pantalla": "¿De quién es tu dinero?",
+      "visual": {
+        "query": "wallet money hands"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La Biblia dice en el Salmo veinticuatro: De Jehová es la tierra y su plenitud; el mundo, y los que en él habitan. No solo el oro y la plata son de Dios. Tú también eres de Él. Por eso el diezmo no es Dios pidiendo algo tuyo. Es tú reconociendo que todo es suyo. Hoy a las seis de la tarde, la Noche seis de la Semana de Mayordomía: los fundamentos del diezmo.",
+      "texto_pantalla": "¿De quién es tu dinero?",
+      "referencia": "Salmo 24:1",
+      "visual": {
+        "query": "earth planet sunrise"
+      }
+    }
+  ]
+}

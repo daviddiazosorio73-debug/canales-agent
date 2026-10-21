@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-27",
+  "tema": "Abraham diezmó 430 años ANTES de la ley",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Antes de Moisés",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Abraham diezmó 430 años ANTES de la ley #shorts",
+    "descripcion": "Si el diezmo nació con la ley de Moisés, ¿cómo explicas esto? (Génesis 14:20) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-27T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si el diezmo nació con la ley de Moisés, ¿cómo explicas esto?",
+      "texto_pantalla": "Antes de Moisés",
+      "visual": {
+        "query": "desert tent ancient"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Génesis catorce, Abraham le dio el diezmo de todo a Melquisedec, sacerdote del Dios Altísimo. Y en Génesis veintiocho, Jacob prometió: de todo lo que me dieres, el diezmo apartaré para ti. Eso fue mucho antes del Sinaí. La ley organizó el diezmo para Israel, pero el principio ya existía. Como el sábado, que viene desde la creación. Análisis completo hoy en el canal.",
+      "texto_pantalla": "Antes de Moisés",
+      "referencia": "Génesis 14:20",
+      "visual": {
+        "query": "stars night desert sky"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-23",
+  "tema": "Vendieron su ÚNICO buey para ofrendar 🐂",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Vendieron su único bue",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Vendieron su ÚNICO buey para ofrendar 🐂 #shorts",
+    "descripcion": "Una familia muy pobre vendió su único buey. Y el hijo mayor tuvo que tirar del arado. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-23T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Una familia muy pobre vendió su único buey. Y el hijo mayor tuvo que tirar del arado.",
+      "texto_pantalla": "Vendieron su único buey",
+      "visual": {
+        "query": "plow field farmer"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "¿Por qué? Para dar una ofrenda para construir un templo. Cuando el misionero lo supo, lloró. ¿Locura? Pablo vio algo parecido en Macedonia: iglesias en profunda pobreza que dieron más allá de sus fuerzas, con gozo. ¿Cuál era su secreto? Lo descubrimos hoy a las seis de la tarde en la Noche siete de la Semana de Mayordomía.",
+      "texto_pantalla": "Vendieron su único buey",
+      "visual": {
+        "query": "ox cattle rural field"
+      }
+    }
+  ]
+}

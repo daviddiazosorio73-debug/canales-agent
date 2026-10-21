@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-24",
+  "tema": "No confíes en tu corazón (dice la Biblia) 💔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Engañoso es el corazó",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "No confíes en tu corazón (dice la Biblia) 💔 #shorts",
+    "descripcion": "Sigue tu corazón, dicen. Pero la Biblia dice algo muy distinto. (Jeremías 17:9) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-24T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Sigue tu corazón, dicen. Pero la Biblia dice algo muy distinto.",
+      "texto_pantalla": "«Engañoso es el corazón»",
+      "visual": {
+        "query": "compass map direction"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremías diecisiete, versículo nueve: Engañoso es el corazón más que todas las cosas, y perverso; ¿quién lo conocerá? Por eso, cuando llega una crisis, muchos empeoran las cosas intentando arreglarlas a su manera. Jesús nos dio otra brújula: buscar primero el reino de Dios. Hoy, la noche final de la Semana de Mayordomía, a las seis de la tarde.",
+      "texto_pantalla": "«Engañoso es el corazón»",
+      "referencia": "Jeremías 17:9",
+      "visual": {
+        "query": "storm clouds dark sea"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-25",
+  "tema": "El hábito que cambia todo (5 minutos) 🙏",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Los primeros 5 minutos",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El hábito que cambia todo (5 minutos) 🙏 #shorts",
+    "descripcion": "Si solo pudieras cambiar un hábito después de esta semana, que sea este. (Mateo 6:33) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-25T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si solo pudieras cambiar un hábito después de esta semana, que sea este.",
+      "texto_pantalla": "Los primeros 5 minutos",
+      "visual": {
+        "query": "sunrise window prayer"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Dale a Dios los primeros cinco minutos de tu día. Antes del celular. Antes de las noticias. Antes de las preocupaciones. Ora, lee un versículo y entrégale tu día. Quien le da a Dios lo primero de su día aprende a darle lo primero de su tiempo, de su salud, de sus talentos y de sus bienes. La mayordomía empieza ahí. Escribe Dios primero si te unes al reto.",
+      "texto_pantalla": "Los primeros 5 minutos",
+      "referencia": "Mateo 6:33",
+      "visual": {
+        "query": "open bible coffee morning"
+      }
+    }
+  ]
+}

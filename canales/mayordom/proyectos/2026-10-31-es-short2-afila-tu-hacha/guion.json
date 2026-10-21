@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "El leñador que no tenía tiempo de afilar 🪓",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Cuándo afilaste tu ha",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El leñador que no tenía tiempo de afilar 🪓 #shorts",
+    "descripcion": "Un leñador cortaba cada día menos árboles, aunque trabajaba más horas. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un leñador cortaba cada día menos árboles, aunque trabajaba más horas.",
+      "texto_pantalla": "¿Cuándo afilaste tu hacha?",
+      "visual": {
+        "query": "axe tree forest"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Cuando su jefe le preguntó cuándo había afilado su hacha, respondió: no he tenido tiempo, estoy muy ocupado cortando árboles. Así vivimos muchos. El sábado es el regalo de Dios para detenernos y afilar el hacha: descansar, adorar y estar con nuestra familia. Feliz sábado.",
+      "texto_pantalla": "¿Cuándo afilaste tu hacha?",
+      "visual": {
+        "query": "sunset peaceful nature"
+      }
+    }
+  ]
+}

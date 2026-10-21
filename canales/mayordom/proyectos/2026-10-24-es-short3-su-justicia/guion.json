@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-24",
+  "tema": "No eres lo suficientemente bueno (y está bien) ✝️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Su justicia, no la mía",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "No eres lo suficientemente bueno (y está bien) ✝️ #shorts",
+    "descripcion": "Si sientes que nunca eres lo suficientemente bueno para Dios, tienes razón. (Romanos 3:10) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-25T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si sientes que nunca eres lo suficientemente bueno para Dios, tienes razón.",
+      "texto_pantalla": "Su justicia, no la mía",
+      "visual": {
+        "query": "cross sunrise hill"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Romanos tres, versículo diez: No hay justo, ni aun uno. Nadie llega al cielo por sus méritos. Pero la buena noticia es que Jesús nos ofrece su justicia como un regalo, por la fe. No tienes que ganártela. Solo aceptarla. Y primera de Juan uno, versículo nueve, promete que si confesamos nuestros pecados, Él es fiel y justo para perdonarnos. Hoy puedes empezar de nuevo.",
+      "texto_pantalla": "Su justicia, no la mía",
+      "referencia": "Romanos 3:10",
+      "visual": {
+        "query": "light rays clouds hope"
+      }
+    }
+  ]
+}

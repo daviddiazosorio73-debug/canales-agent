@@ -1,0 +1,124 @@
+{
+  "lang": "es",
+  "tipo": "sermon",
+  "noche": 3,
+  "fecha": "2026-10-19",
+  "serie": "Semana de Mayordomía 2026 · Todo por amor a Él",
+  "tema": "El valor invaluable de la salud",
+  "version_biblica": "RVR1960 según el Sermonario oficial 2026",
+  "fuente_base": "Sermonario Semana de Mayordomía 2026, Día 3 (autor: Zeno Charles-Marcel, Ministerio de Salud, AG). Adaptación original.",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Tu salud vale",
+    "linea2": "MÁS QUE ORO",
+    "etiqueta": "SEMANA DE MAYORDOMÍA · NOCHE 3",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Ninguna riqueza compra la salud: tu cuerpo, templo de Dios | Semana de Mayordomía · Noche 3",
+    "descripcion": "Nos venden riqueza, lujo y éxito… pero ninguna cuenta bancaria devuelve la salud perdida. Noche 3 de la Semana de Mayordomía 2026 «Todo por amor a Él».\n\nEn este sermón: el verdadero valor de la salud, tu cuerpo como templo del Espíritu Santo, la salud mental y las relaciones, y pasos prácticos para administrar tu salud: sueño, alimentación, ejercicio, agua, manejo del estrés, prevención y propósito.\n\n📖 1 Corintios 6:19-20 · 1 Corintios 10:31 · Eclesiastés 4:9-10 · Proverbios 17:22 · Filipenses 4:6-7 · Jeremías 17:14\n\n🙏 Compromiso: establecer un nuevo hábito saludable para servir mejor a Dios y a los demás.\n💬 ¿Qué hábito saludable empiezas esta semana?\n\nContenido espiritual y educativo; no reemplaza la consulta con un profesional de la salud. Basado en el Sermonario oficial de la Semana de Mayordomía 2026. Narración con voz sintética.",
+    "tags": [
+      "mayordomía de la salud",
+      "semana de mayordomía 2026",
+      "todo por amor a él",
+      "cuerpo templo del espíritu santo",
+      "vida saludable",
+      "salud cristiana",
+      "sermón adventista",
+      "mayordomía cristiana",
+      "hábitos saludables",
+      "mayordomía bíblica"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "TodoPorAmorAÉl",
+      "VidaSaludable"
+    ],
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "Todos los días te prometen riqueza. Compra este curso, sigue a este millonario, renuncia a tu trabajo y vive en la playa. Redes sociales llenas de casas de lujo y autos caros. Incluso en algunas iglesias se predica un evangelio de la prosperidad. Pero hay algo que ningún millonario puede comprar cuando lo pierde. Esta noche hablamos de un tesoro que vale más que el oro, y que muchas veces solo valoramos cuando ya se está yendo: tu salud.",
+      "texto_pantalla": "Hay algo que ningún dinero puede comprar",
+      "visual": {
+        "query": "luxury car mansion money"
+      }
+    },
+    {
+      "id": "valor",
+      "capitulo": "El verdadero valor de la salud",
+      "texto": "La salud es la base de una vida plena. Sin ella, los logros y el dinero pierden sentido. Ningún avance médico ni ninguna fortuna puede devolver por completo el tiempo perdido o la vitalidad de un cuerpo que se descuidó durante años. Con salud puedes perseguir tus sueños, cuidar a tu familia, servir a tu comunidad y avanzar el reino de Dios. Por eso la mayordomía cristiana no es solo administrar dinero. Es administrar la vida entera en nombre de su verdadero Dueño. Y eso incluye tu cuerpo, tu mente, tus relaciones y el planeta que Dios nos confió.",
+      "texto_pantalla": "La salud es la base de todo lo demás",
+      "visual": {
+        "query": "person running sunrise park"
+      }
+    },
+    {
+      "id": "templo",
+      "capitulo": "Tu cuerpo, templo de Dios",
+      "texto": "El apóstol Pablo lo dice con claridad en primera de Corintios capítulo seis: tu cuerpo es templo del Espíritu Santo, que está en ti; no eres tuyo, porque fuiste comprado por precio. Por eso nos llama a glorificar a Dios en nuestro cuerpo. Fíjate en esas palabras: no eres tuyo. Tu cuerpo no es una propiedad para usar sin cuidado. Es un templo prestado, y Dios habita en él. Cuidarlo no es vanidad. Es adoración. Y en primera de Corintios diez, versículo treinta y uno, Pablo amplía la idea: Si, pues, coméis o bebéis, o hacéis otra cosa, hacedlo todo para la gloria de Dios.",
+      "texto_pantalla": "No eres tuyo: eres templo de Dios",
+      "referencia": "1 Corintios 6:19-20",
+      "visual": {
+        "query": "temple light columns sunrise"
+      }
+    },
+    {
+      "id": "mente",
+      "capitulo": "Mente y relaciones",
+      "texto": "La salud no es solo física. Hoy el estrés, la ansiedad y la depresión afectan a personas de toda condición económica, ricas o pobres. Ser buen mayordomo también es cuidar tu mente: descansar, buscar ayuda cuando la necesitas y crear ambientes donde se pueda respirar. Y también es cuidar tus relaciones, porque la persecución del dinero muchas veces nos deja solos. Eclesiastés capítulo cuatro dice: Mejores son dos que uno, porque si cayeren, el uno levantará a su compañero. Y Proverbios diecisiete, versículo veintidós, lo resume así: El corazón alegre constituye buen remedio; mas el espíritu triste seca los huesos.",
+      "texto_pantalla": "El corazón alegre constituye buen remedio",
+      "referencia": "Proverbios 17:22",
+      "visual": {
+        "query": "friends walking nature talking"
+      }
+    },
+    {
+      "id": "practica1",
+      "capitulo": "Pasos prácticos: el cuerpo",
+      "texto": "Hagámoslo práctico. Primero, el descanso: la mayoría de los adultos necesita entre siete y nueve horas de sueño. Crea una rutina tranquila antes de dormir y aleja las pantallas en la última hora. Segundo, la alimentación: prefiere alimentos integrales y naturales, frutas, verduras, legumbres y cereales integrales, y reduce los procesados, el azúcar y las grasas dañinas. Tercero, el movimiento: caminar, hacer ejercicios de fuerza y de flexibilidad. Busca una actividad que disfrutes, porque es la que vas a mantener. Cuarto, el agua: bebe suficiente durante todo el día. Y quinto, aléjate del tabaco, del alcohol y de las drogas. No son simples hábitos. Son decisiones de mayordomía.",
+      "texto_pantalla": "Descanso · Alimentación · Movimiento · Agua",
+      "visual": {
+        "query": "healthy food vegetables fruit table"
+      }
+    },
+    {
+      "id": "practica2",
+      "capitulo": "Pasos prácticos: mente y espíritu",
+      "texto": "Ahora la mente y el espíritu. Dedica tiempo cada día a la oración y a la Palabra. Filipenses capítulo cuatro dice: Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración y ruego, con acción de gracias. Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús. Pasa tiempo en la naturaleza. Hazte chequeos médicos preventivos y consulta a profesionales. Rodéate de personas que te animen a vivir sano. Sirve a otros con tus talentos. Y evita los extremos y las obsesiones: la meta es el equilibrio. Estas prácticas no te salvan para la eternidad, pero sí pueden librarte de mucho dolor y sufrimiento innecesario.",
+      "texto_pantalla": "La paz de Dios guarda tu mente",
+      "referencia": "Filipenses 4:6-7",
+      "visual": {
+        "query": "forest path peaceful light"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Tu compromiso de hoy",
+      "texto": "No intentes cambiarlo todo mañana. Elige un solo hábito. Puede ser acostarte media hora antes. Caminar veinte minutos al día. Cambiar la gaseosa por agua. Comer una fruta más. Apagar el celular una hora antes de dormir. Uno solo, pero sostenido. El compromiso de esta noche es este: con la ayuda de Dios, elijo establecer un nuevo hábito saludable para mejorar mi condición y servir mejor a Dios y a los demás. Escribe en los comentarios cuál será tu hábito, y que otros te ayuden a cumplirlo. Y recuerda: este mensaje es espiritual y educativo. Si tienes una condición de salud, consulta con tu médico antes de hacer cambios importantes.",
+      "texto_pantalla": "Elige UN hábito y sostenlo",
+      "visual": {
+        "query": "glass of water morning window"
+      }
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Reflexión y oración",
+      "texto": "Tres preguntas para meditar. Primera: ¿mis acciones diarias reflejan las prioridades que digo tener? Segunda: en mi experiencia, ¿es cierto que la salud es la base de todo lo demás? Tercera: ¿cómo me ayudaría estar más sano a servir mejor a Dios y a los demás? Jeremías capítulo diecisiete, versículo catorce, dice: Sáname, oh Jehová, y seré sano; sálvame, y seré salvo; porque tú eres mi alabanza. Oremos. Señor, gracias por el regalo de la vida y de este cuerpo. Perdóname por descuidarlo. Ayúdame a cuidar tu templo, a descansar en ti y a usar mis fuerzas para servirte. Amén. Suscríbete y comparte este mensaje con alguien que necesita cuidarse.",
+      "texto_pantalla": "«Sáname, oh Jehová, y seré sano»",
+      "referencia": "Jeremías 17:14",
+      "visual": {
+        "query": "sunrise mountain peaceful"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-25",
+  "tema": "Mañana empieza algo nuevo en el canal 📖",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Nueva serie desde maña",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Mañana empieza algo nuevo en el canal 📖 #shorts",
+    "descripcion": "¿Sabías que existe un libro entero sobre cómo administrar lo que Dios te dio? \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-26T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Sabías que existe un libro entero sobre cómo administrar lo que Dios te dio?",
+      "texto_pantalla": "Nueva serie desde mañana",
+      "visual": {
+        "query": "old book open table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Se llama Consejos sobre mayordomía cristiana, de Elena G. de White. Sesenta y ocho capítulos sobre generosidad, diezmo, ofrendas, deudas, ahorro y la recompensa del mayordomo fiel. Desde mañana lo estudiamos capítulo por capítulo: lunes, miércoles y viernes, un sermón. Martes y jueves, un análisis de lo que se dice en redes. Activa la campana para no perderte nada.",
+      "texto_pantalla": "Nueva serie desde mañana",
+      "visual": {
+        "query": "bookshelf library warm"
+      }
+    }
+  ]
+}

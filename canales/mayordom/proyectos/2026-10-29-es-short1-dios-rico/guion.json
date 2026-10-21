@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "¿Dios quiere que seas RICO? 💸",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Dios promete riqueza?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Dios quiere que seas RICO? 💸 #shorts",
+    "descripcion": "Siembra una semilla y Dios te devolverá el ciento por uno. ¿Lo has escuchado? \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Siembra una semilla y Dios te devolverá el ciento por uno. ¿Lo has escuchado?",
+      "texto_pantalla": "¿Dios promete riqueza?",
+      "visual": {
+        "query": "money luxury car"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Se llama evangelio de la prosperidad. Dice que si tienes fe serás rico y sano, y que si eres pobre te falta fe. Tiene algo de verdad: Dios bendice al fiel. Pero también tiene distorsiones peligrosas. Si pobreza fuera falta de fe, ¿qué diríamos de Pablo, o del mismo Jesús? Hoy a las seis lo analizamos con la Biblia.",
+      "texto_pantalla": "¿Dios promete riqueza?",
+      "visual": {
+        "query": "seed planting soil"
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "Construyó graneros más grandes… y esa noche murió",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Necio, esta noche…»",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Construyó graneros más grandes… y esa noche murió #shorts",
+    "descripcion": "Un hombre rico tuvo una cosecha enorme. Su plan: graneros más grandes y una vida de descanso. (Lucas 12:20) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un hombre rico tuvo una cosecha enorme. Su plan: graneros más grandes y una vida de descanso.",
+      "texto_pantalla": "«Necio, esta noche…»",
+      "visual": {
+        "query": "barn grain storage"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será? Jesús concluyó: así es el que hace para sí tesoro, y no es rico para con Dios. Ahorrar no es pecado. El problema es cuando lo que tienes se convierte en tu seguridad, en lugar de Dios.",
+      "texto_pantalla": "«Necio, esta noche…»",
+      "referencia": "Lucas 12:20",
+      "visual": {
+        "query": "night sky stars field"
+      }
+    }
+  ]
+}

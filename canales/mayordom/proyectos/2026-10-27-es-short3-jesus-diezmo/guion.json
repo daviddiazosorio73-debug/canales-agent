@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-27",
+  "tema": "Lo que Jesús dijo del diezmo (casi nadie lo cita)",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Sin dejar de hacer aq",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo que Jesús dijo del diezmo (casi nadie lo cita) #shorts",
+    "descripcion": "¿Jesús alguna vez habló del diezmo? Sí. Y fue muy claro. (Mateo 23:23) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-28T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Jesús alguna vez habló del diezmo? Sí. Y fue muy claro.",
+      "texto_pantalla": "«Sin dejar de hacer aquello»",
+      "visual": {
+        "query": "herbs mint spices"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Mateo veintitrés, versículo veintitrés, reprendió a los fariseos porque diezmaban hasta la menta, pero descuidaban la justicia, la misericordia y la fe. Y añadió: Esto era necesario hacer, sin dejar de hacer aquello. Jesús no eliminó el diezmo. Eliminó el diezmo sin corazón. Fidelidad y amor, juntos. El análisis completo ya está en el canal.",
+      "texto_pantalla": "«Sin dejar de hacer aquello»",
+      "referencia": "Mateo 23:23",
+      "visual": {
+        "query": "jerusalem old city stone"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "¿Ganar siempre o dar? Tu respuesta lo dice todo",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Ganar siempre o dar?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Ganar siempre o dar? Tu respuesta lo dice todo #shorts",
+    "descripcion": "Compra barato, vende caro, acumula, gana siempre. Así piensa el mundo. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Compra barato, vende caro, acumula, gana siempre. Así piensa el mundo.",
+      "texto_pantalla": "¿Ganar siempre o dar?",
+      "visual": {
+        "query": "stock market screen"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pero el cielo funciona con otro principio: dar. Dios da la vida, el aire, la lluvia y a su propio Hijo. Y tú, ¿con cuál principio tomas tus decisiones de dinero? Revisa tus gastos del último mes. Ellos te dirán la respuesta. Hoy a las seis cerramos el capítulo uno: ganar siempre o dar siempre.",
+      "texto_pantalla": "¿Ganar siempre o dar?",
+      "visual": {
+        "query": "sun rays nature giving"
+      }
+    }
+  ]
+}

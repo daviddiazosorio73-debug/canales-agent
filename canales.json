@@ -1,0 +1,39 @@
+{
+  "_ayuda": "Un canal por entrada. 'secreto' = nombre del secreto de GitHub con el refresh token de ese canal. 'tts' = piper (offline) o edge (Microsoft, gratis). 'voz' = voz de edge-tts o carpeta de modelo piper.",
+  "mayordom": {
+    "nombre": "MayorDom · Mayordomía Bíblica",
+    "youtube_id": "UCxGgMCMbyiCvRo_T-haI_Ug",
+    "secreto": "REFRESH_TOKEN_MAYORDOM",
+    "tts": "piper",
+    "voz": "vits-piper-es_MX-claude-high",
+    "skill": "mayordom-youtube",
+    "activo": true
+  },
+  "escuela-sabatica-es": {
+    "nombre": "Maestro de Escuela Sabática (ES)",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_ES_SABATICA",
+    "tts": "edge",
+    "voz": "es-MX-JorgeNeural",
+    "skill": "youtube-agent-skill",
+    "activo": false
+  },
+  "escola-sabatina-pt": {
+    "nombre": "Escola Sabatina (PT)",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_PT_SABATINA",
+    "tts": "edge",
+    "voz": "pt-BR-AntonioNeural",
+    "skill": "youtube-agent-skill",
+    "activo": false
+  },
+  "top10-redes": {
+    "nombre": "Top 10 Redes Sociales",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_TOP10",
+    "tts": "edge",
+    "voz": "es-MX-JorgeNeural",
+    "skill": "multiredes-agents-skill",
+    "activo": false
+  }
+}

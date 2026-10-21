@@ -1,0 +1,6 @@
+voces/
+**/audio/
+**/imagenes/
+**/tmp/
+**/salida/
+__pycache__/

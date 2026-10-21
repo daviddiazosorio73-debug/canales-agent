@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-23",
+  "tema": "Lo PRIMERO, no lo que sobra ✋",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Lo primero, no lo que ",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo PRIMERO, no lo que sobra ✋ #shorts",
+    "descripcion": "¿Le das a Dios lo primero… o lo que te sobra a fin de mes? (Proverbios 3:9) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-24T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Le das a Dios lo primero… o lo que te sobra a fin de mes?",
+      "texto_pantalla": "Lo primero, no lo que sobra",
+      "visual": {
+        "query": "fruit harvest basket"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Proverbios tres, versículo nueve, dice: Honra a Jehová con tus bienes, y con las primicias de todos tus frutos. Primicias significa lo primero. Antes del supermercado, antes de las cuentas, antes de los gustos. Cuando Dios recibe lo primero, todo lo demás se ordena. Y el siguiente versículo promete: serán llenos tus graneros con abundancia. Escribe Dios primero si aceptas el reto.",
+      "texto_pantalla": "Lo primero, no lo que sobra",
+      "referencia": "Proverbios 3:9",
+      "visual": {
+        "query": "granary grain abundance"
+      }
+    }
+  ]
+}

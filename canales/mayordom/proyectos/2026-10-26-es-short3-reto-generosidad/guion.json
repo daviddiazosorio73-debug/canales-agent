@@ -1,0 +1,57 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-26",
+  "tema": "Reto de 7 días: haz esto cada día ✅",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Reto: 7 días de genero",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Reto de 7 días: haz esto cada día ✅ #shorts",
+    "descripcion": "Te propongo un reto de siete días. Es sencillo, pero puede cambiar tu semana. \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-27T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Te propongo un reto de siete días. Es sencillo, pero puede cambiar tu semana.",
+      "texto_pantalla": "Reto: 7 días de generosidad",
+      "visual": {
+        "query": "notebook pen journal"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Cada día, haz un acto concreto de generosidad. Llama a alguien que está solo. Ayuda a un vecino con algo que sabes hacer. Comparte comida o ropa. Da una ofrenda especial. Y cada noche, anota cómo te sentiste. Al final de la semana vas a descubrir por ti mismo la doble bendición de dar. El sermón completo ya está en el canal. ¿Aceptas el reto?",
+      "texto_pantalla": "Reto: 7 días de generosidad",
+      "visual": {
+        "query": "neighbors helping groceries"
+      }
+    }
+  ]
+}

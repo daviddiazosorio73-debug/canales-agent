@@ -1,0 +1,58 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-26",
+  "tema": "Jesús lo dijo: dar te hace más feliz 😊",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Más bienaventurado es",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Jesús lo dijo: dar te hace más feliz 😊 #shorts",
+    "descripcion": "Jesús no dijo que dar es más correcto. Dijo algo mucho más interesante. (Hechos 20:35) \n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-26T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús no dijo que dar es más correcto. Dijo algo mucho más interesante.",
+      "texto_pantalla": "«Más bienaventurado es dar»",
+      "visual": {
+        "query": "volunteer smiling helping"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hechos veinte, versículo treinta y cinco: Más bienaventurado es dar que recibir. Bienaventurado significa feliz, dichoso. Dar no es solo un deber espiritual. Es el camino a una alegría que el egoísmo nunca te va a dar. Por eso las personas más generosas suelen ser también las más felices. ¿Cuándo fue la última vez que dar te hizo feliz? Cuéntalo en los comentarios.",
+      "texto_pantalla": "«Más bienaventurado es dar»",
+      "referencia": "Hechos 20:35",
+      "visual": {
+        "query": "children laughing happy"
+      }
+    }
+  ]
+}
