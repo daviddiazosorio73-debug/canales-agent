@@ -1,0 +1,139 @@
+{
+  "lang": "es",
+  "tipo": "top10",
+  "semana": "2026-W43",
+  "voz_fundador": true,
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Susy Mouriz",
+    "linea2": "es #1",
+    "etiqueta": "SEMANA 43"
+  },
+  "seo": {
+    "titulo": "Top 10 YouTube LATAM: Susy Mouriz es #1 | Lo más visto de la semana 43",
+    "descripcion": "Top 10 de lo más fuerte de YouTube en Latinoamérica y Brasil esta semana (publicado del 18 al 24 de octubre de 2026). Primera edición de Top 10 Redes Sociales.\n\n🏆 EL CONTEO\n10. Hablando Huevadas — https://youtu.be/-FMChTHNEn8\n9. Edu o Pimentinha e Família — https://youtu.be/q7K1E3vMH8c\n8. Mamá recetas2.0 — https://youtu.be/2HuPnwclP0Q\n7. CORTES DO ALBANI (fã) — https://youtu.be/sf7sQGfq5MY\n6. Miguel PortaxD — https://youtu.be/4YsMBinEAZ8\n5. Papile — https://youtu.be/LwMqxxLbACE\n4. EdaEsvila — https://youtu.be/WvI8hOE1kCY\n3. Galletau.u — https://youtu.be/DfBSkxN6msE\n2. Los PQliares — https://youtu.be/WoblcgRy79I\n1. Susy Mouriz — https://youtu.be/XQOU_I4F9lE\n\n📊 CÓMO SE CALCULA\nVideos de YouTube publicados en la semana, en español o portugués, de creadores de Latinoamérica. Puntaje = vistas (30 %), comentarios (25 %), interacción (25 %), velocidad (10 %) y compartidos (10 %), más el alcance frente a toda la región. Un video por creador. Sin música ni noticias, que tienen sus propias categorías. Cifras medidas el domingo 25 de octubre de 2026 con la API oficial de YouTube.\n\nApoya a los creadores: mira y comenta sus videos originales.\n💬 ¿Quién debió estar en el Top 10? Déjalo en los comentarios.\n#Top10RedesSociales #Virales #YouTubeLATAM\n\nNarración con la voz del autor recreada con IA.",
+    "tags": [
+      "top 10 redes sociales",
+      "top 10 youtube",
+      "virales de la semana",
+      "lo más visto de youtube",
+      "youtube latam",
+      "videos virales",
+      "tendencias",
+      "susy mouriz",
+      "los pqliares",
+      "shorts virales",
+      "top 10 semanal"
+    ],
+    "hashtags": [
+      "Top10RedesSociales",
+      "Virales",
+      "YouTubeLATAM"
+    ],
+    "categoria_id": "24",
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "apertura",
+      "capitulo": "Apertura",
+      "emocion": "gancho",
+      "tarjeta": {
+        "titulo": "TOP 10 REDES SOCIALES",
+        "sub": "Semana 43 · Lo más visto de YouTube en Latinoamérica"
+      },
+      "texto": "Más de quince millones de personas vieron a una chica encontrar algo muy extraño en la playa. Y ese video es apenas el número uno. Bienvenidos a la primera edición de Top 10 Redes Sociales, el conteo semanal de lo que más se vio, se comentó y se compartió en Latinoamérica y Brasil. Hoy, lo más fuerte de YouTube de esta semana. Quédate hasta el final, porque el número uno rompió todos los números."
+    },
+    {
+      "id": "reglas",
+      "capitulo": "Cómo contamos",
+      "emocion": "agil",
+      "tarjeta": {
+        "titulo": "LAS REGLAS",
+        "sub": "Publicado del 18 al 24 de octubre · Español y portugués · Datos oficiales"
+      },
+      "texto": "Primero, las reglas, para que todo sea transparente. Solo entran videos publicados entre el domingo dieciocho y el sábado veinticuatro de octubre, en español o portugués, de creadores de Latinoamérica. No solo cuentan las vistas. También los comentarios, la interacción, la velocidad con la que crecen y el alcance frente a toda la región. Un solo video por creador. La música y las noticias tienen su propia categoría. Y dejamos fuera los clips de películas resubidos, porque aquí premiamos a los creadores. Todas las cifras salen de la API oficial de YouTube, medidas este domingo veinticinco. Empecemos."
+    },
+    {
+      "id": "p10",
+      "puesto": 10,
+      "capitulo": "Puestos 10 al 4",
+      "emocion": "agil",
+      "texto": "En el puesto diez, desde Perú, Hablando Huevadas, con un episodio de su décimo tercera temporada. Más de cinco millones de vistas y más de dos mil quinientos comentarios. Y ojo: dura más de una hora y media. Es el video más largo del conteo, y aun así millones se quedaron a verlo. Eso dice mucho."
+    },
+    {
+      "id": "p09",
+      "puesto": 9,
+      "emocion": "agil",
+      "texto": "Puesto nueve, desde Brasil, Edu o Pimentinha e Família, con un video de travesuras en casa: él ensució el piso de mamá. Casi cinco millones de vistas en solo dos días. Humor familiar, corto y directo, de esos que se comparten en el grupo de la familia."
+    },
+    {
+      "id": "p08",
+      "puesto": 8,
+      "emocion": "narrativo",
+      "texto": "En el octavo lugar, desde Colombia, Mamá recetas dos punto cero, con una gelatina de pata hecha junto a otros creadores. Más de doce millones de vistas. Ojo: por vistas estaría mucho más arriba, pero su nivel de interacción fue menor que el de otros. Por eso queda octava. La cocina viral sigue más viva que nunca."
+    },
+    {
+      "id": "p07",
+      "puesto": 7,
+      "emocion": "agil",
+      "texto": "Puesto siete, para Brasil otra vez. Un canal de cortes hecho por fans del comediante Renato Albani, con un momento de stand up que pregunta si dos personas son parientes. Más de cuatro millones de vistas, y lo más interesante: es un canal pequeño, de unos ciento sesenta mil suscriptores, que esta semana jugó en las grandes ligas."
+    },
+    {
+      "id": "p06",
+      "puesto": 6,
+      "emocion": "enfasis",
+      "texto": "En el sexto lugar, desde Chile, Miguel PortaxD, con un círculo en Minecraft y su doblaje de humor. Más de seis millones de vistas, y fue el segundo que más rápido creció de todo el top diez: lo publicó el viernes y en dos días ya estaba aquí. Veinticinco segundos que funcionaron como un cohete."
+    },
+    {
+      "id": "p05",
+      "puesto": 5,
+      "emocion": "narrativo",
+      "texto": "Quinto lugar, Brasil, Papile, con una reforma radical de una casita para perro. Más de cuatro millones de vistas y la mejor tasa de interacción del top diez: más de cinco de cada cien personas que lo vieron dieron like o comentaron. Cuando el contenido conecta, la gente responde."
+    },
+    {
+      "id": "p04",
+      "puesto": 4,
+      "emocion": "agil",
+      "texto": "Y cerramos la primera parte con el puesto cuatro: EdaEsvila, con un video de Minecraft que pregunta cuál fue tu criatura favorita. Casi cinco millones de vistas y más de mil doscientos comentarios respondiendo esa pregunta. Ese es el truco: terminar con una pregunta convierte espectadores en conversación. Y ahora sí, el podio."
+    },
+    {
+      "id": "p03",
+      "puesto": 3,
+      "capitulo": "El podio",
+      "emocion": "enfasis",
+      "texto": "Medalla de bronce, desde Colombia, Galletau punto u, con la segunda parte de la broma de la serpiente, en el mundo de las motos. Más de seis millones de vistas. Y fíjate en algo: es una segunda parte. La primera dejó a la gente con ganas de más, y esta semana volvieron todos a verla. Las series cortas funcionan."
+    },
+    {
+      "id": "p02",
+      "puesto": 2,
+      "emocion": "enfasis",
+      "texto": "Medalla de plata para Los PQliares, que se animaron a probar recetas enviadas por sus seguidores, con reacciones que lo dicen todo. Casi cinco millones de vistas, pero lo que los sube al segundo lugar es la conversación: casi tres mil quinientos comentarios, el número más alto de todo el conteo. Cuando le das protagonismo a tu comunidad, tu comunidad te devuelve el favor."
+    },
+    {
+      "id": "p01",
+      "puesto": 1,
+      "capitulo": "Número 1",
+      "emocion": "gancho",
+      "texto": "Y el número uno de la semana, desde México: Susy Mouriz, con encontré squishies en la playa. Más de quince millones de vistas en apenas tres días, el video más visto y el más rápido de toda la semana, con más de quinientos mil likes. Una idea sencilla, curiosidad pura, y una creadora que sabe contar una historia en dos minutos. Felicitaciones, Susy: eres el primer número uno de Top 10 Redes Sociales."
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Cierre",
+      "emocion": "calido",
+      "tarjeta": {
+        "titulo": "¿QUIÉN FALTÓ?",
+        "sub": "Coméntalo · Nuevo conteo cada semana"
+      },
+      "texto": "Ese fue nuestro primer conteo. Ahora te toca a ti: ¿qué video crees que debió estar en este top diez? Escríbelo en los comentarios, porque lo revisamos para la próxima semana. Todos los enlaces a los videos originales están en la descripción: ve, mira y apoya a los creadores. Suscríbete y activa la campana, porque cada semana sumaremos más redes: TikTok, Instagram, Kwai y X. Nos vemos en el próximo Top 10 Redes Sociales."
+    }
+  ],
+  "tema": "Top 10 YouTube LATAM, semana 43"
+}
