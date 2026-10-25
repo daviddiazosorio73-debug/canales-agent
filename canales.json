@@ -17,8 +17,8 @@
     ]
   },
   "escuela-sabatica-es": {
-    "nombre": "Maestro de Escuela Sabática (ES)",
-    "youtube_id": "",
+    "nombre": "Maestro DD Escuela Sabática (ES)",
+    "youtube_id": "UC7rcEMLVmx0uqdFupJMwvEA",
     "secreto": "REFRESH_TOKEN_ES_SABATICA",
     "tts": "edge",
     "voz": "es-MX-JorgeNeural",
