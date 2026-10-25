@@ -134,7 +134,10 @@ def chatterbox_scene(text, mp3, align, lang):
         wavs.append(w); wavs.append(torch.zeros(1, int(_CB.sr * 0.25)))
     wav = str(mp3) + ".wav"
     ta.save(wav, torch.cat(wavs, dim=1), _CB.sr)
-    run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", "loudnorm=I=-16:TP=-1.5", "-ar", "44100",
+    estudio = ("highpass=f=80,equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.5:g=1.5,"
+               "deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=150:makeup=1.5,"
+               "loudnorm=I=-16:TP=-1.5:LRA=7")
+    run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", estudio, "-ar", "44100",
          "-c:a", "libmp3lame", "-b:a", "160k", str(mp3)])
     os.remove(wav)
     dur = duration(mp3)
