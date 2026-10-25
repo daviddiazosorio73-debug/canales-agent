@@ -1,4 +1,4 @@
-# Último reporte (2026-10-25 10:39 UTC)
+# Último reporte (2026-10-25 11:38 UTC)
 
 ## Subidos
 
@@ -8,3 +8,4 @@
 - mayordom: 2026-10-25-es-short3-nueva-serie: tts.py falló en 2026-10-25-es-short3-nueva-serie
 - mayordom: 2026-10-26-es-short1-doble-bendicion: tts.py falló en 2026-10-26-es-short1-doble-bendicion
 - mayordom: 2026-10-26-es-short2-mas-bienaventurado: tts.py falló en 2026-10-26-es-short2-mas-bienaventurado
+- mayordom: 2026-10-26-es-sermon-cap1a: tts.py falló en 2026-10-26-es-sermon-cap1a
