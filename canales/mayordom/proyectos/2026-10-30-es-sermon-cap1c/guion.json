@@ -1,25 +1,121 @@
 {
-  "lang": "es", "tipo": "sermon", "fecha": "2026-10-30",
+  "lang": "es",
+  "tipo": "sermon",
+  "fecha": "2026-10-30",
   "serie": "Consejos sobre mayordomía cristiana · Capítulo 1: Colaboradores de Dios (3/3)",
   "tema": "Ganar siempre o dar siempre: dos principios en guerra",
   "version_biblica": "RVR1960",
   "fuente_base": "Comentario original sobre Elena G. de White, Consejos sobre mayordomía cristiana, cap. 1 (ideas resumidas, sin reproducir el texto).",
-  "color_marca": [212, 168, 83], "contenido_sintetico": true,
-  "miniatura": {"linea1": "¿Ganar siempre", "linea2": "O DAR SIEMPRE?", "etiqueta": "CAPÍTULO 1 · COLABORADORES DE DIOS", "imagen": "gancho"},
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Ganar siempre",
+    "linea2": "O DAR SIEMPRE?",
+    "etiqueta": "CAPÍTULO 1 · COLABORADORES DE DIOS",
+    "imagen": "gancho"
+  },
   "seo": {
-    "titulo": "Ganar siempre o dar siempre: los dos principios que dividen al mundo | Consejos sobre Mayordomía · Cap. 1",
-    "descripcion": "El mundo vive por un principio: ganar siempre. El evangelio vive por otro: dar. Y la cruz es la prueba. Cierre del capítulo 1 de «Consejos sobre mayordomía cristiana», de Elena G. de White (parte 3 de 3).\n\nEn este sermón: el principio del mundo frente al principio del cielo, la cruz como el mayor llamado a dar, el mayordomo frente al acumulador, y un compromiso para vivir al pie de la cruz.\n\n📖 2 Corintios 8:9 · Juan 3:16 · Filipenses 2:5-7 · Lucas 12:15-21\n📚 Consejos sobre mayordomía cristiana, capítulo 1 (comentario).\n\n💬 ¿Qué principio gobierna tus decisiones con el dinero?\nNarración con voz sintética.",
-    "tags": ["consejos sobre mayordomía cristiana", "Elena G. de White", "mayordomía cristiana", "generosidad", "la cruz", "2 Corintios 8:9", "el rico insensato", "sermón adventista", "egoísmo", "mayordomía bíblica"],
-    "hashtags": ["MayordomíaBíblica", "ConsejosSobreMayordomía", "LaCruz"],
-    "privacidad": "private", "publicar_en": "2026-10-30T23:00:00Z", "lista_id": null
+    "titulo": "Ganar siempre o dar siempre: los dos principios que dividen al mundo | Mayordomía · Cap. 1",
+    "descripcion": "El mundo vive por un principio: ganar siempre. El evangelio vive por otro: dar. Y la cruz es la prueba. Cierre del capítulo 1 de «Consejos sobre mayordomía cristiana», de Elena G. de White (parte 3 de 3).\n\nEn este sermón: el principio del mundo frente al principio del cielo, la cruz como el mayor llamado a dar, el mayordomo frente al acumulador, y un compromiso para vivir al pie de la cruz.\n\n📖 2 Corintios 8:9 · Juan 3:16 · Filipenses 2:5-7 · Lucas 12:15-21\n📚 Consejos sobre mayordomía cristiana, capítulo 1 (comentario).\n\n💬 ¿Qué principio gobierna tus decisiones con el dinero?\nNarración con la voz del autor recreada con IA.",
+    "tags": [
+      "consejos sobre mayordomía cristiana",
+      "Elena G. de White",
+      "mayordomía cristiana",
+      "generosidad",
+      "la cruz",
+      "2 Corintios 8:9",
+      "el rico insensato",
+      "sermón adventista",
+      "egoísmo",
+      "mayordomía bíblica"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "ConsejosSobreMayordomía",
+      "LaCruz"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T23:00:00Z",
+    "lista_id": null
   },
   "escenas": [
-    {"id": "gancho", "capitulo": "Introducción", "texto": "Compra barato, vende caro. Acumula. Asegura lo tuyo. Gana siempre. Ese es el lenguaje que escuchamos todos los días. Y no parece malo: suena a prudencia, a éxito. Pero el capítulo uno de Consejos sobre mayordomía cristiana termina mostrándonos que en el mundo hay dos principios en guerra. Uno dice: gana siempre. El otro dice: da. Y en cuál de los dos vives define mucho más que tus finanzas. Define a quién te pareces.", "texto_pantalla": "Dos principios en guerra", "visual": {"query": "stock market screen money"}},
-    {"id": "mundo", "capitulo": "El principio del mundo", "texto": "El principio del mundo es ganar. Tomar lo más posible y dar lo menos posible. Es el principio que llevó a Lucifer a querer más de lo que tenía, y el que hoy mueve gran parte de la economía. Jesús contó la historia de un hombre rico en Lucas doce. Sus campos produjeron tanto que no sabía dónde guardar la cosecha. Su plan fue construir graneros más grandes y decirse: alma, muchos bienes tienes guardados para muchos años; repósate, come, bebe, regocíjate. Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será? Y Jesús concluyó: así es el que hace para sí tesoro, y no es rico para con Dios.", "texto_pantalla": "«Necio, esta noche vienen a pedirte tu alma»", "referencia": "Lucas 12:15-21", "visual": {"query": "barn grain harvest storage"}},
-    {"id": "cielo", "capitulo": "El principio del cielo", "texto": "El principio del cielo es exactamente el contrario: dar. Dios da la vida, el aire, la lluvia, el sol, cada respiración. Y el capítulo uno señala que la mayor revelación de ese principio es la cruz. Juan tres, versículo dieciséis: Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito. Y segunda de Corintios ocho, versículo nueve: Porque ya conocéis la gracia de nuestro Señor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico, para que vosotros con su pobreza fueseis enriquecidos. En la cruz, Dios no ganó nada para sí. Lo dio todo por nosotros.", "texto_pantalla": "Se hizo pobre para enriquecerte", "referencia": "2 Corintios 8:9", "visual": {"query": "cross silhouette sunset hill"}},
-    {"id": "mayordomo", "capitulo": "Mayordomo, no acumulador", "texto": "Aquí está la clave del capítulo: Dios nos confía recursos como mayordomos, no para que los acumulemos, sino para que fluyan. El agua estancada se pudre. El agua que corre da vida. Un mayordomo pregunta: ¿qué quiere el Dueño que haga con esto? Un acumulador pregunta: ¿cómo consigo más para mí? No es pecado tener bienes, ni ahorrar con prudencia. El problema es cuando los bienes dejan de ser herramientas para bendecir y se convierten en el centro de nuestra seguridad. Filipenses dos nos invita a tener el mismo sentir que hubo en Cristo Jesús, que se despojó a sí mismo.", "texto_pantalla": "Los bienes deben fluir, no estancarse", "referencia": "Filipenses 2:5-7", "visual": {"query": "river flowing water stream"}},
-    {"id": "cruz", "capitulo": "Al pie de la cruz", "texto": "El capítulo uno termina con una invitación: reunirnos alrededor de la cruz, con espíritu de sacrificio y abnegación. Ahí se cura el egoísmo. Cuando miras lo que Jesús dio por ti, el diezmo deja de parecer mucho, la ofrenda deja de doler, y el tiempo para servir deja de faltar. No damos para que Dios nos ame. Damos porque ya nos amó. La generosidad cristiana no nace de la culpa ni de la presión. Nace de la gratitud al pie de la cruz.", "texto_pantalla": "Damos porque Él nos amó primero", "visual": {"query": "cross light rays church"}},
-    {"id": "aplicacion", "capitulo": "Tu decisión", "texto": "Hagamos un examen honesto. Revisa tus gastos del último mes. ¿Qué principio revelan: ganar siempre o dar? ¿Cuánto fue para ti, cuánto para Dios y cuánto para otros? No se trata de culpa, sino de dirección. Esta semana, decide un cambio concreto: devolver un diezmo fiel, empezar una ofrenda porcentual, apoyar a alguien en necesidad, o simplemente dejar de comprar algo innecesario para dárselo a quien lo necesita. Escribe en los comentarios: elijo dar.", "texto_pantalla": "Revisa tus gastos: ¿qué principio revelan?", "visual": {"query": "receipts notebook budget table"}},
-    {"id": "cierre", "capitulo": "Oración", "texto": "Oremos. Señor Jesús, tú eras rico y te hiciste pobre por mí. Perdóname por vivir tantas veces por el principio de ganar. Lléname de tu espíritu de dar. Que mi vida, mis bienes y mi tiempo fluyan para bendecir a otros. Amén. Con esto cerramos el capítulo uno. La próxima semana comenzamos el capítulo dos: Nuestro generoso benefactor. Suscríbete y comparte la serie.", "texto_pantalla": "Próxima semana: Capítulo 2 · Nuestro generoso benefactor", "visual": {"query": "golden sunset field peace"}}
-  ]
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "Compra barato, vende caro. Acumula. Asegura lo tuyo. Gana siempre. Ese es el lenguaje que escuchamos todos los días. Y no parece malo: suena a prudencia, a éxito. Pero el capítulo uno de Consejos sobre mayordomía cristiana termina mostrándonos que en el mundo hay dos principios en guerra. Uno dice: gana siempre. El otro dice: da. Y en cuál de los dos vives define mucho más que tus finanzas. Define a quién te pareces.",
+      "texto_pantalla": "Dos principios en guerra",
+      "visual": {
+        "query": "stock market screen money"
+      },
+      "emocion": "gancho"
+    },
+    {
+      "id": "mundo",
+      "capitulo": "El principio del mundo",
+      "texto": "El principio del mundo es ganar. Tomar lo más posible y dar lo menos posible. Es el principio que llevó a Lucifer a querer más de lo que tenía, y el que hoy mueve gran parte de la economía. Jesús contó la historia de un hombre rico en Lucas doce. Sus campos produjeron tanto que no sabía dónde guardar la cosecha. Su plan fue construir graneros más grandes y decirse: alma, muchos bienes tienes guardados para muchos años; repósate, come, bebe, regocíjate. Pero Dios le dijo: Necio, esta noche vienen a pedirte tu alma; y lo que has provisto, ¿de quién será? Y Jesús concluyó: así es el que hace para sí tesoro, y no es rico para con Dios.",
+      "texto_pantalla": "«Necio, esta noche vienen a pedirte tu alma»",
+      "referencia": "Lucas 12:15-21",
+      "visual": {
+        "query": "barn grain harvest storage"
+      },
+      "emocion": "narrativo"
+    },
+    {
+      "id": "cielo",
+      "capitulo": "El principio del cielo",
+      "texto": "El principio del cielo es exactamente el contrario: dar. Dios da la vida, el aire, la lluvia, el sol, cada respiración. Y el capítulo uno señala que la mayor revelación de ese principio es la cruz. Juan tres, versículo dieciséis: Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito. Y segunda de Corintios ocho, versículo nueve: Porque ya conocéis la gracia de nuestro Señor Jesucristo, que por amor a vosotros se hizo pobre, siendo rico, para que vosotros con su pobreza fueseis enriquecidos. En la cruz, Dios no ganó nada para sí. Lo dio todo por nosotros.",
+      "texto_pantalla": "Se hizo pobre para enriquecerte",
+      "referencia": "2 Corintios 8:9",
+      "visual": {
+        "query": "cross silhouette sunset hill"
+      },
+      "emocion": "enfasis"
+    },
+    {
+      "id": "mayordomo",
+      "capitulo": "Mayordomo, no acumulador",
+      "texto": "Aquí está la clave del capítulo: Dios nos confía recursos como mayordomos, no para que los acumulemos, sino para que fluyan. El agua estancada se pudre. El agua que corre da vida. Un mayordomo pregunta: ¿qué quiere el Dueño que haga con esto? Un acumulador pregunta: ¿cómo consigo más para mí? No es pecado tener bienes, ni ahorrar con prudencia. El problema es cuando los bienes dejan de ser herramientas para bendecir y se convierten en el centro de nuestra seguridad. Filipenses dos nos invita a tener el mismo sentir que hubo en Cristo Jesús, que se despojó a sí mismo.",
+      "texto_pantalla": "Los bienes deben fluir, no estancarse",
+      "referencia": "Filipenses 2:5-7",
+      "visual": {
+        "query": "river flowing water stream"
+      },
+      "emocion": "ensenanza"
+    },
+    {
+      "id": "cruz",
+      "capitulo": "Al pie de la cruz",
+      "texto": "El capítulo uno termina con una invitación: reunirnos alrededor de la cruz, con espíritu de sacrificio y abnegación. Ahí se cura el egoísmo. Cuando miras lo que Jesús dio por ti, el diezmo deja de parecer mucho, la ofrenda deja de doler, y el tiempo para servir deja de faltar. No damos para que Dios nos ame. Damos porque ya nos amó. La generosidad cristiana no nace de la culpa ni de la presión. Nace de la gratitud al pie de la cruz.",
+      "texto_pantalla": "Damos porque Él nos amó primero",
+      "visual": {
+        "query": "cross light rays church"
+      },
+      "emocion": "reflexivo"
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Tu decisión",
+      "texto": "Hagamos un examen honesto. Revisa tus gastos del último mes. ¿Qué principio revelan: ganar siempre o dar? ¿Cuánto fue para ti, cuánto para Dios y cuánto para otros? No se trata de culpa, sino de dirección. Esta semana, decide un cambio concreto: devolver un diezmo fiel, empezar una ofrenda porcentual, apoyar a alguien en necesidad, o simplemente dejar de comprar algo innecesario para dárselo a quien lo necesita. Escribe en los comentarios: elijo dar.",
+      "texto_pantalla": "Revisa tus gastos: ¿qué principio revelan?",
+      "visual": {
+        "query": "receipts notebook budget table"
+      },
+      "emocion": "calido"
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Oración",
+      "texto": "Oremos. Señor Jesús, tú eras rico y te hiciste pobre por mí. Perdóname por vivir tantas veces por el principio de ganar. Lléname de tu espíritu de dar. Que mi vida, mis bienes y mi tiempo fluyan para bendecir a otros. Amén. Con esto cerramos el capítulo uno. La próxima semana comenzamos el capítulo dos: Nuestro generoso benefactor. Suscríbete y comparte la serie.",
+      "texto_pantalla": "Próxima semana: Capítulo 2 · Nuestro generoso benefactor",
+      "visual": {
+        "query": "golden sunset field peace"
+      },
+      "emocion": "oracion"
+    }
+  ],
+  "voz_fundador": true
 }
