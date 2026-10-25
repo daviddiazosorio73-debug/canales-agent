@@ -2,7 +2,7 @@ name: Investigación semanal
 
 on:
   schedule:
-    - cron: "0 3 * * 0"   # domingo 03:00 UTC (sábado 22:00 Lima), antes de que Claude escriba la semana
+    - cron: "0 23 * * 6"  # sábado 23:00 UTC (18:00 Lima), antes de que Claude escriba la semana a las 19:52
   workflow_dispatch: {}
 
 permissions:

@@ -23,7 +23,7 @@
     "tts": "edge",
     "voz": "es-MX-JorgeNeural",
     "skill": "youtube-agent-skill",
-    "activo": false,
+    "activo": true,
     "nicho": [
       "escuela sabática",
       "lección escuela sabática",
@@ -37,7 +37,7 @@
     "tts": "edge",
     "voz": "pt-BR-AntonioNeural",
     "skill": "youtube-agent-skill",
-    "activo": false,
+    "activo": true,
     "nicho": [
       "escola sabatina",
       "lição da escola sabatina",
@@ -52,7 +52,7 @@
     "tts": "edge",
     "voz": "es-MX-JorgeNeural",
     "skill": "multiredes-agents-skill",
-    "activo": false,
+    "activo": true,
     "nicho": [
       "top 10 redes sociales",
       "tendencias redes sociales",
