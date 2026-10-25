@@ -31,8 +31,8 @@
     ]
   },
   "escola-sabatina-pt": {
-    "nombre": "Escola Sabatina (PT)",
-    "youtube_id": "",
+    "nombre": "A Escola Sabatina (PT)",
+    "youtube_id": "UCX7N45Ze-EmzguLhnrYD82g",
     "secreto": "REFRESH_TOKEN_PT_SABATINA",
     "tts": "edge",
     "voz": "pt-BR-AntonioNeural",
