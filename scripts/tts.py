@@ -84,6 +84,8 @@ def piper_scene(text, mp3, align):
             vits=sherpa_onnx.OfflineTtsVitsModelConfig(model=str(onnx), tokens=str(VOZ_DIR / "tokens.txt"),
                                                        data_dir=str(VOZ_DIR / "espeak-ng-data")), num_threads=2)))
     a = _TTS.generate(text, sid=0, speed=float(os.environ.get("PIPER_SPEED", "0.93")))
+    if len(a.samples) == 0:
+        raise RuntimeError("La voz no generó audio (revisar versión de sherpa-onnx; probado con 1.13.8).")
     wav = str(mp3) + ".wav"
     sf.write(wav, a.samples, a.sample_rate)
     run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", "loudnorm=I=-16:TP=-1.5", "-ar", "44100",
