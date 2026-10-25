@@ -31,8 +31,8 @@
       "shorts",
       "fe"
     ],
-    "privacidad": "private",
-    "publicar_en": "2026-10-25T18:00:00Z",
+    "privacidad": "public",
+    "publicar_en": null,
     "lista_id": null
   },
   "escenas": [
