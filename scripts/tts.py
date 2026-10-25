@@ -11,7 +11,7 @@ import os
 import sys
 from pathlib import Path
 
-from common import load_json, run, save_json
+from common import duration, load_json, run, save_json
 
 API = "https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps"
 MODEL = os.environ.get("ELEVENLABS_MODEL", "eleven_multilingual_v2")
@@ -102,6 +102,52 @@ def piper_scene(text, mp3, align):
                "character_end_times_seconds": en}, align)
 
 
+_CB = None
+
+
+def chatterbox_scene(text, mp3, align, lang):
+    """Voz clonada del Fundador (Chatterbox, MIT). Referencia descifrada en voces/david.wav."""
+    global _CB
+    import torchaudio as ta
+    if _CB is None:
+        from chatterbox.mtl_tts import ChatterboxMultilingualTTS
+        try:
+            _CB = ChatterboxMultilingualTTS.from_pretrained(device="cpu", t3_model="v3")
+        except TypeError:
+            _CB = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
+    ref = str(Path(__file__).resolve().parent.parent / "voces" / os.environ.get("VOZ_REF", "david.wav"))
+    import re as _re
+    partes = [p for p in _re.split(r"(?<=[.!?¿¡])\s+", text) if p.strip()]
+    trozos, buf = [], ""
+    for p in partes:  # bloques de ~250 caracteres para estabilidad
+        if len(buf) + len(p) > 250 and buf:
+            trozos.append(buf); buf = p
+        else:
+            buf = (buf + " " + p).strip()
+    if buf:
+        trozos.append(buf)
+    import torch
+    wavs = []
+    for t in trozos:
+        w = _CB.generate(t, language_id=lang, audio_prompt_path=ref,
+                         exaggeration=float(os.environ.get("CB_EXAG", "0.5")), cfg_weight=float(os.environ.get("CB_CFG", "0.5")))
+        wavs.append(w); wavs.append(torch.zeros(1, int(_CB.sr * 0.25)))
+    wav = str(mp3) + ".wav"
+    ta.save(wav, torch.cat(wavs, dim=1), _CB.sr)
+    run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", "loudnorm=I=-16:TP=-1.5", "-ar", "44100",
+         "-c:a", "libmp3lame", "-b:a", "160k", str(mp3)])
+    os.remove(wav)
+    dur = duration(mp3)
+    chars = list(text)
+    w = [0.6 if c == " " else (4.0 if c in ".!?" else (2.0 if c in ",;:" else 1.0)) for c in chars]
+    k = dur * 0.97 / sum(w)
+    st, en, tt = [], [], 0.0
+    for x in w:
+        st.append(tt); tt += x * k; en.append(tt)
+    save_json({"characters": chars, "character_start_times_seconds": st,
+               "character_end_times_seconds": en}, align)
+
+
 def edge_scene(text, mp3, align):
     import asyncio
     import edge_tts
@@ -148,6 +194,8 @@ def main():
             mock_scene(e["texto"], mp3, align)
         elif motor == "piper":
             piper_scene(e["texto"], mp3, align)
+        elif motor == "chatterbox":
+            chatterbox_scene(e["texto"], mp3, align, lang)
         elif motor == "edge":
             edge_scene(e["texto"], mp3, align)
         else:

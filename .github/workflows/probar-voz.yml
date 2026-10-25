@@ -1,0 +1,54 @@
+name: Probar voz clonada
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q chatterbox-tts
+      - name: Descifrar referencia
+        env:
+          VOICE_KEY: ${{ secrets.VOICE_KEY }}
+        run: |
+          mkdir -p voces
+          openssl enc -d -aes-256-cbc -pbkdf2 -in voces_ref/david.wav.enc -out voces/david.wav -pass env:VOICE_KEY
+      - name: Generar muestras
+        run: |
+          python - <<'EOF'
+          import time, torch, torchaudio as ta
+          from chatterbox.mtl_tts import ChatterboxMultilingualTTS
+          try:
+              m = ChatterboxMultilingualTTS.from_pretrained(device="cpu", t3_model="v3")
+          except TypeError:
+              m = ChatterboxMultilingualTTS.from_pretrained(device="cpu")
+          textos = {
+            "es": "Hola, bienvenidos a MayorDom. Hoy vamos a descubrir por qué Dios no te ve como un empleado, sino como su socio. Quédate hasta el final, porque esto puede cambiar tu manera de administrar todo lo que tienes.",
+            "pt": "Olá, sejam bem-vindos à Escola Sabatina. Hoje vamos estudar juntos a lição desta semana e descobrir como a Palavra de Deus fala diretamente à nossa vida.",
+          }
+          for lang, t in textos.items():
+              t0 = time.time()
+              w = m.generate(t, language_id=lang, audio_prompt_path="voces/david.wav")
+              ta.save(f"muestra_{lang}.wav", w, m.sr)
+              seg = w.shape[1] / m.sr
+              print(f"{lang}: {seg:.1f}s de audio en {time.time()-t0:.0f}s")
+          EOF
+          mkdir -p muestras
+          for l in es pt; do ffmpeg -v error -y -i muestra_$l.wav -b:a 128k muestras/voz_clonada_$l.mp3; done
+      - name: Guardar
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add muestras
+          git commit -m "Muestras de voz clonada" || true
+          git pull --rebase -q && git push -q
