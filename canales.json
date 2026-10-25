@@ -7,7 +7,14 @@
     "tts": "piper",
     "voz": "vits-piper-es_MX-claude-high",
     "skill": "mayordom-youtube",
-    "activo": true
+    "activo": true,
+    "nicho": [
+      "mayordomía cristiana",
+      "diezmo",
+      "ofrendas iglesia",
+      "finanzas cristianas",
+      "Elena G. de White"
+    ]
   },
   "escuela-sabatica-es": {
     "nombre": "Maestro de Escuela Sabática (ES)",
@@ -16,7 +23,12 @@
     "tts": "edge",
     "voz": "es-MX-JorgeNeural",
     "skill": "youtube-agent-skill",
-    "activo": false
+    "activo": false,
+    "nicho": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "maestro escuela sabática"
+    ]
   },
   "escola-sabatina-pt": {
     "nombre": "Escola Sabatina (PT)",
@@ -25,7 +37,13 @@
     "tts": "edge",
     "voz": "pt-BR-AntonioNeural",
     "skill": "youtube-agent-skill",
-    "activo": false
+    "activo": false,
+    "nicho": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "comentário escola sabatina"
+    ],
+    "idioma": "pt"
   },
   "top10-redes": {
     "nombre": "Top 10 Redes Sociales",
@@ -34,6 +52,11 @@
     "tts": "edge",
     "voz": "es-MX-JorgeNeural",
     "skill": "multiredes-agents-skill",
-    "activo": false
+    "activo": false,
+    "nicho": [
+      "top 10 redes sociales",
+      "tendencias redes sociales",
+      "virales de la semana"
+    ]
   }
 }

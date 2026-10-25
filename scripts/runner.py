@@ -109,6 +109,8 @@ def main():
     rep.write_text(f"# Último reporte ({ahora:%Y-%m-%d %H:%M} UTC)\n\n## Subidos\n"
                    + "".join(f"- {h}\n" for h in hechos) + "\n## Fallos\n" + "".join(f"- {f}\n" for f in fallos))
     print(rep.read_text())
+    if fallos:
+        sys.exit(1)  # GitHub envía un correo al Fundador cuando la corrida falla
 
 
 if __name__ == "__main__":
