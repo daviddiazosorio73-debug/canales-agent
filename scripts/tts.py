@@ -105,7 +105,39 @@ def piper_scene(text, mp3, align):
 _CB = None
 
 
-def chatterbox_scene(text, mp3, align, lang):
+# Estilos de locución: (expresividad, cfg [más bajo = más pausado/dramático], tempo, pausa entre frases)
+ESTILOS = {
+    "gancho":     (0.75, 0.40, 1.04, 0.20),  # enérgico, atrapa en los primeros segundos
+    "enfasis":    (0.70, 0.40, 1.00, 0.25),
+    "narrativo":  (0.55, 0.50, 1.00, 0.25),  # historias e ilustraciones
+    "ensenanza":  (0.45, 0.50, 1.00, 0.25),  # explicación clara
+    "agil":       (0.50, 0.55, 1.07, 0.15),  # shorts, listas, repasos
+    "calido":     (0.50, 0.45, 0.97, 0.30),  # aplicación, invitación
+    "reflexivo":  (0.40, 0.35, 0.94, 0.40),  # preguntas para meditar
+    "oracion":    (0.35, 0.30, 0.92, 0.45),  # oración, cierre solemne
+}
+MAPA_ID = {"gancho": "gancho", "intro": "gancho", "cierre": "reflexivo", "oracion": "oracion",
+           "aplicacion": "calido", "reto": "calido", "historia": "narrativo", "lenador": "narrativo",
+           "mensaje": "agil"}
+
+
+def estilo(emocion, text):
+    """Elige el estilo: campo 'emocion' de la escena, o lo infiere del id y del texto."""
+    e = emocion if emocion in ESTILOS else None
+    if not e:
+        t = text.lower()
+        if "oremos" in t or "amén" in t:
+            e = "oracion"
+        elif t.count("?") >= 3:
+            e = "reflexivo"
+        elif t.count("!") >= 2:
+            e = "enfasis"
+        else:
+            e = "ensenanza"
+    return ESTILOS[e]
+
+
+def chatterbox_scene(text, mp3, align, lang, emocion=None):
     """Voz clonada del Fundador (Chatterbox, MIT). Referencia descifrada en voces/david.wav."""
     global _CB
     import torchaudio as ta
@@ -127,14 +159,14 @@ def chatterbox_scene(text, mp3, align, lang):
     if buf:
         trozos.append(buf)
     import torch
+    exag, cfg, tempo, pausa = estilo(emocion, text)
     wavs = []
     for t in trozos:
-        w = _CB.generate(t, language_id=lang, audio_prompt_path=ref,
-                         exaggeration=float(os.environ.get("CB_EXAG", "0.5")), cfg_weight=float(os.environ.get("CB_CFG", "0.5")))
-        wavs.append(w); wavs.append(torch.zeros(1, int(_CB.sr * 0.25)))
+        w = _CB.generate(t, language_id=lang, audio_prompt_path=ref, exaggeration=exag, cfg_weight=cfg)
+        wavs.append(w); wavs.append(torch.zeros(1, int(_CB.sr * pausa)))
     wav = str(mp3) + ".wav"
     ta.save(wav, torch.cat(wavs, dim=1), _CB.sr)
-    estudio = ("highpass=f=80,equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.5:g=1.5,"
+    estudio = (f"atempo={tempo}," if abs(tempo - 1) > 0.005 else "") + ("highpass=f=80,equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.5:g=1.5,"
                "deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=150:makeup=1.5,"
                "loudnorm=I=-16:TP=-1.5:LRA=7")
     run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", estudio, "-ar", "44100",
@@ -198,7 +230,8 @@ def main():
         elif motor == "piper":
             piper_scene(e["texto"], mp3, align)
         elif motor == "chatterbox":
-            chatterbox_scene(e["texto"], mp3, align, lang)
+            emo = e.get("emocion") or MAPA_ID.get(e["id"].split("-")[0]) or ("agil" if g.get("tipo") == "short" else None)
+            chatterbox_scene(e["texto"], mp3, align, lang, emo)
         elif motor == "edge":
             edge_scene(e["texto"], mp3, align)
         else:

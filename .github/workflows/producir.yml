@@ -36,6 +36,24 @@ jobs:
           mkdir -p voces && cd voces
           [ -d vits-piper-es_MX-claude-high ] || { curl -sL -O https://github.com/k2-fsa/sherpa-onnx/releases/download/tts-models/vits-piper-es_MX-claude-high.tar.bz2 && tar xjf vits-piper-es_MX-claude-high.tar.bz2 && rm *.tar.bz2; }
 
+      - name: Voz del Fundador (solo si algún video pendiente la pide)
+        env:
+          VOICE_KEY: ${{ secrets.VOICE_KEY }}
+        run: |
+          necesita=0
+          for g in canales/*/proyectos/*/guion.json; do
+            d=$(dirname "$g"); [ -f "$d/publicado.json" ] && continue
+            grep -q '"voz_fundador": true' "$g" && { necesita=1; break; }
+          done
+          if [ "$necesita" = 1 ] && [ -n "$VOICE_KEY" ]; then
+            pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+            pip install -q chatterbox-tts
+            openssl enc -d -aes-256-cbc -pbkdf2 -in voces_ref/david.wav.enc -out voces/david.wav -pass env:VOICE_KEY
+            echo "Voz del Fundador lista"
+          else
+            echo "No se necesita la voz del Fundador en esta corrida"
+          fi
+
       - name: Producir y subir
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}

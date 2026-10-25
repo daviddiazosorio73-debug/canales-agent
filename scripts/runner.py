@@ -70,7 +70,7 @@ def main():
             fallos.append(f"{canal}: falta el secreto {cfg['secreto']}")
             continue
         env = dict(os.environ)
-        env["TTS_MOTOR"] = cfg.get("tts", "piper")
+        env["TTS_MOTOR"] = "chatterbox" if g.get("voz_fundador") and (ROOT / "voces" / "david.wav").exists() else cfg.get("tts", "piper")
         if env["TTS_MOTOR"] == "edge":
             env["EDGE_VOICE"] = cfg.get("voz", "es-MX-JorgeNeural")
         else:
