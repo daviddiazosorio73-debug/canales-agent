@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-27T02:58:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-26T18:38:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -67,7 +67,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Africa, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over two hundred and seventeen million views. But only one took number one. Welcome to Top 10 Social Media, Africa edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Over two hundred and seventeen million views in a single week. Thirty videos. And at the top of Africa, a creator with fewer than twenty thousand subscribers who beat channels with more than ten million. Who? You'll find out at the right moment. This is Top 10 Social Media, the Africa edition. Three countdowns: the most viewed, the most commented and the most liked videos of the week. Real numbers, from ten to one. Let's go.",
       "tarjeta": {
         "titulo": "TOP 10 · AFRICA",
         "sub": "Week 43"
@@ -77,7 +77,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Africa. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Sunday. Let's go.",
+      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Africa. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured at this week's cut-off. No guesses. Just data.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -89,7 +89,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Number ten, from Egypt, HimaVibes Art, with a video posted six days ago. Over five point two million views. A Short of just fifty-six seconds. It also has one hundred and seventy-six comments.",
+      "texto": "Countdown number one: the ten most viewed. Opening the list at number ten, from Egypt, HimaVibes Art, with a fifty-six second drawing Short. Over five point two million views and over one hundred and seven thousand likes.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -98,7 +98,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number nine, Asmaa Mohamed, with a video posted six days ago. Over five point four million views. It also has over three thousand comments."
+      "texto": "Number nine, Asmaa Mohamed, a channel with four point seven million subscribers. A three minute video with over five point four million views and over three thousand one hundred comments."
     },
     {
       "id": "v08",
@@ -106,7 +106,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number eight, Bilal Al-Khader, with a video posted five days ago. Over eight point one million views. And get this: it's a channel with about fifty-six thousand subscribers, playing in the big leagues this week. A Short of just twenty-five seconds."
+      "texto": "At number eight, Bilal Al-Khader. A twenty-five second Short, over eight point one million views, from a channel with about fifty-six thousand subscribers. Remember that pattern. Small channels are going to dominate tonight."
     },
     {
       "id": "v07",
@@ -114,7 +114,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number seven, SalesBendagra, with “Part 4, Subscribe For More.”. Over eight point three million views. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. And get this: it's a channel with about seventy-seven thousand subscribers, playing in the big leagues this week."
+      "texto": "Number seven, SalesBendagra, with “Part 4, Subscribe For More.”. Over eight point three million views, from a channel with about seventy-seven thousand subscribers. Keep this name in mind. It's coming back."
     },
     {
       "id": "v06",
@@ -122,7 +122,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number six, from Egypt, Abdelrahman El Desoky _ عبدالرحمن الدسوقي, with a video posted five days ago. Over eight point eight million views. It also has four hundred and twenty-four comments."
+      "texto": "At number six, from Egypt, Abdelrahman El Desoky, a channel with ten point nine million subscribers. A one minute video, over eight point eight million views."
     },
     {
       "id": "v05",
@@ -130,7 +130,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number five, Mr Cristiano, with “PSG 4-2 Barcelona PSG UNBEATEN in the Champions League”. Over nine point three million views. And get this: it's a channel with about fifty-four thousand subscribers, playing in the big leagues this week. A Short of just thirty-two seconds."
+      "texto": "Number five, football. Mr Cristiano, with a Short about PSG four, Barcelona two, in the Champions League. Over nine point three million views, for a thirty-two second Short from a channel of about fifty-four thousand subscribers."
     },
     {
       "id": "v04",
@@ -138,7 +138,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number four, Ali w rehab علي و رحاب, with a video posted four days ago. Over eleven million views. It also has over one thousand comments."
+      "texto": "At number four, Ali w Rehab, a channel with two point two million subscribers. A one minute video with over eleven million views. And now, the podium."
     },
     {
       "id": "v03",
@@ -146,7 +146,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Over twelve million views. A Short of just ten seconds. It also has nine hundred and seventy-four comments.",
+      "texto": "Bronze medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Ten seconds long, over twelve million views and over three hundred and seven thousand likes. Eleven point six million subscribers. The biggest channel on this podium, and it's only bronze.",
       "capitulo": "The podium"
     },
     {
@@ -155,7 +155,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, MathMango, with “How Many Folds To Reach The Moon?”. Over fourteen million views. And get this: it's a channel with about seventeen thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "Silver medal, MathMango, with “How Many Folds To Reach The Moon?”. Over fourteen million views for a thirty-one second Short. The channel? About seventeen thousand subscribers. And yet, someone beat it."
     },
     {
       "id": "v01",
@@ -163,7 +163,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most viewed, from Egypt, elbezawy, with a video posted four days ago. Over seventeen million views. It was the fastest-growing video on this list: about one hundred and sixty thousand views per hour. And get this: it's a channel with about nineteen thousand subscribers, playing in the big leagues this week."
+      "texto": "Here it is. Number one most viewed in Africa: from Egypt, elbezawy. A sixteen second Short with over seventeen million views, from a channel of about nineteen thousand subscribers. And the twist: only forty-six comments. Seventeen million people watched, and almost nobody said a word."
     },
     {
       "id": "c10",
@@ -171,7 +171,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. At number ten, from Egypt, HikaSIU, with a video posted three days ago. Over one thousand comments. It has the best engagement rate on this list: nine out of every hundred viewers liked or commented. A video over twenty-two minutes long, and people still stayed to watch.",
+      "texto": "From silence, to noise. Countdown number two: the ten most commented. Number ten, from Egypt, HikaSIU, with a twenty-two minute video. Over one thousand four hundred comments.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -180,7 +180,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from Morocco, Mehdi Hilm, with a video posted one day ago. Over one thousand comments. It got there in just one day. It also has over eighty-eight thousand views."
+      "texto": "Number nine, from Morocco, Mehdi Hilm, with a twelve minute eFootball video. Over one thousand seven hundred comments, with only over eighty-eight thousand views. A small audience that talks a lot."
     },
     {
       "id": "c08",
@@ -188,7 +188,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number eight, MathMango, with “How Many Folds To Reach The Moon?”. Over one thousand comments. And get this: it's a channel with about seventeen thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "At number eight, MathMango again, with the folds to the Moon. Over one thousand nine hundred comments. Silver in views, and now in the conversation too."
     },
     {
       "id": "c07",
@@ -196,7 +196,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number seven, Zack D. Films, with “How Banks Make Money With Your Savings”. Over two thousand comments. It was the fastest-growing video on this list: about one hundred and thirty thousand views per hour. A Short of just forty-four seconds."
+      "texto": "Number seven, Zack D. Films, a channel with twenty-nine point four million subscribers, with “How Banks Make Money With Your Savings”. Over two thousand one hundred comments."
     },
     {
       "id": "c06",
@@ -204,7 +204,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number six, SalesBendagra, with “Part 4, Subscribe For More.”. Over two thousand comments. And get this: it's a channel with about seventy-seven thousand subscribers, playing in the big leagues this week. It also has over eight point three million views."
+      "texto": "At number six, SalesBendagra, with “Part 4, Subscribe For More.”. Over two thousand three hundred comments. I told you this name would come back."
     },
     {
       "id": "c05",
@@ -212,7 +212,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, from Egypt, minaashraf_مينا اشرف , with a video posted three days ago. Over two thousand comments. It also has over two point four million views."
+      "texto": "Number five, from Egypt, minaashraf, with a one minute video. Over two thousand five hundred comments, and over two point four million views."
     },
     {
       "id": "c04",
@@ -220,7 +220,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number four, Asmaa Mohamed, with a video posted six days ago. Over three thousand comments. It also has over five point four million views."
+      "texto": "At number four, Asmaa Mohamed, again. Over three thousand one hundred comments. And from here, the conversation heats up."
     },
     {
       "id": "c03",
@@ -228,7 +228,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Tunisia, Ury 2, with a video posted two days ago. Over three thousand comments. And get this: it's a channel with about eighty-four thousand subscribers, playing in the big leagues this week. It got there in just two days."
+      "texto": "Bronze medal in comments, from Tunisia, Ury 2, with a nine minute video. Over three thousand seven hundred comments, from a channel of about eighty-four thousand subscribers."
     },
     {
       "id": "c02",
@@ -236,7 +236,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, AJ+ كبريت, with a video posted six days ago. Over four thousand comments. A video over forty-six minutes long, and people still stayed to watch. It also has over three point nine million views."
+      "texto": "Silver medal, AJ+ Kabreet, with a forty-six minute episode. Over four thousand three hundred comments, and over three point nine million views. Forty-six minutes, and people still had more to say."
     },
     {
       "id": "c01",
@@ -244,7 +244,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, from Egypt, عبدالله الشريف Abdullah Elshrif, with a video posted three days ago. Over six thousand comments. It also has over two point three million views."
+      "texto": "Number one most commented in Africa: from Egypt, Abdullah Elshrif, with a nineteen minute episode. Over six thousand one hundred comments, and over two point three million views. The loudest comment section on the continent this week."
     },
     {
       "id": "l10",
@@ -252,7 +252,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Next up, number ten, from Egypt, minaashraf_مينا اشرف , with a video posted three days ago. Over ninety-six thousand likes. It also has over two point four million views.",
+      "texto": "And the final countdown: the ten most liked. At number ten, from Egypt, minaashraf. Over ninety-six thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -261,7 +261,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from Egypt, HimaVibes Art, with a video posted six days ago. Over one hundred and seven thousand likes. A Short of just fifty-six seconds. It also has over five point two million views."
+      "texto": "Number nine, from Egypt, HimaVibes Art, with the drawing Short. Over one hundred and seven thousand likes."
     },
     {
       "id": "l08",
@@ -269,7 +269,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number eight, from Egypt, Abdelrahman El Desoky _ عبدالرحمن الدسوقي, with a video posted five days ago. Over one hundred and eighteen thousand likes. It also has over eight point eight million views."
+      "texto": "At number eight, from Egypt, Abdelrahman El Desoky. Over one hundred and eighteen thousand likes."
     },
     {
       "id": "l07",
@@ -277,7 +277,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, Asmaa Mohamed, with a video posted six days ago. Over one hundred and forty-one thousand likes. It also has over five point four million views."
+      "texto": "Number seven, Asmaa Mohamed. Over one hundred and forty-one thousand likes. Asmaa Mohamed appears on all three lists tonight."
     },
     {
       "id": "l06",
@@ -285,7 +285,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number six, Ali w rehab علي و رحاب, with a video posted four days ago. Over one hundred and eighty-two thousand likes. It also has over eleven million views."
+      "texto": "At number six, Ali w Rehab. Over one hundred and eighty-two thousand likes."
     },
     {
       "id": "l05",
@@ -293,7 +293,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number five, MathMango, with “How Many Folds To Reach The Moon?”. Over one hundred and eighty-six thousand likes. And get this: it's a channel with about seventeen thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "Number five, MathMango. Over one hundred and eighty-six thousand likes. Seventeen thousand subscribers, and present on all three countdowns."
     },
     {
       "id": "l04",
@@ -301,7 +301,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number four, Zack D. Films, with “How Banks Make Money With Your Savings”. Over two hundred and twenty-eight thousand likes. It was the fastest-growing video on this list: about one hundred and thirty thousand views per hour. It has the best engagement rate on this list: six out of every hundred viewers liked or commented."
+      "texto": "At number four, Zack D. Films, with the bank savings Short. Over two hundred and twenty-eight thousand likes. And now, the final podium of the night."
     },
     {
       "id": "l03",
@@ -309,7 +309,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Khaled Pepo, with a video posted five days ago. Over two hundred and ninety-two thousand likes. It also has over five point one million views."
+      "texto": "Bronze medal in likes, Khaled Pepo, with a one minute video. Over two hundred and ninety-two thousand likes, and over five point one million views."
     },
     {
       "id": "l02",
@@ -317,7 +317,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Over three hundred and seven thousand likes. A Short of just ten seconds. It also has over twelve million views."
+      "texto": "Silver medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Over three hundred and seven thousand likes. Bronze in views, silver in likes. But number one is a name you already know."
     },
     {
       "id": "l01",
@@ -325,7 +325,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most liked, SalesBendagra, with “Part 4, Subscribe For More.”. Over three hundred and twenty-nine thousand likes. And get this: it's a channel with about seventy-seven thousand subscribers, playing in the big leagues this week. It also has over eight point three million views."
+      "texto": "Number one most liked in Africa: SalesBendagra, with “Part 4, Subscribe For More.”. Over three hundred and twenty-nine thousand likes, on over eight point three million views, from a channel of about seventy-seven thousand subscribers. Seventh in views, sixth in comments, and first in the hearts of the audience."
     },
     {
       "id": "cierre",
