@@ -75,6 +75,22 @@ jobs:
         run: |
           mkdir -p voces
           openssl enc -d -aes-256-cbc -pbkdf2 -in voces_ref/david.wav.enc -out voces/david.wav -pass env:VOICE_KEY
+      - name: Esperar el libreto de Claude (si no llega a tiempo, sale el de plantilla)
+        env:
+          P: ${{ matrix.proyecto }}
+        run: |
+          for i in $(seq 1 110); do
+            git pull -q --rebase origin main || true
+            python - <<'PY' && break
+          import json, os, sys
+          from datetime import datetime, timezone
+          g = json.load(open(os.environ["P"] + "/guion.json"))
+          lim = datetime.fromisoformat(g.get("esperar_libreto_hasta", "2000-01-01T00:00:00Z").replace("Z", "+00:00"))
+          sys.exit(0 if g.get("libreto") == "claude" or datetime.now(timezone.utc) >= lim else 1)
+          PY
+            sleep 60
+          done
+          python -c "import json,os;print('Libreto:', json.load(open(os.environ['P']+'/guion.json')).get('libreto'))"
       - name: Producir y programar
         env:
           SOLO_PROYECTO: ${{ matrix.proyecto }}

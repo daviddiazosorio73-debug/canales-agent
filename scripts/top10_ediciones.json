@@ -1,27 +1,258 @@
 {
-  "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). publicar_utc = hora del domingo (UTC). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
-  "hashtag_canal": "Top10RS",
-  "ediciones": [
-    {"id": "oceania", "orden": 1, "lang": "en", "locs": ["es", "pt", "fr"], "publicar_utc": "12:00", "hashtag": "Top10Oceania",
-     "nombre": {"es": "Oceanía", "en": "Oceania", "pt": "Oceania", "fr": "Océanie"},
-     "regiones": ["AU", "NZ", "PG"], "busqueda": ["AU", "NZ"]},
-    {"id": "asia", "orden": 2, "lang": "en", "locs": ["es", "pt", "fr"], "publicar_utc": "12:30", "hashtag": "Top10Asia",
-     "nombre": {"es": "Asia", "en": "Asia", "pt": "Ásia", "fr": "Asie"},
-     "regiones": ["IN", "ID", "JP", "KR", "PH", "VN", "TH", "MY", "SG", "PK", "BD", "LK", "NP", "TW", "HK", "SA", "AE", "IL", "JO", "KW", "QA", "OM", "BH", "IQ", "LB", "KZ", "AZ", "GE", "YE"],
-     "busqueda": ["IN", "ID", "JP"]},
-    {"id": "africa", "orden": 3, "lang": "en", "locs": ["es", "pt", "fr"], "publicar_utc": "14:00", "hashtag": "Top10Africa",
-     "nombre": {"es": "África", "en": "Africa", "pt": "África", "fr": "Afrique"},
-     "regiones": ["NG", "EG", "ZA", "KE", "MA", "DZ", "GH", "TN", "TZ", "UG", "SN", "LY", "ZW"], "busqueda": ["NG", "EG", "ZA"]},
-    {"id": "europa", "orden": 4, "lang": "en", "locs": ["es", "pt", "fr"], "publicar_utc": "16:00", "hashtag": "Top10Europe",
-     "nombre": {"es": "Europa", "en": "Europe", "pt": "Europa", "fr": "Europe"},
-     "regiones": ["GB", "DE", "FR", "ES", "IT", "PL", "NL", "PT", "RO", "UA", "TR", "SE", "BE", "CZ", "GR", "HU", "AT", "CH", "DK", "FI", "NO", "IE", "SK", "BG", "HR", "RS", "SI", "LT", "LV", "EE", "LU", "RU"],
-     "busqueda": ["GB", "DE", "FR"]},
-    {"id": "america", "orden": 5, "lang": "es", "locs": ["en", "pt", "fr"], "publicar_utc": "20:00", "hashtag": "Top10America",
-     "nombre": {"es": "América", "en": "the Americas", "pt": "América", "fr": "Amérique"},
-     "regiones": ["US", "MX", "BR", "CO", "AR", "PE", "CL", "CA", "EC", "VE", "GT", "DO", "BO", "HN", "PY", "SV", "NI", "CR", "PA", "UY", "PR", "JM"],
-     "busqueda": ["MX", "BR", "US"]},
-    {"id": "mundial", "orden": 6, "lang": "en", "locs": ["es", "pt", "fr"], "publicar_utc": "23:00", "hashtag": "Top10World",
-     "nombre": {"es": "el mundo", "en": "the World", "pt": "o mundo", "fr": "le monde"},
-     "regiones": "todas", "busqueda": []}
-  ]
+ "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). publicar_utc = hora del domingo (UTC). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
+ "hashtag_canal": "Top10RS",
+ "ediciones": [
+  {
+   "id": "oceania",
+   "orden": 1,
+   "lang": "en",
+   "locs": [
+    "es",
+    "pt",
+    "fr"
+   ],
+   "publicar_utc": "12:00",
+   "hashtag": "Top10Oceania",
+   "nombre": {
+    "es": "Oceanía",
+    "en": "Oceania",
+    "pt": "Oceania",
+    "fr": "Océanie"
+   },
+   "regiones": [
+    "AU",
+    "NZ",
+    "PG"
+   ],
+   "busqueda": [
+    "AU",
+    "NZ"
+   ]
+  },
+  {
+   "id": "asia",
+   "orden": 2,
+   "lang": "en",
+   "locs": [
+    "es",
+    "pt",
+    "fr"
+   ],
+   "publicar_utc": "12:30",
+   "hashtag": "Top10Asia",
+   "nombre": {
+    "es": "Asia",
+    "en": "Asia",
+    "pt": "Ásia",
+    "fr": "Asie"
+   },
+   "regiones": [
+    "IN",
+    "ID",
+    "JP",
+    "KR",
+    "PH",
+    "VN",
+    "TH",
+    "MY",
+    "SG",
+    "PK",
+    "BD",
+    "LK",
+    "NP",
+    "TW",
+    "HK",
+    "SA",
+    "AE",
+    "IL",
+    "JO",
+    "KW",
+    "QA",
+    "OM",
+    "BH",
+    "IQ",
+    "LB",
+    "KZ",
+    "AZ",
+    "GE",
+    "YE"
+   ],
+   "busqueda": [
+    "IN",
+    "ID",
+    "JP"
+   ]
+  },
+  {
+   "id": "africa",
+   "orden": 3,
+   "lang": "en",
+   "locs": [
+    "es",
+    "pt",
+    "fr"
+   ],
+   "publicar_utc": "14:00",
+   "hashtag": "Top10Africa",
+   "nombre": {
+    "es": "África",
+    "en": "Africa",
+    "pt": "África",
+    "fr": "Afrique"
+   },
+   "regiones": [
+    "NG",
+    "EG",
+    "ZA",
+    "KE",
+    "MA",
+    "DZ",
+    "GH",
+    "TN",
+    "TZ",
+    "UG",
+    "SN",
+    "LY",
+    "ZW"
+   ],
+   "busqueda": [
+    "NG",
+    "EG",
+    "ZA"
+   ]
+  },
+  {
+   "id": "europa",
+   "orden": 4,
+   "lang": "en",
+   "locs": [
+    "es",
+    "pt",
+    "fr"
+   ],
+   "publicar_utc": "16:00",
+   "hashtag": "Top10Europe",
+   "nombre": {
+    "es": "Europa",
+    "en": "Europe",
+    "pt": "Europa",
+    "fr": "Europe"
+   },
+   "regiones": [
+    "GB",
+    "DE",
+    "FR",
+    "ES",
+    "IT",
+    "PL",
+    "NL",
+    "PT",
+    "RO",
+    "UA",
+    "TR",
+    "SE",
+    "BE",
+    "CZ",
+    "GR",
+    "HU",
+    "AT",
+    "CH",
+    "DK",
+    "FI",
+    "NO",
+    "IE",
+    "SK",
+    "BG",
+    "HR",
+    "RS",
+    "SI",
+    "LT",
+    "LV",
+    "EE",
+    "LU",
+    "RU"
+   ],
+   "busqueda": [
+    "GB",
+    "DE",
+    "FR"
+   ]
+  },
+  {
+   "id": "america",
+   "orden": 5,
+   "lang": "es",
+   "locs": [
+    "en",
+    "pt",
+    "fr"
+   ],
+   "publicar_utc": "20:00",
+   "hashtag": "Top10America",
+   "nombre": {
+    "es": "América",
+    "en": "the Americas",
+    "pt": "América",
+    "fr": "Amérique"
+   },
+   "regiones": [
+    "US",
+    "MX",
+    "BR",
+    "CO",
+    "AR",
+    "PE",
+    "CL",
+    "CA",
+    "EC",
+    "VE",
+    "GT",
+    "DO",
+    "BO",
+    "HN",
+    "PY",
+    "SV",
+    "NI",
+    "CR",
+    "PA",
+    "UY",
+    "PR",
+    "JM"
+   ],
+   "busqueda": [
+    "MX",
+    "BR",
+    "US"
+   ],
+   "titulo": {
+    "en": "Americas"
+   }
+  },
+  {
+   "id": "mundial",
+   "orden": 6,
+   "lang": "en",
+   "locs": [
+    "es",
+    "pt",
+    "fr"
+   ],
+   "publicar_utc": "23:00",
+   "hashtag": "Top10World",
+   "nombre": {
+    "es": "el mundo",
+    "en": "the World",
+    "pt": "o mundo",
+    "fr": "le monde"
+   },
+   "regiones": "todas",
+   "busqueda": [],
+   "titulo": {
+    "es": "Mundial",
+    "en": "World",
+    "pt": "Mundial",
+    "fr": "Monde"
+   }
+  }
+ ]
 }

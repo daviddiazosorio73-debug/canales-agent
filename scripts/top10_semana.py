@@ -29,6 +29,20 @@ S = Path(__file__).parent
 CFG = json.loads((S / "top10_ediciones.json").read_text())
 VETOS = json.loads((S / "top10_vetos.json").read_text()) if (S / "top10_vetos.json").exists() else {}
 FUERA_CAT = {"10", "25"}
+EXTRA_CONT = {"CY": "europa", "MT": "europa", "IS": "europa", "BA": "europa", "MK": "europa", "AL": "europa", "MD": "europa",
+              "BY": "europa", "ME": "europa", "AM": "asia", "MN": "asia", "KH": "asia", "LA": "asia", "MM": "asia",
+              "UZ": "asia", "KG": "asia", "TJ": "asia", "AF": "asia", "IR": "asia", "SY": "asia", "PS": "asia",
+              "CM": "africa", "CI": "africa", "ET": "africa", "SD": "africa", "AO": "africa", "MZ": "africa", "RW": "africa",
+              "ZM": "africa", "BW": "africa", "NA": "africa", "ML": "africa", "BF": "africa", "BJ": "africa", "CD": "africa",
+              "CU": "america", "HT": "america", "TT": "america", "BS": "america", "BB": "america", "BZ": "america",
+              "GY": "america", "SR": "america", "FJ": "oceania", "WS": "oceania", "TO": "oceania"}
+
+
+def continente_de(pais):
+    for e in CFG["ediciones"]:
+        if e["regiones"] != "todas" and pais in e["regiones"]:
+            return e["id"]
+    return EXTRA_CONT.get(pais)
 CANAL = "top10-redes"
 
 # ---------------------------------------------------------------- textos (es / en narración; pt / fr metadatos)
@@ -131,6 +145,14 @@ def w(n, lang):
     return num2words(int(n), lang=lang)
 
 
+def wn(n, lang):
+    """Número delante de un sustantivo masculino: 'treinta y un segundos', 'veintiún días'."""
+    x = w(n, lang)
+    if lang == "es":
+        x = re.sub(r"uno$", "ún" if x.endswith("veintiuno") else "un", x)
+    return x
+
+
 def aprox(n, lang, sustantivo=""):
     """'más de quince millones de vistas' / 'over fifteen million views' (redondeo hacia abajo: nunca exagera)."""
     t = T[lang]
@@ -168,7 +190,7 @@ def redondo(n, lang):
 def dias_txt(d, lang):
     if d == 1:
         return "un día" if lang == "es" else "one day"
-    return f"{w(d, lang)} {'días' if lang == 'es' else 'days'}"
+    return f"{wn(d, lang)} {'días' if lang == 'es' else 'days'}"
 
 
 def dur_seg(iso):
@@ -203,7 +225,7 @@ def recolectar(yt, ini, fin):
         tok = None
         for _ in range(4):
             try:
-                r = yt.videos().list(part="snippet,statistics,contentDetails", chart="mostPopular", regionCode=reg,
+                r = yt.videos().list(part="snippet,statistics,contentDetails,status", chart="mostPopular", regionCode=reg,
                                      maxResults=50, pageToken=tok).execute()
             except Exception as e:
                 print(f"  región {reg}: {str(e)[:80]}")
@@ -225,7 +247,7 @@ def recolectar(yt, ini, fin):
                 print(f"  búsqueda {reg}: {str(ex)[:80]}")
     faltan = [v for v in extra if v not in vids]
     for i in range(0, len(faltan), 50):
-        for v in yt.videos().list(part="snippet,statistics,contentDetails", id=",".join(faltan[i:i + 50])).execute().get("items", []):
+        for v in yt.videos().list(part="snippet,statistics,contentDetails,status", id=",".join(faltan[i:i + 50])).execute().get("items", []):
             vids[v["id"]] = v
     for v, regs in extra.items():
         regiones_de.setdefault(v, set()).update(regs)
@@ -245,6 +267,11 @@ def recolectar(yt, ini, fin):
             continue
         if seg == 0 or seg > 150 * 60 or vid in vetados_v or s["channelId"] in vetados_c or "viewCount" not in st:
             continue
+        if v.get("status", {}).get("madeForKids"):
+            continue  # contenido infantil: fuera
+        vw, lk, cm = int(st["viewCount"]), int(st.get("likeCount", 0) or 0), int(st.get("commentCount", 0) or 0)
+        if vw >= 1_000_000 and lk / vw < 0.0005 and cm / vw < 0.00002:
+            continue  # casi sin likes ni comentarios para tantas vistas: típico de anuncios pagados
         c = chans.get(s["channelId"], {})
         out.append({
             "post_id": vid, "url": f"https://youtu.be/{vid}", "title": s.get("title", ""),
@@ -313,13 +340,14 @@ def texto_puesto(v, rank, k, lista, lang, fin, semilla):
     if v["post_id"] == max(vph, key=vph.get):
         ins.append(t["ins"]["rapido"].format(x=redondo(vph[v["post_id"]], lang)))
     if v["post_id"] == max(inter, key=inter.get) and inter[v["post_id"]] >= 0.01:
-        ins.append(t["ins"]["inter"].format(x=w(round(inter[v["post_id"]] * 100), lang)))
+        xi = w(round(inter[v["post_id"]] * 100), lang)
+        ins.append(t["ins"]["inter"].format(x=re.sub(r"uno$", "una", xi) if lang == "es" else xi))
     if 0 < v.get("followers", 0) < 200_000:
         ins.append(t["ins"]["chico"].format(x=redondo(v["followers"], lang)))
     if v["segundos"] <= 60:
-        ins.append(t["ins"]["short"].format(x=w(v["segundos"], lang)))
+        ins.append(t["ins"]["short"].format(x=wn(v["segundos"], lang)))
     elif v["segundos"] >= 20 * 60:
-        ins.append(t["ins"]["largo"].format(x=w(v["segundos"] // 60, lang)))
+        ins.append(t["ins"]["largo"].format(x=wn(v["segundos"] // 60, lang)))
     if dias <= 2:
         ins.append(t["ins"]["nuevo"].format(x=dias_txt(dias, lang)))
     frase += " " + " ".join(ins[:2])
@@ -380,7 +408,7 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
     locs = {}
     for l2 in ed["locs"]:
         c2 = ed["nombre"].get(l2, cont)
-        locs[l2] = {"title": M[l2]["titulo"].format(c=c2, n=n)[:100],
+        locs[l2] = {"title": M[l2]["titulo"].format(c=ed.get("titulo", {}).get(l2, c2), n=n)[:100],
                     "description": descripcion(l2, c2, cats, h_canal, h_ed, n)}
     podio = [cats[k][0]["creator_name"].lower() for k in cats if cats[k]]
     tags = ([f"top 10 {cont.lower()}", "top 10", "top 10 youtube", "virales" if lang == "es" else "viral videos",
@@ -391,8 +419,9 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         "tema": f"Top 10 {cont} · {semana_iso}", "semana": semana_iso, "voz_fundador": True,
         "color_marca": [255, 45, 120], "contenido_sintetico": True,
         "reintento_desde": (fin + timedelta(hours=10)).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "libreto": "plantilla", "esperar_libreto_hasta": (fin + timedelta(minutes=100)).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "miniatura": {"linea1": "TOP 10", "linea2": cont.upper(), "etiqueta": f"{'SEMANA' if lang == 'es' else 'WEEK'} {n}"},
-        "seo": {"titulo": M[lang]["titulo"].format(c=cont, n=n)[:100],
+        "seo": {"titulo": M[lang]["titulo"].format(c=ed.get("titulo", {}).get(lang, cont), n=n)[:100],
                 "descripcion": descripcion(lang, cont, cats, h_canal, h_ed, n),
                 "tags": list(dict.fromkeys(tags)), "hashtags": [h_canal, h_ed, "Virales" if lang == "es" else "Viral"],
                 "localizaciones": locs, "categoria_id": "24", "privacidad": "public",
@@ -416,7 +445,12 @@ def main():
             pool = videos
         else:
             regs = set(ed["regiones"])
-            pool = [v for v in videos if regs & set(v["regiones"])]
+            # creadores DEL continente (país del canal); si el canal no declara país, se usa dónde fue tendencia
+            def del_continente(v):
+                if v.get("country"):
+                    return continente_de(v["country"]) == ed["id"]
+                return bool(regs & set(v["regiones"])) and len({continente_de(r) for r in v["regiones"]}) == 1
+            pool = [v for v in videos if del_continente(v)]
         cats = {k: ranking(pool, k) for k in ("views", "comments", "likes")}
         if min(len(c) for c in cats.values()) < 10:
             print(f"! {ed['id']}: datos insuficientes ({[len(c) for c in cats.values()]}), se omite")
