@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-27T02:58:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-26T18:38:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "We toured Oceania, Asia, Africa, Europe and the Americas. Now, the ranking that brings it all together: this week's global Top 10. This week in the World, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over six hundred and fifty-six million views. But only one took number one. Welcome to Top 10 Social Media, the World edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "We toured Oceania, Asia, Africa, Europe and the Americas. Now, the ranking that brings it all together: this week's global Top 10. Thirty videos, over six hundred and fifty-six million views, and only one name at the very top of the planet. This is Top 10 Social Media, the World edition. Three countdowns: the most viewed, the most commented and the most liked videos of the week. Real numbers, from ten to one, and no spoilers until each podium. Let's go.",
       "tarjeta": {
         "titulo": "TOP 10 · THE WORLD",
         "sub": "Week 43"
@@ -76,7 +76,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in the World. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Sunday. Let's go.",
+      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended around the world. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured at this week's cut-off. No guesses. Just data.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. At number ten, BullyJuice, with a video posted three days ago. Over twenty million views. A Short of just thirty-one seconds. It also has one hundred and forty-six comments.",
+      "texto": "Countdown number one: the ten most viewed on the planet. The entry ticket this week: twenty million. Number ten, BullyJuice, a channel with ten point seven million subscribers, with a thirty-one second Short about washing his son's hair. Over twenty million views.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, from Colombia, Mamá recetas2.0, with a video posted five days ago. Over twenty-one million views. It has the best engagement rate on this list: three out of every hundred viewers liked or commented. It also has over four thousand comments."
+      "texto": "Number nine, from Colombia, Mamá recetas2.0. A two minute video with over twenty-one million views, over six hundred and eighty-one thousand likes and over four thousand comments. Latin America is on the world map."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number eight, from South Korea, DoubleBite, with “Water vs Dried Fish”. Over twenty-two million views. A Short of just fifty-nine seconds. It also has nine hundred and ninety-two comments."
+      "texto": "At number eight, from South Korea, DoubleBite, with “Water vs Dried Fish”. Over twenty-two million views."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number seven, from India, JAI HIND OFFICIAL, with “Rakh Mein Mile Pairon Ke Nishan Aakhir Kiske The?”. Over twenty-two million views. And get this: it's a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week. A Short of just twenty-five seconds."
+      "texto": "Number seven, from India, JAI HIND OFFICIAL. A twenty-five second Short, over twenty-two million views, from a channel of about one hundred and thirty-seven thousand subscribers."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number six, from India, Facts' Mine, with a video posted five days ago. Over twenty-four million views. A Short of just thirty-nine seconds. It also has over two thousand comments."
+      "texto": "At number six, from India, Facts' Mine, with “This Flying Car Mocks Elon Musk's New Tesla Roadster”. Over twenty-four million views."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number five, Deiva Divine, with a video posted six days ago. Over twenty-five million views. And get this: it's a channel with about one hundred and forty thousand subscribers, playing in the big leagues this week. It also has over one thousand comments."
+      "texto": "Number five, Deiva Divine, with “Can Corn Really Make Beautiful Flowers?!”. Over twenty-five million views."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number four, from United States, Ricks Clips, with “The Ancient Jar That Warned an Empire”. Over twenty-six million views. And get this: it's a channel with about one hundred thousand subscribers, playing in the big leagues this week. It also has over one thousand comments."
+      "texto": "At number four, from the United States, Ricks Clips, with “The Ancient Jar That Warned an Empire”. Over twenty-six million views and over seven hundred and eighty-seven thousand likes, from a channel of about one hundred and seven thousand subscribers. And now, the global podium."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Merry Latte, with “Comment STRAW if you NEED this!”. Over thirty-six million views. And get this: it's a channel with about thirty-four thousand subscribers, playing in the big leagues this week. A Short of just fifteen seconds.",
+      "texto": "Bronze medal of the world: Merry Latte, with “Comment STRAW if you NEED this!”. Over thirty-six million views. A fifteen second Short, from a channel of about thirty-four thousand subscribers. The most viewed in Oceania, now on the world podium.",
       "capitulo": "The podium"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Shivapriya Official , with “Mango leaf decoration ideas for diwali”. Over forty-seven million views. It was the fastest-growing video on this list: about six hundred and ten thousand views per hour. And get this: it's a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week."
+      "texto": "Silver medal of the world, from India, Shivapriya Official, with “Mango leaf decoration ideas for Diwali”. Over forty-seven million views. The most viewed in Asia. And yet, someone is still above."
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And finally, number one most viewed, from Cyprus, Crafter Duck GARAGE, with a video posted six days ago. Over eighty-two million views. It also has over three thousand comments."
+      "texto": "Here it is. Number one most viewed on the planet: from Cyprus, Crafter Duck GARAGE, with “Making a Gold Prosthesis From Coins!”. Over eighty-two million views. Almost thirty-five million more than silver. A channel of about six hundred and nine thousand subscribers, at the top of the world."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Coming in at number ten, from Mexico, FedeGames, with a video posted five days ago. Over eleven thousand comments. It also has over six point four million views.",
+      "texto": "Now, the conversation. Countdown number two: the ten most commented on the planet. And here, eleven thousand comments are just the entry ticket. Number ten, from Mexico, FedeGames, with a fourteen minute video. Over eleven thousand comments.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number nine, from United States, Dream, with “Minecraft Speedrunner VS 6 Hunters FINALE”. Over twelve thousand comments. A video over forty-nine minutes long, and people still stayed to watch. It also has over ten million views."
+      "texto": "Number nine, from the United States, Dream, thirty-four point eight million subscribers, with “Minecraft Speedrunner VS 6 Hunters FINALE”. Forty-nine minutes, over ten million views and over twelve thousand comments."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number eight, لانا و رورو, with a video posted two days ago. Over twelve thousand comments. It got there in just two days. It also has over six hundred and seventy-two thousand views."
+      "texto": "At number eight, the Arabic-language channel Lana and Roro, with an eighteen minute video. Over twelve thousand comments, on just over six hundred and seventy-two thousand views."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number seven, Mob Entertainment, with “What's the time?”. Over thirteen thousand comments. A Short of just forty-two seconds. It got there in just two days."
+      "texto": "Number seven, Mob Entertainment, with “What's the time?”. A forty-two second Short, over thirteen thousand comments."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number six, from Türkiye, Vural Üzül, with a video posted three days ago. Over fourteen thousand comments. It has the best engagement rate on this list: sixteen out of every hundred viewers liked or commented. A video over forty-nine minutes long, and people still stayed to watch."
+      "texto": "At number six, from Turkey, Vural Üzül, with a forty-nine minute video. Over fourteen thousand comments, on just over two hundred and eighteen thousand views. The most talkative audience in this countdown."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number five, from United States, Mindova, with “Grandpa's Magic Made Millions Smile”. Over seventeen thousand comments. A Short of just sixteen seconds. It also has over sixteen million views."
+      "texto": "Number five, from the United States, Mindova, with “Grandpa's Magic Made Millions Smile”. Sixteen seconds, over sixteen million views and over seventeen thousand comments."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number four, Zack D. Films, with “Could You Move Mount Everest To America?”. Over twenty thousand comments. A Short of just sixty seconds. It also has over eighteen million views."
+      "texto": "At number four, Zack D. Films, with “Could You Move Mount Everest To America?”. Over twenty thousand comments. And from here, the podium."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Indonesia, Dhot Design, with a video posted five days ago. Over twenty-three thousand comments. It also has over nine point three million views."
+      "texto": "Bronze medal in comments, from Indonesia, Dhot Design, with part five of “Aku Masih Di Sini”. Over twenty-three thousand comments. The most commented in Asia, now on the world podium."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Germany, Dhruv Rathee, with a video posted two days ago. Over twenty-four thousand comments. It was the fastest-growing video on this list: about two hundred and thirty thousand views per hour. A video over twenty minutes long, and people still stayed to watch."
+      "texto": "Silver medal, from Germany, Dhruv Rathee, with “How Indian Media BRAINWASHES You!”. Over twenty-four thousand comments. The most commented in Europe. But number one went even further."
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most commented, from Brazil, Mundo Torajo, with a video posted five days ago. Over thirty-one thousand comments. It also has over six point eight million views."
+      "texto": "Number one most commented on the planet: from Brazil, Mundo Torajo, with a three minute video. Over thirty-one thousand comments, on over six point eight million views. Thirty-one thousand voices, the loudest comment section in the world this week."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. In position number ten, from Germany, Dhruv Rathee, with a video posted two days ago. Over four hundred and seventy-six thousand likes. A video over twenty minutes long, and people still stayed to watch. It got there in just two days.",
+      "texto": "And the final countdown: the ten most liked on the planet. Number ten, from Germany, Dhruv Rathee, again. Over four hundred and seventy-six thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number nine, from United States, Conexwest, with a video posted three days ago. Over four hundred and eighty-one thousand likes. And get this: it's a channel with about eighty-three thousand subscribers, playing in the big leagues this week. It also has over sixteen million views."
+      "texto": "Number nine, from the United States, Conexwest, with a two minute tour of a shipping container home. Over four hundred and eighty-one thousand likes, from a channel of about eighty-three thousand subscribers."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number eight, Eyser, with a video posted six days ago. Over five hundred and eleven thousand likes. It also has over eleven million views."
+      "texto": "At number eight, Eyser, with a one minute clip from the film Fist Fight. Over five hundred and eleven thousand likes."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, from United States, Sean Andrew, with “I Tested the Famous Pirate Eye Patch Myth!”. Over five hundred and seventeen thousand likes. A Short of just forty-seven seconds. It also has over fourteen million views."
+      "texto": "Number seven, from the United States, Sean Andrew, with “I Tested the Famous Pirate Eye Patch Myth!”. Over five hundred and seventeen thousand likes."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number six, from Colombia, Mamá recetas2.0, with a video posted five days ago. Over six hundred and eighty-one thousand likes. It also has over twenty-one million views."
+      "texto": "At number six, from Colombia, Mamá recetas2.0. Over six hundred and eighty-one thousand likes."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number five, from India, Facts' Mine, with a video posted five days ago. Over six hundred and eighty-five thousand likes. A Short of just thirty-nine seconds. It also has over twenty-four million views."
+      "texto": "Number five, from India, Facts' Mine, with the flying car. Over six hundred and eighty-five thousand likes."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number four, from Indonesia, isonkeh, with a video posted six days ago. Over seven hundred and thirty thousand likes. It has the best engagement rate on this list: nine out of every hundred viewers liked or commented. A Short of just thirty-three seconds."
+      "texto": "At number four, from Indonesia, isonkeh, with a thirty-three second Short. Over seven hundred and thirty thousand likes. And now, the last podium of the tour."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United States, Ricks Clips, with “The Ancient Jar That Warned an Empire”. Over seven hundred and eighty-seven thousand likes. And get this: it's a channel with about one hundred thousand subscribers, playing in the big leagues this week. It also has over twenty-six million views."
+      "texto": "Bronze medal in likes, from the United States, Ricks Clips, with the ancient jar. Over seven hundred and eighty-seven thousand likes."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Zack D. Films, with “Why ChatGPT Contradicted Itself”. Over nine hundred and eight thousand likes. It also has over sixteen million views."
+      "texto": "Silver medal, Zack D. Films, with “Why ChatGPT Contradicted Itself”. Over nine hundred and eight thousand likes. So close to a million. But someone crossed that line."
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most liked, from Cyprus, Crafter Duck GARAGE, with a video posted six days ago. Over one million likes. It was the fastest-growing video on this list: about five hundred and fifty thousand views per hour. It also has over eighty-two million views."
+      "texto": "Number one most liked on the planet: from Cyprus, Crafter Duck GARAGE, with the gold prosthesis made from coins. Over one million likes. Number one in views, number one in likes. The king of Europe is the king of the world this week."
     },
     {
       "id": "cierre",
