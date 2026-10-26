@@ -32,7 +32,7 @@ def main():
 
     desc = seo["descripcion"].strip() + bloque_caps
     if seo.get("hashtags"):
-        desc += "\n\n" + " ".join("#" + h.lstrip("#") for h in seo["hashtags"][:3])
+        desc += "\n\n" + " ".join("#" + h.lstrip("#") for h in seo["hashtags"][:8])
     if creditos:
         autores = sorted({c["autor"] for c in creditos})
         desc += f"\n\n{CREDITOS_TXT[lang]} ({', '.join(autores)})"

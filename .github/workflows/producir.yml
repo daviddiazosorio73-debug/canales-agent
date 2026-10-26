@@ -65,6 +65,17 @@ jobs:
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: python scripts/runner.py
 
+      - name: Listas de reproducción
+        if: always()
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
+          REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
+          REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
+          REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+        run: python scripts/listas.py
+
       - name: Guardar estado
         if: always()
         run: |

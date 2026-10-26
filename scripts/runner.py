@@ -47,6 +47,13 @@ def run(script, proj, env, *extra):
         raise RuntimeError(f"{script} falló en {proj.name}")
 
 
+def run_opc(script, proj, env, *extra):
+    """Paso de mejora: si falla, avisa y sigue (no bloquea la publicación)."""
+    r = subprocess.run([sys.executable, str(SCRIPTS / script), str(proj), *extra], env=env)
+    if r.returncode:
+        print(f"AVISO: {script} falló en {proj.name}; se continúa sin esa mejora", flush=True)
+
+
 def main():
     canales = json.loads((ROOT / "canales.json").read_text())
     ahora = datetime.now(timezone.utc)
@@ -88,11 +95,16 @@ def main():
             print(f"### {canal} · {proj.name}", flush=True)
             run("validate.py", proj, env)
             run("tts.py", proj, env)
-            if g.get("tipo") == "top10":
+            top10 = g.get("tipo") == "top10"
+            if top10:
+                run_opc("top10_fichas.py", proj, env)
                 run("top10_visuales.py", proj, env)
             run("visuals.py", proj, env, *offline)
             run("render.py", proj, env)
             run("thumbnail.py", proj, env)
+            if top10:
+                run_opc("top10_miniatura.py", proj, env)
+                run_opc("top10_seo.py", proj, env, "--canal", canal)
             run("metadata.py", proj, env)
             run("upload.py", proj, env, "--canal", canal)
             shutil.copy(proj / "salida" / "publicado.json", proj / "publicado.json")

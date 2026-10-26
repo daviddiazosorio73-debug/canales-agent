@@ -82,11 +82,25 @@ def scene_clip(i, e, proj, tmp, preset, brand):
         lst.write_text("".join(f"file '{x.name}'\n" for x in partes))
         bg = tmp / f"{e['id']}_bg.mp4"
         run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(bg)])
-        fc = (f"[0:v]format=yuv420p[bg];[bg][1:v]overlay=0:0,"
+        t_limpio, acc = None, 0.0
+        for sgm in e["secuencia"]:
+            if sgm.get("limpio") and t_limpio is None:
+                t_limpio = acc
+            acc += max(1, int(float(sgm["dur"]) * FPS)) / FPS
+        ov2 = ov
+        if t_limpio is not None:  # en las fichas no va la caja de texto (la ficha ya lo dice todo)
+            ov2 = tmp / f"{e['id']}_ov_limpio.png"
+            overlay({k: v for k, v in e.items() if k != "texto_pantalla"}, ov2, brand)
+            ovf = (f"[bg][1:v]overlay=0:0:enable='lt(t,{t_limpio:.3f})'[b1];"
+                   f"[b1][3:v]overlay=0:0:enable='gte(t,{t_limpio:.3f})',")
+        else:
+            ovf = "[bg][1:v]overlay=0:0,"
+        fc = (f"[0:v]format=yuv420p[bg];{ovf}"
               f"fade=t=in:st=0:d={FADE},fade=t=out:st={dur - FADE:.3f}:d={FADE}[v];"
               f"[2:a]apad=pad_dur={PAD},aresample=48000[a]")
         run(["ffmpeg", "-y", "-v", "error", "-i", str(bg),
              "-loop", "1", "-framerate", str(FPS), "-i", str(ov), "-i", str(aud),
+             "-loop", "1", "-framerate", str(FPS), "-i", str(ov2),
              "-filter_complex", fc, "-map", "[v]", "-map", "[a]", "-t", f"{dur:.3f}",
              "-c:v", "libx264", "-preset", preset, "-crf", "19", "-c:a", "aac", "-b:a", "192k",
              str(out)])

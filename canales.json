@@ -57,6 +57,12 @@
       "top 10 redes sociales",
       "tendencias redes sociales",
       "virales de la semana"
-    ]
+    ],
+    "listas": {
+      "top10": "Top 10 Redes Sociales · Ediciones semanales"
+    },
+    "listas_desc": {
+      "Top 10 Redes Sociales · Ediciones semanales": "Cada semana, los videos más vistos, más comentados y con más likes de Latinoamérica y Brasil, del 10 al 1. Datos de la API oficial de YouTube."
+    }
   }
 }

@@ -1,0 +1,36 @@
+name: Retocar Top 10 publicado
+
+on:
+  push:
+    paths: [".github/workflows/retocar-top10.yml"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  retocar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      PROYECTO: canales/top10-redes/proyectos/2026-10-25-es-top10-w43b
+      GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+      GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+      REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q pillow requests google-api-python-client google-auth-oauthlib
+      - name: Token
+        run: python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
+      - name: Miniatura de impacto, menciones y SEO
+        run: python scripts/retocar_top10.py "$PROYECTO" --canal top10-redes
+      - name: Lista de reproducción
+        run: LISTAS_ESTRICTO=1 python scripts/listas.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add -A canales
+          git diff --cached --quiet || git commit -m "Top 10 retocado: miniatura de impacto, menciones y lista"
+          git pull --rebase -q && git push -q || true

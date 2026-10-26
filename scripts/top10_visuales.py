@@ -89,18 +89,30 @@ def main():
             f2 = frames[1] or frames[0]
             if f2 is not None:
                 seq.append({"img": guarda(f2, 2), "dur": 2.5, "mov": False})
+        # Cierre de la escena: conteo animado + ficha + (en el #1) tabla. Se reservan al final.
+        cola = [{"img": a, "dur": 0.06, "mov": False, "limpio": True} for a in e.get("ficha_anim", [])]
         if card:
-            seq.append({"img": card, "dur": 999, "mov": False})  # la ficha llena el resto
+            cola.append({"img": card, "dur": 5.0, "mov": False, "limpio": True})
+        if e.get("tabla"):
+            cola.append({"img": e["tabla"], "dur": 6.0, "mov": False, "limpio": True})
+        reserva = min(sum(c["dur"] for c in cola), dur * 0.7)
         total = 0.0
         recorte = []
         for s in seq:
-            if total >= dur:
+            if total >= dur - reserva:
                 break
-            d = min(s["dur"], dur - total)
-            recorte.append({**s, "dur": round(d, 3)})
-            total += d
-        if recorte and total < dur:
-            recorte[-1]["dur"] = round(recorte[-1]["dur"] + dur - total, 3)
+            d = min(s["dur"], dur - reserva - total)
+            if d > 0.2:
+                recorte.append({**s, "dur": round(d, 3)})
+                total += d
+        resto = dur - total
+        fija = sum(c["dur"] for c in cola if c["img"] != card)
+        for c in cola:
+            if c["img"] == card:
+                c["dur"] = max(1.5, resto - fija)
+            recorte.append({**c, "dur": round(c["dur"], 3)})
+        if recorte:
+            recorte[-1]["dur"] = round(recorte[-1]["dur"] + dur - sum(x["dur"] for x in recorte), 3)
         e["secuencia"] = recorte
         print(f"+ {e['id']}: {len(recorte)} tramos ({sum(1 for f in frames if f)} cuadros, miniatura={'sí' if thumb else 'no'})")
     (proj / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
