@@ -134,6 +134,8 @@ def publicar():
     ahora = datetime.now(timezone.utc)
     fallos = []
     for canal, cfg in canales.items():
+        if canal.startswith("_") or not isinstance(cfg, dict):
+            continue
         m = cfg.get("meta") or {}
         token = os.environ.get(m.get("secreto", "") or "_")
         cola_p = ROOT / "canales" / canal / "meta_cola.json"
