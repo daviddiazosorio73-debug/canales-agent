@@ -71,7 +71,39 @@
       "texto": "Arrancamos con el puesto diez de los más vistos. Desde Chile, Miguel PortaxD, con un círculo en Minecraft y su doblaje de humor. Más de seis millones de vistas con un video de solo veinticinco segundos, publicado el viernes. Casi dos mil comentarios en dos días. Corto, gracioso y con su voz como sello. Así se entra al conteo.",
       "texto_pantalla": "#10 · Miguel PortaxD",
       "referencia": "Video original: YouTube · enlace en la descripción",
-      "capitulo": "Top 10 más vistos"
+      "capitulo": "Top 10 más vistos",
+      "secuencia": [
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v10_03.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_03.jpg",
+          "dur": 0.173,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "v09",
@@ -81,7 +113,34 @@
       "emocion": "agil",
       "texto": "Puesto nueve, desde Colombia, Galletau punto u, con la segunda parte de la broma de la serpiente en el mundo de las motos. Más de seis millones de vistas y más de doscientos mil likes. La primera parte dejó a todos con ganas de más, y esta semana volvieron a verla. Lección para creadores: las historias en partes enganchan.",
       "texto_pantalla": "#9 · Galletau.u",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v09_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v09_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v09_03.jpg",
+          "dur": 2.024,
+          "mov": true
+        }
+      ]
     },
     {
       "id": "v08",
@@ -91,7 +150,39 @@
       "emocion": "agil",
       "texto": "En el octavo lugar, en portugués, Lucas y Kaho Brazuca, con un reto: ¿puedes identificar los escudos de los equipos de fútbol? Casi siete millones de vistas y más de mil comentarios de gente respondiendo el reto. Fútbol más desafío, una combinación que en Brasil y en toda Latinoamérica nunca falla. ¿Tú cuántos escudos habrías adivinado?",
       "texto_pantalla": "#8 · Lucas & Kaho Brazuca",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v08_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v08_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v08_03.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v08_03.jpg",
+          "dur": 0.513,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "v07",
@@ -101,7 +192,34 @@
       "emocion": "agil",
       "texto": "Puesto siete, Claudiana Kaele, con recetas simples en un minuto. Casi siete millones de vistas y más de cien mil likes. Sin producción complicada, sin gritos, sin efectos: comida fácil que cualquiera puede preparar en casa. La cocina práctica sigue siendo una de las fórmulas más fuertes de las redes en portugués.",
       "texto_pantalla": "#7 · Claudiana Kaele",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v07_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v07_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v07_03.jpg",
+          "dur": 2.651,
+          "mov": true
+        }
+      ]
     },
     {
       "id": "v06",
@@ -111,7 +229,34 @@
       "emocion": "agil",
       "texto": "En el sexto lugar, desde Brasil, DaniDubs, con un clip de once segundos de alguien que domina demasiado bien un juguete. Más de siete millones de vistas. Once segundos. Es la prueba de que no necesitas un video largo para llegar lejos: necesitas un momento que la gente quiera ver una y otra vez.",
       "texto_pantalla": "#6 · DaniDubs",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v06_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v06_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v06_03.jpg",
+          "dur": 1.789,
+          "mov": true
+        }
+      ]
     },
     {
       "id": "v05",
@@ -121,7 +266,34 @@
       "emocion": "agil",
       "texto": "Puesto cinco, desde Colombia, Jhonky, con un video divertido de gatos. Más de ocho millones de vistas. Los gatos siguen siendo los reyes de internet, y esta semana lo demostraron otra vez. Y un dato: su canal tiene poco más de medio millón de suscriptores, pero este video llegó a muchísima más gente que eso.",
       "texto_pantalla": "#5 · Jhonky",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v05_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v05_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v05_03.jpg",
+          "dur": 2.128,
+          "mov": true
+        }
+      ]
     },
     {
       "id": "v04",
@@ -131,7 +303,34 @@
       "emocion": "agil",
       "texto": "Y entramos al top cuatro. Desde Colombia, Mamá recetas dos punto cero, con una gelatina de pata hecha junto a otros creadores. Más de doce millones de vistas y casi trescientos mil likes. Colaborar multiplica: cuando varios creadores se juntan, sus audiencias también. Es el video de cocina más visto de este conteo.",
       "texto_pantalla": "#4 · Mamá recetas2.0",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v04_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v04_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v04_03.jpg",
+          "dur": 2.259,
+          "mov": true
+        }
+      ]
     },
     {
       "id": "v03",
@@ -142,7 +341,39 @@
       "texto": "Medalla de bronce para Brasil: Pigeon Tube, con un meme de siete segundos: la reacción de Pepsi. Más de doce millones y medio de vistas. Y aquí está lo increíble: es un canal de unos ciento treinta mil suscriptores. Siete segundos que llegaron a casi cien veces su comunidad. Esto es viralidad pura.",
       "texto_pantalla": "#3 · Pigeon Tube",
       "referencia": "Video original: YouTube · enlace en la descripción",
-      "capitulo": "Los más vistos: podio"
+      "capitulo": "Los más vistos: podio",
+      "secuencia": [
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v03_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v03_03.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_03.jpg",
+          "dur": 1.767,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "v02",
@@ -152,7 +383,39 @@
       "emocion": "enfasis",
       "texto": "Medalla de plata, desde Chile, Flyxoblox clips, con la respuesta más lógica y absurda a la vez. Más de trece millones de vistas en un video de doce segundos. Humor rápido, una situación que todos entienden y un final inesperado. Y fue publicado el miércoles: en solo cuatro días ya era el segundo video más visto de este conteo.",
       "texto_pantalla": "#2 · Flyxoblox clips",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v02_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v02_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v02_03.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v02_03.jpg",
+          "dur": 3.229,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "v01",
@@ -162,7 +425,39 @@
       "emocion": "gancho",
       "texto": "Y el video más visto de la semana, desde México: Susy Mouriz, con encontré squishies en la playa. Más de quince millones de vistas en tres días, más de quinientos mil likes y más de dos mil comentarios. Curiosidad pura y una creadora que sabe contar una historia en dos minutos. Susy, eres la número uno de los más vistos.",
       "texto_pantalla": "#1 · Susy Mouriz",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v01_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v01_02.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v01_03.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v01_03.jpg",
+          "dur": 1.401,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c10",
@@ -173,7 +468,24 @@
       "texto": "Ahora, los más comentados. Puesto diez: Felipe Neto, de Brasil, con un desafío contra Marcella. Más de dos mil seiscientos comentarios.",
       "texto_pantalla": "#10 · Felipe Neto",
       "referencia": "Video original: YouTube · enlace en la descripción",
-      "capitulo": "Top 10 más comentados"
+      "capitulo": "Top 10 más comentados",
+      "secuencia": [
+        {
+          "img": "imagenes/c10_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c10_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c10_card.jpg",
+          "dur": 4.086,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c09",
@@ -183,7 +495,24 @@
       "emocion": "agil",
       "texto": "Nueve: Los PQliares, probando recetas de sus seguidores. Casi tres mil quinientos comentarios.",
       "texto_pantalla": "#9 · Los PQliares",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c09_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c09_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c09_card.jpg",
+          "dur": 1.996,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c08",
@@ -193,7 +522,24 @@
       "emocion": "agil",
       "texto": "Ocho: Vidanatural, que pidió en el título comentar la palabra pan. Y la gente obedeció: más de tres mil quinientos comentarios.",
       "texto_pantalla": "#8 · Vidanatural",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c08_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c08_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c08_card.jpg",
+          "dur": 2.388,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c07",
@@ -203,7 +549,24 @@
       "emocion": "agil",
       "texto": "Siete: Abramly Aventuras, con su hija y el reto de la cuchara. Más de tres mil setecientos comentarios.",
       "texto_pantalla": "#7 · Abramly Aventuras",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c07_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c07_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c07_card.jpg",
+          "dur": 2.623,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c06",
@@ -213,7 +576,24 @@
       "emocion": "agil",
       "texto": "Seis: ESPN Fans, desde Argentina, hablando del fútbol europeo. Casi cuatro mil comentarios de debate.",
       "texto_pantalla": "#6 · ESPN Fans",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c06_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c06_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c06_card.jpg",
+          "dur": 1.474,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c05",
@@ -223,7 +603,24 @@
       "emocion": "agil",
       "texto": "Cinco: MAZA CLAN, desde México, con un reto en un parque acuático de más de dos horas y media. Casi cuatro mil comentarios.",
       "texto_pantalla": "#5 · MAZA CLAN OFICIAL",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c05_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c05_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c05_card.jpg",
+          "dur": 2.937,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c04",
@@ -233,7 +630,24 @@
       "emocion": "agil",
       "texto": "Cuatro: Jazzghost, que creó su propia escuelita de fútbol. Más de cuatro mil comentarios.",
       "texto_pantalla": "#4 · Jazzghost",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c04_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c04_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c04_card.jpg",
+          "dur": 2.467,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c03",
@@ -243,7 +657,24 @@
       "emocion": "enfasis",
       "texto": "Tres: Roberto rupa, con la parte ciento cuarenta y nueve de su reto de los sobres del mundial. Más de cinco mil cuatrocientos comentarios. ¡Ciento cuarenta y nueve partes!",
       "texto_pantalla": "#3 · Roberto_rupa",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c03_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c03_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c03_card.jpg",
+          "dur": 5.418,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c02",
@@ -253,7 +684,24 @@
       "emocion": "enfasis",
       "texto": "Dos: El Rey de las bromas, desde México, probando la comida más asquerosa del mundo. Casi seis mil comentarios.",
       "texto_pantalla": "#2 · El Rey de las bromas",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c02_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c02_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c02_card.jpg",
+          "dur": 4.112,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "c01",
@@ -263,7 +711,24 @@
       "emocion": "gancho",
       "texto": "Y el número uno en comentarios: sssaji, con un reto imposible. Más de once mil comentarios, casi el doble que el segundo lugar. Cuando un reto parece imposible, todos quieren opinar.",
       "texto_pantalla": "#1 · sssaji",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/c01_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c01_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c01_card.jpg",
+          "dur": 6.437,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l10",
@@ -274,7 +739,24 @@
       "texto": "Y ahora, los que más likes recibieron. Diez: un canal de cortes hecho por fans del comediante Renato Albani. Más de ciento setenta mil likes.",
       "texto_pantalla": "#10 · CORTES DO ALBANI (fã)",
       "referencia": "Video original: YouTube · enlace en la descripción",
-      "capitulo": "Top 10 más likes"
+      "capitulo": "Top 10 más likes",
+      "secuencia": [
+        {
+          "img": "imagenes/l10_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l10_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l10_card.jpg",
+          "dur": 3.459,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l09",
@@ -284,7 +766,24 @@
       "emocion": "agil",
       "texto": "Nueve: Por Dentro da Rodada, de Brasil, con un dato de fútbol. Casi ciento ochenta mil likes, y su canal tiene unos sesenta mil suscriptores.",
       "texto_pantalla": "#9 · Por Dentro da Rodada",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l09_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l09_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l09_card.jpg",
+          "dur": 2.127,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l08",
@@ -294,7 +793,24 @@
       "emocion": "agil",
       "texto": "Ocho: Carizo el Investigador, desde México, con un momento incómodo en un restaurante. Más de ciento ochenta y cinco mil likes.",
       "texto_pantalla": "#8 · Carizo el Investigador",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l08_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l08_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l08_card.jpg",
+          "dur": 1.996,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l07",
@@ -304,7 +820,24 @@
       "emocion": "agil",
       "texto": "Siete: EdaEsvila y su pregunta de Minecraft. Más de ciento noventa mil likes.",
       "texto_pantalla": "#7 · EdaEsvila",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l07_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l07_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l07_card.jpg",
+          "dur": 0.089,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l06",
@@ -314,7 +847,24 @@
       "emocion": "agil",
       "texto": "Seis: Papile, desde Brasil, con la reforma de una casita para perro. Más de doscientos diez mil likes.",
       "texto_pantalla": "#6 · Papile",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l06_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l06_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l06_card.jpg",
+          "dur": 1.16,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l05",
@@ -324,7 +874,24 @@
       "emocion": "agil",
       "texto": "Cinco: Galletau punto u otra vez, con la broma de la serpiente. Más de doscientos quince mil likes.",
       "texto_pantalla": "#5 · Galletau.u",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l05_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l05_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l05_card.jpg",
+          "dur": 0.978,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l04",
@@ -334,7 +901,24 @@
       "emocion": "agil",
       "texto": "Cuatro: MrDrikao, de Brasil, con un video de humor. Más de doscientos diecisiete mil likes.",
       "texto_pantalla": "#4 · MrDrikao",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l04_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l04_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l04_card.jpg",
+          "dur": 0.481,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l03",
@@ -344,7 +928,24 @@
       "emocion": "enfasis",
       "texto": "Tres: SrAlvarito, con las frutinovelas. Casi doscientos noventa mil likes en veintiséis segundos.",
       "texto_pantalla": "#3 · SrAlvarito",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l03_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l03_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l03_card.jpg",
+          "dur": 1.317,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l02",
@@ -354,7 +955,24 @@
       "emocion": "enfasis",
       "texto": "Dos: Mamá recetas dos punto cero y su gelatina de pata. Casi trescientos mil likes.",
       "texto_pantalla": "#2 · Mamá recetas2.0",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l02_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l02_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l02_card.jpg",
+          "dur": 1.552,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "l01",
@@ -364,7 +982,24 @@
       "emocion": "gancho",
       "texto": "Y el número uno en likes, otra vez, Susy Mouriz. Más de quinientos cuarenta mil likes, casi el doble que el segundo lugar. Susy gana doble esta semana.",
       "texto_pantalla": "#1 · Susy Mouriz",
-      "referencia": "Video original: YouTube · enlace en la descripción"
+      "referencia": "Video original: YouTube · enlace en la descripción",
+      "secuencia": [
+        {
+          "img": "imagenes/l01_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l01_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l01_card.jpg",
+          "dur": 4.896,
+          "mov": false
+        }
+      ]
     },
     {
       "id": "cierre",
