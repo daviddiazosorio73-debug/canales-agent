@@ -26,7 +26,7 @@ from pathlib import Path
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
-VER = os.environ.get("META_API_VER", "v23.0")
+VER = os.environ.get("META_API_VER", "v26.0")
 G = f"https://graph.facebook.com/{VER}"
 RELEASE = "meta-cola"
 MAX_INTENTOS = 3
