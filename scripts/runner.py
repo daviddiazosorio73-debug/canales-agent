@@ -86,6 +86,10 @@ def main():
             env["VERTICAL"] = "1"
         else:
             env.pop("VERTICAL", None)
+        if g.get("tipo") != "short" and (g.get("tipo") == "top10" or g.get("voz_fundador") or g.get("res_4k")):
+            env["RES_4K"] = "1"
+        else:
+            env.pop("RES_4K", None)
         offline = [] if env.get("PEXELS_API_KEY") else ["--offline"]
         if fp < ahora and g.get("seo", {}).get("publicar_en"):
             g["seo"]["publicar_en"] = None  # ya pasó la hora: se publica de inmediato

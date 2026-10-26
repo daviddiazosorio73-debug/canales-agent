@@ -37,8 +37,11 @@ def main():
         autores = sorted({c["autor"] for c in creditos})
         desc += f"\n\n{CREDITOS_TXT[lang]} ({', '.join(autores)})"
 
+    # SEO del nicho (investigacion/<canal>.seo.json, semanal): se suman después de las etiquetas propias
+    nicho = Path(__file__).resolve().parent.parent / "investigacion" / f"{proj.parent.parent.name}.seo.json"
+    extra = load_json(nicho).get("tags", []) if nicho.exists() else []
     tags = []
-    for t in seo.get("tags", []):
+    for t in list(dict.fromkeys(seo.get("tags", []) + extra)):
         if len(",".join(tags + [t])) <= LIMITS["tags_total"]:
             tags.append(t)
     if len(seo["titulo"]) > LIMITS["titulo"]:

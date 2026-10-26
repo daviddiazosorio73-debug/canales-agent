@@ -73,6 +73,14 @@ def main():
         return f"{m.group(1)} ({h}){m.group(2)}" if h and h not in m.group(1) else m.group(0)
     desc = re.sub(r"^(\d+\. [^\n—]+?)( — https://youtu\.be/([\w-]{11}))", mencion, seo["descripcion"], flags=re.M)
 
+    # SUSPENSO: las listas numeradas se publican en orden alfabético (el orden se descubre en el video)
+    def alfabetico(bloque):
+        filas = [re.sub(r"^\d+\. ", "▶ ", x) for x in bloque.group(0).strip("\n").split("\n")]
+        return "\n".join(sorted(filas, key=lambda x: x[2:].lower())) + "\n"
+    desc, n = re.subn(r"(?:^\d+\. [^\n]+\n?)+", alfabetico, desc, flags=re.M)
+    if n and "orden alfabético" not in desc:
+        desc = desc.replace("\n", "\n(Creadores en orden alfabético: el puesto de cada uno se revela en el video.)\n", 1)
+
     extra = [h for h, _ in hashtags.most_common(15) if h not in GENERICAS][:5]
     base_h = seo.get("hashtags", [])
     seo["hashtags"] = list(dict.fromkeys(base_h + extra))[:8]  # los 3 nuestros van primero (son los visibles)

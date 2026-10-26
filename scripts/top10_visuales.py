@@ -95,7 +95,9 @@ def main():
             cola.append({"img": card, "dur": 5.0, "mov": False, "limpio": True})
         if e.get("tabla"):
             cola.append({"img": e["tabla"], "dur": 6.0, "mov": False, "limpio": True})
-        reserva = min(sum(c["dur"] for c in cola), dur * 0.7)
+        # Se agrega a la secuencia de la edición 2 sin reemplazarla: la ficha toma lo que sobra (mín. 3 s)
+        base = sum(c["dur"] for c in cola if c["img"] != card) + (3.0 if card else 0)
+        reserva = min(max(base, dur - sum(s["dur"] for s in seq)), dur * 0.5)
         total = 0.0
         recorte = []
         for s in seq:

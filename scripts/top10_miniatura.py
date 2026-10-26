@@ -1,5 +1,5 @@
-"""Miniatura de impacto del Top 10 (1280x720): miniatura del #1 en vistas como protagonista, "TOP 10" gigante,
-cifra real del #1 y semana. Reemplaza salida/miniatura.jpg (corre después de thumbnail.py).
+"""Miniatura de impacto del Top 10 (1280x720) SIN revelar el podio: mosaico con 3 videos del conteo (puestos 4-10),
+casilla misteriosa "#1 ?", "TOP 10" gigante y la cifra del #1 como pregunta. Reemplaza salida/miniatura.jpg (corre después de thumbnail.py).
 Uso: python top10_miniatura.py <proyecto_dir>
 """
 import json
@@ -30,43 +30,58 @@ def main():
         print("Sin categorias3.json: queda la miniatura estándar.")
         return
     g = json.loads((proj / "guion.json").read_text())
-    top = json.loads(cats.read_text())["views"][0]
+    D = json.loads(cats.read_text())
+    top = D["views"][0]
     sem = g.get("semana", "")
     semana = f"SEMANA {sem.split('W')[-1]}" if "W" in sem else sem.upper()
-    th = bajar(top["post_id"], ["maxresdefault", "hq720", "sddefault", "hqdefault"])
-    if th is None:
-        print("Sin miniatura del #1: queda la miniatura estándar.")
+    # SUSPENSO: nunca se muestra quién es el #1 ni el podio. Se usan puestos 4 al 10 y una casilla misteriosa.
+    pool = [r for k in ("views", "likes", "comments") for r in D.get(k, [])[3:10]]
+    vistos, tiles = set(), []
+    for r in pool:
+        if len(tiles) == 3:
+            break
+        if r["post_id"] in vistos or r["post_id"] in {x["post_id"] for k in D if k != "vetados" for x in D[k][:3]}:
+            continue
+        im0 = bajar(r["post_id"], ["maxresdefault", "hq720", "sddefault", "hqdefault"])
+        if im0 is not None:
+            tiles.append(ImageEnhance.Contrast(ImageEnhance.Color(recortar_barras(im0)).enhance(1.35)).enhance(1.12))
+            vistos.add(r["post_id"])
+    if len(tiles) < 3:
+        print("Faltan miniaturas: queda la miniatura estándar.")
         return
-    th = ImageEnhance.Contrast(ImageEnhance.Color(recortar_barras(th)).enhance(1.35)).enhance(1.12)
-    # Fondo: la misma imagen desenfocada y oscura
-    bg = th.resize((TW, int(TW * th.height / th.width))).resize((TW, TH)).filter(ImageFilter.GaussianBlur(30))
-    bg = bg.point(lambda p: int(p * 0.35)).convert("RGBA")
+    bg = tiles[0].resize((TW, TH)).filter(ImageFilter.GaussianBlur(30)).point(lambda p: int(p * 0.3)).convert("RGBA")
     capa = Image.new("RGBA", (TW, TH))
     d = ImageDraw.Draw(capa)
     for x in range(TW):
-        d.line([(x, 0), (x, TH)], fill=(8, 6, 16, int(235 * max(0.0, 1 - x / 760))))
+        d.line([(x, 0), (x, TH)], fill=(8, 6, 16, int(235 * max(0.0, 1 - x / 700))))
     im = Image.alpha_composite(bg, capa)
     d = ImageDraw.Draw(im)
-    # Protagonista: miniatura del #1 con marco y medalla
-    w, h = 740, 416
-    hero = th.resize((w, max(h, int(w * th.height / th.width))))
-    hero = hero.crop((0, (hero.height - h) // 2, w, (hero.height - h) // 2 + h))
-    x0, y0 = TW - w - 40, 100
-    d.rounded_rectangle([x0 - 12, y0 - 12, x0 + w + 12, y0 + h + 12], 22, fill=AMARILLO)
-    im.paste(hero, (x0, y0))
-    cx, cy, r = x0 + 8, y0 + 8, 92
-    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=ROSA, outline=(255, 255, 255), width=8)
-    f1 = anton(120)
-    d.text((cx - d.textlength("#1", font=f1) / 2, cy - 92), "#1", font=f1, fill=(255, 255, 255))
+    # Mosaico 2x2: tres videos del conteo + casilla misteriosa del #1
+    w, h, gap = 360, 203, 16
+    x0, y0 = TW - 2 * w - gap - 40, 70
+    pos = [(x0, y0), (x0 + w + gap, y0), (x0, y0 + h + gap), (x0 + w + gap, y0 + h + gap)]
+    for (x, y), t in zip(pos[:3], tiles):
+        t = t.resize((w, max(h, int(w * t.height / t.width))))
+        t = t.crop((0, (t.height - h) // 2, w, (t.height - h) // 2 + h))
+        d.rounded_rectangle([x - 6, y - 6, x + w + 6, y + h + 6], 12, fill=(255, 255, 255))
+        im.paste(t, (x, y))
+    x, y = pos[3]
+    d.rounded_rectangle([x - 6, y - 6, x + w + 6, y + h + 6], 12, fill=AMARILLO)
+    d.rounded_rectangle([x, y, x + w, y + h], 8, fill=ROSA)
+    fq = anton(170)
+    txt = "#1 ?"
+    d.text((x + w / 2 - d.textlength(txt, font=fq) / 2, y - 22), txt, font=fq, fill=(255, 255, 255),
+           stroke_width=5, stroke_fill=(0, 0, 0))
     # Texto
     d.text((40, 40), "TOP", font=anton(190), fill=(255, 255, 255), stroke_width=6, stroke_fill=(0, 0, 0))
     d.text((40, 250), "10", font=anton(260), fill=AMARILLO, stroke_width=8, stroke_fill=(0, 0, 0))
-    c = cifra(int(top.get("views") or 0)) + " DE VISTAS"
-    fc = anton(96)
-    while d.textlength(c, font=fc) > 760:
+    c = f"¿QUIÉN LOGRÓ {cifra(int(top.get('views') or 0))}?"
+    fc = anton(88)
+    while d.textlength(c, font=fc) > 2 * w + gap:
         fc = anton(fc.size - 4)
-    d.text((x0, y0 + h + 34), c, font=fc, fill=(255, 255, 255), stroke_width=6, stroke_fill=(0, 0, 0))
-    d.text((x0 + 4, y0 + h + 34 + fc.size + 24), "EL MÁS VISTO DE LA SEMANA", font=mont(38), fill=AMARILLO,
+    yb = y0 + 2 * h + gap + 34
+    d.text((x0, yb), c, font=fc, fill=(255, 255, 255), stroke_width=6, stroke_fill=(0, 0, 0))
+    d.text((x0 + 4, yb + fc.size + 26), "DE VISTAS EN LATINOAMÉRICA", font=mont(36), fill=AMARILLO,
            stroke_width=3, stroke_fill=(0, 0, 0))
     fp = mont(34)
     d.rounded_rectangle([40, 616, 80 + d.textlength(f"{semana} · LATAM", font=fp), 676], 30, fill=ROSA)

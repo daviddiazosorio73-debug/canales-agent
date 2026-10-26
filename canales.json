@@ -14,7 +14,17 @@
       "ofrendas iglesia",
       "finanzas cristianas",
       "Elena G. de White"
-    ]
+    ],
+    "listas": {
+      "sermon": "Consejos sobre Mayordomía Cristiana · Sermones",
+      "analisis": "Análisis: aportes y correcciones · Mayordomía Bíblica",
+      "short": "Shorts · Mayordomía Bíblica"
+    },
+    "listas_desc": {
+      "Consejos sobre Mayordomía Cristiana · Sermones": "Sermones capítulo por capítulo del libro Consejos sobre mayordomía cristiana, de Elena G. de White, con aplicación a la vida diaria.",
+      "Análisis: aportes y correcciones · Mayordomía Bíblica": "Análisis de temas y videos de otros autores sobre mayordomía: aportes que enriquecen y correcciones a la luz de la Biblia.",
+      "Shorts · Mayordomía Bíblica": "Ideas cortas de mayordomía bíblica para cada día."
+    }
   },
   "escuela-sabatica-es": {
     "nombre": "Maestro DD Escuela Sabática (ES)",
@@ -28,7 +38,13 @@
       "escuela sabática",
       "lección escuela sabática",
       "maestro escuela sabática"
-    ]
+    ],
+    "listas": {
+      "intro": "Escuela Sabática · Estudio diario de la lección",
+      "diario": "Escuela Sabática · Estudio diario de la lección",
+      "resumen_viernes": "Escuela Sabática · Estudio diario de la lección",
+      "repaso_sabado": "Escuela Sabática · Estudio diario de la lección"
+    }
   },
   "escola-sabatina-pt": {
     "nombre": "A Escola Sabatina (PT)",
@@ -43,7 +59,13 @@
       "lição da escola sabatina",
       "comentário escola sabatina"
     ],
-    "idioma": "pt"
+    "idioma": "pt",
+    "listas": {
+      "intro": "Escola Sabatina · Estudo diário da lição",
+      "diario": "Escola Sabatina · Estudo diário da lição",
+      "resumen_viernes": "Escola Sabatina · Estudo diário da lição",
+      "repaso_sabado": "Escola Sabatina · Estudo diário da lição"
+    }
   },
   "top10-redes": {
     "nombre": "Top 10 Redes Sociales",
@@ -63,6 +85,9 @@
     },
     "listas_desc": {
       "Top 10 Redes Sociales · Ediciones semanales": "Cada semana, los videos más vistos, más comentados y con más likes de Latinoamérica y Brasil, del 10 al 1. Datos de la API oficial de YouTube."
-    }
+    },
+    "listas_nuevos_primero": [
+      "Top 10 Redes Sociales · Ediciones semanales"
+    ]
   }
 }

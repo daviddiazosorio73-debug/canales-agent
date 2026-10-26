@@ -103,12 +103,20 @@ def ficha(r, rank, letra, maximo, thumb, semana, frac=1.0):
         fn = anton(fn.size - 6)
     texto_sombra(d, (72, 560), num, fn, col, sombra=8)
     d.text((76, 748), lab, font=mont(44), fill=(255, 255, 255))
-    d.rounded_rectangle([76, 812, 900, 846], 17, fill=(62, 62, 76))
-    lleno = int(824 * min(1.0, val / maximo)) if maximo else 0
-    if lleno > 34:
-        d.rounded_rectangle([76, 812, 76 + lleno, 846], 17, fill=col)
-    ref = "EL #1 DE LA CATEGORÍA" if rank == 1 else f"{round(100 * (r.get(k) or 0) / maximo)} % del #1"
-    d.text((900 - d.textlength(ref, font=mont(30)), 760), ref, font=mont(30), fill=col)
+    # Escalera de puestos 10 → 1 (sin revelar cifras ni nombres de los que faltan: suspenso hasta el #1)
+    paso = 824 / 10
+    for n in range(10, 0, -1):
+        x = 76 + (10 - n) * paso
+        caja = [x + 4, 806, x + paso - 4, 852]
+        if n == rank:
+            d.rounded_rectangle(caja, 12, fill=col)
+            d.text((x + paso / 2 - d.textlength(str(n), font=anton(40)) / 2, 803), str(n), font=anton(40), fill=(12, 12, 18))
+        elif n > rank:  # ya presentados
+            d.rounded_rectangle(caja, 12, fill=(62, 62, 76))
+            d.text((x + paso / 2 - d.textlength(str(n), font=anton(34)) / 2, 808), str(n), font=anton(34), fill=(170, 170, 185))
+        else:  # aún por revelar
+            d.rounded_rectangle(caja, 12, outline=(110, 110, 125), width=3)
+            d.text((x + paso / 2 - d.textlength("?", font=anton(34)) / 2, 808), "?", font=anton(34), fill=(130, 130, 145))
     # Columna derecha: creador, miniatura enmarcada, título y otras cifras
     x0, tw = 990, 860
     texto_sombra(d, (x0, 150), corta(d, r.get("creator_name") or "", anton(84), tw), anton(84), (255, 255, 255), sombra=6)

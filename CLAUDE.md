@@ -6,3 +6,12 @@
 - Tras escribir guiones: valida con `python scripts/validate.py <proyecto>`, commitea y haz push a main. El workflow hace el resto.
 - Voz del Fundador (clonada, Chatterbox): en el `guion.json` del video insignia pon `"voz_fundador": true`. Cada escena puede llevar `"emocion"`: gancho, enfasis, narrativo, ensenanza, agil, calido, reflexivo u oracion. Si no la lleva, se infiere del id de la escena y del texto. Usa la expresividad donde corresponda: gancho enérgico, historias narradas, enseñanza clara, oración pausada y Shorts ágiles.
 - Top 10: copia `categorias3.json` (listas views/comments/likes del #1 al #10) dentro del proyecto. Con eso el motor genera solo: fichas de impacto con conteo animado, tabla final por categoría, miniatura de impacto, SEO del conteo (etiquetas frecuentes, hashtags, menciones @creador) y agrega el video a la lista «Top 10 Redes Sociales · Ediciones semanales». Escenas: ids `v10…v01`, `c10…c01`, `l10…l01` con `video_id` y `modo` (completo/rapido).
+
+## Buenas prácticas para todos los canales (pedidas por el Fundador)
+- Las mejoras se INTEGRAN a lo ya aprobado; nunca reemplazan una presentación que funcionó (p. ej. Top 10: secuencias de cuadros + fichas nuevas).
+- Suspenso: el gancho promete, no revela. No anticipes el resultado (Top 10: ni nombre ni imagen del podio antes de su puesto; en sermones: plantea la pregunta y responde al final). Miniatura, título y descripción tampoco revelan el desenlace.
+- Miniatura de impacto: pocas palabras, texto gigante con contorno, un elemento de curiosidad (pregunta o casilla "?"), máx. 1280x720.
+- Video en 4K (3840x2160) para Top 10 y videos insignia (`voz_fundador`) o con `"res_4k": true`. Shorts: 1080x1920.
+- SEO: etiquetas propias primero; el motor suma las del nicho (`investigacion/<canal>.seo.json`, semanal) y, en Top 10, las de los videos del conteo con menciones @creador.
+- Listas de reproducción automáticas por tipo (`canales.json` → `listas`); no hace falta crearlas a mano.
+- Datos y citas solo verificados; las cifras salen de la API.

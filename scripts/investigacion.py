@@ -7,7 +7,9 @@ Claude solo lee este resumen corto el domingo para elegir el video insignia de l
 """
 import json
 import os
+import re
 import sys
+from collections import Counter
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -62,6 +64,11 @@ def main():
                                    maxResults=10, relevanceLanguage=cfg.get("idioma", "es")).execute()
             for it in res.get("items", []):
                 vistos[it["id"]["videoId"]] = q
+        etiquetas, hashtags = Counter(), Counter()
+        try:
+            propio = yt.channels().list(part="id", mine=True).execute()["items"][0]["id"]
+        except Exception:
+            propio = None
         if vistos:
             filas = []
             ids = list(vistos)
@@ -71,8 +78,18 @@ def main():
                     h = max(1, (hoy - pub).total_seconds() / 3600)
                     n = int(v["statistics"].get("viewCount", 0))
                     filas.append((n / h, n, v["snippet"]["title"][:70], v["snippet"]["channelTitle"][:30]))
+                    if v["snippet"]["channelId"] != propio:
+                        etiquetas.update({t.strip().lower() for t in v["snippet"].get("tags", []) if 2 < len(t.strip()) <= 30})
+                        hashtags.update({x.lower() for x in re.findall(r"#(\w{3,30})", v["snippet"].get("description", ""))})
             for vph, n, t, ch in sorted(filas, reverse=True)[:15]:
                 L.append(f"| {t} | {ch} | {n} | {vph:.0f} |")
+        # SEO del nicho para metadata.py: etiquetas y hashtags que más repiten los videos que están funcionando
+        generic = {"shorts", "short", "youtube", "viral", "video", "fyp", "parati", "foryou", "trending", "reels"}
+        (out_dir / f"{canal}.seo.json").write_text(json.dumps({
+            "fecha": hoy.strftime("%Y-%m-%d"),
+            "tags": [t for t, n in etiquetas.most_common(40) if n >= 2 and t.replace(" ", "") not in generic][:20],
+            "hashtags": [h for h, n in hashtags.most_common(20) if n >= 2 and h not in generic][:5],
+        }, ensure_ascii=False, indent=2))
         (out_dir / f"{canal}.md").write_text("\n".join(L) + "\n")
         print(f"OK investigacion/{canal}.md")
 

@@ -32,8 +32,9 @@ def main():
     subprocess.run([sys.executable, str(S / "top10_miniatura.py"), str(tmp)], check=True)
     g = json.loads((tmp / "guion.json").read_text())
     desc = g["seo"]["descripcion"]
-    if g["seo"]["hashtags"]:
-        desc += "\n" + " ".join("#" + h for h in g["seo"]["hashtags"])
+    nuevos = [h for h in g["seo"]["hashtags"] if f"#{h}".lower() not in desc.lower()]
+    if nuevos:
+        desc += "\n" + " ".join("#" + h for h in nuevos)
     tags = []
     for t in g["seo"]["tags"]:
         if len(",".join(tags + [t])) <= 500:
@@ -45,6 +46,7 @@ def main():
     if mini.exists():
         yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(str(mini))).execute()
         shutil.copy(mini, proj / "miniatura_impacto.jpg")
+    (proj / "retoque_v2.ok").write_text("miniatura sin spoiler + descripción en orden alfabético\n")
     print(f"Retocado https://youtu.be/{vid}: {len(tags)} etiquetas, miniatura={'sí' if mini.exists() else 'no'}")
 
 

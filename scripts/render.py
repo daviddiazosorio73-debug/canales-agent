@@ -4,6 +4,7 @@ Uso: python render.py <proyecto_dir> [--sin-subtitulos-quemados] [--calidad borr
 Requiere audio/ (tts.py) e imagenes/ (visuals.py).
 Escribe salida/video.mp4, salida/subtitulos.srt, salida/capitulos.json
 """
+import os
 import sys
 import textwrap
 from pathlib import Path
@@ -207,7 +208,13 @@ def main():
     musica = next(iter(sorted((proj).glob("musica.*")) + sorted((SKILL_DIR / "assets" / "musica").glob("*.mp3"))), None)
     inputs = ["-i", str(tmp / "unido.mp4")]
     fdir = str(Path(font_path(True, SKILL_DIR)).parent)
-    vf = f"[0:v]ass={ass}:fontsdir={fdir}[v]" if burn else "[0:v]null[v]"
+    # 4K (3840x2160) en videos insignia y Top 10: YouTube les da mayor tasa de bits y calidad. Los subtítulos se
+    # dibujan después del escalado, nítidos a 4K. Shorts: siempre 1080x1920.
+    es4k = bool(os.environ.get("RES_4K")) and not VERTICAL
+    esc = "scale=3840:2160:flags=lanczos,unsharp=5:5:0.5," if es4k else ""
+    vf = f"[0:v]{esc}ass={ass}:fontsdir={fdir}[v]" if burn else f"[0:v]{esc or 'null,'}null[v]"
+    if es4k and preset == "medium":
+        preset = "fast"
     if musica:
         inputs += ["-stream_loop", "-1", "-i", str(musica)]
         af = ("[1:a]volume=0.22,aresample=48000[m];[0:a]asplit=2[n][sc];"
