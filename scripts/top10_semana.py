@@ -439,8 +439,13 @@ def main():
     videos = recolectar(yt, ini, fin)
     print(f"Videos válidos de la semana: {len(videos)}")
     eds = sorted(CFG["ediciones"], key=lambda e: e["orden"])
+    lanzar = json.loads((ROOT / ".github" / "top10_lanzar.json").read_text()) if (ROOT / ".github" / "top10_lanzar.json").exists() and "--lanzar" in sys.argv else {}
+    acoplar = lanzar.get("acoplar", {})  # ediciones ya publicadas que entran a la vuelta al mundo
     proyectos = []
     for i, ed in enumerate(eds):
+        if ed["id"] in acoplar:
+            proyectos.append(acoplar[ed["id"]])
+            continue
         if ed["regiones"] == "todas":
             pool = videos
         else:
@@ -471,7 +476,7 @@ def main():
             for e in g["escenas"][2:4] + g["escenas"][11:12]:
                 print("  ", e["texto"][:300])
         return
-    (ROOT / "top10_matriz.json").write_text(json.dumps(proyectos))
+    (ROOT / "top10_matriz.json").write_text(json.dumps([p for p in proyectos if p not in acoplar.values()]))
     (ROOT / "canales" / CANAL / f"semana_{semana_iso}.json").write_text(json.dumps(
         {"semana": semana_iso, "orden": proyectos}, ensure_ascii=False, indent=1))
 

@@ -1,6 +1,8 @@
 name: Top 10 semanal (continentes + mundial)
 
 on:
+  push:
+    paths: [".github/top10_lanzar.json"]
   schedule:
     - cron: "55 4 * * 0"   # domingo 04:55 UTC = sábado 23:55 Lima (corte semanal)
   workflow_dispatch:
@@ -35,7 +37,7 @@ jobs:
         run: |
           python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
           if [ "${{ inputs.prueba }}" = "true" ]; then python scripts/top10_semana.py --prueba; echo '[]' > top10_matriz.json; exit 0; fi
-          python scripts/top10_semana.py
+          python scripts/top10_semana.py $([ "${{ github.event_name }}" = "push" ] && echo --lanzar)
           for d in $(python -c "import json;print(' '.join(json.load(open('top10_matriz.json'))))"); do python scripts/validate.py "$d"; done
       - id: m
         run: echo "matriz=$(cat top10_matriz.json)" >> "$GITHUB_OUTPUT"
