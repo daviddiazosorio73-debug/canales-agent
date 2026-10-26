@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: "0 23 * * 6"  # sábado 23:00 UTC (18:00 Lima), antes de que Claude escriba la semana a las 19:52
   workflow_dispatch: {}
+  push:
+    paths: ["canales/*/ruta.json", "scripts/pubmed.py"]
 
 permissions:
   contents: write
@@ -24,6 +26,8 @@ jobs:
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
         run: python scripts/investigacion.py
+      - name: Investigación científica (PubMed)
+        run: pip install -q requests && python scripts/pubmed.py
       - name: Guardar
         run: |
           git config user.name "canales-bot"

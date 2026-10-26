@@ -1,0 +1,17 @@
+{
+  "_nota": "Ruta anual de Cryptuline: un tema por mes, visto desde varios ángulos. 'pubmed' = búsqueda que GitHub hace cada semana en PubMed (gratis) para que Claude escriba con estudios reales.",
+  "meses": {
+    "2026-11": {"tema": "¿Qué es la espirulina? Historia, ciencia y composición", "angulos": ["historia (aztecas, lago Chad)", "biología de Arthrospira", "composición nutricional real", "mitos frecuentes"], "pubmed": "(Spirulina OR Arthrospira) AND (composition OR nutritional value OR review[pt])"},
+    "2026-12": {"tema": "Proteína y nutrición", "angulos": ["calidad de su proteína", "deporte", "vegetarianos", "malnutrición infantil"], "pubmed": "(Spirulina OR Arthrospira) AND (protein OR malnutrition OR athletes)"},
+    "2027-01": {"tema": "Sistema inmune y antioxidantes (ficocianina)", "angulos": ["ficocianina", "estrés oxidativo", "qué dicen los ensayos en humanos", "límites de la evidencia"], "pubmed": "(Spirulina OR phycocyanin) AND (immune OR antioxidant) AND (clinical trial[pt] OR meta-analysis[pt])"},
+    "2027-02": {"tema": "Metabolismo: glucosa, colesterol y peso", "angulos": ["meta-análisis de lípidos", "glucosa", "peso corporal", "cómo leer un estudio"], "pubmed": "(Spirulina OR Arthrospira) AND (lipid OR glucose OR weight) AND meta-analysis[pt]"},
+    "2027-03": {"tema": "Seguridad: calidad, contaminantes, interacciones", "angulos": ["microcistinas y metales pesados", "certificaciones de calidad", "interacciones con medicamentos", "quién debe consultar al médico"], "pubmed": "(Spirulina OR Arthrospira) AND (safety OR microcystin OR heavy metals OR adverse)"},
+    "2027-04": {"tema": "Cultivo casero y artesanal", "angulos": ["condiciones de cultivo", "medio y pH", "cosecha y secado", "errores comunes"], "pubmed": "Arthrospira platensis AND (cultivation OR culture medium OR open pond)"},
+    "2027-05": {"tema": "Cultivo industrial y tecnología", "angulos": ["estanques vs fotobiorreactores", "control de calidad", "escalado", "innovación"], "pubmed": "Arthrospira AND (photobioreactor OR large-scale production)"},
+    "2027-06": {"tema": "Economía y emprendimiento", "angulos": ["cadena de valor", "mercado mundial", "costos de producción", "emprendimiento responsable"], "pubmed": "(Spirulina OR Arthrospira) AND (economic OR techno-economic OR market)"},
+    "2027-07": {"tema": "Medio ambiente y espacio", "angulos": ["captura de CO2", "uso de agua", "MELiSSA y la exploración espacial", "economía circular"], "pubmed": "(Spirulina OR Arthrospira) AND (CO2 OR life support OR wastewater)"},
+    "2027-08": {"tema": "Gastronomía y formas de consumo", "angulos": ["fresca vs polvo", "recetas", "sabor y color", "conservación"], "pubmed": "(Spirulina OR Arthrospira) AND (food fortification OR sensory OR food product)"},
+    "2027-09": {"tema": "Investigación de frontera y biotecnología", "angulos": ["ficocianina como colorante natural", "biomateriales", "biocombustibles", "lo que aún no sabemos"], "pubmed": "(Spirulina OR Arthrospira OR phycocyanin) AND (biotechnology OR biomedical) AND 2024:2026[dp]"},
+    "2027-10": {"tema": "Mitos y verdades: el año en ciencia", "angulos": ["mitos virales", "lo que sí está demostrado", "lo que falta probar", "resumen del año"], "pubmed": "(Spirulina OR Arthrospira) AND systematic review[pt]"}
+  }
+}
