@@ -63,6 +63,11 @@ jobs:
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+          META_PAGE_TOKEN_MAYORDOM: ${{ secrets.META_PAGE_TOKEN_MAYORDOM }}
+          META_PAGE_TOKEN_TOP10: ${{ secrets.META_PAGE_TOKEN_TOP10 }}
+          META_PAGE_TOKEN_ES_SABATICA: ${{ secrets.META_PAGE_TOKEN_ES_SABATICA }}
+          META_PAGE_TOKEN_PT_SABATINA: ${{ secrets.META_PAGE_TOKEN_PT_SABATINA }}
+          GH_TOKEN: ${{ github.token }}
         run: python scripts/runner.py
 
       - name: Listas de reproducción
@@ -75,6 +80,16 @@ jobs:
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
         run: python scripts/listas.py
+
+      - name: Instagram y Facebook
+        if: always()
+        env:
+          META_PAGE_TOKEN_MAYORDOM: ${{ secrets.META_PAGE_TOKEN_MAYORDOM }}
+          META_PAGE_TOKEN_TOP10: ${{ secrets.META_PAGE_TOKEN_TOP10 }}
+          META_PAGE_TOKEN_ES_SABATICA: ${{ secrets.META_PAGE_TOKEN_ES_SABATICA }}
+          META_PAGE_TOKEN_PT_SABATINA: ${{ secrets.META_PAGE_TOKEN_PT_SABATINA }}
+          GH_TOKEN: ${{ github.token }}
+        run: python scripts/meta.py publicar
 
       - name: Guardar estado
         if: always()

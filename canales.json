@@ -24,6 +24,12 @@
       "Consejos sobre Mayordomía Cristiana · Sermones": "Sermones capítulo por capítulo del libro Consejos sobre mayordomía cristiana, de Elena G. de White, con aplicación a la vida diaria.",
       "Análisis: aportes y correcciones · Mayordomía Bíblica": "Análisis de temas y videos de otros autores sobre mayordomía: aportes que enriquecen y correcciones a la luz de la Biblia.",
       "Shorts · Mayordomía Bíblica": "Ideas cortas de mayordomía bíblica para cada día."
+    },
+    "meta": {
+      "secreto": "META_PAGE_TOKEN_MAYORDOM",
+      "tipos": [
+        "short"
+      ]
     }
   },
   "escuela-sabatica-es": {
@@ -44,6 +50,12 @@
       "diario": "Escuela Sabática · Estudio diario de la lección",
       "resumen_viernes": "Escuela Sabática · Estudio diario de la lección",
       "repaso_sabado": "Escuela Sabática · Estudio diario de la lección"
+    },
+    "meta": {
+      "secreto": "META_PAGE_TOKEN_ES_SABATICA",
+      "tipos": [
+        "short"
+      ]
     }
   },
   "escola-sabatina-pt": {
@@ -65,6 +77,12 @@
       "diario": "Escola Sabatina · Estudo diário da lição",
       "resumen_viernes": "Escola Sabatina · Estudo diário da lição",
       "repaso_sabado": "Escola Sabatina · Estudo diário da lição"
+    },
+    "meta": {
+      "secreto": "META_PAGE_TOKEN_PT_SABATINA",
+      "tipos": [
+        "short"
+      ]
     }
   },
   "top10-redes": {
@@ -88,6 +106,13 @@
     },
     "listas_nuevos_primero": [
       "Top 10 Redes Sociales · Ediciones semanales"
-    ]
+    ],
+    "meta": {
+      "secreto": "META_PAGE_TOKEN_TOP10",
+      "tipos": [
+        "short",
+        "top10_reel"
+      ]
+    }
   }
 }

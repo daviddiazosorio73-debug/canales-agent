@@ -112,6 +112,10 @@ def main():
             run("metadata.py", proj, env)
             run("upload.py", proj, env, "--canal", canal)
             shutil.copy(proj / "salida" / "publicado.json", proj / "publicado.json")
+            if (cfg.get("meta") or {}).get("secreto") and env.get(cfg["meta"]["secreto"]):
+                r = subprocess.run([sys.executable, str(SCRIPTS / "meta.py"), "encolar", str(proj), "--canal", canal], env=env)
+                if r.returncode:
+                    print("AVISO: no se pudo encolar para Instagram/Facebook", flush=True)
             hechos.append(f"{canal}: {proj.name} → {json.loads((proj / 'publicado.json').read_text())['url']}")
         except Exception as e:  # sigue con el siguiente
             msg = str(e)
