@@ -88,6 +88,8 @@ def main():
             print(f"### {canal} · {proj.name}", flush=True)
             run("validate.py", proj, env)
             run("tts.py", proj, env)
+            if g.get("tipo") == "top10":
+                run("top10_visuales.py", proj, env)
             run("visuals.py", proj, env, *offline)
             run("render.py", proj, env)
             run("thumbnail.py", proj, env)

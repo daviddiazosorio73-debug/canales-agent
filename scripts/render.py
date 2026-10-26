@@ -66,6 +66,31 @@ def scene_clip(i, e, proj, tmp, preset, brand):
     ov = tmp / f"{e['id']}_ov.png"
     overlay(e, ov, brand)
     out = tmp / f"{i:03d}.mp4"
+    if e.get("secuencia"):  # varios tramos: imagen en movimiento o congelada
+        partes = []
+        for k, sgm in enumerate(e["secuencia"]):
+            nf = max(1, int(float(sgm["dur"]) * FPS))
+            src = proj / sgm["img"]
+            pz = "1.0+0.12*on/{}".format(nf) if sgm.get("mov") else "1.0"
+            parte = tmp / f"{e['id']}_seg{k:02d}.mp4"
+            run(["ffmpeg", "-y", "-v", "error", "-loop", "1", "-framerate", str(FPS), "-i", str(src),
+                 "-vf", f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
+                        f"zoompan=z='{pz}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps={FPS},format=yuv420p",
+                 "-frames:v", str(nf), "-c:v", "libx264", "-preset", preset, "-crf", "19", str(parte)])
+            partes.append(parte)
+        lst = tmp / f"{e['id']}_segs.txt"
+        lst.write_text("".join(f"file '{x.name}'\n" for x in partes))
+        bg = tmp / f"{e['id']}_bg.mp4"
+        run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(lst), "-c", "copy", str(bg)])
+        fc = (f"[0:v]format=yuv420p[bg];[bg][1:v]overlay=0:0,"
+              f"fade=t=in:st=0:d={FADE},fade=t=out:st={dur - FADE:.3f}:d={FADE}[v];"
+              f"[2:a]apad=pad_dur={PAD},aresample=48000[a]")
+        run(["ffmpeg", "-y", "-v", "error", "-i", str(bg),
+             "-loop", "1", "-framerate", str(FPS), "-i", str(ov), "-i", str(aud),
+             "-filter_complex", fc, "-map", "[v]", "-map", "[a]", "-t", f"{dur:.3f}",
+             "-c:v", "libx264", "-preset", preset, "-crf", "19", "-c:a", "aac", "-b:a", "192k",
+             str(out)])
+        return out, dur
     fc = (f"[0:v]zoompan=z='{z}':x='{x.format(N=n)}':y='{y.format(N=n)}':d=1:s={W}x{H}:fps={FPS},"
           f"format=yuv420p[bg];[bg][1:v]overlay=0:0,"
           f"fade=t=in:st=0:d={FADE},fade=t=out:st={dur - FADE:.3f}:d={FADE}[v];"
