@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-27T02:58:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-26T18:38:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Europe, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over five hundred and five million views. But only one took number one. Welcome to Top 10 Social Media, Europe edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Over five hundred and five million views. Thirty videos. And this week in Europe, one video didn't just win, it left everyone else far behind. How far? You'll see. This is Top 10 Social Media, the Europe edition. Three countdowns: the most viewed, the most commented and the most liked videos of the week. Real numbers, from ten to one, and the top of each podium stays hidden until its moment. Let's go.",
       "tarjeta": {
         "titulo": "TOP 10 · EUROPE",
         "sub": "Week 43"
@@ -76,7 +76,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Europe. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Sunday. Let's go.",
+      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Europe. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured at this week's cut-off. No guesses. Just data.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Number ten, from Poland, Polina, with a video posted five days ago. Over ten million views. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week. A Short of just seventeen seconds.",
+      "texto": "Countdown number one: the ten most viewed. And in Europe, the entry ticket is ten million. Number ten, from Poland, Polina, with “DIY spooky foggy mirror, creepy Halloween room decor”. Seventeen seconds, over ten million views.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number nine, from United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over ten million views. A Short of just fifty-four seconds. It also has over six thousand comments."
+      "texto": "Number nine, from the United Kingdom, Mrwhosetheboss, twenty-three million subscribers, with “6 ways iPhone Duo beats Samsung”. Over ten million views, and over six thousand two hundred comments. Hold on to that comment count."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number eight, from Netherlands, Ayse Acun, with “the best way to do a claw clip half up half down”. Over ten million views. A Short of just seven seconds. It also has sixty comments."
+      "texto": "At number eight, from the Netherlands, Ayse Acun, with a seven second hairstyle tutorial: the claw clip, half up, half down. Over ten million views."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number seven, from Germany, Peakzmotivation, with “This Nerf Dart Just REFUSES To Fall...”. Over ten million views. A Short of just fifty-eight seconds. It also has over one thousand comments."
+      "texto": "Number seven, from Germany, Peakzmotivation, with “This Nerf Dart Just REFUSES To Fall...”. Fifty-eight seconds, over ten million views and over one hundred and eighty-five thousand likes."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number six, from Spain, YoSoyDander, with a video posted four days ago. Over fourteen million views. A Short of just nineteen seconds. It also has eighty-one comments."
+      "texto": "At number six, from Spain, YoSoyDander. A nineteen second Short with over fourteen million views, and only eighty-one comments. Watched by millions, discussed by almost nobody."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number five, from Germany, Dhruv Rathee, with a video posted two days ago. Over fourteen million views. It has the best engagement rate on this list: three out of every hundred viewers liked or commented. A video over twenty minutes long, and people still stayed to watch."
+      "texto": "Number five, from Germany, Dhruv Rathee, a channel with thirty-three point three million subscribers, with “How Indian Media BRAINWASHES You!”. A twenty minute video, over fourteen million views. The longest video in this top ten. Remember this name."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number four, from Türkiye, Food Therapy, with “How to Dice an Onion Like a Pro”. Over fourteen million views. And get this: it's a channel with about forty-two thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "At number four, from Turkey, Food Therapy, with “How to Dice an Onion Like a Pro”. Over fourteen million views, from a channel of about forty-two thousand subscribers. And now, the podium."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, Events Untold, with “Why Giant Pandas Spend 12 Hours Eating”. Over sixteen million views. And get this: it's a channel with about fifty-five thousand subscribers, playing in the big leagues this week. A Short of just eight seconds.",
+      "texto": "Bronze medal, from the United Kingdom, Events Untold, with “Why Giant Pandas Spend Twelve Hours Eating”. An eight second Short, over sixteen million views, from a channel of about fifty-five thousand subscribers.",
       "capitulo": "The podium"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, Deiva Divine, with a video posted six days ago. Over twenty-five million views. And get this: it's a channel with about one hundred and forty thousand subscribers, playing in the big leagues this week. It also has over one thousand comments."
+      "texto": "Silver medal, Deiva Divine, with “Can Corn Really Make Beautiful Flowers?!”. Over twenty-five million views, from a channel of about one hundred and forty thousand subscribers. A huge number. And still, not even close to number one."
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most viewed, from Cyprus, Crafter Duck GARAGE, with a video posted six days ago. Over eighty-two million views. It was the fastest-growing video on this list: about five hundred and fifty thousand views per hour. It also has over three thousand comments."
+      "texto": "Here it is. Number one most viewed in Europe: from Cyprus, Crafter Duck GARAGE, with “Making a Gold Prosthesis From Coins!”. Over eighty-two million views. Eighty-two million. More than three times the silver medal, and the biggest number of this whole edition, from a channel of about six hundred and nine thousand subscribers."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Number ten, from Poland, Vandiril, with “League Bans are getting SCARY...”. Over three thousand comments. It got there in just one day. It also has over seven hundred and seventy-six thousand views.",
+      "texto": "Now we change the scoreboard. Countdown number two: the ten most commented. Here, long videos take over. Number ten, from Poland, Vandiril, with “League Bans are getting SCARY...”. Over three thousand seven hundred comments.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number nine, from United Kingdom, The Critical Gamer, with “BioWare - Another Domino Falls”. Over three thousand comments. It also has over seven hundred and thirty-seven thousand views."
+      "texto": "Number nine, from the United Kingdom, The Critical Gamer, with “BioWare - Another Domino Falls”. Over three thousand eight hundred comments, on a five minute video."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number eight, from Cyprus, Crafter Duck GARAGE, with a video posted six days ago. Over three thousand comments. It was the fastest-growing video on this list: about five hundred and fifty thousand views per hour. It also has over eighty-two million views."
+      "texto": "At number eight, a familiar name: Crafter Duck GARAGE, with the gold prosthesis. Over three thousand nine hundred comments."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number seven, Jazzghost, with a video posted four days ago. Over four thousand comments. A video over forty-two minutes long, and people still stayed to watch. It also has over three point two million views."
+      "texto": "Number seven, Jazzghost, a channel with twenty-five point one million subscribers. A forty-two minute video with over four thousand one hundred comments."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number six, from Türkiye, Bakirkertenkele31, with a video posted two days ago. Over four thousand comments. A video over thirty-eight minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "At number six, from Turkey, Bakirkertenkele31. A thirty-eight minute video, over four thousand six hundred comments, and over one million views."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, from United Kingdom, BULKHEAD, with “The hotzone ep 1 the wipe”. Over four thousand comments. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week. A video over seventy minutes long, and people still stayed to watch."
+      "texto": "Number five, from the United Kingdom, BULKHEAD, with “The Hotzone, Episode One: The Wipe”. Seventy minutes long, and over four thousand seven hundred comments."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number four, from Ukraine, Domer Grief, with a video posted one day ago. Over four thousand comments. A video over twenty-three minutes long, and people still stayed to watch. It got there in just one day."
+      "texto": "At number four, from Ukraine, Domer Grief, a channel with eight point seven million subscribers. A twenty-three minute video, over four thousand nine hundred comments."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over six thousand comments. A Short of just fifty-four seconds. It also has over ten million views."
+      "texto": "Bronze medal in comments, from the United Kingdom, Mrwhosetheboss, with the iPhone Duo versus Samsung. Over six thousand two hundred comments. I told you to remember it."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Türkiye, Vural Üzül, with a video posted three days ago. Over fourteen thousand comments. It has the best engagement rate on this list: sixteen out of every hundred viewers liked or commented. A video over forty-nine minutes long, and people still stayed to watch."
+      "texto": "Silver medal, from Turkey, Vural Üzül, with a forty-nine minute video. Over fourteen thousand comments, on just over two hundred and eighteen thousand views. That's more than six comments for every hundred views. The most talkative audience in this countdown. But number one?"
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, from Germany, Dhruv Rathee, with a video posted two days ago. Over twenty-four thousand comments. A video over twenty minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number one most commented in Europe: from Germany, Dhruv Rathee, with “How Indian Media BRAINWASHES You!”. Over twenty-four thousand comments. Twenty-four thousand. Fifth in views, and first in conversation, by a wide margin."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Coming in at number ten, from Poland, Things Opened, with “How a USB-C Cable Really Works”. Over one hundred and sixty-six thousand likes. And get this: it's a channel with about eleven thousand subscribers, playing in the big leagues this week. It also has over five point nine million views.",
+      "texto": "And the final countdown: the ten most liked. Number ten, from Poland, Things Opened, with “How a USB-C Cable Really Works”. Over one hundred and sixty-six thousand likes, from a channel of about eleven thousand subscribers.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number nine, Kayla Ryan, with “does this count as full circle THANK YOU for this opportunity!!”. Over one hundred and seventy thousand likes. A Short of just eleven seconds. It also has over eight point nine million views."
+      "texto": "Number nine, Kayla Ryan, with an eleven second Short. Over one hundred and seventy thousand likes."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number eight, from Germany, Peakzmotivation, with “This Nerf Dart Just REFUSES To Fall...”. Over one hundred and eighty-five thousand likes. A Short of just fifty-eight seconds. It also has over ten million views."
+      "texto": "At number eight, from Germany, Peakzmotivation, with the Nerf dart. Over one hundred and eighty-five thousand likes."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, from Türkiye, Food Therapy, with “How to Dice an Onion Like a Pro”. Over two hundred and eighteen thousand likes. And get this: it's a channel with about forty-two thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "Number seven, from Turkey, Food Therapy, with the onion. Over two hundred and eighteen thousand likes."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number six, from United Kingdom, Helen Christie, with “Flappers did WHAT!?”. Over two hundred and forty-eight thousand likes. A Short of just twenty-three seconds. It also has over nine point five million views."
+      "texto": "At number six, from the United Kingdom, Helen Christie, with “Flappers did WHAT!?”. Over two hundred and forty-eight thousand likes, in twenty-three seconds."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number five, from United Kingdom, Events Untold, with “Why Giant Pandas Spend 12 Hours Eating”. Over two hundred and ninety-one thousand likes. And get this: it's a channel with about fifty-five thousand subscribers, playing in the big leagues this week. A Short of just eight seconds."
+      "texto": "Number five, from the United Kingdom, Events Untold, with the giant pandas. Over two hundred and ninety-one thousand likes."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number four, from Spain, Jajamaru, with a video posted four days ago. Over three hundred and ten thousand likes. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. A Short of just twenty-seven seconds."
+      "texto": "At number four, from Spain, Jajamaru, with a twenty-seven second Short. Over three hundred and ten thousand likes. And now, the last podium of the night."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over three hundred and thirty-two thousand likes. A Short of just fifty-four seconds. It also has over ten million views."
+      "texto": "Bronze medal in likes, from the United Kingdom, Mrwhosetheboss. Over three hundred and thirty-two thousand likes. Present on all three lists tonight."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Germany, Dhruv Rathee, with a video posted two days ago. Over four hundred and seventy-six thousand likes. A video over twenty minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Silver medal, from Germany, Dhruv Rathee. Over four hundred and seventy-six thousand likes. Champion of comments, silver in likes. So who could be above?"
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most liked, from Cyprus, Crafter Duck GARAGE, with a video posted six days ago. Over one million likes. It was the fastest-growing video on this list: about five hundred and fifty thousand views per hour. It also has over eighty-two million views."
+      "texto": "Number one most liked in Europe: from Cyprus, Crafter Duck GARAGE, with “Making a Gold Prosthesis From Coins!”. Over one million likes. One million. More than double the silver medal. Number one in views, number one in likes. The undisputed king of Europe this week."
     },
     {
       "id": "cierre",
