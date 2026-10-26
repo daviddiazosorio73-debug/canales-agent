@@ -16,6 +16,7 @@ Nunca imprime tokens (el repo es público y sus registros también).
 """
 import json
 import os
+import re
 import subprocess
 import sys
 import time
@@ -40,6 +41,7 @@ def caption(g):
     desc = (seo.get("descripcion") or "").strip().split("\n\n")[0]
     tags = " ".join("#" + h.lstrip("#") for h in seo.get("hashtags", [])[:8])
     txt = f"{seo.get('titulo', '')}\n\n{desc}\n\n{tags}".strip()
+    txt = re.sub(r"\s*#shorts\b", "", txt, flags=re.I)  # etiqueta propia de YouTube
     return txt[:2100]
 
 
