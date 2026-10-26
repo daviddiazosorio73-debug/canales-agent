@@ -16,6 +16,7 @@ RANGO = {  # palabras (~150 por minuto)
     "sermon": (1500, 3600),          # 10-24 min (Semana de Mayordomía)
     "analisis": (1400, 3000),        # 10-20 min (martes/jueves)
     "short": (90, 190),
+    "divulgacion": (1000, 2600),     # 7-17 min (Cryptuline: ciencia de la espirulina)
     "top10": (700, 2700),            # 5-18 min (Top 10 Redes Sociales)              # 40-75 s vertical
 }
 

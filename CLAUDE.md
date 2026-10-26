@@ -17,3 +17,9 @@
 - SEO: etiquetas propias primero; el motor suma las del nicho (`investigacion/<canal>.seo.json`, semanal) y, en Top 10, las de los videos del conteo con menciones @creador.
 - Listas de reproducción automáticas por tipo (`canales.json` → `listas`); no hace falta crearlas a mano.
 - Datos y citas solo verificados; las cifras salen de la API.
+
+## Cryptuline (canal de espirulina con ciencia)
+- Proyectos en `canales/cryptuline/proyectos/`: 3 videos `tipo: "divulgacion"` por semana (mar, jue, sáb 23:00 UTC = 18:00 Lima) y 3 `short` diarios (12:00, 18:00 y 01:00 UTC = 07:00, 13:00, 20:00 Lima). Horas iniciales: ajústalas con Analytics.
+- Tema del mes y ángulos: `canales/cryptuline/ruta.json`. Fuentes: SOLO `investigacion/cryptuline_pubmed.md` (PubMed, semanal). Cita en voz (autor principal, año) y en la descripción: autores, año, revista y `https://pubmed.ncbi.nlm.nih.gov/<PMID>/`.
+- Sin afirmaciones de cura/prevención: «este estudio encontró…», con límites (tamaño, en animales o humanos) y «consulta a tu médico». Nada de inversión, NFT, cripto ni ventas; sí la marca Cryptuline.
+- Viralidad científica: gancho con dato sorprendente verificado, pregunta que se responde al final, mitos vs evidencia. `voz_fundador: true` en todo; el avatar sale solo (assets/avatar.jpg). `categoria_id: "27"`.

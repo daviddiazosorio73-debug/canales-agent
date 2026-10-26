@@ -122,8 +122,8 @@
     "secreto": "REFRESH_TOKEN_CRYPTULINE",
     "tts": "piper",
     "voz": "vits-piper-es_MX-claude-high",
-    "skill": "cryptuline (pendiente)",
-    "activo": false,
+    "skill": "CLAUDE.md (sección Cryptuline)",
+    "activo": true,
     "nicho": [
       "espirulina",
       "spirulina beneficios",
@@ -133,7 +133,7 @@
     ],
     "calendario": "3 videos largos/semana (mar, jue, sáb 18:00 Lima) + 3 Shorts diarios (07:00, 13:00, 20:00 Lima); horas iniciales a ajustar con Analytics",
     "listas": {
-      "video": "Espirulina con ciencia · Cryptuline",
+      "divulgacion": "Espirulina con ciencia · Cryptuline",
       "short": "Shorts · Espirulina con ciencia"
     },
     "meta": {

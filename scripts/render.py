@@ -49,6 +49,21 @@ def overlay(e, path, brand):
             y += lh
         if ref:
             d.text((x0 + 50, y + 14), ref, font=f_ref, fill=brand + (255,))
+    av = os.environ.get("AVATAR")
+    if av and Path(av).exists():  # presentador del canal (imagen) en círculo, sobre la zona de subtítulos
+        from PIL import ImageOps
+        a = Image.open(av).convert("RGB")
+        lado = int(min(a.width, a.height * 0.62))
+        a = a.crop(((a.width - lado) // 2, int(a.height * 0.03), (a.width - lado) // 2 + lado, int(a.height * 0.03) + lado))
+        tam = 300 if VERTICAL else 250
+        a = ImageOps.fit(a, (tam, tam))
+        mask = Image.new("L", (tam, tam), 0)
+        ImageDraw.Draw(mask).ellipse([0, 0, tam - 1, tam - 1], fill=255)
+        borde = Image.new("RGBA", (tam + 12, tam + 12), (0, 0, 0, 0))
+        ImageDraw.Draw(borde).ellipse([0, 0, tam + 11, tam + 11], fill=brand + (255,))
+        x0, y0 = (40, H - tam - 520) if VERTICAL else (40, H - tam - 230)
+        img.alpha_composite(borde, (x0 - 6, y0 - 6))
+        img.paste(a, (x0, y0), mask)
     logo = SKILL_DIR / "assets" / "logo.png"
     if logo.exists():
         lg = Image.open(logo).convert("RGBA")

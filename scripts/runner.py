@@ -89,6 +89,11 @@ def main():
             env["EDGE_VOICE"] = cfg.get("voz", "es-MX-JorgeNeural")
         else:
             env["PIPER_VOZ"] = cfg.get("voz", "vits-piper-es_MX-claude-high")
+        av = ROOT / "canales" / canal / "assets" / "avatar.jpg"
+        if av.exists():
+            env["AVATAR"] = str(av)
+        else:
+            env.pop("AVATAR", None)
         if g.get("tipo") == "short":
             env["VERTICAL"] = "1"
         else:

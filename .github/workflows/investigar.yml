@@ -25,6 +25,7 @@ jobs:
           REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+          REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
         run: python scripts/investigacion.py
       - name: Investigación científica (PubMed)
         run: pip install -q requests && python scripts/pubmed.py

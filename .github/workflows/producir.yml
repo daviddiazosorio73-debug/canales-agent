@@ -62,11 +62,13 @@ jobs:
           REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+          REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           META_PAGE_TOKEN_MAYORDOM: ${{ secrets.META_PAGE_TOKEN_MAYORDOM }}
           META_PAGE_TOKEN_TOP10: ${{ secrets.META_PAGE_TOKEN_TOP10 }}
           META_PAGE_TOKEN_ES_SABATICA: ${{ secrets.META_PAGE_TOKEN_ES_SABATICA }}
           META_PAGE_TOKEN_PT_SABATINA: ${{ secrets.META_PAGE_TOKEN_PT_SABATINA }}
+          META_PAGE_TOKEN_CRYPTULINE: ${{ secrets.META_PAGE_TOKEN_CRYPTULINE }}
           GH_TOKEN: ${{ github.token }}
         run: python scripts/runner.py
 
@@ -79,6 +81,7 @@ jobs:
           REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+          REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
         run: python scripts/listas.py
 
       - name: Top 10 - enlaces de la vuelta al mundo
@@ -87,6 +90,7 @@ jobs:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+          REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
         run: |
           python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])" || true
           python scripts/top10_cadena.py || echo "cadena: aviso"
@@ -98,6 +102,7 @@ jobs:
           META_PAGE_TOKEN_TOP10: ${{ secrets.META_PAGE_TOKEN_TOP10 }}
           META_PAGE_TOKEN_ES_SABATICA: ${{ secrets.META_PAGE_TOKEN_ES_SABATICA }}
           META_PAGE_TOKEN_PT_SABATINA: ${{ secrets.META_PAGE_TOKEN_PT_SABATINA }}
+          META_PAGE_TOKEN_CRYPTULINE: ${{ secrets.META_PAGE_TOKEN_CRYPTULINE }}
           GH_TOKEN: ${{ github.token }}
         run: python scripts/meta.py publicar
 
