@@ -9,8 +9,8 @@ from pathlib import Path
 from common import load_json, save_json, ts
 
 LIMITS = {"titulo": 100, "descripcion": 5000, "tags_total": 500}
-CREDITOS_TXT = {"es": "Imágenes: Pexels", "pt": "Imagens: Pexels"}
-CAP_TXT = {"es": "Capítulos", "pt": "Capítulos"}
+CREDITOS_TXT = {"es": "Imágenes: Pexels", "pt": "Imagens: Pexels", "en": "Images: Pexels", "fr": "Images : Pexels"}
+CAP_TXT = {"es": "Capítulos", "pt": "Capítulos", "en": "Chapters", "fr": "Chapitres"}
 
 
 def main():

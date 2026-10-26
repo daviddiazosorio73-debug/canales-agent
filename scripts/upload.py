@@ -57,7 +57,13 @@ def main():
                         "categoryId": m["categoria_id"], "defaultLanguage": m["idioma"],
                         "defaultAudioLanguage": m["idioma"]},
             "status": status}
-    req = yt.videos().insert(part="snippet,status", body=body,
+    locs = g.get("seo", {}).get("localizaciones") or {}
+    partes = "snippet,status"
+    if locs:
+        body["localizations"] = {l: {"title": v["title"][:100], "description": v["description"][:5000]}
+                                 for l, v in locs.items() if l != m["idioma"]}
+        partes += ",localizations"
+    req = yt.videos().insert(part=partes, body=body,
                              media_body=MediaFileUpload(str(proj / "salida" / "video.mp4"),
                                                         chunksize=16 * 1024 * 1024, resumable=True))
     resp = None

@@ -22,6 +22,31 @@ F = Path(__file__).resolve().parent.parent / "fuentes"
 CAT = {"v": ("views", "VISTAS", "MÁS VISTOS", (255, 45, 120)),
        "c": ("comments", "COMENTARIOS", "MÁS COMENTADOS", (0, 200, 255)),
        "l": ("likes", "LIKES", "MÁS LIKES", (255, 196, 0))}
+LBL = {"es": {"views": ("VISTAS", "MÁS VISTOS"), "comments": ("COMENTARIOS", "MÁS COMENTADOS"), "likes": ("LIKES", "MÁS LIKES"),
+              "sem": "SEMANA", "otros": {"views": "vistas", "comments": "comentarios", "likes": "likes"}},
+       "en": {"views": ("VIEWS", "MOST VIEWED"), "comments": ("COMMENTS", "MOST COMMENTED"), "likes": ("LIKES", "MOST LIKED"),
+              "sem": "WEEK", "otros": {"views": "views", "comments": "comments", "likes": "likes"}}}
+IDIOMA = "es"
+
+
+def idioma(lang):
+    """Fija el idioma de las etiquetas (es/en) y traduce CAT."""
+    global IDIOMA
+    IDIOMA = lang if lang in LBL else "en"
+    for letra, (k, _, _, col) in list(CAT.items()):
+        CAT[letra] = (k, LBL[IDIOMA][k][0], LBL[IDIOMA][k][1], col)
+
+
+def nombre_pais(code):
+    if not code:
+        return None
+    try:
+        from babel import Locale
+        return (Locale.parse(IDIOMA).territories.get(code) or code).upper()
+    except Exception:
+        return PAIS.get(code, code)
+
+
 PAIS = {"MX": "MÉXICO", "BR": "BRASIL", "CO": "COLOMBIA", "AR": "ARGENTINA", "PE": "PERÚ", "CL": "CHILE",
         "EC": "ECUADOR", "VE": "VENEZUELA", "GT": "GUATEMALA", "BO": "BOLIVIA", "UY": "URUGUAY", "PY": "PARAGUAY",
         "DO": "REP. DOMINICANA", "CR": "COSTA RICA", "PA": "PANAMÁ", "HN": "HONDURAS", "SV": "EL SALVADOR",
@@ -43,7 +68,8 @@ def mont(s, peso="ExtraBold"):
 
 
 def miles(n):
-    return f"{int(n):,}".replace(",", ".")
+    t = f"{int(n):,}"
+    return t if IDIOMA == "en" else t.replace(",", ".")
 
 
 def corta(d, txt, font, ancho):
@@ -87,7 +113,7 @@ def ficha(r, rank, letra, maximo, thumb, semana, frac=1.0):
     d.rounded_rectangle([70, 50, 70 + wpill, 126], 38, fill=col)
     d.text((100, 63), pill, font=fp, fill=(10, 10, 16))
     cx = 70 + wpill + 24
-    for c in [semana, PAIS.get(r.get("country"), r.get("country")), (r.get("language") or "").upper()]:
+    for c in [semana, nombre_pais(r.get("country")), (r.get("language") or "").upper()]:
         if not c:
             continue
         wc = d.textlength(c, font=mont(30)) + 40
@@ -129,7 +155,7 @@ def ficha(r, rank, letra, maximo, thumb, semana, frac=1.0):
         d.rounded_rectangle([x0 - 12, y0 - 12, x0 + tw + 12, y0 + th + 12], 22, fill=col)
         im.paste(t, (x0, y0))
     d.text((x0, y0 + th + 22), corta(d, r.get("title") or "", mont(34, "SemiBold"), tw), font=mont(34, "SemiBold"), fill=(230, 230, 238))
-    otros = [(x, l) for x, l in (("views", "vistas"), ("comments", "comentarios"), ("likes", "likes")) if x != k]
+    otros = [(x, l) for x, l in LBL[IDIOMA]["otros"].items() if x != k]
     extra = "  ·  ".join(f"{miles(r.get(x) or 0)} {l}" for x, l in otros if r.get(x) is not None)
     d.text((x0, y0 + th + 70), extra, font=mont(32, "Bold"), fill=col)
     return im.convert("RGB")
@@ -162,6 +188,36 @@ def tabla(lista, letra, semana):
     return im.convert("RGB")
 
 
+def portada(tar, fondos, col=(255, 45, 120)):
+    """Tarjeta de apertura/reglas/cierre: mosaico de miniaturas (solo puestos 4-10, sin spoilers) + título gigante."""
+    im = Image.new("RGB", (W, H), (12, 10, 20))
+    if fondos:
+        tw, th = W // 4, H // 3
+        for i in range(12):
+            t = fondos[i % len(fondos)].resize((tw, th))
+            im.paste(t, ((i % 4) * tw, (i // 4) * th))
+        im = im.filter(ImageFilter.GaussianBlur(14)).point(lambda p: int(p * 0.35))
+    im = im.convert("RGBA")
+    capa = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    d = ImageDraw.Draw(capa)
+    for y in range(H):
+        d.line([(0, y), (W, y)], fill=(*col, int(90 * (1 - y / H))))
+    im = Image.alpha_composite(im, capa)
+    d = ImageDraw.Draw(im)
+    tit = tar.get("titulo", "")
+    f = anton(230)
+    while d.textlength(tit, font=f) > W - 200:
+        f = anton(f.size - 8)
+    texto_sombra(d, ((W - d.textlength(tit, font=f)) / 2, 250), tit, f, (255, 255, 255), sombra=12, stroke=8, stroke_fill=col)
+    sub = tar.get("sub", "")
+    if sub:
+        fs = mont(54)
+        while d.textlength(sub, font=fs) > W - 240:
+            fs = mont(fs.size - 4)
+        d.text(((W - d.textlength(sub, font=fs)) / 2, 250 + f.size + 70), sub, font=fs, fill=(255, 214, 0))
+    return im.convert("RGB")
+
+
 def main():
     proj = Path(sys.argv[1])
     cats = proj / "categorias3.json"
@@ -170,11 +226,13 @@ def main():
         return
     D = json.loads(cats.read_text())
     g = json.loads((proj / "guion.json").read_text())
+    idioma(g.get("lang", "es"))
     sem = g.get("semana", "")
-    semana = f"SEMANA {sem.split('W')[-1]}" if "W" in sem else sem.upper()
+    semana = f"{LBL[IDIOMA]['sem']} {sem.split('W')[-1]}" if "W" in sem else sem.upper()
     img = proj / "imagenes"
     img.mkdir(exist_ok=True)
     hechas = set()
+    fondos = []
     for e in g["escenas"]:
         vid, letra = e.get("video_id"), e["id"][0]
         if not vid or letra not in CAT:
@@ -187,6 +245,8 @@ def main():
         r, rank = lista[pos], pos + 1
         maximo = max((x.get(k) or 0) for x in lista) or 1
         thumb = bajar(vid, ["maxresdefault", "hq720", "sddefault", "hqdefault"])
+        if thumb is not None and rank >= 4 and len(fondos) < 12:
+            fondos.append(recortar_barras(thumb))
         ficha(r, rank, letra, maximo, thumb, semana).save(img / f"{e['id']}_card.jpg", quality=93)
         anim = []
         for n in range(N_CNT):
@@ -200,6 +260,9 @@ def main():
             e["tabla"] = f"imagenes/tabla_{k}.jpg"
             hechas.add(letra)
         print(f"+ ficha {e['id']} (#{rank} {k})")
+    for e in g["escenas"]:  # tarjetas de apertura, reglas y cierre con impacto
+        if e.get("tarjeta") and not e.get("video_id"):
+            portada(e["tarjeta"], fondos).save(img / f"{e['id']}.jpg", quality=93)
     (proj / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
 
 

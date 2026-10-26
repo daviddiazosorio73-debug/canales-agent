@@ -16,11 +16,13 @@ TW, TH = 1280, 720
 ROSA, AMARILLO = (255, 45, 120), (255, 214, 0)
 
 
-def cifra(n):
+def cifra(n, es=True):
     if n >= 1_000_000:
         m = n / 1_000_000
-        return (f"{int(m)}" if m >= 10 else f"{m:.1f}".replace(".", ",").replace(",0", "")) + " MILLONES"
-    return f"{n // 1000} MIL"
+        if es:
+            return (f"{int(m)}" if m >= 10 else f"{int(m * 10) / 10:.1f}".replace(".", ",").replace(",0", "")) + " MILLONES"
+        return (f"{int(m)}" if m >= 10 else f"{int(m * 10) / 10:.1f}".replace(".0", "")) + " MILLION"
+    return f"{n // 1000} MIL" if es else f"{n // 1000}K"
 
 
 def main():
@@ -33,7 +35,9 @@ def main():
     D = json.loads(cats.read_text())
     top = D["views"][0]
     sem = g.get("semana", "")
-    semana = f"SEMANA {sem.split('W')[-1]}" if "W" in sem else sem.upper()
+    es = g.get("lang", "es") == "es"
+    semana = f"{'SEMANA' if es else 'WEEK'} {sem.split('W')[-1]}" if "W" in sem else sem.upper()
+    cont = (g.get("continente") or "Latinoamérica").upper()
     # SUSPENSO: nunca se muestra quién es el #1 ni el podio. Se usan puestos 4 al 10 y una casilla misteriosa.
     pool = [r for k in ("views", "likes", "comments") for r in D.get(k, [])[3:10]]
     vistos, tiles = set(), []
@@ -75,17 +79,17 @@ def main():
     # Texto
     d.text((40, 40), "TOP", font=anton(190), fill=(255, 255, 255), stroke_width=6, stroke_fill=(0, 0, 0))
     d.text((40, 250), "10", font=anton(260), fill=AMARILLO, stroke_width=8, stroke_fill=(0, 0, 0))
-    c = f"¿QUIÉN LOGRÓ {cifra(int(top.get('views') or 0))}?"
+    c = f"¿QUIÉN LOGRÓ {cifra(int(top.get('views') or 0))}?" if es else f"WHO HIT {cifra(int(top.get('views') or 0), False)}?"
     fc = anton(88)
     while d.textlength(c, font=fc) > 2 * w + gap:
         fc = anton(fc.size - 4)
     yb = y0 + 2 * h + gap + 34
     d.text((x0, yb), c, font=fc, fill=(255, 255, 255), stroke_width=6, stroke_fill=(0, 0, 0))
-    d.text((x0 + 4, yb + fc.size + 26), "DE VISTAS EN LATINOAMÉRICA", font=mont(36), fill=AMARILLO,
+    d.text((x0 + 4, yb + fc.size + 26), (f"DE VISTAS EN {cont}" if es else f"VIEWS IN {cont}"), font=mont(36), fill=AMARILLO,
            stroke_width=3, stroke_fill=(0, 0, 0))
     fp = mont(34)
-    d.rounded_rectangle([40, 616, 80 + d.textlength(f"{semana} · LATAM", font=fp), 676], 30, fill=ROSA)
-    d.text((60, 625), f"{semana} · LATAM", font=fp, fill=(255, 255, 255))
+    d.rounded_rectangle([40, 616, 80 + d.textlength(f"{semana} · {cont}", font=fp), 676], 30, fill=ROSA)
+    d.text((60, 625), f"{semana} · {cont}", font=fp, fill=(255, 255, 255))
     out = proj / "salida" / "miniatura.jpg"
     out.parent.mkdir(exist_ok=True)
     im.convert("RGB").save(out, quality=90, optimize=True)

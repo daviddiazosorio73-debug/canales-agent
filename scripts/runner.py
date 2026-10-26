@@ -66,6 +66,13 @@ def main():
             if (proj / "publicado.json").exists():
                 continue
             g = json.loads(gj.read_text())
+            solo = os.environ.get("SOLO_PROYECTO")
+            if solo and proj.resolve() != (ROOT / solo).resolve():
+                continue
+            if not solo and g.get("motor") == "top10-semanal":
+                desde = g.get("reintento_desde")  # lo produce su propio workflow; aquí solo se reintenta si falló
+                if not desde or datetime.fromisoformat(desde.replace("Z", "+00:00")) > ahora:
+                    continue
             fp = fecha_pub(g)
             if fp <= ahora + timedelta(hours=VENTANA_HORAS):
                 pendientes.append((fp, canal, cfg, proj, g))

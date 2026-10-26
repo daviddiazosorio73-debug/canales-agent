@@ -30,8 +30,8 @@ def main():
         sys.exit("\n".join(err))
     if g["tipo"] not in RANGO:
         err.append(f"tipo debe ser uno de: {', '.join(RANGO)}.")
-    if g["lang"] not in ("es", "pt"):
-        err.append("lang debe ser 'es' o 'pt'.")
+    if g["lang"] not in ("es", "pt", "en", "fr"):
+        err.append("lang debe ser 'es', 'pt', 'en' o 'fr'.")
     ids = [e.get("id") for e in g["escenas"]]
     if len(set(ids)) != len(ids) or not all(ids):
         err.append("Cada escena necesita un 'id' único.")

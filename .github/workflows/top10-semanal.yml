@@ -1,0 +1,112 @@
+name: Top 10 semanal (continentes + mundial)
+
+on:
+  schedule:
+    - cron: "55 4 * * 0"   # domingo 04:55 UTC = sábado 23:55 Lima (corte semanal)
+  workflow_dispatch:
+    inputs:
+      prueba:
+        description: "Solo probar datos y guiones (no publica)"
+        type: boolean
+        default: true
+
+concurrency:
+  group: top10-semanal
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+  GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+  REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+
+jobs:
+  datos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      matriz: ${{ steps.m.outputs.matriz }}
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q pillow requests google-api-python-client google-auth-oauthlib babel num2words
+      - name: Datos, ranking y guiones (sin Claude)
+        run: |
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
+          if [ "${{ inputs.prueba }}" = "true" ]; then python scripts/top10_semana.py --prueba; echo '[]' > top10_matriz.json; exit 0; fi
+          python scripts/top10_semana.py
+          for d in $(python -c "import json;print(' '.join(json.load(open('top10_matriz.json'))))"); do python scripts/validate.py "$d"; done
+      - id: m
+        run: echo "matriz=$(cat top10_matriz.json)" >> "$GITHUB_OUTPUT"
+      - name: Guardar
+        if: inputs.prueba != true
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add canales
+          git commit -m "Top 10 semanal: datos y guiones" || true
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 7; done
+
+  producir:
+    needs: datos
+    if: needs.datos.outputs.matriz != '[]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        proyecto: ${{ fromJson(needs.datos.outputs.matriz) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Dependencias
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q pillow requests google-api-python-client google-auth-oauthlib edge-tts sherpa-onnx==1.13.8 soundfile babel num2words
+          pip install -q torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+          pip install -q chatterbox-tts
+      - name: Voz del Fundador
+        env:
+          VOICE_KEY: ${{ secrets.VOICE_KEY }}
+        run: |
+          mkdir -p voces
+          openssl enc -d -aes-256-cbc -pbkdf2 -in voces_ref/david.wav.enc -out voces/david.wav -pass env:VOICE_KEY
+      - name: Producir y programar
+        env:
+          SOLO_PROYECTO: ${{ matrix.proyecto }}
+          VENTANA_HORAS: "48"
+        run: python scripts/runner.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add "${{ matrix.proyecto }}"
+          git commit -m "Top 10 publicado: ${{ matrix.proyecto }}" || true
+          for i in 1 2 3 4 5 6 7 8; do git pull --rebase -q && git push -q && break; sleep $((RANDOM % 20 + 5)); done
+
+  cadena:
+    needs: producir
+    if: always() && inputs.prueba != true
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - run: pip install -q requests google-api-python-client google-auth-oauthlib
+      - name: Lista "Vuelta al mundo" y enlaces entre ediciones
+        run: |
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
+          python scripts/top10_cadena.py
+      - name: Guardar
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add canales
+          git commit -m "Top 10: vuelta al mundo enlazada" || true
+          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 7; done

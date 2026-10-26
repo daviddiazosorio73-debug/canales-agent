@@ -23,7 +23,7 @@ jobs:
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
-          pip install -q pillow requests google-api-python-client google-auth-oauthlib edge-tts sherpa-onnx==1.13.8 soundfile
+          pip install -q pillow requests google-api-python-client google-auth-oauthlib edge-tts sherpa-onnx==1.13.8 soundfile babel num2words
 
       - name: Voces offline (caché)
         uses: actions/cache@v4
@@ -80,6 +80,16 @@ jobs:
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
         run: python scripts/listas.py
+
+      - name: Top 10 - enlaces de la vuelta al mundo
+        if: always()
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+        run: |
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])" || true
+          python scripts/top10_cadena.py || echo "cadena: aviso"
 
       - name: Instagram y Facebook
         if: always()
