@@ -23,9 +23,11 @@ jobs:
       - name: Token
         run: python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
       - name: Miniatura de impacto, menciones y SEO
-        run: python scripts/retocar_top10.py "$PROYECTO" --canal top10-redes
+        run: '[ -f "$PROYECTO/miniatura_impacto.jpg" ] && echo "ya retocado" || python scripts/retocar_top10.py "$PROYECTO" --canal top10-redes'
       - name: Lista de reproducción
-        run: LISTAS_ESTRICTO=1 python scripts/listas.py
+        run: |
+          set -o pipefail
+          LISTAS_ESTRICTO=1 python scripts/listas.py 2>&1 | tail -40 | tee canales/top10-redes/listas.log
       - name: Guardar
         if: always()
         run: |
