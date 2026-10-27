@@ -97,7 +97,9 @@ jobs:
         env:
           SOLO_PROYECTO: ${{ matrix.proyecto }}
           VENTANA_HORAS: "48"
-        run: python scripts/runner.py
+        run: |
+          set -o pipefail
+          python scripts/runner.py 2>&1 | tee "$SOLO_PROYECTO/produccion.log"
       - name: Guardar
         if: always()
         run: |
