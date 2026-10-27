@@ -4,6 +4,7 @@ Uso: python top10_cadena.py   (después de producir las ediciones; token de top1
 """
 import json
 import sys
+import time
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -15,6 +16,19 @@ TXT = {"es": ("▶ Siguiente parada", "📺 Vuelta al mundo completa (termina en
        "en": ("▶ Next stop", "📺 Full world tour (ends with the global Top 10)"),
        "pt": ("▶ Próxima parada", "📺 Volta ao mundo completa (termina no Top 10 Mundial)"),
        "fr": ("▶ Prochaine étape", "📺 Tour du monde complet (se termine par le Top 10 mondial)")}
+
+
+def ejecuta(req, intentos=6):
+    """YouTube responde a veces 409 SERVICE_UNAVAILABLE / 5xx en inserciones seguidas: reintenta con espera."""
+    from googleapiclient.errors import HttpError
+    for k in range(intentos):
+        try:
+            return req.execute()
+        except HttpError as e:
+            if e.resp.status in (409, 500, 503) and k < intentos - 1:
+                time.sleep(5 * (k + 1))
+                continue
+            raise
 
 
 def main():
@@ -34,25 +48,41 @@ def main():
         return
     yt = service(CANAL)
     n = S["semana"].split("W")[-1]
+    titulo = f"Top 10 · Vuelta al mundo / World Tour · Semana {n}"
     if not S.get("playlist"):
-        S["playlist"] = yt.playlists().insert(part="snippet,status", body={
-            "snippet": {"title": f"Top 10 · Vuelta al mundo / World Tour · Semana {n}",
-                        "description": "Oceanía → Asia → África → Europa → América → Top 10 Mundial. Mírala en orden. #Top10RS"},
-            "status": {"privacyStatus": "public"}}).execute()["id"]
-        S["en_lista"] = []
+        # reutiliza la lista si ya se creó en una corrida que se cortó (evita duplicados)
+        previas = [p for p in ejecuta(yt.playlists().list(part="snippet,contentDetails", mine=True, maxResults=50)).get("items", [])
+                   if p["snippet"]["title"] == titulo]
+        if previas:
+            previas.sort(key=lambda p: -p["contentDetails"]["itemCount"])
+            S["playlist"] = previas[0]["id"]
+            S["en_lista"] = [it["snippet"]["resourceId"]["videoId"] for it in ejecuta(yt.playlistItems().list(
+                part="snippet", playlistId=S["playlist"], maxResults=50)).get("items", [])]
+            if len(previas) > 1:
+                print("cadena: aviso, listas duplicadas sin usar:", [p["id"] for p in previas[1:]])
+        else:
+            S["playlist"] = ejecuta(yt.playlists().insert(part="snippet,status", body={
+                "snippet": {"title": titulo,
+                            "description": "Oceanía → Asia → África → Europa → América → Top 10 Mundial. Mírala en orden. #Top10RS"},
+                "status": {"privacyStatus": "public"}}))["id"]
+            S["en_lista"] = []
+            time.sleep(5)
+        sp.write_text(json.dumps(S, ensure_ascii=False, indent=1))
     pl = S["playlist"]
     for i, (vid, g) in enumerate(eds):
         if vid not in S["en_lista"]:
-            yt.playlistItems().insert(part="snippet", body={"snippet": {
-                "playlistId": pl, "position": min(i, len(S["en_lista"])), "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+            ejecuta(yt.playlistItems().insert(part="snippet", body={"snippet": {
+                "playlistId": pl, "position": min(i, len(S["en_lista"])), "resourceId": {"kind": "youtube#video", "videoId": vid}}}))
             S["en_lista"].append(vid)
+            sp.write_text(json.dumps(S, ensure_ascii=False, indent=1))
+            time.sleep(2)
     S.setdefault("enlazados", [])
     for i, (vid, g) in enumerate(eds):
         sig = eds[i + 1] if i + 1 < len(eds) else None
         clave = f"{vid}>{sig[0] if sig else 'fin'}"
         if clave in S["enlazados"]:
             continue
-        v = yt.videos().list(part="snippet,localizations", id=vid).execute()["items"][0]
+        v = ejecuta(yt.videos().list(part="snippet,localizations", id=vid))["items"][0]
         sn = v["snippet"]
 
         def bloque(lang, base):
@@ -72,8 +102,9 @@ def main():
             body["localizations"] = {l: {"title": x["title"], "description": bloque(l, x.get("description", ""))}
                                      for l, x in v["localizations"].items()}
             partes += ",localizations"
-        yt.videos().update(part=partes, body=body).execute()
+        ejecuta(yt.videos().update(part=partes, body=body))
         S["enlazados"].append(clave)
+        sp.write_text(json.dumps(S, ensure_ascii=False, indent=1))
         print(f"+ enlazado {g['edicion']} → {sig[1]['edicion'] if sig else 'fin'}")
     sp.write_text(json.dumps(S, ensure_ascii=False, indent=1))
 

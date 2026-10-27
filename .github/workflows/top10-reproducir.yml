@@ -94,6 +94,7 @@ jobs:
           python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
           python scripts/top10_cadena.py
       - name: Guardar
+        if: always()
         run: |
           git config user.name "canales-bot"
           git config user.email "canales-bot@users.noreply.github.com"
