@@ -191,6 +191,38 @@ def write_subs(all_cues, srt, ass):
             f.write(f"Dialogue: 0,{at(a)},{at(b + 0.15)},Default,{t}\n")
 
 
+def pantalla_final(g, tmp, preset, brand, seg):
+    """Cola para la pantalla final de YouTube: va DESPUÉS de todo el contenido, así los elementos
+    (suscribirse, lista) nunca tapan la presentación del #1. Sin voz; la música sigue debajo."""
+    es = g.get("lang", "es") == "es"
+    im = Image.new("RGB", (W, H), (10, 8, 20))
+    d = ImageDraw.Draw(im)
+    for y in range(H):  # degradado suave hacia el color de la marca
+        k = y / H
+        d.line([(0, y), (W, y)], fill=tuple(int(c * 0.35 * k + 10 * (1 - k)) for c in brand))
+    try:
+        from top10_fichas import anton, mont
+        f1, f2 = anton(int(H * 0.13)), mont(int(H * 0.04))
+    except Exception:
+        f1 = ImageFont.truetype(font_path(True, SKILL_DIR), int(H * 0.11))
+        f2 = ImageFont.truetype(font_path(False, SKILL_DIR), int(H * 0.04))
+    t1 = "#Top10RS"
+    t2 = ("Suscríbete · Sigue la vuelta al mundo" if es else "Subscribe · Keep touring the world")
+    t3 = ("¿Premiación en vivo? Comenta #PremiosTop10RS" if es else "Live awards? Comment #PremiosTop10RS")
+    y = int(H * 0.08)
+    for txt, f, col in ((t1, f1, (255, 255, 255)), (t2, f2, (255, 214, 0)), (t3, f2, (255, 255, 255))):
+        d.text(((W - d.textlength(txt, font=f)) / 2, y), txt, font=f, fill=col, stroke_width=3, stroke_fill=(0, 0, 0))
+        y += int(f.size * 1.35)
+    png = tmp / "pantalla_final.png"
+    im.save(png)
+    out = tmp / "999_final.mp4"
+    run(["ffmpeg", "-y", "-v", "error", "-loop", "1", "-framerate", str(FPS), "-i", str(png),
+         "-f", "lavfi", "-i", "anullsrc=r=48000:cl=stereo",
+         "-vf", f"fade=t=in:st=0:d={FADE},format=yuv420p", "-t", f"{seg:.3f}",
+         "-c:v", "libx264", "-preset", preset, "-crf", "19", "-c:a", "aac", "-b:a", "192k", str(out)])
+    return out
+
+
 def main():
     proj = Path(sys.argv[1])
     burn = "--sin-subtitulos-quemados" not in sys.argv
@@ -212,6 +244,12 @@ def main():
             caps.append({"t": round(t, 2), "titulo": e["capitulo"]})
         t += dur
         print(f"+ escena {e['id']} {dur:.1f}s")
+
+    seg_final = float(g.get("pantalla_final_seg", 15 if g.get("tipo") == "top10" and not VERTICAL else 0))
+    if seg_final > 0:
+        clips.append(pantalla_final(g, tmp, preset, brand, seg_final))
+        t += seg_final
+        print(f"+ pantalla final {seg_final:.0f}s")
 
     (tmp / "lista.txt").write_text("".join(f"file '{c.name}'\n" for c in clips))
     run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", str(tmp / "lista.txt"),
