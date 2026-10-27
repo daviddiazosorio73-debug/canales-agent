@@ -367,6 +367,9 @@ def descripcion(lang, cont, cats, h_canal, h_ed, semana_n):
         for v in sorted(cats[k], key=lambda x: x["creator_name"].lower()):
             h = f" ({v['handle']})" if v.get("handle", "").startswith("@") else ""
             L.append(f"▶ {v['creator_name']}{h} — {v['url']}")
+    an = CFG.get("anuncio") or {}
+    if an and an.get("desc", {}).get(lang) and semana_n <= an.get("hasta_semana", "").split("W")[-1]:
+        L[0:0] = [an["desc"][lang], ""]
     L += ["", m["metodo"].format(c=cont), "", m["cta"].format(h=h_canal), "", m["ia"]]
     return "\n".join(L)[:4600]
 
@@ -401,6 +404,9 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
                 e["capitulo"] = t["cap"]["podio"]
             escenas.append(e)
     cierre = (t["cierre_sig"].format(s=siguiente) if siguiente else t["cierre_fin"]) + " " + t["cierre"].format(h=h_canal)
+    an = CFG.get("anuncio") or {}
+    if an and semana_iso <= an.get("hasta_semana", "") and an.get(lang):
+        cierre = an[lang] + " " + cierre
     escenas.append({"id": "cierre", "capitulo": t["cap"]["cierre"], "emocion": "calido", "texto": cierre,
                     "tarjeta": {"titulo": f"#{h_canal}", "sub": (f"→ {siguiente}" if siguiente else "")}})
     hh, mm = map(int, ed["publicar_utc"].split(":"))
