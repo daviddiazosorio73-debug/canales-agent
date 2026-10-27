@@ -1,0 +1,30 @@
+{
+ "kind": "youtube#channel",
+ "etag": "EJuxovwlhA6xvh3hpGPRV2GxSpk",
+ "id": "UC5hAk81MlV4wE5Lvl9PV1lQ",
+ "statistics": {
+  "viewCount": "5",
+  "subscriberCount": "1",
+  "hiddenSubscriberCount": false,
+  "videoCount": "8"
+ },
+ "brandingSettings": {
+  "channel": {
+   "title": "Top 10 Redes Sociales",
+   "description": "🌎 Top 10 Redes Sociales: la VUELTA AL MUNDO de lo más viral, cada semana.\n\nCada domingo contamos los 10 videos más vistos, más comentados y con más likes de YouTube en Oceanía, Asia, África, Europa y América… y al final, el TOP 10 MUNDIAL. Desde noviembre sumamos los 10 TikTok más virales (miércoles) y los Reels de Instagram (viernes).\n\n✅ Cifras reales de la API oficial · ✅ Un video por creador · ✅ Enlaces a los creadores originales\n\n🏆 ¿Premiación EN VIVO para los ganadores? Comenta #PremiosTop10RS en cualquier video.\n🔔 Suscríbete y entérate primero de los ganadores de tu continente: ¡la próxima semana tu video podría estar en el ranking mundial!\n\n#Top10RS #Top10 #Virales #Tendencias",
+   "keywords": "\"top 10\" \"top 10 redes sociales\" virales tendencias \"lo más visto\" \"videos virales\" \"top 10 mundial\" \"ranking semanal\" \"top 10 youtube\" \"top 10 tiktok\" \"top 10 instagram\" \"viral videos\" trending Top10RS",
+   "unsubscribedTrailer": "FWNPockJ5b4",
+   "defaultLanguage": "es",
+   "country": "PE"
+  },
+  "image": {
+   "bannerExternalUrl": "https://yt3.googleusercontent.com/Bx3tApjwznkTHzqn-ZsgWwvgMTq3FxNZa_nSAbXEk_D37pBVcQKnUHR5xFDrQwNZAp-IRctK0Q"
+  }
+ },
+ "localizations": {
+  "es_ES": {
+   "title": "Top 10 Redes Sociales",
+   "description": "🌎 Top 10 Redes Sociales: la VUELTA AL MUNDO de lo más viral, cada semana.\n\nCada domingo contamos los 10 videos más vistos, más comentados y con más likes de YouTube en Oceanía, Asia, África, Europa y América… y al final, el TOP 10 MUNDIAL. Desde noviembre sumamos los 10 TikTok más virales (miércoles) y los Reels de Instagram (viernes).\n\n✅ Cifras reales de la API oficial · ✅ Un video por creador · ✅ Enlaces a los creadores originales\n\n🏆 ¿Premiación EN VIVO para los ganadores? Comenta #PremiosTop10RS en cualquier video.\n🔔 Suscríbete y entérate primero de los ganadores de tu continente: ¡la próxima semana tu video podría estar en el ranking mundial!\n\n#Top10RS #Top10 #Virales #Tendencias"
+  }
+ }
+}
