@@ -1,0 +1,34 @@
+name: Comunidad Top 10 (respuestas y metas)
+on:
+  schedule:
+    - cron: "23 15 * * *"   # 10:23 Lima
+    - cron: "23 1 * * *"    # 20:23 Lima
+  workflow_dispatch: {}
+concurrency:
+  group: comunidad
+  cancel-in-progress: false
+permissions:
+  contents: write
+env:
+  GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+  GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+  REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+jobs:
+  comunidad:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests google-api-python-client google-auth-oauthlib
+      - name: Responder y contar
+        run: |
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
+          python scripts/comunidad.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add canales/top10-redes/comunidad.json canales/top10-redes/METAS.md || true
+          git commit -m "Top 10: comunidad y metas" || true
+          for i in 1 2 3 4 5; do git pull --rebase --autostash -q && git push -q && break; sleep 7; done
