@@ -1,0 +1,13 @@
+token: True
+Traceback (most recent call last):
+  File "/home/runner/work/canales-agent/canales-agent/scripts/top10_cadena.py", line 82, in <module>
+    main()
+    ~~~~^^
+  File "/home/runner/work/canales-agent/canales-agent/scripts/top10_cadena.py", line 47, in main
+    "playlistId": pl, "position": min(i, len(S["en_lista"])), "resourceId": {"kind": "youtube#video", "videoId": vid}}}).execute()
+                                                                                                                         ~~~~~~~^^
+  File "/home/runner/.local/lib/python3.14/site-packages/googleapiclient/_helpers.py", line 130, in positional_wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/runner/.local/lib/python3.14/site-packages/googleapiclient/http.py", line 1018, in execute
+    raise HttpError(resp, content, uri=self.uri)
+googleapiclient.errors.HttpError: <HttpError 409 when requesting https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&alt=json returned "The operation was aborted.". Details: "[{'domain': 'youtube.CoreErrorDomain', 'reason': 'SERVICE_UNAVAILABLE'}]">
