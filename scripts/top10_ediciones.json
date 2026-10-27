@@ -1,5 +1,5 @@
 {
- "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). publicar_utc = hora del domingo (UTC). lang = idioma de la narración; locs = títulos/descripciones traducidos. Horas = 06:00 del domingo en cada continente (Sydney, India, Cairo/Johannesburgo, Europa central, Lima); Mundial con América. Corte de datos: sábado 12:00 UTC.",
+ "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). Corte de datos: miércoles 12:00 UTC (07:00 Lima); producción y subida miércoles-jueves; cada edición se programa para el domingo a la hora 'publicar_utc' LOCAL de su zona 'tz' (06:00). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
  "hashtag_canal": "Top10RS",
  "ediciones": [
   {
@@ -11,7 +11,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "19:00",
+   "publicar_utc": "06:00",
    "hashtag": "Top10Oceania",
    "nombre": {
     "es": "Oceanía",
@@ -27,7 +27,8 @@
    "busqueda": [
     "AU",
     "NZ"
-   ]
+   ],
+   "tz": "Australia/Sydney"
   },
   {
    "id": "asia",
@@ -38,7 +39,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "00:30",
+   "publicar_utc": "06:00",
    "hashtag": "Top10Asia",
    "nombre": {
     "es": "Asia",
@@ -81,7 +82,8 @@
     "IN",
     "ID",
     "JP"
-   ]
+   ],
+   "tz": "Asia/Kolkata"
   },
   {
    "id": "africa",
@@ -92,7 +94,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "04:00",
+   "publicar_utc": "06:00",
    "hashtag": "Top10Africa",
    "nombre": {
     "es": "África",
@@ -119,7 +121,8 @@
     "NG",
     "EG",
     "ZA"
-   ]
+   ],
+   "tz": "Africa/Cairo"
   },
   {
    "id": "europa",
@@ -130,7 +133,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "05:00",
+   "publicar_utc": "06:00",
    "hashtag": "Top10Europe",
    "nombre": {
     "es": "Europa",
@@ -176,7 +179,8 @@
     "GB",
     "DE",
     "FR"
-   ]
+   ],
+   "tz": "Europe/Paris"
   },
   {
    "id": "america",
@@ -187,7 +191,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "11:00",
+   "publicar_utc": "06:00",
    "hashtag": "Top10America",
    "nombre": {
     "es": "América",
@@ -226,7 +230,8 @@
    ],
    "titulo": {
     "en": "Americas"
-   }
+   },
+   "tz": "America/Lima"
   },
   {
    "id": "mundial",
@@ -237,7 +242,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "11:00",
+   "publicar_utc": "06:00",
    "hashtag": "Top10World",
    "nombre": {
     "es": "el mundo",
@@ -252,7 +257,8 @@
     "en": "World",
     "pt": "Mundial",
     "fr": "Monde"
-   }
+   },
+   "tz": "America/Lima"
   }
  ],
  "anuncio": {

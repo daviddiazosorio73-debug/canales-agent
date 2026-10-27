@@ -1,6 +1,6 @@
 """Top 10 semanal por continente + Mundial, 100 % automático (sin Claude, sin IA que invente).
 
-Corre en GitHub Actions el domingo 04:55 UTC (sábado 23:55 Lima). Para cada edición de top10_ediciones.json:
+Corre en GitHub Actions el miércoles 12:00 UTC (07:00 Lima); programa cada edición para las 06:00 locales del domingo de su continente. Para cada edición de top10_ediciones.json:
   1. Datos: videos en tendencia (videos.list chart=mostPopular, 1 unidad/página) de cada país del continente
      + búsqueda de los más vistos de la semana en sus países grandes. Solo videos publicados en los últimos 7 días.
      Fuera: música (cat. 10), noticias/política (25), transmisiones en vivo, videos de más de 150 min y top10_vetos.json.
@@ -69,7 +69,7 @@ T = {
                       "comments": "Pasamos a la conversación: los diez videos más comentados.",
                       "likes": "Y la última lista: los diez videos con más likes."},
         "apertura": "Esta semana, en {c}, millones de personas vieron, comentaron y compartieron sin parar. Entre los treinta videos de este conteo suman {x}. Pero solo uno se quedó con el número uno. Bienvenidos a Top 10 Redes Sociales, edición {c}. Hoy, los diez videos más vistos, los diez más comentados y los diez con más likes de la semana. Quédate hasta el final, porque el número uno no lo vas a adivinar.",
-        "reglas": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en {c}. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, medidas este domingo. Empecemos.",
+        "reglas": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en {c}. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, medidas este miércoles. Empecemos.",
         "cierre_sig": "Y aquí no termina la vuelta al mundo. La siguiente parada es {s}: el enlace está en la descripción y en la lista de reproducción.",
         "cierre_fin": "Así terminó la vuelta al mundo de esta semana.",
         "cierre": "Ahora te toca a ti: ¿qué video debió estar en este conteo? Escríbelo en los comentarios con el hashtag {h}. Todos los enlaces a los videos originales están en la descripción: ve y apoya a los creadores. Suscríbete y activa la campana. Cada domingo, un nuevo Top 10.",
@@ -100,7 +100,7 @@ T = {
                       "comments": "Now for the conversation: the ten most commented videos.",
                       "likes": "And the last list: the ten most liked videos."},
         "apertura": "This week in {c}, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to {x}. But only one took number one. Welcome to Top 10 Social Media, {c} edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
-        "reglas": "The rules, quick and clear. Only videos posted in the last seven days that trended in {c}. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Sunday. Let's go.",
+        "reglas": "The rules, quick and clear. Only videos posted in the last seven days that trended in {c}. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Wednesday. Let's go.",
         "cierre_sig": "And the world tour isn't over. Next stop: {s}. The link is in the description and in the playlist.",
         "cierre_fin": "And that wraps up this week's world tour.",
         "cierre": "Now it's your turn: which video should have made this countdown? Tell us in the comments with the hashtag {h}. Links to every original video are in the description: go support the creators. Subscribe and hit the bell. A new Top 10 every Sunday.",
@@ -116,28 +116,28 @@ M = {
            "intro": "Los 10 videos más vistos, más comentados y con más likes de YouTube en {c} esta semana. Cifras reales, del 10 al 1.",
            "alfa": "Creadores de esta edición (en orden alfabético: el puesto de cada uno se revela en el video):",
            "cats": {"views": "👀 MÁS VISTOS", "comments": "💬 MÁS COMENTADOS", "likes": "❤️ MÁS LIKES"},
-           "metodo": "📊 CÓMO CONTAMOS: videos publicados en los últimos 7 días que fueron tendencia en {c}. Un video por creador en cada lista. Sin música ni noticias. Cifras de la API oficial de YouTube, medidas el domingo.",
+           "metodo": "📊 CÓMO CONTAMOS: videos publicados en los últimos 7 días que fueron tendencia en {c}. Un video por creador en cada lista. Sin música ni noticias. Cifras de la API oficial de YouTube, medidas el miércoles.",
            "cta": "💬 ¿Quién faltó? Coméntalo con #{h}. Apoya a los creadores: mira sus videos originales.",
            "ia": "Narración con la voz del autor recreada con IA."},
     "en": {"titulo": "Top 10 {c}: Most Viewed, Commented & Liked on YouTube | Week {n}",
            "intro": "The 10 most viewed, most commented and most liked YouTube videos in {c} this week. Real numbers, from 10 to 1.",
            "alfa": "Creators in this edition (alphabetical order: each ranking is revealed in the video):",
            "cats": {"views": "👀 MOST VIEWED", "comments": "💬 MOST COMMENTED", "likes": "❤️ MOST LIKED"},
-           "metodo": "📊 HOW WE COUNT: videos posted in the last 7 days that trended in {c}. One video per creator on each list. No music or news. Numbers from the official YouTube API, measured on Sunday.",
+           "metodo": "📊 HOW WE COUNT: videos posted in the last 7 days that trended in {c}. One video per creator on each list. No music or news. Numbers from the official YouTube API, measured on Wednesday.",
            "cta": "💬 Who was missing? Comment with #{h}. Support the creators: watch their original videos.",
            "ia": "Narrated with the author's voice recreated with AI."},
     "pt": {"titulo": "Top 10 {c}: os mais vistos, comentados e curtidos | Semana {n}",
            "intro": "Os 10 vídeos mais vistos, mais comentados e mais curtidos do YouTube em {c} nesta semana. Números reais, do 10 ao 1.",
            "alfa": "Criadores desta edição (em ordem alfabética: a posição de cada um é revelada no vídeo):",
            "cats": {"views": "👀 MAIS VISTOS", "comments": "💬 MAIS COMENTADOS", "likes": "❤️ MAIS CURTIDOS"},
-           "metodo": "📊 COMO CONTAMOS: vídeos publicados nos últimos 7 dias que estiveram em alta em {c}. Um vídeo por criador em cada lista. Sem música nem notícias. Números da API oficial do YouTube, medidos no domingo.",
+           "metodo": "📊 COMO CONTAMOS: vídeos publicados nos últimos 7 dias que estiveram em alta em {c}. Um vídeo por criador em cada lista. Sem música nem notícias. Números da API oficial do YouTube, medidos na quarta-feira.",
            "cta": "💬 Quem faltou? Comente com #{h}. Apoie os criadores: assista aos vídeos originais.",
            "ia": "Narração com a voz do autor recriada com IA."},
     "fr": {"titulo": "Top 10 {c} : les plus vues, commentées et aimées | Semaine {n}",
            "intro": "Les 10 vidéos YouTube les plus vues, les plus commentées et les plus aimées en {c} cette semaine. De vrais chiffres, du 10 au 1.",
            "alfa": "Créateurs de cette édition (ordre alphabétique : le classement est révélé dans la vidéo) :",
            "cats": {"views": "👀 LES PLUS VUES", "comments": "💬 LES PLUS COMMENTÉES", "likes": "❤️ LES PLUS AIMÉES"},
-           "metodo": "📊 MÉTHODE : vidéos publiées ces 7 derniers jours et en tendance en {c}. Une vidéo par créateur et par liste. Ni musique ni actualités. Chiffres de l'API officielle de YouTube, mesurés le dimanche.",
+           "metodo": "📊 MÉTHODE : vidéos publiées ces 7 derniers jours et en tendance en {c}. Une vidéo par créateur et par liste. Ni musique ni actualités. Chiffres de l'API officielle de YouTube, mesurés le mercredi.",
            "cta": "💬 Qui manque ? Commente avec #{h}. Soutiens les créateurs : regarde leurs vidéos originales.",
            "ia": "Narration avec la voix de l'auteur recréée par IA."},
 }
@@ -423,9 +423,11 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
     escenas.append({"id": "cierre", "capitulo": t["cap"]["cierre"], "emocion": "calido", "texto": cierre,
                     "tarjeta": {"titulo": f"#{h_canal}", "sub": (f"→ {siguiente}" if siguiente else "")}})
     hh, mm = map(int, ed["publicar_utc"].split(":"))
-    publicar = fin.replace(hour=hh, minute=mm, second=0, microsecond=0)
-    if publicar <= fin + timedelta(hours=3):  # siempre la próxima ocasión (06:00 locales del domingo de cada continente)
-        publicar += timedelta(days=1)
+    # 06:00 locales del domingo siguiente al corte, en la zona horaria del continente (respeta horario de verano)
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(ed.get("tz", "UTC"))
+    dom = (fin.astimezone(tz) + timedelta(days=(6 - fin.astimezone(tz).weekday()) % 7 or 7)).date()
+    publicar = datetime(dom.year, dom.month, dom.day, hh, mm, tzinfo=tz).astimezone(timezone.utc)
     locs = {}
     for l2 in ed["locs"]:
         c2 = ed["nombre"].get(l2, cont)

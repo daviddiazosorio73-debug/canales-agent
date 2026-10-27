@@ -4,7 +4,7 @@ on:
   push:
     paths: [".github/top10_lanzar.json"]
   schedule:
-    - cron: "0 12 * * 6"   # sábado 12:00 UTC = 07:00 Lima (corte semanal; publica a las 06:00 locales del domingo)
+    - cron: "0 12 * * 3"   # miércoles 12:00 UTC = 07:00 Lima (corte semanal); se programa para las 06:00 locales del domingo
   workflow_dispatch:
     inputs:
       prueba:
@@ -96,7 +96,7 @@ jobs:
       - name: Producir y programar
         env:
           SOLO_PROYECTO: ${{ matrix.proyecto }}
-          VENTANA_HORAS: "48"
+          VENTANA_HORAS: "120"
         run: |
           set -o pipefail
           python scripts/runner.py 2>&1 | tee "$SOLO_PROYECTO/produccion.log"
