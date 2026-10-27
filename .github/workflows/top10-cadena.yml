@@ -1,0 +1,31 @@
+name: Top 10 - vuelta al mundo (solo cadena)
+on:
+  push:
+    paths: [".github/top10_cadena.json"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+env:
+  GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+  GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+  REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+jobs:
+  cadena:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests google-api-python-client google-auth-oauthlib
+      - name: Cadena
+        run: |
+          set -o pipefail
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;print('token:',token_file('top10-redes',json.load(open('canales.json'))['top10-redes']))" 2>&1 | tee canales/top10-redes/cadena.log
+          python scripts/top10_cadena.py 2>&1 | tee -a canales/top10-redes/cadena.log
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add canales
+          git commit -m "Top 10: cadena (log)" || true
+          for i in 1 2 3 4 5; do git pull --rebase --autostash -q && git push -q && break; sleep 7; done
