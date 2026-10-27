@@ -40,8 +40,21 @@ def main():
     # SEO del nicho (investigacion/<canal>.seo.json, semanal): se suman después de las etiquetas propias
     nicho = Path(__file__).resolve().parent.parent / "investigacion" / f"{proj.parent.parent.name}.seo.json"
     extra = load_json(nicho).get("tags", []) if nicho.exists() else []
+    import re as _re
+
+    def limpia(t):  # YouTube rechaza < > y etiquetas raras; cada etiqueta con espacios cuenta 2 caracteres extra
+        t = _re.sub(r"[<>\"#@,]", " ", str(t))
+        t = _re.sub(r"[^\w\s\-'.&áéíóúüñÁÉÍÓÚÜÑçãõâêôàèìòù]", "", t)
+        return _re.sub(r"\s+", " ", t).strip()[:60]
     tags = []
-    for t in list(dict.fromkeys(seo.get("tags", []) + extra)):
+    total = 0
+    for t in list(dict.fromkeys(limpia(x) for x in seo.get("tags", []) + extra)):
+        if not t:
+            continue
+        coste = len(t) + (2 if " " in t else 0) + (1 if tags else 0)
+        if total + coste > 480:
+            continue
+        total += coste
         if len(",".join(tags + [t])) <= LIMITS["tags_total"]:
             tags.append(t)
     if len(seo["titulo"]) > LIMITS["titulo"]:
