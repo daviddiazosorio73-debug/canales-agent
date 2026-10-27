@@ -77,7 +77,7 @@ jobs:
           git config user.email "canales-bot@users.noreply.github.com"
           git add "${{ matrix.proyecto }}"
           git commit -m "Top 10 publicado: ${{ matrix.proyecto }}" || true
-          for i in 1 2 3 4 5 6 7 8; do git pull --rebase -q && git push -q && break; sleep $((RANDOM % 20 + 5)); done
+          for i in 1 2 3 4 5 6 7 8; do git pull --rebase --autostash -q && git push -q && break; sleep $((RANDOM % 20 + 5)); done
 
   cadena:
     needs: producir
@@ -99,4 +99,4 @@ jobs:
           git config user.email "canales-bot@users.noreply.github.com"
           git add canales
           git commit -m "Top 10: vuelta al mundo enlazada" || true
-          for i in 1 2 3 4 5; do git pull --rebase -q && git push -q && break; sleep 7; done
+          for i in 1 2 3 4 5; do git pull --rebase --autostash -q && git push -q && break; sleep 7; done
