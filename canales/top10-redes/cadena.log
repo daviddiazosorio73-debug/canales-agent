@@ -1,8 +1,7 @@
 token: True
-cadena: aviso, listas duplicadas sin usar: ['PLHhaJIb3sKiU', 'PLe_FuD_YKUbE', 'PLNE9XahGA6ag', 'PLMEP2Mj-2r7Y']
-+ enlazado oceania → asia
-+ enlazado asia → africa
-+ enlazado africa → europa
-+ enlazado europa → america
-+ enlazado america → mundial
-+ enlazado mundial → fin
+- lista duplicada borrada: PLFnoEOfCQpR0
+- lista duplicada borrada: PLRkhD2B11CzM
+- lista duplicada borrada: PLHhaJIb3sKiU
+- lista duplicada borrada: PLe_FuD_YKUbE
+- lista duplicada borrada: PLNE9XahGA6ag
+- lista duplicada borrada: PLMEP2Mj-2r7Y
