@@ -74,6 +74,8 @@ T = {
         "cierre_fin": "Así terminó la vuelta al mundo de esta semana.",
         "cierre": "Ahora te toca a ti: ¿qué video debió estar en este conteo? Escríbelo en los comentarios con el hashtag {h}. Todos los enlaces a los videos originales están en la descripción: ve y apoya a los creadores. Suscríbete y activa la campana. Cada domingo, un nuevo Top 10.",
         "mundial_ap": "Recorrimos Oceanía, Asia, África, Europa y América. Ahora, el ranking que lo reúne todo: el Top 10 mundial de la semana.",
+        "reglas_mundial": "Las reglas del mundial: aquí compiten los tres primeros de cada lista de cada continente, los mismos videos y las mismas cifras de la vuelta al mundo de este domingo. Un solo video por creador en cada lista. Todas las cifras salen de la API oficial de YouTube. Empecemos.",
+        "cta_cont": "Suscríbete y activa la campana: así te enteras primero de los ganadores de {c} cada domingo. Y atento, porque los tres primeros de cada lista pasan al ranking mundial. La próxima semana, ese video podría ser el tuyo.",
     },
     "en": {
         "cat": {"views": "most viewed", "comments": "most commented", "likes": "most liked"},
@@ -102,6 +104,8 @@ T = {
         "cierre_fin": "And that wraps up this week's world tour.",
         "cierre": "Now it's your turn: which video should have made this countdown? Tell us in the comments with the hashtag {h}. Links to every original video are in the description: go support the creators. Subscribe and hit the bell. A new Top 10 every Sunday.",
         "mundial_ap": "We toured Oceania, Asia, Africa, Europe and the Americas. Now, the ranking that brings it all together: this week's global Top 10.",
+        "reglas_mundial": "The world rules: the top three of every list from every continent compete here, the same videos and the same numbers from this Sunday's world tour. One video per creator on each list. Every number comes from the official YouTube API. Let's go.",
+        "cta_cont": "Subscribe and hit the bell, so you're the first to know the winners in {c} every Sunday. And watch out: the top three of each list move on to the global ranking. Next week, that video could be yours.",
     },
 }
 # Metadatos (título y descripción) en cada idioma
@@ -387,7 +391,7 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         ap = t["mundial_ap"] + " " + ap
     escenas.append({"id": "apertura", "capitulo": t["cap"]["apertura"], "emocion": "gancho", "texto": ap,
                     "tarjeta": {"titulo": f"TOP 10 · {cont.upper()}", "sub": f"{'Semana' if lang == 'es' else 'Week'} {n}"}})
-    escenas.append({"id": "reglas", "capitulo": t["cap"]["reglas"], "emocion": "agil", "texto": t["reglas"].format(c=cont),
+    escenas.append({"id": "reglas", "capitulo": t["cap"]["reglas"], "emocion": "agil", "texto": (t["reglas_mundial"] if ed["id"] == "mundial" else t["reglas"].format(c=cont)),
                     "tarjeta": {"titulo": "LAS REGLAS" if lang == "es" else "THE RULES", "sub": "YouTube API · 7 días" if lang == "es" else "YouTube API · 7 days"}})
     for k, letra in (("views", "v"), ("comments", "c"), ("likes", "l")):
         lista = cats[k]
@@ -404,6 +408,9 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
                 e["capitulo"] = t["cap"]["podio"]
             escenas.append(e)
     cierre = (t["cierre_sig"].format(s=siguiente) if siguiente else t["cierre_fin"]) + " " + t["cierre"].format(h=h_canal)
+    if ed["id"] != "mundial":  # continentes: la invitación a suscribirse apunta a sus ganadores y al ranking mundial
+        gen = "Suscríbete y activa la campana. Cada domingo, un nuevo Top 10." if lang == "es" else "Subscribe and hit the bell. A new Top 10 every Sunday."
+        cierre = cierre.replace(gen, t["cta_cont"].format(c=cont))
     an = CFG.get("anuncio") or {}
     if an and semana_iso <= an.get("hasta_semana", "") and an.get(lang):
         cierre = an[lang] + " " + cierre
@@ -448,12 +455,18 @@ def main():
     lanzar = json.loads((ROOT / ".github" / "top10_lanzar.json").read_text()) if (ROOT / ".github" / "top10_lanzar.json").exists() and "--lanzar" in sys.argv else {}
     acoplar = lanzar.get("acoplar", {})  # ediciones ya publicadas que entran a la vuelta al mundo
     proyectos = []
+    finalistas = {k: [] for k in ("views", "comments", "likes")}  # top 3 de cada continente → Mundial
     for i, ed in enumerate(eds):
         if ed["id"] in acoplar:
             proyectos.append(acoplar[ed["id"]])
+            c3 = ROOT / acoplar[ed["id"]] / "categorias3.json"
+            if c3.exists():
+                prev = json.loads(c3.read_text())
+                for k in finalistas:
+                    finalistas[k] += prev.get(k, [])[:3]
             continue
         if ed["regiones"] == "todas":
-            pool = videos
+            pool = None
         else:
             regs = set(ed["regiones"])
             # creadores DEL continente (país del canal); si el canal no declara país, se usa dónde fue tendencia
@@ -462,7 +475,12 @@ def main():
                     return continente_de(v["country"]) == ed["id"]
                 return bool(regs & set(v["regiones"])) and len({continente_de(r) for r in v["regiones"]}) == 1
             pool = [v for v in videos if del_continente(v)]
-        cats = {k: ranking(pool, k) for k in ("views", "comments", "likes")}
+        if pool is None:  # Mundial: solo los finalistas continentales (misma data y mismo corte)
+            cats = {k: ranking(finalistas[k], k) for k in finalistas}
+        else:
+            cats = {k: ranking(pool, k) for k in ("views", "comments", "likes")}
+            for k in finalistas:
+                finalistas[k] += cats[k][:3]
         if min(len(c) for c in cats.values()) < 10:
             print(f"! {ed['id']}: datos insuficientes ({[len(c) for c in cats.values()]}), se omite")
             continue

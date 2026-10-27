@@ -69,6 +69,11 @@ def main():
             time.sleep(5)
         sp.write_text(json.dumps(S, ensure_ascii=False, indent=1))
     pl = S["playlist"]
+    # limpia listas duplicadas de esta semana (corridas cortadas antes de guardar el avance)
+    for p in ejecuta(yt.playlists().list(part="snippet", mine=True, maxResults=50)).get("items", []):
+        if p["snippet"]["title"] == titulo and p["id"] != pl:
+            ejecuta(yt.playlists().delete(id=p["id"]))
+            print("- lista duplicada borrada:", p["id"])
     for i, (vid, g) in enumerate(eds):
         if vid not in S["en_lista"]:
             ejecuta(yt.playlistItems().insert(part="snippet", body={"snippet": {
