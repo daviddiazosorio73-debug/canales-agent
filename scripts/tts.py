@@ -140,7 +140,6 @@ def estilo(emocion, text):
 def chatterbox_scene(text, mp3, align, lang, emocion=None):
     """Voz clonada del Fundador (Chatterbox, MIT). Referencia descifrada en voces/david.wav."""
     global _CB
-    import torchaudio as ta
     if _CB is None:
         from chatterbox.mtl_tts import ChatterboxMultilingualTTS
         try:
@@ -165,7 +164,8 @@ def chatterbox_scene(text, mp3, align, lang, emocion=None):
         w = _CB.generate(t, language_id=lang, audio_prompt_path=ref, exaggeration=exag, cfg_weight=cfg)
         wavs.append(w); wavs.append(torch.zeros(1, int(_CB.sr * pausa)))
     wav = str(mp3) + ".wav"
-    ta.save(wav, torch.cat(wavs, dim=1), _CB.sr)
+    import soundfile as sf  # torchaudio nuevo exige torchcodec; soundfile no
+    sf.write(wav, torch.cat(wavs, dim=1).squeeze(0).cpu().numpy(), _CB.sr)
     estudio = (f"atempo={tempo}," if abs(tempo - 1) > 0.005 else "") + ("highpass=f=80,equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.5:g=1.5,"
                "deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=150:makeup=1.5,"
                "loudnorm=I=-16:TP=-1.5:LRA=7")
