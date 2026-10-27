@@ -424,6 +424,8 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
                     "tarjeta": {"titulo": f"#{h_canal}", "sub": (f"→ {siguiente}" if siguiente else "")}})
     hh, mm = map(int, ed["publicar_utc"].split(":"))
     publicar = fin.replace(hour=hh, minute=mm, second=0, microsecond=0)
+    if publicar <= fin + timedelta(hours=3):  # siempre la próxima ocasión (06:00 locales del domingo de cada continente)
+        publicar += timedelta(days=1)
     locs = {}
     for l2 in ed["locs"]:
         c2 = ed["nombre"].get(l2, cont)

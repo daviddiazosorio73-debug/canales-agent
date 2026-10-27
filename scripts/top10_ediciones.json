@@ -1,5 +1,5 @@
 {
- "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). publicar_utc = hora del domingo (UTC). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
+ "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). publicar_utc = hora del domingo (UTC). lang = idioma de la narración; locs = títulos/descripciones traducidos. Horas = 06:00 del domingo en cada continente (Sydney, India, Cairo/Johannesburgo, Europa central, Lima); Mundial con América. Corte de datos: sábado 12:00 UTC.",
  "hashtag_canal": "Top10RS",
  "ediciones": [
   {
@@ -11,7 +11,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "12:00",
+   "publicar_utc": "19:00",
    "hashtag": "Top10Oceania",
    "nombre": {
     "es": "Oceanía",
@@ -38,7 +38,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "12:30",
+   "publicar_utc": "00:30",
    "hashtag": "Top10Asia",
    "nombre": {
     "es": "Asia",
@@ -92,7 +92,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "14:00",
+   "publicar_utc": "04:00",
    "hashtag": "Top10Africa",
    "nombre": {
     "es": "África",
@@ -130,7 +130,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "16:00",
+   "publicar_utc": "05:00",
    "hashtag": "Top10Europe",
    "nombre": {
     "es": "Europa",
@@ -187,7 +187,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "20:00",
+   "publicar_utc": "11:00",
    "hashtag": "Top10America",
    "nombre": {
     "es": "América",
@@ -237,7 +237,7 @@
     "pt",
     "fr"
    ],
-   "publicar_utc": "23:00",
+   "publicar_utc": "11:00",
    "hashtag": "Top10World",
    "nombre": {
     "es": "el mundo",
