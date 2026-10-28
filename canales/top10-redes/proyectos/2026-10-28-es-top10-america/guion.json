@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-28T16:03:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-28T07:43:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -67,7 +67,7 @@
       "id": "apertura",
       "capitulo": "Apertura",
       "emocion": "gancho",
-      "texto": "Esta semana, en América, millones de personas vieron, comentaron y compartieron sin parar. Entre los treinta videos de este conteo suman más de cuatrocientos sesenta y tres millones de vistas. Pero solo uno se quedó con el número uno. Bienvenidos a Top 10 Redes Sociales, edición América. Hoy, los diez videos más vistos, los diez más comentados y los diez con más likes de la semana. Quédate hasta el final, porque el número uno no lo vas a adivinar.",
+      "texto": "Treinta videos. Más de cuatrocientos sesenta y tres millones de vistas en solo siete días. Así se movió América esta semana, de Argentina a Estados Unidos, pasando por México y Brasil. Bienvenidos a Top 10 Redes Sociales, edición América. Hoy, los diez más vistos, los diez más comentados y los diez con más likes. Y te adelanto algo: hay canales pequeños compitiendo con gigantes. Quédate hasta el final, porque el número uno no lo vas a adivinar.",
       "tarjeta": {
         "titulo": "TOP 10 · AMÉRICA",
         "sub": "Semana 44"
@@ -77,7 +77,7 @@
       "id": "reglas",
       "capitulo": "Cómo contamos",
       "emocion": "agil",
-      "texto": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en América. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, medidas este miércoles. Empecemos.",
+      "texto": "Las reglas, rápido. Solo videos publicados en los últimos siete días que fueron tendencia en América. Un video por creador en cada lista. Música y noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, medidas este miércoles. Empecemos.",
       "tarjeta": {
         "titulo": "LAS REGLAS",
         "sub": "YouTube API · 7 días"
@@ -89,7 +89,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Empezamos con los diez videos más vistos. En la posición número diez, desde Estados Unidos, Marvel Entertainment, con un video publicado hace tres días. Más de quince millones de vistas. Un Short de apenas treinta y un segundos. Además suma más de ocho mil comentarios.",
+      "texto": "Arrancamos con los diez más vistos. En el puesto diez, desde Estados Unidos, Marvel Entertainment, con el adelanto de Avengers: Doomsday. En tres días pasa los quince millones de vistas, y en treinta y un segundos desató más de ocho mil comentarios.",
       "capitulo": "Top 10 más vistos"
     },
     {
@@ -98,7 +98,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Ahora, el número nueve, desde Estados Unidos, Chef Rush, con un video publicado hace seis días. Más de quince millones de vistas. Además suma más de mil comentarios."
+      "texto": "Número nueve, desde Estados Unidos, Chef Rush, con un video de comida coreana. Más de quince millones de vistas y más de mil comentarios. Entre el nueve y el diez, menos de noventa mil vistas de diferencia."
     },
     {
       "id": "v08",
@@ -106,7 +106,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En el puesto ocho, desde Estados Unidos, Prime Video, con un video publicado hace seis días. Más de dieciséis millones de vistas. Además suma más de tres mil comentarios."
+      "texto": "Puesto ocho, desde Estados Unidos, Prime Video, con el tráiler oficial de la tercera temporada de The Rings of Power. Más de dieciséis millones de vistas y más de tres mil comentarios."
     },
     {
       "id": "v07",
@@ -114,7 +114,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Llegamos al puesto siete, desde México, Fede Vigevani, con «Exploré 3 lugares de terror de google maps». Más de dieciocho millones de vistas. Un video de más de treinta y tres minutos, y aun así la gente se quedó a verlo. Además suma más de cincuenta y cinco mil comentarios."
+      "texto": "Puesto siete, desde México, Fede Vigevani, con «Exploré 3 lugares de terror de Google Maps». Más de dieciocho millones de vistas con un video de más de treinta y tres minutos. Y más de cincuenta y cinco mil comentarios. Guarda ese número."
     },
     {
       "id": "v06",
@@ -122,7 +122,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Llegamos al puesto seis, desde Argentina, La Historia de Él, con «¡Rompió La Litera!». Más de diecinueve millones de vistas. Además suma más de mil comentarios."
+      "texto": "Viajamos al sur. Puesto seis, desde Argentina, La Historia de Él, con «¡Rompió La Litera!». Más de diecinueve millones de vistas."
     },
     {
       "id": "v05",
@@ -130,7 +130,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Puesto cinco, desde Brasil, Rê Andrade, con un video publicado hace cuatro días. Más de veinte millones de vistas. Además suma cuarenta y uno comentarios."
+      "texto": "Puesto cinco, desde Brasil, Rê Andrade. Más de veinte millones de vistas, pero apenas cuarenta y un comentarios. Lo vieron millones, casi nadie habló. Desde aquí, todos superan los veinte millones."
     },
     {
       "id": "v04",
@@ -138,7 +138,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En el puesto cuatro, desde Estados Unidos, Ruby Gol, con un video publicado hace cinco días. Más de veinte millones de vistas. Y ojo: es un canal de unos nueve mil ochocientos suscriptores que esta semana jugó en las grandes ligas. Un Short de apenas siete segundos."
+      "texto": "Primera gran sorpresa. Puesto cuatro, desde Estados Unidos, Ruby Gol, un canal de unos nueve mil ochocientos suscriptores. Con un Short de apenas siete segundos, superó los veinte millones de vistas. Y ahora sí, el podio."
     },
     {
       "id": "v03",
@@ -146,7 +146,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, Sofia Pevidor, con un video publicado hace seis días. Más de veintiuno millones de vistas. Un Short de apenas cincuenta y siete segundos. Además suma seiscientos cuarenta y uno comentarios.",
+      "texto": "Medalla de bronce. Desde Estados Unidos, Sofia Pevidor, con un Short de cincuenta y siete segundos. Más de veintiún millones de vistas y más de quinientos trece mil likes. Quedan dos.",
       "capitulo": "El podio"
     },
     {
@@ -155,7 +155,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, Conexwest, con un video publicado hace cuatro días. Más de veinticuatro millones de vistas. Tiene la mejor tasa de interacción de esta lista: tres de cada cien personas dieron like o comentaron. Y ojo: es un canal de unos ciento diez mil suscriptores que esta semana jugó en las grandes ligas."
+      "texto": "Medalla de plata. Desde Estados Unidos, Conexwest, con un contenedor de carga convertido en vivienda de dos niveles. Más de veinticuatro millones de vistas, con un canal de unos ciento quince mil suscriptores. Tiene la mejor tasa de interacción de la lista: tres de cada cien personas dieron like o comentaron. No olvides este nombre."
     },
     {
       "id": "v01",
@@ -163,7 +163,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Redoble de tambores. El número uno de los más vistos, desde Estados Unidos, IShowSpeed, con un video publicado hace cinco días. Más de treinta millones de vistas. Fue el que más rápido creció de esta lista: cerca de doscientos veinte mil vistas por hora. Un Short de apenas cuarenta y nueve segundos."
+      "texto": "Redoble de tambores. El más visto de la semana en América es… desde Estados Unidos, IShowSpeed, con su desafío contra Dude Perfect. Más de treinta millones de vistas con un Short de cuarenta y nueve segundos. Fue el que más rápido creció: cerca de doscientas veinte mil vistas por hora."
     },
     {
       "id": "c10",
@@ -171,7 +171,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Pasamos a la conversación: los diez videos más comentados. En la posición número diez, desde Estados Unidos, Omenasito, con un video publicado hace tres días. Más de seis mil comentarios. Un video de más de treinta y dos minutos, y aun así la gente se quedó a verlo. Además suma más de dos coma cuatro millones de vistas.",
+      "texto": "Ahora, la conversación: los diez más comentados. Puesto diez, desde Estados Unidos, Omenasito, con un video de Minecraft de más de treinta y dos minutos. Más de seis mil doscientos comentarios.",
       "capitulo": "Top 10 más comentados"
     },
     {
@@ -180,7 +180,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número nueve, desde Estados Unidos, Flamingo, con un video publicado hace dos días. Más de seis mil comentarios. Tiene la mejor tasa de interacción de esta lista: cinco de cada cien personas dieron like o comentaron. Un video de más de cuarenta y siete minutos, y aun así la gente se quedó a verlo."
+      "texto": "Número nueve, desde Estados Unidos, Flamingo, con un video de más de cuarenta y siete minutos. Más de seis mil trescientos comentarios, y la mejor tasa de interacción de la lista: cinco de cada cien."
     },
     {
       "id": "c08",
@@ -188,7 +188,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En la posición número ocho, desde Estados Unidos, Warner Bros., con un video publicado hace un día. Más de seis mil comentarios. Fue el que más rápido creció de esta lista: cerca de quinientos cuarenta mil vistas por hora. Lo logró en apenas un día."
+      "texto": "Puesto ocho, desde Estados Unidos, Warner Bros., con el tráiler final de Dune: Part Three. Más de seis mil seiscientos comentarios en un día. Fue el que más rápido creció: cerca de quinientas cuarenta mil vistas por hora."
     },
     {
       "id": "c07",
@@ -196,7 +196,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número siete, desde Estados Unidos, ZAMination, con un video publicado hace tres días. Más de siete mil comentarios. Además suma más de dos coma cuatro millones de vistas."
+      "texto": "Número siete, desde Estados Unidos, ZAMination, con el tráiler oficial de Calling All Villains. Más de siete mil ciento ochenta comentarios."
     },
     {
       "id": "c06",
@@ -204,7 +204,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Puesto seis, desde Estados Unidos, Conexwest, con un video publicado hace cuatro días. Más de siete mil comentarios. Y ojo: es un canal de unos ciento diez mil suscriptores que esta semana jugó en las grandes ligas. Además suma más de veinticuatro millones de vistas."
+      "texto": "Puesto seis, una cara conocida: Conexwest, la casa contenedor. Más de siete mil setecientos comentarios."
     },
     {
       "id": "c05",
@@ -212,7 +212,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto cinco, desde Estados Unidos, Asmongold TV , con un video publicado hace seis días. Más de siete mil comentarios. Un video de más de setenta y seis minutos, y aun así la gente se quedó a verlo. Además suma más de dos millones de vistas."
+      "texto": "Puesto cinco, desde Estados Unidos, Asmongold TV. Un video de más de setenta y seis minutos con más de siete mil novecientos comentarios."
     },
     {
       "id": "c04",
@@ -220,7 +220,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto cuatro, desde Estados Unidos, Marvel Entertainment, con un video publicado hace tres días. Más de ocho mil comentarios. Un Short de apenas treinta y un segundos. Además suma más de quince millones de vistas."
+      "texto": "Número cuatro, Marvel Entertainment, con Avengers: Doomsday. Más de ocho mil cuarenta comentarios. Y ahora, el podio de la conversación."
     },
     {
       "id": "c03",
@@ -228,7 +228,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, Jenny Devil, con un video publicado hace tres días. Más de ocho mil comentarios. Un video de más de veintitrés minutos, y aun así la gente se quedó a verlo. Además suma más de uno coma cinco millones de vistas."
+      "texto": "Medalla de bronce. Desde Estados Unidos, Jenny Devil, con un video de más de veintitrés minutos sobre la app de Talking Angela. Más de ocho mil doscientos comentarios. Lo que viene deja atrás a todos."
     },
     {
       "id": "c02",
@@ -236,7 +236,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde México, Fede Vigevani Vlogs, con «Así se hacen mis dulces friks». Más de dieciséis mil comentarios. Además suma más de ocho coma cinco millones de vistas."
+      "texto": "Medalla de plata. Desde México, Fede Vigevani Vlogs, con «Así se hacen mis dulces Friks». Más de dieciséis mil novecientos comentarios, el doble que el bronce. Si te suena el apellido, prepárate."
     },
     {
       "id": "c01",
@@ -244,7 +244,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Redoble de tambores. El número uno de los más comentados, desde México, Fede Vigevani, con «Exploré 3 lugares de terror de google maps». Más de cincuenta y cinco mil comentarios. Un video de más de treinta y tres minutos, y aun así la gente se quedó a verlo. Además suma más de dieciocho millones de vistas."
+      "texto": "Redoble de tambores. El más comentado es… desde México, Fede Vigevani, con «Exploré 3 lugares de terror de Google Maps». Más de cincuenta y cinco mil quinientos comentarios, más del triple que el segundo. Doblete para los Vigevani."
     },
     {
       "id": "l10",
@@ -252,7 +252,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Y la última lista: los diez videos con más likes. Ahora, el número diez, desde Estados Unidos, You Made It, con un video publicado hace seis días. Más de trescientos cincuenta y tres mil likes. Y ojo: es un canal de unos quince mil suscriptores que esta semana jugó en las grandes ligas. Además suma más de catorce millones de vistas.",
+      "texto": "Última lista: los diez con más likes. Puesto diez, desde Estados Unidos, You Made It, un canal de unos quince mil suscriptores, con un video sobre cómo una zanja se convierte en trinchera. Más de trescientos cincuenta y tres mil likes.",
       "capitulo": "Top 10 con más likes"
     },
     {
@@ -261,7 +261,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto nueve, desde Estados Unidos, The Johnson Brothers, con un video publicado hace un día. Más de trescientos cincuenta y ocho mil likes. Fue el que más rápido creció de esta lista: cerca de doscientos noventa mil vistas por hora. Un Short de apenas cuarenta y cuatro segundos."
+      "texto": "Número nueve, desde Estados Unidos, The Johnson Brothers, con un Short publicado hace un día. Más de trescientos cincuenta y ocho mil likes. Fue el que más rápido creció: cerca de doscientas noventa mil vistas por hora."
     },
     {
       "id": "l08",
@@ -269,7 +269,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto ocho, desde Argentina, La Historia de Él, con «¡Rompió La Litera!». Más de trescientos cincuenta y nueve mil likes. Además suma más de diecinueve millones de vistas."
+      "texto": "Puesto ocho, desde Argentina, La Historia de Él, con «¡Rompió La Litera!». Más de trescientos cincuenta y nueve mil likes."
     },
     {
       "id": "l07",
@@ -277,7 +277,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto siete, desde Estados Unidos, Aaron Dinin, con un video publicado hace cinco días. Más de trescientos setenta y dos mil likes. Tiene la mejor tasa de interacción de esta lista: cinco de cada cien personas dieron like o comentaron. Y ojo: es un canal de unos ciento ochenta mil suscriptores que esta semana jugó en las grandes ligas."
+      "texto": "Puesto siete, desde Estados Unidos, Aaron Dinin, un canal de unos ciento ochenta mil suscriptores. Más de trescientos setenta y dos mil likes y la mejor tasa de interacción de la lista: cinco de cada cien."
     },
     {
       "id": "l06",
@@ -285,7 +285,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En la posición número seis, desde Argentina, SoyGelo, con «Si mientes, creces!!!». Más de cuatrocientos cincuenta y tres mil likes. Además suma más de catorce millones de vistas."
+      "texto": "Número seis, otra vez Argentina: SoyGelo, con «¡Si mientes, creces!». Más de cuatrocientos cincuenta y tres mil likes."
     },
     {
       "id": "l05",
@@ -293,7 +293,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto cinco, desde México, Fede Vigevani, con «Exploré 3 lugares de terror de google maps». Más de cuatrocientos cincuenta y ocho mil likes. Un video de más de treinta y tres minutos, y aun así la gente se quedó a verlo. Además suma más de dieciocho millones de vistas."
+      "texto": "Puesto cinco, Fede Vigevani y sus lugares de terror. Más de cuatrocientos cincuenta y ocho mil likes. Está en las tres listas."
     },
     {
       "id": "l04",
@@ -301,7 +301,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto cuatro, desde Estados Unidos, Sofia Pevidor, con un video publicado hace seis días. Más de quinientos trece mil likes. Un Short de apenas cincuenta y siete segundos. Además suma más de veintiuno millones de vistas."
+      "texto": "Número cuatro, Sofia Pevidor, con más de quinientos trece mil likes. Y ahora, los tres más queridos de la semana."
     },
     {
       "id": "l03",
@@ -309,7 +309,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, Sean Andrew, con un video publicado hace seis días. Más de quinientos cuarenta y siete mil likes. Un Short de apenas cuarenta y siete segundos. Además suma más de quince millones de vistas."
+      "texto": "Medalla de bronce. Desde Estados Unidos, Sean Andrew, que puso a prueba el mito del parche de pirata. Más de quinientos cuarenta y siete mil likes. Quedan dos, y la diferencia es mínima."
     },
     {
       "id": "l02",
@@ -317,7 +317,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, IShowSpeed, con un video publicado hace cinco días. Más de seiscientos ochenta y dos mil likes. Un Short de apenas cuarenta y nueve segundos. Además suma más de treinta millones de vistas."
+      "texto": "Medalla de plata. IShowSpeed, el número uno en vistas, con más de seiscientos ochenta y dos mil likes. Pero alguien lo superó por unos siete mil likes. ¿Quién?"
     },
     {
       "id": "l01",
@@ -325,7 +325,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Y ahora sí, el número uno en likes, desde Estados Unidos, Conexwest, con un video publicado hace cuatro días. Más de seiscientos ochenta y nueve mil likes. Y ojo: es un canal de unos ciento diez mil suscriptores que esta semana jugó en las grandes ligas. Además suma más de veinticuatro millones de vistas."
+      "texto": "Redoble de tambores. El video con más likes de la semana en América es… desde Estados Unidos, Conexwest, la casa contenedor. Más de seiscientos ochenta y nueve mil likes. Un canal de unos ciento quince mil suscriptores que superó a uno de más de sesenta millones. Plata en vistas y oro en likes: la historia de la semana."
     },
     {
       "id": "cierre",
