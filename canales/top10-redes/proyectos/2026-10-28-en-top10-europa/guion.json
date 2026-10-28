@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-28T16:03:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-28T07:43:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -67,7 +67,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Europe, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over two hundred and seventy-eight million views. But only one took number one. Welcome to Top 10 Social Media, Europe edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Europe did not sleep this week. Thirty videos made this countdown, and together they add up to over two hundred and seventy-eight million views. Three lists, three crowns, and on one of them the gap between first and second is about one million views. Who took number one? You'll find out at the end of each list, not a second earlier. Welcome to Top 10 Social Media, Europe edition: the ten most viewed, the ten most commented and the ten most liked videos of the week.",
       "tarjeta": {
         "titulo": "TOP 10 · EUROPE",
         "sub": "Week 44"
@@ -89,7 +89,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Number ten, from United Kingdom, Premier League, with “MAX DOWMAN The Youngest Goalscorer In Premier League History!”. Over seven point two million views. A Short of just sixteen seconds. It also has four hundred and seventy-six comments.",
+      "texto": "We open with the ten most viewed videos. Number ten, from the United Kingdom, Premier League, with “Max Dowman, the youngest goalscorer in Premier League history”. A Short of just sixteen seconds, and over seven point two million views in four days. Sixteen seconds of football history, and Europe hit replay.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -98,7 +98,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, Unspoken Stories, with “Nobody Believed Him At First His Whole Life Vanished When He Woke Up”. Over seven point three million views. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. And get this: it's a channel with about ninety-eight thousand subscribers, playing in the big leagues this week."
+      "texto": "Number nine, Unspoken Stories, with “Nobody Believed Him At First”. Over seven point three million views. And look at this: it's a channel with about ninety-eight thousand subscribers, beating giants this week. It has the best engagement rate on this list: five out of every hundred viewers liked or commented."
     },
     {
       "id": "v08",
@@ -106,7 +106,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number eight, FORMULA 1, with “Race Highlights 2026 United States Grand Prix”. Over seven point five million views. It got there in just two days. It also has over two thousand comments."
+      "texto": "At number eight, FORMULA 1, with the race highlights of the 2026 United States Grand Prix. Over seven point five million views in just two days, and over two thousand comments."
     },
     {
       "id": "v07",
@@ -114,7 +114,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number seven, from Spain, Jajamaru, with a video posted six days ago. Over seven point nine million views. A Short of just twenty-seven seconds. It also has two hundred and ten comments."
+      "texto": "Number seven, from Spain, Jajamaru. A Short of just twenty-seven seconds, posted six days ago. Over seven point nine million views. Keep this name in mind, because its likes will come back later tonight."
     },
     {
       "id": "v06",
@@ -122,7 +122,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number six, from United Kingdom, John Nellis, with “I Tested Footballer’s Lungs”. Over eight point nine million views. A Short of just forty-three seconds. It also has one hundred and two comments."
+      "texto": "Number six, from the United Kingdom, John Nellis, with “I Tested Footballer’s Lungs”. Forty-three seconds, over eight point nine million views, and over sixty-nine thousand likes."
     },
     {
       "id": "v05",
@@ -130,7 +130,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number five, from United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over eleven million views. A Short of just fifty-four seconds. It also has over six thousand comments."
+      "texto": "Number five, from the United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over eleven million views in a Short of fifty-four seconds, and over six thousand comments. The phone war is alive, and Europe picked a side."
     },
     {
       "id": "v04",
@@ -138,7 +138,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number four, from Germany, Dhruv Rathee, with a video posted four days ago. Over fifteen million views. A video over twenty minutes long, and people still stayed to watch. It also has over twenty-five thousand comments."
+      "texto": "Number four, from Germany, Dhruv Rathee, with a video posted four days ago. Over fifteen point four million views. A video over twenty minutes long, and people stayed. It also has over twenty-five thousand comments. Remember that number. And now, the podium."
     },
     {
       "id": "v03",
@@ -146,7 +146,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Spain, YoSoyDander, with a video posted six days ago. Over fifteen million views. A Short of just nineteen seconds. It also has eighty-nine comments.",
+      "texto": "Bronze medal, from Spain, YoSoyDander. A Short of just nineteen seconds, posted six days ago, with over fifteen point five million views. It edges out number four by less than two hundred thousand views. Tight. But the top two are in another league.",
       "capitulo": "The podium"
     },
     {
@@ -155,7 +155,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Cyprus, crafter duck - DIY, with a video posted four days ago. Over twenty million views. A Short of just forty-nine seconds. It also has two hundred and sixty-five comments."
+      "texto": "Silver medal, from Cyprus, crafter duck - DIY, with “Is This The Best Way To Recycle Plastic?”. Forty-nine seconds, over twenty point three million views in four days. Can anything beat that? Only one video this week."
     },
     {
       "id": "v01",
@@ -163,7 +163,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most viewed, from United Kingdom, DAZN Football, with “2026 Ballon d'Or Red Carpet Pre Show”. Over twenty-one million views. It was the fastest-growing video on this list: about six hundred and forty thousand views per hour. A video over seventy-two minutes long, and people still stayed to watch."
+      "texto": "And here it is. Number one most viewed in Europe, from the United Kingdom, DAZN Football, with the 2026 Ballon d'Or Red Carpet Pre Show. Over twenty-one point three million views in just one day. It was the fastest-growing video on this list: about six hundred and forty thousand views per hour. A broadcast over seventy-two minutes long, and the world stayed for the red carpet. The crown goes to football."
     },
     {
       "id": "c10",
@@ -171,7 +171,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Next up, number ten, from Türkiye, Bakirkertenkele31, with a video posted three days ago. Over four thousand comments. A video over thirty-eight minutes long, and people still stayed to watch. It also has over one point four million views.",
+      "texto": "Now we move from watching to talking: the ten most commented videos. Number ten, from Türkiye, Bakirkertenkele31, with a video posted three days ago. Over four thousand nine hundred comments, and over one point four million views. A video over thirty-eight minutes long, and the community still had plenty to say.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -180,7 +180,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number nine, from Ukraine, Domer Grief, with a video posted two days ago. Over five thousand comments. A video over twenty-three minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number nine, from Ukraine, Domer Grief, with a Minecraft video posted two days ago. Over five thousand eight hundred comments and over one million views."
     },
     {
       "id": "c08",
@@ -188,7 +188,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number eight, Vsauce, with “The Magic Octagon”. Over six thousand comments. It also has over four point eight million views."
+      "texto": "Number eight, Vsauce, with “The Magic Octagon”. Over six thousand five hundred comments and over four point eight million views. A puzzle that made people stop and write. And this video is not done with us tonight."
     },
     {
       "id": "c07",
@@ -196,7 +196,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, from Poland, Czajnik, with a video posted five days ago. Over seven thousand comments. It also has over one point two million views."
+      "texto": "Number seven, from Poland, Czajnik, with a video posted five days ago. Under three minutes long, over one point two million views, and over seven thousand two hundred comments."
     },
     {
       "id": "c06",
@@ -204,7 +204,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number six, Unspoken Stories, with “Nobody Believed Him At First His Whole Life Vanished When He Woke Up”. Over eight thousand comments. And get this: it's a channel with about ninety-eight thousand subscribers, playing in the big leagues this week. It also has over seven point three million views."
+      "texto": "Number six, our underdog again: Unspoken Stories. Over eight thousand nine hundred comments, from a channel with about ninety-eight thousand subscribers. Its audience doesn't just watch. It reacts."
     },
     {
       "id": "c05",
@@ -212,7 +212,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number five, from United Kingdom, Mrwhosetheboss, with “iPhone Duo is Messier Than You Think”. Over eleven thousand comments. A video over twenty minutes long, and people still stayed to watch. It also has over ten million views."
+      "texto": "Number five, from the United Kingdom, Mrwhosetheboss again, now with a different video: “iPhone Duo is Messier Than You Think”. Over eleven thousand four hundred comments and over ten point three million views. Over twenty minutes of tech, and an endless debate below it."
     },
     {
       "id": "c04",
@@ -220,7 +220,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number four, from United Kingdom, Beta Squad, with “Beta squad mafia play-along edition”. Over twelve thousand comments. A video over eighty-three minutes long, and people still stayed to watch. It also has over four point six million views."
+      "texto": "Number four, from the United Kingdom, Beta Squad, with “Beta Squad Mafia Play-Along Edition”. Over twelve thousand five hundred comments. A video over eighty-three minutes long, and over four point six million views. Everyone wanted to guess the mafia. Now, the podium of the conversation."
     },
     {
       "id": "c03",
@@ -228,7 +228,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Türkiye, Vural Üzül, with a video posted four days ago. Over fourteen thousand comments. It has the best engagement rate on this list: fifteen out of every hundred viewers liked or commented. A video over forty-nine minutes long, and people still stayed to watch."
+      "texto": "Bronze medal, from Türkiye, Vural Üzül, with a gaming video posted four days ago. Over fourteen thousand two hundred comments with about two hundred and thirty-five thousand views. It has the best engagement rate on this list: fifteen out of every hundred viewers liked or commented. Forty-nine minutes, and a community on fire."
     },
     {
       "id": "c02",
@@ -236,7 +236,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Germany, Dhruv Rathee, with a video posted four days ago. Over twenty-five thousand comments. It was the fastest-growing video on this list: about one hundred and fifty thousand views per hour. A video over twenty minutes long, and people still stayed to watch."
+      "texto": "Silver medal, from Germany, Dhruv Rathee. Yes, the number four most viewed. Over twenty-five thousand two hundred comments. It was the fastest-growing video on this list: about one hundred and fifty thousand views per hour. But someone doubled down this week."
     },
     {
       "id": "c01",
@@ -244,7 +244,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most commented, from United Kingdom, The Diary Of A CEO, with a video posted five days ago. Over forty-five thousand comments. A video over one hundred and nine minutes long, and people still stayed to watch. It also has over five point one million views."
+      "texto": "Drum roll, please. Number one most commented in Europe, from the United Kingdom, The Diary Of A CEO, with “President Zelenskyy: It's Time To Tell You The Truth About The War!”. Over forty-five thousand seven hundred comments. Nearly twice the silver medal. A conversation over one hundred and nine minutes long, and over five point one million views."
     },
     {
       "id": "l10",
@@ -252,7 +252,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. At number ten, from Cyprus, crafter duck - DIY, with a video posted four days ago. Over one hundred and fifty-nine thousand likes. A Short of just forty-nine seconds. It also has over twenty million views.",
+      "texto": "And the last list, the one that measures love: the ten most liked videos. Number ten, from Cyprus, crafter duck - DIY, our silver medal in views. Over one hundred and fifty-nine thousand likes on that forty-nine second Short.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -261,7 +261,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number nine, from United Kingdom, The Diary Of A CEO, with a video posted five days ago. Over one hundred and seventy-three thousand likes. A video over one hundred and nine minutes long, and people still stayed to watch. It also has over five point one million views."
+      "texto": "Number nine, from the United Kingdom, The Diary Of A CEO, the king of comments. Over one hundred and seventy-three thousand likes on a conversation over one hundred and nine minutes long."
     },
     {
       "id": "l08",
@@ -269,7 +269,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number eight, from United Kingdom, DAZN Football, with “2026 Ballon d'Or Red Carpet Pre Show”. Over two hundred and four thousand likes. It was the fastest-growing video on this list: about six hundred and forty thousand views per hour. A video over seventy-two minutes long, and people still stayed to watch."
+      "texto": "Number eight, from the United Kingdom, DAZN Football, the Ballon d'Or pre show. Over two hundred and four thousand likes. Most viewed, yes. Most loved? Not even close to the top."
     },
     {
       "id": "l07",
@@ -277,7 +277,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number seven, BAS Renovations , with “Are your gutters installed right?”. Over two hundred and six thousand likes. It also has over four point nine million views."
+      "texto": "Number seven, BAS Renovations, with “Are your gutters installed right?”. Over two hundred and six thousand likes and over four point nine million views."
     },
     {
       "id": "l06",
@@ -285,7 +285,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number six, Jack Overton PT, with “Something’s gonna go pop”. Over two hundred and seventy-three thousand likes. And get this: it's a channel with about seventy-six thousand subscribers, playing in the big leagues this week. It also has over five million views."
+      "texto": "Number six, Jack Overton PT, with “Something’s gonna go pop”. Over two hundred and seventy-three thousand likes and over five million views. And look at this: it's a channel with about seventy-six thousand subscribers. Huge week."
     },
     {
       "id": "l05",
@@ -293,7 +293,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, Vsauce, with “The Magic Octagon”. Over three hundred and five thousand likes. It has the best engagement rate on this list: six out of every hundred viewers liked or commented. It also has over four point eight million views."
+      "texto": "Number five, Vsauce, “The Magic Octagon”. Over three hundred and five thousand likes. It has the best engagement rate on this list: six out of every hundred viewers liked or commented."
     },
     {
       "id": "l04",
@@ -301,7 +301,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number four, from Spain, Jajamaru, with a video posted six days ago. Over three hundred and twenty-six thousand likes. A Short of just twenty-seven seconds. It also has over seven point nine million views."
+      "texto": "Number four, from Spain, Jajamaru. Remember that twenty-seven second Short? Over three hundred and twenty-six thousand likes on over seven point nine million views. We told you it would come back. Now, the podium, and it's tight."
     },
     {
       "id": "l03",
@@ -309,7 +309,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over three hundred and forty-six thousand likes. A Short of just fifty-four seconds. It also has over eleven million views."
+      "texto": "Bronze medal, from the United Kingdom, Mrwhosetheboss, with “6 ways iPhone Duo beats Samsung”. Over three hundred and forty-six thousand likes."
     },
     {
       "id": "l02",
@@ -317,7 +317,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Unspoken Stories, with “Nobody Believed Him At First His Whole Life Vanished When He Woke Up”. Over three hundred and forty-nine thousand likes. And get this: it's a channel with about ninety-eight thousand subscribers, playing in the big leagues this week. It also has over seven point three million views."
+      "texto": "Silver medal, Unspoken Stories, with “Nobody Believed Him At First”. Over three hundred and forty-nine thousand likes, just over three thousand ahead of the bronze. A channel with about ninety-eight thousand subscribers on the podium of love. Incredible. But number one is far ahead."
     },
     {
       "id": "l01",
@@ -325,7 +325,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most liked, from Germany, Dhruv Rathee, with a video posted four days ago. Over four hundred and ninety-seven thousand likes. A video over twenty minutes long, and people still stayed to watch. It also has over fifteen million views."
+      "texto": "And here it is. Number one most liked in Europe, from Germany, Dhruv Rathee. Fourth in views, second in comments, and first in likes: over four hundred and ninety-seven thousand. Over one hundred and forty-seven thousand more than the silver medal. A video over twenty minutes long, with over fifteen million views. The most complete video of the week in Europe."
     },
     {
       "id": "cierre",
