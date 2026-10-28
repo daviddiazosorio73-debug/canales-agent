@@ -1,6 +1,6 @@
 """Top 10 semanal por continente + Mundial, 100 % automático (sin Claude, sin IA que invente).
 
-Corre en GitHub Actions el miércoles 12:00 UTC (07:00 Lima); programa cada edición para las 06:00 locales del domingo de su continente. Para cada edición de top10_ediciones.json:
+Corre en GitHub Actions el miércoles 05:00 UTC (00:00 Lima); programa cada edición para las 06:00 locales del domingo de su continente. Para cada edición de top10_ediciones.json:
   1. Datos: videos en tendencia (videos.list chart=mostPopular, 1 unidad/página) de cada país del continente
      + búsqueda de los más vistos de la semana en sus países grandes. Solo videos publicados en los últimos 7 días.
      Fuera: música (cat. 10), noticias/política (25), transmisiones en vivo, videos de más de 150 min y top10_vetos.json.

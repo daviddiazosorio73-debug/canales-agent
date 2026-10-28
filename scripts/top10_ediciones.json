@@ -1,5 +1,5 @@
 {
- "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). Corte de datos: miércoles 12:00 UTC (07:00 Lima); producción y subida miércoles-jueves; cada edición se programa para el domingo a la hora 'publicar_utc' LOCAL de su zona 'tz' (06:00). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
+ "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). Corte de datos: miércoles 05:00 UTC (00:00 Lima); producción y subida miércoles-jueves; cada edición se programa para el domingo a la hora 'publicar_utc' LOCAL de su zona 'tz' (06:00). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
  "hashtag_canal": "Top10RS",
  "ediciones": [
   {

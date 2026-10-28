@@ -4,7 +4,7 @@ on:
   push:
     paths: [".github/top10_lanzar.json"]
   schedule:
-    - cron: "0 12 * * 3"   # miércoles 12:00 UTC = 07:00 Lima (corte semanal); se programa para las 06:00 locales del domingo
+    - cron: "0 5 * * 3"   # miércoles 05:00 UTC = 00:00 Lima (corte semanal); se programa para las 06:00 locales del domingo
   workflow_dispatch:
     inputs:
       prueba:
