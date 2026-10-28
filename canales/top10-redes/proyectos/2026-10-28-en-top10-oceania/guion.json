@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-28T16:03:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-28T07:43:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -67,7 +67,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Oceania, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over fifty-three million views. But only one took number one. Welcome to Top 10 Social Media, Oceania edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Thirty videos. Over fifty-three million views. And one tiny clip that left giants with millions of subscribers behind. This week, Oceania did not stop watching, commenting and hitting like, and today we find out who won it all. Welcome to Top 10 Social Media, Oceania edition, the first stop on our world tour. Three countdowns: the ten most viewed, the ten most commented and the ten most liked videos of the week. I promise you this: number one is not who you think. Stay with me until the end.",
       "tarjeta": {
         "titulo": "TOP 10 · OCEANIA",
         "sub": "Week 44"
@@ -77,7 +77,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Oceania. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Wednesday. Let's go.",
+      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Oceania. One video per creator on each list. Music and news have their own space. And every single number comes straight from the official YouTube API, measured this Wednesday. No guesses, no opinions. Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -89,7 +89,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Number ten, Kubz Scouts, with “bro what did i just play”. Over six hundred and forty-eight thousand views. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. A video over twenty-seven minutes long, and people still stayed to watch.",
+      "texto": "We open with the big one: the ten most viewed videos. At number ten, Kubz Scouts, with “bro what did i just play”. Over six hundred and forty-eight thousand views on a video over twenty-seven minutes long. And here is the detail that matters: four out of every hundred viewers liked or commented. That is the best engagement rate on this whole list.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -98,7 +98,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number nine, from Australia, TGG, with a video posted six days ago. Over six hundred and sixty-nine thousand views. It also has over one thousand comments."
+      "texto": "Number nine, from Australia, TGG, with a GTA six news roundup posted six days before our cut. Over six hundred and sixty-nine thousand views, and more than one thousand comments. Gamers clearly had a lot to say."
     },
     {
       "id": "v08",
@@ -106,7 +106,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number eight, from Australia, Skill Up, with “I strongly recommend: Phantom Blade Zero Review”. Over six hundred and ninety-five thousand views. A video over twenty-eight minutes long, and people still stayed to watch. It got there in just one day."
+      "texto": "Number eight, also from Australia, Skill Up, with his review “I strongly recommend: Phantom Blade Zero”. Over six hundred and ninety-five thousand views, for a review over twenty-eight minutes long. And it got there in just one day. Keep that name in mind: we will see it again."
     },
     {
       "id": "v07",
@@ -114,7 +114,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number seven, from Australia, Bundun, with “I Hid in Famous Roblox Games No One Noticed...”. Over seven hundred and four thousand views. A video over twenty-one minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number seven, from Australia, Bundun, with “I Hid in Famous Roblox Games and No One Noticed”. Over seven hundred and four thousand views in just two days, on a video over twenty-one minutes long. People did not skip."
     },
     {
       "id": "v06",
@@ -122,7 +122,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number six, from Australia, Ken, with “Mirror Evolution”. Over seven hundred and sixty-eight thousand views. It got there in just two days. It also has over one thousand comments."
+      "texto": "Number six, from Australia, Ken, with “Mirror Evolution”. Over seven hundred and sixty-eight thousand views in just two days, and over one thousand comments. Ken is not done with us today either."
     },
     {
       "id": "v05",
@@ -130,7 +130,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number five, from New Zealand, Dolan Darkest, with “How Are These People Real”. Over nine hundred and twenty-seven thousand views. It got there in just two days. It also has over two thousand comments."
+      "texto": "We reach the halfway point. Number five, and we cross the Tasman Sea: from New Zealand, Dolan Darkest, with “How Are These People Real”. Over nine hundred and twenty-seven thousand views in only two days. And over two thousand comments. Remember that number. It will matter very soon."
     },
     {
       "id": "v04",
@@ -138,7 +138,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number four, from Australia, Stimpee, with “The New DayZ Badlands DLC is Brutal”. Over one million views. It also has over one thousand comments."
+      "texto": "Number four, and now we break the million barrier. From Australia, Stimpee, with “The New DayZ Badlands DLC is Brutal”. Over one million views and more than one thousand comments. And still, this is not enough for a medal. The podium plays in another league."
     },
     {
       "id": "v03",
@@ -146,7 +146,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Australia, EYstreem, with “I Survived 100 Days as VERITY in Minecraft”. Over one point four million views. A video over twenty-eight minutes long, and people still stayed to watch. It also has seven hundred and ten comments.",
+      "texto": "Here is the podium. Bronze medal, from Australia, EYstreem, with “I Survived 100 Days as VERITY in Minecraft”. Over one point four million views, on a video over twenty-eight minutes long, plus seven hundred and ten comments. But what comes next multiplies that number.",
       "capitulo": "The podium"
     },
     {
@@ -155,7 +155,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, Bloxy Productions, with “Most embarrassing moments on your shirt”. Over six point eight million views. And get this: it's a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week. It also has three hundred and eighty comments."
+      "texto": "Silver medal: Bloxy Productions, with “Most Embarrassing Moments On Your Shirt”. Over six point eight million views. And get this: a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week. Over six million views, and it still is not number one."
     },
     {
       "id": "v01",
@@ -163,7 +163,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most viewed, Merry Latte, with “Comment STRAW if you NEED one!”. Over ten million views. It was the fastest-growing video on this list: about ninety thousand views per hour. And get this: it's a channel with about thirty-nine thousand subscribers, playing in the big leagues this week."
+      "texto": "Drum roll, please. Number one most viewed in Oceania: Merry Latte, with “Comment STRAW if you NEED one!”. Over ten million views. It was the fastest-growing video on this list, about ninety thousand views every hour. And the best part: a channel with about thirty-nine thousand subscribers. A Short of just thirteen seconds beat creators with millions of followers. That is the power of a single viral idea."
     },
     {
       "id": "c10",
@@ -171,7 +171,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. In position number ten, from Australia, Rival, with “Riot better lock in”. Nine hundred and eighty-six comments. And get this: it's a channel with about one hundred and eighty thousand subscribers, playing in the big leagues this week. It got there in just one day.",
+      "texto": "Views tell you who watched. Comments tell you who could not stay quiet. Now, the ten most commented videos. At number ten, from Australia, Rival, with “Riot better lock in”. Nine hundred and eighty-six comments in just one day. And it comes from a channel with about one hundred and eighty thousand subscribers, playing in the big leagues this week.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -180,7 +180,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number nine, from Australia, Phoenix SC, with “The new Jukebox is getting memed so bad.”. Over one thousand comments. It got there in just one day. It also has over four hundred and thirty thousand views."
+      "texto": "Number nine, from Australia, Phoenix SC, with “The new Jukebox is getting memed so bad”. Over one thousand comments in just one day, and over four hundred and thirty thousand views."
     },
     {
       "id": "c08",
@@ -188,7 +188,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number eight, from Australia, Stimpee, with “The New DayZ Badlands DLC is Brutal”. Over one thousand comments. It also has over one million views."
+      "texto": "Number eight, a familiar face: from Australia, Stimpee, with the DayZ Badlands video. Over one thousand comments, on top of its million views."
     },
     {
       "id": "c07",
@@ -196,7 +196,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number seven, from Australia, Bundun, with “I Hid in Famous Roblox Games No One Noticed...”. Over one thousand comments. A video over twenty-one minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number seven, from Australia, Bundun, back with the Roblox hide-and-seek challenge. Over one thousand comments in just two days."
     },
     {
       "id": "c06",
@@ -204,7 +204,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number six, from Australia, Ken, with “what”. Over one thousand comments. It also has over seven hundred and sixty thousand views."
+      "texto": "Number six, from Australia, Ken again, but with a different video: one simply called “what”. Over one thousand comments, and over seven hundred and sixty thousand views. Sometimes one word is all it takes."
     },
     {
       "id": "c05",
@@ -212,7 +212,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number five, from Australia, Bub Games, with “trolling serious military roleplayers in gta...”. Over one thousand comments. It got there in just two days. It also has over four hundred and ninety-three thousand views."
+      "texto": "Number five, from Australia, Bub Games, with “trolling serious military roleplayers in gta”. Over one thousand comments in just two days, and over four hundred and ninety-three thousand views."
     },
     {
       "id": "c04",
@@ -220,7 +220,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number four, from Australia, TGG, with a video posted six days ago. Over one thousand comments. It also has over six hundred and sixty-nine thousand views."
+      "texto": "Number four, from Australia, TGG and the GTA six news roundup. Over one thousand comments. Every rumor about that game gets people talking."
     },
     {
       "id": "c03",
@@ -228,7 +228,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Kubz Scouts, with “bro what did i just play”. Over one thousand comments. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. A video over twenty-seven minutes long, and people still stayed to watch."
+      "texto": "To the podium of the conversation. Bronze medal, Kubz Scouts, with “bro what did i just play”. Over one thousand comments, and the best engagement rate on this list: four out of every hundred viewers liked or commented. Now, two creators passed the two thousand mark. Who are they?"
     },
     {
       "id": "c02",
@@ -236,7 +236,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Australia, Skill Up, with “I strongly recommend: Phantom Blade Zero Review”. Over two thousand comments. It was the fastest-growing video on this list: about sixteen thousand views per hour. A video over twenty-eight minutes long, and people still stayed to watch."
+      "texto": "Silver medal, from Australia, Skill Up, with his Phantom Blade Zero review. Over two thousand comments, for a review over twenty-eight minutes long. I told you to keep that name in mind. But one video got people talking even more."
     },
     {
       "id": "c01",
@@ -244,7 +244,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, from New Zealand, Dolan Darkest, with “How Are These People Real”. Over two thousand comments. It got there in just two days. It also has over nine hundred and twenty-seven thousand views."
+      "texto": "And the number one most commented in Oceania: from New Zealand, Dolan Darkest, with “How Are These People Real”. Over two thousand five hundred comments in just two days. Fifth in views, but first in conversation. Proof that not everyone who watches speaks up, but this audience did."
     },
     {
       "id": "l10",
@@ -252,7 +252,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. At number ten, from Australia, PetracoreProxy Dev Channel, with “Mortal Kombat 1 Haru Urara Fan-Made Teaser Trailer Uma Musume”. Over eleven thousand likes. It has the best engagement rate on this list: six out of every hundred viewers liked or commented. And get this: it's a channel with about twenty-three thousand subscribers, playing in the big leagues this week.",
+      "texto": "One list to go, and it is the one that measures love: the ten most liked videos. At number ten, from Australia, PetracoreProxy Dev Channel, with a fan-made Mortal Kombat teaser trailer. Over eleven thousand likes. More than five out of every hundred viewers liked or commented, the best engagement rate on this list. And it comes from a channel with about twenty-three thousand subscribers.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -261,7 +261,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number nine, from Australia, Phoenix SC, with “The new Jukebox is getting memed so bad.”. Over thirteen thousand likes. It got there in just one day. It also has over four hundred and thirty thousand views."
+      "texto": "Number nine, from Australia, Phoenix SC and the Jukebox memes. Over thirteen thousand likes in just one day."
     },
     {
       "id": "l08",
@@ -269,7 +269,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number eight, from Australia, Skill Up, with “I strongly recommend: Phantom Blade Zero Review”. Over fourteen thousand likes. A video over twenty-eight minutes long, and people still stayed to watch. It got there in just one day."
+      "texto": "Number eight, from Australia, Skill Up and the Phantom Blade Zero review. Over fourteen thousand likes. Three lists, three appearances."
     },
     {
       "id": "l07",
@@ -277,7 +277,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number seven, from Australia, TGG, with a video posted six days ago. Over sixteen thousand likes. It also has over six hundred and sixty-nine thousand views."
+      "texto": "Number seven, from Australia, TGG and the GTA six roundup. Over sixteen thousand likes."
     },
     {
       "id": "l06",
@@ -285,7 +285,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number six, from Australia, Ken, with “what”. Over twenty-two thousand likes. It also has over seven hundred and sixty thousand views."
+      "texto": "Number six, from Australia, Ken and the video called “what”. Over twenty-two thousand likes."
     },
     {
       "id": "l05",
@@ -293,7 +293,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number five, from New Zealand, Dolan Darkest, with “Steam Needs to Take This Seriously”. Over twenty-three thousand likes. It got there in just one day. It also has over seven hundred and seventy-four thousand views."
+      "texto": "Number five, from New Zealand, Dolan Darkest again, but with a brand-new video: “Steam Needs to Take This Seriously”. Over twenty-three thousand likes, posted less than a day before our cut. And over seven hundred and seventy-four thousand views."
     },
     {
       "id": "l04",
@@ -301,7 +301,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number four, from Australia, Stimpee, with “The New DayZ Badlands DLC is Brutal”. Over twenty-three thousand likes. It also has over one million views."
+      "texto": "Number four, from Australia, Stimpee and the DayZ Badlands video. Over twenty-three thousand likes. So close to number five you could barely tell them apart."
     },
     {
       "id": "l03",
@@ -309,7 +309,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Kubz Scouts, with “bro what did i just play”. Over twenty-six thousand likes. A video over twenty-seven minutes long, and people still stayed to watch. It also has over six hundred and forty-eight thousand views."
+      "texto": "The last podium of the day. Bronze medal, Kubz Scouts, with “bro what did i just play”. Over twenty-six thousand likes. And that is three for three: Kubz Scouts is on every single list this week. But the top two are on a whole different scale."
     },
     {
       "id": "l02",
@@ -317,7 +317,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Merry Latte, with “Comment STRAW if you NEED one!”. Over fifty-two thousand likes. It was the fastest-growing video on this list: about ninety thousand views per hour. And get this: it's a channel with about thirty-nine thousand subscribers, playing in the big leagues this week."
+      "texto": "Silver medal: Merry Latte, our most viewed video of the week, with “Comment STRAW if you NEED one!”. Over fifty-two thousand likes. Ten million views, and still only second here. So who could beat that?"
     },
     {
       "id": "l01",
@@ -325,7 +325,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most liked, Bloxy Productions, with “Most embarrassing moments on your shirt”. Over one hundred and eighty-nine thousand likes. And get this: it's a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week. It also has over six point eight million views."
+      "texto": "And finally, number one most liked in Oceania: Bloxy Productions, with “Most Embarrassing Moments On Your Shirt”. Over one hundred and eighty-nine thousand likes. More than three times the likes of second place, from a channel with about one hundred and thirty thousand subscribers. Silver in views, gold in love."
     },
     {
       "id": "cierre",
