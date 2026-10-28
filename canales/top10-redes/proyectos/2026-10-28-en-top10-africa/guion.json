@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-28T16:03:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-28T07:43:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Africa, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over one hundred and seventy-one million views. But only one took number one. Welcome to Top 10 Social Media, Africa edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Thirty videos. Over one hundred and seventy-one million views. One single week in Africa. Somewhere in this countdown, a channel with fewer than one hundred thousand subscribers is beating giants with millions. Where does it land? You will find out, one position at a time. Welcome to Top 10 Social Media, Africa edition: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because number one is not who you think.",
       "tarjeta": {
         "titulo": "TOP 10 · AFRICA",
         "sub": "Week 44"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. In position number ten, from Tunisia, ZARUFA FF, with a video posted one day ago. Over four hundred and sixty-four thousand views. And get this: it's a channel with about thirty-five thousand subscribers, playing in the big leagues this week. A video over one hundred and forty-one minutes long, and people still stayed to watch.",
+      "texto": "We open with the ten most viewed videos of the week. And we start with a surprise. Number ten, from Tunisia, ZARUFA FF. A channel with about thirty-five thousand subscribers, and a video over one hundred and forty-one minutes long. A real marathon. Even so, in just one day, it passed four hundred and sixty-four thousand views. That is how this countdown begins.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, 𝗟𝗲𝘃𝗲𝗹𝗟𝗼𝗱𝘀, with “Spider-Man’s Epic Swing Through New York! Marvel’s Spider-Man 2”. Over five hundred and forty-four thousand views. A video over sixty-one minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number nine, LevelLods, with “Spider-Man’s Epic Swing Through New York! Marvel’s Spider-Man 2”. Over five hundred and forty-four thousand views in just two days. And this is no short clip: it runs for more than sixty-one minutes, and people stayed to watch."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number eight, Techys, with “We Used HACKS in Roblox Huss Valley...”. Over five hundred and sixty-six thousand views. It also has five hundred and seventeen comments."
+      "texto": "Climbing to number eight, Techys, with “We Used HACKS in Roblox Huss Valley...”. Over five hundred and sixty-six thousand views, and five hundred and seventeen comments. Roblox keeps pulling crowds in Africa too."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number seven, from Egypt, Abdo 2xd, with a video posted five days ago. Over one million views. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. A video over thirty-five minutes long, and people still stayed to watch."
+      "texto": "Number seven, and we cross the one million mark. From Egypt, Abdo 2xd, with a video posted five days ago. Over one million views. And here is the detail that matters: it has the best engagement rate on this list. Five out of every hundred viewers liked or commented. All of that in a video over thirty-five minutes long."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number six, from Algeria, Fawajir - فواجر , with a video posted one day ago. Over one million views. It got there in just one day. It also has over two thousand likes."
+      "texto": "Number six, from Algeria, Fawajir. This one is fast. Posted just one day ago, and it already has over one million views and over two thousand likes. One day. Remember that name."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number five, from Senegal, Marodi TV Sénégal, with a video posted four days ago. Over one point four million views. A video over thirty-seven minutes long, and people still stayed to watch. It also has over one thousand comments."
+      "texto": "Halfway there. Number five, from Senegal, Marodi TV Sénégal, with episode twenty of season two of “Jeux de dames”. Over one point four million views and more than one thousand comments, with episodes over thirty-seven minutes long. And this channel is not done with us today."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number four, from Egypt, Mahmoud Zayed - محمود زايد, with a video posted six days ago. Over three point two million views. A Short of just twenty-three seconds. It also has over eleven thousand comments."
+      "texto": "Number four, from Egypt, Mahmoud Zayed. A Short of just twenty-three seconds that passed three point two million views. But look at the comments: over eleven thousand. That number is going to matter very soon. Now, careful. Only three remain, and the jump from here is huge."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, SalesBendagra, with “Part 4, Subscribe For More.”. Over ten million views. And get this: it's a channel with about ninety-four thousand subscribers, playing in the big leagues this week. It also has over two thousand comments.",
+      "texto": "The podium. Bronze medal: SalesBendagra, with “Part 4, Subscribe For More.”. Over ten million views. And get this: it is a channel with about ninety-four thousand subscribers. Ten million views from a channel that size. Remarkable. But two videos still beat it.",
       "capitulo": "The podium"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Over thirteen million views. A Short of just ten seconds. It also has over one thousand comments."
+      "texto": "Silver medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. A Short of just ten seconds. Ten seconds, and over thirteen million views. A channel with more than eleven million subscribers, doing exactly what it does best. So who could possibly beat that?"
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And finally, number one most viewed, Sophie cindy, with “My daily duty as a mom of 5”. Over thirty million views. It was the fastest-growing video on this list: about one hundred and eighty thousand views per hour. And get this: it's a channel with about eighty-eight thousand subscribers, playing in the big leagues this week."
+      "texto": "Drum roll, please. The most viewed video in Africa this week. Number one: Sophie cindy, with “My daily duty as a mom of 5”. Over thirty million views. Thirty million. It was the fastest-growing video on this list, at about one hundred and eighty thousand views per hour. And the most surprising part: it comes from a channel with about eighty-eight thousand subscribers. That is the channel we promised at the start. A true giant killer."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. In position number ten, from Egypt, JIGGSo_ar, with a video posted five days ago. Over one thousand comments. A video over twenty-two minutes long, and people still stayed to watch. It also has over one hundred and five thousand views.",
+      "texto": "Views tell you who was watched. Comments tell you who started the conversation. The ten most commented videos. Number ten, from Egypt, JIGGSo_ar, with a video posted five days ago. Over one thousand comments and over one hundred and five thousand views.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from Egypt, Abdo 2xd, with a video posted five days ago. Over one thousand comments. A video over thirty-five minutes long, and people still stayed to watch. It also has over one million views."
+      "texto": "Number nine, from Egypt, Abdo 2xd returns. Over one thousand comments on the same video that took number seven in views. Over thirty-five minutes long, and people stayed to talk about it."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number eight, from Egypt, HikaSIU, with a video posted four days ago. Over one thousand comments. A video over twenty-two minutes long, and people still stayed to watch. It also has over three hundred and fifty thousand views."
+      "texto": "Number eight, also from Egypt, HikaSIU, with a video posted four days ago. Over one thousand comments and over three hundred and fifty thousand views. Egypt is clearly dominating this conversation."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number seven, from Senegal, Marodi TV Sénégal, with a video posted four days ago. Over one thousand comments. A video over thirty-six minutes long, and people still stayed to watch. It also has over one point four million views."
+      "texto": "Number seven, from Senegal, Marodi TV Sénégal is back, now with episode twenty-one of “Jeux de dames”. Over one thousand comments and over one point four million views. Fans are not just watching, they are debating."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number six, from Morocco, Mehdi Hilm, with a video posted three days ago. Over one thousand comments. It also has over one hundred and ten thousand views."
+      "texto": "Number six, from Morocco, Mehdi Hilm, with a video posted three days ago. Over one thousand comments, with over one hundred and ten thousand views. For a video that size, that is a very active community."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number five, Ahmed Sabiri Gaming, with a video posted one day ago. Over two thousand comments. It has the best engagement rate on this list: nine out of every hundred viewers liked or commented. And get this: it's a channel with about one hundred and forty thousand subscribers, playing in the big leagues this week."
+      "texto": "Number five, Ahmed Sabiri Gaming. Posted just one day ago, and already over two thousand comments. It has the best engagement rate on this list: nine out of every hundred viewers liked or commented. And it is a channel with about one hundred and forty-nine thousand subscribers."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number four, SalesBendagra, with “Part 4, Subscribe For More.”. Over two thousand comments. And get this: it's a channel with about ninety-four thousand subscribers, playing in the big leagues this week. It also has over ten million views."
+      "texto": "Number four, and a familiar name. SalesBendagra, bronze in views, now with over two thousand comments on “Part 4, Subscribe For More.”. Over ten million views from a channel of about ninety-four thousand subscribers. Now, the podium of the conversation."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Tunisia, Ury 2, with a video posted four days ago. Over three thousand comments. And get this: it's a channel with about eighty-eight thousand subscribers, playing in the big leagues this week. It also has over four hundred and fifty-two thousand views."
+      "texto": "Bronze medal, from Tunisia, Ury 2. A channel with about eighty-eight thousand subscribers, and a video that collected over three thousand comments, with more than four hundred and fifty-two thousand views. Small channel, huge conversation."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Sophie cindy, with “My daily duty as a mom of 5”. Over six thousand comments. It was the fastest-growing video on this list: about one hundred and eighty thousand views per hour. And get this: it's a channel with about eighty-eight thousand subscribers, playing in the big leagues this week."
+      "texto": "Silver medal, Sophie cindy, with “My daily duty as a mom of 5”. The most viewed video of the week also passed six thousand comments. And yet, it is not number one here. One video got people talking almost twice as much."
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, from Egypt, Mahmoud Zayed - محمود زايد, with a video posted six days ago. Over eleven thousand comments. A Short of just twenty-three seconds. It also has over three point two million views."
+      "texto": "Number one most commented. From Egypt, Mahmoud Zayed. Remember those comments we pointed out at number four in views? Over eleven thousand comments, on a Short of just twenty-three seconds, with over three point two million views. Twenty-three seconds that made all of Africa talk."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. In position number ten, from Egypt, LeOniDeS - مروان ريحان, with a video posted two days ago. Over fifteen thousand likes. A video over thirty-one minutes long, and people still stayed to watch. It got there in just two days.",
+      "texto": "One list left, the one that measures love: the ten most liked videos. Number ten, from Egypt, LeOniDeS, with a video posted two days ago. Over fifteen thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number nine, from Egypt, BEPO FF, with a video posted one day ago. Over twenty-one thousand likes. It has the best engagement rate on this list: twelve out of every hundred viewers liked or commented. It got there in just one day."
+      "texto": "Number nine, from Egypt, BEPO FF. Posted just one day ago, and already over twenty-one thousand likes. It has the best engagement rate on this list: twelve out of every hundred viewers liked or commented. Twelve out of every hundred. Impressive."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number eight, from Tunisia, Ury 2, with a video posted four days ago. Over twenty-five thousand likes. And get this: it's a channel with about eighty-eight thousand subscribers, playing in the big leagues this week. It also has over four hundred and fifty-two thousand views."
+      "texto": "Number eight, from Tunisia, Ury 2 again. Bronze in comments, and now over twenty-five thousand likes. A channel of about eighty-eight thousand subscribers showing up on two lists."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number seven, from Senegal, Marodi TV Sénégal, with a video posted four days ago. Over twenty-five thousand likes. A video over thirty-seven minutes long, and people still stayed to watch. It also has over one point four million views."
+      "texto": "Number seven, from Senegal, Marodi TV Sénégal, with episode twenty of “Jeux de dames”. Over twenty-five thousand likes and over one point four million views. Three appearances today for this channel."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number six, from Egypt, HikaSIU, with a video posted four days ago. Over twenty-eight thousand likes. A video over twenty-two minutes long, and people still stayed to watch. It also has over three hundred and fifty thousand views."
+      "texto": "Number six, from Egypt, HikaSIU. Over twenty-eight thousand likes, with over three hundred and fifty thousand views, in a video over twenty-two minutes long."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number five, from Egypt, Abdo 2xd, with a video posted five days ago. Over forty-nine thousand likes. A video over thirty-five minutes long, and people still stayed to watch. It also has over one million views."
+      "texto": "Number five, from Egypt, Abdo 2xd. Over forty-nine thousand likes, and over one million views. This video is on all three lists this week."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number four, from Egypt, Mahmoud Zayed - محمود زايد, with a video posted six days ago. Over fifty thousand likes. A Short of just twenty-three seconds. It also has over three point two million views."
+      "texto": "Number four, from Egypt, Mahmoud Zayed. The king of comments also collected over fifty thousand likes. But from here up, the numbers explode. The next video has more than six times as many likes."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Over three hundred and twenty-two thousand likes. A Short of just ten seconds. It also has over thirteen million views."
+      "texto": "Bronze medal, from South Africa, Ryan HD, with “School VS Adult VS College.”. Over three hundred and twenty-two thousand likes, on a Short of just ten seconds. And there are still two above it."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, SalesBendagra, with “Part 4, Subscribe For More.”. Over four hundred and seven thousand likes. And get this: it's a channel with about ninety-four thousand subscribers, playing in the big leagues this week. It also has over ten million views."
+      "texto": "Silver medal, SalesBendagra, with “Part 4, Subscribe For More.”. Over four hundred and seven thousand likes. A channel with about ninety-four thousand subscribers, on the podium of two lists this week. Only one video got more love than this."
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most liked, Sophie cindy, with “My daily duty as a mom of 5”. Over four hundred and forty-one thousand likes. It was the fastest-growing video on this list: about one hundred and eighty thousand views per hour. And get this: it's a channel with about eighty-eight thousand subscribers, playing in the big leagues this week."
+      "texto": "And the most liked video in Africa this week. Number one: Sophie cindy, with “My daily duty as a mom of 5”. Over four hundred and forty-one thousand likes. Number one in views, silver in comments, and number one in likes. A channel with about eighty-eight thousand subscribers, at the top of Africa. What a week."
     },
     {
       "id": "cierre",
