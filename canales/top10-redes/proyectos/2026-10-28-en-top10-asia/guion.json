@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-10-28T16:03:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-10-28T07:43:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Asia, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over five hundred and sixty million views. But only one took number one. Welcome to Top 10 Social Media, Asia edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Festival decorations, kitchen stories, a game launch and one unstoppable show. This week, Asia did not stop clicking. The thirty videos in this countdown add up to over five hundred and sixty million views. Thirty videos, three lists, and only three crowns. Welcome to Top 10 Social Media, Asia edition. Today we count down the ten most viewed, the ten most commented and the ten most liked videos of the week. And I'll warn you now: one name is about to dominate this episode. Which one? Stay until the end.",
       "tarjeta": {
         "titulo": "TOP 10 · ASIA",
         "sub": "Week 44"
@@ -76,7 +76,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Asia. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, measured this Wednesday. Let's go.",
+      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Asia. One video per creator on each list. Music and news have their own space. Every number comes straight from the official YouTube API, measured this Wednesday. Ready? Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Next up, number ten, from India, Kitchen CureAI , with a video posted four days ago. Over eighteen million views. It also has nine hundred and sixty-nine comments.",
+      "texto": "We open with the ten most viewed. Number ten, from India, Kitchen CureAI, with a family kitchen story of about three minutes, posted four days ago. Over eighteen million seven hundred thousand views, and over four hundred and ninety thousand likes. Remember that channel, by the way. It isn't done with us today.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number nine, from Indonesia, Aletha Abew, with a video posted three days ago. Over eighteen million views. A Short of just forty-one seconds. It also has two hundred and fifty comments."
+      "texto": "Number nine, and it's tight. From Indonesia, Aletha Abew, a channel with seventeen million subscribers. A Short of just forty-one seconds, posted three days ago. Over eighteen point seven million views. Just a few thousand views separate it from number ten."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number eight, from Pakistan, Heemi , with “She made a huge comeback this year!”. Over nineteen million views. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week. A Short of just sixteen seconds."
+      "texto": "At number eight, from Pakistan, Heemi, with “She made a huge comeback this year!”. Over nineteen point three million views, from a channel with about one hundred and twenty-four thousand subscribers. A sixteen-second Short, punching way above its weight."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number seven, from India, Snow_berrygifts, with “He Knows My Favourite Colours Colour Challenge with Him”. Over nineteen million views. And get this: it's a channel with about ninety-four thousand subscribers, playing in the big leagues this week. A Short of just forty-six seconds."
+      "texto": "Number seven, from India, Snow_berrygifts, with a colour challenge Short of forty-six seconds. Over nineteen point seven million views, and over one thousand seven hundred comments. The channel? About ninety-four thousand subscribers."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number six, from India, JAI HIND OFFICIAL, with “Rakh Mein Mile Pairon Ke Nishan Aakhir Kiske The?”. Over twenty-two million views. And get this: it's a channel with about one hundred and fifty thousand subscribers, playing in the big leagues this week. A Short of just twenty-five seconds."
+      "texto": "Up we go. Number six, from India, JAI HIND OFFICIAL. A twenty-five second Short, posted five days ago, with over twenty-two point nine million views. All that from a channel with about one hundred and fifty-two thousand subscribers."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number five, from South Korea, DoubleBite, with “Water vs Dried Fish”. Over twenty-five million views. A Short of just fifty-nine seconds. It also has over one thousand comments."
+      "texto": "Halfway there. Number five, from South Korea, DoubleBite, with “Water vs Dried Fish”. Fifty-nine seconds, over twenty-five million views and over three hundred and forty-five thousand likes. Keep an eye on this one too: we may see it again."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number four, WIUFQFYEQ, with a video posted three days ago. Over twenty-eight million views. And get this: it's a channel with about thirty-four thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "And now the big numbers start. Number four, WIUFQFYEQ, a channel with about thirty-four thousand subscribers. A thirty-one second Short, posted three days ago, with over twenty-eight point eight million views. Let that sink in. Now, the podium."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, ARTIST JOYBOY, with “Drawing LISA using 69 from Tarantino LLOUD”. Over thirty-three million views. And get this: it's a channel with about sixty-seven thousand subscribers, playing in the big leagues this week. A Short of just twenty-one seconds.",
+      "texto": "Bronze medal, ARTIST JOYBOY, with “Drawing LISA using 69 from Tarantino”. A drawing Short of twenty-one seconds that pulled in over thirty-three point two million views. The channel has about sixty-seven thousand subscribers. Bronze in Asia. Impressive. But two videos went even higher.",
       "capitulo": "The podium"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Samay Raina, with a video posted two days ago. Over forty-four million views. It was the fastest-growing video on this list: about six hundred and eighty thousand views per hour. It has the best engagement rate on this list: three out of every hundred viewers liked or commented."
+      "texto": "Silver medal, from India, Samay Raina, with India's Got Latent, season two, episode eight. Not a Short: a full episode of over fifty minutes, posted just two days ago, with over forty-four point three million views. It was the fastest-growing video on this list: about six hundred and eighty thousand views per hour. A monster. And still, it's not number one."
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most viewed, from India, Shivapriya Official , with “Mango leaf decoration ideas for diwali”. Over forty-seven million views. And get this: it's a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week. A Short of just twenty seconds."
+      "texto": "Drum roll, please. Number one most viewed in Asia, from India, Shivapriya Official, with “Mango leaf decoration ideas for diwali”. Over forty-seven point six million views. A Short of just twenty seconds, from a channel with about one hundred and thirty-four thousand subscribers. Twenty seconds of festival decoration beat a fifty-minute megahit. That's the power of Diwali week."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Number ten, from United Arab Emirates, Esraa Gaming , with a video posted four days ago. Over six thousand comments. A video over seventy-two minutes long, and people still stayed to watch. It also has over eight hundred and thirty-four thousand views.",
+      "texto": "Now let's turn up the conversation: the ten most commented videos. Number ten, from the United Arab Emirates, Esraa Gaming, with Poppy Playtime Chapter two. A gameplay over seventy-two minutes long, and still, over six thousand seven hundred comments and over eight hundred and thirty thousand views.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number nine, from India, Shivang Mini, with a video posted six days ago. Over eight thousand comments. It also has over one point three million views."
+      "texto": "Number nine, from India, Shivang Mini, with “I UPGRADED MY SUBSCRIBERS ACCOUNT IN STEAL AN EGG ROBLOX”. Over eight thousand comments and over one point three million views."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number eight, from Indonesia, Nadia Omara, with a video posted five days ago. Over eight thousand comments. A video over thirty minutes long, and people still stayed to watch. It also has over eight point nine million views."
+      "texto": "Number eight, from Indonesia, Nadia Omara, a channel with over seventeen million subscribers. A video over thirty minutes long, posted five days ago. Over eight thousand five hundred comments and over eight point nine million views."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number seven, from Japan, Ado, with a video posted three days ago. Over eight thousand comments. It also has over one point seven million views."
+      "texto": "Number seven, from Japan, Ado, with “Patient A”. Under five minutes long, with over eight thousand nine hundred comments in three days, plus over one point seven million views."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number six, from Iraq, أترو/Atro, with a video posted five days ago. Over ten thousand comments. It has the best engagement rate on this list: seven out of every hundred viewers liked or commented. A video over twenty-five minutes long, and people still stayed to watch."
+      "texto": "Number six, from Iraq, Atro, with a PUBG Mobile video over twenty-five minutes long. Over ten thousand comments. And it has the best engagement rate on this list: seven out of every hundred viewers liked or commented. A loyal, loud community."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number five, from India, Techno Gamerz, with “Welcome to vietnam first light gameplay”. Over eleven thousand comments. A video over one hundred and one minutes long, and people still stayed to watch. It also has over five million views."
+      "texto": "Number five, from India, Techno Gamerz, a channel with over fifty-three million subscribers. “Welcome to Vietnam”, part six of their First Light gameplay. Over one hundred and one minutes long, with over eleven thousand comments and over five million views."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number four, لانا و رورو, with a video posted three days ago. Over thirteen thousand comments. It also has over seven hundred and seventy thousand views."
+      "texto": "Number four, the duo لانا و رورو, with a Roblox gameplay over eighteen minutes long, posted three days ago. Over thirteen thousand four hundred comments, from just over seven hundred and seventy thousand views. And now, the podium of the conversation."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from India, Free Fire India Official, with “Free fire india is here!”. Over twenty-seven thousand comments. It got there in just one day. It also has over five point three million views."
+      "texto": "Bronze medal, from India, Free Fire India Official, with “FREE FIRE INDIA IS HERE!”. It got there in just one day. Over twenty-seven thousand comments and over five point three million views."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, What Factzz, with a video posted six days ago. Over forty-five thousand comments. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week. A Short of just twenty-seven seconds."
+      "texto": "Silver medal, from India, What Factzz, with “Tennis Ball”. A twenty-seven second Short with over forty-five thousand four hundred comments, from a channel with about one hundred and twenty-seven thousand subscribers. And hold on, because the gap to number one is almost nothing."
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, from India, Samay Raina, with a video posted two days ago. Over forty-five thousand comments. It was the fastest-growing video on this list: about six hundred and eighty thousand views per hour. A video over fifty minutes long, and people still stayed to watch."
+      "texto": "And the number one most commented... from India, Samay Raina, again! India's Got Latent, season two, episode eight. Over forty-five thousand five hundred comments. The difference with second place? Just fifty-nine comments. Fifty-nine! Silver in views, gold in comments. But is that all for this episode? We'll see."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Coming in at number ten, from India, Shivapriya Official , with “Mango leaf decoration ideas for diwali”. Over three hundred and fourteen thousand likes. And get this: it's a channel with about one hundred and thirty thousand subscribers, playing in the big leagues this week. A Short of just twenty seconds.",
+      "texto": "And the last list, the one that measures love: the ten most liked videos. Number ten, a familiar face. From India, Shivapriya Official, with “Mango leaf decoration ideas for diwali”, our number one in views. Here, over three hundred and fourteen thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number nine, from India, Rhino Rule, with a video posted six days ago. Over three hundred and seventeen thousand likes. It also has over nine point seven million views."
+      "texto": "Number nine, from India, Rhino Rule, with “I Tried Most Expensive RC Helicopter”. Over three hundred and seventeen thousand likes and over nine point seven million views."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number eight, from India, Gyan studio Bari, with a video posted six days ago. Over three hundred and nineteen thousand likes. And get this: it's a channel with about thirty-three thousand subscribers, playing in the big leagues this week. It also has over ten million views."
+      "texto": "Number eight, from India, Gyan studio Bari, a channel with about thirty-three thousand subscribers. A video posted six days ago with over ten point two million views and over three hundred and nineteen thousand likes."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number seven, from United Arab Emirates, Priya and Sid, with a video posted four days ago. Over three hundred and twenty-eight thousand likes. It also has over ten million views."
+      "texto": "Number seven, from the United Arab Emirates, Priya and Sid, with “UNLIMITED chocolate at the Lindt Factory!”. Over three hundred and twenty-eight thousand likes and over ten point two million views."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number six, from South Korea, DoubleBite, with “Water vs Dried Fish”. Over three hundred and forty-five thousand likes. A Short of just fifty-nine seconds. It also has over twenty-five million views."
+      "texto": "Number six, back again from South Korea, DoubleBite, with “Water vs Dried Fish”. Fifth in views, and here over three hundred and forty-five thousand likes."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number five, from India, What Factzz, with a video posted six days ago. Over four hundred and seventy-five thousand likes. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week."
+      "texto": "Number five, What Factzz, our silver in comments, with “Tennis Ball”. Over four hundred and seventy-five thousand likes. It has the best engagement rate on this list: five out of every hundred viewers liked or commented."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number four, Indu kanchan Singh, with “karodon ki deal chhoti Bahu ki samajhdari Se hua final”. Over four hundred and seventy-nine thousand likes. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week. It also has over nine point nine million views."
+      "texto": "Number four, Indu kanchan Singh, a channel with about one hundred and twenty-seven thousand subscribers. A family story of three minutes, posted six days ago. Over four hundred and seventy-nine thousand likes and over nine point nine million views. Now, the final podium of the week."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Pakistan, Heemi , with “She made a huge comeback this year!”. Over five hundred and twenty-nine thousand likes. And get this: it's a channel with about one hundred and twenty thousand subscribers, playing in the big leagues this week. A Short of just sixteen seconds."
+      "texto": "Bronze medal, from Pakistan, Heemi, with “She made a huge comeback this year!”. Eighth in views, and here over five hundred and twenty-nine thousand likes. A sixteen-second Short climbing to the podium."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Kitchen CureAI , with a video posted six days ago. Over six hundred and eighty-four thousand likes. It also has over sixteen million views."
+      "texto": "Silver medal, from India, Kitchen CureAI. Remember them from number ten in views? This is a different video: another family kitchen story, posted six days ago, with over six hundred and eighty-four thousand likes and over sixteen point five million views."
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most liked, from India, Samay Raina, with a video posted two days ago. Over one point two million likes. It was the fastest-growing video on this list: about six hundred and eighty thousand views per hour. A video over fifty minutes long, and people still stayed to watch."
+      "texto": "And the number one most liked in Asia... Samay Raina, one more time! India's Got Latent, season two, episode eight. Over one point two million likes. Silver in views, gold in comments and gold in likes. Over fifty minutes long, and about six hundred and eighty thousand views per hour. This week in Asia, one show ruled them all."
     },
     {
       "id": "cierre",
