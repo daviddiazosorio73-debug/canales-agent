@@ -12,11 +12,18 @@
  "en_lista": [
   "ckaC_1ul4UU",
   "QP1hFVK-n_0",
-  "No3MmU7q8Ag"
+  "No3MmU7q8Ag",
+  "4R3EfUOq2mc",
+  "NGhhbLrD8KY",
+  "43XZ1bGuBMI"
  ],
  "enlazados": [
   "ckaC_1ul4UU>QP1hFVK-n_0",
   "QP1hFVK-n_0>No3MmU7q8Ag",
-  "No3MmU7q8Ag>fin"
+  "No3MmU7q8Ag>fin",
+  "ckaC_1ul4UU>4R3EfUOq2mc",
+  "4R3EfUOq2mc>NGhhbLrD8KY",
+  "NGhhbLrD8KY>43XZ1bGuBMI",
+  "43XZ1bGuBMI>QP1hFVK-n_0"
  ]
 }
