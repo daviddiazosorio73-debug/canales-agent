@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "El mensaje que pasó por 5 manos hasta llegar a ti ✉️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dios → Jesús → ángel → Juan → tú",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El mensaje que pasó por 5 manos hasta llegar a ti ✉️ #shorts",
+    "descripcion": "Hay un mensaje que salió de Dios y pasó por cinco manos antes de llegar a las tuyas.\n\nApocalipsis 1:1-2\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un mensaje que salió de Dios y pasó por cinco manos antes de llegar a las tuyas.",
+      "texto_pantalla": "Dios → Jesús → ángel → Juan → tú",
+      "emocion": "gancho",
+      "visual": {
+        "query": "letter envelope light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Apocalipsis uno, versículos uno y dos, presenta la cadena de la revelación. Dios se la dio a Jesucristo, Jesús la envió por medio de su ángel a su siervo Juan, y Juan dio testimonio de todo lo que vio para que llegara a la iglesia. Esa cadena termina en ti. Revelación es Dios dándose a conocer; inspiración es Dios guiando al mensajero para comunicarlo fielmente. El mensaje no se quedó en el cielo: viajó hasta tu vida. ¿Qué vas a hacer con él hoy? Escríbelo en los comentarios.",
+      "texto_pantalla": "Dios → Jesús → ángel → Juan → tú",
+      "referencia": "Apocalipsis 1:1-2",
+      "emocion": "agil",
+      "visual": {
+        "query": "letter envelope light"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "El profeta que se acostó 390 días 😮",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Sermones vivientes",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El profeta que se acostó 390 días 😮 #shorts",
+    "descripcion": "¿Te imaginas que Dios te pida acostarte sobre un costado durante más de un año como mensaje para tu pueblo?\n\nEzequiel 4:1-8; Oseas 1:2-9\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Te imaginas que Dios te pida acostarte sobre un costado durante más de un año como mensaje para tu pueblo?",
+      "texto_pantalla": "Sermones vivientes",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old man praying desert"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Ezequiel cuatro, el profeta dibuja a Jerusalén sitiada y se acuesta sobre un lado durante muchos días, como señal del juicio que venía. En Oseas uno, Dios usa el matrimonio del profeta para mostrar la infidelidad de Israel y su amor que no se rinde. Dios no solo habló con palabras: convirtió a sus profetas en sermones vivientes. Hoy también nuestra vida predica algo, aunque no digamos nada. ¿Qué mensaje está predicando tu vida esta semana? Déjalo en los comentarios.",
+      "texto_pantalla": "Sermones vivientes",
+      "referencia": "Ezequiel 4:1-8; Oseas 1:2-9",
+      "emocion": "agil",
+      "visual": {
+        "query": "old man praying desert"
+      }
+    }
+  ]
+}

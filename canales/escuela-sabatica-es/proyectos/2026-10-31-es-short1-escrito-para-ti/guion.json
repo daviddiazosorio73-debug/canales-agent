@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "Esto fue escrito PARA TI (y tiene que ver con tu esperanza) ✨",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escrito para tu esperanza",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Esto fue escrito PARA TI (y tiene que ver con tu esperanza) ✨ #shorts",
+    "descripcion": "¿Para qué sirve leer historias escritas hace miles de años?\n\nRomanos 15:4\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Para qué sirve leer historias escritas hace miles de años?",
+      "texto_pantalla": "Escrito para tu esperanza",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hope sunrise mountain"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Romanos quince, versículo cuatro, responde: todo lo que se escribió antes se escribió para enseñarnos, para que, por medio de la paciencia y del consuelo de las Escrituras, tengamos esperanza. Las historias de la Biblia no son museo, son medicina. Las fallas de David, las lágrimas de Ana, la fe de Abraham fueron escritas para que tú no te rindas hoy. Esta semana estudiamos los escritos proféticos: por qué Dios quiso que su mensaje quedara por escrito. ¿Qué historia bíblica te dio esperanza alguna vez? Cuéntala abajo.",
+      "texto_pantalla": "Escrito para tu esperanza",
+      "referencia": "Romanos 15:4",
+      "emocion": "agil",
+      "visual": {
+        "query": "hope sunrise mountain"
+      }
+    }
+  ]
+}

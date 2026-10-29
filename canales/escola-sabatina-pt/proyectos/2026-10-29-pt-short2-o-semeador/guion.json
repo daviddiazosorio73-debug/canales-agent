@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "A MESMA semente, quatro resultados diferentes 🌱",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Que terreno você é hoje?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A MESMA semente, quatro resultados diferentes 🌱 #shorts",
+    "descripcion": "Um agricultor semeia a mesma semente em quatro lugares e colhe quatro resultados. O problema era a semente?\n\nMateus 13:1-9, 18-23\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um agricultor semeia a mesma semente em quatro lugares e colhe quatro resultados. O problema era a semente?",
+      "texto_pantalla": "Que terreno você é hoje?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "farmer sowing seeds field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Mateus treze, Jesus conta a parábola do semeador. Parte da semente cai à beira do caminho, parte entre pedras, parte entre espinhos e parte em boa terra. Só a última dá fruto. Jesus ensinava com histórias porque uma história entra no coração e fica. A semente é a Palavra; o terreno é o nosso coração. A pergunta não é se Deus fala, mas como recebemos o que Ele diz. Que terreno você é hoje: caminho, pedras, espinhos ou boa terra? Responda nos comentários.",
+      "texto_pantalla": "Que terreno você é hoje?",
+      "referencia": "Mateus 13:1-9, 18-23",
+      "emocion": "agil",
+      "visual": {
+        "query": "farmer sowing seeds field"
+      }
+    }
+  ]
+}

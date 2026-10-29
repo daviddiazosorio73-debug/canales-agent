@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "A mensagem que passou por 5 mãos até chegar a você ✉️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Deus → Jesus → anjo → João → você",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A mensagem que passou por 5 mãos até chegar a você ✉️ #shorts",
+    "descripcion": "Existe uma mensagem que saiu de Deus e passou por cinco mãos antes de chegar às suas.\n\nApocalipse 1:1-2\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existe uma mensagem que saiu de Deus e passou por cinco mãos antes de chegar às suas.",
+      "texto_pantalla": "Deus → Jesus → anjo → João → você",
+      "emocion": "gancho",
+      "visual": {
+        "query": "letter envelope light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Apocalipse um, versículos um e dois, apresenta a cadeia da revelação. Deus a deu a Jesus Cristo, Jesus a enviou por meio do seu anjo ao seu servo João, e João testemunhou tudo o que viu para que chegasse à igreja. Essa cadeia termina em você. Revelação é Deus se dando a conhecer; inspiração é Deus guiando o mensageiro para comunicar com fidelidade. A mensagem não ficou no céu: viajou até a sua vida. O que você vai fazer com ela hoje? Escreva nos comentários.",
+      "texto_pantalla": "Deus → Jesus → anjo → João → você",
+      "referencia": "Apocalipse 1:1-2",
+      "emocion": "agil",
+      "visual": {
+        "query": "letter envelope light"
+      }
+    }
+  ]
+}

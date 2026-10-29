@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "Dios mandó escribir… para darles OTRA oportunidad 📜",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escrito por misericordia",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios mandó escribir… para darles OTRA oportunidad 📜 #shorts",
+    "descripcion": "Dios le pidió a un profeta escribir todas sus advertencias en un rollo. ¿Para castigar o para salvar?\n\nJeremías 36:2-3\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dios le pidió a un profeta escribir todas sus advertencias en un rollo. ¿Para castigar o para salvar?",
+      "texto_pantalla": "Escrito por misericordia",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient scroll candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Jeremías treinta y seis, Dios ordena escribir en un rollo todas las palabras que había hablado. Y en el versículo tres explica por qué: quizá, al oír todo el mal que venía, cada uno se volvería de su mal camino y Dios perdonaría. La Palabra escrita no nació como amenaza, sino como invitación. Cada advertencia de la Biblia lleva detrás un Dios que quiere perdonar. ¿Hay algo de lo que Dios te está invitando a volver hoy? Escribe amén si quieres responder a su llamado.",
+      "texto_pantalla": "Escrito por misericordia",
+      "referencia": "Jeremías 36:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient scroll candle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "Un tesoro guardado en vasijas de BARRO 🏺",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Tesoro en vasos de barro",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Un tesoro guardado en vasijas de BARRO 🏺 #shorts",
+    "descripcion": "¿Por qué Dios guardaría su mensaje más valioso en algo tan frágil?\n\n2 Corintios 4:7\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Por qué Dios guardaría su mensaje más valioso en algo tan frágil?",
+      "texto_pantalla": "Tesoro en vasos de barro",
+      "emocion": "gancho",
+      "visual": {
+        "query": "clay pot pottery"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Corintios cuatro, versículo siete, dice que tenemos este tesoro en vasos de barro, para que se vea que el poder viene de Dios y no de nosotros. Los profetas y apóstoles fueron personas reales, con límites y debilidades. Dios no esperó a encontrar personas perfectas: usó vasijas comunes para llevar un tesoro eterno. Eso también es una buena noticia para ti. Tus límites no impiden que Dios te use. ¿En qué área de tu vida sientes que eres barro? Déjalo en oración en los comentarios.",
+      "texto_pantalla": "Tesoro en vasos de barro",
+      "referencia": "2 Corintios 4:7",
+      "emocion": "agil",
+      "visual": {
+        "query": "clay pot pottery"
+      }
+    }
+  ]
+}

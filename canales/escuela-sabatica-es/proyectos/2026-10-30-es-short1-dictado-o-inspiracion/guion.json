@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "¿Dios DICTÓ la Biblia palabra por palabra? 📜",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Dictado o inspiración?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Dios DICTÓ la Biblia palabra por palabra? 📜 #shorts",
+    "descripcion": "Si Dios escribió la Biblia, ¿por qué Pedro y Pablo escriben tan distinto?\n\n2 Pedro 1:21; 2 Timoteo 3:16\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si Dios escribió la Biblia, ¿por qué Pedro y Pablo escriben tan distinto?",
+      "texto_pantalla": "¿Dictado o inspiración?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old scroll writing quill"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Pedro uno, versículo veintiuno, dice que los profetas hablaron siendo movidos por el Espíritu Santo. Dios no usó a sus mensajeros como máquinas de escribir. Los inspiró, y ellos expresaron el mensaje con su propio vocabulario, cultura y estilo. Por eso Amós suena a pastor, Lucas a historiador y Pablo a maestro. El mensaje es divino; la forma lleva huellas humanas. Eso no le quita autoridad: muestra que Dios se acerca a nosotros en nuestro idioma. ¿Cuál es tu libro favorito de la Biblia y por qué? Cuéntalo abajo.",
+      "texto_pantalla": "¿Dictado o inspiración?",
+      "referencia": "2 Pedro 1:21; 2 Timoteo 3:16",
+      "emocion": "agil",
+      "visual": {
+        "query": "old scroll writing quill"
+      }
+    }
+  ]
+}

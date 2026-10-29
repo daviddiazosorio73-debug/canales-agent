@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "O hábito de 5 minutos que marcou os profetas 📓",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Seu diário de fé",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O hábito de 5 minutos que marcou os profetas 📓 #shorts",
+    "descripcion": "Moisés fez. Jeremias fez. Lucas fez. E você?\n\nÊxodo 17:14; Jeremias 36:2; Lucas 1:1-4\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Moisés fez. Jeremias fez. Lucas fez. E você?",
+      "texto_pantalla": "Seu diário de fé",
+      "emocion": "gancho",
+      "visual": {
+        "query": "journal notebook coffee"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Deus mandou Moisés escrever para lembrar, Jeremias escrever para chamar ao arrependimento, e Lucas investigou tudo com cuidado e escreveu em ordem para que tivéssemos certeza. Escrever o que Deus faz protege a memória da fé. Experimente nesta semana um diário de fé: cinco minutos por dia para anotar uma oração, uma resposta e um versículo. Daqui a um ano você terá o seu próprio livro de memórias de Deus. Topa o desafio? Escreva eu topo nos comentários.",
+      "texto_pantalla": "Seu diário de fé",
+      "referencia": "Êxodo 17:14; Jeremias 36:2; Lucas 1:1-4",
+      "emocion": "agil",
+      "visual": {
+        "query": "journal notebook coffee"
+      }
+    }
+  ]
+}

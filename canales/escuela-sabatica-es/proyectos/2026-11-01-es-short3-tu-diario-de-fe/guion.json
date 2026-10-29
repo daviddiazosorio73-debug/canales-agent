@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "El hábito de 5 minutos que cambió a los profetas 📓",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Tu diario de fe",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El hábito de 5 minutos que cambió a los profetas 📓 #shorts",
+    "descripcion": "Moisés lo hizo. Jeremías lo hizo. Lucas lo hizo. ¿Y tú?\n\nÉxodo 17:14; Jeremías 36:2; Lucas 1:1-4\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Moisés lo hizo. Jeremías lo hizo. Lucas lo hizo. ¿Y tú?",
+      "texto_pantalla": "Tu diario de fe",
+      "emocion": "gancho",
+      "visual": {
+        "query": "journal notebook coffee"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Dios mandó a Moisés escribir para recordar, a Jeremías escribir para llamar al arrepentimiento, y Lucas investigó con cuidado y escribió en orden para que tuviéramos certeza. Escribir lo que Dios hace protege la memoria de la fe. Prueba esta semana un diario de fe: cinco minutos al día para anotar una oración, una respuesta y un versículo. Dentro de un año tendrás tu propio libro de memorias de Dios. ¿Te animas al reto? Escribe yo me sumo en los comentarios.",
+      "texto_pantalla": "Tu diario de fe",
+      "referencia": "Éxodo 17:14; Jeremías 36:2; Lucas 1:1-4",
+      "emocion": "agil",
+      "visual": {
+        "query": "journal notebook coffee"
+      }
+    }
+  ]
+}

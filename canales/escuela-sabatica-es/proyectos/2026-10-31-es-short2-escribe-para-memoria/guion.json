@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "La primera vez que Dios dijo: ESCRÍBELO ✍️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escribe para memoria",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La primera vez que Dios dijo: ESCRÍBELO ✍️ #shorts",
+    "descripcion": "Después de una batalla, Dios no pidió una celebración. Pidió algo más sencillo: escribirlo.\n\nÉxodo 17:14\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Después de una batalla, Dios no pidió una celebración. Pidió algo más sencillo: escribirlo.",
+      "texto_pantalla": "Escribe para memoria",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old book writing"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Éxodo diecisiete, versículo catorce, tras la victoria sobre Amalec, Dios le dijo a Moisés que lo escribiera en un libro como memoria. La memoria humana es frágil: olvidamos rápido lo que Dios hizo ayer. Por eso Dios quiso que su obra quedara escrita, para que cada generación recordara quién peleó por su pueblo. Lo escrito permanece cuando la emoción pasa. ¿Qué victoria de Dios en tu vida deberías escribir para no olvidarla? Escríbela en los comentarios.",
+      "texto_pantalla": "Escribe para memoria",
+      "referencia": "Éxodo 17:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "old book writing"
+      }
+    }
+  ]
+}

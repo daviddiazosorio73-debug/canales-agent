@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "Revelação e inspiração em 60 segundos ⏱️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Revisão da semana",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Revelação e inspiração em 60 segundos ⏱️ #shorts",
+    "descripcion": "Uma semana de estudo em um minuto. Pronto para a revisão?\n\nApocalipse 1:1-2; Mateus 13\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Uma semana de estudo em um minuto. Pronto para a revisão?",
+      "texto_pantalla": "Revisão da semana",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sunset bible open"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Nesta semana aprendemos que revelação é Deus se dando a conhecer, e inspiração é Deus guiando a pessoa que transmite a sua mensagem. Deus falou por visões e sonhos, como a Daniel; por parábolas, como Jesus com o semeador; por símbolos, como a estátua de Daniel dois; e por ações, como Ezequiel e Oseias. Formas diferentes, um mesmo propósito: que o conheçamos e sejamos salvos. Amanhã começamos uma nova lição: os escritos proféticos. O que mais ensinou você nesta semana? Compartilhe e inscreva-se.",
+      "texto_pantalla": "Revisão da semana",
+      "referencia": "Apocalipse 1:1-2; Mateus 13",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunset bible open"
+      }
+    }
+  ]
+}

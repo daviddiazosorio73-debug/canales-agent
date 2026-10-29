@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "La MISMA semilla, cuatro resultados distintos 🌱",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Qué terreno eres hoy?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La MISMA semilla, cuatro resultados distintos 🌱 #shorts",
+    "descripcion": "Un agricultor siembra la misma semilla en cuatro lugares y obtiene cuatro resultados. ¿El problema era la semilla?\n\nMateo 13:1-9, 18-23\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un agricultor siembra la misma semilla en cuatro lugares y obtiene cuatro resultados. ¿El problema era la semilla?",
+      "texto_pantalla": "¿Qué terreno eres hoy?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "farmer sowing seeds field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Mateo trece, Jesús cuenta la parábola del sembrador. Parte de la semilla cae junto al camino, parte entre piedras, parte entre espinos y parte en buena tierra. Solo esa última da fruto. Jesús enseñaba con historias porque una historia entra al corazón y se queda. La semilla es la Palabra; el terreno es nuestro corazón. La pregunta no es si Dios habla, sino cómo recibimos lo que dice. ¿Qué terreno eres hoy: camino, piedras, espinos o buena tierra? Respóndelo en los comentarios.",
+      "texto_pantalla": "¿Qué terreno eres hoy?",
+      "referencia": "Mateo 13:1-9, 18-23",
+      "emocion": "agil",
+      "visual": {
+        "query": "farmer sowing seeds field"
+      }
+    }
+  ]
+}

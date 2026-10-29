@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "Um tesouro guardado em vasos de BARRO 🏺",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Tesouro em vasos de barro",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Um tesouro guardado em vasos de BARRO 🏺 #shorts",
+    "descripcion": "Por que Deus guardaria a sua mensagem mais valiosa em algo tão frágil?\n\n2 Coríntios 4:7\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Por que Deus guardaria a sua mensagem mais valiosa em algo tão frágil?",
+      "texto_pantalla": "Tesouro em vasos de barro",
+      "emocion": "gancho",
+      "visual": {
+        "query": "clay pot pottery"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda Coríntios quatro, versículo sete, diz que temos este tesouro em vasos de barro, para que se veja que o poder vem de Deus e não de nós. Os profetas e apóstolos foram pessoas reais, com limites e fraquezas. Deus não esperou encontrar pessoas perfeitas: usou vasos comuns para levar um tesouro eterno. Isso também é uma boa notícia para você. Os seus limites não impedem que Deus o use. Em que área da sua vida você se sente barro? Deixe como pedido de oração nos comentários.",
+      "texto_pantalla": "Tesouro em vasos de barro",
+      "referencia": "2 Coríntios 4:7",
+      "emocion": "agil",
+      "visual": {
+        "query": "clay pot pottery"
+      }
+    }
+  ]
+}

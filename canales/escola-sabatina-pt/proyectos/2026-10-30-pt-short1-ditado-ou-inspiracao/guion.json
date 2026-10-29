@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "Deus DITOU a Bíblia palavra por palavra? 📜",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Ditado ou inspiração?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus DITOU a Bíblia palavra por palavra? 📜 #shorts",
+    "descripcion": "Se Deus escreveu a Bíblia, por que Pedro e Paulo escrevem de jeitos tão diferentes?\n\n2 Pedro 1:21; 2 Timóteo 3:16\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Se Deus escreveu a Bíblia, por que Pedro e Paulo escrevem de jeitos tão diferentes?",
+      "texto_pantalla": "Ditado ou inspiração?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old scroll writing quill"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda Pedro um, versículo vinte e um, diz que os profetas falaram movidos pelo Espírito Santo. Deus não usou os seus mensageiros como máquinas de escrever. Ele os inspirou, e eles expressaram a mensagem com o próprio vocabulário, cultura e estilo. Por isso Amós soa como pastor, Lucas como historiador e Paulo como mestre. A mensagem é divina; a forma tem marcas humanas. Isso não tira a autoridade: mostra que Deus se aproxima de nós na nossa língua. Qual é o seu livro favorito da Bíblia e por quê? Conte aqui embaixo.",
+      "texto_pantalla": "Ditado ou inspiração?",
+      "referencia": "2 Pedro 1:21; 2 Timóteo 3:16",
+      "emocion": "agil",
+      "visual": {
+        "query": "old scroll writing quill"
+      }
+    }
+  ]
+}

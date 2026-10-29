@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "Isto foi escrito PARA VOCÊ (e tem a ver com a sua esperança) ✨",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escrito para a sua esperança",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Isto foi escrito PARA VOCÊ (e tem a ver com a sua esperança) ✨ #shorts",
+    "descripcion": "Para que serve ler histórias escritas há milhares de anos?\n\nRomanos 15:4\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Para que serve ler histórias escritas há milhares de anos?",
+      "texto_pantalla": "Escrito para a sua esperança",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hope sunrise mountain"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Romanos quinze, versículo quatro, responde: tudo o que foi escrito no passado foi escrito para o nosso ensino, para que, pela paciência e pela consolação das Escrituras, tenhamos esperança. As histórias da Bíblia não são museu, são remédio. As falhas de Davi, as lágrimas de Ana, a fé de Abraão foram escritas para que você não desista hoje. Nesta semana estudamos os escritos proféticos: por que Deus quis que a sua mensagem ficasse por escrito. Que história bíblica já lhe deu esperança? Conte aqui.",
+      "texto_pantalla": "Escrito para a sua esperança",
+      "referencia": "Romanos 15:4",
+      "emocion": "agil",
+      "visual": {
+        "query": "hope sunrise mountain"
+      }
+    }
+  ]
+}

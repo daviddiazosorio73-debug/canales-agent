@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "Un rey QUEMÓ la Palabra de Dios. Lo que pasó después 🔥",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "La Palabra no se quema",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Un rey QUEMÓ la Palabra de Dios. Lo que pasó después 🔥 #shorts",
+    "descripcion": "Un rey escuchó la Palabra de Dios, la cortó con un cuchillo y la arrojó al fuego.\n\nJeremías 36:23, 28\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un rey escuchó la Palabra de Dios, la cortó con un cuchillo y la arrojó al fuego.",
+      "texto_pantalla": "La Palabra no se quema",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fire burning paper"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremías treinta y seis cuenta que el rey Joacim, mientras le leían el rollo, lo cortaba en pedazos y lo quemaba en el brasero. Parecía el final del mensaje. Pero en el versículo veintiocho, Dios le dice a Jeremías: toma otro rollo y escribe de nuevo todas las palabras. Ningún fuego, ninguna burla y ningún poder humano puede borrar lo que Dios ha dicho. La Palabra sigue en pie. ¿Alguna vez intentaste ignorar algo que Dios te pedía? Comparte tu experiencia abajo.",
+      "texto_pantalla": "La Palabra no se quema",
+      "referencia": "Jeremías 36:23, 28",
+      "emocion": "agil",
+      "visual": {
+        "query": "fire burning paper"
+      }
+    }
+  ]
+}

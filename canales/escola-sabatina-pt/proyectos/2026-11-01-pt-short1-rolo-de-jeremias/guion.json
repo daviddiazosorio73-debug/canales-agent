@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "Deus mandou escrever… para dar OUTRA chance 📜",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escrito por misericórdia",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus mandou escrever… para dar OUTRA chance 📜 #shorts",
+    "descripcion": "Deus pediu a um profeta que escrevesse todas as suas advertências num rolo. Para castigar ou para salvar?\n\nJeremias 36:2-3\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Deus pediu a um profeta que escrevesse todas as suas advertências num rolo. Para castigar ou para salvar?",
+      "texto_pantalla": "Escrito por misericórdia",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient scroll candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Jeremias trinta e seis, Deus manda escrever num rolo todas as palavras que tinha falado. E no versículo três explica o porquê: talvez, ao ouvir todo o mal que viria, cada um se convertesse do seu mau caminho, e Deus perdoaria. A Palavra escrita não nasceu como ameaça, mas como convite. Cada advertência da Bíblia traz por trás um Deus que quer perdoar. Existe algo do qual Deus está convidando você a voltar hoje? Escreva amém se quer responder ao seu chamado.",
+      "texto_pantalla": "Escrito por misericórdia",
+      "referencia": "Jeremias 36:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient scroll candle"
+      }
+    }
+  ]
+}

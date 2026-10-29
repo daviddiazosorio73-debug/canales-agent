@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "O profeta que ficou deitado 390 dias 😮",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Sermões vivos",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O profeta que ficou deitado 390 dias 😮 #shorts",
+    "descripcion": "Já imaginou Deus pedindo que você ficasse deitado de lado por mais de um ano como mensagem para o seu povo?\n\nEzequiel 4:1-8; Oseias 1:2-9\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-30T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Já imaginou Deus pedindo que você ficasse deitado de lado por mais de um ano como mensagem para o seu povo?",
+      "texto_pantalla": "Sermões vivos",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old man praying desert"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Ezequiel quatro, o profeta desenha Jerusalém sitiada e fica deitado de um lado por muitos dias, como sinal do juízo que viria. Em Oseias um, Deus usa o casamento do profeta para mostrar a infidelidade de Israel e o seu amor que não desiste. Deus não falou só com palavras: transformou os seus profetas em sermões vivos. Hoje a nossa vida também prega alguma coisa, mesmo sem dizermos nada. Que mensagem a sua vida está pregando nesta semana? Deixe nos comentários.",
+      "texto_pantalla": "Sermões vivos",
+      "referencia": "Ezequiel 4:1-8; Oseias 1:2-9",
+      "emocion": "agil",
+      "visual": {
+        "query": "old man praying desert"
+      }
+    }
+  ]
+}

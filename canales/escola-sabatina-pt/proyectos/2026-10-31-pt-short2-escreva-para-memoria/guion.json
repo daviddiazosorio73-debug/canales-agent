@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-31",
+  "tema": "A primeira vez que Deus disse: ESCREVA ✍️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escreva para memória",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A primeira vez que Deus disse: ESCREVA ✍️ #shorts",
+    "descripcion": "Depois de uma batalha, Deus não pediu uma festa. Pediu algo mais simples: escrever.\n\nÊxodo 17:14\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Depois de uma batalha, Deus não pediu uma festa. Pediu algo mais simples: escrever.",
+      "texto_pantalla": "Escreva para memória",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old book writing"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Êxodo dezessete, versículo catorze, depois da vitória sobre Amaleque, Deus disse a Moisés que escrevesse aquilo num livro, como memória. A memória humana é frágil: esquecemos rápido o que Deus fez ontem. Por isso Deus quis que a sua obra ficasse escrita, para que cada geração lembrasse quem lutou pelo seu povo. O que está escrito permanece quando a emoção passa. Que vitória de Deus na sua vida você deveria escrever para não esquecer? Escreva nos comentários.",
+      "texto_pantalla": "Escreva para memória",
+      "referencia": "Êxodo 17:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "old book writing"
+      }
+    }
+  ]
+}

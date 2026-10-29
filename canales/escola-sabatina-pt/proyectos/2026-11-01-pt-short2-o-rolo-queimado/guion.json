@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "Um rei QUEIMOU a Palavra de Deus. Veja o que aconteceu depois 🔥",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "A Palavra não se queima",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Um rei QUEIMOU a Palavra de Deus. Veja o que aconteceu depois 🔥 #shorts",
+    "descripcion": "Um rei ouviu a Palavra de Deus, cortou-a com um canivete e jogou-a no fogo.\n\nJeremias 36:23, 28\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um rei ouviu a Palavra de Deus, cortou-a com um canivete e jogou-a no fogo.",
+      "texto_pantalla": "A Palavra não se queima",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fire burning paper"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremias trinta e seis conta que o rei Jeoaquim, enquanto o rolo era lido, o cortava em pedaços e o queimava no braseiro. Parecia o fim da mensagem. Mas no versículo vinte e oito Deus diz a Jeremias: tome outro rolo e escreva de novo todas as palavras. Nenhum fogo, nenhum deboche e nenhum poder humano pode apagar o que Deus disse. A Palavra continua de pé. Você já tentou ignorar algo que Deus lhe pedia? Compartilhe a sua experiência aqui embaixo.",
+      "texto_pantalla": "A Palavra não se queima",
+      "referencia": "Jeremias 36:23, 28",
+      "emocion": "agil",
+      "visual": {
+        "query": "fire burning paper"
+      }
+    }
+  ]
+}

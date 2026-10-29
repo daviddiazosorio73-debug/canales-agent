@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-30",
+  "tema": "Revelación e inspiración en 60 segundos ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Repaso de la semana",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Revelación e inspiración en 60 segundos ⏱️ #shorts",
+    "descripcion": "Una semana de estudio en un minuto. ¿Listo para el repaso?\n\nApocalipsis 1:1-2; Mateo 13\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-31T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Una semana de estudio en un minuto. ¿Listo para el repaso?",
+      "texto_pantalla": "Repaso de la semana",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sunset bible open"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Esta semana aprendimos que revelación es Dios dándose a conocer, e inspiración es Dios guiando a la persona que transmite su mensaje. Dios habló por visiones y sueños, como a Daniel; por parábolas, como Jesús con el sembrador; por símbolos, como la estatua de Daniel dos; y por acciones, como Ezequiel y Oseas. Distintas formas, un mismo propósito: que lo conozcamos y seamos salvos. Mañana empezamos una nueva lección: los escritos proféticos. ¿Qué fue lo que más te enseñó esta semana? Compártelo abajo y suscríbete.",
+      "texto_pantalla": "Repaso de la semana",
+      "referencia": "Apocalipsis 1:1-2; Mateo 13",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunset bible open"
+      }
+    }
+  ]
+}

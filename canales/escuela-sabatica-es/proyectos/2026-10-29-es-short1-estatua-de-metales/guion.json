@@ -1,0 +1,60 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "¿Por qué Dios le mostró una ESTATUA a un rey? 👑",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dios enseña con imágenes",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Por qué Dios le mostró una ESTATUA a un rey? 👑 #shorts",
+    "descripcion": "Un rey pagano no podía dormir por un sueño que ni siquiera recordaba. ¿Por qué Dios le habló con una estatua?\n\nDaniel 2:31-45\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un rey pagano no podía dormir por un sueño que ni siquiera recordaba. ¿Por qué Dios le habló con una estatua?",
+      "texto_pantalla": "Dios enseña con imágenes",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient golden statue"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Daniel dos, Dios mostró a Nabucodonosor una estatua de oro, plata, bronce, hierro y barro. Cada metal era un reino que vendría. Al final, una piedra no cortada por mano humana la derriba y llena la tierra. Dios usó una imagen que un rey jamás olvidaría para enseñar la historia del mundo y su desenlace: su reino eterno. La profecía no es un acertijo para asustarnos, es un mapa que muestra quién tiene el control. ¿Qué símbolo de la Biblia te ha marcado más? Escríbelo en los comentarios.",
+      "texto_pantalla": "Dios enseña con imágenes",
+      "referencia": "Daniel 2:31-45",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient golden statue"
+      }
+    }
+  ]
+}

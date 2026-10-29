@@ -1,0 +1,60 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-10-29",
+  "tema": "Por que Deus mostrou uma ESTÁTUA a um rei? 👑",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Deus ensina com imagens",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por que Deus mostrou uma ESTÁTUA a um rei? 👑 #shorts",
+    "descripcion": "Um rei pagão não conseguia dormir por causa de um sonho de que nem se lembrava. Por que Deus falou com uma estátua?\n\nDaniel 2:31-45\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-10-29T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um rei pagão não conseguia dormir por causa de um sonho de que nem se lembrava. Por que Deus falou com uma estátua?",
+      "texto_pantalla": "Deus ensina com imagens",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient golden statue"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Daniel dois, Deus mostrou a Nabucodonosor uma estátua de ouro, prata, bronze, ferro e barro. Cada metal era um reino que viria. No fim, uma pedra cortada sem auxílio de mãos derruba a estátua e enche a terra. Deus usou uma imagem que o rei jamais esqueceria para ensinar a história do mundo e o seu desfecho: o reino eterno de Deus. A profecia não é um enigma para assustar, é um mapa que mostra quem está no controle. Qual símbolo da Bíblia mais marcou você? Escreva nos comentários.",
+      "texto_pantalla": "Deus ensina com imagens",
+      "referencia": "Daniel 2:31-45",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient golden statue"
+      }
+    }
+  ]
+}
