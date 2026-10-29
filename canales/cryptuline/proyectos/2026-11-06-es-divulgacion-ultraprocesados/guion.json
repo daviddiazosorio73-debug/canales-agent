@@ -1,0 +1,129 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-06",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Alimentos ultraprocesados: lo que encontraron 45 análisis con casi 10 millones de personas",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿QUÉ HAY EN",
+    "linea2": "TU DESPENSA?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Ultraprocesados: lo que encontraron 45 análisis con casi 10 millones de personas (BMJ 2024)",
+    "descripcion": "Galletas, bebidas azucaradas, embutidos, snacks de paquete. Una revisión paraguas publicada en el BMJ en 2024 reunió 45 análisis con 9 888 373 participantes para ver cómo se relacionan los ultraprocesados con la salud. Te contamos qué es un ultraprocesado, qué encontró el estudio, qué evidencia es fuerte, cuál es débil y qué puedes hacer en tu cocina.\n\n💬 ¿Cuál es el ultraprocesado que más te cuesta dejar? Cuéntanos.\n\n📚 Fuentes (PubMed):\n• Lane MM, Gamage E, Du S, et al. Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. 2024;384:e077310. https://pubmed.ncbi.nlm.nih.gov/38418082/ · https://doi.org/10.1136/bmj-2023-077310\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "ultraprocesados",
+      "alimentos ultraprocesados",
+      "comida procesada",
+      "nutrición",
+      "alimentación saludable",
+      "BMJ",
+      "clasificación NOVA",
+      "diabetes tipo 2",
+      "salud mental y alimentación",
+      "mitos de nutrición",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Nutrición",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-06T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Abre tu despensa. Galletas, cereales de colores, gaseosas, embutidos, sopas instantáneas. ¿Cuántos de esos productos hay en tu casa? Un equipo de investigadores revisó cuarenta y cinco análisis, con casi diez millones de personas, para responder una pregunta: ¿cómo se relacionan estos alimentos con nuestra salud? Encontraron asociaciones con el corazón, la diabetes y también con la mente. Pero hay un detalle sobre la calidad de esa evidencia que casi nadie cuenta, y te lo explico antes de terminar.",
+      "texto_pantalla": "¿Qué hay en tu despensa?",
+      "visual": {
+        "query": "supermarket snacks packaged food shelf"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "¿Qué es un ultraprocesado?",
+      "emocion": "ensenanza",
+      "texto": "Primero, definamos. Este estudio usó la clasificación NOVA, que ordena los alimentos según su grado de procesamiento. Los ultraprocesados son productos industriales hechos sobre todo con sustancias extraídas o modificadas de los alimentos, a menudo con aditivos como saborizantes, colorantes o emulsionantes, y casi siempre listos para comer. No es lo mismo que un alimento simplemente procesado. Unos frijoles cocidos o un pan casero son procesados. Una galleta rellena de paquete o una gaseosa son ultraprocesados. Una pista práctica: si la lista de ingredientes es larga y tiene nombres que no usarías en tu cocina, probablemente estás frente a un ultraprocesado.",
+      "texto_pantalla": "Clasificación NOVA",
+      "visual": {
+        "query": "reading food label ingredients"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "El estudio",
+      "emocion": "ensenanza",
+      "texto": "El trabajo se publicó en febrero de dos mil veinticuatro en la revista BMJ. Su autora principal es Melissa Lane, del Centro de Alimentación y Estado de Ánimo de la Universidad Deakin, en Australia, con investigadores de Estados Unidos, Francia e Irlanda. Es una revisión paraguas: en lugar de un estudio, revisaron metaanálisis ya publicados. Encontraron cuarenta y cinco análisis distintos, con un total de nueve millones ochocientos ochenta y ocho mil participantes. Y algo muy valioso: calificaron qué tan creíble era cada resultado, desde evidencia convincente hasta ninguna evidencia, y además evaluaron la calidad con un sistema llamado GRADE.",
+      "referencia": "Lane MM, 2024 · BMJ",
+      "visual": {
+        "query": "scientific research papers desk"
+      }
+    },
+    {
+      "id": "hallazgos",
+      "capitulo": "Lo que encontraron",
+      "emocion": "enfasis",
+      "texto": "Este estudio encontró que un mayor consumo de ultraprocesados se asoció con peores resultados en treinta y dos de los cuarenta y cinco parámetros de salud, es decir, en el setenta y uno por ciento. Las asociaciones con evidencia más convincente fueron estas. Un cincuenta por ciento más de riesgo de morir por enfermedad cardiovascular. Un riesgo de diabetes tipo dos que aumentaba de forma escalonada conforme subía el consumo, doce por ciento más en el análisis de dosis y respuesta. Un cuarenta y ocho por ciento más de probabilidad de ansiedad, y un cincuenta y tres por ciento más de trastornos mentales comunes. Con evidencia altamente sugestiva, también encontraron un veintiuno por ciento más de riesgo de morir por cualquier causa, un veintidós por ciento más de depresión, cuarenta y uno por ciento más de problemas de sueño y cincuenta y cinco por ciento más de probabilidad de obesidad.",
+      "texto_pantalla": "32 de 45 resultados",
+      "referencia": "Lane MM, 2024",
+      "visual": {
+        "query": "heart health doctor stethoscope"
+      }
+    },
+    {
+      "id": "mente",
+      "capitulo": "Comida y mente",
+      "emocion": "narrativo",
+      "texto": "Quiero detenerme en algo que sorprende a mucha gente. Solemos pensar en la comida solo como algo del cuerpo: el peso, el azúcar, el colesterol. Pero entre los resultados más sólidos de esta revisión aparecen la ansiedad y los trastornos mentales comunes. No significa que una galleta cause ansiedad. Significa que, en los estudios, las personas que comían más ultraprocesados tenían más de estos problemas. Podría haber muchas razones, y los propios autores piden más investigación para entender los mecanismos. Pero la idea de que lo que comes y cómo te sientes están conectados tiene cada vez más datos detrás.",
+      "texto_pantalla": "Ansiedad: +48 %",
+      "visual": {
+        "query": "woman thinking stress kitchen"
+      }
+    },
+    {
+      "id": "como_leer",
+      "capitulo": "Cómo leer la evidencia",
+      "emocion": "ensenanza",
+      "texto": "Ahora, una clase rápida que te va a servir para cualquier noticia de salud. Este estudio usó dos reglas distintas para juzgar los resultados. La primera es la clase de evidencia: va de la clase uno, convincente, a la clase cinco, sin evidencia. Mide qué tan fuerte y estable es la asociación en los números. La segunda es GRADE, un sistema que califica la calidad de la evidencia como alta, moderada, baja o muy baja. Mira cosas como el diseño de los estudios, si hay sesgos, si los resultados son coherentes entre sí y qué tan precisos son. Por eso un mismo resultado puede ser convincente en los números y, al mismo tiempo, de calidad muy baja según GRADE. No es una contradicción: una cosa es que la asociación se repita mucho, y otra es qué tan seguros estamos de la causa. Cuando veas un titular que diga que algo aumenta tu riesgo, pregúntate: ¿qué tipo de estudio es?, ¿en quiénes se hizo? y ¿qué calidad tiene la evidencia?",
+      "texto_pantalla": "Clase de evidencia vs GRADE",
+      "visual": {
+        "query": "student studying notes library"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Y aquí está el detalle que te prometí. Según el sistema GRADE, la mayoría de estos resultados fueron calificados como de calidad baja o muy baja. Solo cuatro análisis tuvieron calidad moderada. ¿Por qué? Porque casi todos los estudios son observacionales: comparan a personas que ya comían distinto, y no pueden probar causa y efecto. Además, muchas veces el consumo se mide con encuestas, que tienen errores. ¿Entonces no sirve? Sí sirve. Que tantos resultados, en millones de personas, apunten en la misma dirección es una señal seria. Pero lo honesto es decir: la asociación es consistente, y todavía falta entender exactamente por qué ocurre. Desconfía de quien te diga que un solo alimento te va a curar o a enfermar. La buena ciencia rara vez grita: casi siempre habla con matices, y esos matices son los que te protegen de las modas.",
+      "texto_pantalla": "Calidad: baja o muy baja",
+      "visual": {
+        "query": "magnifying glass document"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "En tu cocina",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer esta semana? Primero, lee las etiquetas: menos ingredientes y más reconocibles suele ser mejor. Segundo, cambia de a poco: una gaseosa por agua, un snack de paquete por una fruta o un puñado de algo que prepares tú. Tercero, cocina más en casa, con alimentos lo más cercanos a como salen de la tierra: legumbres, verduras, frutas, granos enteros. Un reto sencillo para esta semana: elige un solo ultraprocesado que compras siempre y reemplázalo por una opción casera. Si desayunas cereal de colores, prueba avena con fruta. Si llevas galletas al trabajo, lleva una fruta o un pan hecho en casa. Si tomas gaseosa en el almuerzo, cámbiala por agua o por un refresco de fruta natural con poca azúcar. No se trata de perfección, sino de dirección. Y si tienes diabetes, una enfermedad del corazón o cualquier condición, tu médico o tu nutricionista te ayudarán a hacer cambios seguros para ti. El domingo volvemos a la salud espiritual. Suscríbete a Cryptuline y cuéntame cuál es el ultraprocesado que más te cuesta dejar.",
+      "visual": {
+        "query": "cooking vegetables home kitchen"
+      }
+    }
+  ]
+}

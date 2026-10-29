@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "La esperanza también aparece en los datos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Esperanza y salud?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "La esperanza también aparece en los datos #shorts",
+    "descripcion": "La esperanza también aparece en los datos.\n\n📚 Fuentes (PubMed):\n• Li S, Stampfer MJ, Williams DR, VanderWeele TJ. Association of Religious Service Attendance With Mortality Among Women. JAMA Intern Med. 2016;176(6):777-85. https://pubmed.ncbi.nlm.nih.gov/27183175/ · https://doi.org/10.1001/jamainternmed.2016.1615\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En el estudio de Harvard sobre la fe y la salud hubo un factor que casi nadie menciona. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿Esperanza y salud?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hope sunrise mountain"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Entre los caminos que explicaban la asociación entre asistir a servicios religiosos y menor mortalidad, aparecieron menos síntomas de depresión, que explicaban cerca del once por ciento, y más optimismo, cerca del nueve por ciento. Es un estudio observacional en mujeres de Estados Unidos. Cuidar tu esperanza también es cuidar tu salud. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Li S, 2016 · JAMA Intern Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "woman smiling peaceful"
+      }
+    }
+  ]
+}

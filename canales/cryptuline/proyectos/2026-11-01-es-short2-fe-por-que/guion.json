@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "¿Por qué la fe se asocia con más salud?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Por qué?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Por qué la fe se asocia con más salud? #shorts",
+    "descripcion": "¿Por qué la fe se asocia con más salud?.\n\n📚 Fuentes (PubMed):\n• Li S, Stampfer MJ, Williams DR, VanderWeele TJ. Association of Religious Service Attendance With Mortality Among Women. JAMA Intern Med. 2016;176(6):777-85. https://pubmed.ncbi.nlm.nih.gov/27183175/ · https://doi.org/10.1001/jamainternmed.2016.1615\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si la fe se asocia con vivir más, la pregunta es: ¿por qué? Los científicos de Harvard buscaron la respuesta. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿Por qué?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "friends support hug"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En ese estudio, el apoyo social explicaba cerca del veintitrés por ciento de la asociación. No fumar, alrededor del veintidós por ciento. Menos síntomas de depresión, cerca del once. Y el optimismo, cerca del nueve. Es decir, una comunidad que te acompaña, hábitos sanos y esperanza. No es magia: son prácticas que puedes cultivar cada semana. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Li S, 2016 · JAMA Intern Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise hope"
+      }
+    }
+  ]
+}

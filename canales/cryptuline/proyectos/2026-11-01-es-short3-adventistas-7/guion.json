@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-01",
+  "tema": "Los adventistas de California y los años de vida",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿7 años más?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Los adventistas de California y los años de vida #shorts",
+    "descripcion": "Los adventistas de California y los años de vida.\n\n📚 Fuentes (PubMed):\n• Fraser GE, Shavlik DJ. Ten years of life: Is it a matter of choice? Arch Intern Med. 2001;161(13):1645-52. https://pubmed.ncbi.nlm.nih.gov/11434797/ · https://doi.org/10.1001/archinte.161.13.1645\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un estudio de la Universidad de Loma Linda comparó a más de treinta y cuatro mil adventistas con otros californianos. La diferencia es enorme. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿7 años más?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "elderly healthy smiling"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "A los treinta años de edad, los hombres adventistas tenían una esperanza de vida unos siete años mayor, y las mujeres, unos cuatro años mayor. Los autores lo atribuyen sobre todo a hábitos: dieta, ejercicio, peso y no fumar. El estudio es de California y de hace décadas, así que no se puede generalizar a todos. Pero la lección es clara: los hábitos de cada día cuentan. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Fraser GE, 2001 · Arch Intern Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "vegetables fruits table"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "45 análisis y casi 10 millones de personas: los ultraprocesados",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué hay en tu despensa?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "45 análisis y casi 10 millones de personas: los ultraprocesados #shorts",
+    "descripcion": "45 análisis y casi 10 millones de personas: los ultraprocesados.\n\n📚 Fuentes (PubMed):\n• Lane MM, Gamage E, Du S, et al. Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. 2024;384:e077310. https://pubmed.ncbi.nlm.nih.gov/38418082/ · https://doi.org/10.1136/bmj-2023-077310\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un equipo revisó cuarenta y cinco análisis con casi diez millones de personas. El tema: lo que tienes en tu despensa. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿Qué hay en tu despensa?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "packaged snacks supermarket"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión, publicada en el BMJ en dos mil veinticuatro, encontró que un mayor consumo de alimentos ultraprocesados se asoció con peores resultados en treinta y dos de cuarenta y cinco parámetros de salud: corazón, metabolismo, mente y mortalidad. El viernes te explico qué es fuerte y qué es débil en esa evidencia. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Lane MM, 2024 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "pantry food shelf"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "Lo que el estudio de los pasos NO demuestra",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "Lo que NO demuestra",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Lo que el estudio de los pasos NO demuestra #shorts",
+    "descripcion": "Lo que el estudio de los pasos NO demuestra.\n\n📚 Fuentes (PubMed):\n• Paluch AE, Bajpai S, Bassett DR, et al. Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. Lancet Public Health. 2022;7(3):e219-e228. https://pubmed.ncbi.nlm.nih.gov/35247352/ · https://doi.org/10.1016/S2468-2667(21)00302-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Antes de lanzarte a caminar diez kilómetros, esto es lo que la ciencia todavía no sabe. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "Lo que NO demuestra",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass research"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El estudio de los pasos es observacional: encontró una asociación, no una prueba de causa. Puede que las personas más sanas caminen más porque ya están sanas. Por eso, aumenta tu actividad de forma gradual y, si tienes una enfermedad del corazón o de las articulaciones, primero conversa con tu médico. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Paluch AE, 2022 · Lancet Public Health",
+      "emocion": "agil",
+      "visual": {
+        "query": "doctor patient talking"
+      }
+    }
+  ]
+}

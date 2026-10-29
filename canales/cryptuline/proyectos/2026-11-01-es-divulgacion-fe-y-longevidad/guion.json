@@ -1,0 +1,120 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-01",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "¿Ir a la iglesia se relaciona con vivir más? Lo que encontró la ciencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿LA FE",
+    "linea2": "ALARGA LA VIDA?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un estudio de Harvard con 74 mil mujeres",
+    "descripcion": "Un estudio de la Escuela de Salud Pública T. H. Chan de Harvard siguió a 74 534 mujeres durante veinte años. Otro, de la Universidad de Loma Linda, estudió a 34 192 adventistas de California. ¿Qué encontraron sobre la fe, la comunidad y los años de vida? Te lo contamos con los datos, sus límites y lo que no dicen.\n\n💬 ¿Qué hábito de tu vida espiritual cuida también tu salud? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Li S, Stampfer MJ, Williams DR, VanderWeele TJ. Association of Religious Service Attendance With Mortality Among Women. JAMA Intern Med. 2016;176(6):777-85. https://pubmed.ncbi.nlm.nih.gov/27183175/ · https://doi.org/10.1001/jamainternmed.2016.1615\n• Fraser GE, Shavlik DJ. Ten years of life: Is it a matter of choice? Arch Intern Med. 2001;161(13):1645-52. https://pubmed.ncbi.nlm.nih.gov/11434797/ · https://doi.org/10.1001/archinte.161.13.1645\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud espiritual",
+      "fe y salud",
+      "religión y longevidad",
+      "adventistas longevidad",
+      "estudio de Harvard",
+      "Loma Linda",
+      "zonas azules",
+      "estilo de vida saludable",
+      "salud integral",
+      "ciencia y fe",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "SaludEspiritual",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "¿Y si una de las decisiones que más se relaciona con tu salud no tuviera nada que ver con el gimnasio ni con la farmacia? Un equipo de Harvard siguió a más de setenta y cuatro mil mujeres durante veinte años. Las que asistían a un servicio religioso más de una vez por semana tuvieron un riesgo de morir mucho menor que las que nunca asistían. ¿Cuánto menor? ¿Y por qué? Hoy lo vemos con los datos en la mano, con sus límites, y al final te digo qué es lo que este estudio no demuestra. Quédate hasta el final, porque esa parte cambia cómo se lee todo lo demás.",
+      "texto_pantalla": "¿La fe alarga la vida?",
+      "visual": {
+        "query": "church community people sunlight"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "El estudio de Harvard",
+      "emocion": "ensenanza",
+      "texto": "El estudio se publicó en el año dos mil dieciséis en la revista JAMA Internal Medicine. Su autora principal es Shanshan Li, de la Escuela de Salud Pública T. H. Chan de Harvard, junto con Meir Stampfer, David Williams y Tyler VanderWeele. Usaron los datos del Estudio de Salud de las Enfermeras, en Estados Unidos. Participaron setenta y cuatro mil quinientas treinta y cuatro mujeres que, al empezar, no tenían enfermedad cardiovascular ni cáncer. Les preguntaron con qué frecuencia asistían a servicios religiosos, desde mil novecientos noventa y dos, y siguieron qué pasaba con su salud hasta el año dos mil doce. En ese tiempo hubo trece mil quinientas treinta y siete muertes. Los investigadores ajustaron los resultados por muchos factores: edad, estilo de vida, factores de riesgo e historia médica, medidos una y otra vez durante el seguimiento. Eso es importante, porque quiere decir que no compararon a ciegas: intentaron separar el efecto de asistir a la iglesia de otras diferencias entre las personas.",
+      "referencia": "Li S, 2016 · JAMA Intern Med",
+      "visual": {
+        "query": "nurse research data study"
+      }
+    },
+    {
+      "id": "hallazgos",
+      "capitulo": "Lo que encontraron",
+      "emocion": "enfasis",
+      "texto": "Este estudio encontró que las mujeres que asistían a un servicio religioso más de una vez por semana tuvieron un treinta y tres por ciento menos de mortalidad por cualquier causa que las que nunca asistían. También tuvieron menos muertes de origen cardiovascular y menos muertes por cáncer. Y aquí viene lo más interesante: los autores buscaron qué podía explicar esa diferencia. Encontraron cuatro caminos. El apoyo social explicaba alrededor del veintitrés por ciento de la asociación. No fumar, cerca del veintidós por ciento. Menos síntomas de depresión, alrededor del once por ciento. Y el optimismo, cerca del nueve por ciento. Dicho de otra manera: parte de la diferencia se relaciona con tener una comunidad que te acompaña, con hábitos más sanos y con una mente más esperanzada. Los propios autores concluyen que la religión y la espiritualidad pueden ser un recurso poco valorado que los médicos podrían conversar con sus pacientes, cuando sea apropiado.",
+      "texto_pantalla": "33 % menos mortalidad",
+      "referencia": "Li S, 2016",
+      "visual": {
+        "query": "friends support hug community"
+      }
+    },
+    {
+      "id": "adventistas",
+      "capitulo": "El caso adventista",
+      "emocion": "narrativo",
+      "texto": "Ahora vamos a California. Gary Fraser y David Shavlik, de la Universidad de Loma Linda, publicaron en el año dos mil uno, en la revista Archives of Internal Medicine, un estudio con treinta y cuatro mil ciento noventa y dos adventistas del séptimo día, seguidos de mil novecientos setenta y seis a mil novecientos ochenta y ocho. Encontraron que, a los treinta años de edad, los hombres adventistas tenían una esperanza de vida unos siete años mayor que otros californianos blancos, y las mujeres, unos cuatro años mayor. Los autores dicen que podría ser una de las esperanzas de vida más altas descritas formalmente en una población. Pero lo más importante del estudio es su pregunta: ¿es cuestión de elección? Y su respuesta fue que las combinaciones de dieta, ejercicio, peso corporal y no fumar podían explicar diferencias de hasta diez años de esperanza de vida entre los mismos adventistas. Es decir, no basta con el nombre de la iglesia: lo que se relaciona con los años de vida son los hábitos que se viven cada día.",
+      "texto_pantalla": "Hasta 10 años de diferencia",
+      "referencia": "Fraser GE, 2001 · Arch Intern Med",
+      "visual": {
+        "query": "healthy elderly couple walking nature"
+      }
+    },
+    {
+      "id": "sabado",
+      "capitulo": "Fe, descanso y hábitos",
+      "emocion": "reflexivo",
+      "texto": "Desde la fe adventista, esto no sorprende tanto. La Biblia presenta al ser humano como un todo: cuerpo, mente y espíritu. En tercera de Juan, versículo dos, el apóstol desea a su amigo que le vaya bien en todo y que tenga salud, así como prospera su alma. En Génesis dos, versículos dos y tres, Dios descansa el séptimo día, lo bendice y lo santifica. Y Jesús enseñó, en Marcos dos, versículo veintisiete, que el sábado fue hecho para el ser humano, como un regalo y no como una carga. Un día semanal para descansar, adorar y estar en comunidad, unido a una alimentación sencilla, a no fumar y a moverse, es justamente el tipo de estilo de vida que estos estudios observan. Ojo: los estudios no prueban que una doctrina sea verdadera. Eso no lo mide la ciencia. Lo que sí muestran es que ciertas prácticas que la fe promueve se asocian con mejor salud.",
+      "referencia": "3 Juan 2 · Génesis 2:2-3 · Marcos 2:27",
+      "visual": {
+        "query": "sunrise peaceful rest bible"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "Lo que el estudio NO dice",
+      "emocion": "ensenanza",
+      "texto": "Y aquí está lo que te prometí al inicio. Estos son estudios observacionales. Eso significa que encontraron una asociación, no una prueba de causa y efecto. Nadie fue asignado al azar a ir o no ir a la iglesia. El estudio de Harvard incluyó solo mujeres, y en su mayoría enfermeras de Estados Unidos, así que no sabemos si los resultados son iguales en hombres o en otros países. La asistencia se midió con cuestionarios que las participantes respondían. Los autores hicieron análisis para revisar si otros factores no medidos podían explicar el resultado, y dicen que se mantuvo, pero siempre puede quedar algo que no se midió. Y el estudio adventista compara poblaciones de California de hace décadas. Entonces, la conclusión honesta es esta: la fe vivida en comunidad, con hábitos sanos, se asocia con más años de vida. No es una pastilla mágica, y no reemplaza ningún tratamiento.",
+      "texto_pantalla": "Asociación ≠ causa",
+      "visual": {
+        "query": "magnifying glass research paper"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu semana",
+      "emocion": "calido",
+      "texto": "¿Qué puedes llevarte hoy? Primero, la comunidad importa: busca relaciones que te sostengan, en tu iglesia, en tu familia o con tus amigos. Segundo, el descanso semanal no es pérdida de tiempo: es parte de cuidar tu salud. Tercero, los hábitos cuentan más que las etiquetas: no fumar, comer de forma sencilla y moverte. Y cuarto, cuida tu esperanza: el optimismo y la salud emocional también aparecieron en los datos. Si tienes una enfermedad o tomas medicamentos, conversa con tu médico antes de cambiar cualquier cosa. El martes hablamos de un número famoso: los diez mil pasos al día. ¿Es ciencia o es un mito? Quince estudios responden. Suscríbete a Cryptuline para no perdértelo, y cuéntame en los comentarios qué práctica de tu fe cuida también tu salud.",
+      "visual": {
+        "query": "family walking park sunset"
+      }
+    }
+  ]
+}

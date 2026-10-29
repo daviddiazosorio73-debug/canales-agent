@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "¿Caminar rápido importa más que caminar mucho?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Rápido o mucho?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Caminar rápido importa más que caminar mucho? #shorts",
+    "descripcion": "¿Caminar rápido importa más que caminar mucho?.\n\n📚 Fuentes (PubMed):\n• Paluch AE, Bajpai S, Bassett DR, et al. Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. Lancet Public Health. 2022;7(3):e219-e228. https://pubmed.ncbi.nlm.nih.gov/35247352/ · https://doi.org/10.1016/S2468-2667(21)00302-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Es mejor caminar rápido o caminar más? La respuesta del estudio sorprende. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿Rápido o mucho?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fast walking city"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Paluch, cuando ya se tomaba en cuenta la cantidad de pasos, los resultados sobre la velocidad fueron mixtos: algunas medidas del ritmo se asociaron con menor riesgo y otras no. Lo más consistente fue el total de pasos. Así que, si caminar rápido no es para ti, caminar más también suma. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Paluch AE, 2022 · Lancet Public Health",
+      "emocion": "agil",
+      "visual": {
+        "query": "relaxed walking park"
+      }
+    }
+  ]
+}

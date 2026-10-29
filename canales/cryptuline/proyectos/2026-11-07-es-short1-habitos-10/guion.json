@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "Hasta 10 años de vida: ¿cuestión de elección?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿10 años de vida?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Hasta 10 años de vida: ¿cuestión de elección? #shorts",
+    "descripcion": "Hasta 10 años de vida: ¿cuestión de elección?.\n\n📚 Fuentes (PubMed):\n• Fraser GE, Shavlik DJ. Ten years of life: Is it a matter of choice? Arch Intern Med. 2001;161(13):1645-52. https://pubmed.ncbi.nlm.nih.gov/11434797/ · https://doi.org/10.1001/archinte.161.13.1645\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un estudio de Loma Linda hizo una pregunta poderosa: ¿los años de vida son cuestión de elección? Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿10 años de vida?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "healthy lifestyle choices"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Fraser y Shavlik estudiaron a más de treinta y cuatro mil adventistas de California. Encontraron que las combinaciones de dieta, ejercicio, peso corporal y no fumar podían explicar diferencias de hasta diez años de esperanza de vida entre ellos. Es un estudio observacional y de otra época, pero el mensaje sigue vigente: tus hábitos importan. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Fraser GE, 2001 · Arch Intern Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "family vegetables garden"
+      }
+    }
+  ]
+}

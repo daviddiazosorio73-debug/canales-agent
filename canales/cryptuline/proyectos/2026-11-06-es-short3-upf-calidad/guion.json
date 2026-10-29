@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "Mito o evidencia: ¿qué tan seguros estamos de los ultraprocesados?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Mito o evidencia?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Mito o evidencia: ¿qué tan seguros estamos de los ultraprocesados? #shorts",
+    "descripcion": "Mito o evidencia: ¿qué tan seguros estamos de los ultraprocesados?.\n\n📚 Fuentes (PubMed):\n• Lane MM, Gamage E, Du S, et al. Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. 2024;384:e077310. https://pubmed.ncbi.nlm.nih.gov/38418082/ · https://doi.org/10.1136/bmj-2023-077310\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muchos videos te dicen que los ultraprocesados son veneno. Esto es lo que la ciencia dice de verdad. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿Mito o evidencia?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass document"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En la revisión del BMJ, la mayoría de los resultados tuvieron calidad baja o muy baja según el sistema GRADE, y solo cuatro tuvieron calidad moderada. Pero treinta y dos de cuarenta y cinco resultados apuntan en la misma dirección. Conclusión honesta: la asociación es consistente y falta entender por qué. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Lane MM, 2024 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "scale balance"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "¿Cómo reconocer un ultraprocesado?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Procesado o ultra?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Cómo reconocer un ultraprocesado? #shorts",
+    "descripcion": "¿Cómo reconocer un ultraprocesado?.\n\n📚 Fuentes (PubMed):\n• Lane MM, Gamage E, Du S, et al. Ultra-processed food exposure and adverse health outcomes: umbrella review of epidemiological meta-analyses. BMJ. 2024;384:e077310. https://pubmed.ncbi.nlm.nih.gov/38418082/ · https://doi.org/10.1136/bmj-2023-077310\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "No todo lo procesado es ultraprocesado. Esta es la diferencia. Quédate hasta el final, porque el dato más importante viene al cierre.",
+      "texto_pantalla": "¿Procesado o ultra?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "reading food label"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La clasificación NOVA, usada en la revisión del BMJ de dos mil veinticuatro, llama ultraprocesados a los productos industriales hechos sobre todo con sustancias extraídas o modificadas, a menudo con aditivos. Unos frijoles cocidos son procesados. Una galleta rellena de paquete es ultraprocesada. Pista: lista de ingredientes larga y con nombres raros. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Lane MM, 2024 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "beans cooking pot"
+      }
+    }
+  ]
+}

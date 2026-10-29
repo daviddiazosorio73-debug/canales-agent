@@ -1,0 +1,130 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-03",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "¿Diez mil pasos al día es un mito? Lo que dicen 15 estudios",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿10 000 PASOS",
+    "linea2": "ES UN MITO?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿10.000 pasos al día es un mito? Lo que encontraron 15 estudios con 47 mil personas",
+    "descripcion": "Los diez mil pasos al día se repiten en todas partes, pero ¿de dónde salen y qué dice la ciencia? Un metaanálisis publicado en The Lancet Public Health reunió 15 estudios de varios países con 47 471 adultos. Te contamos cuántos pasos se asociaron con menor mortalidad, por qué depende de la edad y qué límites tiene la evidencia.\n\n💬 ¿Cuántos pasos das en un día normal? Cuéntanos.\n\n📚 Fuentes (PubMed):\n• Paluch AE, Bajpai S, Bassett DR, et al. Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. Lancet Public Health. 2022;7(3):e219-e228. https://pubmed.ncbi.nlm.nih.gov/35247352/ · https://doi.org/10.1016/S2468-2667(21)00302-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "10000 pasos",
+      "cuántos pasos al día",
+      "caminar salud",
+      "pasos diarios",
+      "actividad física",
+      "metaanálisis",
+      "The Lancet",
+      "mitos de salud",
+      "salud preventiva",
+      "caminar beneficios",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "SaludConCiencia",
+      "Caminar",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Diez mil pasos al día. Lo dice tu reloj, lo dice tu celular y lo dicen miles de videos. Pero los propios científicos escribieron que, aunque esa cifra se promueve en todas partes, había poca evidencia que la respaldara. Entonces, ¿cuántos pasos necesitas de verdad? Un grupo internacional juntó quince estudios con más de cuarenta y siete mil personas para averiguarlo. La respuesta depende de algo que seguramente no esperas. Te lo cuento al final.",
+      "texto_pantalla": "¿10 000 pasos es un mito?",
+      "visual": {
+        "query": "walking feet steps city"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "El estudio",
+      "emocion": "ensenanza",
+      "texto": "El trabajo se publicó en marzo de dos mil veintidós en la revista The Lancet Public Health. Su autora principal es Amanda Paluch, de la Universidad de Massachusetts Amherst, con investigadores de Estados Unidos, Europa, Australia y Japón. Es un metaanálisis: no es un estudio aislado, sino la suma de quince cohortes internacionales, siete publicadas y ocho que no lo estaban. En total, cuarenta y siete mil cuatrocientos setenta y un adultos. Se les siguió una mediana de siete años. En ese tiempo hubo tres mil trece muertes. Para comparar, dividieron a las personas en cuatro grupos, según cuántos pasos daban al día. El grupo que menos caminaba tenía una mediana de unos tres mil quinientos pasos. El segundo, unos cinco mil ochocientos. El tercero, unos siete mil ochocientos. Y el que más caminaba, unos diez mil novecientos.",
+      "referencia": "Paluch AE, 2022 · Lancet Public Health",
+      "visual": {
+        "query": "fitness tracker smartwatch steps"
+      }
+    },
+    {
+      "id": "como_leer",
+      "capitulo": "Cómo leer este estudio",
+      "emocion": "ensenanza",
+      "texto": "Antes de seguir, una pequeña clase para que nadie te engañe con números. Un metaanálisis junta los datos de muchos estudios para tener una respuesta más sólida que la de uno solo. En este caso, los investigadores no solo sumaron resultados publicados: pidieron a cada equipo que procesara sus datos con el mismo protocolo, para que fueran comparables. Cuando escuches que un grupo tuvo un cuarenta por ciento menos de riesgo, eso viene de algo llamado razón de riesgos, o hazard ratio. Un valor de cero coma sesenta significa que, en el periodo estudiado, ese grupo tuvo un riesgo equivalente al sesenta por ciento del riesgo del grupo de comparación. Es un riesgo relativo: compara grupos, no te dice tu riesgo personal. Y siempre hay que preguntar: ¿comparado con quién? Aquí, siempre con el grupo que menos caminaba. Con esa llave en la mano, los números que vienen se entienden mucho mejor.",
+      "texto_pantalla": "¿Comparado con quién?",
+      "visual": {
+        "query": "teacher explaining chart whiteboard"
+      }
+    },
+    {
+      "id": "hallazgos",
+      "capitulo": "Lo que encontraron",
+      "emocion": "enfasis",
+      "texto": "Este estudio encontró que, comparado con el grupo que menos caminaba, el segundo grupo tuvo un cuarenta por ciento menos de riesgo de morir por cualquier causa durante el seguimiento. El tercer grupo, un cuarenta y cinco por ciento menos. Y el cuarto grupo, cincuenta y tres por ciento menos. Fíjate en algo: el salto más grande no está al final, está al principio. Pasar de unos tres mil quinientos a unos cinco mil ochocientos pasos ya se asoció con una diferencia enorme. Es decir, si hoy caminas muy poco, cada paso que agregas cuenta. No tienes que llegar a una meta perfecta para empezar a ganar.",
+      "texto_pantalla": "Hasta 53 % menos riesgo",
+      "referencia": "Paluch AE, 2022",
+      "visual": {
+        "query": "people walking park morning"
+      }
+    },
+    {
+      "id": "edad",
+      "capitulo": "Depende de tu edad",
+      "emocion": "enfasis",
+      "texto": "Y aquí está la respuesta que te prometí. El beneficio no sube para siempre: llega a un punto en el que se estabiliza, y ese punto depende de la edad. En los adultos de sesenta años o más, el riesgo bajaba de forma progresiva hasta los seis mil a ocho mil pasos al día, y de ahí en adelante ya no bajaba más. En los menores de sesenta, el punto estaba entre ocho mil y diez mil pasos. O sea, los diez mil pasos no son un mito total, pero tampoco son una regla para todos. Para una persona mayor, la evidencia apunta a una meta más cercana. Los investigadores también miraron la velocidad. Cuando ya se toma en cuenta la cantidad de pasos, los resultados fueron mixtos: algunas medidas del ritmo siguieron asociadas con menor riesgo y otras no. Lo más consistente fue el total de pasos del día.",
+      "texto_pantalla": "60+: 6000 a 8000 pasos",
+      "referencia": "Paluch AE, 2022",
+      "visual": {
+        "query": "senior couple walking"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Hagamos un repaso rápido de mitos contra evidencia. Mito uno: si no llego a diez mil pasos, no sirve de nada. La evidencia de este estudio dice lo contrario: el cambio más grande apareció al pasar del grupo que menos caminaba al siguiente. Mito dos: diez mil pasos es la meta para todos. Según estos datos, en mayores de sesenta el beneficio se estabilizó antes, entre seis mil y ocho mil. Mito tres: entre más pasos, siempre mejor, sin límite. En los datos, la curva se aplana a partir de cierto punto. Y mito cuatro: lo único que importa es caminar rápido. Aquí lo más consistente fue el total de pasos del día. Ninguno de estos puntos es una receta personal: son lo que muestran los promedios de miles de personas.",
+      "texto_pantalla": "Mitos vs evidencia",
+      "visual": {
+        "query": "myth fact checklist"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "Límites del estudio",
+      "emocion": "ensenanza",
+      "texto": "Ahora, con honestidad, los límites. Es un análisis de estudios observacionales: muestra una asociación, no prueba que los pasos por sí solos causen vivir más. Puede que las personas más sanas caminen más porque ya están sanas. Los autores ajustaron por varios factores, pero no todo se puede medir. El resultado que miraron fue la mortalidad por cualquier causa, no cada enfermedad en particular. Y una mediana de siete años de seguimiento es buena, pero no es toda una vida. Aun así, es una de las mejores respuestas que tenemos hoy a la pregunta de cuántos pasos dar, porque reúne datos de muchos países.",
+      "texto_pantalla": "Asociación ≠ causa",
+      "visual": {
+        "query": "scientist analyzing data chart"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu semana",
+      "emocion": "calido",
+      "texto": "¿Qué hacer con esto? Primero, mide tu punto de partida: muchos celulares ya cuentan los pasos. Mira tu promedio de una semana normal, sin cambiar nada. Segundo, si caminas poco, empieza agregando un poco cada semana, sin obsesionarte con un número. Bajarte un paradero antes, usar las escaleras, caminar mientras hablas por teléfono o salir a dar una vuelta después de almorzar son formas sencillas de sumar. Hazlo acompañado si puedes: caminar con tu familia o con un amigo también es tiempo de comunidad. Tercero, si tienes sesenta años o más, la evidencia apunta a una meta de seis mil a ocho mil pasos. Y si tienes alguna enfermedad del corazón, de las articulaciones o cualquier condición, consulta a tu médico antes de aumentar tu actividad. El viernes hablamos de algo que está en casi todas las cocinas: los alimentos ultraprocesados. Un equipo revisó cuarenta y cinco análisis con casi diez millones de personas. Suscríbete a Cryptuline y cuéntame en los comentarios cuántos pasos das tú.",
+      "visual": {
+        "query": "smartphone step counter walking"
+      }
+    }
+  ]
+}
