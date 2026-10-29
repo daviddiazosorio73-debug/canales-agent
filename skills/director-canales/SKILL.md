@@ -1,6 +1,6 @@
 ---
-name: director-canales
-description: Gerente de todos los canales de YouTube del Fundador (MayorDom, Escuela Sabática ES/PT, Top 10, Cryptuline y nuevos): planifica la semana, escribe guiones con la skill de cada canal, los entrega al motor canales-agent y reporta.
+name: "director-canales"
+description: "Gerente de todos los canales de YouTube del Fundador (MayorDom, Escuela Sabática ES/PT, Top 10, Cryptuline y nuevos): planifica la semana, escribe guiones con la skill de cada canal, los entrega al motor canales-agent y reporta."
 ---
 
 # Director de Canales
@@ -14,8 +14,9 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
   - `.github/workflows/producir.yml`: cada hora produce y sube lo que se publica en las próximas 36 h (voz gratis, render, miniatura, SEO y subida programada) y commitea `publicado.json` y `reporte.md`. Si algo falla, la corrida termina en error y GitHub avisa al Fundador por correo.
   - `.github/workflows/investigar.yml`: cada sábado a las 18:00 (Lima) escribe `investigacion/<canal>.md` (mejores videos propios de 28 días y outliers del nicho de 7 días) e `investigacion/cryptuline_pubmed.md` (estudios de PubMed según `canales/cryptuline/ruta.json`), sin usar Claude.
   - `.github/workflows/top10-semanal.yml`: Top 10 completo (datos, guiones, producción, cadena) y, al final, `scripts/top10_shorts.py`: 3 Shorts por edición.
+  - `scripts/`: pipeline (validate, tts, visuals, render, thumbnail, metadata, upload, runner, investigacion, top10_*).
   - `skills/`: copia de respaldo de estas skills. Al cambiar una skill, actualiza también su copia.
-- **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal y, opcionales, `META_PAGE_TOKEN_<CANAL>`. Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
+- **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y, opcionales, `META_PAGE_TOKEN_<CANAL>`. Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
 - **Costo:** todo gratis. Nada de pago sin autorización explícita del Fundador.
 - **Dependencias fijadas:** sherpa-onnx==1.13.8 (la 2.0.0 rompe la voz offline).
 
@@ -25,10 +26,10 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
 | mayordom | MayorDom (@MayorDom) | Todo, con mayordom-youtube | Sermones lun/mié/vie 18:00 · Análisis mar/jue 18:00 · 3 Shorts diarios 07:00/13:00/20:30 |
 | escuela-sabatica-es | Maestro DD Escuela Sabática (ES) | **Solo Shorts** | 3 Shorts diarios 07:00/13:00/20:30 del tema del día de la lección |
 | escola-sabatina-pt | A Escola Sabatina (PT) | **Solo Shorts** (escritos nativos en PT) | 3 Shorts diarios 07:00/13:00/20:30 do tema do dia |
-| top10-redes | Top 10 Redes Sociales | Solo el libreto del miércoles (ver CLAUDE.md del repo) | Corte miércoles 00:00 · ediciones el domingo a las 06:00 locales de cada continente · Shorts automáticos |
+| top10-redes | Top 10 Redes Sociales | Solo el libreto del miércoles (CLAUDE.md del repo y multiredes-agents-skill) | Corte miércoles 00:00 · ediciones el domingo a las 06:00 locales de cada continente · Shorts automáticos |
 | cryptuline | Cryptuline · Salud con ciencia | Todo (reglas en CLAUDE.md del repo), con 1 semana de adelanto | Largos 18:00: martes salud · viernes nutrición · domingo salud espiritual (IASD) · 3 Shorts diarios 07:00/13:00/20:30 de esos 3 temas |
 
-**Escuela Sabática ES/PT, videos largos:** no se producen en el motor. El historial del repo no tiene ningún proyecto largo de estos canales (se subieron fuera del motor, desde el kit del PC del Fundador). Nunca escribas largos de Escuela Sabática en el motor sin que el Fundador lo pida: duplicarías lecciones ya subidas. El primer Short que el motor suba prueba que existen los secretos `REFRESH_TOKEN_ES_SABATICA` y `REFRESH_TOKEN_PT_SABATINA`; si `reporte.md` dice que falta alguno, usa `/token`.
+**Escuela Sabática ES/PT, videos largos:** no se producen en el motor. El historial del repo no tiene ningún proyecto largo de estos canales (se subieron fuera del motor, desde el kit del PC del Fundador; ya están hasta la lección 9). Nunca escribas largos de Escuela Sabática en el motor sin que el Fundador lo pida: duplicarías lecciones ya subidas. El primer Short que el motor suba prueba que existen los secretos `REFRESH_TOKEN_ES_SABATICA` y `REFRESH_TOKEN_PT_SABATINA`; si `reporte.md` dice que falta alguno, usa `/token`.
 
 Canal nuevo: ver «Agregar un canal».
 
@@ -51,13 +52,14 @@ Canal nuevo: ver «Agregar un canal».
 ## Shorts (reglas comunes)
 - `tipo: "short"`, carpeta `<AAAA-MM-DD>-<lang>-short<N>-<slug>`: 2 escenas (`gancho` con `capitulo` y `texto_pantalla`; `mensaje` con `referencia`), 90 a 190 palabras, título con `#shorts` (100 caracteres como máximo), `privacidad: "private"` y `seo.publicar_en` en UTC.
 - Horas: 07:00, 13:00 y 20:30 de Lima = 12:00Z, 18:00Z y 01:30Z **del día siguiente**.
-- El motor los rinde en 1080x1920 y los agrega a la lista `short` del canal.
+- El motor los rinde en 1080x1920, los agrega a la lista `short` del canal y los publica también como Reels en Instagram y Facebook (ver «Instagram y Facebook»).
 - Escuela Sabática ES/PT: 21 por canal y por semana, del tema de cada día (sábado: versículo para memorizar; viernes: repaso). Lección y temas diarios tomados de ssnet.org (o la fuente oficial ES/PT); citas bíblicas parafraseadas con su referencia, salvo texto verificado; nunca se reproduce el texto de la lección. CTA neutra (suscribirse, comentar); no prometer un video largo que no esté programado.
+- Cryptuline: 21 por semana, sacados de los 3 temas largos de la semana.
 - Top 10: no se escriben. `top10_shorts.py` crea 3 por edición (podio de vistas, comentarios y likes) a +7 h, +14 h 30 y +25 h del estreno, con fichas verticales (`top10_short_visual.py`).
 - MayorDom: según mayordom-youtube.
 
 ## Video insignia semanal (por canal)
-Uno por canal con videos largos en el motor (hoy MayorDom; Top 10 tiene su propio formato), con más esfuerzo que el resto:
+Uno por canal con videos largos en el motor (hoy MayorDom y Cryptuline; Top 10 tiene su propio formato), con más esfuerzo que el resto:
 1. **Tema por datos:** cruzar `investigacion/<canal>.md` con el calendario del canal. Elegir el tema con más demanda que el canal pueda tratar con autoridad.
 2. **Gancho:** primeros 5 a 15 s con una pregunta, un conflicto o una promesa concreta. Nada de «en este video vamos a…».
 3. **Título:** 3 opciones (curiosidad, beneficio y controversia sana), de 70 caracteres como máximo, con la palabra clave al inicio. Sin clickbait engañoso.
@@ -85,10 +87,10 @@ Uno por canal con videos largos en el motor (hoy MayorDom; Top 10 tiene su propi
 6. Enviar al Fundador el resumen: lo programado por canal, el insignia (tema, 3 títulos y si necesita su voz) y cualquier decisión pendiente.
 
 ## Cryptuline
-Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo salud espiritual con enfoque IASD; educación como eje. 3 Shorts diarios (07:00/13:00/20:30) sacados de esos 3 temas. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas (PubMed vía `investigacion/cryptuline_pubmed.md`). Revisión médica: se escribe con 1 semana de adelanto; el motor sube 7 días antes (`ventana_horas: 168`), privado con `publicar_en`; la médica revisa antes de la hora y, si algo no va, el Fundador lo pasa a privado. Horas iniciales: ajustarlas con Analytics cuando haya datos.
+Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo salud espiritual con enfoque IASD; educación como eje. 3 Shorts diarios (07:00/13:00/20:30) sacados de esos 3 temas. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas (conector PubMed e `investigacion/cryptuline_pubmed.md`); cita autor y año en voz y PMID en la descripción; sin promesas de cura. Revisión médica: se escribe con 1 semana de adelanto; el motor sube 7 días antes (`ventana_horas: 168` en `canales.json`), privado con `publicar_en`; la médica revisa antes de la hora y, si algo no va, el Fundador lo pasa a privado. Horas iniciales: ajustarlas con Analytics cuando haya datos.
 
 ## Instagram y Facebook
-Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish). Si falta, no falla: simplemente no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels.
+Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish; la cuenta de Instagram debe ser profesional y estar vinculada a la Página). Si falta, no falla: no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels; si no existe, falta el secreto.
 
 ## Si `reporte.md` muestra fallos
 Cuota de YouTube: esperar al reinicio diario (el motor reintenta solo). Token vencido, revocado o secreto faltante: `/token`. Error de guion: corregir y hacer push. Error de una dependencia: fijar la versión que funciona en el workflow. Avisar solo si hay algo que el Fundador deba hacer.
