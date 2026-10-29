@@ -127,7 +127,7 @@
     }
   },
   "cryptuline": {
-    "nombre": "Cryptuline · Espirulina",
+    "nombre": "Cryptuline · Salud con ciencia",
     "youtube_id": "UCZIqJtboP-uXoeNPJe-Qd2Q",
     "secreto": "REFRESH_TOKEN_CRYPTULINE",
     "tts": "piper",
@@ -135,22 +135,27 @@
     "skill": "CLAUDE.md (sección Cryptuline)",
     "activo": true,
     "nicho": [
-      "espirulina",
-      "spirulina beneficios",
-      "ficocianina",
-      "cultivo de espirulina",
-      "superalimentos"
+      "salud preventiva",
+      "nutrición basada en evidencia",
+      "alimentación saludable",
+      "estilo de vida saludable",
+      "salud espiritual"
     ],
-    "calendario": "3 videos largos/semana (mar, jue, sáb 18:00 Lima) + 3 Shorts diarios (07:00, 13:00, 20:00 Lima); horas iniciales a ajustar con Analytics",
+    "calendario": "Largos: martes salud, viernes nutrición, domingo salud espiritual (enfoque IASD), 18:00 Lima; educación como eje. 3 Shorts diarios (07:00, 13:00, 20:30 Lima) sacados de los 3 temas de la semana. Se escribe con 1 semana de adelanto y sube programado 7 días antes para revisión médica; horas a ajustar con Analytics.",
     "listas": {
-      "divulgacion": "Espirulina con ciencia · Cryptuline",
-      "short": "Shorts · Espirulina con ciencia"
+      "divulgacion": "Salud con ciencia · Cryptuline",
+      "short": "Shorts · Salud con ciencia"
     },
     "meta": {
       "secreto": "META_PAGE_TOKEN_CRYPTULINE",
       "tipos": [
         "short"
       ]
+    },
+    "ventana_horas": 168,
+    "listas_desc": {
+      "Salud con ciencia · Cryptuline": "Salud, nutrición y salud espiritual explicadas con estudios científicos. Contenido educativo +18; no reemplaza la consulta médica.",
+      "Shorts · Salud con ciencia": "Datos de salud y nutrición en un minuto, con su estudio científico. Consulta a tu médico."
     }
   }
 }

@@ -26,7 +26,7 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
 | escuela-sabatica-es | Maestro DD Escuela Sabática (ES) | **Solo Shorts** | 3 Shorts diarios 07:00/13:00/20:30 del tema del día de la lección |
 | escola-sabatina-pt | A Escola Sabatina (PT) | **Solo Shorts** (escritos nativos en PT) | 3 Shorts diarios 07:00/13:00/20:30 do tema do dia |
 | top10-redes | Top 10 Redes Sociales | Solo el libreto del miércoles (ver CLAUDE.md del repo) | Corte miércoles 00:00 · ediciones el domingo a las 06:00 locales de cada continente · Shorts automáticos |
-| cryptuline | Cryptuline | Nada hasta que el Fundador confirme días y horas (ver «Cryptuline») | Pendiente |
+| cryptuline | Cryptuline · Salud con ciencia | Todo (reglas en CLAUDE.md del repo), con 1 semana de adelanto | Largos 18:00: martes salud · viernes nutrición · domingo salud espiritual (IASD) · 3 Shorts diarios 07:00/13:00/20:30 de esos 3 temas |
 
 **Escuela Sabática ES/PT, videos largos:** no se producen en el motor. El historial del repo no tiene ningún proyecto largo de estos canales (se subieron fuera del motor, desde el kit del PC del Fundador). Nunca escribas largos de Escuela Sabática en el motor sin que el Fundador lo pida: duplicarías lecciones ya subidas. El primer Short que el motor suba prueba que existen los secretos `REFRESH_TOKEN_ES_SABATICA` y `REFRESH_TOKEN_PT_SABATINA`; si `reporte.md` dice que falta alguno, usa `/token`.
 
@@ -79,13 +79,16 @@ Uno por canal con videos largos en el motor (hoy MayorDom; Top 10 tiene su propi
    - MayorDom: todo su calendario, con el insignia.
    - Escuela Sabática ES y PT: 21 Shorts por canal (empieza por buscar la lección de la semana y sus temas diarios).
    - Top 10: nada (libreto en la tarea del miércoles; Shorts automáticos).
-   - Cryptuline: nada mientras su calendario esté pendiente.
+   - Cryptuline: la semana que empieza 8 días después (1 semana de adelanto para la revisión médica): 3 largos `divulgacion` + 21 Shorts de esos 3 temas; avisar al Fundador qué debe revisar la médica.
 4. Verificar: citas bíblicas literales solo verificadas y con su versión; Espíritu de Profecía con libro y página, o resumido si no se verificó; datos de salud solo con estudio citado; títulos de 100 caracteres como máximo; nada inventado; ningún `publicar_en` en el pasado.
 5. `python scripts/validate.py <proyecto>` en cada uno; commit y push a `main`.
 6. Enviar al Fundador el resumen: lo programado por canal, el insignia (tema, 3 títulos y si necesita su voz) y cualquier decisión pendiente.
 
-## Cryptuline (pendiente de calendario)
-Grilla decidida por el Fundador: salud los lunes y martes; nutrición en otro día; sábado, salud espiritual con enfoque IASD; eje de educación. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas nacionales e internacionales (PubMed vía `investigacion/cryptuline_pubmed.md`; la espirulina como ciencia puede ir en el día de nutrición). Todo contenido de salud lo revisa la profesional médica del Fundador antes de publicarse: súbelo como `privacidad: "private"` sin `publicar_en` y avisa. Antes de escribir, pedir al Fundador: días y horas exactos, cuántos Shorts y el día de educación.
+## Cryptuline
+Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo salud espiritual con enfoque IASD; educación como eje. 3 Shorts diarios (07:00/13:00/20:30) sacados de esos 3 temas. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas (PubMed vía `investigacion/cryptuline_pubmed.md`). Revisión médica: se escribe con 1 semana de adelanto; el motor sube 7 días antes (`ventana_horas: 168`), privado con `publicar_en`; la médica revisa antes de la hora y, si algo no va, el Fundador lo pasa a privado. Horas iniciales: ajustarlas con Analytics cuando haya datos.
+
+## Instagram y Facebook
+Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish). Si falta, no falla: simplemente no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels.
 
 ## Si `reporte.md` muestra fallos
 Cuota de YouTube: esperar al reinicio diario (el motor reintenta solo). Token vencido, revocado o secreto faltante: `/token`. Error de guion: corregir y hacer push. Error de una dependencia: fijar la versión que funciona en el workflow. Avisar solo si hay algo que el Fundador deba hacer.

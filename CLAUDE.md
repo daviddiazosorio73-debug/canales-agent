@@ -20,9 +20,11 @@
 - Listas de reproducción automáticas por tipo (`canales.json` → `listas`); no hace falta crearlas a mano.
 - Datos y citas solo verificados; las cifras salen de la API.
 
-## Cryptuline (calendario PENDIENTE: no escribir hasta que el Fundador confirme días y horas)
-- Grilla decidida por el Fundador: salud los lunes y martes; nutrición en otro día; sábado, salud espiritual con enfoque IASD; eje de educación. El suplemento de espirulina queda fuera hasta nuevo aviso. Público +18 (Ley 30021). `categoria_id: "27"`.
-- Fuentes: SOLO científicas (nacionales e internacionales). Para espirulina/nutrición: `investigacion/cryptuline_pubmed.md` (PubMed, semanal, según `canales/cryptuline/ruta.json`). Cita en voz (autor principal, año) y en la descripción: autores, año, revista y `https://pubmed.ncbi.nlm.nih.gov/<PMID>/`.
-- Todo contenido de salud lo revisa la profesional médica del Fundador antes de publicarse: súbelo con `"privacidad": "private"` y sin `publicar_en`, y avisa al Fundador.
+## Cryptuline (calendario confirmado por el Fundador)
+- Largos (`tipo: "divulgacion"`, 18:00 Lima = 23:00Z): **martes salud**, **viernes nutrición**, **domingo salud espiritual con enfoque IASD**; la educación es eje de todos. Suplemento de espirulina fuera hasta nuevo aviso. Público +18 (Ley 30021). `categoria_id: "27"`, `voz_fundador: true`; el avatar sale solo (assets/avatar.jpg).
+- Shorts: 3 diarios (07:00/13:00/20:30 Lima = 12:00Z/18:00Z/01:30Z del día siguiente), sacados de los 3 temas largos de la semana (sin investigar aparte). Horas iniciales; ajustar con Analytics cuando haya datos.
+- Revisión médica: se escribe con **1 semana de adelanto** (la tarea del sábado escribe la semana que empieza 8 días después) y el motor sube con 7 días de anticipación (`ventana_horas: 168`), privado con `publicar_en`. La profesional médica del Fundador revisa antes de la hora; si algo no va, el Fundador lo pasa a privado. Al escribir, avisa al Fundador qué hay que revisar.
+- Fuentes: SOLO científicas (nacionales e internacionales; PubMed vía `investigacion/cryptuline_pubmed.md`). Cita en voz (autor principal, año) y en la descripción: autores, año, revista y `https://pubmed.ncbi.nlm.nih.gov/<PMID>/`.
 - Sin afirmaciones de cura/prevención: «este estudio encontró…», con límites (tamaño, en animales o humanos) y «consulta a tu médico». Nada de inversión, NFT, cripto ni ventas; sí la marca Cryptuline.
-- Viralidad científica: gancho con dato sorprendente verificado, pregunta que se responde al final, mitos vs evidencia. `voz_fundador: true`; el avatar sale solo (assets/avatar.jpg).
+- Viralidad científica: gancho con dato sorprendente verificado, pregunta que se responde al final, mitos vs evidencia.
+- Instagram y Facebook: los Shorts de todos los canales se publican también como Reels (scripts/meta.py) si existe el secreto `META_PAGE_TOKEN_<CANAL>`.

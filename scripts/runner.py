@@ -74,7 +74,7 @@ def main():
                 if not desde or datetime.fromisoformat(desde.replace("Z", "+00:00")) > ahora:
                     continue
             fp = fecha_pub(g)
-            if fp <= ahora + timedelta(hours=VENTANA_HORAS):
+            if fp <= ahora + timedelta(hours=int(cfg.get("ventana_horas", VENTANA_HORAS))):
                 pendientes.append((fp, canal, cfg, proj, g))
     pendientes.sort(key=lambda x: x[0])
     print(f"Pendientes en ventana: {len(pendientes)}")
