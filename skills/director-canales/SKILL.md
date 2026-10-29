@@ -9,14 +9,14 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
 
 ## Arquitectura (no cambiar sin avisar al Fundador)
 - **Motor:** repositorio GitHub `daviddiazosorio73-debug/canales-agent` (público). Para agregarlo a la sesión: `add_repo` con owner `daviddiazosorio73-debug`, repo `canales-agent` y access `push`; clonar en `/home/claude/canales-agent`. Sus reglas de detalle están en `CLAUDE.md` del repo: léelo antes de escribir.
-  - `canales.json`: registro de canales (nombre, youtube_id, secreto, tts, voz, skill, nicho, idioma, activo y listas por tipo, incluida `short`).
+  - `canales.json`: registro de canales (nombre, youtube_id, secreto, tts, voz, skill, nicho, idioma, activo, listas por tipo incluida `short`, `meta` y, opcional, `ventana_horas`).
   - `canales/<canal>/proyectos/<AAAA-MM-DD>-<lang>-<tipo>-<slug>/guion.json`: guiones.
-  - `.github/workflows/producir.yml`: cada hora produce y sube lo que se publica en las próximas 36 h (voz gratis, render, miniatura, SEO y subida programada) y commitea `publicado.json` y `reporte.md`. Si algo falla, la corrida termina en error y GitHub avisa al Fundador por correo.
+  - `.github/workflows/producir.yml`: cada hora produce y sube lo que se publica en las próximas 36 h (o `ventana_horas` del canal) (voz gratis, render, miniatura, SEO y subida programada), publica los Reels en Instagram y Facebook, y commitea `publicado.json` y `reporte.md`. Si algo falla, la corrida termina en error y GitHub avisa al Fundador por correo.
   - `.github/workflows/investigar.yml`: cada sábado a las 18:00 (Lima) escribe `investigacion/<canal>.md` (mejores videos propios de 28 días y outliers del nicho de 7 días) e `investigacion/cryptuline_pubmed.md` (estudios de PubMed según `canales/cryptuline/ruta.json`), sin usar Claude.
   - `.github/workflows/top10-semanal.yml`: Top 10 completo (datos, guiones, producción, cadena) y, al final, `scripts/top10_shorts.py`: 3 Shorts por edición.
   - `scripts/`: pipeline (validate, tts, visuals, render, thumbnail, metadata, upload, runner, investigacion, top10_*).
   - `skills/`: copia de respaldo de estas skills. Al cambiar una skill, actualiza también su copia.
-- **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y, opcionales, `META_PAGE_TOKEN_<CANAL>`. Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
+- **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y `META_PAGE_TOKEN_<CANAL>` (Instagram y Facebook). Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
 - **Costo:** todo gratis. Nada de pago sin autorización explícita del Fundador.
 - **Dependencias fijadas:** sherpa-onnx==1.13.8 (la 2.0.0 rompe la voz offline).
 
@@ -97,7 +97,7 @@ Cuota de YouTube: esperar al reinicio diario (el motor reintenta solo). Token ve
 
 ## Agregar un canal
 1. Pedir: nombre, enlace del canal, skill de contenido (existente o nueva con skill-creator), calendario, idioma, voz y palabras del nicho.
-2. Añadir la entrada en `canales.json` (secreto `REFRESH_TOKEN_<CLAVE>`, `activo: false`, listas por tipo incluida `short`) y agregar el secreto al `env` de los workflows que lo usen.
+2. Añadir la entrada en `canales.json` (secreto `REFRESH_TOKEN_<CLAVE>`, `activo: false`, listas por tipo incluida `short`, `meta`) y agregar los secretos al `env` de los workflows que los usen.
 3. Ejecutar `/token <clave>`, guiar al Fundador para crear el secreto en GitHub (Settings → Secrets and variables → Actions → New repository secret) y pasar a `activo: true`.
 4. Agregar el canal a la tabla de esta skill, actualizar su copia en `skills/` y proponer la skill actualizada.
 
