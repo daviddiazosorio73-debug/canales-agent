@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "mundial",
+  "fecha": "2026-11-02",
+  "tema": "Top 10 the World · 2026-W44 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "THE WORLD",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in the world this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in the world this week.\n\nFull countdown, from 10 to 1: https://youtu.be/No3MmU7q8Ag\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in the world this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "966mAoz9kso",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, INDIA’S GOT LATENT S2 EP8 ft. MC Stan, Tanmay Bhat…, by Samay Raina, with over 45 thousand comments.",
+      "emocion": "agil",
+      "video_id": "Z4aMdO8K0XE",
+      "puesto": 3,
+      "creador": "Samay Raina",
+      "cifra": 45511,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, President Zelenskyy: It's Time To Tell You The Truth…, by The Diary Of A CEO, with over 45 thousand comments.",
+      "emocion": "agil",
+      "video_id": "5x9dkYIRb58",
+      "puesto": 2,
+      "creador": "The Diary Of A CEO",
+      "cifra": 45764,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: EXPLORÉ 3 LUGARES DE TERROR DE GOOGLE MAPS, by Fede Vigevani, with over 55 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "966mAoz9kso",
+      "puesto": 1,
+      "creador": "Fede Vigevani",
+      "cifra": 55596,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "966mAoz9kso",
+      "solo_fondo": true
+    }
+  ]
+}

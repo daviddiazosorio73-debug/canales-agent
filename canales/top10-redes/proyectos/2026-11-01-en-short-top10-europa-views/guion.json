@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "europa",
+  "fecha": "2026-11-01",
+  "tema": "Top 10 Europe · 2026-W44 · VIEWS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 VIEWS",
+    "linea2": "EUROPE",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most viewed video in Europe this week 🏆 #shorts",
+    "descripcion": "The podium of the most viewed videos in Europe this week.\n\nFull countdown, from 10 to 1: https://youtu.be/43XZ1bGuBMI\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most viewed video in Europe this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "efzxdQeODpU",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, Querían Habitaciones Distintas… y Terminaron…, by YoSoyDander, with over 15 million views.",
+      "emocion": "agil",
+      "video_id": "hFlKj2pscDU",
+      "puesto": 3,
+      "creador": "YoSoyDander",
+      "cifra": 15597224,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Is This The Best Way To Recycle Plastic? 🧐, by crafter duck - DIY, with over 20 million views.",
+      "emocion": "agil",
+      "video_id": "Ni-7ubnnMiU",
+      "puesto": 2,
+      "creador": "crafter duck - DIY",
+      "cifra": 20374870,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: 2026 Ballon d'Or | Red Carpet Pre Show, by DAZN Football, with over 21 million views.",
+      "emocion": "enfasis",
+      "video_id": "efzxdQeODpU",
+      "puesto": 1,
+      "creador": "DAZN Football",
+      "cifra": 21396411,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "efzxdQeODpU",
+      "solo_fondo": true
+    }
+  ]
+}

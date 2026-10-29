@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "mundial",
+  "fecha": "2026-11-02",
+  "tema": "Top 10 the World · 2026-W44 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "THE WORLD",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most liked video in the world this week 🏆 #shorts",
+    "descripcion": "The podium of the most liked videos in the world this week.\n\nFull countdown, from 10 to 1: https://youtu.be/No3MmU7q8Ag\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most liked video in the world this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "Z4aMdO8K0XE",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, Jethani Ne Maara Taana 😡 Choti Bahu Ne Banai Kaju…, by Kitchen CureAI, with over 684 thousand likes.",
+      "emocion": "agil",
+      "video_id": "sLMDt1MNyik",
+      "puesto": 3,
+      "creador": "Kitchen CureAI",
+      "cifra": 684819,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, One shipping container. Two levels of living. A…, by Conexwest, with over 689 thousand likes.",
+      "emocion": "agil",
+      "video_id": "gt6EbET4HJc",
+      "puesto": 2,
+      "creador": "Conexwest",
+      "cifra": 689130,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: INDIA’S GOT LATENT S2 EP8 ft. MC Stan, Tanmay Bhat…, by Samay Raina, with over 1 million likes.",
+      "emocion": "enfasis",
+      "video_id": "Z4aMdO8K0XE",
+      "puesto": 1,
+      "creador": "Samay Raina",
+      "cifra": 1234612,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "Z4aMdO8K0XE",
+      "solo_fondo": true
+    }
+  ]
+}

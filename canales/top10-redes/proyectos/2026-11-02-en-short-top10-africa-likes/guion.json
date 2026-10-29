@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "africa",
+  "fecha": "2026-11-02",
+  "tema": "Top 10 Africa · 2026-W44 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "AFRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most liked video in Africa this week 🏆 #shorts",
+    "descripcion": "The podium of the most liked videos in Africa this week.\n\nFull countdown, from 10 to 1: https://youtu.be/NGhhbLrD8KY\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T05:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most liked video in Africa this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "ufoigeSdS7o",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, School VS Adult VS College., by Ryan HD, with over 322 thousand likes.",
+      "emocion": "agil",
+      "video_id": "9NdOA9lLuCA",
+      "puesto": 3,
+      "creador": "Ryan HD",
+      "cifra": 322800,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Part 4, Subscribe For More., by SalesBendagra, with over 407 thousand likes.",
+      "emocion": "agil",
+      "video_id": "qwovFEWpvvI",
+      "puesto": 2,
+      "creador": "SalesBendagra",
+      "cifra": 407299,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: My daily duty as a mom of 5, by Sophie cindy, with over 441 thousand likes.",
+      "emocion": "enfasis",
+      "video_id": "ufoigeSdS7o",
+      "puesto": 1,
+      "creador": "Sophie cindy",
+      "cifra": 441110,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "ufoigeSdS7o",
+      "solo_fondo": true
+    }
+  ]
+}

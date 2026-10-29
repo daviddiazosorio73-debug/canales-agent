@@ -123,6 +123,8 @@ jobs:
         run: |
           python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
           python scripts/top10_cadena.py
+      - name: Shorts del Top 10 (3 por edición, después del estreno)
+        run: python scripts/top10_shorts.py
       - name: Guardar
         if: always()
         run: |

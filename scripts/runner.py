@@ -115,6 +115,8 @@ def main():
             if top10:
                 run_opc("top10_fichas.py", proj, env)
                 run("top10_visuales.py", proj, env)
+            if g.get("top10_short"):
+                run_opc("top10_short_visual.py", proj, env)
             run("visuals.py", proj, env, *offline)
             run("render.py", proj, env)
             run("thumbnail.py", proj, env)

@@ -49,13 +49,17 @@
       "intro": "Escuela Sabática · Estudio diario de la lección",
       "diario": "Escuela Sabática · Estudio diario de la lección",
       "resumen_viernes": "Escuela Sabática · Estudio diario de la lección",
-      "repaso_sabado": "Escuela Sabática · Estudio diario de la lección"
+      "repaso_sabado": "Escuela Sabática · Estudio diario de la lección",
+      "short": "Escuela Sabática en 1 minuto"
     },
     "meta": {
       "secreto": "META_PAGE_TOKEN_ES_SABATICA",
       "tipos": [
         "short"
       ]
+    },
+    "listas_desc": {
+      "Escuela Sabática en 1 minuto": "Ideas cortas de la lección de Escuela Sabática de cada día."
     }
   },
   "escola-sabatina-pt": {
@@ -76,13 +80,17 @@
       "intro": "Escola Sabatina · Estudo diário da lição",
       "diario": "Escola Sabatina · Estudo diário da lição",
       "resumen_viernes": "Escola Sabatina · Estudo diário da lição",
-      "repaso_sabado": "Escola Sabatina · Estudo diário da lição"
+      "repaso_sabado": "Escola Sabatina · Estudo diário da lição",
+      "short": "Escola Sabatina em 1 minuto"
     },
     "meta": {
       "secreto": "META_PAGE_TOKEN_PT_SABATINA",
       "tipos": [
         "short"
       ]
+    },
+    "listas_desc": {
+      "Escola Sabatina em 1 minuto": "Ideias curtas da lição da Escola Sabatina de cada dia."
     }
   },
   "top10-redes": {
@@ -100,10 +108,12 @@
       "top 10 mundial"
     ],
     "listas": {
-      "top10": "Top 10 Redes Sociales · Ediciones semanales"
+      "top10": "Top 10 Redes Sociales · Ediciones semanales",
+      "short": "Shorts · Top 10 Redes Sociales"
     },
     "listas_desc": {
-      "Top 10 Redes Sociales · Ediciones semanales": "Cada domingo: Top 10 de Oceanía, Asia, África, Europa y América, y el Top 10 Mundial. Los videos más vistos, más comentados y con más likes, del 10 al 1. Datos de la API oficial de YouTube. #Top10RS"
+      "Top 10 Redes Sociales · Ediciones semanales": "Cada domingo: Top 10 de Oceanía, Asia, África, Europa y América, y el Top 10 Mundial. Los videos más vistos, más comentados y con más likes, del 10 al 1. Datos de la API oficial de YouTube. #Top10RS",
+      "Shorts · Top 10 Redes Sociales": "El podio de cada semana en menos de un minuto: lo más visto, comentado y con más likes. Conteo completo en las ediciones semanales. #Top10RS"
     },
     "listas_nuevos_primero": [
       "Top 10 Redes Sociales · Ediciones semanales"

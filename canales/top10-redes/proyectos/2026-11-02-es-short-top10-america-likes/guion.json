@@ -1,0 +1,87 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "america",
+  "fecha": "2026-11-02",
+  "tema": "Top 10 América · 2026-W44 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "AMÉRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "El #1 con más likes de América esta semana 🏆 #shorts",
+    "descripcion": "El podio de los videos con más likes de América esta semana.\n\nConteo completo, del 10 al 1: https://youtu.be/QP1hFVK-n_0\n\nDatos de la API oficial de YouTube. Narración con voz sintética. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "videos virales",
+      "tendencias youtube",
+      "shorts",
+      "top 10 redes sociales"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuál fue el video con más likes de América esta semana? Este es el podio. Mira hasta el final.",
+      "emocion": "gancho",
+      "video_id": "gt6EbET4HJc",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "En el tercer lugar, I Tested the Famous Pirate Eye Patch Myth! 👁️, de Sean Andrew, con más de 547 mil likes.",
+      "emocion": "agil",
+      "video_id": "26gCF5x-FJI",
+      "puesto": 3,
+      "creador": "Sean Andrew",
+      "cifra": 547455,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "En el segundo lugar, iSHOWSPEED vs DUDE PERFECT GAUNTLET!, de IShowSpeed, con más de 682 mil likes.",
+      "emocion": "agil",
+      "video_id": "NDFE8W8wQ-Y",
+      "puesto": 2,
+      "creador": "IShowSpeed",
+      "cifra": 682091,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "Y el número uno: One shipping container. Two levels of living. A…, de Conexwest, con más de 689 mil likes.",
+      "emocion": "enfasis",
+      "video_id": "gt6EbET4HJc",
+      "puesto": 1,
+      "creador": "Conexwest",
+      "cifra": 689130,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "gt6EbET4HJc",
+      "solo_fondo": true
+    }
+  ]
+}

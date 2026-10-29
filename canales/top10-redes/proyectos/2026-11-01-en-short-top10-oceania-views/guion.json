@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "oceania",
+  "fecha": "2026-11-01",
+  "tema": "Top 10 Oceania · 2026-W44 · VIEWS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 VIEWS",
+    "linea2": "OCEANIA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most viewed video in Oceania this week 🏆 #shorts",
+    "descripcion": "The podium of the most viewed videos in Oceania this week.\n\nFull countdown, from 10 to 1: https://youtu.be/ckaC_1ul4UU\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-01T02:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most viewed video in Oceania this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "i6czx9lREQ8",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, I Survived 100 Days as VERITY in Minecraft, by EYstreem, with over 1 million views.",
+      "emocion": "agil",
+      "video_id": "1y0fQKWFzEI",
+      "puesto": 3,
+      "creador": "EYstreem",
+      "cifra": 1468127,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Most EMBARRASSING Moments On Your SHIRT, by Bloxy Productions, with over 6 million views.",
+      "emocion": "agil",
+      "video_id": "px3o6HwMhbk",
+      "puesto": 2,
+      "creador": "Bloxy Productions",
+      "cifra": 6808879,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: Comment “STRAW” if you NEED one!😱💕, by Merry Latte, with over 10 million views.",
+      "emocion": "enfasis",
+      "video_id": "i6czx9lREQ8",
+      "puesto": 1,
+      "creador": "Merry Latte",
+      "cifra": 10554001,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "i6czx9lREQ8",
+      "solo_fondo": true
+    }
+  ]
+}
