@@ -1,8 +1,10 @@
 # Instrucciones para Claude en este repositorio
-- Este repo es el motor de los 4 canales del Fundador. Respuestas cortas, verificables, sin inventar citas.
-- Guiones: `canales/<canal>/proyectos/<AAAA-MM-DD>-<lang>-<tipo>-<slug>/guion.json` (esquema de youtube-agent-skill; tipos: sermon, analisis, short, intro, diario, resumen_viernes, repaso_sabado).
+- Este repo es el motor de los 5 canales del Fundador (MayorDom, Escuela Sabática ES, Escola Sabatina PT, Top 10 Redes Sociales y Cryptuline). Respuestas cortas, verificables, sin inventar citas.
+- Guiones: `canales/<canal>/proyectos/<AAAA-MM-DD>-<lang>-<tipo>-<slug>/guion.json` (esquema de youtube-agent-skill; tipos: sermon, analisis, short, divulgacion, top10, intro, diario, resumen_viernes, repaso_sabado).
 - `seo.publicar_en` en UTC (Lima = UTC−5). Nunca borres un `publicado.json`.
-- Para MayorDom sigue la skill mayordom-youtube; Escuela Sabática ES/PT: youtube-agent-skill; Top 10: multiredes-agents-skill.
+- Gerencia: skill director-canales (manda sobre calendarios y qué escribe Claude). MayorDom: mayordom-youtube. Top 10: este archivo + multiredes-agents-skill.
+- Escuela Sabática ES/PT: en este motor SOLO Shorts (3 diarios por canal, 07:00/13:00/20:30 Lima = 12:00Z/18:00Z/01:30Z del día siguiente, del tema del día de la lección; PT escrito nativo). Los videos largos se suben fuera del motor (kit del PC del Fundador, ya subidos hasta la lección 9): no escribas largos de estos canales sin pedido expreso del Fundador.
+- Shorts (todos los canales): `tipo: "short"`, 2 escenas (gancho con `capitulo` y `texto_pantalla`; mensaje con `referencia`), 90-190 palabras, título con #shorts, render 1080x1920, lista `short` de canales.json. Antes de escribir, revisa que ese día y tipo no tengan ya proyecto (sin duplicados).
 - Tras escribir guiones: valida con `python scripts/validate.py <proyecto>`, commitea y haz push a main. El workflow hace el resto.
 - Voz del Fundador (clonada, Chatterbox): en el `guion.json` del video insignia pon `"voz_fundador": true`. Cada escena puede llevar `"emocion"`: gancho, enfasis, narrativo, ensenanza, agil, calido, reflexivo u oracion. Si no la lleva, se infiere del id de la escena y del texto. Usa la expresividad donde corresponda: gancho enérgico, historias narradas, enseñanza clara, oración pausada y Shorts ágiles.
 - Top 10 SEMANAL: datos y producción automáticos; el LIBRETO lo escribe Claude (tarea del miércoles 00:10 Lima) sobre la plantilla, con un plazo de 100 min; si no llega, sale la plantilla. Flujo: `.github/workflows/top10-semanal.yml` (miércoles 05:00 UTC = 00:00 Lima, corte; producción mié-jue; cada edición queda programada para las 06:00 locales del domingo de su continente; el sábado no corre nada del Top 10) → `scripts/top10_semana.py` (datos + guiones por plantilla, ediciones en `scripts/top10_ediciones.json`: Oceanía, Asia, África, Europa, América y Mundial; vetos en `scripts/top10_vetos.json`) → producción en paralelo → `scripts/top10_cadena.py` (lista «Vuelta al mundo» y enlace a la siguiente parada). Hashtag del canal: #Top10RS.
@@ -18,8 +20,9 @@
 - Listas de reproducción automáticas por tipo (`canales.json` → `listas`); no hace falta crearlas a mano.
 - Datos y citas solo verificados; las cifras salen de la API.
 
-## Cryptuline (canal de espirulina con ciencia)
-- Proyectos en `canales/cryptuline/proyectos/`: 3 videos `tipo: "divulgacion"` por semana (mar, jue, sáb 23:00 UTC = 18:00 Lima) y 3 `short` diarios (12:00, 18:00 y 01:00 UTC = 07:00, 13:00, 20:00 Lima). Horas iniciales: ajústalas con Analytics.
-- Tema del mes y ángulos: `canales/cryptuline/ruta.json`. Fuentes: SOLO `investigacion/cryptuline_pubmed.md` (PubMed, semanal). Cita en voz (autor principal, año) y en la descripción: autores, año, revista y `https://pubmed.ncbi.nlm.nih.gov/<PMID>/`.
+## Cryptuline (calendario PENDIENTE: no escribir hasta que el Fundador confirme días y horas)
+- Grilla decidida por el Fundador: salud los lunes y martes; nutrición en otro día; sábado, salud espiritual con enfoque IASD; eje de educación. El suplemento de espirulina queda fuera hasta nuevo aviso. Público +18 (Ley 30021). `categoria_id: "27"`.
+- Fuentes: SOLO científicas (nacionales e internacionales). Para espirulina/nutrición: `investigacion/cryptuline_pubmed.md` (PubMed, semanal, según `canales/cryptuline/ruta.json`). Cita en voz (autor principal, año) y en la descripción: autores, año, revista y `https://pubmed.ncbi.nlm.nih.gov/<PMID>/`.
+- Todo contenido de salud lo revisa la profesional médica del Fundador antes de publicarse: súbelo con `"privacidad": "private"` y sin `publicar_en`, y avisa al Fundador.
 - Sin afirmaciones de cura/prevención: «este estudio encontró…», con límites (tamaño, en animales o humanos) y «consulta a tu médico». Nada de inversión, NFT, cripto ni ventas; sí la marca Cryptuline.
-- Viralidad científica: gancho con dato sorprendente verificado, pregunta que se responde al final, mitos vs evidencia. `voz_fundador: true` en todo; el avatar sale solo (assets/avatar.jpg). `categoria_id: "27"`.
+- Viralidad científica: gancho con dato sorprendente verificado, pregunta que se responde al final, mitos vs evidencia. `voz_fundador: true`; el avatar sale solo (assets/avatar.jpg).

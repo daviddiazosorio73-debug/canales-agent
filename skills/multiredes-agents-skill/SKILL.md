@@ -1,26 +1,43 @@
 ---
 name: "multiredes-agents-skill"
-description: "Produce el programa semanal Top 10 Redes Sociales: conteo LATAM ES/PT con corte sábado 23:50 Lima, Top 10 general/por red/categoría, export a la app del conductor, guion, voz gratis, render y subida."
+description: "Top 10 Redes Sociales (@Top10RedesSociales): conteo semanal automático en el motor canales-agent (corte miércoles 00:00 Lima, 6 ediciones por continente + Mundial, domingo 06:00 local), libreto de Claude, Shorts del podio y kit del PC archivado."
 ---
 
-# Top 10 Redes Sociales — conteo semanal y episodio (ES/PT)
+# Top 10 Redes Sociales — conteo semanal (vigente: motor canales-agent)
 
-Clon adaptado de `youtube-agent-skill`: reutiliza su cadena **voz → render → miniatura → SEO → subida** y le agrega **extracción → snapshot → rankings → export a la app del conductor → tarjetas con cifras verificadas**. Claude redacta y decide; los scripts cuentan. **Ninguna cifra sale de la IA: todas salen de `ranking.json`.**
+Canal @Top10RedesSociales (ID `UC5hAk81MlV4wE5Lvl9PV1lQ`), hashtag #Top10RS. **Ninguna cifra sale de la IA: todas salen de la API oficial de YouTube** (`categorias3.json`). Úsala cuando el Fundador pida el conteo, el libreto, los Shorts, la miniatura o el SEO del Top 10, o /multiredes-agents-skill. Las reglas detalladas del libreto están en `CLAUDE.md` del repo `canales-agent` (mandan sobre esta skill si difieren).
 
-Úsala cuando el usuario pida el conteo, el ranking, el top 10 de la semana, de una red o de una categoría, el episodio, la miniatura, el SEO o el material del en vivo del canal @Top10RedesSociales, /multiredes-agents-skill, o hable del programa Top 10 Redes Sociales.
+## Calendario vigente (todo automático salvo el libreto)
+| Momento (Lima, UTC−5) | Paso | Dónde |
+|---|---|---|
+| **Miércoles 00:00** (05:00Z) | Corte semanal: datos + guiones por plantilla de las 6 ediciones | `.github/workflows/top10-semanal.yml` → `scripts/top10_semana.py` |
+| **Miércoles 00:10** | Claude reescribe el libreto (plazo 100 min; si no llega, sale la plantilla) | Tarea programada «Top 10: libretos del miércoles» |
+| Miércoles–jueves | Producción en paralelo (4K), subida privada con `publicar_en` | mismo workflow |
+| Al terminar la producción | Cadena «Vuelta al mundo» (lista + enlace a la siguiente parada) y **3 Shorts por edición** | `scripts/top10_cadena.py`, `scripts/top10_shorts.py` |
+| **Domingo 06:00 hora local** de cada continente | Estreno de cada edición: Oceanía (Sídney) → Asia (Calcuta) → África (El Cairo) → Europa (París) → América (Lima) → Mundial (Lima) | `scripts/top10_ediciones.json` |
+| Estreno + 7 h / + 14 h 30 / + 25 h | Shorts del podio: vistas, comentarios, likes (1080x1920) | `scripts/top10_short_visual.py` en el runner |
+| Sábado | No corre nada del Top 10 | — |
 
-## Calendario (America/Lima)
+Idiomas: América narra en español; el resto en inglés con títulos/descripciones traducidos (`locs`). Vetos en `scripts/top10_vetos.json`. El **Mundial no investiga aparte**: se arma con los 3 primeros de cada categoría de cada continente (mismo corte, mismas cifras).
 
-| Momento | Paso |
-|---|---|
-| Dom 00:00 → Sáb 23:50 (semana N) | Ventana: solo cuenta lo **publicado** dentro de ella |
-| **Sáb 23:50** | Corte: extracción + `snapshot.json` congelado (paso 1) |
-| Dom–Lun | Rankings, revisión del usuario, enriquecimiento (pasos 2–3) |
-| Mar–Mié | Guion/libreto ES y PT, aprobación, render de apoyo (pasos 4–5) |
-| **Jue 23:59** | Entrega: `videos_app.json` para la app del conductor + libreto; video de apoyo subido en privado con `publicar_en` |
-| **Dom 16:00** | Programa **en vivo** con la app ViralTop10 LATAM del conductor (video 3/4 + cámara 1/4, conteo 10→1) |
+## Libreto (lo único que escribe Claude)
+- En cada proyecto `tipo: "top10"` del día reescribe SOLO `escenas[].texto` en el idioma de `lang`, con datos de `categorias3.json` (cifras redondeadas hacia abajo, nada inventado).
+- Suspenso: ni nombre ni imagen del podio antes de su puesto; gancho de apertura; transiciones entre categorías; cierre con «siguiente parada» y #Top10RS; conservar anuncios de la plantilla.
+- Reglas: anunciar el corte (miércoles a las cero horas, hora de Lima, Perú); conservar «¿premiación real para los ganadores? Comenta #PremiosTop10RS» (en voz: «el hashtag Premios Top 10 RS, todo junto»); en continentes, invitación a suscribirse.
+- Mantener ids, `video_id`, `capitulo`, `emocion`. Poner `"libreto": "claude"`, `python scripts/validate.py <proyecto>`, commit y push a main.
 
-En UTC: inicio = domingo 05:00Z; corte = domingo 04:50Z (sábado 23:50 Lima); estreno = domingo 21:00Z.
+## Shorts del Top 10 (automáticos, no los escribe Claude)
+`scripts/top10_shorts.py` crea 3 por edición ya subida (podio #3, #2, #1 de una categoría + enlace a la edición), solo de estrenos con `publicar_en` de las últimas 24 h; no rellena ediciones viejas. Lista: «Shorts · Top 10 Redes Sociales».
+
+## Reglas del canal
+- Nombre y gráficos propios: nunca "Billboard", "Grammy" ni logos de las redes. Solo datos públicos del creador.
+- Voz IA: `containsSyntheticMedia` = true. Subidas privadas con `publicar_en`; nunca público sin calendario aprobado. Nunca borrar un `publicado.json`.
+- Todo gratis; nada de pago sin autorización del Fundador. Nunca escribir secretos en el repo, memoria ni Proyecto.
+
+---
+
+# ARCHIVO — kit del PC (formato antiguo: LATAM ES/PT, corte sábado 23:50, en vivo domingo 16:00 con ViralTop10 LATAM)
+Se conserva como referencia y para el en vivo con la app del conductor. **No es el calendario vigente**: no lo programes ni lo uses salvo pedido expreso del Fundador.
 
 ## Preparación del espacio de trabajo (cada sesión)
 
@@ -141,15 +158,8 @@ python scripts/pipeline_top10.py proyectos/<proy> --voz-gratis --subir  # + subi
 - Scraping de Instagram/TikTok/X puede chocar con sus términos: API oficial donde exista y volúmenes bajos.
 - Videos con voz IA: `containsSyntheticMedia` = true (ya lo hace `upload.py`).
 
-## Tareas programadas sugeridas (scheduled tasks, CRON_TZ=America/Lima)
-| Cron | Tarea |
-|---|---|
-| `50 23 * * 6` | Paso 1 (+ guardar snapshot y config en Drive) |
-| `47 8 * * 0` | Pasos 2, 2b y 3 con el snapshot anterior; deja los rankings en revisión |
-| `47 8 * * 2` | Paso 4 (libreto y guiones ES/PT) en revisión |
-| `47 19 * * 4` | Entrega del jueves; paso 5 con `--subir` solo si el guion fue aprobado |
-
-En ejecución desatendida nunca publiques en público: privado + `publicar_en`.
+## Tareas programadas (archivo)
+Ya no se usan: el calendario vigente lo ejecutan los workflows del motor y la tarea «Top 10: libretos del miércoles».
 
 ## Scripts
 `config/config.json` (verificado con datos reales; ajustable por el usuario; actualiza las fechas de X cada semana):
