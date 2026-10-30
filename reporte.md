@@ -1,7 +1,6 @@
-# Último reporte (2026-10-30 09:11 UTC)
+# Último reporte (2026-10-30 13:02 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-10-31-es-short2-escribe-para-memoria → https://youtu.be/ZbmZkKaqiJk
 
 ## Fallos
 - escola-sabatina-pt: 2026-10-31-pt-short2-escreva-para-memoria: upload.py falló en 2026-10-31-pt-short2-escreva-para-memoria
@@ -11,3 +10,4 @@
 - cryptuline: 2026-11-04-es-short2-upf-corazon: upload.py falló en 2026-11-04-es-short2-upf-corazon
 - cryptuline: 2026-11-04-es-short3-upf-que-es: upload.py falló en 2026-11-04-es-short3-upf-que-es
 - cryptuline: 2026-11-05-es-short1-upf-ansiedad: upload.py falló en 2026-11-05-es-short1-upf-ansiedad
+- cryptuline: 2026-11-05-es-short2-upf-depresion: upload.py falló en 2026-11-05-es-short2-upf-depresion
