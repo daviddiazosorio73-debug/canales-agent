@@ -1,4 +1,4 @@
-# Último reporte (2026-10-30 18:51 UTC)
+# Último reporte (2026-10-30 22:05 UTC)
 
 ## Subidos
 
@@ -8,6 +8,6 @@
 - escuela-sabatica-es: 2026-10-31-es-short3-tesoro-en-vasos-de-barro: upload.py falló en 2026-10-31-es-short3-tesoro-en-vasos-de-barro
 - escola-sabatina-pt: 2026-10-31-pt-short3-tesouro-em-vasos-de-barro: upload.py falló en 2026-10-31-pt-short3-tesouro-em-vasos-de-barro
 - top10-redes: 2026-11-01-en-short-top10-oceania-views: upload.py falló en 2026-11-01-en-short-top10-oceania-views
+- top10-redes: 2026-11-01-en-short-top10-asia-views: upload.py falló en 2026-11-01-en-short-top10-asia-views
+- top10-redes: 2026-11-01-en-short-top10-oceania-comments: upload.py falló en 2026-11-01-en-short-top10-oceania-comments
 - cryptuline: 2026-11-01-es-divulgacion-fe-y-longevidad: upload.py falló en 2026-11-01-es-divulgacion-fe-y-longevidad
-- cryptuline: 2026-11-03-es-short3-pasos-limites: upload.py falló en 2026-11-03-es-short3-pasos-limites
-- cryptuline: 2026-11-04-es-short1-upf-45: upload.py falló en 2026-11-04-es-short1-upf-45
