@@ -41,8 +41,25 @@ def fecha_pub(g):
     return datetime.fromisoformat(p.replace("Z", "+00:00"))
 
 
+CUOTA_F = ROOT / "canales" / "cuota.json"
+
+
+class CuotaAgotada(Exception):
+    pass
+
+
+def reinicio_cuota(ahora):
+    """La cuota diaria de YouTube se reinicia a medianoche, hora del Pacífico."""
+    from zoneinfo import ZoneInfo
+    pac = ahora.astimezone(ZoneInfo("America/Los_Angeles"))
+    sig = (pac + timedelta(days=1)).replace(hour=0, minute=5, second=0, microsecond=0)
+    return sig.astimezone(timezone.utc)
+
+
 def run(script, proj, env, *extra):
     r = subprocess.run([sys.executable, str(SCRIPTS / script), str(proj), *extra], env=env)
+    if r.returncode == 75 and script == "upload.py":
+        raise CuotaAgotada(f"cuota diaria de YouTube agotada en {proj.name}")
     if r.returncode:
         raise RuntimeError(f"{script} falló en {proj.name}")
 
@@ -57,6 +74,15 @@ def run_opc(script, proj, env, *extra):
 def main():
     canales = json.loads((ROOT / "canales.json").read_text())
     ahora = datetime.now(timezone.utc)
+    if CUOTA_F.exists():
+        hasta = datetime.fromisoformat(json.loads(CUOTA_F.read_text())["hasta"].replace("Z", "+00:00"))
+        if ahora < hasta and not os.environ.get("IGNORAR_CUOTA"):
+            lima = hasta - timedelta(hours=5)
+            msg = f"Cuota diaria de YouTube agotada: el motor espera hasta las {lima:%H:%M} de Lima ({hasta:%Y-%m-%d %H:%M} UTC) y sigue solo."
+            print(msg)
+            (ROOT / "reporte.md").write_text(f"# Último reporte ({ahora:%Y-%m-%d %H:%M} UTC)\n\n## En pausa\n- {msg}\n")
+            return
+        CUOTA_F.unlink()
     pendientes = []
     for canal, cfg in canales.items():
         if canal.startswith("_") or not cfg.get("activo"):
@@ -79,6 +105,7 @@ def main():
     pendientes.sort(key=lambda x: x[0])
     print(f"Pendientes en ventana: {len(pendientes)}")
     hechos, fallos = [], []
+    pausa = None
     for fp, canal, cfg, proj, g in pendientes[:MAX_POR_CORRIDA]:
         if not token_file(canal, cfg):
             fallos.append(f"{canal}: falta el secreto {cfg['secreto']}")
@@ -131,19 +158,24 @@ def main():
                 if r.returncode:
                     print("AVISO: no se pudo encolar para Instagram/Facebook", flush=True)
             hechos.append(f"{canal}: {proj.name} → {json.loads((proj / 'publicado.json').read_text())['url']}")
+        except CuotaAgotada as e:  # no es un error del motor: se pausa hasta el reinicio y no se re-renderiza en vano
+            hasta = reinicio_cuota(datetime.now(timezone.utc))
+            CUOTA_F.write_text(json.dumps({"hasta": hasta.strftime("%Y-%m-%dT%H:%M:%SZ"), "motivo": str(e)}))
+            pausa = f"Cuota diaria de YouTube agotada; se reanuda a las {hasta - timedelta(hours=5):%H:%M} de Lima."
+            print(pausa, flush=True)
+            break
         except Exception as e:  # sigue con el siguiente
             msg = str(e)
             fallos.append(f"{canal}: {proj.name}: {msg}")
             print("FALLO", msg, flush=True)
-            if "quota" in msg.lower():
-                break
         finally:
             for sub in ("audio", "imagenes", "tmp", "salida"):
                 shutil.rmtree(proj / sub, ignore_errors=True)
             (proj / "creditos.json").unlink(missing_ok=True)
     rep = ROOT / "reporte.md"
     rep.write_text(f"# Último reporte ({ahora:%Y-%m-%d %H:%M} UTC)\n\n## Subidos\n"
-                   + "".join(f"- {h}\n" for h in hechos) + "\n## Fallos\n" + "".join(f"- {f}\n" for f in fallos))
+                   + "".join(f"- {h}\n" for h in hechos) + "\n## Fallos\n" + "".join(f"- {f}\n" for f in fallos)
+                   + (f"\n## En pausa\n- {pausa}\n" if pausa else ""))
     print(rep.read_text())
     if fallos:
         sys.exit(1)  # GitHub envía un correo al Fundador cuando la corrida falla
