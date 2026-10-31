@@ -1,4 +1,4 @@
-# Último reporte (2026-10-30 22:05 UTC)
+# Último reporte (2026-10-31 01:04 UTC)
 
 ## Subidos
 
@@ -10,4 +10,4 @@
 - top10-redes: 2026-11-01-en-short-top10-oceania-views: upload.py falló en 2026-11-01-en-short-top10-oceania-views
 - top10-redes: 2026-11-01-en-short-top10-asia-views: upload.py falló en 2026-11-01-en-short-top10-asia-views
 - top10-redes: 2026-11-01-en-short-top10-oceania-comments: upload.py falló en 2026-11-01-en-short-top10-oceania-comments
-- cryptuline: 2026-11-01-es-divulgacion-fe-y-longevidad: upload.py falló en 2026-11-01-es-divulgacion-fe-y-longevidad
+- top10-redes: 2026-11-01-en-short-top10-africa-views: upload.py falló en 2026-11-01-en-short-top10-africa-views
