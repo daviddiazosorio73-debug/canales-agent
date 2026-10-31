@@ -1,13 +1,13 @@
-# Último reporte (2026-10-31 06:58 UTC)
+# Último reporte (2026-10-31 07:57 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-10-31-es-short3-tesoro-en-vasos-de-barro → https://youtu.be/I6hDYrOjMUo
-- escola-sabatina-pt: 2026-10-31-pt-short3-tesouro-em-vasos-de-barro → https://youtu.be/qwJnmXd_NL8
-- top10-redes: 2026-11-01-en-short-top10-oceania-views → https://youtu.be/ktR_kCB5WD4
-- top10-redes: 2026-11-01-en-short-top10-asia-views → https://youtu.be/rkmPndMSzws
-- top10-redes: 2026-11-01-en-short-top10-oceania-comments → https://youtu.be/Ylnz0kYzBjM
-- top10-redes: 2026-11-01-en-short-top10-africa-views → https://youtu.be/ZUymecc80mg
+- escola-sabatina-pt: 2026-10-31-pt-short2-escreva-para-memoria → https://youtu.be/ond1Sj5_GAI
+- mayordom: 2026-10-31-es-short3-personas-cosas → https://youtu.be/9Wx9-6jCp94
+- escuela-sabatica-es: 2026-11-01-es-short1-rollo-de-jeremias → https://youtu.be/4sZiKFaETRY
+- escola-sabatina-pt: 2026-11-01-pt-short1-rolo-de-jeremias → https://youtu.be/pY7g3NaKGYg
+- top10-redes: 2026-11-01-en-short-top10-europa-views → https://youtu.be/zyoXQwRXEBk
+- top10-redes: 2026-11-01-en-short-top10-asia-comments → https://youtu.be/Oscgxe3ft0w
+- escuela-sabatica-es: 2026-11-01-es-short2-el-rollo-quemado → https://youtu.be/Xj0-ECL3__o
+- escola-sabatina-pt: 2026-11-01-pt-short2-o-rolo-queimado → https://youtu.be/HCbXhfyairY
 
 ## Fallos
-- escola-sabatina-pt: 2026-10-31-pt-short2-escreva-para-memoria: upload.py falló en 2026-10-31-pt-short2-escreva-para-memoria
-- mayordom: 2026-10-31-es-short3-personas-cosas: upload.py falló en 2026-10-31-es-short3-personas-cosas
