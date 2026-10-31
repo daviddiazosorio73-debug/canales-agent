@@ -1,13 +1,13 @@
-# Último reporte (2026-10-31 07:57 UTC)
+# Último reporte (2026-10-31 08:51 UTC)
 
 ## Subidos
-- escola-sabatina-pt: 2026-10-31-pt-short2-escreva-para-memoria → https://youtu.be/ond1Sj5_GAI
-- mayordom: 2026-10-31-es-short3-personas-cosas → https://youtu.be/9Wx9-6jCp94
-- escuela-sabatica-es: 2026-11-01-es-short1-rollo-de-jeremias → https://youtu.be/4sZiKFaETRY
-- escola-sabatina-pt: 2026-11-01-pt-short1-rolo-de-jeremias → https://youtu.be/pY7g3NaKGYg
-- top10-redes: 2026-11-01-en-short-top10-europa-views → https://youtu.be/zyoXQwRXEBk
-- top10-redes: 2026-11-01-en-short-top10-asia-comments → https://youtu.be/Oscgxe3ft0w
-- escuela-sabatica-es: 2026-11-01-es-short2-el-rollo-quemado → https://youtu.be/Xj0-ECL3__o
-- escola-sabatina-pt: 2026-11-01-pt-short2-o-rolo-queimado → https://youtu.be/HCbXhfyairY
+- top10-redes: 2026-11-01-en-short-top10-mundial-views → https://youtu.be/jTvdFxz2cPo
+- top10-redes: 2026-11-01-es-short-top10-america-views → https://youtu.be/M-6xdVBW3Ks
+- top10-redes: 2026-11-01-en-short-top10-africa-comments → https://youtu.be/Qv7ye9pQrQ0
+- top10-redes: 2026-11-01-en-short-top10-europa-comments → https://youtu.be/JYSAIP_WXP0
+- top10-redes: 2026-11-01-en-short-top10-oceania-likes → https://youtu.be/8YC0NAt_RQQ
+- cryptuline: 2026-11-01-es-divulgacion-fe-y-longevidad → https://youtu.be/p7igaDw-leA
 
 ## Fallos
+- cryptuline: 2026-11-03-es-short3-pasos-limites: upload.py falló en 2026-11-03-es-short3-pasos-limites
+- cryptuline: 2026-11-04-es-short1-upf-45: upload.py falló en 2026-11-04-es-short1-upf-45
