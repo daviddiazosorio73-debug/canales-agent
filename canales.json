@@ -1,5 +1,5 @@
 {
-  "_ayuda": "Un canal por entrada. 'secreto' = nombre del secreto de GitHub con el refresh token de ese canal. 'tts' = piper (offline) o edge (Microsoft, gratis). 'voz' = voz de edge-tts o carpeta de modelo piper.",
+  "_ayuda": "Un canal por entrada. 'secreto' = nombre del secreto de GitHub con el refresh token de ese canal. 'tts' = piper (offline) o edge (Microsoft, gratis). 'voz' = voz de edge-tts o carpeta de modelo piper. 'prioridad' = orden de subida cuando la cuota diaria de YouTube no alcanza (1 = primero); lo que sale en las próximas 12 h siempre va primero, por hora.",
   "mayordom": {
     "nombre": "MayorDom · Mayordomía Bíblica",
     "youtube_id": "UCxGgMCMbyiCvRo_T-haI_Ug",
@@ -30,7 +30,8 @@
       "tipos": [
         "short"
       ]
-    }
+    },
+    "prioridad": 3
   },
   "escuela-sabatica-es": {
     "nombre": "Maestro DD Escuela Sabática (ES)",
@@ -60,7 +61,8 @@
     },
     "listas_desc": {
       "Escuela Sabática en 1 minuto": "Ideas cortas de la lección de Escuela Sabática de cada día."
-    }
+    },
+    "prioridad": 1
   },
   "escola-sabatina-pt": {
     "nombre": "A Escola Sabatina (PT)",
@@ -91,7 +93,8 @@
     },
     "listas_desc": {
       "Escola Sabatina em 1 minuto": "Ideias curtas da lição da Escola Sabatina de cada dia."
-    }
+    },
+    "prioridad": 1
   },
   "top10-redes": {
     "nombre": "Top 10 Redes Sociales",
@@ -124,7 +127,8 @@
         "short",
         "top10_reel"
       ]
-    }
+    },
+    "prioridad": 2
   },
   "cryptuline": {
     "nombre": "Cryptuline · Salud con ciencia",
@@ -156,6 +160,7 @@
     "listas_desc": {
       "Salud con ciencia · Cryptuline": "Salud, nutrición y salud espiritual explicadas con estudios científicos. Contenido educativo +18; no reemplaza la consulta médica.",
       "Shorts · Salud con ciencia": "Datos de salud y nutrición en un minuto, con su estudio científico. Consulta a tu médico."
-    }
+    },
+    "prioridad": 4
   }
 }

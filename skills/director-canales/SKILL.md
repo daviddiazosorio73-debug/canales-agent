@@ -92,8 +92,11 @@ Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo sa
 ## Instagram y Facebook
 Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish; la cuenta de Instagram debe ser profesional y estar vinculada a la Página). Si falta, no falla: no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels; si no existe, falta el secreto.
 
+## Prioridad de subida (orden del Fundador)
+1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline (`prioridad` en `canales.json`). Lo que sale en las próximas 12 h siempre va primero, por hora, para no perder ningún horario. Cuota diaria de YouTube compartida (~20 videos/día; reinicio 02:00 Lima): si se agota, el motor pausa solo con `canales/cuota.json` y no envía correo de fallo.
+
 ## Si `reporte.md` muestra fallos
-Cuota de YouTube: esperar al reinicio diario (el motor reintenta solo). Token vencido, revocado o secreto faltante: `/token`. Error de guion: corregir y hacer push. Error de una dependencia: fijar la versión que funciona en el workflow. Avisar solo si hay algo que el Fundador deba hacer.
+Cuota de YouTube: el motor pausa solo hasta el reinicio (02:05 Lima) y sigue por prioridad. Token vencido, revocado o secreto faltante: `/token`. Error de guion: corregir y hacer push. Error de una dependencia: fijar la versión que funciona en el workflow. Avisar solo si hay algo que el Fundador deba hacer.
 
 ## Agregar un canal
 1. Pedir: nombre, enlace del canal, skill de contenido (existente o nueva con skill-creator), calendario, idioma, voz y palabras del nicho.

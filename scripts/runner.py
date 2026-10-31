@@ -18,6 +18,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SCRIPTS = ROOT / "scripts"
 VENTANA_HORAS = int(os.environ.get("VENTANA_HORAS", "36"))
 MAX_POR_CORRIDA = int(os.environ.get("MAX_POR_CORRIDA", "8"))
+URGENTE_HORAS = int(os.environ.get("URGENTE_HORAS", "12"))
 
 
 def token_file(canal, cfg):
@@ -102,7 +103,10 @@ def main():
             fp = fecha_pub(g)
             if fp <= ahora + timedelta(hours=int(cfg.get("ventana_horas", VENTANA_HORAS))):
                 pendientes.append((fp, canal, cfg, proj, g))
-    pendientes.sort(key=lambda x: x[0])
+    # 1) lo que sale en las próximas URGENTE_HORAS, por hora (nada pierde su horario);
+    # 2) el resto, por prioridad del canal (canales.json → prioridad) y luego por hora.
+    urg = ahora + timedelta(hours=URGENTE_HORAS)
+    pendientes.sort(key=lambda x: (0, 0, x[0]) if x[0] <= urg else (1, x[2].get("prioridad", 9), x[0]))
     print(f"Pendientes en ventana: {len(pendientes)}")
     hechos, fallos = [], []
     pausa = None
