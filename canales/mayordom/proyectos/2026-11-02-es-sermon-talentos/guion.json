@@ -1,0 +1,143 @@
+{
+  "lang": "es",
+  "tipo": "sermon",
+  "fecha": "2026-11-02",
+  "serie": "Parábolas del mayordomo · Serie especial (1/3)",
+  "tema": "La parábola de los talentos: el siervo que no hizo nada",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "El siervo que",
+    "linea2": "NO HIZO NADA",
+    "etiqueta": "PARÁBOLAS DEL MAYORDOMO",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Parábola de los talentos: el siervo que lo perdió todo sin robar nada | Mayordomía",
+    "descripcion": "El tercer siervo no robó ni malgastó: solo escondió lo que recibió. ¿Por qué Jesús lo reprendió? Primer sermón de la serie especial «Parábolas del mayordomo».\n\nEn este sermón: Dios reparte según tu capacidad, lo que se usa se multiplica, el miedo que entierra los dones, la rendición de cuentas y un reto práctico para esta semana.\n\n📖 Mateo 25:14-30 · 1 Juan 4:18 (Reina-Valera 1960)\n\n💬 ¿Qué talento vas a desenterrar esta semana?\n🔔 Sermones lunes, miércoles y viernes a las 18:00 (Lima).\nNarración con voz sintética.",
+    "tags": [
+      "parábola de los talentos",
+      "Mateo 25",
+      "mayordomía cristiana",
+      "mayordomía bíblica",
+      "dones espirituales",
+      "buen siervo y fiel",
+      "sermón cristiano",
+      "sermón adventista",
+      "fidelidad",
+      "parábolas de Jesús",
+      "talentos",
+      "servir a Dios"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "ParábolaDeLosTalentos",
+      "Sermón"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "Imagina que mañana tu jefe te entrega una cantidad enorme de dinero, se va de viaje y no te deja instrucciones escritas. Solo una idea: cuando regrese, va a pedir cuentas. ¿Qué harías? ¿Lo invertirías? ¿Lo guardarías debajo del colchón? ¿O lo gastarías pensando que tal vez nunca vuelva? Jesús contó exactamente esa historia. Y lo sorprendente es que el siervo que terminó perdiéndolo todo no robó nada, no malgastó nada, no hizo ningún escándalo. Simplemente no hizo nada. Hoy empezamos una serie especial de tres sermones sobre las parábolas del mayordomo. Y empezamos con la más conocida, y quizá la más incómoda: la parábola de los talentos. Quédate hasta el final, porque la pregunta que Jesús deja abierta no es cuánto tienes. Es qué estás haciendo con lo que ya tienes.",
+      "texto_pantalla": "¿Qué harías con lo que no es tuyo?",
+      "visual": {
+        "query": "businessman handing money envelope"
+      },
+      "emocion": "gancho"
+    },
+    {
+      "id": "contexto",
+      "capitulo": "El contexto: Mateo 25",
+      "texto": "La parábola está en Mateo, capítulo veinticinco, del versículo catorce al treinta. No aparece sola. Jesús la cuenta en su gran sermón sobre el fin de los tiempos, entre la parábola de las diez vírgenes y la escena del juicio de las naciones. Es decir, Jesús está hablando de cómo vivir mientras esperamos su regreso. La historia es sencilla. Un hombre que se va lejos llama a sus siervos y les entrega sus bienes. A uno le da cinco talentos, a otro dos y a otro uno, a cada uno conforme a su capacidad. Después se va. Un talento no era una habilidad, como decimos hoy. Era una medida de peso, una suma de dinero muy grande para un trabajador común. Así que el siervo que recibió un solo talento no recibió poco. Recibió muchísimo. Nadie en esta historia recibió las manos vacías. Y esa es la primera verdad que tenemos que aceptar: todo lo que tienes, tu vida, tu tiempo, tu cuerpo, tus dones y tu dinero, te fue entregado. No eres dueño. Eres mayordomo.",
+      "texto_pantalla": "Nadie recibió las manos vacías",
+      "visual": {
+        "query": "ancient gold coins scale"
+      },
+      "emocion": "ensenanza",
+      "referencia": "Mateo 25:14-15"
+    },
+    {
+      "id": "idea1",
+      "capitulo": "1. Dios reparte según tu capacidad",
+      "texto": "Fíjate en un detalle que muchos pasan por alto. El señor reparte a cada uno conforme a su capacidad. No le dio cinco talentos al que solo podía manejar dos. Dios conoce tu historia, tus fuerzas y tus límites. No te pide que seas otra persona. No te compara con el hermano que predica mejor, con la hermana que canta mejor o con el vecino que gana más. Cuántas veces nos paralizamos mirando lo que otros recibieron. Pensamos: si yo tuviera su dinero, sí ayudaría. Si yo tuviera su voz, sí serviría. Pero la parábola nos enseña que la medida de Dios no es la cantidad, sino la fidelidad con lo recibido. El que tenía dos talentos no fue menos premiado por tener menos. Escucha bien: recibió exactamente las mismas palabras de aprobación que el de cinco. Dios no mide tu vida por el tamaño de tu bolsa, sino por el uso que le das a lo que puso en ella. Así que deja de mirar el talento del otro y empieza a mirar el tuyo.",
+      "texto_pantalla": "No te compares: sé fiel con lo tuyo",
+      "visual": {
+        "query": "two people different paths"
+      },
+      "emocion": "ensenanza",
+      "referencia": "Mateo 25:15"
+    },
+    {
+      "id": "idea2",
+      "capitulo": "2. Lo que se usa, se multiplica",
+      "texto": "Los dos primeros siervos hicieron algo muy simple: fueron y negociaron. Dice el texto que el de cinco ganó otros cinco, y el de dos ganó otros dos. Duplicaron lo recibido. No sabemos cuánto les costó, cuántas noches de esfuerzo invirtieron o cuántos riesgos corrieron. Lo que sí sabemos es que pusieron a trabajar lo que no era suyo para beneficio de su señor. Este es un principio que se repite en toda la Biblia: lo que se usa para Dios, crece. El don que ejercitas se fortalece. El tiempo que inviertes en otros se multiplica en vidas. La generosidad abre puertas que el egoísmo cierra. Piensa en un músculo. Si lo usas, se fortalece. Si lo dejas quieto, se atrofia. Con los dones espirituales pasa lo mismo. Hay personas que dicen: yo no tengo ningún talento. Pero tal vez sí lo tienen, solo que nunca lo usaron. Una palabra de ánimo, una visita, una comida compartida, una clase bien preparada, una ofrenda fiel. Lo pequeño en manos de Dios no se queda pequeño.",
+      "texto_pantalla": "Lo que se usa para Dios, crece",
+      "visual": {
+        "query": "plant growing from coins"
+      },
+      "emocion": "ensenanza"
+    },
+    {
+      "id": "idea3",
+      "capitulo": "3. El problema del tercer siervo",
+      "texto": "Y llegamos al siervo de un talento. Él cavó en la tierra y escondió el dinero de su señor. Cuando el señor regresa, este siervo da una explicación reveladora. Le dice, en resumen: te conocía, sabía que eres un hombre duro, tuve miedo y por eso escondí tu talento; aquí tienes lo que es tuyo. ¿Notas el problema? No es solo pereza. Es una imagen equivocada de su señor. Él veía a su amo como alguien severo, injusto, a quien había que temer. Y esa imagen lo paralizó. Muchos cristianos viven igual. Ven a Dios como un juez frío que está esperando que fallen. Entonces no se arriesgan, no sirven, no dan, no comparten su fe. Prefieren no equivocarse antes que intentar algo. Pero el miedo nunca ha sido una buena base para la mayordomía. Primera de Juan cuatro, versículo dieciocho, enseña que el perfecto amor echa fuera el temor. Quien conoce el amor de Dios se atreve a usar lo que Él le dio.",
+      "texto_pantalla": "El miedo entierra lo que el amor multiplica",
+      "visual": {
+        "query": "hands digging soil hiding"
+      },
+      "emocion": "narrativo",
+      "referencia": "Mateo 25:24-25 · 1 Juan 4:18"
+    },
+    {
+      "id": "idea4",
+      "capitulo": "4. La rendición de cuentas",
+      "texto": "Después de mucho tiempo, dice Jesús, vino el señor y arregló cuentas con ellos. Esa frase es clave: después de mucho tiempo. El señor tardó. Y en esa espera se vio quién era fiel y quién no. A los dos primeros siervos les dijo palabras que han consolado a millones de creyentes: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor. Mira el orden. Primero, la aprobación personal: bien. Luego, el carácter: buen siervo y fiel. Después, la promesa: sobre mucho te pondré. Y al final, la comunión: entra en el gozo de tu señor. La recompensa del mayordomo fiel no es solo más responsabilidad. Es compartir la alegría de su Señor. En cambio, al tercer siervo se le quitó el talento y se le dio al que tenía diez. Suena duro, pero es lógico: lo que no se usa, se pierde. La vida es una mayordomía, y un día todos daremos cuenta.",
+      "texto_pantalla": "«Bien, buen siervo y fiel»",
+      "visual": {
+        "query": "sunrise over field golden light"
+      },
+      "emocion": "enfasis",
+      "referencia": "Mateo 25:19-21"
+    },
+    {
+      "id": "ilustracion",
+      "capitulo": "Dos semillas en la misma mano",
+      "texto": "Piensa en un agricultor que guarda dos semillas iguales. Una la deja en un frasco, bien protegida, en la repisa de la cocina. La otra la entierra en la tierra húmeda. A los pocos días, la semilla del campo parece perdida: está sucia, se rompe su cáscara, deja de ser lo que era. La semilla del frasco, en cambio, sigue intacta. Parece que ganó. Pero pasa un año. La semilla del frasco sigue siendo exactamente una semilla. La del campo se convirtió en una planta con decenas de semillas nuevas. Jesús usó esta misma imagen cuando dijo, en Juan doce, que si el grano de trigo no cae en la tierra y muere, queda solo; pero si muere, lleva mucho fruto. El siervo de un talento quiso proteger lo que tenía, y por proteger, lo perdió. Los otros dos se arriesgaron a soltar, y por soltar, multiplicaron. La mayordomía cristiana no consiste en guardar con miedo, sino en sembrar con fe. Lo que retienes para ti se queda solo. Lo que siembras para Dios se multiplica. Y eso vale para tu dinero, para tus horas libres, para tu voz y para cada don que hoy tienes guardado en un frasco.",
+      "texto_pantalla": "Lo que retienes se queda solo",
+      "visual": {
+        "query": "seed sprouting soil hand"
+      },
+      "emocion": "narrativo",
+      "referencia": "Juan 12:24"
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Tu compromiso de esta semana",
+      "texto": "Entonces, ¿cómo vivimos esta parábola de lunes a domingo? Te propongo tres pasos concretos. Primero, haz un inventario. Toma una hoja y escribe lo que Dios te ha confiado: tiempo, salud, habilidades, relaciones, dinero, conocimientos. Te vas a sorprender de cuánto has recibido. Segundo, elige un talento que tengas enterrado. Algo que sabes que podrías usar para Dios y para otros, pero que has dejado quieto por miedo, por comodidad o por falta de tiempo. Tal vez es enseñar a los niños, visitar a un enfermo, ayudar en las finanzas de tu iglesia o grabar un mensaje de ánimo para un amigo. Tercero, ponlo a trabajar esta misma semana, aunque sea en pequeño. No esperes tener cinco talentos para empezar. Empieza con el que tienes. Y hazlo por amor, no por miedo. Porque no sirves a un amo duro. Sirves a un Señor que te confió sus bienes porque confía en ti.",
+      "texto_pantalla": "Desentierra un talento esta semana",
+      "visual": {
+        "query": "notebook writing list desk"
+      },
+      "emocion": "calido"
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Reflexión y oración",
+      "texto": "Antes de terminar, te dejo tres preguntas para meditar. ¿Qué imagen de Dios tienes: la de un amo duro o la de un Señor que confía en ti? ¿Qué talento has enterrado por miedo? Y si el Señor regresara hoy, ¿qué le mostrarías de lo que te confió? Oremos. Señor, gracias por todo lo que pusiste en mis manos. Perdóname por las veces que enterré tus dones por miedo o comodidad. Ayúdame a verte como eres: un Dios de amor que confía en mí. Dame valor para usar lo que me diste, fidelidad en lo poco y alegría en el servicio. Que un día pueda escuchar de tus labios: bien, buen siervo y fiel. En el nombre de Jesús, amén. Escribe en los comentarios cuál es el talento que vas a desenterrar esta semana. El miércoles seguimos con la parábola más desconcertante de Jesús sobre el dinero: el mayordomo infiel. ¿Por qué Jesús lo puso de ejemplo? Te espero a las seis de la tarde.",
+      "texto_pantalla": "¿Qué talento vas a desenterrar?",
+      "visual": {
+        "query": "person praying window light"
+      },
+      "emocion": "oracion"
+    }
+  ]
+}
