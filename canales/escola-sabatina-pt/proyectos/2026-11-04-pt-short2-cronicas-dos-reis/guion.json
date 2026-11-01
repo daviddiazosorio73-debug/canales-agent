@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "O autor de Reis mandou você conferir AS FONTES 🔎",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Fuentes literarias"
+  },
+  "miniatura": {
+    "linea1": "Escrito com fontes",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O autor de Reis mandou você conferir AS FONTES 🔎 #shorts",
+    "descripcion": "Um escritor da Bíblia fez algo que todo bom historiador faz: citou as fontes.\n\n1 Reis 14:19, 29\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Um escritor da Bíblia fez algo que todo bom historiador faz: citou as fontes.",
+      "texto_pantalla": "Escrito com fontes",
+      "emocion": "gancho",
+      "visual": {
+        "query": "royal archive old books"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em primeiro Reis catorze, no fim da história do rei Jeroboão, o autor diz que o restante dos seus feitos está escrito no livro da história dos reis de Israel. Logo depois faz o mesmo com Roboão e o livro da história dos reis de Judá. Ou seja, ele usou arquivos oficiais e mostrou ao leitor onde encontrar mais. A fé bíblica não tem medo da história. Deus inspirou pessoas que pesquisaram com cuidado. Inscreva-se para mais Escola Sabatina em um minuto.",
+      "texto_pantalla": "Escrito com fontes",
+      "referencia": "1 Reis 14:19, 29",
+      "emocion": "agil",
+      "visual": {
+        "query": "crown ancient king"
+      }
+    }
+  ]
+}

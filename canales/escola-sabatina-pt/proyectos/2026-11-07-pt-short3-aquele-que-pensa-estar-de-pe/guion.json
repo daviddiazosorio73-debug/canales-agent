@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "A promessa para a sua tentação mais forte 🛡️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "¡Escuchen esto! (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Deus dará o escape",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A promessa para a sua tentação mais forte 🛡️ #shorts",
+    "descripcion": "Se hoje você se sente firme, este versículo é para você. E se se sente fraco, também.\n\n1 Coríntios 10:12-13\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-08T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Se hoje você se sente firme, este versículo é para você. E se se sente fraco, também.",
+      "texto_pantalla": "Deus dará o escape",
+      "emocion": "gancho",
+      "visual": {
+        "query": "shield light dark"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primeiro Coríntios dez, versículos doze e treze. Paulo alerta: aquele que pensa estar em pé, veja que não caia. E logo traz uma promessa: Deus é fiel e não vai permitir que você seja tentado além das suas forças; junto com a tentação, ele dará o livramento. Alerta e esperança no mesmo texto. Ninguém está acima da queda, e ninguém está fora do alcance da ajuda de Deus. Escreva Deus é fiel se você crê nessa promessa.",
+      "texto_pantalla": "Deus dará o escape",
+      "referencia": "1 Coríntios 10:12-13",
+      "emocion": "agil",
+      "visual": {
+        "query": "person praying sunset"
+      }
+    }
+  ]
+}

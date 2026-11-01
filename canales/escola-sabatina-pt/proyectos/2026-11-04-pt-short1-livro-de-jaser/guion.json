@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "A Bíblia cita livros que NÃO estão na Bíblia 📚",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Fuentes literarias"
+  },
+  "miniatura": {
+    "linea1": "Livros citados na Bíblia",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A Bíblia cita livros que NÃO estão na Bíblia 📚 #shorts",
+    "descripcion": "Você sabia que a Bíblia menciona livros que não estão dentro da Bíblia?\n\nJosué 10:13; 2 Samuel 1:18; Números 21:14\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Você sabia que a Bíblia menciona livros que não estão dentro da Bíblia?",
+      "texto_pantalla": "Livros citados na Bíblia",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient library scrolls shelves"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Josué dez, versículo treze, conta o dia em que o sol parou e diz que isso está escrito no livro de Jasar, que algumas Bíblias chamam de Livro dos Justos. Segundo Samuel um cita esse livro de novo, no lamento de Davi por Saul e Jônatas. E Números vinte e um menciona o livro das guerras do Senhor. O tema de hoje na lição são as fontes que os escritores bíblicos usaram. Eles conheciam os documentos da época e se apoiaram neles, com Deus guiando o que escrever. Comente qual livro da Bíblia você quer estudar mais a fundo.",
+      "texto_pantalla": "Livros citados na Bíblia",
+      "referencia": "Josué 10:13; 2 Samuel 1:18; Números 21:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "old manuscript candle"
+      }
+    }
+  ]
+}

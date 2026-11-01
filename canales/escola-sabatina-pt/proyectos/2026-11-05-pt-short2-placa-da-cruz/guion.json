@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-05",
+  "tema": "4 Evangelhos, 4 versões da placa da cruz ✝️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "El mensaje divino y las imperfecciones humanas"
+  },
+  "miniatura": {
+    "linea1": "Uma mensagem, quatro testemunhas",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "4 Evangelhos, 4 versões da placa da cruz ✝️ #shorts",
+    "descripcion": "O que dizia exatamente a placa sobre a cruz de Jesus? Os quatro Evangelhos não dizem igual.\n\nMateus 27:37; Marcos 15:26; Lucas 23:38; João 19:19\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "O que dizia exatamente a placa sobre a cruz de Jesus? Os quatro Evangelhos não dizem igual.",
+      "texto_pantalla": "Uma mensagem, quatro testemunhas",
+      "emocion": "gancho",
+      "visual": {
+        "query": "wooden cross sunset hill"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Mateus registra: Este é Jesus, o Rei dos judeus. Marcos: O Rei dos judeus. Lucas: Este é o Rei dos judeus. João: Jesus Nazareno, o Rei dos judeus. E João acrescenta que estava escrito em hebraico, latim e grego. Contradição? Não. São quatro testemunhas contando o mesmo fato com as próprias palavras, como faz qualquer testemunha real. A mensagem é a mesma: Jesus morreu como Rei. Compartilhe este vídeo com alguém que estuda a Bíblia.",
+      "texto_pantalla": "Uma mensagem, quatro testemunhas",
+      "referencia": "Mateus 27:37; Marcos 15:26; Lucas 23:38; João 19:19",
+      "emocion": "agil",
+      "visual": {
+        "query": "old inscription stone"
+      }
+    }
+  ]
+}

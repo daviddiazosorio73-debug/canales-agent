@@ -1,6 +1,7 @@
 # Escuela Sabática · 4.º trimestre 2026: «El don de profecía»
 
 Verificado el 2026-11-01. Fuentes: https://www.sabbath.school/LessonBook?lang=2&year=2026&quarter=4 (lista y versículos) y https://escuelasabaticamaestros.com/2026/10/31/leccion-6-los-escritos-profeticos-para-el-7-de-noviembre-de-2026/ (temas diarios de la lección 6).
+Índice para las máquinas: `leccion_2026T4.json` (fechas → lección y tema del día; lo usa `validate.py`). Actualiza ambos.
 Uso: solo número, título, tema del día y pasajes. Nunca copiar el texto de la lección. Títulos PT oficiales: pendientes de verificar.
 
 | # | Lección (sábado de clase) | Versículo para memorizar |

@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "El espíritu de la profecía, según Apocalipsis 🔥",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "El testimonio de Jesús",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El espíritu de la profecía, según Apocalipsis 🔥 #shorts",
+    "descripcion": "Apocalipsis describe al pueblo de Dios del tiempo del fin con dos señales.\n\nApocalipsis 12:17; 19:10\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-06T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Apocalipsis describe al pueblo de Dios del tiempo del fin con dos señales.",
+      "texto_pantalla": "El testimonio de Jesús",
+      "emocion": "gancho",
+      "visual": {
+        "query": "light rays clouds sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Apocalipsis doce, versículo diecisiete, habla de los que guardan los mandamientos de Dios y tienen el testimonio de Jesucristo. Y Apocalipsis diecinueve, versículo diez, explica: porque el testimonio de Jesús es el espíritu de la profecía. Por eso, al estudiar hoy los escritos de Elena de White, la pregunta clave es esta: ¿todo profeta verdadero nos lleva a Jesús y a su Palabra? Esa es la prueba que nunca falla. ¿Qué te ayudó más a conocer a Jesús? Cuéntalo en los comentarios.",
+      "texto_pantalla": "El testimonio de Jesús",
+      "referencia": "Apocalipsis 12:17; 19:10",
+      "emocion": "agil",
+      "visual": {
+        "query": "old book light beam"
+      }
+    }
+  ]
+}

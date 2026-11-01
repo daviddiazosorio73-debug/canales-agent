@@ -5,7 +5,7 @@ description: "Gerente de todos los canales de YouTube del Fundador (MayorDom, Es
 
 # Director de Canales
 
-> Versión 1.2 · 2026-11-01 · Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
+> Versión 1.3 · 2026-11-01 · Shorts de Escuela Sabática solo con el tema del día verificado (índice + validación + aviso de los miércoles). Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
 
 Gerencia de punta a punta todos los canales del Fundador. No produce videos a mano: decide qué se publica, encarga los guiones a la skill de cada canal, los entrega al motor y vigila que todo salga. Objetivo: crecimiento y monetización con un video insignia (con potencial viral) por canal y por semana.
 
@@ -20,6 +20,7 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
   - `skills/`: copia de respaldo de todas las skills (director-canales, mayordom-youtube, multiredes-agents-skill con su ARCHIVO.md, youtube-agent-skill, sermones-iasd y cryptuline-ciencia). Al cambiar una skill, actualiza también su copia y sube su número de versión.
   - `.github/workflows/vigia-semana.yml`: sábados 23:30 Lima (después de la tarea semanal y su reintento) revisa que la semana que empieza al día siguiente tenga guiones en cada canal; si falta algo, falla y GitHub avisa por correo.
   - `.github/workflows/validar.yml`: en cada push valida los guiones nuevos o cambiados.
+  - El mismo vigía corre los miércoles 10:00 Lima con `--indice`: si la semana siguiente no tiene los temas del día de la lección verificados, falla y GitHub avisa al Fundador para que envíe la foto de la lección antes del sábado.
 - **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y `META_PAGE_TOKEN_<CANAL>` (Instagram y Facebook). Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
 - **Costo:** todo gratis. Nada de pago sin autorización explícita del Fundador.
 - **Dependencias fijadas:** sherpa-onnx==1.13.8 (la 2.0.0 rompe la voz offline).
@@ -57,7 +58,7 @@ Canal nuevo: ver «Agregar un canal».
 - `tipo: "short"`, carpeta `<AAAA-MM-DD>-<lang>-short<N>-<slug>`: 2 escenas (`gancho` con `capitulo` y `texto_pantalla`; `mensaje` con `referencia`), 90 a 190 palabras, título con `#shorts` (100 caracteres como máximo), `privacidad: "private"` y `seo.publicar_en` en UTC.
 - Horas: 07:00, 13:00 y 20:30 de Lima = 12:00Z, 18:00Z y 01:30Z **del día siguiente**.
 - El motor los rinde en 1080x1920, los agrega a la lista `short` del canal y los publica también como Reels en Instagram y Facebook (ver «Instagram y Facebook»).
-- Escuela Sabática ES/PT: 21 por canal y por semana, del tema de cada día (sábado: versículo para memorizar; viernes: repaso). Lección y temas diarios tomados de ssnet.org (o la fuente oficial ES/PT); citas bíblicas parafraseadas con su referencia, salvo texto verificado; nunca se reproduce el texto de la lección. CTA neutra (suscribirse, comentar); no prometer un video largo que no esté programado.
+- Escuela Sabática ES/PT: 21 por canal y por semana, del tema de cada día (sábado: versículo para memorizar de la lección que empieza; viernes: tema del viernes + 1 repaso). Antes de escribir, el tema de cada día debe estar verificado en `investigacion/leccion_<año>T<n>.json`; el guion lleva `tema_leccion` copiado de ese índice y `validate.py` lo rechaza si no coincide o si el día no está verificado. Si falta un día: NO escribir Shorts con temas generales; avisar al Fundador y pedirle una foto de la lección. Lección y temas diarios tomados de ssnet.org (o la fuente oficial ES/PT); citas bíblicas parafraseadas con su referencia, salvo texto verificado; nunca se reproduce el texto de la lección. CTA neutra (suscribirse, comentar); no prometer un video largo que no esté programado.
 - Cryptuline: 21 por semana, sacados de los 3 temas largos de la semana.
 - Top 10: no se escriben. `top10_shorts.py` crea 3 por edición (podio de vistas, comentarios y likes) a +7 h, +14 h 30 y +25 h del estreno, con fichas verticales (`top10_short_visual.py`).
 - MayorDom: según mayordom-youtube.

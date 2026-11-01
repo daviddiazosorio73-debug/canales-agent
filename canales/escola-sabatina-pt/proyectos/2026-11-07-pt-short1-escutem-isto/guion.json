@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "O verso para memorizar da nova lição 📢",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "¡Escuchen esto! (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Escrito para nos advertir",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O verso para memorizar da nova lição 📢 #shorts",
+    "descripcion": "Hoje começa a lição sete da Escola Sabatina, e o verso para memorizar é um alerta de amor.\n\n1 Coríntios 10:11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Hoje começa a lição sete da Escola Sabatina, e o verso para memorizar é um alerta de amor.",
+      "texto_pantalla": "Escrito para nos advertir",
+      "emocion": "gancho",
+      "visual": {
+        "query": "desert sunrise path"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primeiro Coríntios dez, versículo onze. Paulo diz que o que aconteceu com Israel no deserto serviu de exemplo e foi escrito para advertir a nós, que vivemos no fim dos tempos. Ou seja, essas histórias antigas têm o seu nome. Não são só passado: são uma mensagem para hoje. Que história da Bíblia já te advertiu ou te protegeu? Conte nos comentários e compartilhe este vídeo com alguém da sua classe. Feliz sábado.",
+      "texto_pantalla": "Escrito para nos advertir",
+      "referencia": "1 Coríntios 10:11",
+      "emocion": "agil",
+      "visual": {
+        "query": "people listening outdoor"
+      }
+    }
+  ]
+}

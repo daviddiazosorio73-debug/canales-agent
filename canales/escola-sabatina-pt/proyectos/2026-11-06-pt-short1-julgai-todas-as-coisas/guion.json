@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "Como saber se uma mensagem vem de Deus? 🤔",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "Julgai todas as coisas",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Como saber se uma mensagem vem de Deus? 🤔 #shorts",
+    "descripcion": "Paulo deixou uma regra simples para toda mensagem que diz vir de Deus.\n\n1 Tessalonicenses 5:20-21\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-06T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Paulo deixou uma regra simples para toda mensagem que diz vir de Deus.",
+      "texto_pantalla": "Julgai todas as coisas",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass open bible"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primeira aos Tessalonicenses cinco: não desprezem as profecias; examinem tudo e retenham o que é bom. Nem rejeitar sem pensar, nem aceitar sem examinar. O tema de hoje na lição são os escritos de Ellen White. A Igreja Adventista crê que o dom de profecia se manifestou no ministério dela, e que os seus escritos são provados pela Bíblia, que é a regra de toda doutrina. Examinar com a Bíblia aberta: essa é a atitude certa. Inscreva-se para mais Escola Sabatina.",
+      "texto_pantalla": "Julgai todas as coisas",
+      "referencia": "1 Tessalonicenses 5:20-21",
+      "emocion": "agil",
+      "visual": {
+        "query": "woman reading old book"
+      }
+    }
+  ]
+}

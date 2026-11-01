@@ -69,6 +69,21 @@ def main():
                 warn.append(f"publicar_en {pub} ya pasó.")
         except ValueError:
             err.append(f"publicar_en inválido: {pub} (usa AAAA-MM-DDTHH:MM:SSZ).")
+    # Escuela Sabática ES/PT: cada Short sigue el tema del día verificado (investigacion/leccion_*.json)
+    ruta = str(Path(sys.argv[1]).resolve())
+    if g["tipo"] == "short" and ("escuela-sabatica" in ruta or "escola-sabatina" in ruta):
+        import json
+        fecha = g.get("fecha", "")
+        dia_idx = None
+        for f in sorted((Path(__file__).resolve().parent.parent / "investigacion").glob("leccion_*.json")):
+            dia_idx = json.loads(f.read_text()).get("fechas", {}).get(fecha) or dia_idx
+        tl = g.get("tema_leccion") or {}
+        if not dia_idx or not dia_idx.get("dia"):
+            err.append(f"Escuela Sabática: el tema del día {fecha} no está verificado en investigacion/leccion_*.json. "
+                       "No escribas temas generales: pide el tema al Fundador y agrégalo al índice.")
+        elif tl.get("dia") != dia_idx["dia"] or tl.get("leccion") != dia_idx["leccion"]:
+            err.append(f"Escuela Sabática: tema_leccion debe ser {{'leccion': {dia_idx['leccion']}, 'dia': '{dia_idx['dia']}'}} "
+                       "(copiado del índice) y el Short debe tratar ese tema.")
     # Cryptuline: cumplimiento (+18, consulta médica, sin espirulina, sin promesas de cura)
     if "cryptuline" in str(Path(sys.argv[1]).resolve()):
         texto = " ".join(e["texto"] for e in g["escenas"]).lower() + " " + seo.get("titulo", "").lower()

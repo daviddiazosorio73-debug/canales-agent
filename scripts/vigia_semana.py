@@ -2,7 +2,10 @@
 
 Uso: python scripts/vigia_semana.py [AAAA-MM-DD]   (domingo de inicio; por defecto, el próximo domingo en Lima)
 Sale con error (GitHub avisa por correo) si falta algún día o tipo. Cryptuline se revisa con 1 semana de adelanto.
+Con --indice (miércoles): revisa que investigacion/leccion_*.json tenga verificado el tema de cada día de esa semana,
+para que el Fundador lo envíe ANTES de la tarea del sábado (sin tema verificado no se escriben Shorts de Escuela Sabática).
 """
+import json
 import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
@@ -22,12 +25,28 @@ def tiene(canal, dia, tipo):
     return any(base.glob(f"{dia.isoformat()}-*-{tipo}-*/guion.json"))
 
 
+def indice(inicio):
+    fechas = {}
+    for f in sorted((ROOT / "investigacion").glob("leccion_*.json")):
+        fechas.update(json.loads(f.read_text()).get("fechas", {}))
+    faltan = [(inicio + timedelta(days=k)).isoformat() for k in range(7)
+              if not (fechas.get((inicio + timedelta(days=k)).isoformat()) or {}).get("dia")]
+    if faltan:
+        print(f"FALTA el tema del día de la lección (Escuela Sabática) para: {', '.join(faltan)}.")
+        print("Envía a Claude una foto de la lección de esa semana (temas del domingo al viernes) antes del sábado.")
+        sys.exit(1)
+    print(f"OK: temas del día verificados para la semana del {inicio}.")
+
+
 def main():
-    if len(sys.argv) > 1:
-        inicio = date.fromisoformat(sys.argv[1])
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if args:
+        inicio = date.fromisoformat(args[0])
     else:
         hoy = (datetime.now(timezone.utc) - timedelta(hours=5)).date()
         inicio = hoy + timedelta(days=(6 - hoy.weekday()) % 7 or 7)
+    if "--indice" in sys.argv:
+        return indice(inicio)
     faltan = []
     for canal, largos in LARGOS.items():
         ini = inicio + timedelta(days=ADELANTO.get(canal, 0))

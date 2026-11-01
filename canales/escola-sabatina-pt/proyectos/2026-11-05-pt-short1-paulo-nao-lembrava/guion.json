@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-05",
+  "tema": "Paulo admitiu que NÃO lembrava de algo 😮",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "El mensaje divino y las imperfecciones humanas"
+  },
+  "miniatura": {
+    "linea1": "Inspirado, mas humano",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Paulo admitiu que NÃO lembrava de algo 😮 #shorts",
+    "descripcion": "Um apóstolo, escrevendo a Bíblia, admitiu que não se lembrava de um detalhe.\n\n1 Coríntios 1:14-16\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Um apóstolo, escrevendo a Bíblia, admitiu que não se lembrava de um detalhe.",
+      "texto_pantalla": "Inspirado, mas humano",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old letter quill ink"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primeiro Coríntios um. Paulo diz que batizou Crispo e Gaio. Depois lembra que também batizou a casa de Estéfanas. E completa que não sabe se batizou mais alguém. Bem humano, não é? O tema de hoje na lição é a mensagem divina transmitida por pessoas imperfeitas. Deus não transformou os profetas em máquinas: usou a memória, o estilo e o jeito de cada um. E mesmo assim a mensagem chegou inteira e confiável. Isso te traz paz? Comente amém.",
+      "texto_pantalla": "Inspirado, mas humano",
+      "referencia": "1 Coríntios 1:14-16",
+      "emocion": "agil",
+      "visual": {
+        "query": "thoughtful man window light"
+      }
+    }
+  ]
+}

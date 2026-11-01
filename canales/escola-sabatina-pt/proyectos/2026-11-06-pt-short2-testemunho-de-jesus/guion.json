@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "O espírito de profecia, segundo Apocalipse 🔥",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "O testemunho de Jesus",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O espírito de profecia, segundo Apocalipse 🔥 #shorts",
+    "descripcion": "Apocalipse descreve o povo de Deus do tempo do fim com dois sinais.\n\nApocalipse 12:17; 19:10\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-06T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Apocalipse descreve o povo de Deus do tempo do fim com dois sinais.",
+      "texto_pantalla": "O testemunho de Jesus",
+      "emocion": "gancho",
+      "visual": {
+        "query": "light rays clouds sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Apocalipse doze, versículo dezessete, fala dos que guardam os mandamentos de Deus e têm o testemunho de Jesus. E Apocalipse dezenove, versículo dez, explica que o testemunho de Jesus é o espírito da profecia. Por isso, ao estudar hoje os escritos de Ellen White, a pergunta-chave é: todo profeta verdadeiro nos leva a Jesus e à sua Palavra? Esse é o teste que nunca falha. O que mais te ajudou a conhecer Jesus? Conte nos comentários e compartilhe.",
+      "texto_pantalla": "O testemunho de Jesus",
+      "referencia": "Apocalipse 12:17; 19:10",
+      "emocion": "agil",
+      "visual": {
+        "query": "old book light beam"
+      }
+    }
+  ]
+}

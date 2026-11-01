@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "Paulo citou poetas gregos para pregar 🏛️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Fuentes literarias"
+  },
+  "miniatura": {
+    "linea1": "«Dele também somos geração»",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Paulo citou poetas gregos para pregar 🏛️ #shorts",
+    "descripcion": "Em Atenas, Paulo pregou Jesus usando uma frase de poetas gregos.\n\nAtos 17:28\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Em Atenas, Paulo pregou Jesus usando uma frase de poetas gregos.",
+      "texto_pantalla": "«Dele também somos geração»",
+      "emocion": "gancho",
+      "visual": {
+        "query": "athens ancient columns"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Atos dezessete, versículo vinte e oito. Diante dos filósofos de Atenas, Paulo diz que em Deus vivemos, nos movemos e existimos, e lembra que alguns dos próprios poetas deles afirmaram: porque dele também somos geração. Paulo pegou uma ideia que o público conhecia e a levou ao Deus verdadeiro. Os escritores bíblicos usaram fontes do seu mundo, mas sempre a serviço da mensagem de Deus. Que frase da sua cultura você usaria para falar de Deus? Escreva nos comentários.",
+      "texto_pantalla": "«Dele também somos geração»",
+      "referencia": "Atos 17:28",
+      "emocion": "agil",
+      "visual": {
+        "query": "greek ruins sunset"
+      }
+    }
+  ]
+}

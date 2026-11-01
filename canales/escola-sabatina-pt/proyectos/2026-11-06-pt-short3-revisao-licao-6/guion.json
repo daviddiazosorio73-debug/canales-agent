@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "A lição 6 em 60 segundos ⏱️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "Lição 6 em um minuto",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A lição 6 em 60 segundos ⏱️ #shorts",
+    "descripcion": "Uma semana sobre os escritos proféticos, em um minuto. Bora?\n\nRomanos 15:4\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Uma semana sobre os escritos proféticos, em um minuto. Bora?",
+      "texto_pantalla": "Lição 6 em um minuto",
+      "emocion": "gancho",
+      "visual": {
+        "query": "calendar week planner"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Domingo: Deus chamou os profetas para escrever. Segunda: eles usaram gêneros e estilos diferentes, história, poesia, cartas e profecia. Terça: tiveram ajudantes, como Baruque com Jeremias e Tércio com Paulo. Quarta: consultaram fontes da época. Quinta: a mensagem é divina, mesmo escrita por mãos humanas. Sexta: os escritos de Ellen White, provados pela Bíblia. E o verso da semana, Romanos quinze quatro: o que foi escrito antes foi escrito para nosso ensino e esperança. Amanhã, leve sua Bíblia para a classe.",
+      "texto_pantalla": "Lição 6 em um minuto",
+      "referencia": "Romanos 15:4",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible morning light"
+      }
+    }
+  ]
+}

@@ -3,6 +3,7 @@ name: Vigía de la semana
 on:
   schedule:
     - cron: "30 4 * * 0"  # domingo 04:30 UTC = sábado 23:30 Lima, después de la tarea semanal (19:52) y su reintento (20:22)
+    - cron: "0 15 * * 3"  # miércoles 15:00 UTC = 10:00 Lima: ¿están verificados los temas del día de la próxima lección?
   workflow_dispatch:
     inputs:
       inicio:
@@ -15,5 +16,9 @@ jobs:
     timeout-minutes: 5
     steps:
       - uses: actions/checkout@v4
+      - name: Temas del día de Escuela Sabática (miércoles)
+        if: github.event.schedule == '0 15 * * 3'
+        run: python scripts/vigia_semana.py --indice
       - name: Revisar guiones de la semana
+        if: github.event.schedule != '0 15 * * 3'
         run: python scripts/vigia_semana.py ${{ github.event.inputs.inicio }}

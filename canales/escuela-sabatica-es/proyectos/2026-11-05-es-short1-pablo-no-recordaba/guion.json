@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-05",
+  "tema": "Pablo admitió que NO se acordaba de algo 😮",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "El mensaje divino y las imperfecciones humanas"
+  },
+  "miniatura": {
+    "linea1": "Inspirado, pero humano",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Pablo admitió que NO se acordaba de algo 😮 #shorts",
+    "descripcion": "Un apóstol, escribiendo la Biblia, admitió que no se acordaba de algo.\n\n1 Corintios 1:14-16\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un apóstol, escribiendo la Biblia, admitió que no se acordaba de algo.",
+      "texto_pantalla": "Inspirado, pero humano",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old letter quill ink"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primera de Corintios uno. Pablo dice que bautizó a Crispo y a Gayo. Luego recuerda que también bautizó a la familia de Estéfanas. Y añade que no sabe si bautizó a algún otro. Así de humano. El tema de hoy en la lección es el mensaje divino y las imperfecciones humanas. Dios no convirtió a los profetas en máquinas: usó su memoria, su estilo y su personalidad. Y aun así, el mensaje llegó completo y confiable. ¿Te da paz saber que Dios trabaja con personas imperfectas? Comenta amén.",
+      "texto_pantalla": "Inspirado, pero humano",
+      "referencia": "1 Corintios 1:14-16",
+      "emocion": "agil",
+      "visual": {
+        "query": "thoughtful man window light"
+      }
+    }
+  ]
+}

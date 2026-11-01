@@ -1,0 +1,557 @@
+{
+ "trimestre": "2026T4",
+ "tema": "El don de profecía",
+ "fuentes": [
+  "https://www.sabbath.school/LessonBook?lang=2&year=2026&quarter=4",
+  "https://escuelasabaticamaestros.com/2026/10/31/leccion-6-los-escritos-profeticos-para-el-7-de-noviembre-de-2026/"
+ ],
+ "nota": "dia = tema del día verificado (null = falta verificar: NO escribir Shorts de ese día; pedirlo al Fundador). Sábado = versículo para memorizar de la lección que empieza. Títulos PT oficiales: sin verificar.",
+ "fechas": {
+  "2026-09-26": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": "El Creador habla (versículo para memorizar)"
+  },
+  "2026-09-27": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": null
+  },
+  "2026-09-28": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": null
+  },
+  "2026-09-29": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": null
+  },
+  "2026-09-30": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": null
+  },
+  "2026-10-01": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": null
+  },
+  "2026-10-02": {
+   "leccion": 1,
+   "titulo": "El Creador habla",
+   "versiculo": "Hebreos 1:1-2",
+   "dia": null
+  },
+  "2026-10-03": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": "El llamado de un profeta (versículo para memorizar)"
+  },
+  "2026-10-04": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": null
+  },
+  "2026-10-05": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": null
+  },
+  "2026-10-06": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": null
+  },
+  "2026-10-07": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": null
+  },
+  "2026-10-08": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": null
+  },
+  "2026-10-09": {
+   "leccion": 2,
+   "titulo": "El llamado de un profeta",
+   "versiculo": "Isaías 6:8",
+   "dia": null
+  },
+  "2026-10-10": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": "Profetas del Antiguo Testamento (versículo para memorizar)"
+  },
+  "2026-10-11": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": null
+  },
+  "2026-10-12": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": null
+  },
+  "2026-10-13": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": null
+  },
+  "2026-10-14": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": null
+  },
+  "2026-10-15": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": null
+  },
+  "2026-10-16": {
+   "leccion": 3,
+   "titulo": "Profetas del Antiguo Testamento",
+   "versiculo": "2 Crónicas 20:20",
+   "dia": null
+  },
+  "2026-10-17": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": "Profetas del Nuevo Testamento (versículo para memorizar)"
+  },
+  "2026-10-18": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": null
+  },
+  "2026-10-19": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": null
+  },
+  "2026-10-20": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": null
+  },
+  "2026-10-21": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": null
+  },
+  "2026-10-22": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": null
+  },
+  "2026-10-23": {
+   "leccion": 4,
+   "titulo": "Profetas del Nuevo Testamento",
+   "versiculo": "1 Corintios 12:4-6",
+   "dia": null
+  },
+  "2026-10-24": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": "Revelación e inspiración (versículo para memorizar)"
+  },
+  "2026-10-25": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": null
+  },
+  "2026-10-26": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": null
+  },
+  "2026-10-27": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": null
+  },
+  "2026-10-28": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": null
+  },
+  "2026-10-29": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": null
+  },
+  "2026-10-30": {
+   "leccion": 5,
+   "titulo": "Revelación e inspiración",
+   "versiculo": "Apocalipsis 1:1-2",
+   "dia": null
+  },
+  "2026-10-31": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "Los escritos proféticos (versículo para memorizar)"
+  },
+  "2026-11-01": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "El llamado a escribir"
+  },
+  "2026-11-02": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "Géneros y estilos literarios"
+  },
+  "2026-11-03": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "Asistentes literarios"
+  },
+  "2026-11-04": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "Fuentes literarias"
+  },
+  "2026-11-05": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "El mensaje divino y las imperfecciones humanas"
+  },
+  "2026-11-06": {
+   "leccion": 6,
+   "titulo": "Los escritos proféticos",
+   "versiculo": "Romanos 15:4",
+   "dia": "Los escritos de Elena de White"
+  },
+  "2026-11-07": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": "¡Escuchen esto! (versículo para memorizar)"
+  },
+  "2026-11-08": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": null
+  },
+  "2026-11-09": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": null
+  },
+  "2026-11-10": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": null
+  },
+  "2026-11-11": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": null
+  },
+  "2026-11-12": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": null
+  },
+  "2026-11-13": {
+   "leccion": 7,
+   "titulo": "¡Escuchen esto!",
+   "versiculo": "1 Corintios 10:11",
+   "dia": null
+  },
+  "2026-11-14": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": "Interpretación de los escritos proféticos (versículo para memorizar)"
+  },
+  "2026-11-15": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": null
+  },
+  "2026-11-16": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": null
+  },
+  "2026-11-17": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": null
+  },
+  "2026-11-18": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": null
+  },
+  "2026-11-19": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": null
+  },
+  "2026-11-20": {
+   "leccion": 8,
+   "titulo": "Interpretación de los escritos proféticos",
+   "versiculo": "Lucas 24:27",
+   "dia": null
+  },
+  "2026-11-21": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": "Poniendo a prueba a los profetas (versículo para memorizar)"
+  },
+  "2026-11-22": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": null
+  },
+  "2026-11-23": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": null
+  },
+  "2026-11-24": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": null
+  },
+  "2026-11-25": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": null
+  },
+  "2026-11-26": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": null
+  },
+  "2026-11-27": {
+   "leccion": 9,
+   "titulo": "Poniendo a prueba a los profetas",
+   "versiculo": "1 Juan 4:1",
+   "dia": null
+  },
+  "2026-11-28": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "2026-11-29": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": null
+  },
+  "2026-11-30": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": null
+  },
+  "2026-12-01": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": null
+  },
+  "2026-12-02": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": null
+  },
+  "2026-12-03": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": null
+  },
+  "2026-12-04": {
+   "leccion": 10,
+   "titulo": "Autoridad y relevancia proféticas",
+   "versiculo": "Hebreos 4:12",
+   "dia": null
+  },
+  "2026-12-05": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": "Manifestación profética en momentos cruciales (versículo para memorizar)"
+  },
+  "2026-12-06": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": null
+  },
+  "2026-12-07": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": null
+  },
+  "2026-12-08": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": null
+  },
+  "2026-12-09": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": null
+  },
+  "2026-12-10": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": null
+  },
+  "2026-12-11": {
+   "leccion": 11,
+   "titulo": "Manifestación profética en momentos cruciales",
+   "versiculo": "Amós 3:7",
+   "dia": null
+  },
+  "2026-12-12": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": "Revelaciones proféticas del fin de los tiempos (versículo para memorizar)"
+  },
+  "2026-12-13": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": null
+  },
+  "2026-12-14": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": null
+  },
+  "2026-12-15": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": null
+  },
+  "2026-12-16": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": null
+  },
+  "2026-12-17": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": null
+  },
+  "2026-12-18": {
+   "leccion": 12,
+   "titulo": "Revelaciones proféticas del fin de los tiempos",
+   "versiculo": "Joel 2:28-29",
+   "dia": null
+  },
+  "2026-12-19": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": "Bendiciones de la palabra profética (versículo para memorizar)"
+  },
+  "2026-12-20": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": null
+  },
+  "2026-12-21": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": null
+  },
+  "2026-12-22": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": null
+  },
+  "2026-12-23": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": null
+  },
+  "2026-12-24": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": null
+  },
+  "2026-12-25": {
+   "leccion": 13,
+   "titulo": "Bendiciones de la palabra profética",
+   "versiculo": "2 Timoteo 3:16-17",
+   "dia": null
+  }
+ }
+}

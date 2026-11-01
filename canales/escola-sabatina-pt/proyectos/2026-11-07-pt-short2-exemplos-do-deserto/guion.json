@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "Tiveram TUDO… e mesmo assim caíram 😔",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "¡Escuchen esto! (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Privilégios não bastam",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Tiveram TUDO… e mesmo assim caíram 😔 #shorts",
+    "descripcion": "Viram milagres todos os dias. E, mesmo assim, a maioria não agradou a Deus.\n\n1 Coríntios 10:1-6\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Viram milagres todos os dias. E, mesmo assim, a maioria não agradou a Deus.",
+      "texto_pantalla": "Privilégios não bastam",
+      "emocion": "gancho",
+      "visual": {
+        "query": "red sea waves"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primeiro Coríntios dez. Paulo lembra que todo Israel esteve debaixo da nuvem, todos passaram pelo mar, todos comeram do mesmo alimento espiritual e beberam da pedra, e a pedra era Cristo. Mas Deus não se agradou da maioria deles. Paulo diz que isso nos serve de exemplo. Privilégios espirituais não substituem uma fé fiel. Estar na igreja não é o mesmo que andar com Deus. O que essa história te ensina? Escreva e compartilhe este vídeo.",
+      "texto_pantalla": "Privilégios não bastam",
+      "referencia": "1 Coríntios 10:1-6",
+      "emocion": "agil",
+      "visual": {
+        "query": "desert cloud pillar sky"
+      }
+    }
+  ]
+}
