@@ -1,0 +1,36 @@
+name: Temas de la lección (Escuela Sabática)
+
+on:
+  schedule:
+    - cron: "0 14 * * 6"   # sábado 09:00 Lima
+    - cron: "0 20 * * 6"   # sábado 15:00 Lima
+    - cron: "30 23 * * 6"  # sábado 18:30 Lima (antes de la tarea semanal de las 19:52)
+    - cron: "0 12 * * 0"   # domingo 07:00 Lima (respaldo)
+  workflow_dispatch:
+    inputs:
+      url:
+        description: "URL de la lección en escuelasabaticamaestros.com (vacío = la más reciente)"
+        required: false
+      probar:
+        description: "Solo mostrar lo leído, sin guardar"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  indice:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Leer los temas del día
+        run: python scripts/leccion_indice.py ${{ github.event.inputs.url }} ${{ github.event.inputs.probar == 'true' && '--probar' || '' }}
+      - name: Guardar
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add investigacion
+          git diff --cached --quiet || git commit -m "Temas del día de la lección (escuelasabaticamaestros.com)"
+          git pull --rebase --autostash -q && git push -q || true

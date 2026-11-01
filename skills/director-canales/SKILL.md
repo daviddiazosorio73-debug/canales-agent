@@ -20,7 +20,8 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
   - `skills/`: copia de respaldo de todas las skills (director-canales, mayordom-youtube, multiredes-agents-skill con su ARCHIVO.md, youtube-agent-skill, sermones-iasd y cryptuline-ciencia). Al cambiar una skill, actualiza también su copia y sube su número de versión.
   - `.github/workflows/vigia-semana.yml`: sábados 23:30 Lima (después de la tarea semanal y su reintento) revisa que la semana que empieza al día siguiente tenga guiones en cada canal; si falta algo, falla y GitHub avisa por correo.
   - `.github/workflows/validar.yml`: en cada push valida los guiones nuevos o cambiados.
-  - El mismo vigía corre los miércoles 10:00 Lima con `--indice`: si la semana siguiente no tiene los temas del día de la lección verificados, falla y GitHub avisa al Fundador para que envíe la foto de la lección antes del sábado.
+  - `.github/workflows/leccion-semanal.yml`: cada sábado (09:00, 15:00 y 18:30 Lima) lee los temas del día de la lección en https://escuelasabaticamaestros.com (fuente indicada por el Fundador) y los guarda en `investigacion/leccion_<año>T<n>.json`. Solo títulos y fechas, nunca el texto.
+  - El vigía corre también el sábado 19:00 Lima con `--indice`: si aun así faltan temas, falla y GitHub avisa al Fundador para que envíe una foto de la lección.
 - **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y `META_PAGE_TOKEN_<CANAL>` (Instagram y Facebook). Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
 - **Costo:** todo gratis. Nada de pago sin autorización explícita del Fundador.
 - **Dependencias fijadas:** sherpa-onnx==1.13.8 (la 2.0.0 rompe la voz offline).

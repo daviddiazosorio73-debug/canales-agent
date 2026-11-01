@@ -2,7 +2,7 @@
 
 Uso: python scripts/vigia_semana.py [AAAA-MM-DD]   (domingo de inicio; por defecto, el próximo domingo en Lima)
 Sale con error (GitHub avisa por correo) si falta algún día o tipo. Cryptuline se revisa con 1 semana de adelanto.
-Con --indice (miércoles): revisa que investigacion/leccion_*.json tenga verificado el tema de cada día de esa semana,
+Con --indice (sábado 19:00 Lima): revisa que investigacion/leccion_*.json tenga verificado el tema de cada día de esa semana,
 para que el Fundador lo envíe ANTES de la tarea del sábado (sin tema verificado no se escriben Shorts de Escuela Sabática).
 """
 import json
@@ -33,7 +33,7 @@ def indice(inicio):
               if not (fechas.get((inicio + timedelta(days=k)).isoformat()) or {}).get("dia")]
     if faltan:
         print(f"FALTA el tema del día de la lección (Escuela Sabática) para: {', '.join(faltan)}.")
-        print("Envía a Claude una foto de la lección de esa semana (temas del domingo al viernes) antes del sábado.")
+        print("leccion-semanal.yml no pudo leerlos de escuelasabaticamaestros.com: envía a Claude una foto de la lección (temas del domingo al viernes).")
         sys.exit(1)
     print(f"OK: temas del día verificados para la semana del {inicio}.")
 
