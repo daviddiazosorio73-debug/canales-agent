@@ -2,7 +2,8 @@
 
 Verificado el 2026-11-01. Fuentes: https://www.sabbath.school/LessonBook?lang=2&year=2026&quarter=4 (lista y versículos) y https://escuelasabaticamaestros.com/2026/10/31/leccion-6-los-escritos-profeticos-para-el-7-de-noviembre-de-2026/ (temas diarios de la lección 6).
 Índice para las máquinas: `leccion_2026T4.json` (fechas → lección y tema del día; lo usa `validate.py`). Actualiza ambos.
-Uso: solo número, título, tema del día y pasajes. Nunca copiar el texto de la lección. Títulos PT oficiales: pendientes de verificar.
+Uso: solo número, título, tema del día y pasajes. Nunca copiar el texto de la lección. Portugués: se usan los temas ES traducidos (orden del Fundador) mientras no haya títulos PT oficiales verificados.
+PDF oficiales (lecciones 7 a 13), para leerlos en una sesión con el Fundador presente: enlaces en https://www.sabbath.school/Lesson?lang=2&year=2026&quarter=4&lesson=7 (cambiar lesson=8 … 13).
 
 | # | Lección (sábado de clase) | Versículo para memorizar |
 |---|---|---|
