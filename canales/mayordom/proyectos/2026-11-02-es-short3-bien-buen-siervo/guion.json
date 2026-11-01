@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "Las 5 palabras que todo cristiano quiere escuchar ✨",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Bien, buen siervo y fiel»",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Las 5 palabras que todo cristiano quiere escuchar ✨ #shorts",
+    "descripcion": "Hay una frase que todo creyente quisiera escuchar algún día de labios de Jesús. (Mateo 25:21)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay una frase que todo creyente quisiera escuchar algún día de labios de Jesús.",
+      "texto_pantalla": "«Bien, buen siervo y fiel»",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sunrise golden field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Mateo veinticinco, versículo veintiuno: Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré; entra en el gozo de tu señor. Fíjate: no dice buen siervo exitoso, ni buen siervo famoso. Dice fiel. Y fiel sobre poco. Dios no espera que hagas cosas enormes. Espera que seas fiel en lo pequeño de cada día. Escribe fiel en lo poco si quieres vivir así esta semana. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "«Bien, buen siervo y fiel»",
+      "referencia": "Mateo 25:21",
+      "emocion": "agil",
+      "visual": {
+        "query": "smiling elderly man light"
+      }
+    }
+  ]
+}

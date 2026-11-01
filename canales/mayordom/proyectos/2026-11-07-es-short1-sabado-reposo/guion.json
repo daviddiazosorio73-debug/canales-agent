@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "Por qué el sábado también es mayordomía ⏳",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "El tiempo también es de Dios",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por qué el sábado también es mayordomía ⏳ #shorts",
+    "descripcion": "Hablamos mucho de dinero. Pero hay un recurso que Dios también pide: tu tiempo. (Éxodo 20:8-11)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hablamos mucho de dinero. Pero hay un recurso que Dios también pide: tu tiempo.",
+      "texto_pantalla": "El tiempo también es de Dios",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sunrise calm lake"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el cuarto mandamiento, Éxodo veinte, Dios pide acordarnos del día de reposo para santificarlo. Nos invita a trabajar seis días y a dedicar el séptimo como reposo para Él. Así como el diezmo reconoce que Dios es dueño del dinero, el sábado reconoce que Dios es dueño del tiempo. No es una pérdida de horas. Es una inversión en tu relación con Él y con tu familia. Feliz sábado. ¿Cómo lo vas a vivir hoy? Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "El tiempo también es de Dios",
+      "referencia": "Éxodo 20:8-11",
+      "emocion": "agil",
+      "visual": {
+        "query": "family walking nature"
+      }
+    }
+  ]
+}

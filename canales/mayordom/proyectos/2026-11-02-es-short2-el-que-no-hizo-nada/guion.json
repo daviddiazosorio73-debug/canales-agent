@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "Lo perdió TODO sin robar nada 😳",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "No robó. No gastó. Lo enterró.",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo perdió TODO sin robar nada 😳 #shorts",
+    "descripcion": "Este hombre no robó, no malgastó, no hizo nada malo. Y lo perdió todo. (Mateo 25:24-28)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Este hombre no robó, no malgastó, no hizo nada malo. Y lo perdió todo.",
+      "texto_pantalla": "No robó. No gastó. Lo enterró.",
+      "emocion": "gancho",
+      "visual": {
+        "query": "shovel digging hole soil"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es el tercer siervo de la parábola de los talentos. Recibió un talento, una suma enorme, y lo enterró. Cuando su señor volvió, le explicó que tuvo miedo. Y el señor le quitó el talento. ¿Por qué? Porque en el reino de Dios, no usar lo que recibiste también es infidelidad. El miedo entierra lo que el amor multiplica. ¿Hay algo que Dios te dio y que tienes enterrado? Hoy a las seis de la tarde lo vemos a fondo. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "No robó. No gastó. Lo enterró.",
+      "referencia": "Mateo 25:24-28",
+      "emocion": "agil",
+      "visual": {
+        "query": "empty hole dirt ground"
+      }
+    }
+  ]
+}

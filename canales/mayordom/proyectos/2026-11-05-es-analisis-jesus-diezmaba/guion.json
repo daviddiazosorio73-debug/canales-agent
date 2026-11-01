@@ -1,0 +1,164 @@
+{
+  "lang": "es",
+  "tipo": "analisis",
+  "fecha": "2026-11-05",
+  "serie": "Análisis MayorDom (martes y jueves) · Insignia de la semana",
+  "tema": "¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿JESÚS",
+    "linea2": "DIEZMABA?",
+    "etiqueta": "ANÁLISIS · MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo que dice la Biblia)",
+    "descripcion": "¿Jesús diezmaba? Viajamos al primer siglo para ver cómo era el diezmo en tiempos de Jesús, qué hacían los fariseos, qué criticó Jesús en Mateo 23:23 y qué pistas da la Biblia sobre su propia vida. Sin exagerar y sin esconder nada.\n\n📖 Levítico 27:30 · Números 18:21 · Deuteronomio 14:22-23 · Lucas 11:42 · Lucas 18:9-14 · Mateo 23:23 · Gálatas 4:4 · Mateo 5:17 · Hebreos 4:15 · Mateo 17:24-27 · Lucas 2:22-24 · Juan 12:6 · Juan 13:29 · Lucas 8:2-3 (Reina-Valera 1960)\n\n💬 ¿Qué pista te pareció más fuerte? Cuéntanos con respeto.\nAnalizamos ideas, no personas. Narración con la voz del autor recreada con IA.",
+    "tags": [
+      "jesús diezmaba",
+      "el diezmo en tiempos de jesús",
+      "diezmo",
+      "Mateo 23:23",
+      "fariseos y el diezmo",
+      "diezmo en el nuevo testamento",
+      "es el diezmo para hoy",
+      "Jesús y el dinero",
+      "mayordomía cristiana",
+      "mayordomía bíblica",
+      "análisis bíblico",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "Diezmo",
+      "JesúsDiezmaba"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "¿Jesús diezmaba? Es una pregunta que muchos se hacen y pocos responden con la Biblia abierta. Unos dicen: claro que sí, era judío. Otros responden: Jesús nunca habló de diezmar, eso es invento de las iglesias. Hoy vamos a viajar dos mil años atrás, a la Galilea y la Jerusalén del primer siglo, para ver cómo era el diezmo en tiempos de Jesús, qué hacían los fariseos, qué criticó el Maestro y qué aprobó. Vamos a separar lo que la Biblia dice de lo que la Biblia no dice. Y al final vamos a responder la pregunta del título con honestidad, sin exagerar y sin esconder nada. Te adelanto que la respuesta es más interesante que un simple sí o no. Quédate conmigo.",
+      "texto_pantalla": "¿Jesús diezmaba?",
+      "visual": {
+        "query": "ancient jerusalem stone street"
+      },
+      "emocion": "gancho"
+    },
+    {
+      "id": "ley",
+      "capitulo": "El diezmo que Jesús conoció",
+      "texto": "Empecemos por el marco. Jesús nació y creció en un pueblo que vivía según la ley de Moisés. Esa ley establecía el diezmo como algo santo para Dios. Levítico veintisiete, versículo treinta, dice que el diezmo de la tierra, de la semilla y del fruto de los árboles pertenece a Jehová. Números dieciocho, versículo veintiuno, explica su destino: los diezmos eran para los levitas, a cambio de su servicio en el santuario, porque ellos no recibieron herencia de tierra como las demás tribus. Y Deuteronomio catorce menciona el diezmo del grano, del vino y del aceite. Es decir, en la época de Jesús el diezmo no era una idea abstracta. Era parte de la vida diaria: del campo, de la cosecha, del mercado. Cuando un campesino de Galilea recogía su trigo o sus aceitunas, sabía que una décima parte no le pertenecía. Ese es el mundo en el que Jesús trabajó como carpintero y luego predicó.",
+      "texto_pantalla": "Una décima parte no te pertenece",
+      "visual": {
+        "query": "olive harvest ancient farmers"
+      },
+      "emocion": "ensenanza",
+      "referencia": "Levítico 27:30 · Números 18:21 · Deuteronomio 14:22-23"
+    },
+    {
+      "id": "fariseos",
+      "capitulo": "Los fariseos: diezmo hasta de las hierbas",
+      "texto": "Los fariseos eran el grupo religioso más estricto de la época, y eran famosos por su cuidado en diezmar. El propio Jesús lo menciona. En Lucas once, versículo cuarenta y dos, dice que ellos diezmaban la menta, la ruda y toda hortaliza. Imagina el nivel de detalle: separar la décima parte de las hierbitas del huerto, de esas que se usan para dar sabor a la comida. Y en la parábola del fariseo y el publicano, en Lucas dieciocho, versículo doce, el fariseo ora diciendo: ayuno dos veces a la semana, doy diezmos de todo lo que gano. Para él, el diezmo era una medalla. Algo para presentar ante Dios como mérito. Y aquí aparece el primer problema que Jesús confronta: no el diezmo, sino el orgullo. El publicano, que no tenía nada que presumir, solo dijo: Dios, sé propicio a mí, pecador. Y Jesús afirmó que fue el publicano quien volvió a su casa justificado, y no el fariseo.",
+      "texto_pantalla": "Diezmaban hasta la menta",
+      "visual": {
+        "query": "fresh mint herbs basket"
+      },
+      "emocion": "narrativo",
+      "referencia": "Lucas 11:42 · Lucas 18:9-14"
+    },
+    {
+      "id": "mateo23",
+      "capitulo": "Lo que Jesús criticó y lo que aprobó",
+      "texto": "El pasaje clave es Mateo veintitrés, versículo veintitrés. Jesús dice: ¡Ay de vosotros, escribas y fariseos, hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejáis lo más importante de la ley: la justicia, la misericordia y la fe. Esto era necesario hacer, sin dejar de hacer aquello. Lee despacio la última frase. Esto, es decir, la justicia, la misericordia y la fe, era necesario hacer. Sin dejar de hacer aquello, es decir, diezmar. Jesús no critica el diezmo. Critica un diezmo sin corazón, un diezmo que convive con la injusticia y la falta de misericordia. Es como alguien que paga puntualmente su diezmo, pero maltrata a sus empleados o humilla a su familia. Jesús dice: el diezmo no compensa eso. Pero tampoco dice: como lo más importante es la misericordia, ya no diezmen. Pide las dos cosas, en su orden correcto. Primero el corazón, luego la mano. Y fíjate en algo más: Jesús pronuncia estas palabras en la semana de su pasión, pocos días antes de la cruz. No es un comentario al pasar. Es parte de su último gran discurso público en el templo. Allí, frente a los líderes religiosos de su nación, Jesús deja claro que la fidelidad en lo material nunca debe separarse de la fidelidad en lo moral. Un diezmo exacto con un corazón injusto no agrada a Dios. Pero un corazón justo no desprecia el diezmo.",
+      "texto_pantalla": "«Esto era necesario hacer, sin dejar de hacer aquello»",
+      "visual": {
+        "query": "scales justice old wood"
+      },
+      "emocion": "enfasis",
+      "referencia": "Mateo 23:23"
+    },
+    {
+      "id": "vida",
+      "capitulo": "¿Qué sabemos de la vida de Jesús?",
+      "texto": "Ahora vamos a la pregunta del título. ¿La Biblia dice en algún versículo: y Jesús dio su diezmo? No. No existe ese versículo, y sería deshonesto inventarlo. Pero la Biblia sí nos da varias pistas sólidas. Primera: Gálatas cuatro, versículo cuatro, dice que Jesús nació bajo la ley. Segunda: en Mateo cinco, versículo diecisiete, Jesús afirma que no vino a abrogar la ley ni los profetas, sino a cumplir. Tercera: Hebreos cuatro, versículo quince, enseña que fue tentado en todo, pero sin pecado. Si Jesús hubiera retenido lo que la ley declaraba santo para Dios, habría quebrantado la ley que vino a cumplir. Cuarta: en Mateo diecisiete, cuando le preguntan a Pedro si su Maestro pagaba el impuesto del templo, Jesús lo paga, para no ser motivo de tropiezo. Y quinta: su familia cumplió la ley desde su nacimiento, como muestra Lucas dos en la presentación en el templo. Todo apunta en la misma dirección: un Jesús fiel a la ley de Dios en cada detalle de su vida.",
+      "texto_pantalla": "No hay versículo… pero sí hay pistas",
+      "visual": {
+        "query": "magnifying glass old bible"
+      },
+      "emocion": "ensenanza",
+      "referencia": "Gálatas 4:4 · Mateo 5:17 · Hebreos 4:15 · Mateo 17:24-27 · Lucas 2:22-24"
+    },
+    {
+      "id": "bolsa",
+      "capitulo": "Una bolsa para los pobres",
+      "texto": "Hay otro detalle precioso en los Evangelios. Jesús y sus discípulos tenían una bolsa común. Juan doce y Juan trece nos cuentan que Judas la llevaba, y que cuando Judas salió durante la última cena, algunos pensaron que Jesús le había mandado comprar lo necesario o dar algo a los pobres. Es decir, era una costumbre del grupo de Jesús dar a los pobres. Y en Lucas ocho, versículos dos y tres, leemos que varias mujeres, entre ellas María Magdalena, Juana y Susana, servían a Jesús con sus bienes. El ministerio de Jesús fue sostenido por la generosidad de sus seguidores. Y Él, que no tenía dónde recostar su cabeza, compartía lo poco que había con los necesitados. Aquí vemos algo que va más allá del diez por ciento: una vida entera entregada. Jesús no solo cumplió la ley del diezmo. La superó con una generosidad total que terminó en la cruz, donde lo dio todo.",
+      "texto_pantalla": "Una bolsa común para dar a los pobres",
+      "visual": {
+        "query": "leather pouch coins wooden table"
+      },
+      "emocion": "narrativo",
+      "referencia": "Juan 12:6 · Juan 13:29 · Lucas 8:2-3"
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta: ¿Jesús diezmaba?",
+      "texto": "Entonces, respondamos con honestidad. La Biblia no tiene un versículo que diga literalmente que Jesús diezmó. Pero sí afirma que nació bajo la ley, que vino a cumplirla, que nunca pecó, que pagó el impuesto del templo para no ser tropiezo y que, cuando habló del diezmo, dijo que era necesario hacerlo, sin descuidar la justicia, la misericordia y la fe. Con todo eso, la conclusión más coherente con el texto es que Jesús fue fiel a lo que la ley de su tiempo pedía, incluido el diezmo. Y algo más importante todavía: su vida nos enseña que el diezmo no es el techo de la generosidad, sino el punto de partida. Los fariseos diezmaban la menta y se quedaban ahí. Jesús entregó su vida entera. Por eso el cristiano no diezma para ganar el cielo ni para presumir. Diezma porque reconoce a Dios como dueño, y ofrenda porque ama al Dios que primero se dio por él.",
+      "texto_pantalla": "El diezmo no es el techo: es el punto de partida",
+      "visual": {
+        "query": "sunrise cross hill light"
+      },
+      "emocion": "enfasis"
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Conclusión práctica",
+      "texto": "¿Qué hacemos con esto hoy? Tres decisiones prácticas. Primera: revisa tu motivación. Si diezmas, pregúntate si lo haces como el fariseo, para sentirte mejor que otros, o como un acto humilde de adoración. Segunda: revisa tu fidelidad. Si no diezmas, no te lo digo para condenarte, sino para invitarte. Empieza este mes, separándolo apenas recibas tu ingreso, y entrégalo con oración. Tercera: no te quedes en el diez por ciento. Mira a quién tienes cerca: un vecino enfermo, un estudiante sin recursos, un proyecto misionero, una familia que pasa necesidad. Lo que Jesús hacía con su bolsa común lo puedes hacer tú con la tuya. Justicia, misericordia y fe, sin dejar de hacer aquello. Esa es la mayordomía que Jesús vivió y que nos invita a vivir. Y si alguna vez alguien te dice que Jesús nunca habló del diezmo, ya sabes dónde mostrarle: Mateo veintitrés, versículo veintitrés.",
+      "texto_pantalla": "Justicia, misericordia y fe… sin dejar de hacer aquello",
+      "visual": {
+        "query": "open bible hands reading"
+      },
+      "emocion": "calido"
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Tu opinión",
+      "texto": "Ahora quiero escucharte. ¿Sabías que Jesús habló directamente del diezmo en Mateo veintitrés? ¿Qué pista de las que vimos hoy te pareció más fuerte? Escríbelo en los comentarios con respeto, porque aquí aprendemos juntos. Si este análisis te ayudó, compártelo con esa persona que siempre pregunta si el diezmo es para hoy. Y no te pierdas mañana viernes a las seis de la tarde: cerramos la serie Parábolas del mayordomo con la ofrenda más pequeña de la Biblia, la de una viuda pobre, y descubriremos por qué Jesús dijo que ella dio más que todos. Suscríbete y activa la campana. Dios te bendiga.",
+      "texto_pantalla": "¿Qué pista te convenció más?",
+      "visual": {
+        "query": "candle light old scroll"
+      },
+      "emocion": "reflexivo"
+    }
+  ],
+  "voz_fundador": true,
+  "res_4k": true,
+  "insignia": true,
+  "titulos_alternativos": [
+    "¿Jesús diezmaba? Lo que la Biblia dice (y lo que no dice)",
+    "Jesús y el diezmo: la frase de Mateo 23:23 que casi nadie lee completa"
+  ],
+  "miniaturas_alternativas": [
+    [
+      "¿JESÚS",
+      "DIEZMABA?"
+    ],
+    [
+      "¿Sí o",
+      "NO?"
+    ],
+    [
+      "MATEO",
+      "23:23"
+    ]
+  ]
+}

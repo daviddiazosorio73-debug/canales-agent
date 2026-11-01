@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "¿Jesús ALABÓ a un tramposo? 🤔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Jesús aprobó la trampa?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Jesús ALABÓ a un tramposo? 🤔 #shorts",
+    "descripcion": "Un administrador hace trampa con las deudas de su patrón. Y al final, el amo lo alaba. (Lucas 16:1-8)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un administrador hace trampa con las deudas de su patrón. Y al final, el amo lo alaba.",
+      "texto_pantalla": "¿Jesús aprobó la trampa?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old ledger accountant candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es la parábola del mayordomo infiel, en Lucas dieciséis. Pero lee bien: el texto lo llama mayordomo malo. El amo no alaba su deshonestidad. Alaba que pensó en su futuro con sagacidad. Jesús usa un mal ejemplo para una gran lección: si la gente de este mundo planifica tan bien su futuro, ¿cuánto más deberíamos planificar el eterno nosotros? Hoy a las seis de la tarde resolvemos el enigma completo. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "¿Jesús aprobó la trampa?",
+      "referencia": "Lucas 16:1-8",
+      "emocion": "agil",
+      "visual": {
+        "query": "question mark shadow"
+      }
+    }
+  ]
+}

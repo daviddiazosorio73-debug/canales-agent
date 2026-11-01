@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "El reto del sobre para este sábado ✉️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Prepara tu ofrenda con oración",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El reto del sobre para este sábado ✉️ #shorts",
+    "descripcion": "Mañana es sábado. ¿Vas a buscar monedas en el bolsillo cuando pase el ofrendero? (Marcos 12:41)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Mañana es sábado. ¿Vas a buscar monedas en el bolsillo cuando pase el ofrendero?",
+      "texto_pantalla": "Prepara tu ofrenda con oración",
+      "emocion": "gancho",
+      "visual": {
+        "query": "envelope written thank you"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Te propongo un reto. Esta noche, antes de dormir, prepara tu ofrenda con oración. Agradece a Dios por la semana. Decide una cantidad que represente tu gratitud y que te cueste un poco. Ponla en un sobre y escribe encima: gracias. Jesús se sentó a mirar cómo daba la gente. Que mañana vea en tu ofrenda un acto de amor. Escribe acepto el reto si te unes. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Prepara tu ofrenda con oración",
+      "referencia": "Marcos 12:41",
+      "emocion": "agil",
+      "visual": {
+        "query": "family praying evening"
+      }
+    }
+  ]
+}

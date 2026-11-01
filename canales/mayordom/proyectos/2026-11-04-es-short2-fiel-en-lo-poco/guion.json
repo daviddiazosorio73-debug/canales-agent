@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "Lo que haces con 1 sol revela lo que harías con 1 millón 💸",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Fiel en lo muy poco",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo que haces con 1 sol revela lo que harías con 1 millón 💸 #shorts",
+    "descripcion": "¿Quieres saber cómo manejarías un millón? Mira cómo manejas una moneda. (Lucas 16:10)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Quieres saber cómo manejarías un millón? Mira cómo manejas una moneda.",
+      "texto_pantalla": "Fiel en lo muy poco",
+      "emocion": "gancho",
+      "visual": {
+        "query": "single coin palm"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús lo dijo en Lucas dieciséis, versículo diez: El que es fiel en lo muy poco, también en lo más es fiel; y el que en lo muy poco es injusto, también en lo más es injusto. El vuelto mal dado que no devuelves. La pequeña deuda que olvidas. La promesa de ofrenda que no cumples. Lo pequeño es el campo de entrenamiento de Dios. Hoy a las seis, el sermón completo. Escribe fiel en lo poco. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Fiel en lo muy poco",
+      "referencia": "Lucas 16:10",
+      "emocion": "agil",
+      "visual": {
+        "query": "piggy bank coins table"
+      }
+    }
+  ]
+}

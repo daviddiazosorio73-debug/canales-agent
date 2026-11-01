@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-05",
+  "tema": "La frase de Jesús sobre el diezmo que casi nadie lee completa",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "«Esto era necesario hacer»",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La frase de Jesús sobre el diezmo que casi nadie lee completa #shorts",
+    "descripcion": "Jesús sí habló del diezmo. Y lo dijo en la última semana antes de la cruz. (Mateo 23:23)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús sí habló del diezmo. Y lo dijo en la última semana antes de la cruz.",
+      "texto_pantalla": "«Esto era necesario hacer»",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old scroll candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Mateo veintitrés, versículo veintitrés: ¡Ay de vosotros, escribas y fariseos, hipócritas! porque diezmáis la menta y el eneldo y el comino, y dejáis lo más importante de la ley: la justicia, la misericordia y la fe. Esto era necesario hacer, sin dejar de hacer aquello. Jesús pide las dos cosas: el corazón y la mano. Hoy a las seis respondemos si Jesús diezmaba. ¿Conocías este versículo? Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "«Esto era necesario hacer»",
+      "referencia": "Mateo 23:23",
+      "emocion": "agil",
+      "visual": {
+        "query": "scales of justice wood"
+      }
+    }
+  ]
+}

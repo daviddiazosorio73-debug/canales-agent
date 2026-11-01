@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "La calculadora de Dios es distinta a la tuya 🧮",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dios mide lo que te queda",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La calculadora de Dios es distinta a la tuya 🧮 #shorts",
+    "descripcion": "Tú cuentas cuánto das. Dios cuenta cuánto te queda. (Marcos 12:44)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-06T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tú cuentas cuánto das. Dios cuenta cuánto te queda.",
+      "texto_pantalla": "Dios mide lo que te queda",
+      "emocion": "gancho",
+      "visual": {
+        "query": "calculator coins desk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Esa es la lección de la viuda pobre. Los ricos dieron mucho, pero se quedaron con muchísimo más. Ella dio poco, pero no se quedó con nada. Para Dios, una ofrenda no se mide por el número, sino por el amor y el sacrificio. Por eso una ofrenda pequeña puede ser enorme en el cielo. Y una grande puede no costar nada. ¿Tu ofrenda te cuesta algo? Hoy a las seis, el sermón completo. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Dios mide lo que te queda",
+      "referencia": "Marcos 12:44",
+      "emocion": "agil",
+      "visual": {
+        "query": "balance scale weighing"
+      }
+    }
+  ]
+}

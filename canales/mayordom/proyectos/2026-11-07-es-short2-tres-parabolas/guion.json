@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "3 historias de Jesús sobre el dinero en 60 segundos ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "No eres dueño: eres mayordomo",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "3 historias de Jesús sobre el dinero en 60 segundos ⏱️ #shorts",
+    "descripcion": "Tres historias de Jesús. Una sola idea. Aquí va en un minuto. (Mateo 25 · Lucas 16 · Marcos 12)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tres historias de Jesús. Una sola idea. Aquí va en un minuto.",
+      "texto_pantalla": "No eres dueño: eres mayordomo",
+      "emocion": "gancho",
+      "visual": {
+        "query": "three candles row"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Uno: los talentos. Todo lo que tienes te fue confiado, y lo que usas para Dios se multiplica. Dos: el mayordomo infiel. Usa lo temporal para ganar lo eterno, sé fiel en lo muy poco, y recuerda que no puedes servir a Dios y a las riquezas. Tres: la viuda pobre. Dios no mide la cantidad, sino el corazón. Una idea: no eres dueño, eres mayordomo. Los tres sermones están en el canal. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "No eres dueño: eres mayordomo",
+      "referencia": "Mateo 25 · Lucas 16 · Marcos 12",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible table light"
+      }
+    }
+  ]
+}

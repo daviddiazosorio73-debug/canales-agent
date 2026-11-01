@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "Deja de compararte (Jesús lo explicó así) 🙌",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Cada uno según su capacidad",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deja de compararte (Jesús lo explicó así) 🙌 #shorts",
+    "descripcion": "¿Te sientes menos porque otros tienen más talentos que tú? (Mateo 25:15)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Te sientes menos porque otros tienen más talentos que tú?",
+      "texto_pantalla": "Cada uno según su capacidad",
+      "emocion": "gancho",
+      "visual": {
+        "query": "people comparing phones"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En la parábola de los talentos, el señor reparte a cada uno conforme a su capacidad. Uno recibe cinco, otro dos, otro uno. Pero el de dos recibe exactamente las mismas palabras de aprobación que el de cinco. Dios no te mide por la cantidad que recibiste, sino por la fidelidad con lo que te dio. Deja de mirar el talento del otro y empieza a usar el tuyo. Hoy a las seis de la tarde, el sermón completo. Escribe en los comentarios un talento que Dios te dio. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Cada uno según su capacidad",
+      "referencia": "Mateo 25:15",
+      "emocion": "agil",
+      "visual": {
+        "query": "single candle light dark"
+      }
+    }
+  ]
+}

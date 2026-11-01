@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "¿Dios quiere tu dinero o tu ALEGRÍA? 😊",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dios ama al dador alegre",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Dios quiere tu dinero o tu ALEGRÍA? 😊 #shorts",
+    "descripcion": "Muchos usan este versículo para decir que el diezmo ya no es necesario. (2 Corintios 9:7)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muchos usan este versículo para decir que el diezmo ya no es necesario.",
+      "texto_pantalla": "Dios ama al dador alegre",
+      "emocion": "gancho",
+      "visual": {
+        "query": "joyful giving gift hands"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Corintios nueve, versículo siete: Cada uno dé como propuso en su corazón: no con tristeza, ni por necesidad, porque Dios ama al dador alegre. Es verdad: Dios no quiere ofrendas forzadas. Pero un corazón alegre no busca dar lo mínimo. Busca agradar a Dios. La alegría no reemplaza la fidelidad, la llena de sentido. Hoy a las seis de la tarde analizamos la frase el diezmo no se exige. ¿Tú qué opinas? Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Dios ama al dador alegre",
+      "referencia": "2 Corintios 9:7",
+      "emocion": "agil",
+      "visual": {
+        "query": "smiling woman church"
+      }
+    }
+  ]
+}

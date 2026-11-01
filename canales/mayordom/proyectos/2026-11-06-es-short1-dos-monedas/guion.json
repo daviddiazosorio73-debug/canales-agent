@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "Dio 2 monedas y Jesús dijo que dio MÁS que todos 🪙",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dio menos… y más que todos",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dio 2 monedas y Jesús dijo que dio MÁS que todos 🪙 #shorts",
+    "descripcion": "Dos monedas pequeñas. Y Jesús dijo que valían más que todas las ofrendas de los ricos. (Marcos 12:41-44)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-06T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dos monedas pequeñas. Y Jesús dijo que valían más que todas las ofrendas de los ricos.",
+      "texto_pantalla": "Dio menos… y más que todos",
+      "emocion": "gancho",
+      "visual": {
+        "query": "two small coins hand"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Marcos doce. Jesús se sienta frente al arca de las ofrendas y mira cómo la gente da. Los ricos echan mucho. Una viuda pobre echa dos blancas, las monedas de menor valor. Y Jesús dice que ella echó más que todos. ¿Por qué? Porque ellos dieron de lo que les sobraba, y ella, de su pobreza, dio todo su sustento. Hoy a las seis de la tarde cerramos la serie con esta historia. Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Dio menos… y más que todos",
+      "referencia": "Marcos 12:41-44",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient temple columns"
+      }
+    }
+  ]
+}

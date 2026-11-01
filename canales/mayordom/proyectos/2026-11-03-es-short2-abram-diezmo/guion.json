@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "El diezmo existía ANTES de Moisés 📜",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Antes de la ley",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El diezmo existía ANTES de Moisés 📜 #shorts",
+    "descripcion": "Dicen que el diezmo es solo de la ley de Moisés. Pero hay un detalle en Génesis. (Génesis 14:18-20)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "diezmos y ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dicen que el diezmo es solo de la ley de Moisés. Pero hay un detalle en Génesis.",
+      "texto_pantalla": "Antes de la ley",
+      "emocion": "gancho",
+      "visual": {
+        "query": "desert tents ancient"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Génesis catorce, siglos antes del monte Sinaí, Abram le da los diezmos de todo a Melquisedec, sacerdote del Dios Altísimo. Y en Génesis veintiocho, Jacob promete apartar el diezmo de todo lo que Dios le dé. No había ley escrita todavía. Era una respuesta de fe y gratitud. Hebreos siete vuelve a mirar ese diezmo de Abraham para hablar de Cristo. Hoy a las seis, el análisis completo. ¿Lo sabías? Comparte este video con alguien que lo necesite y suscríbete a MayorDom.",
+      "texto_pantalla": "Antes de la ley",
+      "referencia": "Génesis 14:18-20",
+      "emocion": "agil",
+      "visual": {
+        "query": "old parchment scroll"
+      }
+    }
+  ]
+}
