@@ -34,10 +34,12 @@ def lineas(htm):
 
 
 def ultima_leccion(portada):
-    urls = set(re.findall(r'href="(https://escuelasabaticamaestros\.com/(\d{4})/(\d{2})/(\d{2})/leccion-\d+-[^"#?]+)"', portada))
+    """URL de la lección más reciente enlazada en la portada (absoluta o relativa); None si la portada ya es la lección."""
+    urls = set(re.findall(r'href="((?:https://escuelasabaticamaestros\.com)?/(\d{4})/(\d{2})/(\d{2})/leccion-\d+-[^"#?]+)"', portada))
     if not urls:
-        sys.exit("No encontré ninguna lección en la portada.")
-    return max(urls, key=lambda u: (u[1], u[2], u[3]))[0]
+        return None
+    u = max(urls, key=lambda u: (u[1], u[2], u[3]))[0]
+    return u if u.startswith("http") else SITIO.rstrip("/") + u
 
 
 def parsear(htm):
@@ -67,8 +69,13 @@ def parsear(htm):
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    url = args[0] if args else ultima_leccion(bajar(SITIO))
-    num, titulo, dias = parsear(bajar(url))
+    if args:
+        url, htm = args[0], bajar(args[0])
+    else:
+        portada = bajar(SITIO)
+        url = ultima_leccion(portada) or SITIO
+        htm = portada if url == SITIO else bajar(url)
+    num, titulo, dias = parsear(htm)
     if "--probar" in sys.argv:  # solo muestra lo leído, no guarda
         print(f"Lección {num}: {titulo} ({url})")
         for f, (d, t) in sorted(dias.items()):
