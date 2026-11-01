@@ -17,7 +17,7 @@ Por eso el guion es un comentario original sobre el tema, no una versión de la 
 - Usa de la lección solo los datos públicos: número, título, tema del día y los pasajes bíblicos citados. Nunca copies, parafrasees de cerca, traduzcas ni sigas párrafo a párrafo el texto de la lección.
 - No reproduzcas las preguntas de la lección. Formula preguntas propias.
 - El aporte original tiene que ser real: contexto histórico, aplicación práctica actual, una ilustración propia, conexiones entre textos y una pregunta para meditar.
-- Cita textos bíblicos literalmente solo si tienes el texto verificado de una versión permitida (`version_biblica` en guion.json). Si no lo tienes, menciona la referencia y parafrasea. Nunca inventes el texto de un versículo.
+- Citas bíblicas, de Elena G. de White y científicas: sigue la Regla única de citas (todas las skills; ver director-canales). Nunca inventes el texto de un versículo.
 - **Espíritu de Profecía (Elena G. de White):** cada cita lleva libro, capítulo o página y es breve, una o dos oraciones como máximo. Antes de usarla, verifícala palabra por palabra en egwwritings.org, en la edición del idioma del video. Si no puedes verificarla, no la cites como textual: menciona la obra y resume la idea con tus palabras. Nunca atribuyas a Elena G. de White una frase que no hayas verificado. Las citas que ya trae la lección sirven como pista de dónde buscar, pero no se copian de la lección.
 - Varía la estructura, los ganchos y las ilustraciones entre videos para que no sean repetitivos.
 

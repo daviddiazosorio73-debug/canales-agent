@@ -1,28 +1,18 @@
-"""Narración por escena. Motor por defecto GRATIS: edge-tts (voces neuronales de Microsoft).
-Opcional: ElevenLabs si existe ELEVENLABS_API_KEY y TTS_MOTOR=elevenlabs.
+"""Narración por escena, 100 % gratis. TTS_MOTOR: piper (offline, por defecto), chatterbox (voz del
+Fundador) o edge (voces neuronales de Microsoft). ElevenLabs (de pago) fue retirado el 2026-11-01.
 Voz edge: variable EDGE_VOICE (por defecto es-MX-JorgeNeural). Ritmo: EDGE_RATE (ej. -5%).
 
 Uso: python tts.py <proyecto_dir> [--mock]
 Lee <proyecto_dir>/guion.json; escribe audio/<id>.mp3 y audio/<id>.align.json
 --mock: audio en silencio con duración estimada (para probar sin API key).
 """
-import base64
 import os
 import sys
 from pathlib import Path
 
 from common import duration, load_json, run, save_json
 
-API = "https://api.elevenlabs.io/v1/text-to-speech/{voice}/with-timestamps"
-MODEL = os.environ.get("ELEVENLABS_MODEL", "eleven_multilingual_v2")
 WPS = 2.5  # palabras/segundo para estimación en modo mock
-
-
-def voice_for(lang):
-    v = os.environ.get(f"ELEVENLABS_VOICE_ID_{lang.upper()}") or os.environ.get("ELEVENLABS_VOICE_ID")
-    if not v:
-        sys.exit(f"Falta ELEVENLABS_VOICE_ID_{lang.upper()} (o ELEVENLABS_VOICE_ID).")
-    return v
 
 
 def mock_scene(text, mp3, align):
@@ -37,33 +27,6 @@ def mock_scene(text, mp3, align):
         ends.append((i + 1) * step)
     save_json({"characters": chars, "character_start_times_seconds": starts,
                "character_end_times_seconds": ends}, align)
-
-
-def real_scene(text, mp3, align, voice, lang, prev_text, next_text):
-    import requests
-    key = os.environ.get("ELEVENLABS_API_KEY") or sys.exit("Falta ELEVENLABS_API_KEY.")
-    body = {
-        "text": text,
-        "model_id": MODEL,
-        "language_code": lang,
-        "voice_settings": {"stability": 0.5, "similarity_boost": 0.8, "style": 0.15,
-                           "use_speaker_boost": True},
-    }
-    if prev_text:
-        body["previous_text"] = prev_text[-500:]
-    if next_text:
-        body["next_text"] = next_text[:500]
-    r = requests.post(API.format(voice=voice), params={"output_format": "mp3_44100_128"},
-                      headers={"xi-api-key": key}, json=body, timeout=300)
-    if r.status_code == 400 and "language_code" in r.text:
-        body.pop("language_code")  # algunos modelos no aceptan language_code
-        r = requests.post(API.format(voice=voice), params={"output_format": "mp3_44100_128"},
-                          headers={"xi-api-key": key}, json=body, timeout=300)
-    if r.status_code != 200:
-        sys.exit(f"ElevenLabs {r.status_code}: {r.text[:500]}")
-    data = r.json()
-    Path(mp3).write_bytes(base64.b64decode(data["audio_base64"]))
-    save_json(data.get("alignment") or data.get("normalized_alignment"), align)
 
 
 EDGE_VOICE = os.environ.get("EDGE_VOICE", "es-MX-JorgeNeural")
@@ -219,7 +182,8 @@ def main():
     out.mkdir(exist_ok=True)
     escenas = g["escenas"]
     motor = os.environ.get("TTS_MOTOR", "piper")
-    voice = voice_for(lang) if (not mock and motor == "elevenlabs") else None
+    if motor not in ("piper", "chatterbox", "edge"):
+        sys.exit(f"TTS_MOTOR desconocido: {motor} (usa piper, chatterbox o edge; todo gratis).")
     for i, e in enumerate(escenas):
         mp3, align = out / f"{e['id']}.mp3", out / f"{e['id']}.align.json"
         if mp3.exists() and align.exists():
@@ -234,10 +198,6 @@ def main():
             chatterbox_scene(e["texto"], mp3, align, lang, emo)
         elif motor == "edge":
             edge_scene(e["texto"], mp3, align)
-        else:
-            prev_t = escenas[i - 1]["texto"] if i else ""
-            next_t = escenas[i + 1]["texto"] if i + 1 < len(escenas) else ""
-            real_scene(e["texto"], mp3, align, voice, lang, prev_t, next_t)
         print(f"+ {e['id']}")
 
 

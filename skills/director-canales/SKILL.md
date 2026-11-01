@@ -5,6 +5,8 @@ description: "Gerente de todos los canales de YouTube del Fundador (MayorDom, Es
 
 # Director de Canales
 
+> Versión 1.2 · 2026-11-01 · Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
+
 Gerencia de punta a punta todos los canales del Fundador. No produce videos a mano: decide qué se publica, encarga los guiones a la skill de cada canal, los entrega al motor y vigila que todo salga. Objetivo: crecimiento y monetización con un video insignia (con potencial viral) por canal y por semana.
 
 ## Arquitectura (no cambiar sin avisar al Fundador)
@@ -14,8 +16,10 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
   - `.github/workflows/producir.yml`: cada hora produce y sube lo que se publica en las próximas 36 h (o `ventana_horas` del canal) (voz gratis, render, miniatura, SEO y subida programada), publica los Reels en Instagram y Facebook, y commitea `publicado.json` y `reporte.md`. Si algo falla, la corrida termina en error y GitHub avisa al Fundador por correo.
   - `.github/workflows/investigar.yml`: cada sábado a las 18:00 (Lima) escribe `investigacion/<canal>.md` (mejores videos propios de 28 días y outliers del nicho de 7 días) e `investigacion/cryptuline_pubmed.md` (estudios de PubMed según `canales/cryptuline/ruta.json`), sin usar Claude.
   - `.github/workflows/top10-semanal.yml`: Top 10 completo (datos, guiones, producción, cadena) y, al final, `scripts/top10_shorts.py`: 3 Shorts por edición.
-  - `scripts/`: pipeline (validate, tts, visuals, render, thumbnail, metadata, upload, runner, investigacion, top10_*).
-  - `skills/`: copia de respaldo de estas skills. Al cambiar una skill, actualiza también su copia.
+  - `scripts/`: pipeline (validate, tts, visuals, render, thumbnail, metadata, upload, runner, meta, investigacion, top10_*).
+  - `skills/`: copia de respaldo de todas las skills (director-canales, mayordom-youtube, multiredes-agents-skill con su ARCHIVO.md, youtube-agent-skill, sermones-iasd y cryptuline-ciencia). Al cambiar una skill, actualiza también su copia y sube su número de versión.
+  - `.github/workflows/vigia-semana.yml`: sábados 23:30 Lima (después de la tarea semanal y su reintento) revisa que la semana que empieza al día siguiente tenga guiones en cada canal; si falta algo, falla y GitHub avisa por correo.
+  - `.github/workflows/validar.yml`: en cada push valida los guiones nuevos o cambiados.
 - **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y `META_PAGE_TOKEN_<CANAL>` (Instagram y Facebook). Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
 - **Costo:** todo gratis. Nada de pago sin autorización explícita del Fundador.
 - **Dependencias fijadas:** sherpa-onnx==1.13.8 (la 2.0.0 rompe la voz offline).
@@ -27,7 +31,7 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
 | escuela-sabatica-es | Maestro DD Escuela Sabática (ES) | **Solo Shorts** | 3 Shorts diarios 07:00/13:00/20:30 del tema del día de la lección |
 | escola-sabatina-pt | A Escola Sabatina (PT) | **Solo Shorts** (escritos nativos en PT) | 3 Shorts diarios 07:00/13:00/20:30 do tema do dia |
 | top10-redes | Top 10 Redes Sociales | Solo el libreto del miércoles (CLAUDE.md del repo y multiredes-agents-skill) | Corte miércoles 00:00 · ediciones el domingo a las 06:00 locales de cada continente · Shorts automáticos |
-| cryptuline | Cryptuline · Salud con ciencia | Todo (reglas en CLAUDE.md del repo), con 1 semana de adelanto | Largos 18:00: martes salud · viernes nutrición · domingo salud espiritual (IASD) · 3 Shorts diarios 07:00/13:00/20:30 de esos 3 temas |
+| cryptuline | Cryptuline · Salud con ciencia | Todo, con cryptuline-ciencia (y CLAUDE.md del repo), con 1 semana de adelanto | Largos 18:00: martes salud · viernes nutrición · domingo salud espiritual (IASD) · 3 Shorts diarios 07:00/13:00/20:30 de esos 3 temas |
 
 **Escuela Sabática ES/PT, videos largos:** no se producen en el motor. El historial del repo no tiene ningún proyecto largo de estos canales (se subieron fuera del motor, desde el kit del PC del Fundador; ya están hasta la lección 9). Nunca escribas largos de Escuela Sabática en el motor sin que el Fundador lo pida: duplicarías lecciones ya subidas. El primer Short que el motor suba prueba que existen los secretos `REFRESH_TOKEN_ES_SABATICA` y `REFRESH_TOKEN_PT_SABATINA`; si `reporte.md` dice que falta alguno, usa `/token`.
 
@@ -93,7 +97,7 @@ Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo sa
 Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish; la cuenta de Instagram debe ser profesional y estar vinculada a la Página). Si falta, no falla: no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels; si no existe, falta el secreto.
 
 ## Prioridad de subida (orden del Fundador)
-1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline (`prioridad` en `canales.json`). Lo que sale en las próximas 12 h siempre va primero, por hora, para no perder ningún horario. Cuota diaria de YouTube compartida (~20 videos/día; reinicio 02:00 Lima): si se agota, el motor pausa solo con `canales/cuota.json` y no envía correo de fallo.
+1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline (`prioridad` en `canales.json`). Lo que sale en las próximas 12 h siempre va primero, por hora, para no perder ningún horario. Cuota diaria de YouTube compartida (~20 videos/día; reinicio 02:00 Lima): si se agota, el motor pausa solo con `canales/cuota.json` y no envía correo de fallo. Volumen actual: unos 116 videos por semana (~17 por día).
 
 ## Si `reporte.md` muestra fallos
 Cuota de YouTube: el motor pausa solo hasta el reinicio (02:05 Lima) y sigue por prioridad. Token vencido, revocado o secreto faltante: `/token`. Error de guion: corregir y hacer push. Error de una dependencia: fijar la versión que funciona en el workflow. Avisar solo si hay algo que el Fundador deba hacer.
@@ -108,6 +112,19 @@ Cuota de YouTube: el motor pausa solo hasta el reinicio (02:05 Lima) y sigue por
 1. Generar el enlace: `https://accounts.google.com/o/oauth2/v2/auth` con el client_id de la app, `redirect_uri=https://developers.google.com/oauthplayground`, `response_type=code`, `access_type=offline`, `prompt=consent` y los scopes `youtube.upload`, `youtube`, `youtube.force-ssl` y `yt-analytics.readonly` (sin Drive: las cuentas de marca no tienen Drive).
 2. El Fundador abre el enlace en una ventana privada, elige el canal correcto y pega el código `4/0...`.
 3. Canjear en `https://www.googleapis.com/oauth2/v4/token` (grant_type=authorization_code), verificar con `channels.list mine=true` que el canal sea el correcto y entregar el refresh token para el secreto de GitHub. El client_secret lo provee el Fundador; no se guarda.
+
+## Regla única de citas (manda en todas las skills)
+1. **Biblia:** texto literal solo si se verificó palabra por palabra en una fuente (bibliaparalela.com, biblegateway.com, YouVersion o el impreso oficial) y siempre con su versión. En versiones con copyright (RVR1960, NVI, NTV, LBLA, ARA), hasta 2 o 3 versículos seguidos por cita; pasajes más largos: parafrasear con la referencia o usar una versión de dominio público (RV1909) y decirlo. Sin verificar: referencia + paráfrasis.
+2. **Elena G. de White:** textual solo si se verificó en egwwritings.org, con libro y página, de 1 a 2 oraciones; si no, resumen sin comillas nombrando la obra.
+3. **Ciencia:** solo estudios recuperados de PubMed (u otra base revisada por pares): autor, año, revista y PMID; cifras redondeadas hacia abajo.
+4. **Lección de Escuela Sabática:** solo número, título, tema del día y pasajes (`investigacion/leccion_<año>T<n>.md`); nunca su texto.
+5. Lo que no se pueda verificar no se inventa: se marca y se avisa al Fundador.
+
+## Gobierno y calidad (checklist «nivel 100»)
+- Antes del push, una segunda revisión por un agente distinto: citas, cifras, títulos, tono y suspenso.
+- Las tareas programadas no pueden leer páginas web: los índices verificados (lección del trimestre, capítulos de *Consejos sobre mayordomía cristiana*) se guardan en `investigacion/` cuando hay una sesión con el Fundador.
+- Instagram y Facebook: en pausa hasta que el Fundador cree los tokens de Página de Meta (semana del 2 de noviembre de 2026). No reportarlo como fallo.
+- El checklist de mejoras vive en el documento «Skills de los canales · Revisión y control de avances».
 
 ## Reglas
 - Respuestas al Fundador: cortas, concisas y verificables. Guías paso a paso, un clic a la vez (no es programador).

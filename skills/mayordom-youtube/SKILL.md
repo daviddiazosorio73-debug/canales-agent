@@ -3,22 +3,24 @@ name: "mayordom-youtube"
 description: "Escribe los guiones del canal YouTube @MayorDom (Mayordomía Bíblica): sermones lun/mié/vie, análisis mar/jue, 3 shorts diarios y podcast; el motor canales-agent produce y publica."
 ---
 
-# MayorDom YouTube — producción y publicación de punta a punta
+# MayorDom YouTube — guiones y publicación vía motor
 
-Canal: **MayorDom** (@MayorDom, ID `UCxGgMCMbyiCvRo_T-haI_Ug`, Perú). Idioma: español neutro latinoamericano. Todo gratis.
+> Versión 1.1 · 2026-11-01 · Regla única de citas; índice de CMC en el repo; segunda revisión antes del push.
+
+Canal: **MayorDom** (@MayorDom, ID `UCxGgMCMbyiCvRo_T-haI_Ug`, Perú). Idioma: español neutro latinoamericano. Todo gratis. La gerencia (calendario y qué se escribe) es de la skill director-canales.
 
 ## Fuentes de contenido
-- Biblia: la versión de mayor impacto para el tema (RVR1960, NVI, NTV, LBLA, etc.) o combinadas. Cada cita lleva su versión. Texto literal solo si está verificado en una fuente (bibliaparalela.com, biblegateway, o el texto impreso del material oficial); si no, se cita la referencia y se parafrasea.
-- Elena G. de White, en especial *Consejos sobre mayordomía cristiana* (edición en español: 15 secciones, 68 capítulos; egwwritings.org es_CMC(CS)). Citas breves, con libro y página, verificadas.
+- Biblia: la versión de mayor impacto para el tema (RVR1960, NVI, NTV, LBLA, etc.) o combinadas. Cada cita lleva su versión y sigue la Regla única de citas (todas las skills; ver director-canales).
+- Elena G. de White, en especial *Consejos sobre mayordomía cristiana* (edición en español: 15 secciones, 68 capítulos; egwwritings.org es_CMC(CS)). Citas según la Regla única de citas (todas las skills; ver director-canales). Capítulo de la semana: tomarlo de `investigacion/cmc_indice.md` (índice verificado); si falta, no inventar el título: avisar al Fundador.
 - Material del Fundador en Drive: carpeta `1nSUHFNb5wjCPDuzfHilRuSwZ2M4GiiO1` (Sermonario de la Semana de Mayordomía 2026 «Todo por amor a Él» y libro).
 - Material oficial (sermonarios, lecciones): se adapta con redacción original, se acredita en la descripción y no se copia párrafo a párrafo.
 
 ## Formatos y calendario (hora de Lima, UTC−5)
 | Formato | `tipo` | Cuándo | Duración |
 |---|---|---|---|
-| Sermón del capítulo de la semana (3 por capítulo) | `sermon` | Lunes, miércoles y viernes | 10–24 min |
-| Análisis de otros autores (enriquecer, o corregir y desmentir con fuentes) | `analisis` | Martes y jueves | 10–20 min |
-| Shorts / Reels (3 diarios) | `short` | 07:00 · 13:00 · 20:30 | 40–75 s, 9:16 |
+| Sermón del capítulo de la semana (3 por capítulo) | `sermon` | Lunes, miércoles y viernes 18:00 | 10–24 min |
+| Análisis de otros autores (enriquecer, o corregir y desmentir con fuentes) | `analisis` | Martes y jueves 18:00 | 10–20 min |
+| Shorts / Reels (3 diarios) | `short` | 07:00 · 13:00 · 20:30 (12:00Z · 18:00Z · 01:30Z del día siguiente) | 90–190 palabras, 9:16 |
 | Podcast (audio más portada) | podcast | Según el plan | Libre |
 | Eventos (p. ej. Semana de Mayordomía: 1 sermón por noche) | `sermon` | 18:00 | 10–24 min |
 
@@ -30,9 +32,12 @@ Serie principal: un capítulo de *Consejos sobre mayordomía cristiana* por sema
 ## Estructura del `analisis`
 1. Gancho, 2. Qué dice el autor o video analizado (resumen breve, sin reproducirlo), 3. Lo que es correcto y suma, 4. Lo que hay que corregir, con Biblia y EGW verificadas, 5. Conclusión práctica, 6. Pregunta para comentarios. Tono respetuoso: se corrigen ideas, no se ataca a personas.
 
+## Shorts
+2 escenas (`gancho` con `capitulo` y `texto_pantalla`; `mensaje` con `referencia`), título con #shorts, carpeta `<AAAA-MM-DD>-es-short<N>-<slug>`.
+
 ## Producción (motor canales-agent, automático)
-1. Claude escribe `canales/mayordom/proyectos/<AAAA-MM-DD>-es-<tipo>-<slug>/guion.json` (esquema de youtube-agent-skill; un ejemplo: cualquier proyecto existente del canal). Antes, lista los proyectos: no repitas un día y tipo que ya exista.
-2. `python scripts/validate.py <proyecto>`, commit y push a main.
+1. Claude escribe `canales/mayordom/proyectos/<AAAA-MM-DD>-es-<tipo>-<slug>/guion.json` (esquema de youtube-agent-skill; ejemplo: cualquier proyecto existente del canal). Antes, lista los proyectos: no repitas un día y tipo que ya exista.
+2. `python scripts/validate.py <proyecto>`; segunda revisión por un agente distinto (citas, cifras, tono); commit y push a main.
 3. El workflow `producir.yml` (cada hora) produce lo que se publica en las próximas 36 h: voz gratis (Piper `vits-piper-es_MX-claude-high`; Chatterbox con la voz del Fundador si `"voz_fundador": true`), imágenes, subtítulos, render (Shorts 1080x1920; insignia 4K), miniatura, SEO, subida y lista automática por tipo.
 4. Imágenes propias opcionales en `imagenes/<id>.jpg`. No representar a Jesús ni a profetas como personas identificables.
 5. Revisa el resultado en `publicado.json` (URL) y los logs del workflow si algo falló. Nunca borres un `publicado.json`.
@@ -43,10 +48,10 @@ Serie principal: un capítulo de *Consejos sobre mayordomía cristiana* por sema
 - Portada cuadrada de 3000×3000 para Spotify for Creators.
 
 ## SEO
-- Título de 60 a 90 caracteres, con la palabra clave al inicio.
+- Título de 60 a 90 caracteres, con la palabra clave al inicio (Shorts: 100 como máximo, con #shorts).
 - Descripción: los primeros 150 caracteres con el valor del video, pasajes bíblicos, citas de EGW, una pregunta para comentar y el aviso «Narración con voz sintética».
 - Etiquetas: 10 a 15, con un total de 500 caracteres como máximo. Hashtags: 3 como máximo.
-- Activar «Contenido alterado o sintético» cuando corresponda. Asignar playlist: serie, Shorts o Podcast.
+- Contenido sintético declarado (lo hace el motor). Listas automáticas por tipo (`canales.json`).
 
 ## Publicación
 - **YouTube:** la hace el motor con `REFRESH_TOKEN_MAYORDOM` (secreto de GitHub): sube en privado con `seo.publicar_en` (UTC; Lima = UTC−5) y YouTube lo hace público a esa hora. Sin `publicar_en`, queda privado.
@@ -55,5 +60,5 @@ Serie principal: un capítulo de *Consejos sobre mayordomía cristiana* por sema
 
 ## Reglas
 - Prohibido inventar citas, cifras o títulos. Lo que no se pueda verificar se marca [SIN VERIFICAR] y no se publica.
-- Respuestas al Fundador: cortas, concisas y verificables.
+- Respuestas al Fundador: cortas, concisas y verificables. Nunca escribir secretos.
 - Coordinación de roles: `mayordom-agent-skill` (`/responsabilidad`).

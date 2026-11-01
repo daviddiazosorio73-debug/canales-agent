@@ -1,9 +1,11 @@
 ---
 name: youtube-agent-skill
-description: Produce videos largos para YouTube sobre la lección de Escuela Sabática (Escola Sabatina) en español y portugués, de punta a punta. Incluye guion original para la semana completa de sábado a sábado (intro del sábado, temas diarios de domingo a jueves, resumen del viernes y repaso del sábado con Espíritu de Profecía), narración con voz IA (ElevenLabs), imágenes, subtítulos, render con FFmpeg, miniatura, SEO y subida a YouTube. Úsala siempre que el usuario pida un video, guion, miniatura, SEO o publicación de la lección de Escuela Sabática, el tema del día, el resumen de la semana, "el video de hoy", /youtube-agent-skill, o cuando hable del canal de YouTube de la lección, aunque no diga "skill".
+description: Produce videos largos para YouTube sobre la lección de Escuela Sabática (Escola Sabatina) en español y portugués, de punta a punta. Incluye guion original para la semana completa de sábado a sábado (intro del sábado, temas diarios de domingo a jueves, resumen del viernes y repaso del sábado con Espíritu de Profecía), narración con voz IA gratis (edge-tts; sin claves ni pagos), imágenes, subtítulos, render con FFmpeg, miniatura, SEO y subida a YouTube. Úsala siempre que el usuario pida un video, guion, miniatura, SEO o publicación de la lección de Escuela Sabática, el tema del día, el resumen de la semana, "el video de hoy", /youtube-agent-skill, o cuando hable del canal de YouTube de la lección, aunque no diga "skill".
 ---
 
 # YouTube Agent – Escuela Sabática (ES/PT)
+
+> Versión 1.1 · 2026-11-01 · ElevenLabs retirado: voz gratis con edge-tts (es-MX-JorgeNeural / pt-BR-AntonioNeural). Regla única de citas.
 
 Pipeline: **guion original → voz → imágenes → render → miniatura → SEO → subida**. Los scripts están en `scripts/` y Claude escribe el guion. Todo el contenido de cada video vive en una carpeta de proyecto.
 
@@ -39,14 +41,14 @@ proyectos/<AAAA-MM-DD>-<lang>-<tipo>/guion.json
 Por ejemplo: `proyectos/2026-10-12-es-diario/guion.json`. Escribe el guion siguiendo `references/guion.md`.
 
 ### 3. Revisión humana
-Muestra al usuario un resumen breve: título, gancho, las 2 o 3 ideas, la aplicación y la miniatura. Espera su aprobación antes de sintetizar la voz, que consume créditos. Esta revisión también es la evidencia de autoría humana ante YouTube.
+Muestra al usuario un resumen breve: título, gancho, las 2 o 3 ideas, la aplicación y la miniatura. Espera su aprobación antes de sintetizar la voz. Esta revisión también es la evidencia de autoría humana ante YouTube.
 
 En una ejecución programada o desatendida, produce el video completo y súbelo en **privado**. Avisa que está pendiente de revisión, nunca lo publiques en público sin aprobación.
 
 ### 4. Producir
 ```bash
 cd <skill>/scripts
-python pipeline.py <proyecto>                 # completo, con ElevenLabs y Pexels
+python pipeline.py <proyecto>                 # completo, con voz gratis (edge-tts) y Pexels
 python pipeline.py <proyecto> --mock --offline --borrador   # prueba sin API keys
 python pipeline.py <proyecto> --subir         # además sube a YouTube
 ```

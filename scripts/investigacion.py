@@ -27,6 +27,49 @@ def creds(canal):
     return c
 
 
+def propios_data_api(yt, hoy, dias=28):
+    """Tus videos de los últimos `dias` con vistas, likes y comentarios públicos (YouTube Data API)."""
+    ch = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0]
+    up = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+    desde = hoy - timedelta(days=dias)
+    ids, tok = [], None
+    while True:
+        r = yt.playlistItems().list(part="contentDetails", playlistId=up, maxResults=50, pageToken=tok).execute()
+        for it in r.get("items", []):
+            pub = it["contentDetails"].get("videoPublishedAt")
+            if pub and datetime.fromisoformat(pub.replace("Z", "+00:00")) >= desde:
+                ids.append(it["contentDetails"]["videoId"])
+        tok = r.get("nextPageToken")
+        if not tok or len(ids) >= 200:
+            break
+    filas = []
+    for i in range(0, len(ids), 50):
+        for v in yt.videos().list(part="snippet,statistics,contentDetails", id=",".join(ids[i:i + 50])).execute()["items"]:
+            s = v["statistics"]
+            pub = datetime.fromisoformat(v["snippet"]["publishedAt"].replace("Z", "+00:00"))
+            dias_pub = max(1.0, (hoy - pub).total_seconds() / 86400)
+            n = int(s.get("viewCount", 0))
+            filas.append((n / dias_pub, n, int(s.get("likeCount", 0)), int(s.get("commentCount", 0)),
+                          v["snippet"]["title"][:70], pub.strftime("%Y-%m-%d")))
+    L = [f"## Tus videos de los últimos {dias} días (Data API, respaldo sin Analytics)",
+         f"{len(filas)} videos publicados. Orden: vistas por día desde su publicación.\n",
+         "| Video | Publicado | Vistas | Vistas/día | Likes | Comentarios |", "|---|---|---|---|---|---|"]
+    for vpd, n, lk, cm, t, f in sorted(filas, reverse=True)[:15]:
+        L.append(f"| {t} | {f} | {n} | {vpd:.1f} | {lk} | {cm} |")
+    return L
+
+
+def historial_canal(yt, canal, hoy, out_dir):
+    """Guarda cada semana suscriptores, vistas y número de videos del canal (para seguir la monetización)."""
+    s = yt.channels().list(part="statistics", mine=True).execute()["items"][0]["statistics"]
+    p = out_dir / f"{canal}.historial.json"
+    h = json.loads(p.read_text()) if p.exists() else []
+    fila = {"fecha": hoy.strftime("%Y-%m-%d"), "suscriptores": int(s.get("subscriberCount", 0)),
+            "vistas": int(s.get("viewCount", 0)), "videos": int(s.get("videoCount", 0))}
+    h = [x for x in h if x.get("fecha") != fila["fecha"]] + [fila]
+    p.write_text(json.dumps(h[-104:], ensure_ascii=False, indent=2))
+
+
 def main():
     from googleapiclient.discovery import build
     canales = json.loads((ROOT / "canales.json").read_text())
@@ -55,6 +98,15 @@ def main():
                 L.append(f"| {tit.get(vid, vid)[:70]} | {views} | {dur} | {pct:.0f}% | {subs} |")
         except Exception as e:
             L.append(f"_Analytics no disponible: {str(e)[:160]}. Renueva el token con el permiso yt-analytics.readonly._")
+            # Respaldo con la Data API (no necesita permiso de Analytics): vistas, likes y comentarios públicos
+            try:
+                L += propios_data_api(yt, hoy)
+            except Exception as e2:
+                L.append(f"_Respaldo Data API no disponible: {str(e2)[:120]}_")
+        try:
+            historial_canal(yt, canal, hoy, out_dir)
+        except Exception as e:
+            print(f"Aviso historial {canal}: {str(e)[:120]}")
         # 2) Outliers del nicho (últimos 7 días)
         L.append("\n## Lo más visto del nicho (7 días)\n| Video | Canal | Vistas | Vistas/hora |\n|---|---|---|---|")
         desde = (hoy - timedelta(days=7)).strftime("%Y-%m-%dT%H:%M:%SZ")

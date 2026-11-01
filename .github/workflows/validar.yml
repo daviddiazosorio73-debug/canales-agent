@@ -1,0 +1,25 @@
+name: Validar guiones y scripts
+
+on:
+  push:
+    paths: ["canales/**/guion.json", "scripts/**.py", "skills/**.py"]
+  workflow_dispatch: {}
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Sintaxis de los scripts
+        run: python -m compileall -q scripts skills
+      - name: Validar guiones nuevos o cambiados
+        run: |
+          set -e
+          base="${{ github.event.before }}"
+          if [ -z "$base" ] || ! git cat-file -e "$base" 2>/dev/null; then base="HEAD~1"; fi
+          git diff --name-only --diff-filter=AM "$base" HEAD -- 'canales/*/proyectos/*/guion.json' | while read f; do
+            d=$(dirname "$f"); echo "== $d"; python scripts/validate.py "$d"
+          done

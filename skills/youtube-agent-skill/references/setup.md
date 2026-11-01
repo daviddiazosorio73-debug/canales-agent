@@ -3,18 +3,17 @@
 ## 1. Dependencias
 ```bash
 # FFmpeg con libass (Linux: apt install ffmpeg; Mac: brew install ffmpeg; Windows: winget install ffmpeg)
-pip install pillow requests google-api-python-client google-auth-oauthlib
+pip install pillow requests edge-tts google-api-python-client google-auth-oauthlib
 ```
 
 ## 2. Variables de entorno
 | Variable | Uso |
 |---|---|
-| `ELEVENLABS_API_KEY` | Narración |
-| `ELEVENLABS_VOICE_ID_ES` / `ELEVENLABS_VOICE_ID_PT` | Voz por idioma; puede ser la misma voz clonada |
-| `ELEVENLABS_MODEL` | Opcional; por defecto `eleven_multilingual_v2` |
+| `EDGE_VOICE_ES` / `EDGE_VOICE_PT` | Opcional. Voz gratis por idioma; por defecto `es-MX-JorgeNeural` y `pt-BR-AntonioNeural` |
+| `EDGE_RATE` | Opcional. Ritmo de la voz; por defecto `-4%` |
 | `PEXELS_API_KEY` | Imágenes gratuitas (pexels.com/api) |
 
-**Voz clonada (recomendado):** en ElevenLabs, Voices → Add voice → Professional/Instant Voice Clone. Graba de 1 a 3 minutos limpios o más, según el tipo de clon. Copia el Voice ID.
+**Voz:** gratis con edge-tts (no necesita cuenta ni clave). La voz clonada del Fundador (Chatterbox, gratis) solo funciona en el motor canales-agent. No se usan servicios de pago sin autorización del Fundador.
 
 ## 3. YouTube Data API (por canal ES y PT)
 1. En Google Cloud Console, crea un proyecto y habilita **YouTube Data API v3**.
