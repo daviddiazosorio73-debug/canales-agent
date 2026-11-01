@@ -29,7 +29,21 @@ def fit_font(text, max_w, start, bold=True):
 def main():
     proj = Path(sys.argv[1])
     g = load_json(proj / "guion.json")
-    m = g["miniatura"]
+    out = render(proj, g, g["miniatura"], proj / "salida" / "miniatura.jpg")
+    # Variantes para «Probar y comparar» de YouTube Studio (insignia): se guardan en <proyecto>/miniaturas/
+    alts = g.get("miniaturas_alternativas") or []
+    if alts:
+        dest = proj / "miniaturas"
+        dest.mkdir(exist_ok=True)
+        import shutil
+        shutil.copy(out, dest / "miniatura_a.jpg")
+        for k, alt in enumerate(alts[:3]):
+            l1, l2 = (list(alt) + ["", ""])[:2] if isinstance(alt, (list, tuple)) else (alt.get("linea1", ""), alt.get("linea2", ""))
+            m = dict(g["miniatura"], linea1=l1, linea2=l2)
+            render(proj, g, m, dest / f"miniatura_{'bcd'[k]}.jpg")
+
+
+def render(proj, g, m, out):
     brand = tuple(g.get("color_marca", [212, 168, 83]))
     base = next((p for p in [proj / "miniatura_base.png", proj / "miniatura_base.jpg"] if p.exists()), None)
     if base is None:
@@ -63,10 +77,10 @@ def main():
         d.text((60, y), txt, font=f, fill=col, stroke_width=6, stroke_fill=(0, 0, 0))
         y += f.getbbox(txt)[3] + 30
 
-    out = proj / "salida" / "miniatura.jpg"
     out.parent.mkdir(exist_ok=True)
     img.convert("RGB").save(out, quality=90, optimize=True)
     print(f"OK {out} ({out.stat().st_size // 1024} KB)")
+    return out
 
 
 if __name__ == "__main__":

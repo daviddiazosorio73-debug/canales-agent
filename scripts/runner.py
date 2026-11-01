@@ -72,6 +72,20 @@ def run_opc(script, proj, env, *extra):
         print(f"AVISO: {script} falló en {proj.name}; se continúa sin esa mejora", flush=True)
 
 
+def que_hacer(msg):
+    """Traduce un fallo a una acción concreta para el Fundador (reporte legible)."""
+    m = msg.lower()
+    if "invalid_grant" in m or "token" in m and ("expired" in m or "revoked" in m or "falta" in m):
+        return "renovar el token de ese canal (pídele a Claude «/token <canal>»)."
+    if "quota" in m or "cuota" in m:
+        return "nada: el motor espera el reinicio de la cuota y sigue solo."
+    if "errores:" in m or "guion" in m:
+        return "error del guion: pídele a Claude que lo corrija."
+    if "pexels" in m or "visual" in m or "imagen" in m:
+        return "fallo de imágenes: suele resolverse solo en la siguiente hora; si se repite, avisa a Claude."
+    return "si se repite en la siguiente corrida, avisa a Claude con este mensaje."
+
+
 def main():
     canales = json.loads((ROOT / "canales.json").read_text())
     ahora = datetime.now(timezone.utc)
@@ -178,7 +192,7 @@ def main():
             (proj / "creditos.json").unlink(missing_ok=True)
     rep = ROOT / "reporte.md"
     rep.write_text(f"# Último reporte ({ahora:%Y-%m-%d %H:%M} UTC)\n\n## Subidos\n"
-                   + "".join(f"- {h}\n" for h in hechos) + "\n## Fallos\n" + "".join(f"- {f}\n" for f in fallos)
+                   + "".join(f"- {h}\n" for h in hechos) + "\n## Fallos\n" + "".join(f"- {f}\n  - Qué hacer: {que_hacer(f)}\n" for f in fallos)
                    + (f"\n## En pausa\n- {pausa}\n" if pausa else ""))
     print(rep.read_text())
     if fallos:

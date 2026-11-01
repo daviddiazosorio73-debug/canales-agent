@@ -111,6 +111,8 @@ jobs:
         run: |
           git config user.name "canales-bot"
           git config user.email "canales-bot@users.noreply.github.com"
-          git add -A canales reporte.md
+          # Versiones con las que el motor funcionó (para fijarlas si una actualización rompe algo)
+          if [ "${{ job.status }}" = "success" ]; then pip freeze | sort > scripts/versiones_ok.txt; fi
+          git add -A canales reporte.md scripts/versiones_ok.txt 2>/dev/null || git add -A canales reporte.md
           git diff --cached --quiet || git commit -m "Publicado: $(date -u +%Y-%m-%dT%H:%MZ)"
           git pull --rebase --autostash -q && git push -q || true
