@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "O livro que Moisés mandou guardar AO LADO da arca 📦",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Guardado ao lado da arca",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O livro que Moisés mandou guardar AO LADO da arca 📦 #shorts",
+    "descripcion": "Moisés terminou de escrever um livro e mandou guardá-lo num lugar inesperado. Sabe onde?\n\nDeuteronômio 31:24-26\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Moisés terminou de escrever um livro e mandou guardá-lo num lugar inesperado. Sabe onde?",
+      "texto_pantalla": "Guardado ao lado da arca",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ark of the covenant ancient book"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Deuteronômio trinta e um, versículos vinte e quatro a vinte e seis, assim que Moisés acabou de escrever as palavras da lei num livro, ele pediu aos levitas que carregavam a arca da aliança que colocassem aquele livro ao lado dela, como testemunha. Moisés sabia que não ia entrar na terra prometida e que o povo esqueceria fácil. Então a Palavra não ficou só na lembrança: ficou registrada e guardada. Gente passa, memória falha, mas o testemunho escrito continua lá. Deus garantiu que nenhuma geração precisasse adivinhar o que Ele tinha falado. Hoje esse testemunho está na sua mão. Inscreva-se para mais Escola Sabatina em um minuto.",
+      "texto_pantalla": "Guardado ao lado da arca",
+      "referencia": "Deuteronômio 31:24-26",
+      "emocion": "agil",
+      "visual": {
+        "query": "ark of the covenant ancient book"
+      }
+    }
+  ]
+}

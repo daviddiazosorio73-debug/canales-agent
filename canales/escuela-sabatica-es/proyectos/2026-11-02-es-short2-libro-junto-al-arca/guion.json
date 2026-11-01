@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "El libro que Moisés mandó guardar JUNTO al arca 📦",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Guardado junto al arca",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El libro que Moisés mandó guardar JUNTO al arca 📦 #shorts",
+    "descripcion": "Moisés terminó de escribir un libro y mandó guardarlo en un lugar inesperado. ¿Sabes dónde?\n\nDeuteronomio 31:24-26\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Moisés terminó de escribir un libro y mandó guardarlo en un lugar inesperado. ¿Sabes dónde?",
+      "texto_pantalla": "Guardado junto al arca",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ark of the covenant ancient book"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Deuteronomio treinta y uno, versículos veinticuatro al veintiséis, cuando Moisés acabó de escribir las palabras de la ley en un libro, ordenó a los levitas que llevaban el arca del pacto que lo pusieran al lado del arca, como testigo. Moisés sabía que no entraría en la tierra prometida y que la memoria del pueblo fallaría. Por eso la Palabra no quedó solo en su voz: quedó escrita y guardada. Los testigos humanos se van; el testimonio escrito se queda. Dios se aseguró de que ninguna generación tuviera que adivinar lo que Él había dicho. Hoy ese testimonio está en tus manos. Suscríbete para más Escuela Sabática en un minuto.",
+      "texto_pantalla": "Guardado junto al arca",
+      "referencia": "Deuteronomio 31:24-26",
+      "emocion": "agil",
+      "visual": {
+        "query": "ark of the covenant ancient book"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "Deus mandou escrever tão CLARO que dava pra ler correndo 🏃",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escreva com CLAREZA",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus mandou escrever tão CLARO que dava pra ler correndo 🏃 #shorts",
+    "descripcion": "O profeta ficou de vigia, esperando uma resposta de Deus. E ela veio com uma ordem curiosa: escreva isso em tábuas.\n\nHabacuque 2:2-3\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-02T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "O profeta ficou de vigia, esperando uma resposta de Deus. E ela veio com uma ordem curiosa: escreva isso em tábuas.",
+      "texto_pantalla": "Escreva com CLAREZA",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient stone tablet engraving"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Habacuque dois, versículos dois e três, Deus manda o profeta registrar a visão e gravá-la bem legível em tábuas, para que até quem passa correndo consiga ler. E vem junto uma promessa: a visão tem hora marcada; se parecer demorar, espere, porque ela certamente vai se cumprir. A lição seis fala dos escritos proféticos, e aqui já aparecem dois motivos para Deus mandar escrever: deixar a mensagem clara e manter a esperança viva durante a espera. O que Deus prometeu por escrito não perde a validade com o tempo. Qual promessa você está esperando? Conta aqui nos comentários.",
+      "texto_pantalla": "Escreva com CLAREZA",
+      "referencia": "Habacuque 2:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient stone tablet engraving"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "João admitiu que NÃO escreveu tudo. Por quê? 🤔",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Escrito para você crer",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "João admitiu que NÃO escreveu tudo. Por quê? 🤔 #shorts",
+    "descripcion": "João confessa que Jesus fez muitos outros sinais que ficaram fora do livro dele. Então por que escolheu justamente esses?\n\nJoão 20:30-31\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "João confessa que Jesus fez muitos outros sinais que ficaram fora do livro dele. Então por que escolheu justamente esses?",
+      "texto_pantalla": "Escrito para você crer",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open bible sunrise light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em João vinte, versículos trinta e trinta e um, o apóstolo revela o objetivo: isso foi escrito para que você creia que Jesus é o Cristo, o Filho de Deus, e, crendo, tenha vida em seu nome. A Bíblia não tenta contar tudo; ela quer te levar até Alguém. Cada história foi escolhida com uma meta: que você conheça Jesus e viva. Por isso, ler a Bíblia só como informação é pouco. O propósito do que foi escrito é a fé, e o fruto da fé é vida. Se hoje você ler um capítulo de João, pergunte: o que isso me mostra sobre Jesus? Comenta qual capítulo você vai ler.",
+      "texto_pantalla": "Escrito para você crer",
+      "referencia": "João 20:30-31",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible sunrise light"
+      }
+    }
+  ]
+}

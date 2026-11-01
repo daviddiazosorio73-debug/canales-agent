@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-06",
+  "tema": "Los escritos proféticos en 60 segundos ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Repaso en 60 segundos",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Los escritos proféticos en 60 segundos ⏱️ #shorts",
+    "descripcion": "Una semana entera sobre los escritos proféticos, resumida en un minuto. ¿Listo?\n\nApocalipsis 1:3\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Una semana entera sobre los escritos proféticos, resumida en un minuto. ¿Listo?",
+      "texto_pantalla": "Repaso en 60 segundos",
+      "emocion": "gancho",
+      "visual": {
+        "query": "stack of old books timer"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Uno: Dios mandó escribir su mensaje para que fuera claro y no se olvidara, como vimos en Habacuc y Deuteronomio. Dos: lo preservó a través de los siglos; incluso cuando el libro quedó olvidado en tiempos de Josías, volvió a ser hallado. Tres: lo escribió con un propósito, que creamos en Jesús y tengamos vida. Cuatro: se lee como los de Berea, comparando y comprobando cada día. Y Apocalipsis uno, versículo tres, añade una bendición para el que lee, para los que oyen las palabras de esta profecía y para los que guardan lo que está escrito en ella. Leer, oír y guardar. Mañana es sábado: lleva tu Biblia a la clase. ¿Qué idea te marcó más? Coméntala.",
+      "texto_pantalla": "Repaso en 60 segundos",
+      "referencia": "Apocalipsis 1:3",
+      "emocion": "agil",
+      "visual": {
+        "query": "stack of old books timer"
+      }
+    }
+  ]
+}

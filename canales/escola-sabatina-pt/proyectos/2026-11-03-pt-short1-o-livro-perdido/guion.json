@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "Acharam a Bíblia PERDIDA… dentro do templo 😮",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "O livro esquecido",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Acharam a Bíblia PERDIDA… dentro do templo 😮 #shorts",
+    "descripcion": "Um livro sagrado ficou esquecido dentro da casa de Deus. Quando foi encontrado, o rei rasgou as próprias roupas.\n\n2 Reis 22:8-13\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um livro sagrado ficou esquecido dentro da casa de Deus. Quando foi encontrado, o rei rasgou as próprias roupas.",
+      "texto_pantalla": "O livro esquecido",
+      "emocion": "gancho",
+      "visual": {
+        "query": "dusty ancient scroll temple ruins"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Segundo Reis vinte e dois, durante a reforma do templo, o sumo sacerdote Hilquias encontrou o livro da lei. O escrivão Safã leu o livro diante do rei Josias, e o rei rasgou as vestes: percebeu o quanto o povo tinha se afastado do que Deus havia dito. Repara: o livro estava ali, na casa de Deus, mas tinha caído no esquecimento. Deus preservou a sua Palavra, mas o povo tinha deixado de ouvi-la. Isso pode acontecer hoje também, com uma Bíblia parada na estante, pegando poeira. Não basta guardar a Palavra; é preciso abrir. Quando foi a última vez que você leu com calma? Conta pra gente.",
+      "texto_pantalla": "O livro esquecido",
+      "referencia": "2 Reis 22:8-13",
+      "emocion": "agil",
+      "visual": {
+        "query": "dusty ancient scroll temple ruins"
+      }
+    }
+  ]
+}

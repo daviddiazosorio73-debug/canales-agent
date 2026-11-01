@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-02",
+  "tema": "O que Deus mandou escrever para os dias mais ESCUROS 🕯️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Esperança por escrito",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O que Deus mandou escrever para os dias mais ESCUROS 🕯️ #shorts",
+    "descripcion": "Deus disse a Jeremias: escreva num livro tudo o que eu te falei. Só que dessa vez não era um aviso.\n\nJeremias 30:2-3\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Deus disse a Jeremias: escreva num livro tudo o que eu te falei. Só que dessa vez não era um aviso.",
+      "texto_pantalla": "Esperança por escrito",
+      "emocion": "gancho",
+      "visual": {
+        "query": "candle light old book darkness"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Jeremias trinta, versículo dois, Deus pede que as suas palavras sejam registradas num livro. E o versículo três mostra o conteúdo: vêm dias em que eu vou mudar a sorte do meu povo e trazê-lo de volta. Era uma promessa de restauração para gente que estava prestes a perder tudo. Por que escrever? Porque no exílio eles ficariam sem templo e sem terra, mas teriam a promessa nas mãos. Os escritos proféticos não servem só para corrigir; eles seguram a nossa esperança quando tudo desaba. Se você está passando por uma fase difícil, procure o que Deus deixou escrito para você. Qual versículo já te sustentou numa crise? Comenta aí.",
+      "texto_pantalla": "Esperança por escrito",
+      "referencia": "Jeremias 30:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "candle light old book darkness"
+      }
+    }
+  ]
+}

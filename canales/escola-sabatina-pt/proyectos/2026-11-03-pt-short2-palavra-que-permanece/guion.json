@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "Impérios caíram. Este livro continua de PÉ 📖",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Permanece eternamente",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Impérios caíram. Este livro continua de PÉ 📖 #shorts",
+    "descripcion": "A Babilônia caiu. A Pérsia caiu. A Grécia e Roma também. Mas uma coisa continua de pé.\n\nIsaías 40:8\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "A Babilônia caiu. A Pérsia caiu. A Grécia e Roma também. Mas uma coisa continua de pé.",
+      "texto_pantalla": "Permanece eternamente",
+      "emocion": "gancho",
+      "visual": {
+        "query": "withered flower field ancient ruins"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Isaías quarenta, versículo oito, diz: seca-se a erva, e cai a flor, mas a palavra de nosso Deus permanece eternamente. Os escritos dos profetas foram copiados à mão por séculos, passaram por guerras, exílios e perseguições, e mesmo assim chegaram até nós. Não porque o material fosse resistente, mas porque Deus cuida daquilo que Ele fala. A Palavra escrita não é peça de museu; é mensagem viva, preservada pensando em você. Tudo ao redor murcha, mas a promessa dEle fica. Se isso te dá esperança hoje, escreve aqui nos comentários: permanece.",
+      "texto_pantalla": "Permanece eternamente",
+      "referencia": "Isaías 40:8",
+      "emocion": "agil",
+      "visual": {
+        "query": "withered flower field ancient ruins"
+      }
+    }
+  ]
+}

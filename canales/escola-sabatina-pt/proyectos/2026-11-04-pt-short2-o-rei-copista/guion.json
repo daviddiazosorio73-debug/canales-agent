@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-04",
+  "tema": "Deus pediu ao rei algo inusitado: COPIAR a lei à mão 👑",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "O rei copista",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus pediu ao rei algo inusitado: COPIAR a lei à mão 👑 #shorts",
+    "descripcion": "Imagina um rei recém-coroado sentado à mesa, copiando um livro inteiro à mão. Foi isso que Deus pediu.\n\nDeuteronômio 17:18-19\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Imagina um rei recém-coroado sentado à mesa, copiando um livro inteiro à mão. Foi isso que Deus pediu.",
+      "texto_pantalla": "O rei copista",
+      "emocion": "gancho",
+      "visual": {
+        "query": "king crown writing quill parchment"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Deuteronômio dezessete, versículos dezoito e dezenove, Deus determina que o rei, ao assumir o trono, escreva para si uma cópia da lei, a partir do original que ficava com os sacerdotes levitas. E essa cópia deveria ficar com ele, para ser lida todos os dias da sua vida, a fim de aprender a temer ao Senhor e cumprir as suas palavras. A maior autoridade da nação estava debaixo da Palavra escrita. Ninguém ficava acima dela. Copiar à mão obriga a desacelerar e prestar atenção em cada palavra. Que tal escrever hoje um versículo à mão? Conta nos comentários qual você escolheu.",
+      "texto_pantalla": "O rei copista",
+      "referencia": "Deuteronômio 17:18-19",
+      "emocion": "agil",
+      "visual": {
+        "query": "king crown writing quill parchment"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-05",
+  "tema": "Os cristãos que conferiam TUDO… até o que Paulo dizia 🔎",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Confira na Bíblia",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Os cristãos que conferiam TUDO… até o que Paulo dizia 🔎 #shorts",
+    "descripcion": "Paulo pregou numa cidade, e os ouvintes não aceitaram de cara. A Bíblia elogia essa atitude.\n\nAtos 17:11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-05T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Paulo pregou numa cidade, e os ouvintes não aceitaram de cara. A Bíblia elogia essa atitude.",
+      "texto_pantalla": "Confira na Bíblia",
+      "emocion": "gancho",
+      "visual": {
+        "query": "person studying bible magnifying glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Atos dezessete, versículo onze, conta que os moradores de Bereia eram mais nobres que os de Tessalônica, porque receberam a palavra com toda a boa vontade e examinavam as Escrituras todos os dias para ver se as coisas eram de fato assim. Eles não rejeitaram a mensagem nem engoliram tudo sem pensar: compararam com o que estava escrito. E o versículo doze diz que muitos creram. Esse é um ótimo jeito de ler os escritos proféticos: coração aberto e Bíblia aberta, todo dia. Não acredite em algo só porque alguém falou com convicção; confira na Palavra. Qual é o seu horário preferido para estudar a Bíblia? Conta aqui.",
+      "texto_pantalla": "Confira na Bíblia",
+      "referencia": "Atos 17:11",
+      "emocion": "agil",
+      "visual": {
+        "query": "person studying bible magnifying glass"
+      }
+    }
+  ]
+}

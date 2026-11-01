@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-07",
+  "tema": "Hoy en clase: la luz que brilla en un lugar OSCURO 🕯️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Luz en lugar oscuro",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Hoy en clase: la luz que brilla en un lugar OSCURO 🕯️ #shorts",
+    "descripcion": "Feliz sábado. Hoy se estudia en clase la lección seis, Los escritos proféticos. Y todo cabe en una imagen: una lámpara.\n\n2 Pedro 1:19\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-07T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Feliz sábado. Hoy se estudia en clase la lección seis, Los escritos proféticos. Y todo cabe en una imagen: una lámpara.",
+      "texto_pantalla": "Luz en lugar oscuro",
+      "emocion": "gancho",
+      "visual": {
+        "query": "oil lamp glowing in darkness"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Segunda de Pedro uno, versículo diecinueve, el apóstol dice que tenemos la palabra profética más segura, y que hacemos bien en prestarle atención como a una lámpara que alumbra en un lugar oscuro, hasta que el día amanezca y el lucero de la mañana salga en nuestros corazones. Pedro había visto la gloria de Jesús en el monte y, aun así, señala la palabra escrita como guía firme. La profecía no elimina la noche, pero te permite caminar en ella sin perderte. Hoy, en tu iglesia, abre tu Biblia y participa en la clase. Y cuéntanos: ¿qué versículo de esta semana te iluminó?",
+      "texto_pantalla": "Luz en lugar oscuro",
+      "referencia": "2 Pedro 1:19",
+      "emocion": "agil",
+      "visual": {
+        "query": "oil lamp glowing in darkness"
+      }
+    }
+  ]
+}

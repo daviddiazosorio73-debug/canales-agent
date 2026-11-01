@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "El libro que Dios mandó SELLAR hasta el fin 🔒",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Sellado hasta el fin",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El libro que Dios mandó SELLAR hasta el fin 🔒 #shorts",
+    "descripcion": "A Daniel se le ordenó cerrar y sellar su libro. ¿Por qué Dios guardaría una profecía bajo sello?\n\nDaniel 12:4\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-04T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "A Daniel se le ordenó cerrar y sellar su libro. ¿Por qué Dios guardaría una profecía bajo sello?",
+      "texto_pantalla": "Sellado hasta el fin",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sealed scroll wax seal"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Daniel doce, versículo cuatro, Dios le dice al profeta que cierre las palabras y selle el libro hasta el tiempo del fin, cuando muchos correrán de aquí para allá y la ciencia aumentará. El mensaje no se perdió; quedó guardado para el momento en que sería más necesario. Dios no solo inspiró la profecía: también decidió cuándo se entendería con más claridad. Eso significa que partes de la Biblia se escribieron pensando en generaciones futuras, incluida la nuestra. Lo que estuvo sellado para Daniel está abierto hoy para quien lo estudie. ¿Has estudiado alguna vez el libro de Daniel? Cuéntanos y suscríbete para más.",
+      "texto_pantalla": "Sellado hasta el fin",
+      "referencia": "Daniel 12:4",
+      "emocion": "agil",
+      "visual": {
+        "query": "sealed scroll wax seal"
+      }
+    }
+  ]
+}
