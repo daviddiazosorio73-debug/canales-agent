@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "Frutos secos y grasa: ¿hacen daño? Mito vs evidencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Grasa mala?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Frutos secos y grasa: ¿hacen daño? Mito vs evidencia #shorts",
+    "descripcion": "Frutos secos y grasa: ¿hacen daño? Mito vs evidencia.\n\n📚 Fuentes (PubMed):\n• Fraser GE, Sabaté J, Beeson WL, Strahan TM. A possible protective effect of nut consumption on risk of coronary heart disease. The Adventist Health Study. Arch Intern Med. 1992;152(7):1416-24. https://pubmed.ncbi.nlm.nih.gov/1627021/\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "grasas saludables",
+      "frutos secos",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tienen mucha grasa, así que hacen daño. ¿Es verdad lo que se dice de los frutos secos?",
+      "texto_pantalla": "¿Grasa mala?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "walnuts closeup"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el Estudio de Salud Adventista, publicado en mil novecientos noventa y dos, quienes comían frutos secos más de cuatro veces por semana tuvieron menos muertes por enfermedad coronaria. Los investigadores de Loma Linda propusieron una posible explicación: el perfil favorable de grasas de muchos frutos secos. No toda grasa es igual. Es un estudio observacional, así que no prueba causa y efecto, pero desmonta la idea de que toda grasa es mala. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Fraser GE, 1992 · Arch Intern Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "healthy fats foods"
+      }
+    }
+  ]
+}

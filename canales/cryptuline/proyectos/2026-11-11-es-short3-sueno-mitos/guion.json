@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-11",
+  "tema": "Tres mitos del sueño que la ciencia desmiente",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Mito o verdad?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Tres mitos del sueño que la ciencia desmiente #shorts",
+    "descripcion": "Tres mitos del sueño que la ciencia desmiente.\n\n📚 Fuentes (PubMed):\n• Cappuccio FP, D'Elia L, Strazzullo P, Miller MA. Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. 2010;33(5):585-92. https://pubmed.ncbi.nlm.nih.gov/20469800/ · https://doi.org/10.1093/sleep/33.5.585\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "mitos del sueño",
+      "dormir",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dormir poco es de gente productiva. Dormir mucho siempre es mejor. ¿Mito o verdad?",
+      "texto_pantalla": "¿Mito o verdad?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "myth fact chalkboard"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Un metaanálisis de Cappuccio, con más de un millón de personas, encontró que dormir poco se asoció con un doce por ciento más de riesgo de morir. Así que el primero es un mito. Y dormir mucho se asoció con un treinta por ciento más: el segundo también es mito. Pero ojo con un tercer mito: que dormir mucho sea lo que daña. Puede ser solo una señal de otra cosa. Son asociaciones, no causa y efecto. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Cappuccio FP, 2010 · Sleep",
+      "emocion": "agil",
+      "visual": {
+        "query": "person sleeping peacefully"
+      }
+    }
+  ]
+}

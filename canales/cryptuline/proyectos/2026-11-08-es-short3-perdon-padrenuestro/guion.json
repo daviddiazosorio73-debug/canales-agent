@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-08",
+  "tema": "Perdónanos como perdonamos: fe y ciencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Por qué perdonar?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Perdónanos como perdonamos: fe y ciencia #shorts",
+    "descripcion": "Perdónanos como perdonamos: fe y ciencia.\n\n📚 Fuentes (PubMed):\n• Akhtar S, Barlow J. Forgiveness Therapy for the Promotion of Mental Well-Being: A Systematic Review and Meta-Analysis. Trauma Violence Abuse. 2018;19(1):107-122 (publicado en línea en 2016). https://pubmed.ncbi.nlm.nih.gov/27009829/ · https://doi.org/10.1177/1524838016637079\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "Padrenuestro",
+      "perdón",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-09T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús nos enseñó a orar: «Y perdónanos nuestras deudas, como también nosotros perdonamos a nuestros deudores». Mateo seis, doce. ¿Qué dice la ciencia de esa práctica?",
+      "texto_pantalla": "¿Por qué perdonar?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "bible prayer hands"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Akhtar y Barlow, de la Universidad de Warwick, revisaron ensayos aleatorizados de terapias de perdón en adolescentes y adultos que habían sufrido heridas, incluso violencia. Este estudio encontró que esas intervenciones redujeron la depresión, la ira y el estrés, y aumentaron las emociones positivas. Hablamos de salud mental, con procesos guiados. Perdonar no es olvidar ni volver con quien te daña: si hay abuso, busca ayuda. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Akhtar S, 2016 · Trauma Violence Abuse",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise hope path"
+      }
+    }
+  ]
+}

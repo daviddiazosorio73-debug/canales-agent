@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "Adventistas y frutos secos: el dato de Loma Linda",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Nueces y corazón?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Adventistas y frutos secos: el dato de Loma Linda #shorts",
+    "descripcion": "Adventistas y frutos secos: el dato de Loma Linda.\n\n📚 Fuentes (PubMed):\n• Fraser GE, Sabaté J, Beeson WL, Strahan TM. A possible protective effect of nut consumption on risk of coronary heart disease. The Adventist Health Study. Arch Intern Med. 1992;152(7):1416-24. https://pubmed.ncbi.nlm.nih.gov/1627021/\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutos secos",
+      "adventistas",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Treinta y un mil adventistas de California dijeron qué comían. Los que comían frutos secos más de cuatro veces por semana tenían algo en común.",
+      "texto_pantalla": "¿Nueces y corazón?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "walnuts almonds bowl"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Fraser y su equipo, de la Universidad de Loma Linda, encontraron que ese grupo tuvo un cuarenta y ocho por ciento menos de muertes por enfermedad coronaria y un cincuenta y uno por ciento menos de infartos no mortales, comparado con quienes los comían menos de una vez por semana. Es un estudio observacional de mil novecientos noventa y dos, en una población específica, así que no prueba causa. Si tienes alergia, evítalos. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Fraser GE, 1992 · Arch Intern Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "heart health"
+      }
+    }
+  ]
+}

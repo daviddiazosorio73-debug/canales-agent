@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-09",
+  "tema": "¿Se puede aprender a perdonar? Lo que dicen los ensayos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Se aprende?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Se puede aprender a perdonar? Lo que dicen los ensayos #shorts",
+    "descripcion": "¿Se puede aprender a perdonar? Lo que dicen los ensayos.\n\n📚 Fuentes (PubMed):\n• Akhtar S, Barlow J. Forgiveness Therapy for the Promotion of Mental Well-Being: A Systematic Review and Meta-Analysis. Trauma Violence Abuse. 2018;19(1):107-122 (publicado en línea en 2016). https://pubmed.ncbi.nlm.nih.gov/27009829/ · https://doi.org/10.1177/1524838016637079\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "terapia de perdón",
+      "salud mental",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-09T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Perdonar es un don que tienes o no tienes? ¿O se puede aprender? Los ensayos aleatorizados tienen algo que decir.",
+      "texto_pantalla": "¿Se aprende?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "therapy session talking"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Una revisión de Akhtar y Barlow juntó ensayos donde unos grupos recibían una terapia de perdón y otros no, asignados al azar. Este estudio encontró que las intervenciones de perdón redujeron la depresión, la ira y la hostilidad, y el estrés y el malestar. Los autores lo califican como evidencia moderadamente fuerte para el bienestar mental, y piden más investigación. No es magia: fueron procesos guiados por profesionales, paso a paso. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Akhtar S, 2016 · Trauma Violence Abuse",
+      "emocion": "agil",
+      "visual": {
+        "query": "group support circle"
+      }
+    }
+  ]
+}

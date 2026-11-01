@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-11",
+  "tema": "¿Cuántas horas dormir? Lo que acordaron 18 expertos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuántas horas?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Cuántas horas dormir? Lo que acordaron 18 expertos #shorts",
+    "descripcion": "¿Cuántas horas dormir? Lo que acordaron 18 expertos.\n\n📚 Fuentes (PubMed):\n• Hirshkowitz M, Whiton K, Albert SM, et al. National Sleep Foundation's sleep time duration recommendations: methodology and results summary. Sleep Health. 2015;1(1):40-43. https://pubmed.ncbi.nlm.nih.gov/29073412/ · https://doi.org/10.1016/j.sleh.2014.12.010\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "cuántas horas dormir",
+      "sueño",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-11T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuántas horas necesita dormir un adulto? Dieciocho expertos de doce organizaciones se sentaron a responderlo.",
+      "texto_pantalla": "¿Cuántas horas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "bedroom clock night"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En dos mil quince, la Fundación Nacional del Sueño de Estados Unidos publicó sus recomendaciones. Para personas sanas y sin trastornos del sueño, acordaron que lo apropiado es entre siete y nueve horas para adultos jóvenes y adultos. El panel aclara que la necesidad varía de persona a persona y que salirse un poco del rango puede ser normal; lo raro es alejarse mucho. Si tienes insomnio o ronquidos fuertes, busca ayuda médica. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Hirshkowitz M, 2015 · Sleep Health",
+      "emocion": "agil",
+      "visual": {
+        "query": "person waking refreshed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-10",
+  "tema": "Sueño y corazón: lo que vieron 474 mil personas",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Tu sueño y tu corazón?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Sueño y corazón: lo que vieron 474 mil personas #shorts",
+    "descripcion": "Sueño y corazón: lo que vieron 474 mil personas.\n\n📚 Fuentes (PubMed):\n• Cappuccio FP, Cooper D, D'Elia L, Strazzullo P, Miller MA. Sleep duration predicts cardiovascular outcomes: a systematic review and meta-analysis of prospective studies. Eur Heart J. 2011;32(12):1484-92. https://pubmed.ncbi.nlm.nih.gov/21300732/ · https://doi.org/10.1093/eurheartj/ehr007\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "sueño y corazón",
+      "salud cardiovascular",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-11T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Tu forma de dormir tiene que ver con tu corazón? Un metaanálisis con cuatrocientas setenta y cuatro mil personas lo analizó.",
+      "texto_pantalla": "¿Tu sueño y tu corazón?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "heart stethoscope"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el European Heart Journal, Cappuccio y su equipo encontraron que dormir poco se asoció con un cuarenta y ocho por ciento más de riesgo de enfermedad coronaria. Y dormir mucho, con un treinta y ocho por ciento más de enfermedad coronaria y un sesenta y cinco por ciento más de accidente cerebrovascular. Los autores dicen que ambos extremos son predictores, o marcadores, de problemas cardiovasculares. Son estudios observacionales. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Cappuccio FP, 2011 · Eur Heart J",
+      "emocion": "agil",
+      "visual": {
+        "query": "night sky sleep"
+      }
+    }
+  ]
+}

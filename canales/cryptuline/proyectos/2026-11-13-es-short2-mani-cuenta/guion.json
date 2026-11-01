@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "¿El maní cuenta como fruto seco? Lo que vio la ciencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Y el maní?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿El maní cuenta como fruto seco? Lo que vio la ciencia #shorts",
+    "descripcion": "¿El maní cuenta como fruto seco? Lo que vio la ciencia.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Nut consumption and risk of cardiovascular disease, total cancer, all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies. BMC Med. 2016;14(1):207. https://pubmed.ncbi.nlm.nih.gov/27916000/ · https://doi.org/10.1186/s12916-016-0730-3\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "maní",
+      "frutos secos",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Mucha gente cree que el maní no sirve, que solo las nueces caras cuentan. ¿Qué dicen los datos?",
+      "texto_pantalla": "¿Y el maní?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "peanuts shell natural"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Aune, con veinte estudios prospectivos, los resultados fueron parecidos para las nueces de árbol y para el maní. Por cada veintiocho gramos al día hubo menos enfermedad cardiovascular y menos mortalidad. Ojo: hablamos de maní natural, no frito ni cubierto de sal o azúcar. Y si tienes alergia al maní, nada de esto aplica para ti. Son asociaciones, no prueban causa y efecto. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2016 · BMC Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "peanut butter bread"
+      }
+    }
+  ]
+}

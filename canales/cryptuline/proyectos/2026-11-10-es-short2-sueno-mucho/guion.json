@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-10",
+  "tema": "Dormir mucho también: 30 % más riesgo",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Duermes mucho?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Dormir mucho también: 30 % más riesgo #shorts",
+    "descripcion": "Dormir mucho también: 30 % más riesgo.\n\n📚 Fuentes (PubMed):\n• Cappuccio FP, D'Elia L, Strazzullo P, Miller MA. Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. 2010;33(5):585-92. https://pubmed.ncbi.nlm.nih.gov/20469800/ · https://doi.org/10.1093/sleep/33.5.585\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "dormir mucho",
+      "sueño",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-10T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dormir de más suena saludable, ¿verdad? Un metaanálisis con más de un millón de personas encontró algo inesperado.",
+      "texto_pantalla": "¿Duermes mucho?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "person sleeping late morning"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Cappuccio y su equipo vieron que dormir mucho se asoció con un treinta por ciento más de riesgo de morir durante el seguimiento. Pero cuidado con la conclusión: los autores lo llaman predictor, y en su estudio del corazón usan la palabra marcador. Dormir mucho podría ser una señal de otra cosa, como una enfermedad aún no diagnosticada. Si de pronto duermes mucho más de lo habitual, no lo ignores: coméntalo con tu médico. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Cappuccio FP, 2010 · Sleep",
+      "emocion": "agil",
+      "visual": {
+        "query": "doctor consultation"
+      }
+    }
+  ]
+}

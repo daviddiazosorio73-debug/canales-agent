@@ -1,0 +1,142 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-10",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Horas de sueño y salud: lo que encontraron 16 estudios con 1,3 millones de personas",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿CUÁNTO",
+    "linea2": "DUERMES TÚ?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Horas de sueño: lo que vieron 16 estudios con 1,3 millones de personas",
+    "descripcion": "¿Dormir más es siempre mejor? Un metaanálisis publicado en la revista Sleep reunió 16 estudios con 1 382 999 personas seguidas hasta 25 años. Otro, en el European Heart Journal, analizó el corazón y el cerebro en 474 684 personas. Te contamos qué encontraron sobre dormir poco y dormir mucho, por qué los autores hablan de «marcadores», qué recomienda un panel de expertos y qué límites tiene la evidencia.\n\n💬 ¿Cuántas horas duermes en una noche normal? Cuéntanos.\n\n📚 Fuentes (PubMed):\n• Cappuccio FP, D'Elia L, Strazzullo P, Miller MA. Sleep duration and all-cause mortality: a systematic review and meta-analysis of prospective studies. Sleep. 2010;33(5):585-92. https://pubmed.ncbi.nlm.nih.gov/20469800/ · https://doi.org/10.1093/sleep/33.5.585\n• Cappuccio FP, Cooper D, D'Elia L, Strazzullo P, Miller MA. Sleep duration predicts cardiovascular outcomes: a systematic review and meta-analysis of prospective studies. Eur Heart J. 2011;32(12):1484-92. https://pubmed.ncbi.nlm.nih.gov/21300732/ · https://doi.org/10.1093/eurheartj/ehr007\n• Hirshkowitz M, Whiton K, Albert SM, et al. National Sleep Foundation's sleep time duration recommendations: methodology and results summary. Sleep Health. 2015;1(1):40-43. https://pubmed.ncbi.nlm.nih.gov/29073412/ · https://doi.org/10.1016/j.sleh.2014.12.010\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "horas de sueño",
+      "cuántas horas dormir",
+      "dormir poco",
+      "dormir mucho",
+      "sueño y salud",
+      "sueño y corazón",
+      "metaanálisis",
+      "mitos del sueño",
+      "descanso",
+      "salud preventiva",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Sueño",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-10T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "¿Cuántas horas dormiste anoche? Un equipo de la Universidad de Warwick, en el Reino Unido, revisó dieciséis estudios con más de un millón trescientas mil personas, seguidas hasta por veinticinco años. Querían saber si las horas de sueño se relacionan con el riesgo de morir. Lo que encontraron sorprende a casi todos. Hoy te explico qué vieron, qué pasa con el corazón y qué no pueden decir estos estudios. Y al final respondo la gran pregunta: ¿existe un número ideal de horas, y dormir más es siempre mejor?",
+      "texto_pantalla": "¿Cuánto duermes tú?",
+      "visual": {
+        "query": "alarm clock bed morning"
+      }
+    },
+    {
+      "id": "por_que",
+      "capitulo": "Cómo se estudia el sueño",
+      "emocion": "ensenanza",
+      "texto": "Antes de los números, una idea básica. Mientras duermes, tu cuerpo y tu cerebro no están apagados: siguen trabajando. Pero en la vida real, el sueño es lo primero que sacrificamos: trabajo, pantallas, preocupaciones. Y existe también la idea contraria: que si duermes mucho, te estás cuidando más. ¿Cómo se responde eso con ciencia? Con estudios prospectivos: se mide algo hoy, como las horas de sueño, y se sigue a las personas durante años para ver qué les pasa. Y un metaanálisis junta muchos de esos estudios para tener una imagen más amplia. Es como pasar de mirar por una ventana a mirar desde lo alto de un edificio. Se ve más, aunque también se pierden detalles.",
+      "texto_pantalla": "Estudios prospectivos",
+      "visual": {
+        "query": "city view from above window"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "El estudio",
+      "emocion": "ensenanza",
+      "texto": "El estudio se publicó en el año dos mil diez en la revista Sleep. Su autor principal es Francesco Cappuccio, de la Escuela de Medicina de Warwick, junto con Lanfranco D'Elia, Pasquale Strazzullo y Michelle Miller. Buscaron estudios prospectivos con más de tres años de seguimiento, sin restricción de idioma. Reunieron dieciséis estudios con veintisiete grupos independientes: un millón trescientas ochenta y dos mil novecientas noventa y nueve personas, hombres y mujeres, seguidas entre cuatro y veinticinco años. En ese tiempo hubo ciento doce mil quinientas sesenta y seis muertes. Un dato importante: las horas de sueño se midieron con cuestionarios, es decir, con lo que cada persona dijo que dormía. Y las muertes se registraron con certificados de defunción.",
+      "texto_pantalla": "16 estudios · 1,3 millones",
+      "referencia": "Cappuccio FP, 2010 · Sleep",
+      "visual": {
+        "query": "scientific data charts research"
+      }
+    },
+    {
+      "id": "hallazgos",
+      "capitulo": "Lo que encontraron",
+      "emocion": "enfasis",
+      "texto": "Este estudio encontró que dormir poco se asoció con un doce por ciento más de riesgo de morir durante el seguimiento, comparado con el grupo de referencia de cada estudio. Y aquí viene la sorpresa: dormir mucho también se asoció con más riesgo, un treinta por ciento más. Los dos extremos. Los autores revisaron si había sesgo de publicación, es decir, si solo se publicaban los estudios con resultados llamativos, y no encontraron evidencia de eso. Pero sí encontraron diferencias entre los estudios, sobre todo en el caso de dormir mucho. Su conclusión: tanto dormir poco como dormir mucho son predictores significativos de muerte en estudios de población. Predictores. Recuerda esa palabra, porque la vamos a necesitar.",
+      "texto_pantalla": "Poco: +12 % · Mucho: +30 %",
+      "referencia": "Cappuccio FP, 2010",
+      "visual": {
+        "query": "tired person night insomnia"
+      }
+    },
+    {
+      "id": "corazon",
+      "capitulo": "¿Y el corazón?",
+      "emocion": "enfasis",
+      "texto": "Un año después, el mismo equipo publicó otro metaanálisis en el European Heart Journal, ahora sobre el corazón y el cerebro. Reunió quince estudios, con veinticuatro grupos y cuatrocientas setenta y cuatro mil seiscientas ochenta y cuatro personas, y dieciséis mil sesenta y siete eventos. Este estudio encontró que dormir poco se asoció con un cuarenta y ocho por ciento más de riesgo de desarrollar enfermedad coronaria o morir por ella, y con un quince por ciento más de accidente cerebrovascular, aunque este último resultado quedó justo en el límite de la significancia estadística. Con el total de enfermedad cardiovascular no hubo una asociación clara. Dormir mucho se asoció con un treinta y ocho por ciento más de enfermedad coronaria, un sesenta y cinco por ciento más de accidente cerebrovascular y un cuarenta y uno por ciento más de enfermedad cardiovascular total. Los autores concluyen que ambos extremos son predictores, o marcadores, de problemas cardiovasculares.",
+      "texto_pantalla": "Corazón: los dos extremos",
+      "referencia": "Cappuccio FP, 2011 · Eur Heart J",
+      "visual": {
+        "query": "heart health doctor stethoscope"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Vamos con los mitos. Mito uno: dormir poco es señal de que eres productivo. En estos estudios, dormir poco apareció junto a más riesgo, no junto a más salud. Mito dos: cuanto más duermas, mejor. Los datos muestran que dormir mucho también se asoció con más riesgo. Mito tres: entonces, dormir mucho es lo que hace daño. Aquí está el error más común. Los autores usan la palabra marcadores. Dormir mucho podría ser una señal de otra cosa, por ejemplo una enfermedad que todavía no se ha diagnosticado. Un panel de expertos lo dice así: quienes duermen habitualmente fuera del rango normal podrían estar mostrando signos de problemas de salud serios. Por eso, si de pronto duermes mucho más de lo habitual, no lo ignores: coméntalo con tu médico.",
+      "texto_pantalla": "¿Más sueño = mejor?",
+      "visual": {
+        "query": "person sleeping late bed"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Ahora, los límites. Todos estos estudios son observacionales: nadie fue asignado al azar a dormir poco o mucho durante años. Por eso muestran asociaciones, no causa y efecto. Las horas de sueño se midieron con cuestionarios, y mucha gente calcula mal cuánto duerme. Además, se midieron al inicio, y el sueño cambia con los años. Cada estudio pudo definir a su manera qué es dormir poco o dormir mucho, así que no conviene sacar de aquí una cifra mágica. Y hubo diferencias entre estudios. Lo que sí es consistente es el patrón: en poblaciones grandes, los dos extremos aparecen una y otra vez asociados a peores resultados.",
+      "texto_pantalla": "Observacional: asociación",
+      "visual": {
+        "query": "magnifying glass document"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "ensenanza",
+      "texto": "Y ahora, la respuesta. ¿Existe un número ideal? En dos mil quince, la Fundación Nacional del Sueño de Estados Unidos reunió un panel de dieciocho expertos de doce organizaciones, con Max Hirshkowitz como autor principal. Tras revisar la evidencia, acordaron que, para personas sanas y sin trastornos del sueño, lo apropiado es entre siete y nueve horas para adultos jóvenes y adultos, y entre siete y ocho horas para adultos mayores. Para adolescentes, entre ocho y diez. Pero el mismo panel aclara que la necesidad de sueño varía de persona a persona, y que salirse un poco del rango puede ser normal; lo raro es alejarse mucho. Entonces, ¿dormir más es siempre mejor? No. Hay un rango saludable, y lo que cuenta es estar dentro de él de forma habitual.",
+      "texto_pantalla": "Adultos: 7 a 9 horas",
+      "referencia": "Hirshkowitz M, 2015 · Sleep Health",
+      "visual": {
+        "query": "peaceful sleep bedroom night"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu semana",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer esta semana? Primero, mide: anota cada día a qué hora te acuestas y a qué hora te levantas. Segundo, busca un horario fijo, también el fin de semana. Tercero, prepara la noche: menos pantallas y más calma antes de acostarte. Cuarto, recuerda el principio del descanso: en la Biblia, Dios mismo marcó ritmos de trabajo y reposo, y el sábado nos recuerda que descansar no es pereza, es cuidado. Y si roncas fuerte, te despiertas sin aire, tienes insomnio que no se va o duermes mucho más de lo habitual, no te automediques: consulta a tu médico. El viernes hablamos de nutrición: frutos secos y legumbres. ¿Un puñado al día marca diferencia? Suscríbete a Cryptuline y cuéntame cuántas horas duermes tú.",
+      "visual": {
+        "query": "sunrise bedroom calm morning"
+      }
+    }
+  ]
+}

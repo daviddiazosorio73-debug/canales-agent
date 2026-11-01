@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-09",
+  "tema": "Perdonarte a ti mismo: lo que encontró un metaanálisis",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Te perdonas?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Perdonarte a ti mismo: lo que encontró un metaanálisis #shorts",
+    "descripcion": "Perdonarte a ti mismo: lo que encontró un metaanálisis.\n\n📚 Fuentes (PubMed):\n• Davis DE, Ho MY, Griffin BJ, et al. Forgiving the self and physical and mental health correlates: a meta-analytic review. J Couns Psychol. 2015;62(2):329-35. https://pubmed.ncbi.nlm.nih.gov/25867697/ · https://doi.org/10.1037/cou0000063\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "perdón a uno mismo",
+      "bienestar",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-09T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hablamos mucho de perdonar a otros. ¿Y perdonarte a ti mismo? Un metaanálisis lo estudió con miles de personas.",
+      "texto_pantalla": "¿Te perdonas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "person mirror reflection"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Davis y su equipo publicaron en dos mil quince, en el Journal of Counseling Psychology, un metaanálisis sobre el perdón a uno mismo. Este estudio encontró una correlación de cero coma treinta y dos con la salud física, en cinco mil seiscientas cincuenta y tres personas, y de cero coma cuarenta y cinco con el bienestar psicológico, en diecisiete mil novecientas treinta y nueve personas. Son asociaciones, no prueban causa. Perdonarte no es excusarte: es asumir y seguir adelante. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Davis DE, 2015 · J Couns Psychol",
+      "emocion": "agil",
+      "visual": {
+        "query": "walking forward path"
+      }
+    }
+  ]
+}

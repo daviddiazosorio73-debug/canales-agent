@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "¿Cuántos frutos secos al día? La cifra de los estudios",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuántos gramos?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Cuántos frutos secos al día? La cifra de los estudios #shorts",
+    "descripcion": "¿Cuántos frutos secos al día? La cifra de los estudios.\n\n📚 Fuentes (PubMed):\n• Aune D. Plant Foods, Antioxidant Biomarkers, and the Risk of Cardiovascular Disease, Cancer, and Mortality: A Review of the Evidence. Adv Nutr. 2019;10(Suppl_4):S404-S421. https://pubmed.ncbi.nlm.nih.gov/31728499/ · https://doi.org/10.1093/advances/nmz042\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutos secos",
+      "cuánto comer",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si los frutos secos se asocian con mejor salud, ¿comer una bolsa entera es mejor? La respuesta está en los números.",
+      "texto_pantalla": "¿Cuántos gramos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "small handful almonds"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Dagfinn Aune revisó en dos mil diecinueve los metaanálisis sobre alimentos de origen vegetal en la revista Advances in Nutrition. Las mayores reducciones de riesgo se observaron alrededor de quince a veinte gramos de frutos secos al día. Un puñado pequeño. No hace falta más. Y elige frutos secos naturales, sin sal ni azúcar añadida. Son estudios observacionales: muestran asociaciones, no causa y efecto. Si tienes alergia, evítalos. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2019 · Adv Nutr",
+      "emocion": "agil",
+      "visual": {
+        "query": "nuts jar kitchen"
+      }
+    }
+  ]
+}

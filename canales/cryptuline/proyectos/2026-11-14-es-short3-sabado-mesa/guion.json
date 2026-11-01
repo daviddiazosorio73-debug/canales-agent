@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "La mesa del Edén: semillas, nueces y legumbres",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué hay en tu mesa?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "La mesa del Edén: semillas, nueces y legumbres #shorts",
+    "descripcion": "La mesa del Edén: semillas, nueces y legumbres.\n\n📚 Fuentes (PubMed):\n• Zargarzadeh N, Mousavi SM, Santos HO, et al. Legume Consumption and Risk of All-Cause and Cause-Specific Mortality: A Systematic Review and Dose-Response Meta-Analysis of Prospective Studies. Adv Nutr. 2023;14(1):64-76. https://pubmed.ncbi.nlm.nih.gov/36811595/ · https://doi.org/10.1016/j.advnut.2022.10.009\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "legumbres",
+      "alimentación bíblica",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En Génesis uno, veintinueve, Dios dio al ser humano las plantas que dan semilla y los frutos como alimento. ¿Qué dice hoy la ciencia?",
+      "texto_pantalla": "¿Qué hay en tu mesa?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "garden seeds fruits"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Un metaanálisis de treinta y dos cohortes, con más de un millón de personas, encontró que comer más legumbres se asoció con un seis por ciento menos de mortalidad por cualquier causa. Y con frutos secos, otros estudios vieron asociaciones parecidas. Son estudios observacionales, con certeza de baja a moderada: no prueban causa. Pero invitan a poner más plantas en la mesa. Si tienes alergias, consulta antes. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Zargarzadeh N, 2023 · Adv Nutr",
+      "emocion": "agil",
+      "visual": {
+        "query": "family table legumes"
+      }
+    }
+  ]
+}

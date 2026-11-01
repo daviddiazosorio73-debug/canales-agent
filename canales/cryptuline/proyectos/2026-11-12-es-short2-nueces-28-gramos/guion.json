@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "Un puñado de frutos secos al día: lo que encontraron 20 estudios",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Un puñado?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Un puñado de frutos secos al día: lo que encontraron 20 estudios #shorts",
+    "descripcion": "Un puñado de frutos secos al día: lo que encontraron 20 estudios.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Nut consumption and risk of cardiovascular disease, total cancer, all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies. BMC Med. 2016;14(1):207. https://pubmed.ncbi.nlm.nih.gov/27916000/ · https://doi.org/10.1186/s12916-016-0730-3\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "nueces",
+      "frutos secos",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Veintiocho gramos. Más o menos un puñado. ¿Qué encontraron veinte estudios sobre esa cantidad de frutos secos al día?",
+      "texto_pantalla": "¿Un puñado?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "handful nuts palm"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Aune y su equipo publicaron en dos mil dieciséis, en BMC Medicine, un metaanálisis de estudios prospectivos. Este estudio encontró que cada veintiocho gramos al día se asoció con un veintinueve por ciento menos de enfermedad coronaria, un quince por ciento menos de cáncer en total y un veintidós por ciento menos de mortalidad por cualquier causa. Con el accidente cerebrovascular no hubo asociación clara. Son asociaciones, no prueban causa y efecto. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2016 · BMC Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "mixed nuts table"
+      }
+    }
+  ]
+}

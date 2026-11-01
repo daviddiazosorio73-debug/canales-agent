@@ -1,0 +1,133 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-13",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Frutos secos y legumbres: lo que encontraron los estudios adventistas y los metaanálisis",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿UN PUÑADO",
+    "linea2": "AL DÍA?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Frutos secos y legumbres: ¿cuánto al día? Lo que dice la ciencia",
+    "descripcion": "Nueces, almendras, maní, frijoles, lentejas y garbanzos. El Estudio de Salud Adventista siguió a 31 208 adventistas de California; un metaanálisis en BMC Medicine reunió 20 estudios sobre frutos secos; y otro en Advances in Nutrition sumó 32 cohortes con 1 141 793 personas sobre legumbres. Te contamos qué encontraron, qué resultados NO salieron positivos, cuánto se asoció con los mejores resultados y qué límites tiene la evidencia.\n\n💬 ¿Cuál es tu legumbre o fruto seco favorito? Cuéntanos.\n\n📚 Fuentes (PubMed):\n• Fraser GE, Sabaté J, Beeson WL, Strahan TM. A possible protective effect of nut consumption on risk of coronary heart disease. The Adventist Health Study. Arch Intern Med. 1992;152(7):1416-24. https://pubmed.ncbi.nlm.nih.gov/1627021/\n• Aune D, Keum N, Giovannucci E, et al. Nut consumption and risk of cardiovascular disease, total cancer, all-cause and cause-specific mortality: a systematic review and dose-response meta-analysis of prospective studies. BMC Med. 2016;14(1):207. https://pubmed.ncbi.nlm.nih.gov/27916000/ · https://doi.org/10.1186/s12916-016-0730-3\n• Aune D. Plant Foods, Antioxidant Biomarkers, and the Risk of Cardiovascular Disease, Cancer, and Mortality: A Review of the Evidence. Adv Nutr. 2019;10(Suppl_4):S404-S421. https://pubmed.ncbi.nlm.nih.gov/31728499/ · https://doi.org/10.1093/advances/nmz042\n• Zargarzadeh N, Mousavi SM, Santos HO, et al. Legume Consumption and Risk of All-Cause and Cause-Specific Mortality: A Systematic Review and Dose-Response Meta-Analysis of Prospective Studies. Adv Nutr. 2023;14(1):64-76. https://pubmed.ncbi.nlm.nih.gov/36811595/ · https://doi.org/10.1016/j.advnut.2022.10.009\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutos secos",
+      "nueces",
+      "legumbres",
+      "maní",
+      "frijoles y lentejas",
+      "Estudio de Salud Adventista",
+      "nutrición",
+      "alimentación saludable",
+      "mitos de nutrición",
+      "metaanálisis",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Nutrición",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "En California, treinta y un mil doscientos ocho adventistas del séptimo día contaron a los investigadores qué comían. Años después apareció un dato sorprendente: quienes comían frutos secos más de cuatro veces por semana tuvieron casi la mitad de muertes por enfermedad coronaria que quienes los comían menos de una vez por semana. ¿Un puñado de nueces puede estar detrás de esa diferencia? ¿Y qué pasa con los frijoles, las lentejas y los garbanzos? Hoy revisamos varios trabajos, uno de ellos con más de un millón de personas. Y al final respondo la pregunta práctica: ¿cuánto al día se asoció con los mejores resultados?",
+      "texto_pantalla": "¿Un puñado al día?",
+      "visual": {
+        "query": "mixed nuts bowl table"
+      }
+    },
+    {
+      "id": "adventistas",
+      "capitulo": "El Estudio de Salud Adventista",
+      "emocion": "narrativo",
+      "texto": "Empecemos por casa. En mil novecientos noventa y dos, Gary Fraser, Joan Sabaté y sus colegas de la Universidad de Loma Linda publicaron en Archives of Internal Medicine un análisis del Estudio de Salud Adventista. Participaron treinta y un mil doscientos ocho adventistas de California. Este estudio encontró que quienes comían frutos secos más de cuatro veces por semana tuvieron un cuarenta y ocho por ciento menos de muertes por enfermedad coronaria y un cincuenta y uno por ciento menos de infartos no mortales, comparados con quienes los comían menos de una vez por semana. El resultado se mantuvo tras ajustar por otros factores y se vio en casi todos los dieciséis subgrupos analizados. También, quienes comían pan integral tuvieron un cuarenta y cuatro por ciento menos de infartos no mortales que quienes comían pan blanco. Los autores hablaron de un posible efecto protector, y propusieron una explicación: el perfil favorable de grasas de muchos frutos secos.",
+      "texto_pantalla": "−48 % muertes coronarias",
+      "referencia": "Fraser GE, 1992 · Arch Intern Med",
+      "visual": {
+        "query": "california family dinner healthy"
+      }
+    },
+    {
+      "id": "metaanalisis",
+      "capitulo": "El gran metaanálisis",
+      "emocion": "ensenanza",
+      "texto": "Pero un solo grupo no basta. En dos mil dieciséis, Dagfinn Aune, del Imperial College de Londres y de la Universidad Noruega de Ciencia y Tecnología, publicó en la revista BMC Medicine un metaanálisis con veinte estudios prospectivos en adultos. Analizaron qué pasaba por cada veintiocho gramos de frutos secos al día, más o menos un puñado. A esto se le llama análisis de dosis y respuesta: no solo se compara a quien come mucho con quien come poco, sino que se mira si el riesgo cambia de forma ordenada a medida que sube la cantidad. Es una de las pistas que los científicos usan para tomar en serio una asociación, aunque por sí sola no demuestra causa. Este estudio encontró que esa cantidad se asoció con un veintinueve por ciento menos de enfermedad coronaria, un veintiuno por ciento menos de enfermedad cardiovascular, un quince por ciento menos de cáncer en total y un veintidós por ciento menos de mortalidad por cualquier causa. También con menos muertes por enfermedades respiratorias y por diabetes. Y un dato honesto: con el accidente cerebrovascular no hubo una asociación clara. Los resultados fueron parecidos para las nueces de árbol y para el maní.",
+      "texto_pantalla": "28 g/día: −22 % mortalidad",
+      "referencia": "Aune D, 2016 · BMC Med",
+      "visual": {
+        "query": "almonds walnuts peanuts closeup"
+      }
+    },
+    {
+      "id": "legumbres",
+      "capitulo": "¿Y las legumbres?",
+      "emocion": "ensenanza",
+      "texto": "Ahora, las legumbres: frijoles, lentejas, garbanzos, arvejas. En dos mil veintitrés, Nikan Zargarzadeh y su equipo, de la Universidad de Ciencias Médicas de Teherán, con la participación de Aune, publicaron en Advances in Nutrition un metaanálisis de treinta y dos cohortes, con un millón ciento cuarenta y un mil setecientas noventa y tres personas y noventa y tres mil trescientas setenta y tres muertes. Este estudio encontró que comer más legumbres, comparado con comer menos, se asoció con un seis por ciento menos de mortalidad por cualquier causa y un nueve por ciento menos de muerte por accidente cerebrovascular. Pero no encontró asociación significativa con la muerte por enfermedad cardiovascular, coronaria ni por cáncer. Y calificaron la certeza de la evidencia entre baja y moderada. Un buen canal de ciencia también te cuenta lo que no salió positivo.",
+      "texto_pantalla": "Legumbres: −6 % mortalidad",
+      "referencia": "Zargarzadeh N, 2023 · Adv Nutr",
+      "visual": {
+        "query": "lentils beans chickpeas bowls"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Vamos con los mitos. Mito uno: los frutos secos son pura grasa, así que hacen daño. No toda grasa es igual: los propios investigadores adventistas propusieron que el perfil de grasas de muchos frutos secos podría explicar parte de lo que observaron. Mito dos: el maní no cuenta. En el metaanálisis de Aune, los resultados fueron parecidos para el maní y para las nueces de árbol; eso sí, piensa en maní natural, no frito ni cubierto de sal o azúcar. Mito tres: las legumbres son un superalimento milagroso. La evidencia muestra una asociación modesta con la mortalidad general y ninguna clara con el cáncer. Son un gran alimento, no un milagro.",
+      "texto_pantalla": "Mitos vs evidencia",
+      "visual": {
+        "query": "peanuts natural shell"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Ahora, los límites. Todos estos estudios son observacionales: comparan a personas que ya comían distinto, y no prueban causa y efecto. Quien come frutos secos y legumbres quizá también fuma menos, se mueve más o come menos ultraprocesados. Los autores ajustan por muchos de esos factores, pero siempre puede quedar algo sin medir. El consumo se midió con cuestionarios. El estudio adventista fue en adventistas blancos no hispanos de California, así que no se puede generalizar a todos. Y Aune estimó que cuatro coma cuatro millones de muertes prematuras en un año se podrían atribuir a comer menos de veinte gramos al día, pero aclaró: si las asociaciones son causales. Ese «si» es enorme. Y una advertencia importante: si tienes alergia a los frutos secos o al maní, nada de esto aplica para ti.",
+      "texto_pantalla": "«Si» las asociaciones son causales",
+      "visual": {
+        "query": "magnifying glass document"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "ensenanza",
+      "texto": "Y ahora, la respuesta que te prometí. ¿Cuánto al día? En dos mil diecinueve, Dagfinn Aune publicó en Advances in Nutrition una revisión de los metaanálisis sobre alimentos de origen vegetal. Las mayores reducciones de riesgo se observaron alrededor de quince a veinte gramos de frutos secos al día. Es decir, un puñado pequeño. No hace falta comer una bolsa entera. Y para las legumbres, cada cincuenta gramos más al día se asoció con un seis por ciento menos de mortalidad por cualquier causa. La misma revisión encontró algo parecido con las frutas, las verduras y los granos integrales. La idea de fondo no es un alimento mágico, sino un patrón: más plantas, menos ultraprocesados.",
+      "texto_pantalla": "15-20 g al día",
+      "referencia": "Aune D, 2019 · Adv Nutr",
+      "visual": {
+        "query": "small handful nuts palm"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "En tu cocina",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer esta semana? Primero, cambia un snack de paquete por un puñado pequeño de frutos secos naturales, sin sal ni azúcar añadida. Segundo, suma legumbres a tu menú varias veces por semana: unos frijoles, unas lentejas, un hummus de garbanzos. Tercero, prefiere el pan integral. Cuarto, recuerda que, desde el Edén, Dios dio al ser humano las semillas y los frutos como alimento, según Génesis uno, versículo veintinueve. Si tienes alergias, una enfermedad renal, diabetes o una dieta especial, consulta a tu médico o a tu nutricionista antes de hacer cambios. El domingo volvemos a la salud espiritual. Suscríbete a Cryptuline y cuéntame cuál es tu legumbre favorita.",
+      "referencia": "Génesis 1:29",
+      "visual": {
+        "query": "cooking beans home kitchen"
+      }
+    }
+  ]
+}

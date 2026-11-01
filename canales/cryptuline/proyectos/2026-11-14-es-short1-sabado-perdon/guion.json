@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "Un sábado para soltar el rencor",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Rencor guardado?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Un sábado para soltar el rencor #shorts",
+    "descripcion": "Un sábado para soltar el rencor.\n\n📚 Fuentes (PubMed):\n• Lee YR, Enright RD. A meta-analysis of the association between forgiveness of others and physical health. Psychol Health. 2019;34(5):626-643. https://pubmed.ncbi.nlm.nih.gov/30669877/ · https://doi.org/10.1080/08870446.2018.1554185\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "perdón",
+      "sábado",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hoy es un buen día para hacer una pausa. ¿Hay alguien a quien te cuesta perdonar?",
+      "texto_pantalla": "¿Rencor guardado?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "peaceful nature morning"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Un metaanálisis de Lee y Enright, con ciento veintiocho estudios, encontró una relación positiva, aunque modesta, entre perdonar a otros y la salud física. Es una correlación, no prueba causa. Y la Biblia nos invita, en Efesios cuatro, treinta y dos, a perdonarnos unos a otros, así como Dios nos perdonó en Cristo. Perdonar no es olvidar ni aguantar abusos: si hay violencia, busca ayuda. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Lee YR, 2019 · Psychol Health",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible light"
+      }
+    }
+  ]
+}
