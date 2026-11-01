@@ -5,13 +5,13 @@ description: "Escribe los guiones del canal YouTube @MayorDom (Mayordomía Bíbl
 
 # MayorDom YouTube — guiones y publicación vía motor
 
-> Versión 1.1 · 2026-11-01 · Regla única de citas; índice de CMC en el repo; segunda revisión antes del push.
+> Versión 1.2 · 2026-11-01 · Índice verificado de los 68 capítulos en `investigacion/cmc_indice.md`; la serie retoma con el capítulo 2 («Nuestro generoso benefactor») la semana del 9 de noviembre. Regla única de citas; segunda revisión antes del push.
 
 Canal: **MayorDom** (@MayorDom, ID `UCxGgMCMbyiCvRo_T-haI_Ug`, Perú). Idioma: español neutro latinoamericano. Todo gratis. La gerencia (calendario y qué se escribe) es de la skill director-canales.
 
 ## Fuentes de contenido
 - Biblia: la versión de mayor impacto para el tema (RVR1960, NVI, NTV, LBLA, etc.) o combinadas. Cada cita lleva su versión y sigue la Regla única de citas (todas las skills; ver director-canales).
-- Elena G. de White, en especial *Consejos sobre mayordomía cristiana* (edición en español: 15 secciones, 68 capítulos; egwwritings.org es_CMC(CS)). Citas según la Regla única de citas (todas las skills; ver director-canales). Capítulo de la semana: tomarlo de `investigacion/cmc_indice.md` (índice verificado); si falta, no inventar el título: avisar al Fundador.
+- Elena G. de White, en especial *Consejos sobre mayordomía cristiana* (edición en español: 15 secciones, 68 capítulos; índice verificado en `investigacion/cmc_indice.md`; texto para verificar citas con su página: PDF del Ellen G. White Estate en https://files.recursos-biblicos.com/EGW/Libros%20EGW%20PDF/Consejos%20sobre%20Mayordom%C3%ADa%20Cristiana.pdf, leído en una sesión con acceso web; egwwritings.org no permite lectura automática). Citas según la Regla única de citas (todas las skills; ver director-canales). Capítulo de la semana: tomarlo de `investigacion/cmc_indice.md` (índice verificado); si falta, no inventar el título: avisar al Fundador.
 - Material del Fundador en Drive: carpeta `1nSUHFNb5wjCPDuzfHilRuSwZ2M4GiiO1` (Sermonario de la Semana de Mayordomía 2026 «Todo por amor a Él» y libro).
 - Material oficial (sermonarios, lecciones): se adapta con redacción original, se acredita en la descripción y no se copia párrafo a párrafo.
 
