@@ -1,8 +1,7 @@
-# Último reporte (2026-11-02 01:12 UTC)
+# Último reporte (2026-11-02 04:18 UTC)
 
 ## Subidos
-- mayordom: 2026-11-03-es-short1-dador-alegre → https://youtu.be/ProbpkXL7mM
-- cryptuline: 2026-11-08-es-divulgacion-perdon-y-salud → https://youtu.be/7eOL1bDYK3U
+- cryptuline: 2026-11-08-es-short3-perdon-padrenuestro → https://youtu.be/ItPd8uvDZlc
 
 ## Fallos
 - escuela-sabatica-es: 2026-11-03-es-short1-el-libro-perdido: validate.py falló en 2026-11-03-es-short1-el-libro-perdido
