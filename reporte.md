@@ -1,7 +1,6 @@
-# Último reporte (2026-11-02 04:18 UTC)
+# Último reporte (2026-11-02 05:07 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-08-es-short3-perdon-padrenuestro → https://youtu.be/ItPd8uvDZlc
 
 ## Fallos
 - escuela-sabatica-es: 2026-11-03-es-short1-el-libro-perdido: validate.py falló en 2026-11-03-es-short1-el-libro-perdido
