@@ -21,7 +21,9 @@ from runner import token_file  # noqa: E402
 def creds(canal):
     from google.auth.transport.requests import Request
     from google.oauth2.credentials import Credentials
-    c = Credentials.from_authorized_user_file(str(Path.home() / ".yt-agent" / f"token_{canal}.json"))
+    info = json.loads((Path.home() / ".yt-agent" / f"token_{canal}.json").read_text())
+    info.pop("scopes", None)  # sin limitar permisos: así el token trae también YouTube Analytics
+    c = Credentials.from_authorized_user_info(info)
     c._token_uri = "https://www.googleapis.com/oauth2/v4/token"
     c.refresh(Request())
     return c

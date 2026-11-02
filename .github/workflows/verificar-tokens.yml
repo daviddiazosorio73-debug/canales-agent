@@ -1,0 +1,25 @@
+name: Verificar tokens de YouTube
+
+on:
+  schedule:
+    - cron: "20 7 2 11 *"   # 2-nov 07:20 UTC (02:20 Lima), después del reinicio de la cuota
+    - cron: "20 8 * * 1"    # cada lunes 03:20 Lima
+  workflow_dispatch: {}
+
+jobs:
+  verificar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q google-api-python-client google-auth-oauthlib
+      - name: Cada token abre su canal y tiene Analytics
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
+          REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
+          REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
+          REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+          REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
+        run: python scripts/verificar_tokens.py
