@@ -69,6 +69,7 @@ jobs:
           META_PAGE_TOKEN_ES_SABATICA: ${{ secrets.META_PAGE_TOKEN_ES_SABATICA }}
           META_PAGE_TOKEN_PT_SABATINA: ${{ secrets.META_PAGE_TOKEN_PT_SABATINA }}
           META_PAGE_TOKEN_CRYPTULINE: ${{ secrets.META_PAGE_TOKEN_CRYPTULINE }}
+          META_PAGE_TOKEN_IASD_SANLUIS: ${{ secrets.META_PAGE_TOKEN_IASD_SANLUIS }}
           GH_TOKEN: ${{ github.token }}
         run: python scripts/runner.py
 
@@ -118,6 +119,7 @@ jobs:
           META_PAGE_TOKEN_ES_SABATICA: ${{ secrets.META_PAGE_TOKEN_ES_SABATICA }}
           META_PAGE_TOKEN_PT_SABATINA: ${{ secrets.META_PAGE_TOKEN_PT_SABATINA }}
           META_PAGE_TOKEN_CRYPTULINE: ${{ secrets.META_PAGE_TOKEN_CRYPTULINE }}
+          META_PAGE_TOKEN_IASD_SANLUIS: ${{ secrets.META_PAGE_TOKEN_IASD_SANLUIS }}
           GH_TOKEN: ${{ github.token }}
         run: python scripts/meta.py publicar
 

@@ -29,6 +29,12 @@
       "secreto": "META_PAGE_TOKEN_MAYORDOM",
       "tipos": [
         "short"
+      ],
+      "extra": [
+        {
+          "secreto": "META_PAGE_TOKEN_IASD_SANLUIS",
+          "nombre": "Iglesia Adventista San Luis (solo Facebook)"
+        }
       ]
     },
     "prioridad": 3
@@ -57,6 +63,12 @@
       "secreto": "META_PAGE_TOKEN_ES_SABATICA",
       "tipos": [
         "short"
+      ],
+      "extra": [
+        {
+          "secreto": "META_PAGE_TOKEN_IASD_SANLUIS",
+          "nombre": "Iglesia Adventista San Luis (solo Facebook)"
+        }
       ]
     },
     "listas_desc": {

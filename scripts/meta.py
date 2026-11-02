@@ -71,7 +71,10 @@ def encolar(proj, canal):
     cola.append({"proyecto": proj.name, "asset": asset, "publicar_en": cuando, "caption": caption(g),
                  "instagram": None, "intentos": 0, "segundos": round(seg, 1),
                  # Reels de Facebook por API: de 3 a 90 s
-                 "facebook": None if seg <= 90 else "no aplica: dura más de 90 s"})
+                 "facebook": None if seg <= 90 else "no aplica: dura más de 90 s",
+                 # Páginas adicionales (solo Facebook), p. ej. la de la iglesia: {"SECRETO": null | enlace}
+                 "extra": {x["secreto"]: (None if seg <= 90 else "no aplica: dura más de 90 s")
+                           for x in m.get("extra", [])}})
     cola_p.write_text(json.dumps(cola, ensure_ascii=False, indent=2))
     print(f"meta: en cola {asset} para {cuando}")
 
@@ -142,7 +145,9 @@ def publicar():
         if not token or not cola_p.exists():
             continue
         cola = json.loads(cola_p.read_text())
-        listos = [c for c in cola if (not c["instagram"] or not c["facebook"]) and c["intentos"] < MAX_INTENTOS
+        pendiente = lambda c: (not c["instagram"] or not c["facebook"]  # noqa: E731
+                               or any(v is None and os.environ.get(k) for k, v in (c.get("extra") or {}).items()))
+        listos = [c for c in cola if pendiente(c) and c["intentos"] < MAX_INTENTOS
                   and datetime.fromisoformat(c["publicar_en"].replace("Z", "+00:00")) <= ahora]
         if not listos:
             continue
@@ -166,11 +171,18 @@ def publicar():
                 if not c["facebook"]:
                     c["facebook"] = reel_facebook(page_id, token, archivo, c["caption"])
                 print(f"meta: {canal} {c['proyecto']} → IG {c['instagram']} · FB {c['facebook']}")
+                for sec, hecho in (c.get("extra") or {}).items():
+                    tok = os.environ.get(sec)
+                    if hecho or not tok:
+                        continue
+                    pid, _ = ids(tok)
+                    c["extra"][sec] = reel_facebook(pid, tok, archivo, c["caption"])
+                    print(f"meta: {canal} {c['proyecto']} → también en {sec}: {c['extra'][sec]}")
             except Exception as e:
                 fallos.append(limpio(f"{canal}: {c['proyecto']}: {str(e)[:300]}"))
             finally:
                 archivo.unlink(missing_ok=True)
-            if c["instagram"] and c["facebook"]:
+            if not pendiente(c):
                 gh("release", "delete-asset", RELEASE, c["asset"], "--yes", check=False)
             cola_p.write_text(json.dumps(cola, ensure_ascii=False, indent=2))
     if fallos:
