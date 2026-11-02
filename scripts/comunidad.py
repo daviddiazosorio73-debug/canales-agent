@@ -142,4 +142,10 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:  # la cuota diaria de YouTube agotada no es un fallo: se reintenta en la próxima corrida
+        if "quotaExceeded" in str(e) or "exceeded your" in str(e):
+            print("Cuota diaria de YouTube agotada: se reintenta en la próxima corrida.")
+        else:
+            raise
