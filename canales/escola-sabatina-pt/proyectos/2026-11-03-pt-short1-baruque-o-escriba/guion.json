@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "O profeta que NÃO escreveu o próprio livro ✍️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Asistentes literarios"
+  },
+  "miniatura": {
+    "linea1": "O escriba de Jeremias",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O profeta que NÃO escreveu o próprio livro ✍️ #shorts",
+    "descripcion": "Um dos livros mais longos da Bíblia não foi escrito pela mão do profeta que recebeu a mensagem.\n\nJeremias 36:4\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "Um dos livros mais longos da Bíblia não foi escrito pela mão do profeta que recebeu a mensagem.",
+      "texto_pantalla": "O escriba de Jeremias",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient scribe writing scroll"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremias trinta e seis, versículo quatro. Jeremias chamou Baruque, e Baruque escreveu num rolo, ditado por Jeremias, todas as palavras que o Senhor lhe tinha falado. O tema de hoje na lição são os ajudantes que escreviam para os profetas. Deus deu a mensagem ao profeta, e um auxiliar fiel colocou tudo por escrito. A inspiração não depende de quem segura a pena, mas de quem dá a mensagem. Você também serve nos bastidores? Comente amém.",
+      "texto_pantalla": "O escriba de Jeremias",
+      "referencia": "Jeremias 36:4",
+      "emocion": "agil",
+      "visual": {
+        "query": "candle quill parchment"
+      }
+    }
+  ]
+}

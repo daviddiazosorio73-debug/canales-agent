@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "Pablo no escribió Romanos con su mano 😮",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Asistentes literarios"
+  },
+  "miniatura": {
+    "linea1": "«Yo Tercio, que escribí»",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Pablo no escribió Romanos con su mano 😮 #shorts",
+    "descripcion": "Al final de la carta a los Romanos aparece un saludo que sorprende a muchos.\n\nRomanos 16:22\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Al final de la carta a los Romanos aparece un saludo que sorprende a muchos.",
+      "texto_pantalla": "«Yo Tercio, que escribí»",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old letter ink pen"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Romanos dieciséis, versículo veintidós: Yo Tercio, que escribí la epístola, os saludo en el Señor. Pablo dictó la carta, y Tercio la escribió. Era una práctica común en esa época: los autores usaban secretarios. Pero el mensaje seguía siendo el de Pablo, inspirado por Dios. Un ayudante casi anónimo dejó su nombre en una de las cartas más importantes de la historia. Dios valora a cada persona que sirve en su obra, aunque nadie la aplauda. ¿Conocías a Tercio? Comenta y suscríbete para más Escuela Sabática en un minuto.",
+      "texto_pantalla": "«Yo Tercio, que escribí»",
+      "referencia": "Romanos 16:22",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient rome street"
+      }
+    }
+  ]
+}

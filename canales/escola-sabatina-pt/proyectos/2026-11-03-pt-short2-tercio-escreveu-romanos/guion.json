@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-03",
+  "tema": "Paulo não escreveu Romanos com a própria mão 😮",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 6,
+    "dia": "Asistentes literarios"
+  },
+  "miniatura": {
+    "linea1": "«Eu, Tércio, que escrevi»",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Paulo não escreveu Romanos com a própria mão 😮 #shorts",
+    "descripcion": "No final da carta aos Romanos aparece uma saudação que surpreende muita gente.\n\nRomanos 16:22\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Bíblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-03T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Início",
+      "texto": "No final da carta aos Romanos aparece uma saudação que surpreende muita gente.",
+      "texto_pantalla": "«Eu, Tércio, que escrevi»",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old letter ink pen"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Romanos dezesseis, versículo vinte e dois. Tércio, quem escreveu a carta, manda a sua saudação no Senhor. Paulo ditou, e Tércio escreveu. Era comum naquela época: os autores usavam secretários. Mas a mensagem continuava sendo de Paulo, inspirada por Deus. Um ajudante quase anônimo deixou o próprio nome numa das cartas mais importantes da história. Deus valoriza cada pessoa que serve na sua obra, mesmo quando ninguém aplaude. Você conhecia o Tércio? Comente e inscreva-se para mais Escola Sabatina em um minuto.",
+      "texto_pantalla": "«Eu, Tércio, que escrevi»",
+      "referencia": "Romanos 16:22",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient rome street"
+      }
+    }
+  ]
+}
