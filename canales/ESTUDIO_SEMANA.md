@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-02 13:11 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-02 14:01 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
