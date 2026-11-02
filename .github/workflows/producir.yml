@@ -95,6 +95,10 @@ jobs:
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
         run: python scripts/comentario_pregunta.py || echo "comentarios con aviso"
 
+      - name: Rutina semanal en YouTube Studio (enlaces para el Fundador)
+        if: always()
+        run: python scripts/estudio_semana.py || echo "rutina con aviso"
+
       - name: Top 10 - enlaces de la vuelta al mundo
         if: always()
         env:
