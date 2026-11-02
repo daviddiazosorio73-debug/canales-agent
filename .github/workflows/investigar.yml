@@ -26,7 +26,9 @@ jobs:
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
-        run: python scripts/investigacion.py
+        run: |
+          python scripts/investigacion.py
+          python scripts/monetizacion.py || echo "monetización: aviso"
       - name: Investigación científica (PubMed)
         run: pip install -q requests && python scripts/pubmed.py
       - name: Guardar

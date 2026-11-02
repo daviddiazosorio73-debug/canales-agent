@@ -84,6 +84,17 @@ jobs:
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
         run: python scripts/listas.py
 
+      - name: Comentario con pregunta (videos largos recién publicados)
+        if: always()
+        env:
+          GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+          GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
+          REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
+          REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
+          REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
+        run: python scripts/comentario_pregunta.py || echo "comentarios con aviso"
+
       - name: Top 10 - enlaces de la vuelta al mundo
         if: always()
         env:
