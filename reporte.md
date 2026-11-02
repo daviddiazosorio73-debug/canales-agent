@@ -1,7 +1,6 @@
-# Último reporte (2026-11-02 06:09 UTC)
+# Último reporte (2026-11-02 07:32 UTC)
 
 ## Subidos
-- mayordom: 2026-11-03-es-short2-abram-diezmo → https://youtu.be/qvAZHnfAN38
 
 ## Fallos
 - escuela-sabatica-es: 2026-11-03-es-short1-el-libro-perdido: validate.py falló en 2026-11-03-es-short1-el-libro-perdido
