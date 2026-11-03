@@ -1,7 +1,9 @@
-# Último reporte (2026-11-03 13:09 UTC)
+# Último reporte (2026-11-03 14:23 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-10-es-short1-sueno-poco → https://youtu.be/Im5iBu_x42k
+- escuela-sabatica-es: 2026-11-04-es-short3-pablo-cita-poetas → https://youtu.be/pJ8r7yCMD0I
+- escola-sabatina-pt: 2026-11-04-pt-short3-paulo-cita-poetas → https://youtu.be/2wjZu1X4eTA
+- mayordom: 2026-11-04-es-short3-jesus-diezmaba-teaser → https://youtu.be/SHbhJvYe1To
 
 ## Fallos
 
