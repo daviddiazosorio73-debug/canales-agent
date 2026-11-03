@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-02 20:14 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-02 21:17 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | vie 30 | [Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) | [fijar](https://studio.youtube.com/video/0arQoBewiJY/comments) | [editar](https://studio.youtube.com/video/0arQoBewiJY/edit) | — | sí |
 | lun 02 | [Parábola de los talentos: el siervo que lo perdió todo sin r](https://youtu.be/MD7kZK8XjFw) | [fijar](https://studio.youtube.com/video/MD7kZK8XjFw/comments) | [editar](https://studio.youtube.com/video/MD7kZK8XjFw/edit) | — | — |
 
-**Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: Lo perdió TODO sin robar nada 😳 #shorts](https://youtube.com/shorts/DcRGSKbv1tU)
+**Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: Las 5 palabras que todo cristiano quiere escuchar ✨ #shorts](https://youtube.com/shorts/TlHkcAVvGqE)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: El libro que Moisés mandó guardar JUNTO al arca 📦 #shorts](https://youtube.com/shorts/XTBNhlX_vZU)
+**Escuchar:** [Short: Lo que Dios mandó escribir para los días OSCUROS 🕯️ #shorts](https://youtube.com/shorts/dUxYIDUQRwI)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: O livro que Moisés mandou guardar AO LADO da arca 📦 #shorts](https://youtube.com/shorts/re5C34or_R8)
+**Escuchar:** [Short: O que Deus mandou escrever para os dias mais ESCUROS 🕯️ #sho](https://youtube.com/shorts/ENJ5eX6T5uo)
 
 ## Top 10 Redes Sociales
 
@@ -46,5 +46,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | dom 01 | [¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) | [fijar](https://studio.youtube.com/video/p7igaDw-leA/comments) | [editar](https://studio.youtube.com/video/p7igaDw-leA/edit) | [revisar](https://studio.youtube.com/video/p7igaDw-leA/translations) | sí |
 
-**Escuchar:** [largo: ¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) · [Short: Si tienes más de 60, ¿cuántos pasos necesitas? #shorts](https://youtube.com/shorts/ZIlJnfl08jw)
+**Escuchar:** [largo: ¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) · [Short: Los primeros pasos son los que más cuentan #shorts](https://youtube.com/shorts/ksxymUPJ6IY)
 
