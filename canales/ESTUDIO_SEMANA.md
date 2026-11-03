@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-03 12:57 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-03 14:08 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | vie 30 | [Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) | [fijar](https://studio.youtube.com/video/0arQoBewiJY/comments) | [editar](https://studio.youtube.com/video/0arQoBewiJY/edit) | — | sí |
 | lun 02 | [Parábola de los talentos: el siervo que lo perdió todo sin r](https://youtu.be/MD7kZK8XjFw) | [fijar](https://studio.youtube.com/video/MD7kZK8XjFw/comments) | [editar](https://studio.youtube.com/video/MD7kZK8XjFw/edit) | — | — |
 
-**Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: ¿Dios quiere tu dinero o tu ALEGRÍA? 😊 #shorts](https://youtube.com/shorts/ProbpkXL7mM)
+**Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: El diezmo existía ANTES de Moisés 📜 #shorts](https://youtube.com/shorts/qvAZHnfAN38)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: El profeta que NO escribió su propio libro ✍️ #shorts](https://youtube.com/shorts/1JJwhsZ7pQ8)
+**Escuchar:** [Short: Pablo no escribió Romanos con su mano 😮 #shorts](https://youtube.com/shorts/sXjS93FnwlI)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: O profeta que NÃO escreveu o próprio livro ✍️ #shorts](https://youtube.com/shorts/NpSzI33Z9zo)
+**Escuchar:** [Short: Paulo não escreveu Romanos com a própria mão 😮 #shorts](https://youtube.com/shorts/_R_5VcNy0Vw)
 
 ## Top 10 Redes Sociales
 
@@ -46,5 +46,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | dom 01 | [¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) | [fijar](https://studio.youtube.com/video/p7igaDw-leA/comments) | [editar](https://studio.youtube.com/video/p7igaDw-leA/edit) | [revisar](https://studio.youtube.com/video/p7igaDw-leA/translations) | sí |
 
-**Escuchar:** [largo: ¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) · [Short: Los que más caminaban: 53 % menos riesgo #shorts](https://youtube.com/shorts/Ze8WF2uwMic)
+**Escuchar:** [largo: ¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) · [Short: ¿Caminar rápido importa más que caminar mucho? #shorts](https://youtube.com/shorts/qkCXn_GtvaI)
 

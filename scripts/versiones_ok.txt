@@ -199,7 +199,7 @@ uritemplate==4.2.0
 urllib3==2.6.3
 userpath==1.9.2
 uvicorn==0.54.0
-virtualenv==21.15.2
+virtualenv==21.15.3
 wadllib==2.0.0
 wheel==0.46.3
 wrapt==2.5.2
