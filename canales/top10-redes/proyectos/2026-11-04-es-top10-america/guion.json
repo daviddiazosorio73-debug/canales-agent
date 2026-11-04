@@ -36,12 +36,23 @@
       "top10america",
       "mrbeast",
       "rekrap1",
-      "joshsundquist"
+      "joshsundquist",
+      "apple",
+      "paws & hearts",
+      "skibidi",
+      "flamefrags",
+      "nathan doan comedy",
+      "roblox"
     ],
     "hashtags": [
       "Top10RS",
       "Top10America",
-      "Virales"
+      "Virales",
+      "relatable",
+      "gaming",
+      "roblox",
+      "november",
+      "chickenleigh"
     ],
     "localizaciones": {
       "en": {
@@ -90,7 +101,116 @@
       "modo": "completo",
       "emocion": "agil",
       "texto": "Empezamos con los diez videos más vistos. En el puesto diez, desde Estados Unidos, Jane Williamson, con un video publicado hace dos días. Más de quince millones de vistas. Un Short de apenas sesenta segundos. Lo logró en apenas dos días.",
-      "capitulo": "Top 10 más vistos"
+      "capitulo": "Top 10 más vistos",
+      "ficha_anim": [
+        "imagenes/v10_cnt_00.jpg",
+        "imagenes/v10_cnt_01.jpg",
+        "imagenes/v10_cnt_02.jpg",
+        "imagenes/v10_cnt_03.jpg",
+        "imagenes/v10_cnt_04.jpg",
+        "imagenes/v10_cnt_05.jpg",
+        "imagenes/v10_cnt_06.jpg",
+        "imagenes/v10_cnt_07.jpg",
+        "imagenes/v10_cnt_08.jpg",
+        "imagenes/v10_cnt_09.jpg",
+        "imagenes/v10_cnt_10.jpg",
+        "imagenes/v10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 1.076,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v09",
@@ -98,7 +218,111 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Llegamos al puesto nueve, desde Estados Unidos, Nathan Doan Comedy, con un video publicado hace cinco días. Más de dieciséis millones de vistas. Además suma más de dos mil comentarios."
+      "texto": "Llegamos al puesto nueve, desde Estados Unidos, Nathan Doan Comedy, con un video publicado hace cinco días. Más de dieciséis millones de vistas. Además suma más de dos mil comentarios.",
+      "ficha_anim": [
+        "imagenes/v09_cnt_00.jpg",
+        "imagenes/v09_cnt_01.jpg",
+        "imagenes/v09_cnt_02.jpg",
+        "imagenes/v09_cnt_03.jpg",
+        "imagenes/v09_cnt_04.jpg",
+        "imagenes/v09_cnt_05.jpg",
+        "imagenes/v09_cnt_06.jpg",
+        "imagenes/v09_cnt_07.jpg",
+        "imagenes/v09_cnt_08.jpg",
+        "imagenes/v09_cnt_09.jpg",
+        "imagenes/v09_cnt_10.jpg",
+        "imagenes/v09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 3.048,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v08",
@@ -106,7 +330,111 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En el puesto ocho, desde Estados Unidos, Zach King, con un video publicado hace tres días. Más de dieciocho millones de vistas. Un Short de apenas veintidós segundos. Además suma cuatrocientos doce comentarios."
+      "texto": "En el puesto ocho, desde Estados Unidos, Zach King, con un video publicado hace tres días. Más de dieciocho millones de vistas. Un Short de apenas veintidós segundos. Además suma cuatrocientos doce comentarios.",
+      "ficha_anim": [
+        "imagenes/v08_cnt_00.jpg",
+        "imagenes/v08_cnt_01.jpg",
+        "imagenes/v08_cnt_02.jpg",
+        "imagenes/v08_cnt_03.jpg",
+        "imagenes/v08_cnt_04.jpg",
+        "imagenes/v08_cnt_05.jpg",
+        "imagenes/v08_cnt_06.jpg",
+        "imagenes/v08_cnt_07.jpg",
+        "imagenes/v08_cnt_08.jpg",
+        "imagenes/v08_cnt_09.jpg",
+        "imagenes/v08_cnt_10.jpg",
+        "imagenes/v08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 4.88,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v07",
@@ -114,7 +442,116 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Llegamos al puesto siete, desde Estados Unidos, Filaretiki, con un video publicado hace cinco días. Más de veinte millones de vistas. Un Short de apenas sesenta segundos. Además suma doscientos cuarenta y cuatro comentarios."
+      "texto": "Llegamos al puesto siete, desde Estados Unidos, Filaretiki, con un video publicado hace cinco días. Más de veinte millones de vistas. Un Short de apenas sesenta segundos. Además suma doscientos cuarenta y cuatro comentarios.",
+      "ficha_anim": [
+        "imagenes/v07_cnt_00.jpg",
+        "imagenes/v07_cnt_01.jpg",
+        "imagenes/v07_cnt_02.jpg",
+        "imagenes/v07_cnt_03.jpg",
+        "imagenes/v07_cnt_04.jpg",
+        "imagenes/v07_cnt_05.jpg",
+        "imagenes/v07_cnt_06.jpg",
+        "imagenes/v07_cnt_07.jpg",
+        "imagenes/v07_cnt_08.jpg",
+        "imagenes/v07_cnt_09.jpg",
+        "imagenes/v07_cnt_10.jpg",
+        "imagenes/v07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v07_02.jpg",
+          "dur": 0.814,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v06",
@@ -122,7 +559,121 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Puesto seis, desde Estados Unidos, JoshSundquist, con un video publicado hace cinco días. Más de veintidós millones de vistas. Tiene la mejor tasa de interacción de esta lista: seis de cada cien personas dieron like o comentaron. Además suma más de cuatro mil comentarios."
+      "texto": "Puesto seis, desde Estados Unidos, JoshSundquist, con un video publicado hace cinco días. Más de veintidós millones de vistas. Tiene la mejor tasa de interacción de esta lista: seis de cada cien personas dieron like o comentaron. Además suma más de cuatro mil comentarios.",
+      "ficha_anim": [
+        "imagenes/v06_cnt_00.jpg",
+        "imagenes/v06_cnt_01.jpg",
+        "imagenes/v06_cnt_02.jpg",
+        "imagenes/v06_cnt_03.jpg",
+        "imagenes/v06_cnt_04.jpg",
+        "imagenes/v06_cnt_05.jpg",
+        "imagenes/v06_cnt_06.jpg",
+        "imagenes/v06_cnt_07.jpg",
+        "imagenes/v06_cnt_08.jpg",
+        "imagenes/v06_cnt_09.jpg",
+        "imagenes/v06_cnt_10.jpg",
+        "imagenes/v06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v06_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v06_02.jpg",
+          "dur": 3.972,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v05",
@@ -130,7 +681,116 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En la posición número cinco, desde Estados Unidos, History Seeker, con un video publicado hace cinco días. Más de veintidós millones de vistas. Un Short de apenas ocho segundos. Además suma seiscientos seis comentarios."
+      "texto": "En la posición número cinco, desde Estados Unidos, History Seeker, con un video publicado hace cinco días. Más de veintidós millones de vistas. Un Short de apenas ocho segundos. Además suma seiscientos seis comentarios.",
+      "ficha_anim": [
+        "imagenes/v05_cnt_00.jpg",
+        "imagenes/v05_cnt_01.jpg",
+        "imagenes/v05_cnt_02.jpg",
+        "imagenes/v05_cnt_03.jpg",
+        "imagenes/v05_cnt_04.jpg",
+        "imagenes/v05_cnt_05.jpg",
+        "imagenes/v05_cnt_06.jpg",
+        "imagenes/v05_cnt_07.jpg",
+        "imagenes/v05_cnt_08.jpg",
+        "imagenes/v05_cnt_09.jpg",
+        "imagenes/v05_cnt_10.jpg",
+        "imagenes/v05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v05_02.jpg",
+          "dur": 0.701,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v04",
@@ -138,7 +798,111 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En la posición número cuatro, desde Estados Unidos, Sony Pictures Entertainment, con un video publicado hace seis días. Más de veintitrés millones de vistas. Además suma más de dos mil comentarios."
+      "texto": "En la posición número cuatro, desde Estados Unidos, Sony Pictures Entertainment, con un video publicado hace seis días. Más de veintitrés millones de vistas. Además suma más de dos mil comentarios.",
+      "ficha_anim": [
+        "imagenes/v04_cnt_00.jpg",
+        "imagenes/v04_cnt_01.jpg",
+        "imagenes/v04_cnt_02.jpg",
+        "imagenes/v04_cnt_03.jpg",
+        "imagenes/v04_cnt_04.jpg",
+        "imagenes/v04_cnt_05.jpg",
+        "imagenes/v04_cnt_06.jpg",
+        "imagenes/v04_cnt_07.jpg",
+        "imagenes/v04_cnt_08.jpg",
+        "imagenes/v04_cnt_09.jpg",
+        "imagenes/v04_cnt_10.jpg",
+        "imagenes/v04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 4.767,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v03",
@@ -147,7 +911,116 @@
       "modo": "completo",
       "emocion": "enfasis",
       "texto": "Medalla de bronce, desde Estados Unidos, Paws & Hearts, con un video publicado hace cuatro días. Más de treinta y tres millones de vistas. Un Short de apenas sesenta segundos. Además suma más de dos mil comentarios.",
-      "capitulo": "El podio"
+      "capitulo": "El podio",
+      "ficha_anim": [
+        "imagenes/v03_cnt_00.jpg",
+        "imagenes/v03_cnt_01.jpg",
+        "imagenes/v03_cnt_02.jpg",
+        "imagenes/v03_cnt_03.jpg",
+        "imagenes/v03_cnt_04.jpg",
+        "imagenes/v03_cnt_05.jpg",
+        "imagenes/v03_cnt_06.jpg",
+        "imagenes/v03_cnt_07.jpg",
+        "imagenes/v03_cnt_08.jpg",
+        "imagenes/v03_cnt_09.jpg",
+        "imagenes/v03_cnt_10.jpg",
+        "imagenes/v03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v03_02.jpg",
+          "dur": 0.81,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v02",
@@ -155,7 +1028,111 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, Apple, con un video publicado hace seis días. Más de cuarenta y tres millones de vistas. Además suma más de sesenta y dos mil likes."
+      "texto": "Medalla de plata, desde Estados Unidos, Apple, con un video publicado hace seis días. Más de cuarenta y tres millones de vistas. Además suma más de sesenta y dos mil likes.",
+      "ficha_anim": [
+        "imagenes/v02_cnt_00.jpg",
+        "imagenes/v02_cnt_01.jpg",
+        "imagenes/v02_cnt_02.jpg",
+        "imagenes/v02_cnt_03.jpg",
+        "imagenes/v02_cnt_04.jpg",
+        "imagenes/v02_cnt_05.jpg",
+        "imagenes/v02_cnt_06.jpg",
+        "imagenes/v02_cnt_07.jpg",
+        "imagenes/v02_cnt_08.jpg",
+        "imagenes/v02_cnt_09.jpg",
+        "imagenes/v02_cnt_10.jpg",
+        "imagenes/v02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 4.09,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v01",
@@ -163,7 +1140,123 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Redoble de tambores. El número uno de los más vistos, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de cincuenta y seis millones de vistas. Fue el que más rápido creció de esta lista: cerca de quinientos diez mil vistas por hora. Un Short de apenas treinta y tres segundos."
+      "texto": "Redoble de tambores. El número uno de los más vistos, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de cincuenta y seis millones de vistas. Fue el que más rápido creció de esta lista: cerca de quinientos diez mil vistas por hora. Un Short de apenas treinta y tres segundos.",
+      "ficha_anim": [
+        "imagenes/v01_cnt_00.jpg",
+        "imagenes/v01_cnt_01.jpg",
+        "imagenes/v01_cnt_02.jpg",
+        "imagenes/v01_cnt_03.jpg",
+        "imagenes/v01_cnt_04.jpg",
+        "imagenes/v01_cnt_05.jpg",
+        "imagenes/v01_cnt_06.jpg",
+        "imagenes/v01_cnt_07.jpg",
+        "imagenes/v01_cnt_08.jpg",
+        "imagenes/v01_cnt_09.jpg",
+        "imagenes/v01_cnt_10.jpg",
+        "imagenes/v01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_views.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v01_02.jpg",
+          "dur": 0.232,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_card.jpg",
+          "dur": 1.512,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_views.jpg",
+          "dur": 6.001,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c10",
@@ -172,7 +1265,111 @@
       "modo": "rapido",
       "emocion": "agil",
       "texto": "Pasamos a la conversación: los diez videos más comentados. En el puesto diez, desde Estados Unidos, Jane Williamson, con un video publicado hace dos días. Más de ocho mil comentarios. Un Short de apenas sesenta segundos. Lo logró en apenas dos días.",
-      "capitulo": "Top 10 más comentados"
+      "capitulo": "Top 10 más comentados",
+      "ficha_anim": [
+        "imagenes/c10_cnt_00.jpg",
+        "imagenes/c10_cnt_01.jpg",
+        "imagenes/c10_cnt_02.jpg",
+        "imagenes/c10_cnt_03.jpg",
+        "imagenes/c10_cnt_04.jpg",
+        "imagenes/c10_cnt_05.jpg",
+        "imagenes/c10_cnt_06.jpg",
+        "imagenes/c10_cnt_07.jpg",
+        "imagenes/c10_cnt_08.jpg",
+        "imagenes/c10_cnt_09.jpg",
+        "imagenes/c10_cnt_10.jpg",
+        "imagenes/c10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c10_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c10_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_card.jpg",
+          "dur": 6.912,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c09",
@@ -180,7 +1377,111 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número nueve, desde Brasil, Emilly Vick, con un video publicado hace cinco días. Más de nueve mil comentarios. Además suma más de seis coma cuatro millones de vistas."
+      "texto": "Ahora, el número nueve, desde Brasil, Emilly Vick, con un video publicado hace cinco días. Más de nueve mil comentarios. Además suma más de seis coma cuatro millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c09_cnt_00.jpg",
+        "imagenes/c09_cnt_01.jpg",
+        "imagenes/c09_cnt_02.jpg",
+        "imagenes/c09_cnt_03.jpg",
+        "imagenes/c09_cnt_04.jpg",
+        "imagenes/c09_cnt_05.jpg",
+        "imagenes/c09_cnt_06.jpg",
+        "imagenes/c09_cnt_07.jpg",
+        "imagenes/c09_cnt_08.jpg",
+        "imagenes/c09_cnt_09.jpg",
+        "imagenes/c09_cnt_10.jpg",
+        "imagenes/c09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c09_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c09_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_card.jpg",
+          "dur": 4.744,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c08",
@@ -188,7 +1489,111 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En la posición número ocho, desde Estados Unidos, CarterPCs, con un video publicado hace cuatro días. Más de doce mil comentarios. Un Short de apenas veinticinco segundos. Además suma más de diez millones de vistas."
+      "texto": "En la posición número ocho, desde Estados Unidos, CarterPCs, con un video publicado hace cuatro días. Más de doce mil comentarios. Un Short de apenas veinticinco segundos. Además suma más de diez millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c08_cnt_00.jpg",
+        "imagenes/c08_cnt_01.jpg",
+        "imagenes/c08_cnt_02.jpg",
+        "imagenes/c08_cnt_03.jpg",
+        "imagenes/c08_cnt_04.jpg",
+        "imagenes/c08_cnt_05.jpg",
+        "imagenes/c08_cnt_06.jpg",
+        "imagenes/c08_cnt_07.jpg",
+        "imagenes/c08_cnt_08.jpg",
+        "imagenes/c08_cnt_09.jpg",
+        "imagenes/c08_cnt_10.jpg",
+        "imagenes/c08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c08_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c08_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_card.jpg",
+          "dur": 5.978,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c07",
@@ -196,7 +1601,111 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número siete, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de trece mil comentarios. Fue el que más rápido creció de esta lista: cerca de quinientos diez mil vistas por hora. Un Short de apenas treinta y tres segundos."
+      "texto": "Ahora, el número siete, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de trece mil comentarios. Fue el que más rápido creció de esta lista: cerca de quinientos diez mil vistas por hora. Un Short de apenas treinta y tres segundos.",
+      "ficha_anim": [
+        "imagenes/c07_cnt_00.jpg",
+        "imagenes/c07_cnt_01.jpg",
+        "imagenes/c07_cnt_02.jpg",
+        "imagenes/c07_cnt_03.jpg",
+        "imagenes/c07_cnt_04.jpg",
+        "imagenes/c07_cnt_05.jpg",
+        "imagenes/c07_cnt_06.jpg",
+        "imagenes/c07_cnt_07.jpg",
+        "imagenes/c07_cnt_08.jpg",
+        "imagenes/c07_cnt_09.jpg",
+        "imagenes/c07_cnt_10.jpg",
+        "imagenes/c07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c07_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c07_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_card.jpg",
+          "dur": 9.108,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c06",
@@ -204,7 +1713,111 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto seis, desde Estados Unidos, Bethesda Softworks, con un video publicado hace un día. Más de trece mil comentarios. Tiene la mejor tasa de interacción de esta lista: siete de cada cien personas dieron like o comentaron. Lo logró en apenas un día."
+      "texto": "En el puesto seis, desde Estados Unidos, Bethesda Softworks, con un video publicado hace un día. Más de trece mil comentarios. Tiene la mejor tasa de interacción de esta lista: siete de cada cien personas dieron like o comentaron. Lo logró en apenas un día.",
+      "ficha_anim": [
+        "imagenes/c06_cnt_00.jpg",
+        "imagenes/c06_cnt_01.jpg",
+        "imagenes/c06_cnt_02.jpg",
+        "imagenes/c06_cnt_03.jpg",
+        "imagenes/c06_cnt_04.jpg",
+        "imagenes/c06_cnt_05.jpg",
+        "imagenes/c06_cnt_06.jpg",
+        "imagenes/c06_cnt_07.jpg",
+        "imagenes/c06_cnt_08.jpg",
+        "imagenes/c06_cnt_09.jpg",
+        "imagenes/c06_cnt_10.jpg",
+        "imagenes/c06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c06_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c06_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_card.jpg",
+          "dur": 10.827,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c05",
@@ -212,7 +1825,111 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En la posición número cinco, desde Puerto Rico, Gamer Robot, con un video publicado hace seis días. Más de diecinueve mil comentarios. Además suma más de uno coma nueve millones de vistas."
+      "texto": "En la posición número cinco, desde Puerto Rico, Gamer Robot, con un video publicado hace seis días. Más de diecinueve mil comentarios. Además suma más de uno coma nueve millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c05_cnt_00.jpg",
+        "imagenes/c05_cnt_01.jpg",
+        "imagenes/c05_cnt_02.jpg",
+        "imagenes/c05_cnt_03.jpg",
+        "imagenes/c05_cnt_04.jpg",
+        "imagenes/c05_cnt_05.jpg",
+        "imagenes/c05_cnt_06.jpg",
+        "imagenes/c05_cnt_07.jpg",
+        "imagenes/c05_cnt_08.jpg",
+        "imagenes/c05_cnt_09.jpg",
+        "imagenes/c05_cnt_10.jpg",
+        "imagenes/c05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c05_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c05_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_card.jpg",
+          "dur": 4.744,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c04",
@@ -220,7 +1937,111 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto cuatro, desde Estados Unidos, Tonight's Conversation, con un video publicado hace seis días. Más de veinte mil comentarios. Además suma más de cinco coma cinco millones de vistas."
+      "texto": "Llegamos al puesto cuatro, desde Estados Unidos, Tonight's Conversation, con un video publicado hace seis días. Más de veinte mil comentarios. Además suma más de cinco coma cinco millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c04_cnt_00.jpg",
+        "imagenes/c04_cnt_01.jpg",
+        "imagenes/c04_cnt_02.jpg",
+        "imagenes/c04_cnt_03.jpg",
+        "imagenes/c04_cnt_04.jpg",
+        "imagenes/c04_cnt_05.jpg",
+        "imagenes/c04_cnt_06.jpg",
+        "imagenes/c04_cnt_07.jpg",
+        "imagenes/c04_cnt_08.jpg",
+        "imagenes/c04_cnt_09.jpg",
+        "imagenes/c04_cnt_10.jpg",
+        "imagenes/c04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c04_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c04_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_card.jpg",
+          "dur": 4.744,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c03",
@@ -228,7 +2049,111 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, FlameFrags, con un video publicado hace tres días. Más de veintitrés mil comentarios. Un video de más de ciento cuarenta y seis minutos, y aun así la gente se quedó a verlo. Además suma más de cuatro coma nueve millones de vistas."
+      "texto": "Medalla de bronce, desde Estados Unidos, FlameFrags, con un video publicado hace tres días. Más de veintitrés mil comentarios. Un video de más de ciento cuarenta y seis minutos, y aun así la gente se quedó a verlo. Además suma más de cuatro coma nueve millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c03_cnt_00.jpg",
+        "imagenes/c03_cnt_01.jpg",
+        "imagenes/c03_cnt_02.jpg",
+        "imagenes/c03_cnt_03.jpg",
+        "imagenes/c03_cnt_04.jpg",
+        "imagenes/c03_cnt_05.jpg",
+        "imagenes/c03_cnt_06.jpg",
+        "imagenes/c03_cnt_07.jpg",
+        "imagenes/c03_cnt_08.jpg",
+        "imagenes/c03_cnt_09.jpg",
+        "imagenes/c03_cnt_10.jpg",
+        "imagenes/c03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c03_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c03_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_card.jpg",
+          "dur": 12.12,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c02",
@@ -236,7 +2161,111 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, skibidi, con un video publicado hace cuatro días. Más de veintisiete mil comentarios. Además suma más de seis coma nueve millones de vistas."
+      "texto": "Medalla de plata, desde Estados Unidos, skibidi, con un video publicado hace cuatro días. Más de veintisiete mil comentarios. Además suma más de seis coma nueve millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c02_cnt_00.jpg",
+        "imagenes/c02_cnt_01.jpg",
+        "imagenes/c02_cnt_02.jpg",
+        "imagenes/c02_cnt_03.jpg",
+        "imagenes/c02_cnt_04.jpg",
+        "imagenes/c02_cnt_05.jpg",
+        "imagenes/c02_cnt_06.jpg",
+        "imagenes/c02_cnt_07.jpg",
+        "imagenes/c02_cnt_08.jpg",
+        "imagenes/c02_cnt_09.jpg",
+        "imagenes/c02_cnt_10.jpg",
+        "imagenes/c02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c02_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c02_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_card.jpg",
+          "dur": 4.91,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c01",
@@ -244,7 +2273,118 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Redoble de tambores. El número uno de los más comentados, desde Estados Unidos, rekrap1, con un video publicado hace cinco días. Más de cuarenta y siete mil comentarios. Además suma más de cinco coma seis millones de vistas."
+      "texto": "Redoble de tambores. El número uno de los más comentados, desde Estados Unidos, rekrap1, con un video publicado hace cinco días. Más de cuarenta y siete mil comentarios. Además suma más de cinco coma seis millones de vistas.",
+      "ficha_anim": [
+        "imagenes/c01_cnt_00.jpg",
+        "imagenes/c01_cnt_01.jpg",
+        "imagenes/c01_cnt_02.jpg",
+        "imagenes/c01_cnt_03.jpg",
+        "imagenes/c01_cnt_04.jpg",
+        "imagenes/c01_cnt_05.jpg",
+        "imagenes/c01_cnt_06.jpg",
+        "imagenes/c01_cnt_07.jpg",
+        "imagenes/c01_cnt_08.jpg",
+        "imagenes/c01_cnt_09.jpg",
+        "imagenes/c01_cnt_10.jpg",
+        "imagenes/c01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_comments.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/c01_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c01_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_comments.jpg",
+          "dur": 4.706,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l10",
@@ -253,7 +2393,111 @@
       "modo": "rapido",
       "emocion": "agil",
       "texto": "Y la última lista: los diez videos con más likes. Ahora, el número diez, desde Estados Unidos, Tonight's Conversation, con un video publicado hace seis días. Más de trescientos treinta y nueve mil likes. Tiene la mejor tasa de interacción de esta lista: siete de cada cien personas dieron like o comentaron. Además suma más de cinco coma cinco millones de vistas.",
-      "capitulo": "Top 10 con más likes"
+      "capitulo": "Top 10 con más likes",
+      "ficha_anim": [
+        "imagenes/l10_cnt_00.jpg",
+        "imagenes/l10_cnt_01.jpg",
+        "imagenes/l10_cnt_02.jpg",
+        "imagenes/l10_cnt_03.jpg",
+        "imagenes/l10_cnt_04.jpg",
+        "imagenes/l10_cnt_05.jpg",
+        "imagenes/l10_cnt_06.jpg",
+        "imagenes/l10_cnt_07.jpg",
+        "imagenes/l10_cnt_08.jpg",
+        "imagenes/l10_cnt_09.jpg",
+        "imagenes/l10_cnt_10.jpg",
+        "imagenes/l10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l10_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l10_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_card.jpg",
+          "dur": 14.941,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l09",
@@ -261,7 +2505,111 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número nueve, desde Estados Unidos, studby, con un video publicado hace seis días. Más de trescientos cuarenta mil likes. Además suma más de trece millones de vistas."
+      "texto": "Ahora, el número nueve, desde Estados Unidos, studby, con un video publicado hace seis días. Más de trescientos cuarenta mil likes. Además suma más de trece millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l09_cnt_00.jpg",
+        "imagenes/l09_cnt_01.jpg",
+        "imagenes/l09_cnt_02.jpg",
+        "imagenes/l09_cnt_03.jpg",
+        "imagenes/l09_cnt_04.jpg",
+        "imagenes/l09_cnt_05.jpg",
+        "imagenes/l09_cnt_06.jpg",
+        "imagenes/l09_cnt_07.jpg",
+        "imagenes/l09_cnt_08.jpg",
+        "imagenes/l09_cnt_09.jpg",
+        "imagenes/l09_cnt_10.jpg",
+        "imagenes/l09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l09_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l09_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_card.jpg",
+          "dur": 3.809,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l08",
@@ -269,7 +2617,111 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto ocho, desde Estados Unidos, Film Reel Talk, con un video publicado hace cuatro días. Más de trescientos setenta y cuatro mil likes. Y ojo: es un canal de unos cinco mil suscriptores que esta semana jugó en las grandes ligas. Además suma más de diez millones de vistas."
+      "texto": "Llegamos al puesto ocho, desde Estados Unidos, Film Reel Talk, con un video publicado hace cuatro días. Más de trescientos setenta y cuatro mil likes. Y ojo: es un canal de unos cinco mil suscriptores que esta semana jugó en las grandes ligas. Además suma más de diez millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l08_cnt_00.jpg",
+        "imagenes/l08_cnt_01.jpg",
+        "imagenes/l08_cnt_02.jpg",
+        "imagenes/l08_cnt_03.jpg",
+        "imagenes/l08_cnt_04.jpg",
+        "imagenes/l08_cnt_05.jpg",
+        "imagenes/l08_cnt_06.jpg",
+        "imagenes/l08_cnt_07.jpg",
+        "imagenes/l08_cnt_08.jpg",
+        "imagenes/l08_cnt_09.jpg",
+        "imagenes/l08_cnt_10.jpg",
+        "imagenes/l08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l08_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l08_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_card.jpg",
+          "dur": 9.184,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l07",
@@ -277,7 +2729,111 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto siete, desde Estados Unidos, Paws & Hearts, con un video publicado hace cuatro días. Más de trescientos ochenta y cinco mil likes. Un Short de apenas sesenta segundos. Además suma más de treinta y tres millones de vistas."
+      "texto": "En el puesto siete, desde Estados Unidos, Paws & Hearts, con un video publicado hace cuatro días. Más de trescientos ochenta y cinco mil likes. Un Short de apenas sesenta segundos. Además suma más de treinta y tres millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l07_cnt_00.jpg",
+        "imagenes/l07_cnt_01.jpg",
+        "imagenes/l07_cnt_02.jpg",
+        "imagenes/l07_cnt_03.jpg",
+        "imagenes/l07_cnt_04.jpg",
+        "imagenes/l07_cnt_05.jpg",
+        "imagenes/l07_cnt_06.jpg",
+        "imagenes/l07_cnt_07.jpg",
+        "imagenes/l07_cnt_08.jpg",
+        "imagenes/l07_cnt_09.jpg",
+        "imagenes/l07_cnt_10.jpg",
+        "imagenes/l07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l07_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l07_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_card.jpg",
+          "dur": 5.679,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l06",
@@ -285,7 +2841,111 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto seis, desde Estados Unidos, Jane Williamson, con un video publicado hace dos días. Más de cuatrocientos diez mil likes. Un Short de apenas sesenta segundos. Lo logró en apenas dos días."
+      "texto": "Llegamos al puesto seis, desde Estados Unidos, Jane Williamson, con un video publicado hace dos días. Más de cuatrocientos diez mil likes. Un Short de apenas sesenta segundos. Lo logró en apenas dos días.",
+      "ficha_anim": [
+        "imagenes/l06_cnt_00.jpg",
+        "imagenes/l06_cnt_01.jpg",
+        "imagenes/l06_cnt_02.jpg",
+        "imagenes/l06_cnt_03.jpg",
+        "imagenes/l06_cnt_04.jpg",
+        "imagenes/l06_cnt_05.jpg",
+        "imagenes/l06_cnt_06.jpg",
+        "imagenes/l06_cnt_07.jpg",
+        "imagenes/l06_cnt_08.jpg",
+        "imagenes/l06_cnt_09.jpg",
+        "imagenes/l06_cnt_10.jpg",
+        "imagenes/l06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l06_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l06_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_card.jpg",
+          "dur": 5.044,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l05",
@@ -293,7 +2953,111 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto cinco, desde Argentina, SoyGelo, con «Pedi un amigo para siempre!». Más de cuatrocientos dieciséis mil likes. Además suma más de once millones de vistas."
+      "texto": "Llegamos al puesto cinco, desde Argentina, SoyGelo, con «Pedi un amigo para siempre!». Más de cuatrocientos dieciséis mil likes. Además suma más de once millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l05_cnt_00.jpg",
+        "imagenes/l05_cnt_01.jpg",
+        "imagenes/l05_cnt_02.jpg",
+        "imagenes/l05_cnt_03.jpg",
+        "imagenes/l05_cnt_04.jpg",
+        "imagenes/l05_cnt_05.jpg",
+        "imagenes/l05_cnt_06.jpg",
+        "imagenes/l05_cnt_07.jpg",
+        "imagenes/l05_cnt_08.jpg",
+        "imagenes/l05_cnt_09.jpg",
+        "imagenes/l05_cnt_10.jpg",
+        "imagenes/l05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l05_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l05_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_card.jpg",
+          "dur": 3.323,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l04",
@@ -301,7 +3065,111 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto cuatro, desde Estados Unidos, CarterPCs, con un video publicado hace cuatro días. Más de cuatrocientos cuarenta y cinco mil likes. Un Short de apenas veinticinco segundos. Además suma más de diez millones de vistas."
+      "texto": "Llegamos al puesto cuatro, desde Estados Unidos, CarterPCs, con un video publicado hace cuatro días. Más de cuatrocientos cuarenta y cinco mil likes. Un Short de apenas veinticinco segundos. Además suma más de diez millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l04_cnt_00.jpg",
+        "imagenes/l04_cnt_01.jpg",
+        "imagenes/l04_cnt_02.jpg",
+        "imagenes/l04_cnt_03.jpg",
+        "imagenes/l04_cnt_04.jpg",
+        "imagenes/l04_cnt_05.jpg",
+        "imagenes/l04_cnt_06.jpg",
+        "imagenes/l04_cnt_07.jpg",
+        "imagenes/l04_cnt_08.jpg",
+        "imagenes/l04_cnt_09.jpg",
+        "imagenes/l04_cnt_10.jpg",
+        "imagenes/l04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l04_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l04_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_card.jpg",
+          "dur": 6.65,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l03",
@@ -309,7 +3177,111 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, Nathan Doan Comedy, con un video publicado hace cinco días. Más de seiscientos noventa y cinco mil likes. Además suma más de dieciséis millones de vistas."
+      "texto": "Medalla de bronce, desde Estados Unidos, Nathan Doan Comedy, con un video publicado hace cinco días. Más de seiscientos noventa y cinco mil likes. Además suma más de dieciséis millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l03_cnt_00.jpg",
+        "imagenes/l03_cnt_01.jpg",
+        "imagenes/l03_cnt_02.jpg",
+        "imagenes/l03_cnt_03.jpg",
+        "imagenes/l03_cnt_04.jpg",
+        "imagenes/l03_cnt_05.jpg",
+        "imagenes/l03_cnt_06.jpg",
+        "imagenes/l03_cnt_07.jpg",
+        "imagenes/l03_cnt_08.jpg",
+        "imagenes/l03_cnt_09.jpg",
+        "imagenes/l03_cnt_10.jpg",
+        "imagenes/l03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l03_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l03_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_card.jpg",
+          "dur": 5.79,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l02",
@@ -317,7 +3289,111 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de novecientos seis mil likes. Fue el que más rápido creció de esta lista: cerca de quinientos diez mil vistas por hora. Un Short de apenas treinta y tres segundos."
+      "texto": "Medalla de plata, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de novecientos seis mil likes. Fue el que más rápido creció de esta lista: cerca de quinientos diez mil vistas por hora. Un Short de apenas treinta y tres segundos.",
+      "ficha_anim": [
+        "imagenes/l02_cnt_00.jpg",
+        "imagenes/l02_cnt_01.jpg",
+        "imagenes/l02_cnt_02.jpg",
+        "imagenes/l02_cnt_03.jpg",
+        "imagenes/l02_cnt_04.jpg",
+        "imagenes/l02_cnt_05.jpg",
+        "imagenes/l02_cnt_06.jpg",
+        "imagenes/l02_cnt_07.jpg",
+        "imagenes/l02_cnt_08.jpg",
+        "imagenes/l02_cnt_09.jpg",
+        "imagenes/l02_cnt_10.jpg",
+        "imagenes/l02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l02_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l02_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_card.jpg",
+          "dur": 10.48,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l01",
@@ -325,7 +3401,118 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Y llegó el momento. El número uno en likes, desde Estados Unidos, JoshSundquist, con un video publicado hace cinco días. Más de uno coma tres millones de likes. Además suma más de veintidós millones de vistas."
+      "texto": "Y llegó el momento. El número uno en likes, desde Estados Unidos, JoshSundquist, con un video publicado hace cinco días. Más de uno coma tres millones de likes. Además suma más de veintidós millones de vistas.",
+      "ficha_anim": [
+        "imagenes/l01_cnt_00.jpg",
+        "imagenes/l01_cnt_01.jpg",
+        "imagenes/l01_cnt_02.jpg",
+        "imagenes/l01_cnt_03.jpg",
+        "imagenes/l01_cnt_04.jpg",
+        "imagenes/l01_cnt_05.jpg",
+        "imagenes/l01_cnt_06.jpg",
+        "imagenes/l01_cnt_07.jpg",
+        "imagenes/l01_cnt_08.jpg",
+        "imagenes/l01_cnt_09.jpg",
+        "imagenes/l01_cnt_10.jpg",
+        "imagenes/l01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_likes.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/l01_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l01_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_likes.jpg",
+          "dur": 4.822,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "cierre",
