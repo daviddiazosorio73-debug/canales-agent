@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-04 17:55 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-04 18:49 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,11 +7,11 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| mié 28 | [Si Dios es todopoderoso, ¿por qué decidió necesitarte? | Con](https://youtu.be/1th2pi3sPbY) | [fijar](https://studio.youtube.com/video/1th2pi3sPbY/comments) | [editar](https://studio.youtube.com/video/1th2pi3sPbY/edit) | [revisar](https://studio.youtube.com/video/1th2pi3sPbY/translations) | — |
-| jue 29 | [«Siembra y Dios te hará rico»: el evangelio de la prosperida](https://youtu.be/8MqN_Fc7KSI) | [fijar](https://studio.youtube.com/video/8MqN_Fc7KSI/comments) | [editar](https://studio.youtube.com/video/8MqN_Fc7KSI/edit) | — | — |
+| jue 29 | [«Siembra y Dios te hará rico»: el evangelio de la prosperida](https://youtu.be/8MqN_Fc7KSI) | [fijar](https://studio.youtube.com/video/8MqN_Fc7KSI/comments) | [editar](https://studio.youtube.com/video/8MqN_Fc7KSI/edit) | [revisar](https://studio.youtube.com/video/8MqN_Fc7KSI/translations) | — |
 | vie 30 | [Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) | [fijar](https://studio.youtube.com/video/0arQoBewiJY/comments) | [editar](https://studio.youtube.com/video/0arQoBewiJY/edit) | — | sí |
 | lun 02 | [Parábola de los talentos: el siervo que lo perdió todo sin r](https://youtu.be/MD7kZK8XjFw) | [fijar](https://studio.youtube.com/video/MD7kZK8XjFw/comments) | [editar](https://studio.youtube.com/video/MD7kZK8XjFw/edit) | — | — |
 | mar 03 | [«El diezmo no se exige, da lo que quieras»: lo analizamos co](https://youtu.be/iemi9tD5Xfg) | [fijar](https://studio.youtube.com/video/iemi9tD5Xfg/comments) | [editar](https://studio.youtube.com/video/iemi9tD5Xfg/edit) | — | — |
+| mié 04 | [El mayordomo infiel: ¿por qué Jesús puso de ejemplo a un tra](https://youtu.be/E-531VhN2f0) | [fijar](https://studio.youtube.com/video/E-531VhN2f0/comments) | [editar](https://studio.youtube.com/video/E-531VhN2f0/edit) | — | — |
 
 **Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: Lo que haces con 1 sol revela lo que harías con 1 millón 💸 #](https://youtube.com/shorts/XsJjehLTjIg)
 
