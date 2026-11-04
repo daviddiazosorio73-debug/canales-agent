@@ -1,9 +1,6 @@
-# Último reporte (2026-11-04 06:05 UTC)
+# Último reporte (2026-11-04 07:24 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-05-es-short2-letrero-de-la-cruz → https://youtu.be/opnjrA9o86g
-- escola-sabatina-pt: 2026-11-05-pt-short2-placa-da-cruz → https://youtu.be/SKxoTfj70NM
-- mayordom: 2026-11-05-es-short2-mateo-23-23 → https://youtu.be/NyWg3bCLz_0
 
 ## Fallos
 
