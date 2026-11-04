@@ -1,6 +1,7 @@
-# Último reporte (2026-11-04 10:11 UTC)
+# Último reporte (2026-11-04 11:22 UTC)
 
 ## Subidos
+- mayordom: 2026-11-05-es-analisis-jesus-diezmaba → https://youtu.be/y2SQCvr2wkc
 
 ## Fallos
 
