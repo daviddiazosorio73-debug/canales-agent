@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "mundial",
+  "fecha": "2026-11-09",
+  "tema": "Top 10 the World · 2026-W45 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "THE WORLD",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in the world this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in the world this week.\n\nFull countdown, from 10 to 1: https://youtu.be/X2BXjIE12-E\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-09T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in the world this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "jdw0tY1aswc",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, WW3 Threat Expert: The Warning We Are Ignoring, The…, by The Diary Of A CEO, with over 35 thousand comments.",
+      "emocion": "agil",
+      "video_id": "3kuNW8hRc2U",
+      "puesto": 3,
+      "creador": "The Diary Of A CEO",
+      "cifra": 35813,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, 'BUYING EVERYTHING' IN FREE FIRE, by SATVIK, with over 41 thousand comments.",
+      "emocion": "agil",
+      "video_id": "OOY5Sqs8gNI",
+      "puesto": 2,
+      "creador": "SATVIK",
+      "cifra": 41076,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: my brother died, by rekrap1, with over 47 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "jdw0tY1aswc",
+      "puesto": 1,
+      "creador": "rekrap1",
+      "cifra": 47940,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "jdw0tY1aswc",
+      "solo_fondo": true
+    }
+  ]
+}

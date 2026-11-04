@@ -1,0 +1,87 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "america",
+  "fecha": "2026-11-08",
+  "tema": "Top 10 América · 2026-W45 · VISTAS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 VISTAS",
+    "linea2": "AMÉRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "El #1 más visto de América esta semana 🏆 #shorts",
+    "descripcion": "El podio de los videos más visto de América esta semana.\n\nConteo completo, del 10 al 1: https://youtu.be/O9FTtrVoIW4\n\nDatos de la API oficial de YouTube. Narración con voz sintética. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "videos virales",
+      "tendencias youtube",
+      "shorts",
+      "top 10 redes sociales"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-08T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuál fue el video más visto de América esta semana? Este es el podio. Mira hasta el final.",
+      "emocion": "gancho",
+      "video_id": "41UzbuW6wJs",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "En el tercer lugar, My Baby Squirrel, de Paws & Hearts, con más de 33 millones de vistas.",
+      "emocion": "agil",
+      "video_id": "K1UvDEnbb8A",
+      "puesto": 3,
+      "creador": "Paws & Hearts",
+      "cifra": 33277518,
+      "categoria": "VISTAS"
+    },
+    {
+      "id": "p2",
+      "texto": "En el segundo lugar, New MacBook Pro with PROLED XDR Display: The…, de Apple, con más de 43 millones de vistas.",
+      "emocion": "agil",
+      "video_id": "hnZI5uUSdEo",
+      "puesto": 2,
+      "creador": "Apple",
+      "cifra": 43776329,
+      "categoria": "VISTAS"
+    },
+    {
+      "id": "p1",
+      "texto": "Y el número uno: Can A Robot Do My Chores?, de MrBeast, con más de 56 millones de vistas.",
+      "emocion": "enfasis",
+      "video_id": "41UzbuW6wJs",
+      "puesto": 1,
+      "creador": "MrBeast",
+      "cifra": 56548998,
+      "categoria": "VISTAS"
+    },
+    {
+      "id": "cierre",
+      "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "41UzbuW6wJs",
+      "solo_fondo": true
+    }
+  ]
+}

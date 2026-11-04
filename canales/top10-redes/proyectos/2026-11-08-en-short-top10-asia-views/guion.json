@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "asia",
+  "fecha": "2026-11-08",
+  "tema": "Top 10 Asia · 2026-W45 · VIEWS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 VIEWS",
+    "linea2": "ASIA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most viewed video in Asia this week 🏆 #shorts",
+    "descripcion": "The podium of the most viewed videos in Asia this week.\n\nFull countdown, from 10 to 1: https://youtu.be/k_EN0scOCR8\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-08T07:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most viewed video in Asia this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "3XVbxx6LbHI",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, Karwachauth ke din mai🫨 khane se bachna padega, by Shivangi the nayi bahu, with over 43 million views.",
+      "emocion": "agil",
+      "video_id": "IiOMRiyeEwQ",
+      "puesto": 3,
+      "creador": "Shivangi the nayi bahu",
+      "cifra": 43485680,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, करवा चौथ, by Olive soul, with over 46 million views.",
+      "emocion": "agil",
+      "video_id": "PM1ItOmpLS8",
+      "puesto": 2,
+      "creador": "Olive soul",
+      "cifra": 46073765,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: DIY Diya Stand, by Rimpi’s craft, with over 78 million views.",
+      "emocion": "enfasis",
+      "video_id": "3XVbxx6LbHI",
+      "puesto": 1,
+      "creador": "Rimpi’s craft",
+      "cifra": 78691908,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "3XVbxx6LbHI",
+      "solo_fondo": true
+    }
+  ]
+}

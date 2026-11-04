@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "africa",
+  "fecha": "2026-11-08",
+  "tema": "Top 10 Africa · 2026-W45 · VIEWS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 VIEWS",
+    "linea2": "AFRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most viewed video in Africa this week 🏆 #shorts",
+    "descripcion": "The podium of the most viewed videos in Africa this week.\n\nFull countdown, from 10 to 1: https://youtu.be/4NeIA0vyoOM\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-08T11:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most viewed video in Africa this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "EmJqO41Wx2A",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, This Paper Lets You Cook a Full Meal With Zero Cleanup, by Brain Pits, with over 8 million views.",
+      "emocion": "agil",
+      "video_id": "EEvHJZ8u8Bk",
+      "puesto": 3,
+      "creador": "Brain Pits",
+      "cifra": 8026245,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Ranking Funniest Waterslide Moments, by SunsetCroc, with over 13 million views.",
+      "emocion": "agil",
+      "video_id": "C7Y1v0NcAok",
+      "puesto": 2,
+      "creador": "SunsetCroc",
+      "cifra": 13311289,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: How a Snowdrift Becomes An Igloo, by From The Ground Up, with over 20 million views.",
+      "emocion": "enfasis",
+      "video_id": "EmJqO41Wx2A",
+      "puesto": 1,
+      "creador": "From The Ground Up",
+      "cifra": 20811679,
+      "categoria": "VIEWS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "EmJqO41Wx2A",
+      "solo_fondo": true
+    }
+  ]
+}

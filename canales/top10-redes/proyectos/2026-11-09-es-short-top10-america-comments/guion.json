@@ -1,0 +1,87 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "america",
+  "fecha": "2026-11-09",
+  "tema": "Top 10 América · 2026-W45 · COMENTARIOS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMENTARIOS",
+    "linea2": "AMÉRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "El #1 más comentado de América esta semana 🏆 #shorts",
+    "descripcion": "El podio de los videos más comentado de América esta semana.\n\nConteo completo, del 10 al 1: https://youtu.be/O9FTtrVoIW4\n\nDatos de la API oficial de YouTube. Narración con voz sintética. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "videos virales",
+      "tendencias youtube",
+      "shorts",
+      "top 10 redes sociales"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-09T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuál fue el video más comentado de América esta semana? Este es el podio. Mira hasta el final.",
+      "emocion": "gancho",
+      "video_id": "jdw0tY1aswc",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "En el tercer lugar, 10,000 VS 10,000 Player Minecraft War, de FlameFrags, con más de 23 mil comentarios.",
+      "emocion": "agil",
+      "video_id": "ZT-k42SC7L0",
+      "puesto": 3,
+      "creador": "FlameFrags",
+      "cifra": 23675,
+      "categoria": "COMENTARIOS"
+    },
+    {
+      "id": "p2",
+      "texto": "En el segundo lugar, skibidi toilet 83 (part 1), de skibidi, con más de 27 mil comentarios.",
+      "emocion": "agil",
+      "video_id": "m4n2XDiIz-M",
+      "puesto": 2,
+      "creador": "skibidi",
+      "cifra": 27218,
+      "categoria": "COMENTARIOS"
+    },
+    {
+      "id": "p1",
+      "texto": "Y el número uno: my brother died, de rekrap1, con más de 47 mil comentarios.",
+      "emocion": "enfasis",
+      "video_id": "jdw0tY1aswc",
+      "puesto": 1,
+      "creador": "rekrap1",
+      "cifra": 47940,
+      "categoria": "COMENTARIOS"
+    },
+    {
+      "id": "cierre",
+      "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "jdw0tY1aswc",
+      "solo_fondo": true
+    }
+  ]
+}

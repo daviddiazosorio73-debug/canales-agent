@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "asia",
+  "fecha": "2026-11-09",
+  "tema": "Top 10 Asia · 2026-W45 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "ASIA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most liked video in Asia this week 🏆 #shorts",
+    "descripcion": "The podium of the most liked videos in Asia this week.\n\nFull countdown, from 10 to 1: https://youtu.be/k_EN0scOCR8\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-09T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most liked video in Asia this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "3XVbxx6LbHI",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, 50 साल पुरानी Ambassador को 3 दिन में नया बनाया 😱 |…, by Aman exe, with over 463 thousand likes.",
+      "emocion": "agil",
+      "video_id": "D5v8f5Ohh1E",
+      "puesto": 3,
+      "creador": "Aman exe",
+      "cifra": 463791,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Dangerous Blind Spot (3D) by Professor of How, by Professor Of How, with over 512 thousand likes.",
+      "emocion": "agil",
+      "video_id": "neTlq_OcoOY",
+      "puesto": 2,
+      "creador": "Professor Of How",
+      "cifra": 512639,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: DIY Diya Stand, by Rimpi’s craft, with over 542 thousand likes.",
+      "emocion": "enfasis",
+      "video_id": "3XVbxx6LbHI",
+      "puesto": 1,
+      "creador": "Rimpi’s craft",
+      "cifra": 542729,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "3XVbxx6LbHI",
+      "solo_fondo": true
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "africa",
+  "fecha": "2026-11-08",
+  "tema": "Top 10 Africa · 2026-W45 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "AFRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in Africa this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in Africa this week.\n\nFull countdown, from 10 to 1: https://youtu.be/4NeIA0vyoOM\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-08T18:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in Africa this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "pELTkHFLD-s",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, They RUINED My $30,000 Couch... 😭, by Turner, with over 4 thousand comments.",
+      "emocion": "agil",
+      "video_id": "HV5BRNUXof4",
+      "puesto": 3,
+      "creador": "Turner",
+      "cifra": 4978,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, تفجير بكج البالون دور كامل 🤯🔥 كارت خارق لهاري كين…, by JIGGSo_ar, with over 6 thousand comments.",
+      "emocion": "agil",
+      "video_id": "xZYIKZ-kmg0",
+      "puesto": 2,
+      "creador": "JIGGSo_ar",
+      "cifra": 6052,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: Can You Fight With A Sword In Your Mouth? 🤔, by Zack D. Films, with over 6 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "pELTkHFLD-s",
+      "puesto": 1,
+      "creador": "Zack D. Films",
+      "cifra": 6339,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "pELTkHFLD-s",
+      "solo_fondo": true
+    }
+  ]
+}

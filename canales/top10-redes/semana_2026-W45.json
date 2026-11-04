@@ -13,12 +13,18 @@
   "SmBoifUV7DI",
   "4NeIA0vyoOM",
   "O9FTtrVoIW4",
-  "X2BXjIE12-E"
+  "X2BXjIE12-E",
+  "k_EN0scOCR8",
+  "GSaVRBAIy2c"
  ],
  "enlazados": [
   "SmBoifUV7DI>4NeIA0vyoOM",
   "4NeIA0vyoOM>O9FTtrVoIW4",
   "O9FTtrVoIW4>X2BXjIE12-E",
-  "X2BXjIE12-E>fin"
+  "X2BXjIE12-E>fin",
+  "SmBoifUV7DI>k_EN0scOCR8",
+  "k_EN0scOCR8>4NeIA0vyoOM",
+  "4NeIA0vyoOM>GSaVRBAIy2c",
+  "GSaVRBAIy2c>O9FTtrVoIW4"
  ]
 }
