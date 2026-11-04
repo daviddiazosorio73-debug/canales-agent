@@ -1,9 +1,6 @@
-# Último reporte (2026-11-04 14:25 UTC)
+# Último reporte (2026-11-04 16:00 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-05-es-short3-dificiles-de-entender → https://youtu.be/0Xzw5tYjVo4
-- escola-sabatina-pt: 2026-11-05-pt-short3-dificeis-de-entender → https://youtu.be/RGBJRD6V6b0
-- mayordom: 2026-11-05-es-short3-bolsa-de-los-pobres → https://youtu.be/SInAANj24Jg
 
 ## Fallos
 
