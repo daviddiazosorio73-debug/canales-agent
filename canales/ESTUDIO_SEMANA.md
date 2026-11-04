@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-03 17:52 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-03 19:50 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,11 +7,11 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| mar 27 | [«El diezmo era solo para Israel»: ¿qué dice realmente la Bib](https://youtu.be/7eQ_L5VqTdU) | [fijar](https://studio.youtube.com/video/7eQ_L5VqTdU/comments) | [editar](https://studio.youtube.com/video/7eQ_L5VqTdU/edit) | [revisar](https://studio.youtube.com/video/7eQ_L5VqTdU/translations) | — |
-| mié 28 | [Si Dios es todopoderoso, ¿por qué decidió necesitarte? | Con](https://youtu.be/1th2pi3sPbY) | [fijar](https://studio.youtube.com/video/1th2pi3sPbY/comments) | [editar](https://studio.youtube.com/video/1th2pi3sPbY/edit) | — | — |
+| mié 28 | [Si Dios es todopoderoso, ¿por qué decidió necesitarte? | Con](https://youtu.be/1th2pi3sPbY) | [fijar](https://studio.youtube.com/video/1th2pi3sPbY/comments) | [editar](https://studio.youtube.com/video/1th2pi3sPbY/edit) | [revisar](https://studio.youtube.com/video/1th2pi3sPbY/translations) | — |
 | jue 29 | [«Siembra y Dios te hará rico»: el evangelio de la prosperida](https://youtu.be/8MqN_Fc7KSI) | [fijar](https://studio.youtube.com/video/8MqN_Fc7KSI/comments) | [editar](https://studio.youtube.com/video/8MqN_Fc7KSI/edit) | — | — |
 | vie 30 | [Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) | [fijar](https://studio.youtube.com/video/0arQoBewiJY/comments) | [editar](https://studio.youtube.com/video/0arQoBewiJY/edit) | — | sí |
 | lun 02 | [Parábola de los talentos: el siervo que lo perdió todo sin r](https://youtu.be/MD7kZK8XjFw) | [fijar](https://studio.youtube.com/video/MD7kZK8XjFw/comments) | [editar](https://studio.youtube.com/video/MD7kZK8XjFw/edit) | — | — |
+| mar 03 | [«El diezmo no se exige, da lo que quieras»: lo analizamos co](https://youtu.be/iemi9tD5Xfg) | [fijar](https://studio.youtube.com/video/iemi9tD5Xfg/comments) | [editar](https://studio.youtube.com/video/iemi9tD5Xfg/edit) | — | — |
 
 **Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: El diezmo existía ANTES de Moisés 📜 #shorts](https://youtube.com/shorts/qvAZHnfAN38)
 
@@ -45,6 +45,7 @@ Sin videos largos publicados esta semana.
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
 | dom 01 | [¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) | [fijar](https://studio.youtube.com/video/p7igaDw-leA/comments) | [editar](https://studio.youtube.com/video/p7igaDw-leA/edit) | [revisar](https://studio.youtube.com/video/p7igaDw-leA/translations) | sí |
+| mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
 
-**Escuchar:** [largo: ¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) · [Short: ¿Caminar rápido importa más que caminar mucho? #shorts](https://youtube.com/shorts/qkCXn_GtvaI)
+**Escuchar:** [largo: ¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) · [Short: ¿Caminar rápido importa más que caminar mucho? #shorts](https://youtube.com/shorts/qkCXn_GtvaI)
 
