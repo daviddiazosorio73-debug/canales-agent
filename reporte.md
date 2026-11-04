@@ -1,7 +1,9 @@
-# Último reporte (2026-11-03 23:46 UTC)
+# Último reporte (2026-11-04 01:11 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-10-es-divulgacion-horas-de-sueno → https://youtu.be/9pkyeHSX5Hs
+- escuela-sabatica-es: 2026-11-05-es-short1-pablo-no-recordaba → https://youtu.be/L-F2kjep1hI
+- escola-sabatina-pt: 2026-11-05-pt-short1-paulo-nao-lembrava → https://youtu.be/q7ib3FYiFUk
+- mayordom: 2026-11-05-es-short1-diezmo-de-la-menta → https://youtu.be/A28zMdKmVq4
 
 ## Fallos
 
