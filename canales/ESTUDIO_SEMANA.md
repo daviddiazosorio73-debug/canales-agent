@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-04 12:01 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-04 13:15 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | lun 02 | [Parábola de los talentos: el siervo que lo perdió todo sin r](https://youtu.be/MD7kZK8XjFw) | [fijar](https://studio.youtube.com/video/MD7kZK8XjFw/comments) | [editar](https://studio.youtube.com/video/MD7kZK8XjFw/edit) | — | — |
 | mar 03 | [«El diezmo no se exige, da lo que quieras»: lo analizamos co](https://youtu.be/iemi9tD5Xfg) | [fijar](https://studio.youtube.com/video/iemi9tD5Xfg/comments) | [editar](https://studio.youtube.com/video/iemi9tD5Xfg/edit) | — | — |
 
-**Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: ¿Jesús ALABÓ a un tramposo? 🤔 #shorts](https://youtube.com/shorts/JpLGnsj54Z0)
+**Escuchar:** [largo: Ganar siempre o dar siempre: los dos principios que dividen ](https://youtu.be/0arQoBewiJY) · [Short: Lo que haces con 1 sol revela lo que harías con 1 millón 💸 #](https://youtube.com/shorts/XsJjehLTjIg)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: La Biblia cita libros que NO están en la Biblia 📚 #shorts](https://youtube.com/shorts/bCPDHvlxEic)
+**Escuchar:** [Short: El autor de Reyes te manda a revisar SUS fuentes 🔎 #shorts](https://youtube.com/shorts/u-Jku0ZuaII)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: A Bíblia cita livros que NÃO estão na Bíblia 📚 #shorts](https://youtube.com/shorts/WW_h5MNp5s4)
+**Escuchar:** [Short: O autor de Reis mandou você conferir AS FONTES 🔎 #shorts](https://youtube.com/shorts/mb1RkosFQRM)
 
 ## Top 10 Redes Sociales
 
@@ -47,5 +47,5 @@ Sin videos largos publicados esta semana.
 | dom 01 | [¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) | [fijar](https://studio.youtube.com/video/p7igaDw-leA/comments) | [editar](https://studio.youtube.com/video/p7igaDw-leA/edit) | [revisar](https://studio.youtube.com/video/p7igaDw-leA/translations) | sí |
 | mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
 
-**Escuchar:** [largo: ¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) · [Short: 45 análisis y casi 10 millones de personas: los ultraprocesa](https://youtube.com/shorts/fH2bKBBRH80)
+**Escuchar:** [largo: ¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) · [Short: Ultraprocesados y corazón: 50 % más riesgo #shorts](https://youtube.com/shorts/B0ezyb5903k)
 
