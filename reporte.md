@@ -1,7 +1,9 @@
-# Último reporte (2026-11-04 13:12 UTC)
+# Último reporte (2026-11-04 14:25 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-11-es-short1-sueno-horas → https://youtu.be/6vEHsxbkkjw
+- escuela-sabatica-es: 2026-11-05-es-short3-dificiles-de-entender → https://youtu.be/0Xzw5tYjVo4
+- escola-sabatina-pt: 2026-11-05-pt-short3-dificeis-de-entender → https://youtu.be/RGBJRD6V6b0
+- mayordom: 2026-11-05-es-short3-bolsa-de-los-pobres → https://youtu.be/SInAANj24Jg
 
 ## Fallos
 
