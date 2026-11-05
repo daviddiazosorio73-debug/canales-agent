@@ -54,7 +54,7 @@ edge-tts==7.3.1
 einops==0.8.2
 fastapi==0.162.0
 ffmpy==1.0.0
-filelock==4.2.4
+filelock==4.2.6
 frozenlist==1.8.0
 fsspec==2026.9.0
 google-api-core==2.43.2
@@ -121,7 +121,7 @@ pandas==3.1.1
 pexpect==4.9.0
 pillow==12.3.0
 pipx==1.17.10
-platformdirs==4.13.5
+platformdirs==4.14.3
 pooch==1.9.0
 pre_commit==4.7.0
 propcache==0.5.4
@@ -180,7 +180,7 @@ starlette==0.52.1
 sympy==1.14.0
 systemd-python==235
 tabulate==0.10.0
-threadpoolctl==3.7.0
+threadpoolctl==3.8.0
 tokenizers==0.22.2
 tomlkit==0.13.3
 torch==2.15.0+cpu

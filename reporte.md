@@ -1,6 +1,7 @@
-# Último reporte (2026-11-05 10:12 UTC)
+# Último reporte (2026-11-05 11:13 UTC)
 
 ## Subidos
+- mayordom: 2026-11-06-es-sermon-ofrenda-de-la-viuda → https://youtu.be/G3qawWv9hm0
 
 ## Fallos
 
