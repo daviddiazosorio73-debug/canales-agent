@@ -1,7 +1,6 @@
-# Último reporte (2026-11-05 12:03 UTC)
+# Último reporte (2026-11-05 13:27 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-12-es-short1-nueces-adventistas → https://youtu.be/JMtupj10QmU
 
 ## Fallos
 
