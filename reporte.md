@@ -1,9 +1,6 @@
-# Último reporte (2026-11-05 06:07 UTC)
+# Último reporte (2026-11-05 07:26 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-06-es-short2-testimonio-de-jesus → https://youtu.be/NkYEMrZDgcs
-- escola-sabatina-pt: 2026-11-06-pt-short2-testemunho-de-jesus → https://youtu.be/ruPWaCZsYW0
-- mayordom: 2026-11-06-es-short2-calculadora-de-dios → https://youtu.be/FvrPglwOHHE
 
 ## Fallos
 
