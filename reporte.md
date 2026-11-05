@@ -1,7 +1,6 @@
-# Último reporte (2026-11-05 19:01 UTC)
+# Último reporte (2026-11-05 19:59 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-12-es-short2-nueces-28-gramos → https://youtu.be/yM--UhAgQl4
 
 ## Fallos
 
