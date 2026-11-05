@@ -1,7 +1,7 @@
-# Último reporte (2026-11-05 11:13 UTC)
+# Último reporte (2026-11-05 12:03 UTC)
 
 ## Subidos
-- mayordom: 2026-11-06-es-sermon-ofrenda-de-la-viuda → https://youtu.be/G3qawWv9hm0
+- cryptuline: 2026-11-12-es-short1-nueces-adventistas → https://youtu.be/JMtupj10QmU
 
 ## Fallos
 
