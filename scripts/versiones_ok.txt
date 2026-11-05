@@ -133,8 +133,8 @@ pyasn1==0.6.3
 pyasn1_modules==0.4.1
 pycparser==3.12
 pycriu==4.2
-pydantic==2.14.2
-pydantic_core==2.50.2
+pydantic==2.14.3
+pydantic_core==2.50.4
 pydub==0.25.1
 pykakasi==2.3.0
 pyloudnorm==0.2.0
