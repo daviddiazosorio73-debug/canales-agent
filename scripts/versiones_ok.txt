@@ -35,7 +35,7 @@ cfgv==3.5.0
 chardet==5.2.0
 charset-normalizer==3.5.2
 chatterbox-tts==0.1.7
-click==8.5.0
+click==8.5.1
 cloudpickle==3.1.2
 command-not-found==0.3
 configobj==5.0.9
@@ -143,12 +143,12 @@ pyserial==3.5
 python-apt==3.1.0+ubuntu1.1
 python-dateutil==2.9.0
 python-debian==1.0.1+ubuntu2
-python-discovery==1.9.4
+python-discovery==1.9.5
 python-magic==0.4.27
 python-multipart==0.0.33
 pytz==2026.6
 referencing==0.36.2
-regex==2026.9.29
+regex==2026.11.7
 requests-oauthlib==2.0.0
 requests==2.34.2
 resemble-perth==1.0.1
@@ -199,7 +199,7 @@ uritemplate==4.2.0
 urllib3==2.6.3
 userpath==1.9.2
 uvicorn==0.54.0
-virtualenv==21.15.5
+virtualenv==21.15.6
 wadllib==2.0.0
 wheel==0.46.3
 wrapt==2.5.2
