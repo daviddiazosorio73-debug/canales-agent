@@ -1,8 +1,6 @@
-# Último reporte (2026-11-06 02:22 UTC)
+# Último reporte (2026-11-06 03:59 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-07-es-short1-escuchen-esto → https://youtu.be/Yxqpuzm_osU
-- cryptuline: 2026-11-12-es-short3-legumbres-millon → https://youtu.be/c_c5bHL_8l4
 
 ## Fallos
 
