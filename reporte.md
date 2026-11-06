@@ -1,6 +1,9 @@
-# Último reporte (2026-11-06 05:04 UTC)
+# Último reporte (2026-11-06 06:05 UTC)
 
 ## Subidos
+- escuela-sabatica-es: 2026-11-07-es-short2-ejemplos-del-desierto → https://youtu.be/tARjvSXvX2I
+- escola-sabatina-pt: 2026-11-07-pt-short2-exemplos-do-deserto → https://youtu.be/sELLFN51Z_0
+- mayordom: 2026-11-07-es-short2-tres-parabolas → https://youtu.be/SdJerLXIENY
 
 ## Fallos
 
