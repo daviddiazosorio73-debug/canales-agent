@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-05 20:18 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-05 21:32 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | mié 04 | [El mayordomo infiel: ¿por qué Jesús puso de ejemplo a un tra](https://youtu.be/E-531VhN2f0) | [fijar](https://studio.youtube.com/video/E-531VhN2f0/comments) | [editar](https://studio.youtube.com/video/E-531VhN2f0/edit) | — | — |
 | jue 05 | [¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) | [fijar](https://studio.youtube.com/video/y2SQCvr2wkc/comments) | [editar](https://studio.youtube.com/video/y2SQCvr2wkc/edit) | — | sí |
 
-**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: La frase de Jesús sobre el diezmo que casi nadie lee complet](https://youtube.com/shorts/NyWg3bCLz_0)
+**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: Jesús tenía una bolsa… para los POBRES 👝 #shorts](https://youtube.com/shorts/SInAANj24Jg)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: 4 Evangelios, 4 versiones del letrero de la cruz ✝️ #shorts](https://youtube.com/shorts/opnjrA9o86g)
+**Escuchar:** [Short: Pedro dijo que Pablo era DIFÍCIL de entender 📖 #shorts](https://youtube.com/shorts/0Xzw5tYjVo4)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: 4 Evangelhos, 4 versões da placa da cruz ✝️ #shorts](https://youtube.com/shorts/SKxoTfj70NM)
+**Escuchar:** [Short: Pedro disse que Paulo era DIFÍCIL de entender 📖 #shorts](https://youtube.com/shorts/RGBJRD6V6b0)
 
 ## Top 10 Redes Sociales
 
@@ -47,5 +47,5 @@ Sin videos largos publicados esta semana.
 | dom 01 | [¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) | [fijar](https://studio.youtube.com/video/p7igaDw-leA/comments) | [editar](https://studio.youtube.com/video/p7igaDw-leA/edit) | [revisar](https://studio.youtube.com/video/p7igaDw-leA/translations) | sí |
 | mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
 
-**Escuchar:** [largo: ¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) · [Short: Ultraprocesados y depresión: lo que dicen los datos #shorts](https://youtube.com/shorts/LALj0gHES24)
+**Escuchar:** [largo: ¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) · [Short: ¿Duermes mal? Mira lo que comes #shorts](https://youtube.com/shorts/vwny9fwJYxQ)
 
