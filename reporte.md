@@ -1,9 +1,6 @@
-# Último reporte (2026-11-07 18:46 UTC)
+# Último reporte (2026-11-07 22:45 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-09-en-short-top10-africa-likes → https://youtu.be/C4W30EU4ohc
-- top10-redes: 2026-11-09-en-short-top10-europa-likes → https://youtu.be/dygphrKyDKQ
-- cryptuline: 2026-11-14-es-short2-sabado-descanso → https://youtu.be/3nGtISwPjJI
 
 ## Fallos
 
