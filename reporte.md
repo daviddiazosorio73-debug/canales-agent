@@ -1,8 +1,10 @@
-# Último reporte (2026-11-06 21:02 UTC)
+# Último reporte (2026-11-07 00:56 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-08-en-short-top10-asia-views → https://youtu.be/TMhhiQx-n4s
-- cryptuline: 2026-11-13-es-short2-mani-cuenta → https://youtu.be/WPEbgw0IODI
+- top10-redes: 2026-11-08-en-short-top10-oceania-comments → https://youtu.be/Wowffkesz84
+- top10-redes: 2026-11-08-en-short-top10-africa-views → https://youtu.be/cbu-_qmiB5s
+- top10-redes: 2026-11-08-en-short-top10-europa-views → https://youtu.be/sethjAFuF_I
+- cryptuline: 2026-11-13-es-divulgacion-frutos-secos-legumbres → https://youtu.be/WTEUj71XFKk
 
 ## Fallos
 
