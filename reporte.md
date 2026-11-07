@@ -1,12 +1,9 @@
-# Último reporte (2026-11-07 14:00 UTC)
+# Último reporte (2026-11-07 18:46 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-08-en-short-top10-europa-comments → https://youtu.be/N5D-tyJGY9c
-- top10-redes: 2026-11-08-en-short-top10-oceania-likes → https://youtu.be/flfvgsz8mAc
-- top10-redes: 2026-11-09-en-short-top10-asia-likes → https://youtu.be/bnFBRJIEybM
-- top10-redes: 2026-11-09-en-short-top10-mundial-comments → https://youtu.be/BXXZrBVWT2A
-- top10-redes: 2026-11-09-es-short-top10-america-comments → https://youtu.be/2AMQMx0_o8Y
-- cryptuline: 2026-11-14-es-short1-sabado-perdon → https://youtu.be/RjEdd2RnYLc
+- top10-redes: 2026-11-09-en-short-top10-africa-likes → https://youtu.be/C4W30EU4ohc
+- top10-redes: 2026-11-09-en-short-top10-europa-likes → https://youtu.be/dygphrKyDKQ
+- cryptuline: 2026-11-14-es-short2-sabado-descanso → https://youtu.be/3nGtISwPjJI
 
 ## Fallos
 

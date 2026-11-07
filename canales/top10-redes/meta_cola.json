@@ -152,5 +152,27 @@
     "segundos": 59.8,
     "facebook": null,
     "extra": {}
+  },
+  {
+    "proyecto": "2026-11-09-en-short-top10-africa-likes",
+    "asset": "top10-redes__2026-11-09-en-short-top10-africa-likes.mp4",
+    "publicar_en": "2026-11-09T05:00:00Z",
+    "caption": "The most liked video in Africa this week 🏆\n\nThe podium of the most liked videos in Africa this week.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 33.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-09-en-short-top10-europa-likes",
+    "asset": "top10-redes__2026-11-09-en-short-top10-europa-likes.mp4",
+    "publicar_en": "2026-11-09T06:00:00Z",
+    "caption": "The most liked video in Europe this week 🏆\n\nThe podium of the most liked videos in Europe this week.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 37.3,
+    "facebook": null,
+    "extra": {}
   }
 ]

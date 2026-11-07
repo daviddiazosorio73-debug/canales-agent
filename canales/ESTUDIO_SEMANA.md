@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-07 09:46 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-07 13:59 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | jue 05 | [¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) | [fijar](https://studio.youtube.com/video/y2SQCvr2wkc/comments) | [editar](https://studio.youtube.com/video/y2SQCvr2wkc/edit) | — | sí |
 | vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | — | — |
 
-**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: Por qué el sábado también es mayordomía ⏳ #shorts](https://youtube.com/shorts/Irx9rRHNdMk)
+**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: 3 historias de Jesús sobre el dinero en 60 segundos ⏱️ #shor](https://youtube.com/shorts/SdJerLXIENY)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: «¡Escuchen esto!»: el versículo de la nueva lección 📢 #short](https://youtube.com/shorts/Yxqpuzm_osU)
+**Escuchar:** [Short: Lo tuvieron TODO… y aun así cayeron 😔 #shorts](https://youtube.com/shorts/tARjvSXvX2I)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: O verso para memorizar da nova lição 📢 #shorts](https://youtube.com/shorts/54RZYRIx6_I)
+**Escuchar:** [Short: Tiveram TUDO… e mesmo assim caíram 😔 #shorts](https://youtube.com/shorts/sELLFN51Z_0)
 
 ## Top 10 Redes Sociales
 
@@ -48,5 +48,5 @@ Sin videos largos publicados esta semana.
 | mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
 
-**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: Hasta 10 años de vida: ¿cuestión de elección? #shorts](https://youtube.com/shorts/HyCJtlk37nY)
+**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: La esperanza también aparece en los datos #shorts](https://youtube.com/shorts/sSrrLHyYstM)
 
