@@ -1,10 +1,11 @@
-# Último reporte (2026-11-07 00:56 UTC)
+# Último reporte (2026-11-07 07:07 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-08-en-short-top10-oceania-comments → https://youtu.be/Wowffkesz84
-- top10-redes: 2026-11-08-en-short-top10-africa-views → https://youtu.be/cbu-_qmiB5s
-- top10-redes: 2026-11-08-en-short-top10-europa-views → https://youtu.be/sethjAFuF_I
-- cryptuline: 2026-11-13-es-divulgacion-frutos-secos-legumbres → https://youtu.be/WTEUj71XFKk
+- top10-redes: 2026-11-08-en-short-top10-asia-comments → https://youtu.be/4N5hBWXJwkU
+- top10-redes: 2026-11-08-en-short-top10-mundial-views → https://youtu.be/IyhJlt8UtgU
+- top10-redes: 2026-11-08-es-short-top10-america-views → https://youtu.be/W5DKKUefP1c
+- top10-redes: 2026-11-08-en-short-top10-africa-comments → https://youtu.be/mHA9fg09yeM
+- cryptuline: 2026-11-13-es-short3-nueces-grasa → https://youtu.be/LsV0gQynfjw
 
 ## Fallos
 

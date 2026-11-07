@@ -53,5 +53,49 @@
     "segundos": 32.9,
     "facebook": null,
     "extra": {}
+  },
+  {
+    "proyecto": "2026-11-08-en-short-top10-asia-comments",
+    "asset": "top10-redes__2026-11-08-en-short-top10-asia-comments.mp4",
+    "publicar_en": "2026-11-08T15:00:00Z",
+    "caption": "The most commented video in Asia this week 🏆\n\nThe podium of the most commented videos in Asia this week.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 36.8,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-08-en-short-top10-mundial-views",
+    "asset": "top10-redes__2026-11-08-en-short-top10-mundial-views.mp4",
+    "publicar_en": "2026-11-08T18:00:00Z",
+    "caption": "The most viewed video in the world this week 🏆\n\nThe podium of the most viewed videos in the world this week.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 31.7,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-08-es-short-top10-america-views",
+    "asset": "top10-redes__2026-11-08-es-short-top10-america-views.mp4",
+    "publicar_en": "2026-11-08T18:00:00Z",
+    "caption": "El #1 más visto de América esta semana 🏆\n\nEl podio de los videos más visto de América esta semana.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 34.1,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-08-en-short-top10-africa-comments",
+    "asset": "top10-redes__2026-11-08-en-short-top10-africa-comments.mp4",
+    "publicar_en": "2026-11-08T18:30:00Z",
+    "caption": "The most commented video in Africa this week 🏆\n\nThe podium of the most commented videos in Africa this week.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 36.6,
+    "facebook": null,
+    "extra": {}
   }
 ]
