@@ -174,5 +174,27 @@
     "segundos": 37.3,
     "facebook": null,
     "extra": {}
+  },
+  {
+    "proyecto": "2026-11-09-en-short-top10-mundial-likes",
+    "asset": "top10-redes__2026-11-09-en-short-top10-mundial-likes.mp4",
+    "publicar_en": "2026-11-09T12:00:00Z",
+    "caption": "The most liked video in the world this week 🏆\n\nThe podium of the most liked videos in the world this week.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 33.3,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-09-es-short-top10-america-likes",
+    "asset": "top10-redes__2026-11-09-es-short-top10-america-likes.mp4",
+    "publicar_en": "2026-11-09T12:00:00Z",
+    "caption": "El #1 con más likes de América esta semana 🏆\n\nEl podio de los videos con más likes de América esta semana.\n\n#Top10RS",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 35.4,
+    "facebook": null,
+    "extra": {}
   }
 ]
