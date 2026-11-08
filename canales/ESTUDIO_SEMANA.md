@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-08 05:16 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-08 11:42 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -31,14 +31,14 @@ Sin videos largos publicados esta semana.
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| dom 01 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/No3MmU7q8Ag) | [fijar](https://studio.youtube.com/video/No3MmU7q8Ag/comments) | [editar](https://studio.youtube.com/video/No3MmU7q8Ag/edit) | [revisar](https://studio.youtube.com/video/No3MmU7q8Ag/translations) | sí |
-| dom 01 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/QP1hFVK-n_0) | [fijar](https://studio.youtube.com/video/QP1hFVK-n_0/comments) | [editar](https://studio.youtube.com/video/QP1hFVK-n_0/edit) | — | sí |
-| sáb 07 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/SmBoifUV7DI) | [fijar](https://studio.youtube.com/video/SmBoifUV7DI/comments) | [editar](https://studio.youtube.com/video/SmBoifUV7DI/edit) | — | sí |
+| sáb 07 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/SmBoifUV7DI) | [fijar](https://studio.youtube.com/video/SmBoifUV7DI/comments) | [editar](https://studio.youtube.com/video/SmBoifUV7DI/edit) | [revisar](https://studio.youtube.com/video/SmBoifUV7DI/translations) | sí |
 | sáb 07 | [Top 10 Asia: Most Viewed, Commented & Liked on YouTube | Wee](https://youtu.be/k_EN0scOCR8) | [fijar](https://studio.youtube.com/video/k_EN0scOCR8/comments) | [editar](https://studio.youtube.com/video/k_EN0scOCR8/edit) | — | sí |
 | sáb 07 | [Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/4NeIA0vyoOM) | [fijar](https://studio.youtube.com/video/4NeIA0vyoOM/comments) | [editar](https://studio.youtube.com/video/4NeIA0vyoOM/edit) | — | sí |
 | dom 08 | [Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/GSaVRBAIy2c) | [fijar](https://studio.youtube.com/video/GSaVRBAIy2c/comments) | [editar](https://studio.youtube.com/video/GSaVRBAIy2c/edit) | — | sí |
+| dom 08 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/O9FTtrVoIW4) | [fijar](https://studio.youtube.com/video/O9FTtrVoIW4/comments) | [editar](https://studio.youtube.com/video/O9FTtrVoIW4/edit) | — | sí |
+| dom 08 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) | [fijar](https://studio.youtube.com/video/X2BXjIE12-E/comments) | [editar](https://studio.youtube.com/video/X2BXjIE12-E/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/GSaVRBAIy2c) · [Short: The most commented video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/Wowffkesz84)
+**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) · [Short: The most commented video in Asia this week 🏆 #shorts](https://youtube.com/shorts/4N5hBWXJwkU)
 
 ## Cryptuline · Salud con ciencia
 
@@ -48,5 +48,5 @@ Sin videos largos publicados esta semana.
 | mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
 
-**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: Un día para descansar: lo que dice la Biblia #shorts](https://youtube.com/shorts/qkdyoEfFp-k)
+**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: Perdonar y salud: 128 estudios lo analizaron #shorts](https://youtube.com/shorts/Rs7dE_FvYNk)
 
