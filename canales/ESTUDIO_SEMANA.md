@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-07 21:52 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-08 05:16 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -31,14 +31,14 @@ Sin videos largos publicados esta semana.
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| sáb 31 | [Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/NGhhbLrD8KY) | [fijar](https://studio.youtube.com/video/NGhhbLrD8KY/comments) | [editar](https://studio.youtube.com/video/NGhhbLrD8KY/edit) | [revisar](https://studio.youtube.com/video/NGhhbLrD8KY/translations) | sí |
-| dom 01 | [Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/43XZ1bGuBMI) | [fijar](https://studio.youtube.com/video/43XZ1bGuBMI/comments) | [editar](https://studio.youtube.com/video/43XZ1bGuBMI/edit) | — | sí |
-| dom 01 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/No3MmU7q8Ag) | [fijar](https://studio.youtube.com/video/No3MmU7q8Ag/comments) | [editar](https://studio.youtube.com/video/No3MmU7q8Ag/edit) | — | sí |
+| dom 01 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/No3MmU7q8Ag) | [fijar](https://studio.youtube.com/video/No3MmU7q8Ag/comments) | [editar](https://studio.youtube.com/video/No3MmU7q8Ag/edit) | [revisar](https://studio.youtube.com/video/No3MmU7q8Ag/translations) | sí |
 | dom 01 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/QP1hFVK-n_0) | [fijar](https://studio.youtube.com/video/QP1hFVK-n_0/comments) | [editar](https://studio.youtube.com/video/QP1hFVK-n_0/edit) | — | sí |
 | sáb 07 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/SmBoifUV7DI) | [fijar](https://studio.youtube.com/video/SmBoifUV7DI/comments) | [editar](https://studio.youtube.com/video/SmBoifUV7DI/edit) | — | sí |
 | sáb 07 | [Top 10 Asia: Most Viewed, Commented & Liked on YouTube | Wee](https://youtu.be/k_EN0scOCR8) | [fijar](https://studio.youtube.com/video/k_EN0scOCR8/comments) | [editar](https://studio.youtube.com/video/k_EN0scOCR8/edit) | — | sí |
+| sáb 07 | [Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/4NeIA0vyoOM) | [fijar](https://studio.youtube.com/video/4NeIA0vyoOM/comments) | [editar](https://studio.youtube.com/video/4NeIA0vyoOM/edit) | — | sí |
+| dom 08 | [Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/GSaVRBAIy2c) | [fijar](https://studio.youtube.com/video/GSaVRBAIy2c/comments) | [editar](https://studio.youtube.com/video/GSaVRBAIy2c/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 Asia: Most Viewed, Commented & Liked on YouTube | Wee](https://youtu.be/k_EN0scOCR8) · [Short: The most viewed video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/Nf9mCkmBwC8)
+**Escuchar:** [largo: Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/GSaVRBAIy2c) · [Short: The most commented video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/Wowffkesz84)
 
 ## Cryptuline · Salud con ciencia
 
