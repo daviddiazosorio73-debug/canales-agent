@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-08 11:42 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-08 16:09 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -38,7 +38,7 @@ Sin videos largos publicados esta semana.
 | dom 08 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/O9FTtrVoIW4) | [fijar](https://studio.youtube.com/video/O9FTtrVoIW4/comments) | [editar](https://studio.youtube.com/video/O9FTtrVoIW4/edit) | — | sí |
 | dom 08 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) | [fijar](https://studio.youtube.com/video/X2BXjIE12-E/comments) | [editar](https://studio.youtube.com/video/X2BXjIE12-E/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) · [Short: The most commented video in Asia this week 🏆 #shorts](https://youtube.com/shorts/4N5hBWXJwkU)
+**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) · [Short: The most liked video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/flfvgsz8mAc)
 
 ## Cryptuline · Salud con ciencia
 
@@ -48,5 +48,5 @@ Sin videos largos publicados esta semana.
 | mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
 
-**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: Perdonar y salud: 128 estudios lo analizaron #shorts](https://youtube.com/shorts/Rs7dE_FvYNk)
+**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: Perdón, pulso y presión arterial: lo que vio la ciencia #sho](https://youtube.com/shorts/ACFp32mOwMk)
 
