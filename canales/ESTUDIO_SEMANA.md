@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-08 16:09 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-08 19:52 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -44,9 +44,9 @@ Sin videos largos publicados esta semana.
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| dom 01 | [¿Ir a la iglesia te ayuda a vivir más? Lo que encontró un es](https://youtu.be/p7igaDw-leA) | [fijar](https://studio.youtube.com/video/p7igaDw-leA/comments) | [editar](https://studio.youtube.com/video/p7igaDw-leA/edit) | [revisar](https://studio.youtube.com/video/p7igaDw-leA/translations) | sí |
-| mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | — | sí |
+| mar 03 | [¿10.000 pasos al día es un mito? Lo que encontraron 15 estud](https://youtu.be/amsA-GUWa3g) | [fijar](https://studio.youtube.com/video/amsA-GUWa3g/comments) | [editar](https://studio.youtube.com/video/amsA-GUWa3g/edit) | [revisar](https://studio.youtube.com/video/amsA-GUWa3g/translations) | sí |
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
+| dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 
-**Escuchar:** [largo: Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) · [Short: Perdón, pulso y presión arterial: lo que vio la ciencia #sho](https://youtube.com/shorts/ACFp32mOwMk)
+**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: Perdón, pulso y presión arterial: lo que vio la ciencia #sho](https://youtube.com/shorts/ACFp32mOwMk)
 
