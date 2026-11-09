@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-09 02:56 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-09 13:50 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -38,7 +38,7 @@ Sin videos largos publicados esta semana.
 | dom 08 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/O9FTtrVoIW4) | [fijar](https://studio.youtube.com/video/O9FTtrVoIW4/comments) | [editar](https://studio.youtube.com/video/O9FTtrVoIW4/edit) | — | sí |
 | dom 08 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) | [fijar](https://studio.youtube.com/video/X2BXjIE12-E/comments) | [editar](https://studio.youtube.com/video/X2BXjIE12-E/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) · [Short: The most liked video in Europe this week 🏆 #shorts](https://youtube.com/shorts/dygphrKyDKQ)
+**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/X2BXjIE12-E) · [Short: The most liked video in the world this week 🏆 #shorts](https://youtube.com/shorts/o-bBtWCOuO4)
 
 ## Cryptuline · Salud con ciencia
 
@@ -48,5 +48,5 @@ Sin videos largos publicados esta semana.
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 
-**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: Perdónanos como perdonamos: fe y ciencia #shorts](https://youtube.com/shorts/ItPd8uvDZlc)
+**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: Perdonarte a ti mismo: lo que encontró un metaanálisis #shor](https://youtube.com/shorts/bGm6xk2Vk78)
 
