@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-09 13:50 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-09 21:05 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,8 +7,7 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| lun 02 | [Parábola de los talentos: el siervo que lo perdió todo sin r](https://youtu.be/MD7kZK8XjFw) | [fijar](https://studio.youtube.com/video/MD7kZK8XjFw/comments) | [editar](https://studio.youtube.com/video/MD7kZK8XjFw/edit) | [revisar](https://studio.youtube.com/video/MD7kZK8XjFw/translations) | — |
-| mar 03 | [«El diezmo no se exige, da lo que quieras»: lo analizamos co](https://youtu.be/iemi9tD5Xfg) | [fijar](https://studio.youtube.com/video/iemi9tD5Xfg/comments) | [editar](https://studio.youtube.com/video/iemi9tD5Xfg/edit) | — | — |
+| mar 03 | [«El diezmo no se exige, da lo que quieras»: lo analizamos co](https://youtu.be/iemi9tD5Xfg) | [fijar](https://studio.youtube.com/video/iemi9tD5Xfg/comments) | [editar](https://studio.youtube.com/video/iemi9tD5Xfg/edit) | [revisar](https://studio.youtube.com/video/iemi9tD5Xfg/translations) | — |
 | mié 04 | [El mayordomo infiel: ¿por qué Jesús puso de ejemplo a un tra](https://youtu.be/E-531VhN2f0) | [fijar](https://studio.youtube.com/video/E-531VhN2f0/comments) | [editar](https://studio.youtube.com/video/E-531VhN2f0/edit) | — | — |
 | jue 05 | [¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) | [fijar](https://studio.youtube.com/video/y2SQCvr2wkc/comments) | [editar](https://studio.youtube.com/video/y2SQCvr2wkc/edit) | — | sí |
 | vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | — | — |
@@ -48,5 +47,5 @@ Sin videos largos publicados esta semana.
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 
-**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: Perdonarte a ti mismo: lo que encontró un metaanálisis #shor](https://youtube.com/shorts/bGm6xk2Vk78)
+**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: ¿Dormir más es siempre mejor? 1,3 millones de personas #shor](https://youtube.com/shorts/csFDwyMGSR4)
 
