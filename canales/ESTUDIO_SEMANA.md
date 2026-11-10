@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-10 04:45 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-10 12:47 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -47,5 +47,5 @@ Sin videos largos publicados esta semana.
 | vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | — | sí |
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 
-**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: ¿Dormir más es siempre mejor? 1,3 millones de personas #shor](https://youtube.com/shorts/csFDwyMGSR4)
+**Escuchar:** [largo: Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) · [Short: Dormir poco: 12 % más riesgo en 1,3 millones de personas #sh](https://youtube.com/shorts/Im5iBu_x42k)
 
