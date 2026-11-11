@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-10 18:17 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-11 01:12 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -46,5 +46,5 @@ Sin videos largos publicados esta semana.
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 | mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | — | sí |
 
-**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: Dormir mucho también: 30 % más riesgo #shorts](https://youtube.com/shorts/mUHkxbThmNU)
+**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: Sueño y corazón: lo que vieron 474 mil personas #shorts](https://youtube.com/shorts/u-TFJl5D5nE)
 
