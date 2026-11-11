@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "mundial",
+  "fecha": "2026-11-16",
+  "tema": "Top 10 the World · 2026-W46 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "THE WORLD",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in the world this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in the world this week.\n\nFull countdown, from 10 to 1: https://youtu.be/xeD0jU5UnjU\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in the world this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "0L_90NnAOTs",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, Grand Theft Auto VI: Pre-Load Now, by Rockstar Games, with over 21 thousand comments.",
+      "emocion": "agil",
+      "video_id": "_yl5ELcmugI",
+      "puesto": 3,
+      "creador": "Rockstar Games",
+      "cifra": 21037,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Aku Masih Di Sini PART 11 - Dhot Design, by Dhot Design, with over 73 thousand comments.",
+      "emocion": "agil",
+      "video_id": "Q4CYD_WbRsg",
+      "puesto": 2,
+      "creador": "Dhot Design",
+      "cifra": 73416,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: COMPRÉ A MINI MINI.ULTRA EN LA DEEP WEB, by Fede Vigevani, with over 89 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "0L_90NnAOTs",
+      "puesto": 1,
+      "creador": "Fede Vigevani",
+      "cifra": 89189,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "0L_90NnAOTs",
+      "solo_fondo": true
+    }
+  ]
+}

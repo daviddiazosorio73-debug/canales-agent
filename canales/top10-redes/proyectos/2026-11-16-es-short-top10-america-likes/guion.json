@@ -1,0 +1,87 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "america",
+  "fecha": "2026-11-16",
+  "tema": "Top 10 América · 2026-W46 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "AMÉRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "El #1 con más likes de América esta semana 🏆 #shorts",
+    "descripcion": "El podio de los videos con más likes de América esta semana.\n\nConteo completo, del 10 al 1: https://youtu.be/1eghcjWjO60\n\nDatos de la API oficial de YouTube. Narración con voz sintética. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "videos virales",
+      "tendencias youtube",
+      "shorts",
+      "top 10 redes sociales"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuál fue el video con más likes de América esta semana? Este es el podio. Mira hasta el final.",
+      "emocion": "gancho",
+      "video_id": "kPI9Mc35mOg",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "En el tercer lugar, Okay but who wins…?! 👀🌅🛌, de Sophia & Noelle, con más de 657 mil likes.",
+      "emocion": "agil",
+      "video_id": "i7CY3DXSSrs",
+      "puesto": 3,
+      "creador": "Sophia & Noelle",
+      "cifra": 657485,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "En el segundo lugar, COMPRÉ A MINI MINI.ULTRA EN LA DEEP WEB, de Fede Vigevani, con más de 727 mil likes.",
+      "emocion": "agil",
+      "video_id": "0L_90NnAOTs",
+      "puesto": 2,
+      "creador": "Fede Vigevani",
+      "cifra": 727985,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "Y el número uno: Trap Door Roulette, de MrBeast, con más de un millón de likes.",
+      "emocion": "enfasis",
+      "video_id": "kPI9Mc35mOg",
+      "puesto": 1,
+      "creador": "MrBeast",
+      "cifra": 1145756,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "kPI9Mc35mOg",
+      "solo_fondo": true
+    }
+  ]
+}

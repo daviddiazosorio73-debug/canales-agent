@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "oceania",
+  "fecha": "2026-11-15",
+  "tema": "Top 10 Oceania · 2026-W46 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "OCEANIA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most liked video in Oceania this week 🏆 #shorts",
+    "descripcion": "The podium of the most liked videos in Oceania this week.\n\nFull countdown, from 10 to 1: https://youtu.be/cie3WlUhpjc\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T20:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most liked video in Oceania this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "HpbPSuzsTnc",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, Great to see people learning about Australia …, by Toni and Ryan, with over 250 thousand likes.",
+      "emocion": "agil",
+      "video_id": "FLiQGO81S6w",
+      "puesto": 3,
+      "creador": "Toni and Ryan",
+      "cifra": 250882,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, In This World RUMORS Become TRUE., by Bloxy Productions, with over 325 thousand likes.",
+      "emocion": "agil",
+      "video_id": "T6ftAv14MAM",
+      "puesto": 2,
+      "creador": "Bloxy Productions",
+      "cifra": 325263,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: I think we're seeing a glimpse of future Ben..., by Viva La Dirt League, with over 347 thousand likes.",
+      "emocion": "enfasis",
+      "video_id": "HpbPSuzsTnc",
+      "puesto": 1,
+      "creador": "Viva La Dirt League",
+      "cifra": 347108,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "HpbPSuzsTnc",
+      "solo_fondo": true
+    }
+  ]
+}

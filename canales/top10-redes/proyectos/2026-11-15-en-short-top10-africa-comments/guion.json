@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "africa",
+  "fecha": "2026-11-15",
+  "tema": "Top 10 Africa · 2026-W46 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "AFRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in Africa this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in Africa this week.\n\nFull countdown, from 10 to 1: https://youtu.be/Uug8lGu6Vk8\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T18:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in Africa this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "rxiC6loOJcw",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, تفجير باك الأسبوع مع @DanasTV🔥، لعبنا 1 ضد 1 باش نصفيو…, by Ahmed Sabiri Gaming, with over 1 thousand comments.",
+      "emocion": "agil",
+      "video_id": "-Ruofgx4htc",
+      "puesto": 3,
+      "creador": "Ahmed Sabiri Gaming",
+      "cifra": 1516,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Escaping Prison With Only A TOOTHPICK.., by Foltyn, with over 2 thousand comments.",
+      "emocion": "agil",
+      "video_id": "wabnfHnwLFY",
+      "puesto": 2,
+      "creador": "Foltyn",
+      "cifra": 2817,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: BLOOD NOT SISTERS - ONYII ALEX, CHINENYE…, by onyiialexTV, with over 6 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "rxiC6loOJcw",
+      "puesto": 1,
+      "creador": "onyiialexTV",
+      "cifra": 6260,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "rxiC6loOJcw",
+      "solo_fondo": true
+    }
+  ]
+}
