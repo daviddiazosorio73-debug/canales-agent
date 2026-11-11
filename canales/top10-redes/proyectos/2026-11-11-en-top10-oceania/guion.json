@@ -36,12 +36,22 @@
       "top10oceania",
       "dino says",
       "nickandcarrie",
-      "viva la dirt league"
+      "viva la dirt league",
+      "sos pals",
+      "rpmcentraltv",
+      "rexcore",
+      "bloxy productions",
+      "toni and ryan"
     ],
     "hashtags": [
       "Top10RS",
       "Top10Oceania",
-      "Viral"
+      "Viral",
+      "prank",
+      "skincaregonewrong",
+      "relatable",
+      "plottwist",
+      "vfx"
     ],
     "localizaciones": {
       "es": {
@@ -90,7 +100,121 @@
       "modo": "completo",
       "emocion": "agil",
       "texto": "Let's start with the ten most viewed videos. Number ten, Ingrid Munoz, with “When Cleaning Gel Turns Your Face GREEN!”. Over six point six million views. And get this: it's a channel with about twenty thousand subscribers, playing in the big leagues this week. A Short of just twenty-six seconds.",
-      "capitulo": "Top 10 most viewed"
+      "capitulo": "Top 10 most viewed",
+      "ficha_anim": [
+        "imagenes/v10_cnt_00.jpg",
+        "imagenes/v10_cnt_01.jpg",
+        "imagenes/v10_cnt_02.jpg",
+        "imagenes/v10_cnt_03.jpg",
+        "imagenes/v10_cnt_04.jpg",
+        "imagenes/v10_cnt_05.jpg",
+        "imagenes/v10_cnt_06.jpg",
+        "imagenes/v10_cnt_07.jpg",
+        "imagenes/v10_cnt_08.jpg",
+        "imagenes/v10_cnt_09.jpg",
+        "imagenes/v10_cnt_10.jpg",
+        "imagenes/v10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 0.235,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v09",
@@ -98,7 +222,111 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number nine, xxsni, with “The way Manon regretted what she said”. Over nine point two million views. A Short of just thirty-one seconds. It also has eight hundred and fifty-nine comments."
+      "texto": "Next up, number nine, xxsni, with “The way Manon regretted what she said”. Over nine point two million views. A Short of just thirty-one seconds. It also has eight hundred and fifty-nine comments.",
+      "ficha_anim": [
+        "imagenes/v09_cnt_00.jpg",
+        "imagenes/v09_cnt_01.jpg",
+        "imagenes/v09_cnt_02.jpg",
+        "imagenes/v09_cnt_03.jpg",
+        "imagenes/v09_cnt_04.jpg",
+        "imagenes/v09_cnt_05.jpg",
+        "imagenes/v09_cnt_06.jpg",
+        "imagenes/v09_cnt_07.jpg",
+        "imagenes/v09_cnt_08.jpg",
+        "imagenes/v09_cnt_09.jpg",
+        "imagenes/v09_cnt_10.jpg",
+        "imagenes/v09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 4.73,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v08",
@@ -106,7 +334,121 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number eight, from New Zealand, Viva La Dirt League, with “I think we're seeing a glimpse of future Ben...”. Over nine point eight million views. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. It got there in just two days."
+      "texto": "Number eight, from New Zealand, Viva La Dirt League, with “I think we're seeing a glimpse of future Ben...”. Over nine point eight million views. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. It got there in just two days.",
+      "ficha_anim": [
+        "imagenes/v08_cnt_00.jpg",
+        "imagenes/v08_cnt_01.jpg",
+        "imagenes/v08_cnt_02.jpg",
+        "imagenes/v08_cnt_03.jpg",
+        "imagenes/v08_cnt_04.jpg",
+        "imagenes/v08_cnt_05.jpg",
+        "imagenes/v08_cnt_06.jpg",
+        "imagenes/v08_cnt_07.jpg",
+        "imagenes/v08_cnt_08.jpg",
+        "imagenes/v08_cnt_09.jpg",
+        "imagenes/v08_cnt_10.jpg",
+        "imagenes/v08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v08_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v08_02.jpg",
+          "dur": 0.272,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v07",
@@ -114,7 +456,116 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number seven, Merry Latte, with “Comment grinch if your car needs one!”. Over ten million views. And get this: it's a channel with about seventy-one thousand subscribers, playing in the big leagues this week. A Short of just eleven seconds."
+      "texto": "Next up, number seven, Merry Latte, with “Comment grinch if your car needs one!”. Over ten million views. And get this: it's a channel with about seventy-one thousand subscribers, playing in the big leagues this week. A Short of just eleven seconds.",
+      "ficha_anim": [
+        "imagenes/v07_cnt_00.jpg",
+        "imagenes/v07_cnt_01.jpg",
+        "imagenes/v07_cnt_02.jpg",
+        "imagenes/v07_cnt_03.jpg",
+        "imagenes/v07_cnt_04.jpg",
+        "imagenes/v07_cnt_05.jpg",
+        "imagenes/v07_cnt_06.jpg",
+        "imagenes/v07_cnt_07.jpg",
+        "imagenes/v07_cnt_08.jpg",
+        "imagenes/v07_cnt_09.jpg",
+        "imagenes/v07_cnt_10.jpg",
+        "imagenes/v07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v07_02.jpg",
+          "dur": 0.552,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v06",
@@ -122,7 +573,111 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number six, Bloxy Productions, with “In this world rumors become true.”. Over ten million views. It also has over one thousand comments."
+      "texto": "Number six, Bloxy Productions, with “In this world rumors become true.”. Over ten million views. It also has over one thousand comments.",
+      "ficha_anim": [
+        "imagenes/v06_cnt_00.jpg",
+        "imagenes/v06_cnt_01.jpg",
+        "imagenes/v06_cnt_02.jpg",
+        "imagenes/v06_cnt_03.jpg",
+        "imagenes/v06_cnt_04.jpg",
+        "imagenes/v06_cnt_05.jpg",
+        "imagenes/v06_cnt_06.jpg",
+        "imagenes/v06_cnt_07.jpg",
+        "imagenes/v06_cnt_08.jpg",
+        "imagenes/v06_cnt_09.jpg",
+        "imagenes/v06_cnt_10.jpg",
+        "imagenes/v06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 2.225,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v05",
@@ -130,7 +685,111 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number five, from Australia, Jasmin and James, with “We can’t believe we just hit 43m family members!”. Over eleven million views. A Short of just twenty-two seconds. It also has two hundred and three comments."
+      "texto": "Coming in at number five, from Australia, Jasmin and James, with “We can’t believe we just hit 43m family members!”. Over eleven million views. A Short of just twenty-two seconds. It also has two hundred and three comments.",
+      "ficha_anim": [
+        "imagenes/v05_cnt_00.jpg",
+        "imagenes/v05_cnt_01.jpg",
+        "imagenes/v05_cnt_02.jpg",
+        "imagenes/v05_cnt_03.jpg",
+        "imagenes/v05_cnt_04.jpg",
+        "imagenes/v05_cnt_05.jpg",
+        "imagenes/v05_cnt_06.jpg",
+        "imagenes/v05_cnt_07.jpg",
+        "imagenes/v05_cnt_08.jpg",
+        "imagenes/v05_cnt_09.jpg",
+        "imagenes/v05_cnt_10.jpg",
+        "imagenes/v05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 4.618,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v04",
@@ -138,7 +797,111 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number four, Ivan Hutsul, with “Not Your Average Ice Cream!”. Over fifteen million views. And get this: it's a channel with about twelve thousand subscribers, playing in the big leagues this week. A Short of just nine seconds."
+      "texto": "Next up, number four, Ivan Hutsul, with “Not Your Average Ice Cream!”. Over fifteen million views. And get this: it's a channel with about twelve thousand subscribers, playing in the big leagues this week. A Short of just nine seconds.",
+      "ficha_anim": [
+        "imagenes/v04_cnt_00.jpg",
+        "imagenes/v04_cnt_01.jpg",
+        "imagenes/v04_cnt_02.jpg",
+        "imagenes/v04_cnt_03.jpg",
+        "imagenes/v04_cnt_04.jpg",
+        "imagenes/v04_cnt_05.jpg",
+        "imagenes/v04_cnt_06.jpg",
+        "imagenes/v04_cnt_07.jpg",
+        "imagenes/v04_cnt_08.jpg",
+        "imagenes/v04_cnt_09.jpg",
+        "imagenes/v04_cnt_10.jpg",
+        "imagenes/v04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 3.982,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v03",
@@ -147,7 +910,116 @@
       "modo": "completo",
       "emocion": "enfasis",
       "texto": "Bronze medal, RpmCentralTV, with “Soaked?”. Over twenty-two million views. And get this: it's a channel with about thirty-five thousand subscribers, playing in the big leagues this week. A Short of just nine seconds.",
-      "capitulo": "The podium"
+      "capitulo": "The podium",
+      "ficha_anim": [
+        "imagenes/v03_cnt_00.jpg",
+        "imagenes/v03_cnt_01.jpg",
+        "imagenes/v03_cnt_02.jpg",
+        "imagenes/v03_cnt_03.jpg",
+        "imagenes/v03_cnt_04.jpg",
+        "imagenes/v03_cnt_05.jpg",
+        "imagenes/v03_cnt_06.jpg",
+        "imagenes/v03_cnt_07.jpg",
+        "imagenes/v03_cnt_08.jpg",
+        "imagenes/v03_cnt_09.jpg",
+        "imagenes/v03_cnt_10.jpg",
+        "imagenes/v03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v03_02.jpg",
+          "dur": 0.69,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v02",
@@ -155,7 +1027,121 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, SOS Pals, with “Ever parent needs this for their kids!”. Over twenty-nine million views. It was the fastest-growing video on this list: about two hundred and ninety thousand views per hour. And get this: it's a channel with about thirteen thousand subscribers, playing in the big leagues this week."
+      "texto": "Silver medal, SOS Pals, with “Ever parent needs this for their kids!”. Over twenty-nine million views. It was the fastest-growing video on this list: about two hundred and ninety thousand views per hour. And get this: it's a channel with about thirteen thousand subscribers, playing in the big leagues this week.",
+      "ficha_anim": [
+        "imagenes/v02_cnt_00.jpg",
+        "imagenes/v02_cnt_01.jpg",
+        "imagenes/v02_cnt_02.jpg",
+        "imagenes/v02_cnt_03.jpg",
+        "imagenes/v02_cnt_04.jpg",
+        "imagenes/v02_cnt_05.jpg",
+        "imagenes/v02_cnt_06.jpg",
+        "imagenes/v02_cnt_07.jpg",
+        "imagenes/v02_cnt_08.jpg",
+        "imagenes/v02_cnt_09.jpg",
+        "imagenes/v02_cnt_10.jpg",
+        "imagenes/v02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 5.0,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v02_02.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v02_02.jpg",
+          "dur": 2.82,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v01",
@@ -163,7 +1149,118 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most viewed, Dino Says, with “Comment DINO if you want one!”. Over thirty-nine million views. And get this: it's a channel with about one hundred thousand subscribers, playing in the big leagues this week. A Short of just nineteen seconds."
+      "texto": "Drum roll, please. Number one most viewed, Dino Says, with “Comment DINO if you want one!”. Over thirty-nine million views. And get this: it's a channel with about one hundred thousand subscribers, playing in the big leagues this week. A Short of just nineteen seconds.",
+      "ficha_anim": [
+        "imagenes/v01_cnt_00.jpg",
+        "imagenes/v01_cnt_01.jpg",
+        "imagenes/v01_cnt_02.jpg",
+        "imagenes/v01_cnt_03.jpg",
+        "imagenes/v01_cnt_04.jpg",
+        "imagenes/v01_cnt_05.jpg",
+        "imagenes/v01_cnt_06.jpg",
+        "imagenes/v01_cnt_07.jpg",
+        "imagenes/v01_cnt_08.jpg",
+        "imagenes/v01_cnt_09.jpg",
+        "imagenes/v01_cnt_10.jpg",
+        "imagenes/v01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_views.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 4.194,
+          "mov": false
+        },
+        {
+          "img": "imagenes/v01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_views.jpg",
+          "dur": 4.973,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c10",
@@ -172,7 +1269,111 @@
       "modo": "rapido",
       "emocion": "agil",
       "texto": "Now for the conversation: the ten most commented videos. At number ten, from Australia, Bridey Drake, with a video posted four days ago. Over one thousand comments. A Short of just fifty-eight seconds. It also has over three point eight million views.",
-      "capitulo": "Top 10 most commented"
+      "capitulo": "Top 10 most commented",
+      "ficha_anim": [
+        "imagenes/c10_cnt_00.jpg",
+        "imagenes/c10_cnt_01.jpg",
+        "imagenes/c10_cnt_02.jpg",
+        "imagenes/c10_cnt_03.jpg",
+        "imagenes/c10_cnt_04.jpg",
+        "imagenes/c10_cnt_05.jpg",
+        "imagenes/c10_cnt_06.jpg",
+        "imagenes/c10_cnt_07.jpg",
+        "imagenes/c10_cnt_08.jpg",
+        "imagenes/c10_cnt_09.jpg",
+        "imagenes/c10_cnt_10.jpg",
+        "imagenes/c10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c10_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c10_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_card.jpg",
+          "dur": 5.902,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c09",
@@ -180,7 +1381,111 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from Australia, Skill Up, with a video posted six days ago. Over two thousand comments. A video over twenty-one minutes long, and people still stayed to watch. It also has over seven hundred and forty thousand views."
+      "texto": "Number nine, from Australia, Skill Up, with a video posted six days ago. Over two thousand comments. A video over twenty-one minutes long, and people still stayed to watch. It also has over seven hundred and forty thousand views.",
+      "ficha_anim": [
+        "imagenes/c09_cnt_00.jpg",
+        "imagenes/c09_cnt_01.jpg",
+        "imagenes/c09_cnt_02.jpg",
+        "imagenes/c09_cnt_03.jpg",
+        "imagenes/c09_cnt_04.jpg",
+        "imagenes/c09_cnt_05.jpg",
+        "imagenes/c09_cnt_06.jpg",
+        "imagenes/c09_cnt_07.jpg",
+        "imagenes/c09_cnt_08.jpg",
+        "imagenes/c09_cnt_09.jpg",
+        "imagenes/c09_cnt_10.jpg",
+        "imagenes/c09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c09_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c09_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_card.jpg",
+          "dur": 5.005,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c08",
@@ -188,7 +1493,111 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number eight, Jack C, with “I’ll be waiting”. Over two thousand comments. And get this: it's a channel with about seventy-two thousand subscribers, playing in the big leagues this week. A Short of just twenty-six seconds."
+      "texto": "Number eight, Jack C, with “I’ll be waiting”. Over two thousand comments. And get this: it's a channel with about seventy-two thousand subscribers, playing in the big leagues this week. A Short of just twenty-six seconds.",
+      "ficha_anim": [
+        "imagenes/c08_cnt_00.jpg",
+        "imagenes/c08_cnt_01.jpg",
+        "imagenes/c08_cnt_02.jpg",
+        "imagenes/c08_cnt_03.jpg",
+        "imagenes/c08_cnt_04.jpg",
+        "imagenes/c08_cnt_05.jpg",
+        "imagenes/c08_cnt_06.jpg",
+        "imagenes/c08_cnt_07.jpg",
+        "imagenes/c08_cnt_08.jpg",
+        "imagenes/c08_cnt_09.jpg",
+        "imagenes/c08_cnt_10.jpg",
+        "imagenes/c08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c08_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c08_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_card.jpg",
+          "dur": 4.034,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c07",
@@ -196,7 +1605,111 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, RpmCentralTV, with “Soaked?”. Over two thousand comments. And get this: it's a channel with about thirty-five thousand subscribers, playing in the big leagues this week. A Short of just nine seconds."
+      "texto": "In position number seven, RpmCentralTV, with “Soaked?”. Over two thousand comments. And get this: it's a channel with about thirty-five thousand subscribers, playing in the big leagues this week. A Short of just nine seconds.",
+      "ficha_anim": [
+        "imagenes/c07_cnt_00.jpg",
+        "imagenes/c07_cnt_01.jpg",
+        "imagenes/c07_cnt_02.jpg",
+        "imagenes/c07_cnt_03.jpg",
+        "imagenes/c07_cnt_04.jpg",
+        "imagenes/c07_cnt_05.jpg",
+        "imagenes/c07_cnt_06.jpg",
+        "imagenes/c07_cnt_07.jpg",
+        "imagenes/c07_cnt_08.jpg",
+        "imagenes/c07_cnt_09.jpg",
+        "imagenes/c07_cnt_10.jpg",
+        "imagenes/c07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c07_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c07_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_card.jpg",
+          "dur": 4.37,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c06",
@@ -204,7 +1717,111 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number six, from Australia, TGG, with “Gta 6: game files datamined gta 6 online hints...”. Over two thousand comments. It got there in just one day. It also has over one point two million views."
+      "texto": "At number six, from Australia, TGG, with “Gta 6: game files datamined gta 6 online hints...”. Over two thousand comments. It got there in just one day. It also has over one point two million views.",
+      "ficha_anim": [
+        "imagenes/c06_cnt_00.jpg",
+        "imagenes/c06_cnt_01.jpg",
+        "imagenes/c06_cnt_02.jpg",
+        "imagenes/c06_cnt_03.jpg",
+        "imagenes/c06_cnt_04.jpg",
+        "imagenes/c06_cnt_05.jpg",
+        "imagenes/c06_cnt_06.jpg",
+        "imagenes/c06_cnt_07.jpg",
+        "imagenes/c06_cnt_08.jpg",
+        "imagenes/c06_cnt_09.jpg",
+        "imagenes/c06_cnt_10.jpg",
+        "imagenes/c06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c06_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c06_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_card.jpg",
+          "dur": 4.968,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c05",
@@ -212,7 +1829,111 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number five, from Australia, Lily Jay, with “Muslims making HISTORY”. Over four thousand comments. It has the best engagement rate on this list: six out of every hundred viewers liked or commented. It also has over two point six million views."
+      "texto": "At number five, from Australia, Lily Jay, with “Muslims making HISTORY”. Over four thousand comments. It has the best engagement rate on this list: six out of every hundred viewers liked or commented. It also has over two point six million views.",
+      "ficha_anim": [
+        "imagenes/c05_cnt_00.jpg",
+        "imagenes/c05_cnt_01.jpg",
+        "imagenes/c05_cnt_02.jpg",
+        "imagenes/c05_cnt_03.jpg",
+        "imagenes/c05_cnt_04.jpg",
+        "imagenes/c05_cnt_05.jpg",
+        "imagenes/c05_cnt_06.jpg",
+        "imagenes/c05_cnt_07.jpg",
+        "imagenes/c05_cnt_08.jpg",
+        "imagenes/c05_cnt_09.jpg",
+        "imagenes/c05_cnt_10.jpg",
+        "imagenes/c05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c05_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c05_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_card.jpg",
+          "dur": 5.716,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c04",
@@ -220,7 +1941,111 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number four, from Australia, I did a thing, with “I made a bizzare invention that blows up clouds”. Over five thousand comments. It got there in just two days. It also has over three point nine million views."
+      "texto": "At number four, from Australia, I did a thing, with “I made a bizzare invention that blows up clouds”. Over five thousand comments. It got there in just two days. It also has over three point nine million views.",
+      "ficha_anim": [
+        "imagenes/c04_cnt_00.jpg",
+        "imagenes/c04_cnt_01.jpg",
+        "imagenes/c04_cnt_02.jpg",
+        "imagenes/c04_cnt_03.jpg",
+        "imagenes/c04_cnt_04.jpg",
+        "imagenes/c04_cnt_05.jpg",
+        "imagenes/c04_cnt_06.jpg",
+        "imagenes/c04_cnt_07.jpg",
+        "imagenes/c04_cnt_08.jpg",
+        "imagenes/c04_cnt_09.jpg",
+        "imagenes/c04_cnt_10.jpg",
+        "imagenes/c04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c04_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c04_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_card.jpg",
+          "dur": 4.669,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c03",
@@ -228,7 +2053,111 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, RexCore, with “Roblox has 5 hours left”. Over six thousand comments. And get this: it's a channel with about nine thousand, two hundred subscribers, playing in the big leagues this week. It got there in just two days."
+      "texto": "Bronze medal, RexCore, with “Roblox has 5 hours left”. Over six thousand comments. And get this: it's a channel with about nine thousand, two hundred subscribers, playing in the big leagues this week. It got there in just two days.",
+      "ficha_anim": [
+        "imagenes/c03_cnt_00.jpg",
+        "imagenes/c03_cnt_01.jpg",
+        "imagenes/c03_cnt_02.jpg",
+        "imagenes/c03_cnt_03.jpg",
+        "imagenes/c03_cnt_04.jpg",
+        "imagenes/c03_cnt_05.jpg",
+        "imagenes/c03_cnt_06.jpg",
+        "imagenes/c03_cnt_07.jpg",
+        "imagenes/c03_cnt_08.jpg",
+        "imagenes/c03_cnt_09.jpg",
+        "imagenes/c03_cnt_10.jpg",
+        "imagenes/c03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c03_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c03_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_card.jpg",
+          "dur": 5.39,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c02",
@@ -236,7 +2165,111 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from New Zealand, Viva La Dirt League, with “I think we're seeing a glimpse of future Ben...”. Over six thousand comments. It was the fastest-growing video on this list: about one hundred and seventy thousand views per hour. It got there in just two days."
+      "texto": "Silver medal, from New Zealand, Viva La Dirt League, with “I think we're seeing a glimpse of future Ben...”. Over six thousand comments. It was the fastest-growing video on this list: about one hundred and seventy thousand views per hour. It got there in just two days.",
+      "ficha_anim": [
+        "imagenes/c02_cnt_00.jpg",
+        "imagenes/c02_cnt_01.jpg",
+        "imagenes/c02_cnt_02.jpg",
+        "imagenes/c02_cnt_03.jpg",
+        "imagenes/c02_cnt_04.jpg",
+        "imagenes/c02_cnt_05.jpg",
+        "imagenes/c02_cnt_06.jpg",
+        "imagenes/c02_cnt_07.jpg",
+        "imagenes/c02_cnt_08.jpg",
+        "imagenes/c02_cnt_09.jpg",
+        "imagenes/c02_cnt_10.jpg",
+        "imagenes/c02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c02_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c02_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_card.jpg",
+          "dur": 8.32,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c01",
@@ -244,7 +2277,118 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most commented, from Australia, NickandCarrie, with “Which one is your favourite?”. Over nine thousand comments. It also has over two point eight million views."
+      "texto": "And here it is. Number one most commented, from Australia, NickandCarrie, with “Which one is your favourite?”. Over nine thousand comments. It also has over two point eight million views.",
+      "ficha_anim": [
+        "imagenes/c01_cnt_00.jpg",
+        "imagenes/c01_cnt_01.jpg",
+        "imagenes/c01_cnt_02.jpg",
+        "imagenes/c01_cnt_03.jpg",
+        "imagenes/c01_cnt_04.jpg",
+        "imagenes/c01_cnt_05.jpg",
+        "imagenes/c01_cnt_06.jpg",
+        "imagenes/c01_cnt_07.jpg",
+        "imagenes/c01_cnt_08.jpg",
+        "imagenes/c01_cnt_09.jpg",
+        "imagenes/c01_cnt_10.jpg",
+        "imagenes/c01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_comments.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/c01_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/c01_02.jpg",
+          "dur": 2.444,
+          "mov": false
+        },
+        {
+          "img": "imagenes/c01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_comments.jpg",
+          "dur": 3.223,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l10",
@@ -253,7 +2397,111 @@
       "modo": "rapido",
       "emocion": "agil",
       "texto": "And the last list: the ten most liked videos. At number ten, from Australia, Bridey Drake, with a video posted four days ago. Over one hundred and forty-eight thousand likes. A Short of just fifty-eight seconds. It also has over three point eight million views.",
-      "capitulo": "Top 10 most liked"
+      "capitulo": "Top 10 most liked",
+      "ficha_anim": [
+        "imagenes/l10_cnt_00.jpg",
+        "imagenes/l10_cnt_01.jpg",
+        "imagenes/l10_cnt_02.jpg",
+        "imagenes/l10_cnt_03.jpg",
+        "imagenes/l10_cnt_04.jpg",
+        "imagenes/l10_cnt_05.jpg",
+        "imagenes/l10_cnt_06.jpg",
+        "imagenes/l10_cnt_07.jpg",
+        "imagenes/l10_cnt_08.jpg",
+        "imagenes/l10_cnt_09.jpg",
+        "imagenes/l10_cnt_10.jpg",
+        "imagenes/l10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l10_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l10_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_card.jpg",
+          "dur": 6.08,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l09",
@@ -261,7 +2509,111 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number nine, from Australia, Lily Jay, with “Muslims making HISTORY”. Over one hundred and forty-nine thousand likes. It also has over two point six million views."
+      "texto": "Next up, number nine, from Australia, Lily Jay, with “Muslims making HISTORY”. Over one hundred and forty-nine thousand likes. It also has over two point six million views.",
+      "ficha_anim": [
+        "imagenes/l09_cnt_00.jpg",
+        "imagenes/l09_cnt_01.jpg",
+        "imagenes/l09_cnt_02.jpg",
+        "imagenes/l09_cnt_03.jpg",
+        "imagenes/l09_cnt_04.jpg",
+        "imagenes/l09_cnt_05.jpg",
+        "imagenes/l09_cnt_06.jpg",
+        "imagenes/l09_cnt_07.jpg",
+        "imagenes/l09_cnt_08.jpg",
+        "imagenes/l09_cnt_09.jpg",
+        "imagenes/l09_cnt_10.jpg",
+        "imagenes/l09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l09_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l09_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_card.jpg",
+          "dur": 3.622,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l08",
@@ -269,7 +2621,111 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number eight, from Australia, OFF RUNWAY , with a video posted four days ago. Over one hundred and fifty-seven thousand likes. A Short of just sixteen seconds. It also has over three million views."
+      "texto": "In position number eight, from Australia, OFF RUNWAY , with a video posted four days ago. Over one hundred and fifty-seven thousand likes. A Short of just sixteen seconds. It also has over three million views.",
+      "ficha_anim": [
+        "imagenes/l08_cnt_00.jpg",
+        "imagenes/l08_cnt_01.jpg",
+        "imagenes/l08_cnt_02.jpg",
+        "imagenes/l08_cnt_03.jpg",
+        "imagenes/l08_cnt_04.jpg",
+        "imagenes/l08_cnt_05.jpg",
+        "imagenes/l08_cnt_06.jpg",
+        "imagenes/l08_cnt_07.jpg",
+        "imagenes/l08_cnt_08.jpg",
+        "imagenes/l08_cnt_09.jpg",
+        "imagenes/l08_cnt_10.jpg",
+        "imagenes/l08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l08_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l08_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_card.jpg",
+          "dur": 4.108,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l07",
@@ -277,7 +2733,111 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number seven, Dino Says, with “Comment DINO if you want one!”. Over one hundred and ninety-three thousand likes. And get this: it's a channel with about one hundred thousand subscribers, playing in the big leagues this week. A Short of just nineteen seconds."
+      "texto": "Coming in at number seven, Dino Says, with “Comment DINO if you want one!”. Over one hundred and ninety-three thousand likes. And get this: it's a channel with about one hundred thousand subscribers, playing in the big leagues this week. A Short of just nineteen seconds.",
+      "ficha_anim": [
+        "imagenes/l07_cnt_00.jpg",
+        "imagenes/l07_cnt_01.jpg",
+        "imagenes/l07_cnt_02.jpg",
+        "imagenes/l07_cnt_03.jpg",
+        "imagenes/l07_cnt_04.jpg",
+        "imagenes/l07_cnt_05.jpg",
+        "imagenes/l07_cnt_06.jpg",
+        "imagenes/l07_cnt_07.jpg",
+        "imagenes/l07_cnt_08.jpg",
+        "imagenes/l07_cnt_09.jpg",
+        "imagenes/l07_cnt_10.jpg",
+        "imagenes/l07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l07_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l07_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_card.jpg",
+          "dur": 8.361,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l06",
@@ -285,7 +2845,111 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number six, xxsni, with “The way Manon regretted what she said”. Over one hundred and ninety-six thousand likes. A Short of just thirty-one seconds. It also has over nine point two million views."
+      "texto": "At number six, xxsni, with “The way Manon regretted what she said”. Over one hundred and ninety-six thousand likes. A Short of just thirty-one seconds. It also has over nine point two million views.",
+      "ficha_anim": [
+        "imagenes/l06_cnt_00.jpg",
+        "imagenes/l06_cnt_01.jpg",
+        "imagenes/l06_cnt_02.jpg",
+        "imagenes/l06_cnt_03.jpg",
+        "imagenes/l06_cnt_04.jpg",
+        "imagenes/l06_cnt_05.jpg",
+        "imagenes/l06_cnt_06.jpg",
+        "imagenes/l06_cnt_07.jpg",
+        "imagenes/l06_cnt_08.jpg",
+        "imagenes/l06_cnt_09.jpg",
+        "imagenes/l06_cnt_10.jpg",
+        "imagenes/l06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l06_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l06_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_card.jpg",
+          "dur": 6.351,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l05",
@@ -293,7 +2957,111 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number five, Zack D. Films, with “Why Your Brain Focuses On Negative Things”. Over two hundred and ten thousand likes. It was the fastest-growing video on this list: about two hundred and sixty thousand views per hour. It has the best engagement rate on this list: seven out of every hundred viewers liked or commented."
+      "texto": "At number five, Zack D. Films, with “Why Your Brain Focuses On Negative Things”. Over two hundred and ten thousand likes. It was the fastest-growing video on this list: about two hundred and sixty thousand views per hour. It has the best engagement rate on this list: seven out of every hundred viewers liked or commented.",
+      "ficha_anim": [
+        "imagenes/l05_cnt_00.jpg",
+        "imagenes/l05_cnt_01.jpg",
+        "imagenes/l05_cnt_02.jpg",
+        "imagenes/l05_cnt_03.jpg",
+        "imagenes/l05_cnt_04.jpg",
+        "imagenes/l05_cnt_05.jpg",
+        "imagenes/l05_cnt_06.jpg",
+        "imagenes/l05_cnt_07.jpg",
+        "imagenes/l05_cnt_08.jpg",
+        "imagenes/l05_cnt_09.jpg",
+        "imagenes/l05_cnt_10.jpg",
+        "imagenes/l05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l05_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l05_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_card.jpg",
+          "dur": 9.632,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l04",
@@ -301,7 +3069,111 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number four, RpmCentralTV, with “Soaked?”. Over two hundred and forty-three thousand likes. And get this: it's a channel with about thirty-five thousand subscribers, playing in the big leagues this week. A Short of just nine seconds."
+      "texto": "Next up, number four, RpmCentralTV, with “Soaked?”. Over two hundred and forty-three thousand likes. And get this: it's a channel with about thirty-five thousand subscribers, playing in the big leagues this week. A Short of just nine seconds.",
+      "ficha_anim": [
+        "imagenes/l04_cnt_00.jpg",
+        "imagenes/l04_cnt_01.jpg",
+        "imagenes/l04_cnt_02.jpg",
+        "imagenes/l04_cnt_03.jpg",
+        "imagenes/l04_cnt_04.jpg",
+        "imagenes/l04_cnt_05.jpg",
+        "imagenes/l04_cnt_06.jpg",
+        "imagenes/l04_cnt_07.jpg",
+        "imagenes/l04_cnt_08.jpg",
+        "imagenes/l04_cnt_09.jpg",
+        "imagenes/l04_cnt_10.jpg",
+        "imagenes/l04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l04_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l04_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_card.jpg",
+          "dur": 5.865,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l03",
@@ -309,7 +3181,111 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Australia, Toni and Ryan, with “Great to see people learning about Australia”. Over two hundred and fifty thousand likes. A Short of just fifty seconds. It also has over four point seven million views."
+      "texto": "Bronze medal, from Australia, Toni and Ryan, with “Great to see people learning about Australia”. Over two hundred and fifty thousand likes. A Short of just fifty seconds. It also has over four point seven million views.",
+      "ficha_anim": [
+        "imagenes/l03_cnt_00.jpg",
+        "imagenes/l03_cnt_01.jpg",
+        "imagenes/l03_cnt_02.jpg",
+        "imagenes/l03_cnt_03.jpg",
+        "imagenes/l03_cnt_04.jpg",
+        "imagenes/l03_cnt_05.jpg",
+        "imagenes/l03_cnt_06.jpg",
+        "imagenes/l03_cnt_07.jpg",
+        "imagenes/l03_cnt_08.jpg",
+        "imagenes/l03_cnt_09.jpg",
+        "imagenes/l03_cnt_10.jpg",
+        "imagenes/l03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l03_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l03_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_card.jpg",
+          "dur": 6.47,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l02",
@@ -317,7 +3293,111 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Bloxy Productions, with “In this world rumors become true.”. Over three hundred and twenty-five thousand likes. It also has over ten million views."
+      "texto": "Silver medal, Bloxy Productions, with “In this world rumors become true.”. Over three hundred and twenty-five thousand likes. It also has over ten million views.",
+      "ficha_anim": [
+        "imagenes/l02_cnt_00.jpg",
+        "imagenes/l02_cnt_01.jpg",
+        "imagenes/l02_cnt_02.jpg",
+        "imagenes/l02_cnt_03.jpg",
+        "imagenes/l02_cnt_04.jpg",
+        "imagenes/l02_cnt_05.jpg",
+        "imagenes/l02_cnt_06.jpg",
+        "imagenes/l02_cnt_07.jpg",
+        "imagenes/l02_cnt_08.jpg",
+        "imagenes/l02_cnt_09.jpg",
+        "imagenes/l02_cnt_10.jpg",
+        "imagenes/l02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l02_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l02_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_card.jpg",
+          "dur": 3.95,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l01",
@@ -325,7 +3405,118 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most liked, from New Zealand, Viva La Dirt League, with “I think we're seeing a glimpse of future Ben...”. Over three hundred and forty-seven thousand likes. It got there in just two days. It also has over nine point eight million views."
+      "texto": "And here it is. Number one most liked, from New Zealand, Viva La Dirt League, with “I think we're seeing a glimpse of future Ben...”. Over three hundred and forty-seven thousand likes. It got there in just two days. It also has over nine point eight million views.",
+      "ficha_anim": [
+        "imagenes/l01_cnt_00.jpg",
+        "imagenes/l01_cnt_01.jpg",
+        "imagenes/l01_cnt_02.jpg",
+        "imagenes/l01_cnt_03.jpg",
+        "imagenes/l01_cnt_04.jpg",
+        "imagenes/l01_cnt_05.jpg",
+        "imagenes/l01_cnt_06.jpg",
+        "imagenes/l01_cnt_07.jpg",
+        "imagenes/l01_cnt_08.jpg",
+        "imagenes/l01_cnt_09.jpg",
+        "imagenes/l01_cnt_10.jpg",
+        "imagenes/l01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_likes.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/l01_09.jpg",
+          "dur": 3.0,
+          "mov": true
+        },
+        {
+          "img": "imagenes/l01_02.jpg",
+          "dur": 2.5,
+          "mov": false
+        },
+        {
+          "img": "imagenes/l01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_card.jpg",
+          "dur": 2.245,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_likes.jpg",
+          "dur": 6.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "cierre",
