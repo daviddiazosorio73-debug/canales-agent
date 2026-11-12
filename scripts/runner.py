@@ -147,7 +147,7 @@ def main():
             env["RES_4K"] = "1"
         else:
             env.pop("RES_4K", None)
-        offline = [] if env.get("PEXELS_API_KEY") else ["--offline"]
+        offline = []  # sin clave de Pexels igual busca imágenes libres (Openverse / Wikimedia); el degradado es el último recurso
         if fp < ahora and g.get("seo", {}).get("publicar_en"):
             g["seo"]["publicar_en"] = None  # ya pasó la hora: se publica de inmediato
             g["seo"]["privacidad"] = "public"

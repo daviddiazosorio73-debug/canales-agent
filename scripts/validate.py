@@ -55,6 +55,10 @@ def main():
             err.append(f"miniatura.{k} vacío.")
     # SEO y calendario (avisos)
     seo = g["seo"]
+    if g["tipo"] == "short" and not g.get("top10_short"):
+        sinq = [e["id"] for e in g["escenas"] if not (e.get("visual") or {}).get("query")]
+        if sinq:
+            warn.append(f"Short: escenas sin visual.query (imagen/video 4K alusivo, en inglés): {', '.join(sinq)}.")
     if g["tipo"] == "short" and "#shorts" not in seo.get("titulo", "").lower():
         warn.append("Short sin #shorts en el título.")
     if not seo.get("descripcion"):

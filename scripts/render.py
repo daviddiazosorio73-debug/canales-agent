@@ -121,6 +121,21 @@ def scene_clip(i, e, proj, tmp, preset, brand):
              "-c:v", "libx264", "-preset", preset, "-crf", "19", "-c:a", "aac", "-b:a", "192k",
              str(out)])
         return out, dur
+    clip = proj / "imagenes" / f"{e['id']}.mp4"
+    if clip.exists():  # clip de video (4K de origen): se escala con nitidez, en bucle si el clip es más corto que la voz
+        fc = (f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase:flags=lanczos,crop={W}:{H},fps={FPS},setsar=1,"
+              f"eq=brightness=-0.04,format=yuv420p[bg];[bg][1:v]overlay=0:0,"
+              f"fade=t=in:st=0:d={FADE},fade=t=out:st={dur - FADE:.3f}:d={FADE}[v];"
+              f"[2:a]apad=pad_dur={PAD},aresample=48000[a]")
+        try:
+            run(["ffmpeg", "-y", "-v", "error", "-stream_loop", "-1", "-i", str(clip),
+                 "-loop", "1", "-framerate", str(FPS), "-i", str(ov), "-i", str(aud),
+                 "-filter_complex", fc, "-map", "[v]", "-map", "[a]", "-t", f"{dur:.3f}",
+                 "-c:v", "libx264", "-preset", preset, "-crf", "19", "-c:a", "aac", "-b:a", "192k",
+                 str(out)])
+            return out, dur
+        except (Exception, SystemExit) as ex:  # clip dañado: se usa la imagen fija
+            print(f"AVISO: clip de {e['id']} no se pudo usar ({ex}); va la imagen", flush=True)
     fc = (f"[0:v]zoompan=z='{z}':x='{x.format(N=n)}':y='{y.format(N=n)}':d=1:s={W}x{H}:fps={FPS},"
           f"format=yuv420p[bg];[bg][1:v]overlay=0:0,"
           f"fade=t=in:st=0:d={FADE},fade=t=out:st={dur - FADE:.3f}:d={FADE}[v];"

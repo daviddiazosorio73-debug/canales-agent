@@ -9,7 +9,7 @@ from pathlib import Path
 from common import load_json, save_json, ts
 
 LIMITS = {"titulo": 100, "descripcion": 5000, "tags_total": 500}
-CREDITOS_TXT = {"es": "Imágenes: Pexels", "pt": "Imagens: Pexels", "en": "Images: Pexels", "fr": "Images : Pexels"}
+CREDITOS_TXT = {"es": "Imágenes y videos", "pt": "Imagens e vídeos", "en": "Images and footage", "fr": "Images et vidéos"}
 CAP_TXT = {"es": "Capítulos", "pt": "Capítulos", "en": "Chapters", "fr": "Chapitres"}
 
 
@@ -34,8 +34,14 @@ def main():
     if seo.get("hashtags"):
         desc += "\n\n" + " ".join("#" + h.lstrip("#") for h in seo["hashtags"][:8])
     if creditos:
-        autores = sorted({c["autor"] for c in creditos})
-        desc += f"\n\n{CREDITOS_TXT[lang]} ({', '.join(autores)})"
+        lineas = []
+        for c in creditos:  # CC BY / BY-SA exigen autor, fuente y licencia
+            l = f"{c.get('autor', '')} · {c.get('fuente', 'Pexels')}" + (f" · {c['licencia']}" if c.get("licencia") else "")
+            if c.get("licencia") and c.get("url"):
+                l += f" · {c['url']}"
+            if l not in lineas:
+                lineas.append(l)
+        desc += f"\n\n{CREDITOS_TXT.get(lang, CREDITOS_TXT['es'])}: " + "; ".join(lineas)
 
     # SEO del nicho (investigacion/<canal>.seo.json, semanal): se suman después de las etiquetas propias
     nicho = Path(__file__).resolve().parent.parent / "investigacion" / f"{proj.parent.parent.name}.seo.json"
