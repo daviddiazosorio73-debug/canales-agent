@@ -22,7 +22,7 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
   - `.github/workflows/validar.yml`: en cada push valida los guiones nuevos o cambiados.
   - `.github/workflows/leccion-semanal.yml`: cada sábado (09:00, 15:00 y 18:30 Lima) lee los temas del día de la lección en https://escuelasabaticamaestros.com (fuente indicada por el Fundador) y los guarda en `investigacion/leccion_<año>T<n>.json`. Solo títulos y fechas, nunca el texto.
   - El vigía corre también el sábado 19:00 Lima con `--indice`: si aun así faltan temas, falla y GitHub avisa al Fundador para que envíe una foto de la lección.
-- **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador) y `META_PAGE_TOKEN_<CANAL>` (Instagram y Facebook). Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
+- **Credenciales:** una sola app de Google (proyecto `MayorDom-Youtube`, publicada en producción). Secretos de GitHub: `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, un `REFRESH_TOKEN_<CANAL>` por canal, `VOICE_KEY` (voz del Fundador), `PEXELS_API_KEY` (clips e imágenes 4K, gratis) y `META_PAGE_TOKEN_<CANAL>` (Instagram y Facebook). Nunca escribir secretos en el repo, en memoria ni en el Proyecto.
 - **Costo:** todo gratis. Nada de pago sin autorización explícita del Fundador.
 - **Dependencias fijadas:** sherpa-onnx==1.13.8 (la 2.0.0 rompe la voz offline).
 
@@ -89,7 +89,7 @@ Uno por canal con videos largos en el motor (hoy MayorDom y Cryptuline; Top 10 t
    - Escuela Sabática ES y PT: 21 Shorts por canal (empieza por buscar la lección de la semana y sus temas diarios).
    - Top 10: nada (libreto en la tarea del miércoles; Shorts automáticos).
    - Cryptuline: la semana que empieza 8 días después (1 semana de adelanto para la revisión médica): 3 largos `divulgacion` + 21 Shorts de esos 3 temas; avisar al Fundador qué debe revisar la médica.
-4. Verificar: citas bíblicas literales solo verificadas y con su versión; Espíritu de Profecía con libro y página, o resumido si no se verificó; datos de salud solo con estudio citado; títulos de 100 caracteres como máximo; nada inventado; ningún `publicar_en` en el pasado.
+4. Verificar: citas bíblicas literales solo verificadas y con su versión; Espíritu de Profecía con libro y página, o resumido si no se verificó; datos de salud solo con estudio citado; títulos de 100 caracteres como máximo; nada inventado; ningún `publicar_en` en el pasado; cada escena de Short con `visual.query` en inglés.
 5. `python scripts/validate.py <proyecto>` en cada uno; commit y push a `main`.
 6. Enviar al Fundador el resumen: lo programado por canal, el insignia (tema, 3 títulos y si necesita su voz) y cualquier decisión pendiente.
 
@@ -97,7 +97,7 @@ Uno por canal con videos largos en el motor (hoy MayorDom y Cryptuline; Top 10 t
 Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo salud espiritual con enfoque IASD; educación como eje. 3 Shorts diarios (07:00/13:00/20:30) sacados de esos 3 temas. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas (conector PubMed e `investigacion/cryptuline_pubmed.md`); cita autor y año en voz y PMID en la descripción; sin promesas de cura. Revisión médica: se escribe con 1 semana de adelanto; el motor sube 7 días antes (`ventana_horas: 168` en `canales.json`), privado con `publicar_en`; la médica revisa antes de la hora y, si algo no va, el Fundador lo pasa a privado. Horas iniciales: ajustarlas con Analytics cuando haya datos.
 
 ## Instagram y Facebook
-Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish; la cuenta de Instagram debe ser profesional y estar vinculada a la Página). Si falta, no falla: no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels; si no existe, falta el secreto.
+Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish; la cuenta de Instagram debe ser profesional y estar vinculada a la Página). Si falta, no falla: no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels; si no existe, falta el secreto. Si `reporte.md` dice «token de Meta inválido o vencido», hay que generar uno nuevo (si se cierra la sesión de Facebook, el token deja de valer).
 
 ## Prioridad de subida (orden del Fundador)
 1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline (`prioridad` en `canales.json`). Lo que sale en las próximas 12 h siempre va primero, por hora, para no perder ningún horario. Cuota diaria de YouTube compartida (~20 videos/día; reinicio 02:00 Lima): si se agota, el motor pausa solo con `canales/cuota.json` y no envía correo de fallo. Volumen actual: unos 116 videos por semana (~17 por día).
@@ -126,7 +126,7 @@ Cuota de YouTube: el motor pausa solo hasta el reinicio (02:05 Lima) y sigue por
 ## Gobierno y calidad (checklist «nivel 100»)
 - Antes del push, una segunda revisión por un agente distinto: citas, cifras, títulos, tono y suspenso.
 - Las tareas programadas no pueden leer páginas web: los índices verificados (lección del trimestre, capítulos de *Consejos sobre mayordomía cristiana*) se guardan en `investigacion/` cuando hay una sesión con el Fundador.
-- Instagram y Facebook: en pausa hasta que el Fundador cree los tokens de Página de Meta (semana del 2 de noviembre de 2026). No reportarlo como fallo.
+- Si una tarea programada falla por el límite de uso de Claude, el vigía del sábado avisa; en la siguiente sesión con el Fundador, escribir primero lo que falte de la semana en curso (por prioridad de canal).
 - El checklist de mejoras vive en el documento «Skills de los canales · Revisión y control de avances».
 
 ## Reglas
