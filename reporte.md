@@ -1,16 +1,18 @@
-# Último reporte (2026-11-12 11:01 UTC)
+# Último reporte (2026-11-12 18:54 UTC)
 
 ## Subidos
-- mayordom: 2026-11-12-es-short1-todo-viene-de-arriba → https://youtu.be/wAMJxP3u8Zk
-- escuela-sabatica-es: 2026-11-12-es-short1-escrito-para-ti → https://youtu.be/N2WFxkJNjRM
-- escola-sabatina-pt: 2026-11-12-pt-short1-escrito-para-voce → https://youtu.be/BrkdGNLZN-A
-- mayordom: 2026-11-12-es-short2-de-quien-es-la-tierra → https://youtu.be/OSr1-Cbyiag
-- escuela-sabatica-es: 2026-11-12-es-short2-aprender-del-error-ajeno → https://youtu.be/IdL2IQk41-E
-- escola-sabatina-pt: 2026-11-12-pt-short2-aprender-com-o-erro-alheio → https://youtu.be/YrLqNBhx9sk
-- escuela-sabatica-es: 2026-11-12-es-short3-advertencia-con-amor → https://youtu.be/CwHRfuPYC7o
-- escola-sabatina-pt: 2026-11-12-pt-short3-advertencia-com-amor → https://youtu.be/J0Hti9VK_xQ
+- mayordom: 2026-11-12-es-short3-el-dador-mas-generoso → https://youtu.be/T30pqMtFvAU
+- escuela-sabatica-es: 2026-11-13-es-short1-como-recibia-los-mensajes → https://youtu.be/OjHj5Xcf1L4
+- escola-sabatina-pt: 2026-11-13-pt-short1-como-recebia-as-mensagens → https://youtu.be/kv8nge59eGs
+- escuela-sabatica-es: 2026-11-13-es-short2-luz-menor-luz-mayor → https://youtu.be/GDcwS60guSY
+- escuela-sabatica-es: 2026-11-13-es-short3-repaso-escuchen-esto → https://youtu.be/z_dOmimtvcg
+- mayordom: 2026-11-13-es-short1-se-hizo-pobre → https://youtu.be/Hl3KolBRGz8
 
 ## Fallos
+- escola-sabatina-pt: 2026-11-13-pt-short2-luz-menor-luz-maior: tts.py falló en 2026-11-13-pt-short2-luz-menor-luz-maior
+  - Qué hacer: si se repite en la siguiente corrida, avisa a Claude con este mensaje.
+- escola-sabatina-pt: 2026-11-13-pt-short3-revisao-oucam-isto: tts.py falló en 2026-11-13-pt-short3-revisao-oucam-isto
+  - Qué hacer: si se repite en la siguiente corrida, avisa a Claude con este mensaje.
 
 ## Instagram/Facebook
 - mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_sub)

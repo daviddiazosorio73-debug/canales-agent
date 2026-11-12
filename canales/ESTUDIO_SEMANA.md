@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-12 06:17 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-12 14:07 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -10,19 +10,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | jue 05 | [¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) | [fijar](https://studio.youtube.com/video/y2SQCvr2wkc/comments) | [editar](https://studio.youtube.com/video/y2SQCvr2wkc/edit) | [revisar](https://studio.youtube.com/video/y2SQCvr2wkc/translations) | sí |
 | vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | — | — |
 
-**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: No puedes servir a estos DOS señores ⚖️ #shorts](https://youtube.com/shorts/BDxfILHc09Y)
+**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: ¿De quién es realmente lo que tienes? 🌍 #shorts](https://youtube.com/shorts/OSr1-Cbyiag)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: La promesa para tu tentación más fuerte 🛡️ #shorts](https://youtube.com/shorts/5KQJK01qJRY)
+**Escuchar:** [Short: Aprende del error ajeno, no del tuyo ⚠️ #shorts](https://youtube.com/shorts/IdL2IQk41-E)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: A promessa para a sua tentação mais forte 🛡️ #shorts](https://youtube.com/shorts/R1yFahFT5XY)
+**Escuchar:** [Short: Aprenda com o erro dos outros, não com o seu ⚠️ #shorts](https://youtube.com/shorts/YrLqNBhx9sk)
 
 ## Top 10 Redes Sociales
 
@@ -45,5 +45,5 @@ Sin videos largos publicados esta semana.
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 | mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | — | sí |
 
-**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: Tres mitos del sueño que la ciencia desmiente #shorts](https://youtube.com/shorts/94G-zDeffYM)
+**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: Un puñado de frutos secos al día: lo que encontraron 20 estu](https://youtube.com/shorts/yM--UhAgQl4)
 
