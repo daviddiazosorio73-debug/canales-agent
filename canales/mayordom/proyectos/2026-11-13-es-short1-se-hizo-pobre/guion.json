@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "Se hizo pobre para hacerte rico 💎",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Por qué se hizo pobre?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Se hizo pobre para hacerte rico 💎 #shorts",
+    "descripcion": "El que era dueño de todo eligió nacer en un pesebre. ¿Por qué alguien tan rico se haría pobre? (2 Corintios 8:9)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El que era dueño de todo eligió nacer en un pesebre. ¿Por qué alguien tan rico se haría pobre?",
+      "texto_pantalla": "¿Por qué se hizo pobre?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "manger straw simple wood"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo lo responde en segunda de Corintios ocho, versículo nueve: conocemos la gracia de nuestro Señor Jesucristo, que siendo rico se hizo pobre por amor a nosotros, para que con su pobreza fuésemos enriquecidos. Pablo escribió esto para animar a una iglesia a ofrendar. Su argumento no fue la presión ni la culpa. Fue la gracia. Damos porque primero recibimos. Hoy a las seis de la tarde, el sermón completo: Nuestro generoso benefactor. Te espero.",
+      "texto_pantalla": "¿Por qué se hizo pobre?",
+      "referencia": "2 Corintios 8:9",
+      "emocion": "agil",
+      "visual": {
+        "query": "golden light treasure"
+      }
+    }
+  ]
+}

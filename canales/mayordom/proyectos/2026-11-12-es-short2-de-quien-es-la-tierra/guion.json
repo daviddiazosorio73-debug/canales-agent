@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "¿De quién es realmente lo que tienes? 🌍",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Tuyo o de Dios?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿De quién es realmente lo que tienes? 🌍 #shorts",
+    "descripcion": "Tu casa, tu auto, tu cuenta del banco. Decimos «mío» todo el día. Pero la Biblia tiene otra palabra. (Salmos 24:1)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tu casa, tu auto, tu cuenta del banco. Decimos «mío» todo el día. Pero la Biblia tiene otra palabra.",
+      "texto_pantalla": "¿Tuyo o de Dios?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "planet earth from space"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El Salmo veinticuatro, versículo uno, afirma que del Señor es la tierra y todo lo que hay en ella, el mundo y los que en él habitan. Tú y yo no somos dueños: somos administradores. Un mayordomo cuida algo que no es suyo, con el cuidado de quien sabe que un día rendirá cuentas. Y eso no es una carga. Es un honor: Dios confió en ti. Esta semana, antes de gastar, pregúntate: ¿qué haría el dueño con esto?",
+      "texto_pantalla": "¿Tuyo o de Dios?",
+      "referencia": "Salmos 24:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "keys in open hand"
+      }
+    }
+  ]
+}

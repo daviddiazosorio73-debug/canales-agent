@@ -5,7 +5,7 @@ https://files.recursos-biblicos.com/EGW/Libros%20EGW%20PDF/Consejos%20sobre%20Ma
 (listado en https://www.recursos-biblicos.com/2021/09/91-libros-de-elena-white-en-pdf-para-descargar.html, fuente indicada por el Fundador).
 egwwritings.org no permite lectura automática. Citas textuales: verificarlas en ese PDF con su página (Regla única de citas); el repo guarda solo este índice, nunca el texto del libro.
 
-Serie de MayorDom: 1 capítulo por semana, 3 sermones (lunes, miércoles, viernes). Hecho: capítulo 1 (26, 28 y 30 de oct de 2026). Semana del 2 de nov: serie especial «Parábolas del mayordomo». Siguiente: capítulo 2 (semana del 9 de nov).
+Serie de MayorDom: 1 capítulo por semana, 3 sermones (lunes, miércoles, viernes). Hecho: capítulo 1 (26, 28 y 30 de oct de 2026). Semana del 2 de nov: serie especial «Parábolas del mayordomo». Capítulo 2: 1 sermón el 13 de nov (la tarea del 7 de nov falló por límite de uso; no hubo sermones el 9 y el 11). Siguiente: capítulo 3 (semana del 16 de nov).
 
 | Sección | Cap. | Título | Pág. |
 |---|---|---|---|

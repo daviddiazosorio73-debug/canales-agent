@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "La generosidad que Dios ama no es la que imaginas 😊",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Qué ama Dios?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La generosidad que Dios ama no es la que imaginas 😊 #shorts",
+    "descripcion": "Hay una forma de dar que Dios no busca, aunque sea mucho dinero. Y hay otra que él ama. (2 Corintios 9:7)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay una forma de dar que Dios no busca, aunque sea mucho dinero. Y hay otra que él ama.",
+      "texto_pantalla": "¿Qué ama Dios?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "smiling person giving gift"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Corintios nueve, versículo siete, dice que cada uno dé como propuso en su corazón, no con tristeza ni por obligación, porque Dios ama al dador alegre. Dios no busca ofrendas arrancadas por la culpa o la presión. Busca un corazón agradecido que da con alegría, porque reconoce que todo vino de él. Por eso, cuidado con quien te presiona para dar. La generosidad bíblica es libre. Comenta «Dador alegre» si quieres serlo.",
+      "texto_pantalla": "¿Qué ama Dios?",
+      "referencia": "2 Corintios 9:7",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunflower field bright"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "El sábado también es un regalo ☀️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Un regalo semanal",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El sábado también es un regalo ☀️ #shorts",
+    "descripcion": "Hay un regalo de Dios que recibes cada semana, y no cuesta dinero. Llega hoy al ponerse el sol del viernes. (Marcos 2:27)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un regalo de Dios que recibes cada semana, y no cuesta dinero. Llega hoy al ponerse el sol del viernes.",
+      "texto_pantalla": "Un regalo semanal",
+      "emocion": "gancho",
+      "visual": {
+        "query": "peaceful morning nature light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús enseñó en Marcos dos, versículo veintisiete, que el sábado fue hecho por causa del ser humano, y no el ser humano por causa del sábado. El sábado también es mayordomía: es devolverle a Dios el tiempo que él nos da, y recibir a cambio descanso, comunión y familia. Un Dios generoso no solo da cosas. Te da tiempo para estar con él. Hoy desconecta lo que puedas y disfruta el regalo. Feliz sábado.",
+      "texto_pantalla": "Un regalo semanal",
+      "referencia": "Marcos 2:27",
+      "emocion": "agil",
+      "visual": {
+        "query": "family walking park"
+      }
+    }
+  ]
+}

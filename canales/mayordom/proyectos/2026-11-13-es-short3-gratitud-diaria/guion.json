@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "Un hábito de 1 minuto que cambia tu forma de dar 🙏",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "1 minuto al día",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Un hábito de 1 minuto que cambia tu forma de dar 🙏 #shorts",
+    "descripcion": "Este hábito toma un minuto al día, y puede cambiar por completo tu relación con lo que tienes. (Salmos 103:2)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Este hábito toma un minuto al día, y puede cambiar por completo tu relación con lo que tienes.",
+      "texto_pantalla": "1 minuto al día",
+      "emocion": "gancho",
+      "visual": {
+        "query": "journal pen morning coffee"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El Salmo ciento tres, versículo dos, dice: bendice, alma mía, al Señor, y no olvides ninguno de sus beneficios. El problema casi nunca es que Dios no dé. Es que olvidamos lo que ya nos dio. Prueba esto: cada noche, escribe tres cosas concretas que recibiste ese día. Al final de la semana tendrás veintiuna razones para ser generoso. La gratitud es la raíz de la mayordomía. Comenta «Acepto el reto» si empiezas hoy.",
+      "texto_pantalla": "1 minuto al día",
+      "referencia": "Salmos 103:2",
+      "emocion": "agil",
+      "visual": {
+        "query": "woman smiling window light"
+      }
+    }
+  ]
+}

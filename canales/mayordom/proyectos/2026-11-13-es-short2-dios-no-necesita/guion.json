@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "Dios no necesita tu dinero. Entonces, ¿por qué dar? 🤔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Por qué dar?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios no necesita tu dinero. Entonces, ¿por qué dar? 🤔 #shorts",
+    "descripcion": "Dios es dueño de todo el oro y la plata del mundo. No necesita tu dinero. Entonces, ¿por qué te pide que des? (Hechos 17:24-25)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dios es dueño de todo el oro y la plata del mundo. No necesita tu dinero. Entonces, ¿por qué te pide que des?",
+      "texto_pantalla": "¿Por qué dar?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hands planting seed soil"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Hechos diecisiete, Pablo explica en Atenas que Dios, el Creador del mundo, no necesita que nadie le sirva como si le faltara algo, porque él da a todos vida, aliento y todas las cosas. Dios no pide porque le falte. Pide porque dar te transforma a ti. Te libra del egoísmo, te enseña a confiar y te une a su obra. Dar no enriquece a Dios: te parece más a él. Comparte este video con alguien que siempre se lo ha preguntado.",
+      "texto_pantalla": "¿Por qué dar?",
+      "referencia": "Hechos 17:24-25",
+      "emocion": "agil",
+      "visual": {
+        "query": "tree growing time lapse"
+      }
+    }
+  ]
+}

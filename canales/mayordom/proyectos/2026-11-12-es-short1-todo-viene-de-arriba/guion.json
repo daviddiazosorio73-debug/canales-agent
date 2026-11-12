@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "Todo lo bueno que tienes viene de aquí 🎁",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿De dónde viene?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Todo lo bueno que tienes viene de aquí 🎁 #shorts",
+    "descripcion": "Haz una lista rápida de lo mejor que tienes. Tu familia, tu salud, tu trabajo. Ahora pregúntate: ¿de dónde vino? (Santiago 1:17)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Haz una lista rápida de lo mejor que tienes. Tu familia, tu salud, tu trabajo. Ahora pregúntate: ¿de dónde vino?",
+      "texto_pantalla": "¿De dónde viene?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "gift box sunlight hands"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Santiago uno, versículo diecisiete, dice que toda buena dádiva y todo don perfecto descienden de lo alto, del Padre de las luces, en quien no hay cambio ni sombra de variación. La mayordomía no empieza con lo que tú das. Empieza con lo que Dios ya te dio. Antes de ser dadores, somos receptores. Cuando entiendes eso, dar deja de ser una obligación y se convierte en gratitud. Comenta una cosa por la que hoy le das gracias a Dios.",
+      "texto_pantalla": "¿De dónde viene?",
+      "referencia": "Santiago 1:17",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise mountains light"
+      }
+    }
+  ]
+}

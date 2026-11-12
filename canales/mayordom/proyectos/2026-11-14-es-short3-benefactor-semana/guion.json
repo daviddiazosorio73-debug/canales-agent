@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "Lo que aprendimos esta semana sobre el Dios que da 🎁",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Resumen en 1 minuto",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo que aprendimos esta semana sobre el Dios que da 🎁 #shorts",
+    "descripcion": "Si te perdiste algún video esta semana, aquí está todo en un minuto: el Dios generoso. (Santiago 1:17 · 2 Corintios 8:9)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si te perdiste algún video esta semana, aquí está todo en un minuto: el Dios generoso.",
+      "texto_pantalla": "Resumen en 1 minuto",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open book notes review"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Vimos que todo lo bueno viene de lo alto, según Santiago uno, diecisiete. Que del Señor es la tierra y somos administradores. Que Dios dio a su Hijo, y que Cristo se hizo pobre para enriquecernos. Que Dios no necesita nuestro dinero, pero dar nos transforma. Y que él ama al dador alegre. Es el corazón del capítulo dos de Consejos sobre mayordomía cristiana: Nuestro generoso benefactor. El lunes empezamos el capítulo tres. Suscríbete para no perdértelo.",
+      "texto_pantalla": "Resumen en 1 minuto",
+      "referencia": "Santiago 1:17 · 2 Corintios 8:9",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunset hands raised"
+      }
+    }
+  ]
+}

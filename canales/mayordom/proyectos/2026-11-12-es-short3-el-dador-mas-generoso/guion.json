@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "El regalo más caro de la historia ❤️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "El mayor regalo",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El regalo más caro de la historia ❤️ #shorts",
+    "descripcion": "Si quieres saber cuánto vale algo, mira cuánto pagó alguien por ello. Ahora mira cuánto pagó Dios por ti. (Juan 3:16 · Romanos 8:32)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "fe",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si quieres saber cuánto vale algo, mira cuánto pagó alguien por ello. Ahora mira cuánto pagó Dios por ti.",
+      "texto_pantalla": "El mayor regalo",
+      "emocion": "gancho",
+      "visual": {
+        "query": "cross silhouette sunset hill"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Juan tres, dieciséis, dice que Dios amó tanto al mundo que dio a su Hijo unigénito, para que todo el que en él cree no se pierda, sino que tenga vida eterna. Y Pablo razona en Romanos ocho, treinta y dos: si Dios no se guardó ni a su propio Hijo, ¿cómo no nos dará también con él todas las cosas? Dios es el dador más generoso del universo. Nuestra generosidad es solo un eco de la suya. Escribe «Gracias» si hoy lo recuerdas.",
+      "texto_pantalla": "El mayor regalo",
+      "referencia": "Juan 3:16 · Romanos 8:32",
+      "emocion": "agil",
+      "visual": {
+        "query": "open hands light"
+      }
+    }
+  ]
+}
