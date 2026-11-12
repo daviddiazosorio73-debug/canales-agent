@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "A luz menor que leva à luz maior 💡",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "La recepción y la comunicación de los mensajes de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "Luz menor?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A luz menor que leva à luz maior 💡 #shorts",
+    "descripcion": "Ellen White nunca quis que os seus escritos tomassem o lugar da Bíblia. Ela mesma usou uma imagem muito clara para explicar isso.\n\nIsaías 8:20\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Ellen White nunca quis que os seus escritos tomassem o lugar da Bíblia. Ela mesma usou uma imagem muito clara para explicar isso.",
+      "texto_pantalla": "Luz menor?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "small lamp leading to sunlight"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Num artigo da Review and Herald de janeiro de mil novecentos e três, ela descreveu os seus escritos como uma luz menor, dada para levar as pessoas à luz maior, que é a Bíblia. Essa é a prova de toda mensagem profética. Em Isaías oito, versículo vinte, Deus manda voltar à lei e ao testemunho: o que não está de acordo com a sua Palavra não tem luz. Um verdadeiro mensageiro sempre leva você de volta à Escritura. Abra a sua Bíblia hoje e deixe que ela tenha a última palavra.",
+      "texto_pantalla": "Luz menor?",
+      "referencia": "Isaías 8:20",
+      "emocion": "agil",
+      "visual": {
+        "query": "bible sunlight window"
+      }
+    }
+  ]
+}

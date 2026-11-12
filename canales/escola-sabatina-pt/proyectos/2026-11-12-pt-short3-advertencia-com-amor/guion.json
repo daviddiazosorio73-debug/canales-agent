@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "Uma advertência também é amor 🗼",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "Para nuestra advertencia"
+  },
+  "miniatura": {
+    "linea1": "Advertir é amar",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Uma advertência também é amor 🗼 #shorts",
+    "descripcion": "Um farol não briga com os navios. Ele avisa onde estão as rochas. Assim funcionam as advertências de Deus.\n\n1 Corintios 10:13\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um farol não briga com os navios. Ele avisa onde estão as rochas. Assim funcionam as advertências de Deus.",
+      "texto_pantalla": "Advertir é amar",
+      "emocion": "gancho",
+      "visual": {
+        "query": "lighthouse night sea"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Depois de lembrar as quedas de Israel, Paulo não termina com medo, mas com uma promessa. Em Primeira Coríntios dez, versículo treze, ele diz que Deus é fiel, que não vai permitir que sejamos provados além do que podemos suportar, e que junto com a prova dará a saída. A advertência mostra as rochas. A promessa mostra o porto. Deus avisa porque ama, e ajuda porque é fiel. Comente «Deus é fiel» se você precisa lembrar disso esta noite.",
+      "texto_pantalla": "Advertir é amar",
+      "referencia": "1 Corintios 10:13",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over calm sea"
+      }
+    }
+  ]
+}

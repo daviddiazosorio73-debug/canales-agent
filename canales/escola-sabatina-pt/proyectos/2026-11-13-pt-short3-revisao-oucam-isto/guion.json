@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "Revisão: Ouçam isto! em 1 minuto 🔁",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "La recepción y la comunicación de los mensajes de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "Revisão da semana",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Revisão: Ouçam isto! em 1 minuto 🔁 #shorts",
+    "descripcion": "Perdeu algum dia da lição desta semana? Aqui está a revisão em um minuto.\n\n1 Corintios 10:11-13\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Perdeu algum dia da lição desta semana? Aqui está a revisão em um minuto.",
+      "texto_pantalla": "Revisão da semana",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open book review notes"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "A lição sete, Ouçam isto!, nos lembrou que Deus falou ao seu povo por meio de profetas, e que essas mensagens ficaram escritas para nós. Vimos que as histórias de Israel no deserto são advertências feitas com amor, segundo Primeira Coríntios dez. Que junto com cada prova, Deus promete uma saída. E que Ellen White recebeu mensagens em visões e sonhos, sempre apontando para a Bíblia como a luz maior. A pergunta para o sábado: estou ouvindo de verdade o que Deus já disse? Compartilhe esta revisão com a sua classe.",
+      "texto_pantalla": "Revisão da semana",
+      "referencia": "1 Corintios 10:11-13",
+      "emocion": "agil",
+      "visual": {
+        "query": "family reading together evening"
+      }
+    }
+  ]
+}

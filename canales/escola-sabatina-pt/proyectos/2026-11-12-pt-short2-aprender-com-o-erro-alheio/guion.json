@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "Aprenda com o erro dos outros, não com o seu ⚠️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "Para nuestra advertencia"
+  },
+  "miniatura": {
+    "linea1": "Repetir ou aprender?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Aprenda com o erro dos outros, não com o seu ⚠️ #shorts",
+    "descripcion": "Há dois jeitos de aprender uma lição: errando você mesmo, ou aprendendo com quem já errou. Um deles custa muito mais.\n\n1 Corintios 10:6-11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Há dois jeitos de aprender uma lição: errando você mesmo, ou aprendendo com quem já errou. Um deles custa muito mais.",
+      "texto_pantalla": "Repetir ou aprender?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "desert path footprints sand"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Paulo lembra em Primeira Coríntios dez como Israel, no deserto, caiu na idolatria, na murmuração e na desconfiança, mesmo depois de ver tantos milagres. E conclui que essas coisas foram escritas como advertência para nós. A Bíblia não esconde os fracassos do seu povo. Ela os mostra com honestidade para que a gente aprenda sem pagar o mesmo preço. A pergunta de hoje é simples: qual erro deles eu estou prestes a repetir? Leve isso para a sua oração de hoje.",
+      "texto_pantalla": "Repetir ou aprender?",
+      "referencia": "1 Corintios 10:6-11",
+      "emocion": "agil",
+      "visual": {
+        "query": "compass map journey"
+      }
+    }
+  ]
+}

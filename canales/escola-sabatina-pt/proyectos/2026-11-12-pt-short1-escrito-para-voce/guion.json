@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-12",
+  "tema": "Isto foi escrito pensando em você 📜",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "Para nuestra advertencia"
+  },
+  "miniatura": {
+    "linea1": "Escrito para você",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Isto foi escrito pensando em você 📜 #shorts",
+    "descripcion": "Você sabia que há histórias da Bíblia que foram escritas pensando em você? Não é exagero. Quem diz é Paulo.\n\n1 Corintios 10:11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-12T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Você sabia que há histórias da Bíblia que foram escritas pensando em você? Não é exagero. Quem diz é Paulo.",
+      "texto_pantalla": "Escrito para você",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old scroll candle light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Primeira Coríntios dez, versículo onze, Paulo explica que o que aconteceu a Israel no deserto serviu de exemplo e ficou escrito para advertir a nós, que vivemos no fim dos tempos. Essas histórias não são só passado. São um mapa. Mostram quais caminhos levam à queda e quais levam à fidelidade. Deus deixou por escrito os erros do seu povo para que você não precise repeti-los. Comente «Escrito para mim» se hoje você vai ler assim.",
+      "texto_pantalla": "Escrito para você",
+      "referencia": "1 Corintios 10:11",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible morning light"
+      }
+    }
+  ]
+}

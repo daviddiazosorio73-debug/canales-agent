@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "O melhor jeito de entender os profetas 🔎",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "Interpretación de los escritos proféticos (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Como interpretar?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O melhor jeito de entender os profetas 🔎 #shorts",
+    "descripcion": "Existem muitas opiniões sobre as profecias. Mas Jesus mostrou um método bem simples para entendê-las.\n\nLucas 24:27\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existem muitas opiniões sobre as profecias. Mas Jesus mostrou um método bem simples para entendê-las.",
+      "texto_pantalla": "Como interpretar?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass old book"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Lucas vinte e quatro, versículo vinte e sete, Jesus não explicou um texto isolado. Ele começou por Moisés e percorreu todos os profetas, comparando uma parte da Escritura com outra. Esse é o princípio que vamos estudar na lição oito: a Bíblia se explica pela própria Bíblia, no seu contexto, e com Cristo no centro. Não se trata de procurar frases soltas para apoiar uma ideia. Trata-se de ouvir tudo o que Deus disse. Salve este vídeo para o seu estudo da semana.",
+      "texto_pantalla": "Como interpretar?",
+      "referencia": "Lucas 24:27",
+      "emocion": "agil",
+      "visual": {
+        "query": "person studying bible notebook"
+      }
+    }
+  ]
+}

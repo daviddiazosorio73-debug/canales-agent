@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "O estudo bíblico mais impressionante da história 📖",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "Interpretación de los escritos proféticos (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Quem ensinava?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O estudo bíblico mais impressionante da história 📖 #shorts",
+    "descripcion": "Dois discípulos caminhavam tristes. Um desconhecido se juntou a eles e deu o estudo bíblico mais impressionante da história.\n\nLucas 24:27\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dois discípulos caminhavam tristes. Um desconhecido se juntou a eles e deu o estudo bíblico mais impressionante da história.",
+      "texto_pantalla": "Quem ensinava?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "road at sunset two travelers silhouette"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "É o verso para memorizar da lição oito, Lucas vinte e quatro, versículo vinte e sete. No caminho de Emaús, Jesus ressuscitado, começando por Moisés e passando por todos os profetas, explicou a eles o que as Escrituras diziam a seu respeito. Repare: Jesus não fez um milagre para convencê-los. Ele abriu as Escrituras. Ele mesmo é a chave para entender os profetas. Se você lê a Bíblia procurando Cristo, tudo começa a se encaixar. Memorize Lucas vinte e quatro, vinte e sete, e comente «Meu coração arde».",
+      "texto_pantalla": "Quem ensinava?",
+      "referencia": "Lucas 24:27",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient scrolls table candle"
+      }
+    }
+  ]
+}

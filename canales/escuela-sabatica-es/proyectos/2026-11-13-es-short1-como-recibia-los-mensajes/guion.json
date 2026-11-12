@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-13",
+  "tema": "¿Cómo recibía Elena de White sus mensajes? ✍️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 7,
+    "dia": "La recepción y la comunicación de los mensajes de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "¿Cómo los recibía?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Cómo recibía Elena de White sus mensajes? ✍️ #shorts",
+    "descripcion": "Una mujer con poca escuela escribió miles de páginas sobre la Biblia y la vida cristiana. ¿Cómo recibía esos mensajes?\n\nNúmeros 12:6\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-13T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Una mujer con poca escuela escribió miles de páginas sobre la Biblia y la vida cristiana. ¿Cómo recibía esos mensajes?",
+      "texto_pantalla": "¿Cómo los recibía?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "night sky stars dreams"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La lección de hoy trata de cómo Elena de White recibía y comunicaba sus mensajes. En Números doce, versículo seis, Dios dice que se da a conocer a sus profetas en visiones y les habla en sueños. Así describía ella su experiencia: visiones y sueños. Después venía el trabajo humano de escribir: cartas, artículos y libros, con su propio vocabulario y buscando la mejor forma de expresar lo que había recibido. El mensaje venía de Dios; las palabras, del esfuerzo de una mensajera fiel. Sigue la lección con nosotros.",
+      "texto_pantalla": "¿Cómo los recibía?",
+      "referencia": "Números 12:6",
+      "emocion": "agil",
+      "visual": {
+        "query": "handwritten letters desk vintage"
+      }
+    }
+  ]
+}

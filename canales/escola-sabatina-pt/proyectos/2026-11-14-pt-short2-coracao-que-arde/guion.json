@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-14",
+  "tema": "Quando foi a última vez que seu coração ardeu? 🔥",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "Interpretación de los escritos proféticos (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Seu coração arde?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Quando foi a última vez que seu coração ardeu? 🔥 #shorts",
+    "descripcion": "Depois daquele estudo bíblico, os dois discípulos disseram uma frase que vale a pena levar a semana toda.\n\nLucas 24:32\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-14T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Depois daquele estudo bíblico, os dois discípulos disseram uma frase que vale a pena levar a semana toda.",
+      "texto_pantalla": "Seu coração arde?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "campfire warm glow night"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Lucas vinte e quatro, versículo trinta e dois, eles perguntam um ao outro se o coração deles não ardia enquanto Jesus falava no caminho e abria as Escrituras. Não foi uma emoção vazia. Foi a Palavra explicada por Cristo. A lição desta semana trata de como interpretar os escritos proféticos, e começa aqui: com o coração aberto e com Jesus como professor. Antes de ler a sua Bíblia hoje, peça que ele a explique para você. Comente «Abre-me as Escrituras».",
+      "texto_pantalla": "Seu coração arde?",
+      "referencia": "Lucas 24:32",
+      "emocion": "agil",
+      "visual": {
+        "query": "bread on table candlelight"
+      }
+    }
+  ]
+}
