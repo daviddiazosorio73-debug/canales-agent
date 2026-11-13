@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-12 14:07 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-12 19:47 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,10 +7,9 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| jue 05 | [¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) | [fijar](https://studio.youtube.com/video/y2SQCvr2wkc/comments) | [editar](https://studio.youtube.com/video/y2SQCvr2wkc/edit) | [revisar](https://studio.youtube.com/video/y2SQCvr2wkc/translations) | sí |
-| vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | — | — |
+| vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | [revisar](https://studio.youtube.com/video/G3qawWv9hm0/translations) | — |
 
-**Escuchar:** [largo: ¿Jesús diezmaba? Así era el diezmo en tiempos de Jesús (lo q](https://youtu.be/y2SQCvr2wkc) · [Short: ¿De quién es realmente lo que tienes? 🌍 #shorts](https://youtube.com/shorts/OSr1-Cbyiag)
+**Escuchar:** [largo: La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) · [Short: ¿De quién es realmente lo que tienes? 🌍 #shorts](https://youtube.com/shorts/OSr1-Cbyiag)
 
 ## Maestro DD Escuela Sabática (ES)
 
