@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-12 19:47 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-13 03:06 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -9,19 +9,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 |---|---|---|---|---|---|
 | vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | [revisar](https://studio.youtube.com/video/G3qawWv9hm0/translations) | — |
 
-**Escuchar:** [largo: La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) · [Short: ¿De quién es realmente lo que tienes? 🌍 #shorts](https://youtube.com/shorts/OSr1-Cbyiag)
+**Escuchar:** [largo: La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) · [Short: El regalo más caro de la historia ❤️ #shorts](https://youtube.com/shorts/T30pqMtFvAU)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Aprende del error ajeno, no del tuyo ⚠️ #shorts](https://youtube.com/shorts/IdL2IQk41-E)
+**Escuchar:** [Short: Una advertencia también es amor 🗼 #shorts](https://youtube.com/shorts/CwHRfuPYC7o)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Aprenda com o erro dos outros, não com o seu ⚠️ #shorts](https://youtube.com/shorts/YrLqNBhx9sk)
+**Escuchar:** [Short: Uma advertência também é amor 🗼 #shorts](https://youtube.com/shorts/J0Hti9VK_xQ)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 | mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | — | sí |
 
-**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: Un puñado de frutos secos al día: lo que encontraron 20 estu](https://youtube.com/shorts/yM--UhAgQl4)
+**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: Legumbres: lo que encontró un estudio con 1,1 millones de pe](https://youtube.com/shorts/c_c5bHL_8l4)
 
