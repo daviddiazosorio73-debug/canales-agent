@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-13 11:31 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-13 17:55 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -9,19 +9,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 |---|---|---|---|---|---|
 | vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | [revisar](https://studio.youtube.com/video/G3qawWv9hm0/translations) | — |
 
-**Escuchar:** [largo: La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) · [Short: Se hizo pobre para hacerte rico 💎 #shorts](https://youtube.com/shorts/Hl3KolBRGz8)
+**Escuchar:** [largo: La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) · [Short: Dios no necesita tu dinero. Entonces, ¿por qué dar? 🤔 #short](https://youtube.com/shorts/l-zX9UzsKq8)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: ¿Cómo recibía Elena de White sus mensajes? ✍️ #shorts](https://youtube.com/shorts/OjHj5Xcf1L4)
+**Escuchar:** [Short: La luz menor que lleva a la luz mayor 💡 #shorts](https://youtube.com/shorts/GDcwS60guSY)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Como Ellen White recebia suas mensagens? ✍️ #shorts](https://youtube.com/shorts/kv8nge59eGs)
+**Escuchar:** [Short: A luz menor que leva à luz maior 💡 #shorts](https://youtube.com/shorts/1KahqInf7YU)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 | dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
 | mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | — | sí |
 
-**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: ¿Cuántos frutos secos al día? La cifra de los estudios #shor](https://youtube.com/shorts/3xtjLrd0tuM)
+**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: ¿El maní cuenta como fruto seco? Lo que vio la ciencia #shor](https://youtube.com/shorts/WPEbgw0IODI)
 
