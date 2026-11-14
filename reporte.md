@@ -1,9 +1,9 @@
-# Último reporte (2026-11-13 22:37 UTC)
+# Último reporte (2026-11-14 03:13 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-14-es-short3-la-biblia-se-explica → https://youtu.be/y19G2c8N0ek
-- top10-redes: 2026-11-15-en-short-top10-asia-views → https://youtu.be/-HPY0BKUdCY
-- top10-redes: 2026-11-15-en-short-top10-oceania-comments → https://youtu.be/AQaFMP4KGGw
+- top10-redes: 2026-11-15-en-short-top10-africa-views → https://youtu.be/1HB3YQpcV6w
+- top10-redes: 2026-11-15-en-short-top10-europa-views → https://youtu.be/_RUoJ_1xLoo
+- top10-redes: 2026-11-15-en-short-top10-asia-comments → https://youtu.be/dbLacav4Lxg
 
 ## Fallos
 

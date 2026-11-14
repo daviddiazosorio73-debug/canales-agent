@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-13 17:55 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-13 22:35 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,21 +7,21 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| vie 06 | [La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) | [fijar](https://studio.youtube.com/video/G3qawWv9hm0/comments) | [editar](https://studio.youtube.com/video/G3qawWv9hm0/edit) | [revisar](https://studio.youtube.com/video/G3qawWv9hm0/translations) | — |
+| vie 13 | [Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) | [fijar](https://studio.youtube.com/video/QrSEOcTbl_g/comments) | [editar](https://studio.youtube.com/video/QrSEOcTbl_g/edit) | [revisar](https://studio.youtube.com/video/QrSEOcTbl_g/translations) | — |
 
-**Escuchar:** [largo: La ofrenda de la viuda pobre: por qué Jesús dijo que dio más](https://youtu.be/G3qawWv9hm0) · [Short: Dios no necesita tu dinero. Entonces, ¿por qué dar? 🤔 #short](https://youtube.com/shorts/l-zX9UzsKq8)
+**Escuchar:** [largo: Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) · [Short: Un hábito de 1 minuto que cambia tu forma de dar 🙏 #shorts](https://youtube.com/shorts/ZFEqDzVWjS4)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: La luz menor que lleva a la luz mayor 💡 #shorts](https://youtube.com/shorts/GDcwS60guSY)
+**Escuchar:** [Short: Repaso: ¡Escuchen esto! en 1 minuto 🔁 #shorts](https://youtube.com/shorts/z_dOmimtvcg)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: A luz menor que leva à luz maior 💡 #shorts](https://youtube.com/shorts/1KahqInf7YU)
+**Escuchar:** [Short: Revisão: Ouçam isto! em 1 minuto 🔁 #shorts](https://youtube.com/shorts/6h3qirjh9co)
 
 ## Top 10 Redes Sociales
 
@@ -40,9 +40,9 @@ Sin videos largos publicados esta semana.
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| vie 06 | [Ultraprocesados: lo que encontraron 45 análisis con casi 10 ](https://youtu.be/NyadXDJ0DkM) | [fijar](https://studio.youtube.com/video/NyadXDJ0DkM/comments) | [editar](https://studio.youtube.com/video/NyadXDJ0DkM/edit) | [revisar](https://studio.youtube.com/video/NyadXDJ0DkM/translations) | sí |
-| dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | — | sí |
+| dom 08 | [Perdonar y salud: lo que encontraron 128 estudios con 58 mil](https://youtu.be/7eOL1bDYK3U) | [fijar](https://studio.youtube.com/video/7eOL1bDYK3U/comments) | [editar](https://studio.youtube.com/video/7eOL1bDYK3U/edit) | [revisar](https://studio.youtube.com/video/7eOL1bDYK3U/translations) | sí |
 | mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | — | sí |
+| vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | — | sí |
 
-**Escuchar:** [largo: Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) · [Short: ¿El maní cuenta como fruto seco? Lo que vio la ciencia #shor](https://youtube.com/shorts/WPEbgw0IODI)
+**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Frutos secos y grasa: ¿hacen daño? Mito vs evidencia #shorts](https://youtube.com/shorts/LsV0gQynfjw)
 
