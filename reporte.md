@@ -1,7 +1,14 @@
-# Último reporte (2026-11-14 21:28 UTC)
+# Último reporte (2026-11-15 01:54 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-16-en-short-top10-europa-likes → https://youtu.be/mzLgPuoEIQk
+- mayordom: 2026-11-15-es-short1-manos-de-dios → https://youtu.be/J8wunouVYBw
+- escuela-sabatica-es: 2026-11-15-es-short1-la-biblia-trae-su-diccionario → https://youtu.be/6wnUDkQy9Bw
+- escola-sabatina-pt: 2026-11-15-pt-short1-a-biblia-traz-seu-dicionario → https://youtu.be/lwsAZS0C1tU
+- escuela-sabatica-es: 2026-11-15-es-short2-tambien-esta-escrito → https://youtu.be/AobYIKpdZeM
+- escola-sabatina-pt: 2026-11-15-pt-short2-tambem-esta-escrito → https://youtu.be/BcMiTHo-KHs
+- escuela-sabatica-es: 2026-11-15-es-short3-los-de-berea → https://youtu.be/3UOL_wBqKoI
+- escola-sabatina-pt: 2026-11-15-pt-short3-os-de-bereia → https://youtu.be/9gMa5JDtA-0
+- escuela-sabatica-es: 2026-11-16-es-short1-carta-a-los-exiliados → https://youtu.be/XkCdxv34opk
 
 ## Fallos
 
