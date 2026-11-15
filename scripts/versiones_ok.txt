@@ -52,7 +52,7 @@ distro==1.9.0
 docopt==0.6.2
 edge-tts==7.3.1
 einops==0.8.2
-fastapi==0.163.0
+fastapi==0.163.1
 ffmpy==1.0.0
 filelock==4.2.10
 frozenlist==1.8.0
@@ -149,7 +149,7 @@ python-magic==0.4.27
 python-multipart==0.0.33
 pytz==2026.6
 referencing==0.36.2
-regex==2026.11.9
+regex==2026.11.15
 requests-oauthlib==2.0.0
 requests==2.34.2
 resemble-perth==1.0.1

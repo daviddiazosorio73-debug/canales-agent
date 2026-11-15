@@ -1,14 +1,12 @@
-# Último reporte (2026-11-15 09:22 UTC)
+# Último reporte (2026-11-15 17:07 UTC)
 
 ## Subidos
-- mayordom: 2026-11-15-es-short2-cuervos-y-viuda → https://youtu.be/Oolo77rHe3c
-- escola-sabatina-pt: 2026-11-16-pt-short1-carta-aos-exilados → https://youtu.be/DZ8HLzqj0hE
-- escuela-sabatica-es: 2026-11-16-es-short2-agua-en-samaria → https://youtu.be/dmzxmkFwXAU
-- escola-sabatina-pt: 2026-11-16-pt-short2-agua-em-samaria → https://youtu.be/3QS8vlQwL7M
-- top10-redes: 2026-11-16-en-short-top10-mundial-likes → https://youtu.be/sZWVFEDYxNw
-- top10-redes: 2026-11-16-es-short-top10-america-likes → https://youtu.be/ERpvnBjbznU
-- mayordom: 2026-11-15-es-short3-semana-capitulo-3 → https://youtu.be/IZEUFG1MffM
-- mayordom: 2026-11-16-es-short1-dadles-de-comer → https://youtu.be/WkOgOGkpVt8
+- escuela-sabatica-es: 2026-11-16-es-short3-el-tercer-lugar → https://youtu.be/GBO8KZ8GFxc
+- escola-sabatina-pt: 2026-11-16-pt-short3-o-terceiro-lugar → https://youtu.be/VuW8Ub_VMpQ
+- mayordom: 2026-11-16-es-short2-bendecido-para-bendecir → https://youtu.be/K1bJ1HcDjss
+- mayordom: 2026-11-16-es-sermon-por-que-tus-manos → https://youtu.be/EHWxJ3U3EsY
+- mayordom: 2026-11-16-es-short3-paradoja-de-dar → https://youtu.be/9oZ6TzZZWEY
+- cryptuline: 2026-11-22-es-short1-gratitud-enfermeras → https://youtu.be/XRgR2y3nYQg
 
 ## Fallos
 
