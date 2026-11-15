@@ -70,7 +70,8 @@
           "secreto": "META_PAGE_TOKEN_IASD_SANLUIS",
           "nombre": "Iglesia Adventista San Luis (solo Facebook)"
         }
-      ]
+      ],
+      "pagina": "Maestro DD Escuela Sab"
     },
     "listas_desc": {
       "Escuela Sabática en 1 minuto": "Ideas cortas de la lección de Escuela Sabática de cada día."
@@ -102,7 +103,8 @@
       "secreto": "META_PAGE_TOKEN_PT_SABATINA",
       "tipos": [
         "short"
-      ]
+      ],
+      "pagina": "A Escola Sabatina"
     },
     "listas_desc": {
       "Escola Sabatina em 1 minuto": "Ideias curtas da lição da Escola Sabatina de cada dia."
