@@ -207,5 +207,93 @@
     "segundos": 53.8,
     "facebook": null,
     "extra": {}
+  },
+  {
+    "proyecto": "2026-11-16-es-short1-fibra-135-millones",
+    "asset": "cryptuline__2026-11-16-es-short1-fibra-135-millones.mp4",
+    "publicar_en": "2026-11-16T12:00:00Z",
+    "caption": "135 millones de años-persona sobre un solo nutriente\n\n135 millones de años-persona sobre un solo nutriente.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 34.8,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-16-es-short2-fibra-15-30",
+    "asset": "cryptuline__2026-11-16-es-short2-fibra-15-30.mp4",
+    "publicar_en": "2026-11-16T18:00:00Z",
+    "caption": "Más fibra: entre 15 y 30 % menos riesgo\n\nMás fibra: entre 15 y 30 % menos riesgo.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 34.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-16-es-short3-fibra-25-29",
+    "asset": "cryptuline__2026-11-16-es-short3-fibra-25-29.mp4",
+    "publicar_en": "2026-11-17T01:30:00Z",
+    "caption": "¿Cuánta fibra al día? El número que encontró la ciencia\n\n¿Cuánta fibra al día? El número que encontró la ciencia.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 33.0,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-17-es-short1-fibra-ensayos",
+    "asset": "cryptuline__2026-11-17-es-short1-fibra-ensayos.mp4",
+    "publicar_en": "2026-11-17T12:00:00Z",
+    "caption": "Lo que pasó cuando la gente comió más fibra en ensayos clínicos\n\nLo que pasó cuando la gente comió más fibra en ensayos clínicos.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 37.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-17-es-short2-integrales-90g",
+    "asset": "cryptuline__2026-11-17-es-short2-integrales-90g.mp4",
+    "publicar_en": "2026-11-17T18:00:00Z",
+    "caption": "Tres porciones de integrales al día: lo que encontró el BMJ\n\nTres porciones de integrales al día: lo que encontró el BMJ.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 35.3,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-17-es-short3-integrales-mortalidad",
+    "asset": "cryptuline__2026-11-17-es-short3-integrales-mortalidad.mp4",
+    "publicar_en": "2026-11-18T01:30:00Z",
+    "caption": "Granos enteros y mortalidad: 17 % menos riesgo\n\nGranos enteros y mortalidad: 17 % menos riesgo.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 33.5,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-18-es-short1-refinados-no",
+    "asset": "cryptuline__2026-11-18-es-short1-refinados-no.mp4",
+    "publicar_en": "2026-11-18T12:00:00Z",
+    "caption": "Arroz blanco y harinas refinadas: lo que NO encontró el estudio\n\nArroz blanco y harinas refinadas: lo que NO encontró el estudio.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 33.4,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-18-es-short2-fibra-glicemico",
+    "asset": "cryptuline__2026-11-18-es-short2-fibra-glicemico.mp4",
+    "publicar_en": "2026-11-18T18:00:00Z",
+    "caption": "Mito o evidencia: ¿el índice glicémico es lo más importante?\n\nMito o evidencia: ¿el índice glicémico es lo más importante?.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 32.5,
+    "facebook": null,
+    "extra": {}
   }
 ]

@@ -1,12 +1,14 @@
-# Último reporte (2026-11-15 17:07 UTC)
+# Último reporte (2026-11-15 21:48 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-16-es-short3-el-tercer-lugar → https://youtu.be/GBO8KZ8GFxc
-- escola-sabatina-pt: 2026-11-16-pt-short3-o-terceiro-lugar → https://youtu.be/VuW8Ub_VMpQ
-- mayordom: 2026-11-16-es-short2-bendecido-para-bendecir → https://youtu.be/K1bJ1HcDjss
-- mayordom: 2026-11-16-es-sermon-por-que-tus-manos → https://youtu.be/EHWxJ3U3EsY
-- mayordom: 2026-11-16-es-short3-paradoja-de-dar → https://youtu.be/9oZ6TzZZWEY
-- cryptuline: 2026-11-22-es-short1-gratitud-enfermeras → https://youtu.be/XRgR2y3nYQg
+- cryptuline: 2026-11-16-es-short1-fibra-135-millones → https://youtu.be/wQMCGMvoBkI
+- cryptuline: 2026-11-16-es-short2-fibra-15-30 → https://youtu.be/aRFLmZF66FQ
+- cryptuline: 2026-11-16-es-short3-fibra-25-29 → https://youtu.be/nt_6F3WyLw8
+- cryptuline: 2026-11-17-es-short1-fibra-ensayos → https://youtu.be/brlk5eEDRas
+- cryptuline: 2026-11-17-es-short2-integrales-90g → https://youtu.be/61T60iXQfhk
+- cryptuline: 2026-11-17-es-short3-integrales-mortalidad → https://youtu.be/VA9tx-h7jOA
+- cryptuline: 2026-11-18-es-short1-refinados-no → https://youtu.be/kYkZCny6cwA
+- cryptuline: 2026-11-18-es-short2-fibra-glicemico → https://youtu.be/Hyd7RHbU9eQ
 
 ## Fallos
 

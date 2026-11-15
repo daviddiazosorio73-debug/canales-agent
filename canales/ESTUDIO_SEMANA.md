@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-15 12:32 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-15 17:43 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -9,19 +9,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 |---|---|---|---|---|---|
 | vie 13 | [Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) | [fijar](https://studio.youtube.com/video/QrSEOcTbl_g/comments) | [editar](https://studio.youtube.com/video/QrSEOcTbl_g/edit) | [revisar](https://studio.youtube.com/video/QrSEOcTbl_g/translations) | — |
 
-**Escuchar:** [largo: Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) · [Short: Dios podría hacerlo solo… pero eligió tus manos 🤲 #shorts](https://youtube.com/shorts/J8wunouVYBw)
+**Escuchar:** [largo: Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) · [Short: Primero usó cuervos. Después, a una viuda pobre. ¿Por qué? 🐦](https://youtube.com/shorts/Oolo77rHe3c)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: La Biblia trae su propio diccionario 🔑 #shorts](https://youtube.com/shorts/6wnUDkQy9Bw)
+**Escuchar:** [Short: Hasta el enemigo citó la Biblia 😮 #shorts](https://youtube.com/shorts/AobYIKpdZeM)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: A Bíblia traz seu próprio dicionário 🔑 #shorts](https://youtube.com/shorts/lwsAZS0C1tU)
+**Escuchar:** [Short: Até o inimigo citou a Bíblia 😮 #shorts](https://youtube.com/shorts/BcMiTHo-KHs)
 
 ## Top 10 Redes Sociales
 
@@ -34,7 +34,7 @@ Sin videos largos publicados esta semana.
 | dom 15 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/1eghcjWjO60) | [fijar](https://studio.youtube.com/video/1eghcjWjO60/comments) | [editar](https://studio.youtube.com/video/1eghcjWjO60/edit) | — | sí |
 | dom 15 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/xeD0jU5UnjU) | [fijar](https://studio.youtube.com/video/xeD0jU5UnjU/comments) | [editar](https://studio.youtube.com/video/xeD0jU5UnjU/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/xeD0jU5UnjU) · [Short: The most commented video in Asia this week 🏆 #shorts](https://youtube.com/shorts/dbLacav4Lxg)
+**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/xeD0jU5UnjU) · [Short: The most liked video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/r7VZy-F5f7s)
 
 ## Cryptuline · Salud con ciencia
 
