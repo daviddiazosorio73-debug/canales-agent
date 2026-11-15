@@ -9,7 +9,7 @@ Dos pasos:
       Borra el asset cuando ambos quedan publicados. Reintenta hasta 3 veces.
 
 Config en canales.json → "meta": {"secreto": "META_PAGE_TOKEN_<CANAL>", "tipos": ["short"]}
-El secreto es el token de PÁGINA (no vence) con permisos pages_show_list, pages_read_engagement,
+El secreto es un token de USUARIO DEL SISTEMA del portafolio del canal (recomendado: no vence ni depende de la sesión) o un token de PÁGINA con permisos pages_show_list, pages_read_engagement,
 pages_manage_posts, instagram_basic, instagram_content_publish. El id de la Página y el de Instagram se
 obtienen solos con ese token. Si falta el secreto, no se hace nada (no falla).
 Nunca imprime tokens (el repo es público y sus registros también).
@@ -94,8 +94,19 @@ def chk(r):
 
 
 def ids(token):
+    """Acepta un token de Página o uno de USUARIO DEL SISTEMA (Business Manager, no vence ni depende de tu sesión):
+    con el de sistema toma la Página asignada y su token de Página automáticamente."""
+    try:
+        r = requests.get(f"{G}/me/accounts", params={"fields": "id,name,access_token,instagram_business_account",
+                                                      "access_token": token}, timeout=60)
+        cuentas = r.json().get("data") if r.ok else None
+    except Exception:
+        cuentas = None
+    if cuentas:
+        pg = cuentas[0]
+        return pg["id"], (pg.get("instagram_business_account") or {}).get("id"), pg["access_token"]
     pg = chk(requests.get(f"{G}/me", params={"fields": "id,name,instagram_business_account", "access_token": token}, timeout=60))
-    return pg["id"], (pg.get("instagram_business_account") or {}).get("id")
+    return pg["id"], (pg.get("instagram_business_account") or {}).get("id"), token
 
 
 def subir_rupload(url, token, archivo):
@@ -152,7 +163,7 @@ def publicar():
         if not listos:
             continue
         try:
-            page_id, ig_id = ids(token)
+            page_id, ig_id, token = ids(token)
         except Exception as e:
             fallos.append(limpio(f"{canal}: token de Meta inválido o vencido ({str(e)[:160]})"))
             continue
