@@ -93,7 +93,7 @@ def chk(r):
     return r.json()
 
 
-def ids(token):
+def ids(token, pagina=None):
     """Acepta un token de Página o uno de USUARIO DEL SISTEMA (Business Manager, no vence ni depende de tu sesión):
     con el de sistema toma la Página asignada y su token de Página automáticamente."""
     try:
@@ -104,6 +104,11 @@ def ids(token):
         cuentas = None
     if cuentas:
         pg = cuentas[0]
+        if pagina:  # varias Páginas en un mismo negocio: la del canal (id o parte del nombre en canales.json → meta.pagina)
+            elegidas = [c for c in cuentas if pagina == c["id"] or pagina.lower() in c.get("name", "").lower()]
+            if not elegidas:
+                raise RuntimeError(f"la Página «{pagina}» no está asignada a este token")
+            pg = elegidas[0]
         return pg["id"], (pg.get("instagram_business_account") or {}).get("id"), pg["access_token"]
     pg = chk(requests.get(f"{G}/me", params={"fields": "id,name,instagram_business_account", "access_token": token}, timeout=60))
     return pg["id"], (pg.get("instagram_business_account") or {}).get("id"), token
@@ -163,7 +168,7 @@ def publicar():
         if not listos:
             continue
         try:
-            page_id, ig_id, token = ids(token)
+            page_id, ig_id, token = ids(token, m.get("pagina"))
         except Exception as e:
             fallos.append(limpio(f"{canal}: token de Meta inválido o vencido ({str(e)[:160]})"))
             continue
