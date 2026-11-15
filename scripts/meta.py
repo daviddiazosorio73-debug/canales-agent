@@ -186,7 +186,7 @@ def publicar():
                     tok = os.environ.get(sec)
                     if hecho or not tok:
                         continue
-                    pid, _ = ids(tok)
+                    pid, _, tok = ids(tok)
                     c["extra"][sec] = reel_facebook(pid, tok, archivo, c["caption"])
                     print(f"meta: {canal} {c['proyecto']} → también en {sec}: {c['extra'][sec]}")
             except Exception as e:
