@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "¿El diezmo era solo comida? Este versículo dice otra cosa 🪙",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Solo comida?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿El diezmo era solo comida? Este versículo dice otra cosa 🪙 #shorts",
+    "descripcion": "El diezmo era solo trigo y animales, nunca dinero. Lo repiten mucho en redes. Pero hay un pasaje que casi nadie menciona. (Deuteronomio 14:24-26, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "diezmo",
+      "diezmo en dinero",
+      "Deuteronomio 14"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El diezmo era solo trigo y animales, nunca dinero. Lo repiten mucho en redes. Pero hay un pasaje que casi nadie menciona.",
+      "texto_pantalla": "¿Solo comida?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient silver coins hand"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Deuteronomio catorce, versículos veinticuatro al veintiséis. Dios contempla un caso práctico: si el lugar que él escogió está demasiado lejos para llevar el diezmo del campo, el israelita podía venderlo, llevar el dinero en la mano y usarlo allá delante del Señor. Es decir, la misma ley preveía convertir el diezmo en dinero. Muchos estudiosos señalan que ese diezmo se comía en una fiesta y era distinto del de los levitas, pero el punto se mantiene. Hoy a las seis de la tarde, en el canal, el análisis completo: lo que el argumento acierta y lo que no.",
+      "texto_pantalla": "¿Solo comida?",
+      "referencia": "Deuteronomio 14:24-26",
+      "emocion": "agil",
+      "visual": {
+        "query": "harvest basket grapes wheat"
+      }
+    }
+  ]
+}

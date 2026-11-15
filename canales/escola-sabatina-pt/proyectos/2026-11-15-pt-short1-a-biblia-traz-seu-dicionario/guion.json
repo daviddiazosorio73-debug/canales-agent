@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "A Bíblia traz seu próprio dicionário 🔑",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La Biblia como su propia intérprete"
+  },
+  "miniatura": {
+    "linea1": "Seu próprio dicionário?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A Bíblia traz seu próprio dicionário 🔑 #shorts",
+    "descripcion": "Você sabia que a Bíblia traz seu próprio dicionário? Há símbolos proféticos que parecem impossíveis de entender… até você olhar algumas páginas adiante.\n\nDaniel 8:20-21\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Você sabia que a Bíblia traz seu próprio dicionário? Há símbolos proféticos que parecem impossíveis de entender… até você olhar algumas páginas adiante.",
+      "texto_pantalla": "Seu próprio dicionário?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old dictionary pages magnifying glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Esse é o tema de domingo da lição oito: a Bíblia como sua própria intérprete. Em Daniel oito aparecem um carneiro com dois chifres e um bode veloz. O que significam? Não precisa adivinhar. Nos versículos vinte e vinte e um, o próprio texto explica: o carneiro representa os reis da Média e da Pérsia, e o bode, o rei da Grécia. Esse é o princípio: antes de buscar respostas fora, deixe a Escritura explicar a Escritura. Compare texto com texto, como Paulo ensina em primeira Coríntios dois, treze. Qual símbolo bíblico você gostaria de entender? Escreva nos comentários.",
+      "texto_pantalla": "Seu próprio dicionário?",
+      "referencia": "Daniel 8:20-21",
+      "emocion": "agil",
+      "visual": {
+        "query": "ram and goat on rocky hillside"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "Não acredite em tudo o que ouve… nem mesmo na igreja ⚠️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Poniendo a prueba a los profetas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Acreditar em todos?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Não acredite em tudo o que ouve… nem mesmo na igreja ⚠️ #shorts",
+    "descripcion": "Um apóstolo escreveu um alerta que hoje, na era das redes sociais, parece mais urgente do que nunca.\n\n1 João 4:1\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um apóstolo escreveu um alerta que hoje, na era das redes sociais, parece mais urgente do que nunca.",
+      "texto_pantalla": "Acreditar em todos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "smartphone screen with many notifications in dark room"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "É o verso para memorizar da lição nove, Colocando os profetas à prova: primeira João quatro, versículo um. João pede aos cristãos, com carinho, que não acreditem em todo espírito, mas examinem se ele vem de Deus, porque muitos falsos profetas saíram pelo mundo. Repare: a Bíblia não manda você deixar de crer na profecia. Manda colocá-la à prova. Fé não é credulidade. Deus espera que você use a mente que ele lhe deu e a sua Palavra como medida. Antes de compartilhar uma mensagem que diz vir de Deus, examine-a. Memorize primeira João quatro, um, e comente «Vou examinar».",
+      "texto_pantalla": "Acreditar em todos?",
+      "referencia": "1 João 4:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "gold coin examined under magnifying glass"
+      }
+    }
+  ]
+}

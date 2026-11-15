@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "La paradoja que las finanzas no explican 💡",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "La paradoja",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La paradoja que las finanzas no explican 💡 #shorts",
+    "descripcion": "Hay personas que reparten y terminan teniendo más. Y otras que retienen y terminan con menos. ¿Cómo se explica? (Proverbios 11:24-25, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "generosidad",
+      "finanzas cristianas",
+      "Proverbios"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay personas que reparten y terminan teniendo más. Y otras que retienen y terminan con menos. ¿Cómo se explica?",
+      "texto_pantalla": "La paradoja",
+      "emocion": "gancho",
+      "visual": {
+        "query": "coins scattered light table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Proverbios once, versículos veinticuatro y veinticinco, describe esta paradoja: unos reparten y les es añadido más; otros retienen más de lo justo, y vienen a pobreza. Y añade que el alma generosa será prosperada, y el que sacia a otros también será saciado. Fíjate: no promete que el generoso siempre tendrá más dinero. Dice que su alma prospera. El que solo acumula puede tener la cuenta llena y el corazón vacío. El que comparte se mantiene vivo por dentro. Esta noche, antes de dormir, pregúntate: ¿mi corazón se está llenando o se está secando?",
+      "texto_pantalla": "La paradoja",
+      "referencia": "Proverbios 11:24-25",
+      "emocion": "reflexivo",
+      "visual": {
+        "query": "night window city lights reflection"
+      }
+    }
+  ]
+}

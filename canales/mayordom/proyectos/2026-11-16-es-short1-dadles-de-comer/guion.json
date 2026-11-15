@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "La orden de Jesús que asustó a sus discípulos 🍞",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Ustedes?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La orden de Jesús que asustó a sus discípulos 🍞 #shorts",
+    "descripcion": "Miles de personas con hambre. Ni un mercado cerca. Y Jesús les dice a sus discípulos: denles ustedes de comer. (Marcos 6:37 · Juan 6:9, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "multiplicación de los panes",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Miles de personas con hambre. Ni un mercado cerca. Y Jesús les dice a sus discípulos: denles ustedes de comer.",
+      "texto_pantalla": "¿Ustedes?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "crowd hillside sunset"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Marcos seis. Los discípulos hicieron cuentas y se asustaron: no les alcanzaba. En Juan seis, Andrés encontró a un muchacho con cinco panes de cebada y dos pececillos, y preguntó qué era eso para tantos. Jesús tomó lo que el muchacho trajo, dio gracias, lo partió y se lo dio a los discípulos para que lo repartieran. El milagro fue de Jesús. El reparto pasó por sus manos. Así sigue funcionando hoy: Dios provee, nosotros repartimos. ¿Qué tienes tú, aunque parezca poco, que podrías poner hoy en sus manos?",
+      "texto_pantalla": "¿Ustedes?",
+      "referencia": "Marcos 6:37 · Juan 6:9",
+      "emocion": "agil",
+      "visual": {
+        "query": "bread loaves fish basket wooden"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "La mesa del sábado con dos frutas y tres verduras",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuántos colores?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "La mesa del sábado con dos frutas y tres verduras #shorts",
+    "descripcion": "La mesa del sábado con dos frutas y tres verduras.\n\n📚 Fuentes (PubMed):\n• Wang DD, Li Y, Bhupathiraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. 2021;143(17):1642-1654. https://pubmed.ncbi.nlm.nih.gov/33641343/ · https://doi.org/10.1161/CIRCULATIONAHA.120.048996\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutas y verduras",
+      "sábado",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuántos colores hay hoy en tu mesa de sábado?",
+      "texto_pantalla": "¿Cuántos colores?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "colorful vegetables dinner table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Génesis uno, versículo veintinueve, Dios da al ser humano las plantas con semilla y los frutos como alimento. Y en el estudio de Wang, con casi dos millones de personas, alrededor de cinco porciones al día, dos de fruta y tres de verduras, se asociaron con la menor mortalidad; por encima de eso, no hubo reducción adicional. Es un estudio observacional: muestra asociación, no causa. Esta noche, prueba un plato con frutas y verduras de varios colores. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Génesis 1:29 · Wang DD, 2021 · Circulation",
+      "emocion": "agil",
+      "visual": {
+        "query": "fruit platter family"
+      }
+    }
+  ]
+}

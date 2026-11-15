@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "La Biblia de Jesús tenía 3 partes 📚",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La presentación de las Escrituras"
+  },
+  "miniatura": {
+    "linea1": "¿Qué 3 partes?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La Biblia de Jesús tenía 3 partes 📚 #shorts",
+    "descripcion": "Cuando Jesús resucitado habló de las Escrituras, las presentó en tres partes. Y dijo que en las tres había algo escrito sobre él.\n\nLucas 24:44\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Cuando Jesús resucitado habló de las Escrituras, las presentó en tres partes. Y dijo que en las tres había algo escrito sobre él.",
+      "texto_pantalla": "¿Qué 3 partes?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "three old leather books stacked by candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Lucas veinticuatro, versículo cuarenta y cuatro. Jesús dijo a sus discípulos que debía cumplirse todo lo que estaba escrito de él en la ley de Moisés, en los profetas y en los salmos. Ese es el tema del jueves: la presentación de las Escrituras. Jesús no veía la Biblia como piezas sueltas, sino como un solo testimonio que apunta a él. En Juan cinco, treinta y nueve, dice algo parecido: que las Escrituras dan testimonio de él. Por eso no basta leer solo tus pasajes favoritos. Lee la Biblia completa, ley, profetas y escritos, y busca a Cristo en cada parte. Comenta cuál es tu libro favorito de la Biblia.",
+      "texto_pantalla": "¿Qué 3 partes?",
+      "referencia": "Lucas 24:44",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient scrolls on library shelf"
+      }
+    }
+  ]
+}

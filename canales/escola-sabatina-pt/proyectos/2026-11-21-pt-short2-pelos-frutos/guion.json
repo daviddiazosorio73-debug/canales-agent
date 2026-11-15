@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "O disfarce mais perigoso segundo Jesus 🐺",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Poniendo a prueba a los profetas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Que disfarce?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O disfarce mais perigoso segundo Jesus 🐺 #shorts",
+    "descripcion": "Jesus alertou sobre um disfarce muito perigoso. Ele não é descoberto pela aparência. É descoberto por outra coisa.\n\nMateus 7:15-20\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesus alertou sobre um disfarce muito perigoso. Ele não é descoberto pela aparência. É descoberto por outra coisa.",
+      "texto_pantalla": "Que disfarce?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "lone wolf in snowy forest"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Mateus sete, a partir do versículo quinze. Jesus falou de falsos profetas que chegam disfarçados de ovelhas, mas por dentro são lobos. E deu um teste simples: eles são reconhecidos pelos frutos. Uma árvore boa dá frutos bons, e uma árvore ruim, frutos ruins. É um dos testes do tema desta semana, Colocando os profetas à prova, com primeira João quatro, um, como verso para memorizar. Não basta falar bonito nem citar versículos. Observe a vida, o caráter e para onde a mensagem leva: para Cristo e sua Palavra, ou para longe dele? Inscreva-se para estudar a lição todos os dias.",
+      "texto_pantalla": "Que disfarce?",
+      "referencia": "Mateus 7:15-20",
+      "emocion": "agil",
+      "visual": {
+        "query": "fruit tree with ripe apples in sunlight"
+      }
+    }
+  ]
+}

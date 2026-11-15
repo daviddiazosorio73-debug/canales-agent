@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "¿La papa cuenta como verdura? La respuesta de un gran estudio",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿La papa cuenta?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿La papa cuenta como verdura? La respuesta de un gran estudio #shorts",
+    "descripcion": "¿La papa cuenta como verdura? La respuesta de un gran estudio.\n\n📚 Fuentes (PubMed):\n• Wang DD, Li Y, Bhupathiraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. 2021;143(17):1642-1654. https://pubmed.ncbi.nlm.nih.gov/33641343/ · https://doi.org/10.1161/CIRCULATIONAHA.120.048996\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "papa",
+      "verduras",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Papa, choclo, arvejas. ¿Cuentan como verduras en tu plato?",
+      "texto_pantalla": "¿La papa cuenta?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "potatoes corn peas on table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el estudio de Wang, publicado en Circulation en dos mil veintiuno, comer más frutas y verduras se asoció con menor mortalidad, con algunas excepciones. Las verduras con mucho almidón, como las arvejas y el choclo, fueron la excepción entre las verduras. Y las papas no se asociaron con la mortalidad total ni por causas específicas. Esto no quiere decir que sean malas: quiere decir que, en este estudio, no se asociaron con menos mortalidad. Es observacional y no prueba causa. Para tus porciones de verdura, suma hojas verdes, brócoli y ensaladas. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Wang DD, 2021 · Circulation",
+      "emocion": "agil",
+      "visual": {
+        "query": "green vegetables cutting board"
+      }
+    }
+  ]
+}

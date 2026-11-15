@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "200 gramos más de frutas y verduras: lo que encontraron 95 estudios",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿200 g más?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "200 gramos más de frutas y verduras: lo que encontraron 95 estudios #shorts",
+    "descripcion": "200 gramos más de frutas y verduras: lo que encontraron 95 estudios.\n\n📚 Fuentes (PubMed):\n• Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, et al. Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Int J Epidemiol. 2017;46(3):1029-1056. https://pubmed.ncbi.nlm.nih.gov/28338764/ · https://doi.org/10.1093/ije/dyw319\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutas y verduras",
+      "metaanálisis",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Doscientos gramos más de frutas y verduras al día. ¿Qué encontraron noventa y cinco estudios?",
+      "texto_pantalla": "¿200 g más?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "kitchen scale vegetables"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Aune y su equipo publicaron en dos mil diecisiete, en el International Journal of Epidemiology, un metaanálisis de noventa y cinco estudios. Este estudio encontró que cada doscientos gramos más al día se asoció con un diez por ciento menos de mortalidad por cualquier causa y un dieciséis por ciento menos de accidente cerebrovascular. Las reducciones de riesgo se observaron hasta unos ochocientos gramos al día. Son estudios observacionales: los autores advierten que sus cálculos valen si las asociaciones son causales. Mañana, el video completo. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2017 · Int J Epidemiol",
+      "emocion": "agil",
+      "visual": {
+        "query": "salad bowl colorful"
+      }
+    }
+  ]
+}

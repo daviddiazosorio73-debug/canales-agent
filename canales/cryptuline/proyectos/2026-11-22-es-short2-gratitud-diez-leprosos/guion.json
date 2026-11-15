@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Diez fueron sanados y solo uno volvió a dar gracias",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Dónde están los nueve?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Diez fueron sanados y solo uno volvió a dar gracias #shorts",
+    "descripcion": "Diez fueron sanados y solo uno volvió a dar gracias.\n\n📚 Fuentes (PubMed):\n• Diniz G, Korkes L, Tristão LS, Pelegrini R, Bellodi PL, Bernardo WM. The effects of gratitude interventions: a systematic review and meta-analysis. Einstein (Sao Paulo). 2023;21:eRW0371. https://pubmed.ncbi.nlm.nih.gov/37585888/ · https://doi.org/10.31744/einstein_journal/2023RW0371\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "gratitud",
+      "Biblia",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-22T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Diez hombres fueron limpiados de la lepra. Solo uno volvió a dar gracias. ¿Qué dice hoy la ciencia sobre agradecer?",
+      "texto_pantalla": "¿Dónde están los nueve?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient stone road sunset"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La historia está en Lucas diecisiete, del versículo once al diecinueve: Jesús preguntó dónde estaban los otros nueve. Hoy la ciencia estudia la gratitud con ensayos clínicos. Diniz y su equipo, en dos mil veintitrés, reunieron sesenta y cuatro ensayos aleatorizados. Este estudio encontró que quienes hicieron ejercicios de gratitud tuvieron mejor salud mental y menos síntomas de ansiedad y de depresión. Los autores la presentan como un complemento, no como un reemplazo del tratamiento. Si vives con depresión o ansiedad, busca ayuda profesional. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Lucas 17:11-19 · Diniz G, 2023 · Einstein (Sao Paulo)",
+      "emocion": "agil",
+      "visual": {
+        "query": "person kneeling grateful light"
+      }
+    }
+  ]
+}

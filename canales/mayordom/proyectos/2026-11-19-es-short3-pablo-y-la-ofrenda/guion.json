@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "Hasta el apóstol Pablo aceptó que lo supervisaran 📜",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Cuentas claras",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Hasta el apóstol Pablo aceptó que lo supervisaran 📜 #shorts",
+    "descripcion": "El apóstol Pablo llevaba una ofrenda grande para los pobres de Jerusalén. Y él mismo pidió que alguien lo acompañara. (2 Corintios 8:18-21, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "transparencia en la iglesia",
+      "diezmo mal usado",
+      "ofrendas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El apóstol Pablo llevaba una ofrenda grande para los pobres de Jerusalén. Y él mismo pidió que alguien lo acompañara.",
+      "texto_pantalla": "Cuentas claras",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient road travelers dawn"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En segunda de Corintios ocho, Pablo explica que viaja con un hermano elegido por las iglesias, para que nadie los critique por cómo administran esa ofrenda. Dice que procuran hacer lo correcto no solo delante del Señor, sino también delante de los hombres. Si un apóstol aceptó ser supervisado, pedir cuentas claras en la iglesia, con respeto y por los canales correctos, no es rebeldía. Es bíblico. Y dar con fidelidad tampoco es ingenuidad. Las dos cosas van juntas. Cuéntame en los comentarios: ¿en tu iglesia se informa cómo se usan los fondos?",
+      "texto_pantalla": "Cuentas claras",
+      "referencia": "2 Corintios 8:18-21",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "scroll parchment candle desk"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "Dos mares, la misma agua… y uno está muerto 🌊",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Qué mar eres?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dos mares, la misma agua… y uno está muerto 🌊 #shorts",
+    "descripcion": "En Israel hay dos mares que reciben agua del mismo río. Uno está lleno de vida. En el otro, los peces no sobreviven. (Proverbios 11:25, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "generosidad",
+      "Mar Muerto",
+      "mar de Galilea"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En Israel hay dos mares que reciben agua del mismo río. Uno está lleno de vida. En el otro, los peces no sobreviven.",
+      "texto_pantalla": "¿Qué mar eres?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "dead sea salt formations shore"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El mar de Galilea recibe el agua del Jordán y la deja salir. El Mar Muerto la recibe, pero no tiene salida; el agua se evapora y la sal se acumula. No le falta agua: le falta salida. Proverbios once dice que el alma generosa será prosperada, y el que sacia a otros también será saciado. Lo que Dios pone en tus manos no fue diseñado para estancarse. Hoy a las seis de la tarde, el sermón completo: canal o represa. Y tú, ¿cuál de los dos mares se parece más a tu vida?",
+      "texto_pantalla": "¿Qué mar eres?",
+      "referencia": "Proverbios 11:25",
+      "emocion": "agil",
+      "visual": {
+        "query": "sea of galilee boat morning"
+      }
+    }
+  ]
+}

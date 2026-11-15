@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "Quem examina quem? A Bíblia e Ellen White ⚖️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "Cómo leer los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "Quem examina quem?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Quem examina quem? A Bíblia e Ellen White ⚖️ #shorts",
+    "descripcion": "Se você tivesse que decidir quem tem a última palavra, a Bíblia ou os escritos de uma profetisa moderna? Ellen White respondeu essa pergunta sem rodeios.\n\nIsaías 8:20; 1 Tessalonicenses 5:20-21\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Se você tivesse que decidir quem tem a última palavra, a Bíblia ou os escritos de uma profetisa moderna? Ellen White respondeu essa pergunta sem rodeios.",
+      "texto_pantalla": "Quem examina quem?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "brass balance scale with old book"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Na introdução de O Grande Conflito, Ellen White afirma que a Bíblia é a regra pela qual todo ensino e toda experiência devem ser provados. Ela nunca colocou seus escritos acima da Escritura. Isaías oito, vinte, aponta o mesmo critério: voltar à lei e ao testemunho; o que não fala de acordo com essa palavra não tem luz. E Paulo, em primeira Tessalonicenses cinco, pede que não desprezemos as profecias, mas examinemos tudo e retenhamos o que é bom. Esse é o tema de sexta-feira: ler Ellen White com a Bíblia aberta, comparando e valorizando. Compartilhe este vídeo com a sua classe da Escola Sabatina.",
+      "texto_pantalla": "Quem examina quem?",
+      "referencia": "Isaías 8:20; 1 Tessalonicenses 5:20-21",
+      "emocion": "agil",
+      "visual": {
+        "query": "lantern light on open bible"
+      }
+    }
+  ]
+}

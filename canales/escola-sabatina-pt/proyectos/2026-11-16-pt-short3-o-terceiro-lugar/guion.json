@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "Por que o rei ofereceu o TERCEIRO lugar? 👑",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto histórico-cultural"
+  },
+  "miniatura": {
+    "linea1": "Por que o terceiro?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por que o rei ofereceu o TERCEIRO lugar? 👑 #shorts",
+    "descripcion": "Um rei desesperado prometeu uma grande recompensa a quem lesse uma escrita misteriosa na parede. Mas ofereceu o terceiro lugar do reino, não o segundo. Por quê?\n\nDaniel 5:16, 29\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um rei desesperado prometeu uma grande recompensa a quem lesse uma escrita misteriosa na parede. Mas ofereceu o terceiro lugar do reino, não o segundo. Por quê?",
+      "texto_pantalla": "Por que o terceiro?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient clay tablet cuneiform museum"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está em Daniel cinco. Durante séculos, alguns críticos duvidaram que Belsazar tivesse existido, porque as listas antigas apontavam Nabonido como o último rei da Babilônia. Depois, documentos cuneiformes mostraram que Nabonido era seu pai e que Belsazar governava junto com ele. O primeiro lugar era do pai; o segundo, do filho. O terceiro era o mais alto que ele podia oferecer. Um detalhe histórico que confirma a precisão do relato. Esse é o tema de segunda-feira, o contexto histórico-cultural: conhecer o mundo do texto faz a Bíblia falar com mais clareza. Inscreva-se para não perder a lição de cada dia.",
+      "texto_pantalla": "Por que o terceiro?",
+      "referencia": "Daniel 5:16, 29",
+      "emocion": "agil",
+      "visual": {
+        "query": "mysterious writing on palace wall candlelight"
+      }
+    }
+  ]
+}

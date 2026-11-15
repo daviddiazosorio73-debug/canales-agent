@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "O livro dos símbolos traz suas próprias pistas ⭐",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto literario"
+  },
+  "miniatura": {
+    "linea1": "Pistas escondidas?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O livro dos símbolos traz suas próprias pistas ⭐ #shorts",
+    "descripcion": "Apocalipse está cheio de bestas, estrelas e candelabros. Muitos fecham o livro com medo. Mas no primeiro capítulo há uma pista que muda tudo.\n\nApocalipse 1:20\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Apocalipse está cheio de bestas, estrelas e candelabros. Muitos fecham o livro com medo. Mas no primeiro capítulo há uma pista que muda tudo.",
+      "texto_pantalla": "Pistas escondidas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "seven golden oil lamps on dark background"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Apocalipse é profecia apocalíptica, um gênero que comunica por símbolos. Por isso o tema de terça-feira, o contexto literário, é fundamental. Veja o capítulo um, versículo vinte: João vê sete estrelas e sete candelabros, e o próprio texto explica que as estrelas são os anjos das sete igrejas, e os candelabros, as sete igrejas. O livro ensina você a lê-lo. Nem tudo é literal, nem tudo é imaginação: os símbolos têm significado, e a Bíblia costuma revelá-lo. Leia Apocalipse junto com Daniel e o restante da Escritura, e você verá que no centro está Jesus. Inscreva-se para estudar a lição todos os dias.",
+      "texto_pantalla": "Pistas escondidas?",
+      "referencia": "Apocalipse 1:20",
+      "emocion": "agil",
+      "visual": {
+        "query": "starry night sky over mountains"
+      }
+    }
+  ]
+}

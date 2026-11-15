@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "As 2 perguntas de Jesus para ler a Bíblia ❓",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El significado del texto"
+  },
+  "miniatura": {
+    "linea1": "Quais perguntas?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "As 2 perguntas de Jesus para ler a Bíblia ❓ #shorts",
+    "descripcion": "Um especialista na lei quis colocar Jesus à prova. Mas Jesus devolveu duas perguntas que ainda hoje deveríamos fazer toda vez que abrimos a Bíblia.\n\nLucas 10:25-37\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um especialista na lei quis colocar Jesus à prova. Mas Jesus devolveu duas perguntas que ainda hoje deveríamos fazer toda vez que abrimos a Bíblia.",
+      "texto_pantalla": "Quais perguntas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "notebook with handwritten question marks next to bible"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Lucas dez, versículo vinte e seis. Jesus perguntou o que estava escrito na lei e como ele lia. A primeira pergunta busca o que o texto diz. A segunda, como você o entende e aplica. Esse é o tema de quarta-feira: o significado do texto. O homem respondeu bem: amar a Deus e ao próximo. Mas depois quis limitar quem era o seu próximo, e Jesus contou a parábola do bom samaritano. Conhecer o texto não basta; seu significado nos alcança e nos transforma. Da próxima vez que ler, faça as duas perguntas: o que diz? e como eu leio? Inscreva-se para continuar estudando a lição.",
+      "texto_pantalla": "Quais perguntas?",
+      "referencia": "Lucas 10:25-37",
+      "emocion": "agil",
+      "visual": {
+        "query": "helping hand lifting someone from dusty road"
+      }
+    }
+  ]
+}

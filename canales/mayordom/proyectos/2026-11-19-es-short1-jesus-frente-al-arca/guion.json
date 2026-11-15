@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "Lo que Jesús hizo justo después de denunciar a los líderes 🏛️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Mira lo que hizo",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo que Jesús hizo justo después de denunciar a los líderes 🏛️ #shorts",
+    "descripcion": "Jesús acaba de denunciar a los líderes religiosos que se aprovechaban de las viudas. Y lo siguiente que hace sorprende a muchos. (Marcos 12:38-41, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "diezmo mal usado",
+      "Marcos 12",
+      "diezmo"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús acaba de denunciar a los líderes religiosos que se aprovechaban de las viudas. Y lo siguiente que hace sorprende a muchos.",
+      "texto_pantalla": "Mira lo que hizo",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient temple courtyard stone"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Marcos doce. Primero advierte contra los escribas que devoran las casas de las viudas. Y en el versículo siguiente se sienta frente al arca de las ofrendas, en ese mismo templo, a observar. Lo que dijo después cambia la manera de ver el diezmo cuando hay abuso. No te lo cuento aquí. Hoy a las seis de la tarde, en el canal, el análisis completo: diezmo mal usado, ¿dejo de diezmar? Con la Biblia abierta y sin nombrar a nadie. Suscríbete y activa la campana.",
+      "texto_pantalla": "Hoy 6 p. m.",
+      "referencia": "Marcos 12:38-41",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "stone steps temple light"
+      }
+    }
+  ]
+}

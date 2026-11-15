@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "¿Cuándo te vimos, Señor? La sorpresa del juicio ⚖️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Cuándo te vimos?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Cuándo te vimos, Señor? La sorpresa del juicio ⚖️ #shorts",
+    "descripcion": "En el día del juicio, algunas personas van a hacer una pregunta muy extraña: Señor, ¿cuándo te vimos con hambre? (Mateo 25:35-40, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Mateo 25",
+      "servicio",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En el día del juicio, algunas personas van a hacer una pregunta muy extraña: Señor, ¿cuándo te vimos con hambre?",
+      "texto_pantalla": "¿Cuándo te vimos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "empty plate table window"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Mateo veinticinco. El Rey les dice a los de su derecha que tuvo hambre y le dieron de comer, que fue forastero y lo recibieron, que estuvo enfermo y en la cárcel y lo visitaron. Ellos, sorprendidos, preguntan cuándo. Y el Rey responde que cada vez que lo hicieron con uno de sus hermanos más pequeños, a él lo hicieron. Ni siquiera lo recordaban. La generosidad se había vuelto parte de quienes eran. La próxima persona necesitada que encuentres no es una interrupción. Es una oportunidad de servir a Cristo.",
+      "texto_pantalla": "¿Cuándo te vimos?",
+      "referencia": "Mateo 25:35-40",
+      "emocion": "reflexivo",
+      "visual": {
+        "query": "hands sharing bread soup"
+      }
+    }
+  ]
+}

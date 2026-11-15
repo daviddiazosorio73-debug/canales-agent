@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "¿Para qué te dio Dios la Biblia? 🧰",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La presentación de las Escrituras"
+  },
+  "miniatura": {
+    "linea1": "¿Para qué sirve?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Para qué te dio Dios la Biblia? 🧰 #shorts",
+    "descripcion": "Muchos tienen una Biblia en casa. Pocos saben para qué nos la dio Dios. Pablo lo resumió en cuatro funciones.\n\n2 Timoteo 3:16-17\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muchos tienen una Biblia en casa. Pocos saben para qué nos la dio Dios. Pablo lo resumió en cuatro funciones.",
+      "texto_pantalla": "¿Para qué sirve?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old bible on carpenter workbench with tools"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Timoteo tres, dieciséis y diecisiete. Pablo dice que toda la Escritura es inspirada por Dios y útil para enseñar, para mostrar el error, para corregir y para formar en lo correcto, de modo que la persona de Dios esté preparada para toda buena obra. Y segunda de Pedro uno, veintiuno, añade que los profetas hablaron movidos por el Espíritu Santo. Ese es el tema del jueves: la presentación de las Escrituras. La Biblia se presenta como mensaje de Dios por medio de personas, con un propósito práctico: formarte. No es solo para saber más, sino para vivir mejor. Suscríbete y estudia la lección cada día.",
+      "texto_pantalla": "¿Para qué sirve?",
+      "referencia": "2 Timoteo 3:16-17",
+      "emocion": "agil",
+      "visual": {
+        "query": "wind blowing through golden wheat field"
+      }
+    }
+  ]
+}

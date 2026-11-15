@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "A Bíblia de Jesus tinha 3 partes 📚",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La presentación de las Escrituras"
+  },
+  "miniatura": {
+    "linea1": "Quais 3 partes?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A Bíblia de Jesus tinha 3 partes 📚 #shorts",
+    "descripcion": "Quando Jesus ressuscitado falou das Escrituras, ele as apresentou em três partes. E disse que nas três havia algo escrito sobre ele.\n\nLucas 24:44\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Quando Jesus ressuscitado falou das Escrituras, ele as apresentou em três partes. E disse que nas três havia algo escrito sobre ele.",
+      "texto_pantalla": "Quais 3 partes?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "three old leather books stacked by candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Lucas vinte e quatro, versículo quarenta e quatro. Jesus disse aos discípulos que precisava se cumprir tudo o que estava escrito a respeito dele na lei de Moisés, nos profetas e nos salmos. Esse é o tema de quinta-feira: a apresentação das Escrituras. Jesus não via a Bíblia como peças soltas, mas como um único testemunho que aponta para ele. Em João cinco, trinta e nove, ele diz algo parecido: que as Escrituras dão testemunho dele. Por isso não basta ler só as suas passagens favoritas. Leia a Bíblia inteira, lei, profetas e escritos, e procure Cristo em cada parte. Comente qual é o seu livro favorito da Bíblia.",
+      "texto_pantalla": "Quais 3 partes?",
+      "referencia": "Lucas 24:44",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient scrolls on library shelf"
+      }
+    }
+  ]
+}

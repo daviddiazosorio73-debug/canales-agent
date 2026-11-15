@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "¿Cuánto movimiento compensa estar sentado todo el día? La cifra",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuántos minutos?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Cuánto movimiento compensa estar sentado todo el día? La cifra #shorts",
+    "descripcion": "¿Cuánto movimiento compensa estar sentado todo el día? La cifra.\n\n📚 Fuentes (PubMed):\n• Ekelund U, Steene-Johannessen J, Brown WJ, Fagerland MW, Owen N, Powell KE, et al. Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. 2016;388(10051):1302-10. https://pubmed.ncbi.nlm.nih.gov/27475271/ · https://doi.org/10.1016/S0140-6736(16)30370-1\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "actividad física",
+      "ejercicio moderado",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Existe una cantidad de movimiento que compense pasar el día sentado? Un estudio con más de un millón de personas da una cifra.",
+      "texto_pantalla": "¿Cuántos minutos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "brisk walking city sidewalk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Según Ekelund y su equipo, en The Lancet, alrededor de sesenta a setenta y cinco minutos al día de actividad física de intensidad moderada parecen eliminar el aumento de riesgo de muerte asociado a estar mucho tiempo sentado. Con la televisión, esa actividad atenúa el riesgo, pero no lo elimina. Es un estudio observacional, así que no prueba causa. Si hoy te mueves poco, no empieces de golpe: ve sumando de a poco. Y si tienes una enfermedad del corazón o de las articulaciones, habla antes con tu médico. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "cycling park morning"
+      }
+    }
+  ]
+}

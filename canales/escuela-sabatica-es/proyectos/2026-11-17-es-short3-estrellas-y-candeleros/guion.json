@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "El libro de los símbolos trae sus propias pistas ⭐",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto literario"
+  },
+  "miniatura": {
+    "linea1": "¿Pistas escondidas?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El libro de los símbolos trae sus propias pistas ⭐ #shorts",
+    "descripcion": "Apocalipsis está lleno de bestias, estrellas y candeleros. Muchos lo cierran asustados. Pero en el primer capítulo hay una pista que lo cambia todo.\n\nApocalipsis 1:20\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Apocalipsis está lleno de bestias, estrellas y candeleros. Muchos lo cierran asustados. Pero en el primer capítulo hay una pista que lo cambia todo.",
+      "texto_pantalla": "¿Pistas escondidas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "seven golden oil lamps on dark background"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Apocalipsis es profecía apocalíptica, un género que comunica con símbolos. Por eso el tema del martes, el contexto literario, es clave. Mira el capítulo uno, versículo veinte: Juan ve siete estrellas y siete candeleros, y el mismo texto explica que las estrellas son los ángeles de las siete iglesias, y los candeleros, las siete iglesias. El libro te enseña a leerlo. No todo es literal, ni todo es imaginación: los símbolos tienen significado, y la Biblia suele darlo. Lee Apocalipsis junto con Daniel y el resto de la Escritura, y verás que en el centro está Jesús. Suscríbete para estudiar la lección cada día.",
+      "texto_pantalla": "¿Pistas escondidas?",
+      "referencia": "Apocalipsis 1:20",
+      "emocion": "agil",
+      "visual": {
+        "query": "starry night sky over mountains"
+      }
+    }
+  ]
+}

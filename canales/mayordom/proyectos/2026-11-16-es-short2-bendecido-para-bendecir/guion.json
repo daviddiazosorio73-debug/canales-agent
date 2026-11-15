@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "Tu bendición no termina en ti ✨",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "No termina en ti",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Tu bendición no termina en ti ✨ #shorts",
+    "descripcion": "Si Dios te bendijo este año, hay algo que probablemente nadie te dijo: esa bendición no era solo para ti. (Génesis 12:2, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "bendición",
+      "Abraham",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si Dios te bendijo este año, hay algo que probablemente nadie te dijo: esa bendición no era solo para ti.",
+      "texto_pantalla": "No termina en ti",
+      "emocion": "gancho",
+      "visual": {
+        "query": "river flowing valley morning"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Génesis doce, versículo dos, Dios le promete a Abraham que lo bendecirá, y en la misma frase le dice que él será bendición. La bendición de Abraham debía pasar a través de él hacia otros. Lo mismo pasa contigo. Tu salario, tu casa, tu experiencia, tu tiempo: todo eso puede convertirse en el camino por donde Dios llega a alguien más. No es una carga. Es un privilegio. Hoy piensa en una persona a la que puedas bendecir con algo que Dios ya te dio. Y escribe en los comentarios: bendecido para bendecir.",
+      "texto_pantalla": "No termina en ti",
+      "referencia": "Génesis 12:2",
+      "emocion": "agil",
+      "visual": {
+        "query": "hands passing gift box"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "Nadie le exigió nada a Zaqueo. Y dio la mitad 🌳",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Nadie se lo exigió",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Nadie le exigió nada a Zaqueo. Y dio la mitad 🌳 #shorts",
+    "descripcion": "Un hombre rico, con mala fama, se sube a un árbol para ver a Jesús. Esa misma tarde decide dar la mitad de sus bienes. (Lucas 19:1-10, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Zaqueo",
+      "conversión",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un hombre rico, con mala fama, se sube a un árbol para ver a Jesús. Esa misma tarde decide dar la mitad de sus bienes.",
+      "texto_pantalla": "Nadie se lo exigió",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sycamore tree branches sunlight"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Lucas diecinueve. Zaqueo era jefe de los cobradores de impuestos en Jericó. Jesús lo miró y le dijo que ese día se quedaría en su casa. Y allí, sin que nadie se lo pidiera, Zaqueo anunció que daría la mitad de sus bienes a los pobres y que devolvería cuatro veces más a quien hubiera defraudado. Jesús dijo que ese día había llegado la salvación a esa casa. La generosidad no compró el encuentro. Fue la prueba de que el encuentro había ocurrido. Que este sábado que comienza te encuentre con el corazón abierto. Feliz sábado.",
+      "texto_pantalla": "Nadie se lo exigió",
+      "referencia": "Lucas 19:1-10",
+      "emocion": "calido",
+      "visual": {
+        "query": "family dinner candle evening"
+      }
+    }
+  ]
+}

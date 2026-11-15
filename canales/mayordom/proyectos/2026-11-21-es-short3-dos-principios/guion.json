@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "Dos principios en guerra… y tú eliges uno ⚔️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Tomar o dar?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dos principios en guerra… y tú eliges uno ⚔️ #shorts",
+    "descripcion": "Hay dos principios en guerra desde el principio del mundo. Uno toma. El otro da. Y cada día eliges a cuál sirves. (Juan 10:10, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Elena de White",
+      "consejos sobre mayordomía cristiana",
+      "gran conflicto"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-22T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay dos principios en guerra desde el principio del mundo. Uno toma. El otro da. Y cada día eliges a cuál sirves.",
+      "texto_pantalla": "¿Tomar o dar?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "light and shadow contrast wall"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús lo resumió en Juan diez, versículo diez: el ladrón viene para hurtar, matar y destruir; él vino para que tengamos vida, y vida en abundancia. Tomar o dar. Retener o compartir. El lunes empezamos el capítulo cuatro de Consejos sobre mayordomía cristiana, de Elena de White: Principios conflictivos de Cristo y Satanás. Vamos a ver cómo esa guerra se libra también en tu billetera, tu agenda y tu corazón. Lunes a las seis de la tarde. Suscríbete y activa la campana.",
+      "texto_pantalla": "¿Tomar o dar?",
+      "referencia": "Juan 10:10",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "chess pieces dark light board"
+      }
+    }
+  ]
+}

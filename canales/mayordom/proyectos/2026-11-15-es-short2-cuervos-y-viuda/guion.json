@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "Primero usó cuervos. Después, a una viuda pobre. ¿Por qué? 🐦",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Cuervos… y una viuda",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Primero usó cuervos. Después, a una viuda pobre. ¿Por qué? 🐦 #shorts",
+    "descripcion": "Dios alimentó a un profeta con cuervos. Y de pronto cambió de plan: lo mandó a casa de una viuda que casi no tenía nada. (1 Reyes 17:4-16, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Elías",
+      "viuda de Sarepta",
+      "provisión de Dios"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dios alimentó a un profeta con cuervos. Y de pronto cambió de plan: lo mandó a casa de una viuda que casi no tenía nada.",
+      "texto_pantalla": "Cuervos… y una viuda",
+      "emocion": "gancho",
+      "visual": {
+        "query": "raven perched rock stream"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pasa en primero de Reyes diecisiete. Los cuervos le llevaban a Elías pan y carne cada mañana y cada tarde. Pero el arroyo se secó, y Dios lo envió a Sarepta, donde una viuda solo tenía un puñado de harina y un poco de aceite. Ella compartió lo poco que tenía, y la harina no se acabó ni el aceite faltó hasta que volvió la lluvia. Los cuervos alimentaron al profeta. La viuda, al dar, fue alimentada ella misma. Dios no la incluyó para quitarle. La incluyó para bendecirla.",
+      "texto_pantalla": "Cuervos… y una viuda",
+      "referencia": "1 Reyes 17:4-16",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "clay jar flour kitchen"
+      }
+    }
+  ]
+}

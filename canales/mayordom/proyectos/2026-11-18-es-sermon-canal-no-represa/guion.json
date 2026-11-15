@@ -1,0 +1,144 @@
+{
+  "lang": "es",
+  "tipo": "sermon",
+  "fecha": "2026-11-18",
+  "serie": "Consejos sobre mayordomía cristiana · Capítulo 3",
+  "tema": "Canal, no represa: lo que el Mar Muerto enseña sobre administrar los bienes de Dios (capítulo 3, parte 2)",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿CANAL",
+    "linea2": "o REPRESA?",
+    "etiqueta": "MAYORDOMÍA BÍBLICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Canal o represa: lo que el Mar Muerto enseña sobre tu dinero | Mayordomía cristiana, capítulo 3",
+    "descripcion": "Dos mares reciben la misma agua: uno está lleno de vida y el otro se llama Mar Muerto. ¿Cuál se parece a tu vida? Sermón sobre el capítulo 3 de «Consejos sobre mayordomía cristiana», de Elena G. de White (pág. 25). Parte 2 de 3.\n\nEn este sermón: dos mares y una lección, José y el granero de Egipto, enriquecidos para dar, trabajar para tener qué compartir, por qué canal no es colador y tres pasos para esta semana.\n\n📖 Proverbios 11:24-25 · Génesis 41:47-57 · Génesis 45:5 · 2 Corintios 9:8-11 · Efesios 4:28 · Proverbios 6:6-8 · 1 Corintios 16:2 (citas parafraseadas; Reina-Valera 1960)\n\n💬 ¿Qué represa vas a abrir esta semana?\n🔔 Sermones lunes, miércoles y viernes a las 18:00 (Lima).\nNarración con voz sintética.",
+    "tags": [
+      "mayordomía cristiana",
+      "consejos sobre mayordomía cristiana",
+      "Elena de White",
+      "generosidad",
+      "Mar Muerto y mar de Galilea",
+      "José en Egipto",
+      "sermón adventista",
+      "mayordomía bíblica",
+      "finanzas cristianas",
+      "ahorro y generosidad",
+      "2 Corintios 9"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "Generosidad",
+      "Sermón"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "Hay dos mares en la tierra de Israel que reciben agua del mismo río, el Jordán. Uno está lleno de vida: pescadores, barcas, aves. En sus orillas Jesús llamó a sus primeros discípulos. El otro se llama Mar Muerto, y en sus aguas los peces no sobreviven. Mismo río. Misma agua. ¿Qué los hace tan distintos? La respuesta tiene que ver con algo que tú haces cada mes con tu dinero, aunque no lo notes. Hoy seguimos con el capítulo tres de Consejos sobre mayordomía cristiana: ¿por qué Dios emplea a los hombres como encargados de distribuir sus recursos? El lunes vimos que no es porque Dios necesite ayuda. Hoy vamos a ver qué le pasa a una persona cuando lo que Dios le da entra, pero no sale. Y al final te voy a preguntar cuál de los dos mares se parece más a tu vida. Quédate conmigo.",
+      "emocion": "gancho",
+      "visual": {
+        "query": "dead sea salt shore"
+      }
+    },
+    {
+      "id": "repaso",
+      "capitulo": "Lo que vimos el lunes",
+      "texto": "Hagamos un repaso rápido. El lunes vimos que Dios es dueño de todo y no depende de nadie. En el Salmo cincuenta dice que suyo es el mundo y su plenitud. Vimos a Elías alimentado por cuervos y luego por una viuda pobre que, al compartir, fue sostenida ella misma. Y vimos a Jesús multiplicar cinco panes y dos peces, pero dejar el reparto en manos de sus discípulos. La conclusión fue clara: Dios no nos incluye porque le falte algo, sino porque quiere bendecirnos a nosotros mientras bendecimos a otros. Hoy damos un paso más. Si Dios diseñó a sus hijos para ser canales, ¿qué pasa cuando un canal se convierte en represa? Y, al mismo tiempo, ¿cómo se ve un canal sabio, que no se vacía sin sentido?",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "open bible wooden desk"
+      }
+    },
+    {
+      "id": "idea1",
+      "capitulo": "1. Dos mares, una lección",
+      "texto": "Volvamos a los dos mares. El mar de Galilea recibe el agua del Jordán por el norte y la deja salir por el sur. El agua entra y sigue su camino. Por eso hay vida. El Mar Muerto recibe esa misma agua, pero no tiene salida. El agua solo se evapora y deja la sal acumulada. No le falta agua: le falta salida. El libro de Proverbios, capítulo once, versículos veinticuatro y veinticinco, describe esa misma paradoja en la vida humana. Dice que hay quienes reparten y reciben más, y hay quienes retienen más de lo justo y terminan en pobreza. Y añade que el alma generosa será prosperada, y el que sacia a otros también será saciado. Fíjate: no dice que el generoso tendrá siempre más dinero. Dice que su alma prospera. La persona que solo acumula puede tener cuentas llenas y un corazón salado. La que deja fluir lo que recibe se mantiene viva por dentro.",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "sea of galilee fishing boat"
+      },
+      "referencia": "Proverbios 11:24-25"
+    },
+    {
+      "id": "idea2",
+      "capitulo": "2. José, el administrador del granero",
+      "texto": "Ahora mira a un hombre que entendió para qué le daban recursos. En Génesis cuarenta y uno, José, el hijo de Jacob, llega a ser administrador de Egipto. Dios le muestra que vendrán siete años de abundancia y luego siete de hambre. Durante los años buenos, José no se dedica a disfrutar del poder. Junta el grano en las ciudades, en cantidades tan grandes que dejaron de contarlo. Y cuando llega el hambre, abre los graneros. Los egipcios compran alimento, y de todas las tierras llegan a Egipto a comprar grano, porque el hambre era fuerte en todo el mundo conocido. Años después, José les dice a sus hermanos que Dios lo había enviado delante de ellos para preservar vida. Esa es la clave del capítulo de esta semana. José no era el dueño del grano ni el que hacía llover. Era el administrador que Dios puso en el lugar correcto para que los recursos llegaran a quienes los necesitaban. Y gracias a esa administración, su propia familia, la familia de la promesa, sobrevivió.",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "grain storage ancient granary"
+      },
+      "referencia": "Génesis 41:47-57 · Génesis 45:5"
+    },
+    {
+      "id": "idea3",
+      "capitulo": "3. Enriquecidos para dar",
+      "texto": "El apóstol Pablo explica el mismo diseño en segunda de Corintios nueve, versículos ocho al once. Dice que Dios es poderoso para hacer que abunde en nosotros toda gracia, para que, teniendo siempre lo suficiente, abundemos para toda buena obra. Y luego dice algo muy directo: que somos enriquecidos en todo para toda generosidad, la cual produce acción de gracias a Dios. Lee despacio el propósito. Enriquecidos, ¿para qué? Para toda generosidad. Dios no te da solo para que sobrevivas. Te da lo suficiente para ti y algo más para que puedas participar en su obra. Y fíjate en el resultado final: acción de gracias a Dios. Cuando un hermano recibe ayuda a través de ti, no termina agradeciéndote solo a ti. Termina alabando a Dios. Tu generosidad se convierte en un testimonio de que Dios cuida de los suyos. Así, el recurso pasa por tus manos, pero la gloria vuelve a Dios.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "golden wheat field wind"
+      },
+      "referencia": "2 Corintios 9:8-11"
+    },
+    {
+      "id": "idea4",
+      "capitulo": "4. Trabajar para tener qué compartir",
+      "texto": "Hay un versículo que cambia la manera de ver el trabajo. En Efesios cuatro, versículo veintiocho, Pablo le habla a alguien que antes robaba. Le dice que ya no robe, sino que trabaje con sus manos en algo bueno, para tener qué compartir con el que padece necesidad. Fíjate en el cambio. El ladrón toma de otros para sí mismo. El cristiano trabaja para sí mismo y para otros. El propósito del trabajo no es solo pagar las cuentas. Es convertir tus horas de esfuerzo en una bendición que puede llegar más lejos que tú. Esto dignifica cualquier oficio. El taxista, la vendedora del mercado, el ingeniero, la enfermera y el agricultor pueden decir lo mismo: Dios me da fuerzas para trabajar, y parte de lo que gano lo uso para que su bondad llegue a otros. Ningún trabajo honrado es demasiado pequeño para ser parte del plan de Dios.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "carpenter hands working wood"
+      },
+      "referencia": "Efesios 4:28"
+    },
+    {
+      "id": "macedonia",
+      "capitulo": "Generosos en medio de la pobreza",
+      "texto": "Quizá estás pensando: eso está bien para quien tiene mucho, pero yo apenas llego a fin de mes. Mira entonces a las iglesias de Macedonia. En segunda de Corintios ocho, versículos uno al cinco, Pablo cuenta que esas iglesias estaban pasando por una gran prueba de tribulación y una profunda pobreza. Y, sin embargo, su gozo desbordó en una generosidad abundante. Dieron conforme a sus fuerzas, y aun más allá de sus fuerzas, y por su propia voluntad. Pablo dice que incluso les rogaban con insistencia que les permitieran participar en la ayuda para los hermanos de Jerusalén. Nadie los obligó. Ellos pidieron el privilegio de dar. Y Pablo revela el secreto: primero se dieron a sí mismos al Señor, y luego a los demás. Ese es el orden. El canal no depende del tamaño de la tubería, sino de que esté conectado a la fuente. Una persona con poco, pero entregada a Dios, puede ser un canal más abundante que alguien con mucho y el corazón cerrado.",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "village people sharing food"
+      },
+      "referencia": "2 Corintios 8:1-5"
+    },
+    {
+      "id": "equilibrio",
+      "capitulo": "Canal no es colador",
+      "texto": "Pero cuidado: ser canal no significa ser colador. José no repartió todo en los años de abundancia. Guardó, planificó y administró. Proverbios seis nos manda mirar a la hormiga, que prepara en el verano su comida. Ahorrar, pagar tus deudas y planificar para tu familia también es mayordomía. La diferencia entre el Mar Muerto y un buen administrador no es que uno guarda y el otro no. Es para qué guarda. El Mar Muerto retiene sin propósito. José guardó con un propósito: preservar vida. Por eso, la pregunta no es solo cuánto das. También es: ¿lo que guardas tiene un propósito que agrada a Dios? ¿O se ha convertido en sal acumulada, que solo te da seguridad a ti? Un canal sabio tiene compuertas. Se abren a tiempo, con orden y con oración.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "glass jar coins savings"
+      },
+      "referencia": "Proverbios 6:6-8"
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Tu respuesta esta semana",
+      "texto": "Tres pasos para ser canal y no represa. Primero, separa al inicio, no al final. En primera de Corintios dieciséis, versículo dos, Pablo pide a los creyentes que cada primer día de la semana aparten algo según lo que hayan prosperado. Lo que se aparta primero, se entrega con alegría; lo que se deja para el final, casi nunca llega. Segundo, revisa tus represas. Busca en tu casa y en tu agenda cosas acumuladas sin uso: ropa, herramientas, libros, tiempo libre. Elige una y ponla a circular esta semana. Tercero, ponle nombre a tu propósito. Escribe para qué estás ahorrando y pregúntale a Dios si ese propósito está alineado con su voluntad. Si lo está, ahorra en paz. Si no, ajústalo. El objetivo no es quedarte sin nada. Es que nada de lo que tienes se quede sin propósito.",
+      "emocion": "calido",
+      "visual": {
+        "query": "envelope budget table hands"
+      },
+      "referencia": "1 Corintios 16:2"
+    },
+    {
+      "id": "cierre",
+      "capitulo": "Reflexión y oración",
+      "texto": "Te prometí una pregunta al inicio. Aquí está: si tu vida fuera uno de esos dos mares, ¿cuál sería? ¿Un mar donde el agua entra y sigue su camino, lleno de vida? ¿O un mar que recibe mucho, pero no deja salir casi nada? No respondas rápido. Mira tu cuenta, tu agenda y tu corazón. Lo bueno es que, a diferencia del Mar Muerto, tú puedes abrir una salida hoy. Oremos. Señor, gracias por todo lo que entra en nuestra vida cada día. No queremos ser represas. Haz de nosotros canales por donde tu bondad llegue a otros, con generosidad y con sabiduría, como José. Danos propósito para lo que guardamos y alegría para lo que damos. En el nombre de Jesús, amén. Mañana jueves, a las seis de la tarde, el análisis más pedido de la semana: ¿qué hago si el diezmo se usa mal? Y el viernes cerramos el capítulo tres con la razón más profunda por la que Dios te usa. Suscríbete y cuéntame en los comentarios: ¿qué represa vas a abrir esta semana?",
+      "emocion": "oracion",
+      "visual": {
+        "query": "calm lake sunset reflection"
+      }
+    }
+  ]
+}

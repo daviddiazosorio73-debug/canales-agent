@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "Até o inimigo citou a Bíblia 😮",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La Biblia como su propia intérprete"
+  },
+  "miniatura": {
+    "linea1": "Ele citou a Bíblia?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Até o inimigo citou a Bíblia 😮 #shorts",
+    "descripcion": "Houve um dia em que o inimigo de Deus citou a Bíblia. Palavra por palavra. E, mesmo assim, estava enganando. Como desarmar algo assim?\n\nMateus 4:5-7\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Houve um dia em que o inimigo de Deus citou a Bíblia. Palavra por palavra. E, mesmo assim, estava enganando. Como desarmar algo assim?",
+      "texto_pantalla": "Ele citou a Bíblia?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "desert mountain peak dramatic sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Aconteceu no deserto, em Mateus quatro. O tentador levou Jesus ao pináculo do templo e usou um salmo para convidá-lo a se jogar lá de cima. Um versículo arrancado do seu lugar. Jesus não discutiu nem duvidou da Bíblia. Respondeu que também está escrito, e citou outra passagem: não se deve tentar o Senhor. Essa é a chave de domingo: a Bíblia como sua própria intérprete. Um texto isolado pode ser distorcido; a Escritura inteira esclarece a si mesma. Antes de construir uma crença sobre um versículo, pergunte o que o resto da Bíblia diz sobre o mesmo assunto. Comente «Está escrito» se você vai praticar isso hoje.",
+      "texto_pantalla": "Ele citou a Bíblia?",
+      "referencia": "Mateus 4:5-7",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible on stone wall sunlight"
+      }
+    }
+  ]
+}

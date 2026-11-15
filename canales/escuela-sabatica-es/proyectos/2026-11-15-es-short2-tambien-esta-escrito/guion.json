@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "Hasta el enemigo citó la Biblia 😮",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La Biblia como su propia intérprete"
+  },
+  "miniatura": {
+    "linea1": "¿Citó la Biblia?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Hasta el enemigo citó la Biblia 😮 #shorts",
+    "descripcion": "Hubo un día en que el enemigo de Dios citó la Biblia. Palabra por palabra. Y aun así, estaba engañando. ¿Cómo se desarma algo así?\n\nMateo 4:5-7\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hubo un día en que el enemigo de Dios citó la Biblia. Palabra por palabra. Y aun así, estaba engañando. ¿Cómo se desarma algo así?",
+      "texto_pantalla": "¿Citó la Biblia?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "desert mountain peak dramatic sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pasó en el desierto, en Mateo cuatro. El tentador llevó a Jesús al pináculo del templo y usó un salmo para invitarlo a lanzarse al vacío. Un versículo sacado de su lugar. Jesús no discutió ni dudó de la Biblia. Respondió que también está escrito, y citó otro pasaje: no se debe tentar al Señor. Esa es la clave del domingo: la Biblia como su propia intérprete. Un texto aislado puede torcerse; la Escritura completa se aclara a sí misma. Antes de construir una creencia sobre un versículo, pregúntate qué dice el resto de la Biblia sobre el mismo tema. Comenta «Escrito está» si hoy lo vas a practicar.",
+      "texto_pantalla": "¿Citó la Biblia?",
+      "referencia": "Mateo 4:5-7",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible on stone wall sunlight"
+      }
+    }
+  ]
+}

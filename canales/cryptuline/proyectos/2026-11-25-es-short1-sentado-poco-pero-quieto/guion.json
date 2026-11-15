@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Te sientas poco pero no te mueves: el dato que sorprende",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Sentarte poco basta?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Te sientas poco pero no te mueves: el dato que sorprende #shorts",
+    "descripcion": "Te sientas poco pero no te mueves: el dato que sorprende.\n\n📚 Fuentes (PubMed):\n• Ekelund U, Steene-Johannessen J, Brown WJ, Fagerland MW, Owen N, Powell KE, et al. Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. 2016;388(10051):1302-10. https://pubmed.ncbi.nlm.nih.gov/27475271/ · https://doi.org/10.1016/S0140-6736(16)30370-1\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "actividad física",
+      "sedentarismo",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Te sientas menos de cuatro horas al día. ¿Eso basta para estar tranquilo?",
+      "texto_pantalla": "¿Sentarte poco basta?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "person standing still window"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Ekelund, con más de un millón de personas, hubo un dato que sorprende. Quienes se sentaban menos de cuatro horas al día, pero estaban en el grupo menos activo, tuvieron un veintisiete por ciento más de riesgo de morir durante el seguimiento, comparados con quienes se sentaban igual de poco y eran muy activos. Es decir, no basta con sentarse poco: moverse pesa mucho. Es un estudio observacional y la actividad se midió con cuestionarios, así que muestra asociación, no causa. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "brisk walking park morning"
+      }
+    }
+  ]
+}

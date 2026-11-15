@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "Más de 8 horas sentado y poca actividad: lo que encontró The Lancet",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "+8 horas sentado",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Más de 8 horas sentado y poca actividad: lo que encontró The Lancet #shorts",
+    "descripcion": "Más de 8 horas sentado y poca actividad: lo que encontró The Lancet.\n\n📚 Fuentes (PubMed):\n• Ekelund U, Steene-Johannessen J, Brown WJ, Fagerland MW, Owen N, Powell KE, et al. Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. 2016;388(10051):1302-10. https://pubmed.ncbi.nlm.nih.gov/27475271/ · https://doi.org/10.1016/S0140-6736(16)30370-1\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "estar sentado",
+      "actividad física",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Más de ocho horas sentado al día y casi nada de actividad física. ¿Qué encontró un estudio con más de un millón de personas?",
+      "texto_pantalla": "+8 horas sentado",
+      "emocion": "gancho",
+      "visual": {
+        "query": "office worker tired desk evening"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Ekelund, publicado en The Lancet en dos mil dieciséis, el grupo de referencia fue el que se sentaba menos de cuatro horas y era el más activo. Este estudio encontró que quienes se sentaban más de ocho horas al día y estaban en el grupo menos activo tuvieron un cincuenta y nueve por ciento más de mortalidad durante el seguimiento. Es un riesgo relativo y un estudio observacional: muestra una asociación, no prueba causa, y el tiempo sentado se midió con cuestionarios. Mañana te cuento qué cantidad de movimiento se asoció con borrar esa diferencia. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "clock on office wall"
+      }
+    }
+  ]
+}

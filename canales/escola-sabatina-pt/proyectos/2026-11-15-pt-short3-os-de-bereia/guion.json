@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "A cidade que conferia o pregador 🔍",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La Biblia como su propia intérprete"
+  },
+  "miniatura": {
+    "linea1": "Conferir o pregador?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A cidade que conferia o pregador 🔍 #shorts",
+    "descripcion": "Numa cidade antiga, as pessoas faziam algo que hoje muitos não têm coragem de fazer: conferiam o que o pregador dizia. E a Bíblia as elogia por isso.\n\nAtos 17:11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Numa cidade antiga, as pessoas faziam algo que hoje muitos não têm coragem de fazer: conferiam o que o pregador dizia. E a Bíblia as elogia por isso.",
+      "texto_pantalla": "Conferir o pregador?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "reading glasses on open bible desk lamp night"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Atos dezessete, versículo onze. Quando Paulo pregou em Bereia, os ouvintes receberam a mensagem com muito interesse, mas todos os dias examinavam as Escrituras para ver se as coisas eram de fato assim. Não era desconfiança; era respeito pela Palavra. Lucas diz que eles eram mais nobres que os de Tessalônica. Esse é o espírito do tema de hoje: a Bíblia como sua própria intérprete. Nenhuma voz humana, por mais eloquente, está acima da Escritura. Ouça com abertura, depois abra sua Bíblia e compare. Ser como os bereanos não é ser difícil, é ser fiel. Inscreva-se para estudar a lição todos os dias.",
+      "texto_pantalla": "Conferir o pregador?",
+      "referencia": "Atos 17:11",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient greek city ruins sunrise"
+      }
+    }
+  ]
+}

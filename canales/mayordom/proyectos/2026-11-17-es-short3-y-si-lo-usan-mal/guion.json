@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "¿Y si usan mal tu diezmo? Esto hizo Jesús 👀",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Y si lo usan mal?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Y si usan mal tu diezmo? Esto hizo Jesús 👀 #shorts",
+    "descripcion": "Diezmas con sacrificio. Y un día ves una noticia de un líder religioso que gastó el dinero en lujos. ¿Debes seguir dando? (Levítico 27:30, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "diezmo mal usado",
+      "diezmo",
+      "debo seguir diezmando"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Diezmas con sacrificio. Y un día ves una noticia de un líder religioso que gastó el dinero en lujos. ¿Debes seguir dando?",
+      "texto_pantalla": "¿Y si lo usan mal?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "offering box church shadow"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es una de las preguntas más buscadas sobre el diezmo en estos días, y merece una respuesta seria. Levítico veintisiete, versículo treinta, dice que el diezmo es del Señor. Pero la Biblia también es durísima con quienes usan mal lo sagrado. Y hay una escena de Jesús en el templo, con líderes que abusaban de la gente, que casi nadie conecta con este tema. No te voy a dar la respuesta todavía. Este jueves a las seis de la tarde, en el canal, el análisis completo: diezmo mal usado, ¿dejo de diezmar? Suscríbete para no perderlo.",
+      "texto_pantalla": "Jueves 6 p. m.",
+      "referencia": "Levítico 27:30",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "ancient temple columns light"
+      }
+    }
+  ]
+}

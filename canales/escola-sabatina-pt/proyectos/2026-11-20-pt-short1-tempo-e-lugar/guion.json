@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "A regra que Ellen White pediu para ler seus escritos ⏳",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "Cómo leer los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "Que regra ela pediu?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A regra que Ellen White pediu para ler seus escritos ⏳ #shorts",
+    "descripcion": "Ellen White escreveu milhares de páginas de conselhos. Mas ela mesma pediu que se levasse algo em conta antes de aplicá-los. Se você esquecer isso, pode interpretá-la mal.\n\nMensagens Escolhidas, volume 1\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Ellen White escreveu milhares de páginas de conselhos. Mas ela mesma pediu que se levasse algo em conta antes de aplicá-los. Se você esquecer isso, pode interpretá-la mal.",
+      "texto_pantalla": "Que regra ela pediu?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old pocket watch on vintage letters"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Esse é o tema de sexta-feira da lição oito: como ler os escritos de Ellen White. Em Mensagens Escolhidas, volume um, ela explica que, ao considerar seus testemunhos, nada é descartado, mas o tempo e o lugar devem ser levados em conta. Ou seja, cada conselho nasceu numa situação concreta, para pessoas concretas. Ler bem significa perguntar: para quem ela escreveu? quando? por quê? e que princípio permanente isso ensina? É o mesmo cuidado que aplicamos à Bíblia: contexto histórico, contexto literário e significado. Assim evitamos tanto a rejeição quanto o uso extremo. Comente «Tempo e lugar» se aprendeu algo novo.",
+      "texto_pantalla": "Que regra ela pediu?",
+      "referencia": "Mensagens Escolhidas, volume 1",
+      "emocion": "agil",
+      "visual": {
+        "query": "stack of old handwritten letters on desk"
+      }
+    }
+  ]
+}

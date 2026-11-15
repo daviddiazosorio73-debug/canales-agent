@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "O versículo favorito que quase ninguém lê inteiro 📜",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto histórico-cultural"
+  },
+  "miniatura": {
+    "linea1": "Você lê inteiro?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O versículo favorito que quase ninguém lê inteiro 📜 #shorts",
+    "descripcion": "É um dos versículos mais compartilhados do mundo. Mas quase ninguém sabe para quem ele foi escrito primeiro… nem quanto tempo tiveram que esperar.\n\nJeremias 29:10-11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "É um dos versículos mais compartilhados do mundo. Mas quase ninguém sabe para quem ele foi escrito primeiro… nem quanto tempo tiveram que esperar.",
+      "texto_pantalla": "Você lê inteiro?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old sealed letter wax seal"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremias vinte e nove, onze: Deus diz que conhece os planos que tem para o seu povo, planos de paz e não de mal, para dar a eles um futuro e uma esperança. Lindo. Agora olhe o contexto histórico, o tema de segunda-feira. É uma carta enviada a judeus deportados para a Babilônia. E logo antes, no versículo dez, Deus diz que isso aconteceria depois de setenta anos. Não era promessa de solução rápida; era fidelidade a longo prazo, em pleno exílio. Conhecer a história não tira a força do texto. Multiplica. Você já esperou muito tempo por uma resposta de Deus? Comente «Setenta anos».",
+      "texto_pantalla": "Você lê inteiro?",
+      "referencia": "Jeremias 29:10-11",
+      "emocion": "agil",
+      "visual": {
+        "query": "quiet river at dusk lonely landscape"
+      }
+    }
+  ]
+}

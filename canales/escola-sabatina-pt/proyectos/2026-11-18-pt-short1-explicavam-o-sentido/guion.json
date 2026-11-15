@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "O dia em que um povo inteiro chorou ao entender a Bíblia 😢",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El significado del texto"
+  },
+  "miniatura": {
+    "linea1": "Por que choravam?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O dia em que um povo inteiro chorou ao entender a Bíblia 😢 #shorts",
+    "descripcion": "Um povo inteiro se reuniu numa praça para ouvir a leitura da lei. E, quando finalmente entenderam, começaram a chorar.\n\nNeemias 8:8-10\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um povo inteiro se reuniu numa praça para ouvir a leitura da lei. E, quando finalmente entenderam, começaram a chorar.",
+      "texto_pantalla": "Por que choravam?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient city square at dawn crowd silhouette"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Neemias oito. Depois do exílio, Esdras leu o livro da lei desde o amanhecer até o meio-dia. O versículo oito conta que liam com clareza e explicavam o sentido, para que o povo entendesse a leitura. Não bastava ouvir as palavras; era preciso captar o significado. Esse é o tema de quarta-feira. Ao entender, o povo chorou. Mas os líderes disseram que aquele dia era santo, que não ficassem tristes, porque a alegria do Senhor era a sua força. Quando o significado do texto chega ao coração, primeiro confronta e depois levanta. Compartilhe este vídeo com alguém que estuda com você.",
+      "texto_pantalla": "Por que choravam?",
+      "referencia": "Neemias 8:8-10",
+      "emocion": "agil",
+      "visual": {
+        "query": "old scroll unrolled on wooden podium"
+      }
+    }
+  ]
+}

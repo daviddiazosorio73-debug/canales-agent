@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "«Tudo posso»… será que significa isso mesmo? 💪",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto literario"
+  },
+  "miniatura": {
+    "linea1": "Tudo posso?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "«Tudo posso»… será que significa isso mesmo? 💪 #shorts",
+    "descripcion": "Aparece em camisetas, academias e estádios. Mas se você ler os dois versículos anteriores, esse texto famoso muda de cor.\n\nFilipenses 4:11-13\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Aparece em camisetas, academias e estádios. Mas se você ler os dois versículos anteriores, esse texto famoso muda de cor.",
+      "texto_pantalla": "Tudo posso?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "small barred window light in stone cell"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Filipenses quatro, treze: Paulo diz que tudo pode naquele que o fortalece. Agora aplique o tema de terça-feira, o contexto literário. Nos versículos onze e doze, Paulo explica que aprendeu a viver contente em qualquer situação: com fome ou saciado, na fartura ou na escassez. E ele escreve isso estando preso. Não está falando de vencer uma partida ou bater um recorde. Está falando de permanecer fiel e em paz quando tudo falta. Ler os versículos ao redor não tira o poder do texto: devolve a ele o seu verdadeiro poder. Que versículo famoso você quer que leiamos no contexto? Escreva nos comentários.",
+      "texto_pantalla": "Tudo posso?",
+      "referencia": "Filipenses 4:11-13",
+      "emocion": "agil",
+      "visual": {
+        "query": "simple bread and water on wooden table"
+      }
+    }
+  ]
+}

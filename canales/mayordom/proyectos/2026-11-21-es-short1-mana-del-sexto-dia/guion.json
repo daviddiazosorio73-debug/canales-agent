@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "El pan que no se dañaba solo un día a la semana 🍞",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Doble porción",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El pan que no se dañaba solo un día a la semana 🍞 #shorts",
+    "descripcion": "En el desierto, el maná que se guardaba se dañaba de un día para otro. Excepto un día a la semana. (Éxodo 16:22-26, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "sábado",
+      "provisión de Dios",
+      "descanso"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En el desierto, el maná que se guardaba se dañaba de un día para otro. Excepto un día a la semana.",
+      "texto_pantalla": "Doble porción",
+      "emocion": "gancho",
+      "visual": {
+        "query": "morning dew desert ground"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Éxodo dieciséis. Cada mañana, Israel recogía el maná justo para ese día; si guardaban para el siguiente, se echaba a perder. Pero el sexto día recogían el doble, y lo que guardaban para el sábado no se dañaba. Dios proveía de antemano para que su pueblo pudiera descansar. El sábado también es mayordomía: es confiar en que Dios cuida de lo tuyo mientras tú descansas en él. Hoy suelta las cuentas, las listas y los pendientes. El que proveyó el maná sigue proveyendo. Feliz sábado.",
+      "texto_pantalla": "Doble porción",
+      "referencia": "Éxodo 16:22-26",
+      "emocion": "calido",
+      "visual": {
+        "query": "peaceful sunrise meadow calm"
+      }
+    }
+  ]
+}

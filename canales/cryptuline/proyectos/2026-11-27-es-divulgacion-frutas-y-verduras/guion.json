@@ -1,0 +1,143 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-27",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Frutas y verduras: ¿cinco al día es un mito? Lo que encontraron casi dos millones de personas",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿5 AL DÍA",
+    "linea2": "ES UN MITO?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Frutas y verduras: ¿5 al día es un mito? Lo que dice la ciencia",
+    "descripcion": "Cinco al día: ¿recomendación con respaldo o simple eslogan? Un estudio publicado en Circulation siguió a 108 735 profesionales de la salud de Estados Unidos y reunió 26 cohortes con 1 892 885 participantes; otro metaanálisis en el International Journal of Epidemiology incluyó 95 estudios; y otro revisó los antioxidantes en la dieta y en la sangre. Te contamos qué cantidad se asoció con la menor mortalidad, qué pasa con los jugos y las papas, cómo leer un «13 % menos» y qué límites tiene la evidencia.\n\n💬 ¿Cuántas porciones de frutas y verduras comiste hoy? Cuéntanos.\n\n📚 Fuentes (PubMed):\n• Wang DD, Li Y, Bhupathiraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. 2021;143(17):1642-1654. https://pubmed.ncbi.nlm.nih.gov/33641343/ · https://doi.org/10.1161/CIRCULATIONAHA.120.048996\n• Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, et al. Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Int J Epidemiol. 2017;46(3):1029-1056. https://pubmed.ncbi.nlm.nih.gov/28338764/ · https://doi.org/10.1093/ije/dyw319\n• Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, Greenwood DC, et al. Dietary intake and blood concentrations of antioxidants and the risk of cardiovascular disease, total cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Am J Clin Nutr. 2018;108(5):1069-1091. https://pubmed.ncbi.nlm.nih.gov/30475962/ · https://doi.org/10.1093/ajcn/nqy097\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutas y verduras",
+      "cinco al día",
+      "nutrición",
+      "alimentación saludable",
+      "jugos de fruta",
+      "verduras de hoja verde",
+      "mitos de nutrición",
+      "metaanálisis",
+      "antioxidantes",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Nutrición",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Seguro lo has escuchado mil veces: come cinco porciones de frutas y verduras al día. Pero ¿de dónde sale ese número? ¿Es un eslogan bonito o tiene respaldo? Un equipo de investigadores reunió los datos de un millón ochocientas noventa y dos mil ochocientas ochenta y cinco personas para responderlo. Y hay más preguntas: ¿comer más es siempre mejor? ¿El jugo de naranja cuenta como fruta? ¿Y la papa cuenta como verdura? Hoy revisamos tres grandes trabajos y, al final, te digo qué cantidad se asoció con la menor mortalidad, y qué alimentos, sorprendentemente, no mostraron ninguna asociación.",
+      "texto_pantalla": "¿5 al día es un mito?",
+      "visual": {
+        "query": "colorful fruits vegetables market"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "¿Qué cuenta?",
+      "emocion": "ensenanza",
+      "texto": "Primero, aclaremos los términos. En estos estudios, las frutas y verduras se miden de dos maneras: en porciones o en gramos al día. No son lo mismo, así que cuando comparemos estudios, fíjate en la unidad. Además, no todo lo que crece en una planta se comporta igual en los análisis. Están las frutas enteras, los jugos de fruta, las verduras de hoja verde como la espinaca, las crucíferas como el brócoli y la col, y las verduras con mucho almidón, como la papa, el choclo o las arvejas. Esta separación será clave para entender los resultados.",
+      "texto_pantalla": "Porciones vs gramos",
+      "visual": {
+        "query": "broccoli spinach oranges apples table"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "Dos cohortes y 26 estudios",
+      "emocion": "narrativo",
+      "texto": "En dos mil veintiuno, Wang y un equipo de once investigadores publicaron en la revista Circulation un trabajo en dos partes. Primero, siguieron a sesenta y seis mil setecientas diecinueve mujeres del Estudio de Salud de las Enfermeras y a cuarenta y dos mil dieciséis hombres del Estudio de Seguimiento de Profesionales de la Salud, en Estados Unidos, durante cerca de treinta años. Al inicio, ninguno tenía enfermedad cardiovascular, cáncer ni diabetes. Su alimentación se midió con un cuestionario validado, repetido cada dos a cuatro años. Hubo treinta y tres mil ochocientas noventa y ocho muertes. Segundo, sumaron sus resultados a otros veinticuatro estudios prospectivos en un metaanálisis de dosis y respuesta: veintiséis cohortes, un millón ochocientas noventa y dos mil ochocientas ochenta y cinco personas y ciento cuarenta y cinco mil quince muertes.",
+      "texto_pantalla": "1 892 885 personas",
+      "referencia": "Wang DD, 2021 · Circulation",
+      "visual": {
+        "query": "researcher data charts laptop"
+      }
+    },
+    {
+      "id": "hallazgos",
+      "capitulo": "Lo que encontraron",
+      "emocion": "enfasis",
+      "texto": "Este estudio encontró que comer más frutas y verduras se asoció con menor mortalidad, pero no en línea recta. Comparado con dos porciones al día, comer cinco se asoció con un trece por ciento menos de mortalidad por cualquier causa, un doce por ciento menos por enfermedad cardiovascular, un diez por ciento menos por cáncer y un treinta y cinco por ciento menos por enfermedades respiratorias. El metaanálisis con casi dos millones de personas dio un resultado parecido: trece por ciento menos con cinco porciones al día. Y la mayoría de los subgrupos de frutas y verduras se asociaron con menor mortalidad, con algunas excepciones que te cuento en los mitos.",
+      "texto_pantalla": "5 porciones: −13 % mortalidad",
+      "referencia": "Wang DD, 2021 · Circulation",
+      "visual": {
+        "query": "fresh salad bowl healthy"
+      }
+    },
+    {
+      "id": "aune",
+      "capitulo": "El otro gran metaanálisis",
+      "emocion": "ensenanza",
+      "texto": "Un segundo trabajo lo publicó en dos mil diecisiete Dagfinn Aune, de la Universidad Noruega de Ciencia y Tecnología y del Imperial College de Londres, en el International Journal of Epidemiology. Reunió noventa y cinco estudios. Este estudio encontró que, por cada doscientos gramos más de frutas y verduras al día, hubo un ocho por ciento menos de enfermedad coronaria, un dieciséis por ciento menos de accidente cerebrovascular, un ocho por ciento menos de enfermedad cardiovascular, un tres por ciento menos de cáncer en total y un diez por ciento menos de mortalidad por cualquier causa. Las reducciones de riesgo se observaron hasta unos ochocientos gramos al día, y hasta seiscientos para el cáncer. Destacaron las manzanas y las peras, los cítricos, las verduras de hoja verde, las crucíferas y las ensaladas.",
+      "texto_pantalla": "Hasta 800 g al día",
+      "referencia": "Aune D, 2017 · Int J Epidemiol",
+      "visual": {
+        "query": "apples pears citrus leafy greens"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Vamos con los mitos. Mito uno: un vaso de jugo equivale a una fruta. En el estudio de Wang, los jugos de fruta no se asociaron con la mortalidad total ni por causas específicas. Mejor la fruta entera. Mito dos: la papa cuenta como verdura. Las papas tampoco mostraron asociación, y las verduras con mucho almidón, como las arvejas y el choclo, fueron la excepción entre las verduras. Mito tres: una pastilla de antioxidantes reemplaza a las frutas. Aune, en dos mil dieciocho, revisó sesenta y nueve estudios sobre vitamina C, carotenoides y vitamina E, en la dieta y en la sangre. Concluyó que los resultados respaldan comer más frutas y verduras, pero no usar suplementos antioxidantes. Mito cuatro: más es siempre mejor. Lo vemos en la respuesta.",
+      "texto_pantalla": "¿El jugo cuenta?",
+      "referencia": "Aune D, 2018 · Am J Clin Nutr",
+      "visual": {
+        "query": "orange juice glass whole oranges"
+      }
+    },
+    {
+      "id": "como_leer",
+      "capitulo": "Cómo leer un «13 % menos»",
+      "emocion": "ensenanza",
+      "texto": "Ahora, la enseñanza de hoy: ¿qué significa trece por ciento menos? Es un riesgo relativo. No quiere decir que trece de cada cien personas se salvan. Quiere decir que, en ese periodo, el riesgo de quienes comían cinco porciones fue un trece por ciento más bajo que el de quienes comían dos. Si el riesgo de partida es pequeño, la diferencia en números absolutos también lo es. Y los límites: son estudios observacionales, que no prueban causa y efecto. Quien come más frutas y verduras quizá fuma menos o se mueve más; los autores ajustaron por eso, pero siempre puede quedar algo sin medir. La dieta se midió con cuestionarios. Y las cohortes de Wang eran profesionales de la salud de Estados Unidos. Aune calculó que hasta siete coma ocho millones de muertes prematuras en el mundo, en dos mil trece, podrían atribuirse a comer menos de ochocientos gramos al día, pero con una condición: si las asociaciones son causales.",
+      "texto_pantalla": "Riesgo relativo ≠ absoluto",
+      "visual": {
+        "query": "calculator notebook percentages"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "ensenanza",
+      "texto": "Y ahora, la respuesta que te prometí. ¿Cinco al día es un mito? No. En el estudio de Wang, alrededor de cinco porciones al día, dos de fruta y tres de verduras, se asociaron con la menor mortalidad. Y por encima de ese nivel, comer más no se asoció con una reducción adicional del riesgo: la curva se aplana. Aune, midiendo en gramos y con otros estudios, vio reducciones hasta unos ochocientos gramos al día. No es una contradicción grave: usan unidades y métodos distintos. La idea común es clara: la mayoría de los beneficios asociados aparece al pasar de poco a una cantidad moderada. Y los alimentos que no mostraron asociación fueron los jugos de fruta y las papas.",
+      "texto_pantalla": "2 frutas + 3 verduras",
+      "referencia": "Wang DD, 2021 · Circulation",
+      "visual": {
+        "query": "two fruits three vegetables plate"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "En tu cocina",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer esta semana? Primero, cuenta cuántas porciones comes hoy, sin culpa, solo para saber de dónde partes. Segundo, suma una fruta entera en el desayuno y otra en la tarde, en lugar del jugo. Tercero, pon verduras en el almuerzo y en la cena: una ensalada, una sopa de verduras, brócoli o espinaca. Cuarto, varía los colores: cítricos, manzanas, hojas verdes. Desde el Edén, Dios dio al ser humano las plantas con semilla y los frutos como alimento, según Génesis uno, versículo veintinueve. Si tienes enfermedad renal, diabetes, tomas anticoagulantes o sigues una dieta especial, consulta a tu médico o a tu nutricionista antes de hacer cambios. El domingo volvemos a la salud espiritual. Suscríbete a Cryptuline y cuéntame cuántas porciones comiste hoy.",
+      "referencia": "Génesis 1:29",
+      "visual": {
+        "query": "cooking vegetables home kitchen"
+      }
+    }
+  ]
+}

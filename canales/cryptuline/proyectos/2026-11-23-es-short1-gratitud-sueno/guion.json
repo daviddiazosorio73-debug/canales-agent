@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "¿Dar gracias antes de dormir mejora tu sueño? Lo que dicen los ensayos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Gratitud y sueño?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Dar gracias antes de dormir mejora tu sueño? Lo que dicen los ensayos #shorts",
+    "descripcion": "¿Dar gracias antes de dormir mejora tu sueño? Lo que dicen los ensayos.\n\n📚 Fuentes (PubMed):\n• Boggiss AL, Consedine NS, Brenton-Peters JM, Hofman PL, Serlachius AS. A systematic review of gratitude interventions: Effects on physical health and health behaviors. J Psychosom Res. 2020;135:110165. https://pubmed.ncbi.nlm.nih.gov/32590219/ · https://doi.org/10.1016/j.jpsychores.2020.110165\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "gratitud",
+      "sueño",
+      "insomnio",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Escribir tres cosas por las que das gracias, antes de dormir, puede cambiar cómo duermes?",
+      "texto_pantalla": "¿Gratitud y sueño?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "gratitude journal bedside lamp"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Boggiss y su equipo, de la Universidad de Auckland, revisaron en dos mil veinte los ensayos aleatorizados de gratitud que midieron la salud física. De mil cuatrocientos treinta y tres artículos, solo diecinueve cumplieron los criterios. Este estudio encontró que la calidad del sueño, según lo que reportaron los participantes, mejoró en cinco de ocho estudios. Otros resultados físicos fueron mixtos o se estudiaron muy poco, y la mayoría de los estudios tenía algún riesgo de sesgo. Conclusión: es una señal prometedora, no una prueba firme. Si tienes insomnio persistente, habla con un profesional. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Boggiss AL, 2020 · J Psychosom Res",
+      "emocion": "agil",
+      "visual": {
+        "query": "peaceful sleep bedroom night"
+      }
+    }
+  ]
+}

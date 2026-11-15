@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "El problema no es tener dinero. Es esto 💔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "No es el dinero",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El problema no es tener dinero. Es esto 💔 #shorts",
+    "descripcion": "La Biblia no condena a nadie por tener bienes. Pero hace una pregunta que incomoda a todos. (1 Juan 3:17, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "egoísmo",
+      "amor al prójimo",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La Biblia no condena a nadie por tener bienes. Pero hace una pregunta que incomoda a todos.",
+      "texto_pantalla": "No es el dinero",
+      "emocion": "gancho",
+      "visual": {
+        "query": "closed door dark hallway"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primera de Juan tres, versículo diecisiete. Si alguien tiene bienes de este mundo, ve a su hermano en necesidad y le cierra su corazón, ¿cómo puede habitar en él el amor de Dios? El problema no es la cuenta bancaria. Es el corazón cerrado. Y el egoísmo casi nunca se presenta como pecado: se presenta como prudencia. Primero lo mío, cuando tenga más, ayudo. Hoy, si ves una necesidad que puedes atender, no la dejes pasar. Abre una puerta. Esta tarde a las seis, en el canal, cerramos el capítulo tres.",
+      "texto_pantalla": "No es el dinero",
+      "referencia": "1 Juan 3:17",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "door opening warm light"
+      }
+    }
+  ]
+}

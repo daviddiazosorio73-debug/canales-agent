@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "Dios podría hacerlo solo… pero eligió tus manos 🤲",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Por qué tus manos?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios podría hacerlo solo… pero eligió tus manos 🤲 #shorts",
+    "descripcion": "Dios puede hacer llover pan del cielo. Entonces, ¿por qué cuando alguien tiene hambre, te pone a ti en medio? (Salmos 50:12, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "generosidad",
+      "propósito"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dios puede hacer llover pan del cielo. Entonces, ¿por qué cuando alguien tiene hambre, te pone a ti en medio?",
+      "texto_pantalla": "¿Por qué tus manos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "rain clouds sunlight field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el Salmo cincuenta, Dios dice que suyo es el mundo y todo lo que contiene. No le falta nada. Y aun así, en toda la Biblia, elige repartir sus bienes a través de personas: una viuda, un muchacho con cinco panes, unos discípulos asustados. No porque necesite ayuda, sino porque quiere bendecirte mientras bendices a otros. Esta semana estudiamos el capítulo tres de Consejos sobre mayordomía cristiana, que hace exactamente esta pregunta. Mañana lunes a las seis de la tarde empieza el primer sermón. Mira tus manos hoy y pregúntale a Dios: ¿a quién quieres llegar a través de ellas?",
+      "texto_pantalla": "¿Por qué tus manos?",
+      "referencia": "Salmos 50:12",
+      "emocion": "agil",
+      "visual": {
+        "query": "open hands receiving light"
+      }
+    }
+  ]
+}

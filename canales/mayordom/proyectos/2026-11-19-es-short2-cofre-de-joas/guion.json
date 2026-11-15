@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "El cofre con un agujero que acabó con las dudas 🪵",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Un cofre con agujero",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El cofre con un agujero que acabó con las dudas 🪵 #shorts",
+    "descripcion": "El dinero llegaba al templo, pero el templo seguía sin repararse. Un rey tomó una decisión muy práctica. (2 Reyes 12:9-15, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "transparencia",
+      "diezmo",
+      "rey Joás"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El dinero llegaba al templo, pero el templo seguía sin repararse. Un rey tomó una decisión muy práctica.",
+      "texto_pantalla": "Un cofre con agujero",
+      "emocion": "gancho",
+      "visual": {
+        "query": "wooden chest coins counting"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segundo de Reyes doce. El rey Joás vio que pasaban los años y las reparaciones no avanzaban. Entonces el sumo sacerdote Joiada puso un cofre con un agujero en la tapa junto al altar. Cuando se llenaba, el escriba del rey y el sumo sacerdote contaban juntos el dinero y lo entregaban directamente a los que hacían la obra. Y el texto dice que a esos encargados no se les pedía cuentas, porque trabajaban con fidelidad. La transparencia no es falta de fe. Es bíblica. Hoy a las seis de la tarde lo vemos a fondo en el canal.",
+      "texto_pantalla": "Un cofre con agujero",
+      "referencia": "2 Reyes 12:9-15",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "old wooden box lid closeup"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "¿Cinco porciones de frutas y verduras al día es un mito?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿5 al día?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Cinco porciones de frutas y verduras al día es un mito? #shorts",
+    "descripcion": "¿Cinco porciones de frutas y verduras al día es un mito?.\n\n📚 Fuentes (PubMed):\n• Wang DD, Li Y, Bhupathiraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. 2021;143(17):1642-1654. https://pubmed.ncbi.nlm.nih.gov/33641343/ · https://doi.org/10.1161/CIRCULATIONAHA.120.048996\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutas y verduras",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Cinco porciones de frutas y verduras al día. ¿Es un eslogan o tiene respaldo científico?",
+      "texto_pantalla": "¿5 al día?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "colorful fruits vegetables market"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Wang y su equipo publicaron en dos mil veintiuno, en la revista Circulation, un análisis con datos de un millón ochocientas noventa y dos mil ochocientas ochenta y cinco personas. Buscaron qué cantidad de frutas y verduras se asociaba con la menor mortalidad, y si comer más siempre era mejor. La respuesta tiene un número claro, y dos alimentos que no mostraron ninguna asociación. Son estudios observacionales: muestran asociación, no causa. Te lo explico completo este viernes a las seis de la tarde, hora de Lima. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Wang DD, 2021 · Circulation",
+      "emocion": "agil",
+      "visual": {
+        "query": "fruit bowl kitchen table"
+      }
+    }
+  ]
+}

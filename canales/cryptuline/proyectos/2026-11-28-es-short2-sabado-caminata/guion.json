@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "Una caminata de sábado y lo que dice la ciencia del movimiento",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Caminata hoy?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Una caminata de sábado y lo que dice la ciencia del movimiento #shorts",
+    "descripcion": "Una caminata de sábado y lo que dice la ciencia del movimiento.\n\n📚 Fuentes (PubMed):\n• Ekelund U, Steene-Johannessen J, Brown WJ, Fagerland MW, Owen N, Powell KE, et al. Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. 2016;388(10051):1302-10. https://pubmed.ncbi.nlm.nih.gov/27475271/ · https://doi.org/10.1016/S0140-6736(16)30370-1\n• Gale JT, Martin H, Haszard JJ, Peddie MC. The Acute Effects of Interrupting Prolonged Sitting With Regular Activity Breaks on Postprandial Glucose and Insulin in Adults: A Systematic Review and Meta-Analysis. Obes Rev. 2026;27(11):e70152. https://pubmed.ncbi.nlm.nih.gov/42070794/ · https://doi.org/10.1111/obr.70152\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "caminar",
+      "naturaleza",
+      "sábado",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Después de una semana sentado en la oficina, ¿qué tal una caminata tranquila en la naturaleza?",
+      "texto_pantalla": "¿Caminata hoy?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "family walking nature trail"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Ekelund, con más de un millón de personas, el grupo con más riesgo fue el que casi no se movía, se sentara mucho o poco. Y en los ensayos de Gale, las pausas cortas caminando redujeron la subida de glucosa después de comer. Un paseo en familia por un parque o el campo es una forma sencilla de moverte y de contemplar la creación. Son estudios observacionales y ensayos de un día: muestran asociaciones y efectos de corto plazo, no promesas. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Ekelund U, 2016 · Lancet · Gale JT, 2026 · Obes Rev",
+      "emocion": "agil",
+      "visual": {
+        "query": "forest path sunlight"
+      }
+    }
+  ]
+}

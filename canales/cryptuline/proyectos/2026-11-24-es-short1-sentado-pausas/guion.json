@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Cada cuántos minutos levantarte de la silla, según los ensayos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cada cuánto pararte?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Cada cuántos minutos levantarte de la silla, según los ensayos #shorts",
+    "descripcion": "Cada cuántos minutos levantarte de la silla, según los ensayos.\n\n📚 Fuentes (PubMed):\n• Gale JT, Martin H, Haszard JJ, Peddie MC. The Acute Effects of Interrupting Prolonged Sitting With Regular Activity Breaks on Postprandial Glucose and Insulin in Adults: A Systematic Review and Meta-Analysis. Obes Rev. 2026;27(11):e70152. https://pubmed.ncbi.nlm.nih.gov/42070794/ · https://doi.org/10.1111/obr.70152\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "pausas activas",
+      "glucosa",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si trabajas sentado, ¿cada cuánto deberías levantarte? Hay ensayos que lo midieron en la sangre.",
+      "texto_pantalla": "¿Cada cuánto pararte?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "timer alarm desk office"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Gale y su equipo, de la Universidad de Otago, publicaron en dos mil veintiséis un metaanálisis con cincuenta y tres estudios de pausas cortas, de menos de diez minutos, durante largos periodos sentado. Este estudio encontró que las pausas redujeron la subida de glucosa y de insulina después de comer. Las pausas caminando tuvieron el mayor efecto, y levantarse cada quince a veinte minutos dio las mayores reducciones. Ojo: son ensayos de un solo día, en laboratorio; miden la sangre, no enfermedades. Hoy a las seis de la tarde, hora de Lima, el video completo. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gale JT, 2026 · Obes Rev",
+      "emocion": "agil",
+      "visual": {
+        "query": "person walking office hallway"
+      }
+    }
+  ]
+}

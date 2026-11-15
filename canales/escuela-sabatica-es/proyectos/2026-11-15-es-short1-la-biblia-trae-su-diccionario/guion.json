@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "La Biblia trae su propio diccionario 🔑",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La Biblia como su propia intérprete"
+  },
+  "miniatura": {
+    "linea1": "¿Su propio diccionario?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La Biblia trae su propio diccionario 🔑 #shorts",
+    "descripcion": "¿Sabías que la Biblia trae su propio diccionario? Hay símbolos proféticos que parecen imposibles de entender… hasta que miras unas páginas más adelante.\n\nDaniel 8:20-21\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-15T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Sabías que la Biblia trae su propio diccionario? Hay símbolos proféticos que parecen imposibles de entender… hasta que miras unas páginas más adelante.",
+      "texto_pantalla": "¿Su propio diccionario?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old dictionary pages magnifying glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es el tema del domingo de la lección ocho: la Biblia como su propia intérprete. En Daniel ocho aparecen un carnero con dos cuernos y un macho cabrío veloz. ¿Qué significan? No hace falta adivinar. En los versículos veinte y veintiuno, el mismo texto lo explica: el carnero representa a los reyes de Media y de Persia, y el macho cabrío, al rey de Grecia. Ese es el principio: antes de buscar respuestas afuera, deja que la Escritura explique la Escritura. Compara texto con texto, como enseña Pablo en primera de Corintios dos, trece. ¿Qué símbolo bíblico te gustaría entender? Escríbelo en los comentarios.",
+      "texto_pantalla": "¿Su propio diccionario?",
+      "referencia": "Daniel 8:20-21",
+      "emocion": "agil",
+      "visual": {
+        "query": "ram and goat on rocky hillside"
+      }
+    }
+  ]
+}

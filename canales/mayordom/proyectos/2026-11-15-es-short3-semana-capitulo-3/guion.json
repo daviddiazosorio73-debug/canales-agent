@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-15",
+  "tema": "La pregunta incómoda de esta semana en MayorDom 📖",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Capítulo 3",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La pregunta incómoda de esta semana en MayorDom 📖 #shorts",
+    "descripcion": "Hay un capítulo de Elena de White cuyo título es una pregunta. Y casi nadie la ha respondido en voz alta. (1 Pedro 4:10, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Elena de White",
+      "consejos sobre mayordomía cristiana"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un capítulo de Elena de White cuyo título es una pregunta. Y casi nadie la ha respondido en voz alta.",
+      "texto_pantalla": "Capítulo 3",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old book open lamp night"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El capítulo tres de Consejos sobre mayordomía cristiana pregunta: ¿por qué Dios emplea a los hombres como los encargados de distribuir sus recursos? Esta semana lo respondemos en tres sermones: lunes, miércoles y viernes a las seis de la tarde. Pedro ya da una pista en su primera carta, capítulo cuatro: cada uno debe poner al servicio de los demás el don que recibió, como buen administrador de la gracia de Dios. Administrador, no dueño. El jueves, además, un análisis que muchos nos han pedido. Suscríbete y activa la campana. Feliz semana.",
+      "texto_pantalla": "Capítulo 3",
+      "referencia": "1 Pedro 4:10",
+      "emocion": "calido",
+      "visual": {
+        "query": "calendar notebook coffee morning"
+      }
+    }
+  ]
+}

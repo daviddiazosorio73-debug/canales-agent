@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "O teste do tempo que Deus deu ao seu povo ⏱️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Poniendo a prueba a los profetas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Que teste?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O teste do tempo que Deus deu ao seu povo ⏱️ #shorts",
+    "descripcion": "Israel tinha uma pergunta difícil: como saber se um profeta falava da parte de Deus? Moisés deu um teste que só o tempo pode responder.\n\nDeuteronômio 18:21-22\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-22T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Israel tinha uma pergunta difícil: como saber se um profeta falava da parte de Deus? Moisés deu um teste que só o tempo pode responder.",
+      "texto_pantalla": "Que teste?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hourglass with falling sand on old wooden table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Deuteronômio dezoito, versículos vinte e um e vinte e dois. Se um profeta fala em nome do Senhor e o que ele anuncia não acontece, essa palavra não veio do Senhor. É um dos testes bíblicos ligados à lição nove, Colocando os profetas à prova, cujo verso para memorizar é primeira João quatro, um. Mas esse teste não está sozinho: a Bíblia apresenta vários, e todos levam à mesma pergunta: esta mensagem está em harmonia com a Palavra de Deus? Deus não pede fé cega; ele convida você a examinar com a sua Palavra na mão. Comente que outro teste bíblico você conhece.",
+      "texto_pantalla": "Que teste?",
+      "referencia": "Deuteronômio 18:21-22",
+      "emocion": "agil",
+      "visual": {
+        "query": "mountain trail with stone markers"
+      }
+    }
+  ]
+}

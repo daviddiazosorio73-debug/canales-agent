@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Más de un millón de personas y una pregunta: ¿cuánto pasas sentado?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuántas horas sentado?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Más de un millón de personas y una pregunta: ¿cuánto pasas sentado? #shorts",
+    "descripcion": "Más de un millón de personas y una pregunta: ¿cuánto pasas sentado?.\n\n📚 Fuentes (PubMed):\n• Ekelund U, Steene-Johannessen J, Brown WJ, Fagerland MW, Owen N, Powell KE, et al. Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. 2016;388(10051):1302-10. https://pubmed.ncbi.nlm.nih.gov/27475271/ · https://doi.org/10.1016/S0140-6736(16)30370-1\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "estar sentado",
+      "sedentarismo",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Trabajo, auto, celular, televisión. ¿Cuántas horas pasas sentado al día? Más de un millón de personas fueron estudiadas por esto.",
+      "texto_pantalla": "¿Cuántas horas sentado?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "person sitting couch phone evening"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Ekelund y un equipo internacional reunieron en The Lancet, en dos mil dieciséis, los datos de un millón cinco mil setecientas noventa y una personas, seguidas entre dos y dieciocho años. Querían saber si la actividad física compensa el riesgo asociado a estar sentado muchas horas. La respuesta tiene un número concreto, y un giro con la televisión que casi nadie conoce. Es un estudio observacional: muestra asociaciones, no prueba causa y efecto. Te lo explico completo este martes a las seis de la tarde, hora de Lima, en el canal. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "office chairs empty rows"
+      }
+    }
+  ]
+}

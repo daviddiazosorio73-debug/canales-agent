@@ -1,0 +1,149 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-24",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Estar sentado mucho tiempo: ¿cuánto movimiento compensa el riesgo? Metaanálisis con más de un millón de personas",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "insignia": true,
+  "res_4k": true,
+  "titulos_alternativos": [
+    "Estar sentado 8 horas al día: ¿cuánto movimiento compensa el riesgo?",
+    "Estar sentado todo el día: lo que enseñan más de un millón de personas",
+    "Estar sentado, ¿el nuevo cigarrillo? Lo que la ciencia sí encontró"
+  ],
+  "miniatura": {
+    "linea1": "¿8 HORAS",
+    "linea2": "SENTADO?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Estar sentado 8 horas al día: ¿cuánto movimiento compensa el riesgo?",
+    "descripcion": "Trabajo, auto, celular, televisión: pasamos horas sentados. Un metaanálisis publicado en The Lancet reunió datos de 1 005 791 personas para responder una pregunta concreta: ¿la actividad física compensa el riesgo asociado a estar sentado muchas horas? Y dos revisiones de ensayos aleatorizados probaron qué pasa con la glucosa y la insulina cuando interrumpes el tiempo sentado con pausas cortas. Te contamos qué encontraron, por qué la televisión tiene un giro aparte, los mitos más repetidos y los límites de la evidencia. Si tienes una enfermedad del corazón, de las articulaciones o cualquier condición médica, consulta a tu médico antes de aumentar tu actividad física.\n\n💬 ¿Cuántas horas pasas sentado al día? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Ekelund U, Steene-Johannessen J, Brown WJ, Fagerland MW, Owen N, Powell KE, et al. Does physical activity attenuate, or even eliminate, the detrimental association of sitting time with mortality? A harmonised meta-analysis of data from more than 1 million men and women. Lancet. 2016;388(10051):1302-10. https://pubmed.ncbi.nlm.nih.gov/27475271/ · https://doi.org/10.1016/S0140-6736(16)30370-1\n• Gale JT, Martin H, Haszard JJ, Peddie MC. The Acute Effects of Interrupting Prolonged Sitting With Regular Activity Breaks on Postprandial Glucose and Insulin in Adults: A Systematic Review and Meta-Analysis. Obes Rev. 2026;27(11):e70152. https://pubmed.ncbi.nlm.nih.gov/42070794/ · https://doi.org/10.1111/obr.70152\n• Buffey AJ, Herring MP, Langley CK, Donnelly AE, Carson BP. The Acute Effects of Interrupting Prolonged Sitting Time in Adults with Standing and Light-Intensity Walking on Biomarkers of Cardiometabolic Health in Adults: A Systematic Review and Meta-analysis. Sports Med. 2022;52(8):1765-1787. https://pubmed.ncbi.nlm.nih.gov/35147898/ · https://doi.org/10.1007/s40279-022-01649-4\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "estar sentado",
+      "sedentarismo",
+      "tiempo sentado",
+      "actividad física",
+      "pausas activas",
+      "caminar",
+      "glucosa",
+      "salud",
+      "mitos de salud",
+      "metaanálisis",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Salud",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Un equipo internacional reunió los datos de un millón cinco mil setecientas noventa y una personas. Y encontró algo que debería hacernos pensar: entre quienes pasaban más de ocho horas al día sentados y casi no hacían actividad física, la mortalidad durante el seguimiento fue un cincuenta y nueve por ciento mayor que en el grupo de referencia. Ahora, piensa en tu día: el trabajo, el auto, el celular, la televisión. ¿Cuántas horas pasas sentado? La buena noticia es que el mismo estudio buscó algo más: si existe una cantidad de movimiento capaz de compensar ese riesgo. ¿Existe? ¿Y cuánta sería? Al final te doy la respuesta exacta, y te adelanto que la televisión tiene un giro inesperado.",
+      "texto_pantalla": "¿Cuánto movimiento compensa 8 horas sentado?",
+      "visual": {
+        "query": "office worker sitting desk long hours"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "Sentado no es lo mismo que inactivo",
+      "emocion": "ensenanza",
+      "texto": "Primero, dos conceptos que solemos mezclar. Uno es el tiempo sentado: las horas que pasas en una silla, en el auto o en el sofá. El otro es la actividad física: caminar rápido, montar bicicleta, subir escaleras, hacer deporte. Son cosas distintas. Puedes hacer una hora de ejercicio por la mañana y luego pasar diez horas sentado. O puedes estar casi todo el día de pie y no hacer ningún ejercicio. Los científicos miden la actividad en una unidad llamada MET-hora, que combina la intensidad del esfuerzo con el tiempo que dura. No hace falta memorizarla: basta saber que más MET-horas por semana significa más movimiento. Con estas dos piezas, el tiempo sentado y la actividad física, ya podemos entender el estudio.",
+      "texto_pantalla": "Sentado ≠ inactivo",
+      "visual": {
+        "query": "person walking stairs office"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "El metaanálisis de un millón",
+      "emocion": "narrativo",
+      "texto": "En dos mil dieciséis, Ulf Ekelund, de la Escuela Noruega de Ciencias del Deporte, publicó con un equipo internacional en la revista The Lancet un metaanálisis armonizado. Reunieron dieciséis estudios; trece tenían datos de tiempo sentado y mortalidad. Armonizado significa que no juntaron solo los resultados finales: reorganizaron los datos de cada estudio con las mismas categorías, para poder compararlos de verdad. Fueron un millón cinco mil setecientas noventa y una personas, seguidas entre dos y dieciocho años. En ese tiempo murieron ochenta y cuatro mil seiscientas nueve, alrededor del ocho por ciento. El grupo de referencia fueron quienes se sentaban menos de cuatro horas al día y estaban en el cuarto más activo. Este estudio encontró que, en los dos cuartos menos activos, la mortalidad fue entre un doce y un cincuenta y nueve por ciento mayor; el extremo fue sentarse más de ocho horas y moverse muy poco. Pero aquí está lo llamativo: en el cuarto más activo, el tiempo sentado no se asoció con más mortalidad. Quienes se sentaban más de ocho horas pero eran muy activos no tuvieron un riesgo mayor que el grupo de referencia. Y al revés: quienes se sentaban menos de cuatro horas, pero casi no se movían, tuvieron un veintisiete por ciento más de riesgo.",
+      "texto_pantalla": "+8 h sentado y poca actividad: +59 %",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "visual": {
+        "query": "crowd of people city aerial"
+      }
+    },
+    {
+      "id": "television",
+      "capitulo": "El giro de la televisión",
+      "emocion": "enfasis",
+      "texto": "Y ahora, el giro que te prometí. Seis de esos estudios tenían datos sobre tiempo frente a la televisión: cuatrocientas sesenta y cinco mil cuatrocientas cincuenta personas. Este estudio encontró que ver televisión tres horas o más al día se asoció con mayor mortalidad, sin importar la actividad física, excepto en el grupo más activo. Incluso en ese grupo, ver cinco horas o más al día se asoció con un dieciséis por ciento más de mortalidad. Es decir, con la televisión, el ejercicio ayudó, pero no borró del todo la asociación. ¿Por qué la televisión se comporta distinto que el resto del tiempo sentado? Este estudio no lo puede responder. Una posibilidad es que ver mucha televisión vaya junto con otros hábitos, como comer frente a la pantalla o dormir menos. Pero eso no se demostró aquí: es una pregunta abierta.",
+      "texto_pantalla": "TV 5 h/día: +16 % aun siendo activo",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "visual": {
+        "query": "person watching television couch evening"
+      }
+    },
+    {
+      "id": "pausas",
+      "capitulo": "Pausas que se notan en la sangre",
+      "emocion": "ensenanza",
+      "texto": "Si no puedes evitar estar sentado, ¿sirve pararse de vez en cuando? Aquí tenemos ensayos aleatorizados cruzados: la misma persona pasa un día sentada sin interrupciones y otro día con pausas, y se compara su glucosa y su insulina después de comer. En dos mil veintiséis, Jennifer Gale, de la Universidad de Otago, en Nueva Zelanda, publicó en Obesity Reviews un metaanálisis con cincuenta y tres estudios, treinta y nueve de ellos combinados. Las pausas duraban menos de diez minutos, al menos tres en tres horas. Este estudio encontró que las pausas redujeron la subida de glucosa y de insulina después de comer. Las pausas caminando tuvieron el mayor efecto, y levantarse cada quince a veinte minutos produjo las mayores reducciones. Otro metaanálisis, de Aidan Buffey, de la Universidad de Limerick, en dos mil veintidós, comparó estar de pie con caminar suave: estar de pie redujo la glucosa, pero no la insulina; caminar suave redujo ambas y fue mejor que solo pararse. Ninguna de las dos cambió la presión arterial en esos ensayos. Ojo: son efectos medidos en un solo día, en laboratorio. Nos dicen qué pasa en la sangre ese día, no si alguien vivirá más.",
+      "texto_pantalla": "Caminar cada 15-20 min",
+      "referencia": "Gale JT, 2026 · Buffey AJ, 2022",
+      "visual": {
+        "query": "office break walking hallway"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Vamos con los mitos. Mito uno: estar sentado es el nuevo cigarrillo. Es una frase muy repetida, pero el estudio no compara sentarse con fumar. Lo que muestra es que el riesgo asociado a estar sentado depende mucho de cuánto te mueves. Mito dos: si voy al gimnasio una hora, puedo ver televisión toda la tarde. Con la televisión, incluso los más activos tuvieron más mortalidad cuando veían cinco horas o más. Mito tres: basta con un escritorio de pie. Estar de pie ayudó con la glucosa, pero caminar suave fue mejor. Mito cuatro: si no es ejercicio intenso, no sirve. En los ensayos, pausas cortas caminando a ritmo suave ya mejoraron la glucosa después de comer.",
+      "texto_pantalla": "Mitos vs evidencia",
+      "visual": {
+        "query": "standing desk office"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Ahora, los límites. El metaanálisis de Ekelund es observacional: compara personas que ya vivían de forma distinta, y eso no prueba causa y efecto. El tiempo sentado y la actividad se midieron sobre todo con lo que las personas reportaron, y solemos calcular mal cuánto nos sentamos y cuánto nos movemos. También puede haber causalidad inversa: una persona enferma tiende a sentarse más y moverse menos, y no al revés. Los autores ajustaron por muchos factores, pero siempre puede quedar algo sin medir. Y los ensayos de pausas duran horas, con pocos participantes, y miden la glucosa y la insulina, no enfermedades ni años de vida.",
+      "texto_pantalla": "Asociación ≠ causa",
+      "visual": {
+        "query": "magnifying glass document"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "ensenanza",
+      "texto": "Y ahora, la respuesta exacta que te prometí. ¿Existe una cantidad de movimiento que compense estar sentado muchas horas? Según Ekelund y su equipo, niveles altos de actividad física de intensidad moderada, es decir, alrededor de sesenta a setenta y cinco minutos al día, parecen eliminar el aumento de riesgo de muerte asociado a estar mucho tiempo sentado. Con la televisión, esa misma actividad atenúa el riesgo, pero no lo elimina. Sesenta a setenta y cinco minutos al día es bastante, más de lo que muchas personas hacen hoy. Por eso la otra mitad de la respuesta es igual de importante: interrumpe el tiempo sentado. Y recuerda que el grupo con más riesgo fue el que casi no se movía, se sentara mucho o poco. Moverse es lo que más pesa.",
+      "texto_pantalla": "60-75 min al día",
+      "referencia": "Ekelund U, 2016 · Lancet",
+      "visual": {
+        "query": "brisk walking park morning"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu semana",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer desde hoy? Primero, pon una alarma cada veinte o treinta minutos y camina un par de minutos: al baño, por agua, por el pasillo. Segundo, suma minutos de caminata rápida durante el día, aunque sea en partes. Tercero, ponle un límite a la televisión; si la ves, levántate en cada pausa. Cuarto, haz las llamadas caminando. Y algo importante: si tienes una enfermedad del corazón, problemas en las articulaciones, diabetes o hace tiempo que no te mueves, consulta a tu médico antes de aumentar tu actividad física. El viernes, nutrición: ¿cinco porciones de frutas y verduras al día es un mito, o la ciencia lo respalda? Dos millones de personas responden. Suscríbete a Cryptuline y cuéntame en los comentarios cuántas horas pasas sentado.",
+      "visual": {
+        "query": "person stretching standing up from desk"
+      }
+    }
+  ]
+}

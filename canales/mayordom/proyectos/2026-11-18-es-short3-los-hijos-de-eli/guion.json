@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "Los sacerdotes que se quedaban con las ofrendas 😳",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Dios no lo pasó por alto",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Los sacerdotes que se quedaban con las ofrendas 😳 #shorts",
+    "descripcion": "Dos sacerdotes tomaban para ellos lo mejor de las ofrendas. Y lo hacían antes de que llegara al altar. (1 Samuel 2:12-17 · 1 Samuel 4:11, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "diezmo mal usado",
+      "hijos de Elí",
+      "diezmo"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dos sacerdotes tomaban para ellos lo mejor de las ofrendas. Y lo hacían antes de que llegara al altar.",
+      "texto_pantalla": "Dios no lo pasó por alto",
+      "emocion": "gancho",
+      "visual": {
+        "query": "altar fire smoke ancient"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Eran los hijos del sacerdote Elí, en primera de Samuel dos. El texto dice que su pecado era muy grande delante del Señor, porque la gente llegó a menospreciar las ofrendas. Y Dios no se quedó callado: ambos murieron el mismo día. El abuso con lo sagrado no es nuevo, y la Biblia nunca lo justifica. Pero entonces, ¿qué debe hacer el que da? ¿Retirarse? ¿Callar? ¿O hay un tercer camino? Este jueves a las seis de la tarde, en el canal, el análisis completo: diezmo mal usado, ¿dejo de diezmar? Suscríbete para no perderlo.",
+      "texto_pantalla": "Jueves 6 p. m.",
+      "referencia": "1 Samuel 2:12-17 · 1 Samuel 4:11",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "broken clay pot shadow"
+      }
+    }
+  ]
+}

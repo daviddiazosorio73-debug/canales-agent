@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "A pergunta que mudou a vida de um viajante 🛞",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El significado del texto"
+  },
+  "miniatura": {
+    "linea1": "Você entende o que lê?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A pergunta que mudou a vida de um viajante 🛞 #shorts",
+    "descripcion": "Um alto funcionário viajava em sua carruagem lendo um livro antigo. Um desconhecido se aproximou e fez uma única pergunta. Essa pergunta mudou a vida dele.\n\nAtos 8:30-35\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um alto funcionário viajava em sua carruagem lendo um livro antigo. Um desconhecido se aproximou e fez uma única pergunta. Essa pergunta mudou a vida dele.",
+      "texto_pantalla": "Você entende o que lê?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient chariot on dusty desert road"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Atos oito. Filipe ouviu o etíope lendo o profeta Isaías e perguntou se ele entendia o que estava lendo. O homem respondeu com humildade: como poderia, se ninguém me orienta? Ele lia sobre alguém levado como ovelha ao matadouro, e não sabia de quem o profeta falava. Filipe, começando por aquela mesma escritura, anunciou Jesus a ele. Esse é o tema de quarta-feira: o significado do texto. Ler nem sempre é entender. Por isso estudamos juntos, perguntamos e comparamos. E o significado mais profundo da profecia sempre nos leva a Cristo. Quem ajudou você a entender a Bíblia? Diga o nome nos comentários.",
+      "texto_pantalla": "Você entende o que lê?",
+      "referencia": "Atos 8:30-35",
+      "emocion": "agil",
+      "visual": {
+        "query": "hands holding old scroll reading"
+      }
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "¿Qué frutas y verduras destacaron en 95 estudios?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuáles destacaron?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Qué frutas y verduras destacaron en 95 estudios? #shorts",
+    "descripcion": "¿Qué frutas y verduras destacaron en 95 estudios?.\n\n📚 Fuentes (PubMed):\n• Aune D, Giovannucci E, Boffetta P, Fadnes LT, Keum N, Norat T, et al. Fruit and vegetable intake and the risk of cardiovascular disease, total cancer and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Int J Epidemiol. 2017;46(3):1029-1056. https://pubmed.ncbi.nlm.nih.gov/28338764/ · https://doi.org/10.1093/ije/dyw319\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "frutas",
+      "verduras",
+      "crucíferas",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si vas a sumar frutas y verduras, ¿por cuáles empezar? Un metaanálisis de noventa y cinco estudios da pistas.",
+      "texto_pantalla": "¿Cuáles destacaron?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "apples pears citrus leafy greens"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Aune, de dos mil diecisiete, se asociaron con menos enfermedad cardiovascular y menos mortalidad las manzanas y las peras, los cítricos, las verduras de hoja verde, las crucíferas, como el brócoli y la col, y las ensaladas. Las verduras verdes y amarillas y las crucíferas se asociaron, además, con menos cáncer en total. Son asociaciones de estudios observacionales, no pruebas de causa. La mejor idea: variedad de colores en tu plato. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2017 · Int J Epidemiol",
+      "emocion": "agil",
+      "visual": {
+        "query": "broccoli cabbage salad"
+      }
+    }
+  ]
+}

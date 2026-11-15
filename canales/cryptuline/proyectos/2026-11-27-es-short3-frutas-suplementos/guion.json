@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "¿Una pastilla de antioxidantes reemplaza a las frutas?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Pastilla o fruta?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Una pastilla de antioxidantes reemplaza a las frutas? #shorts",
+    "descripcion": "¿Una pastilla de antioxidantes reemplaza a las frutas?.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, Greenwood DC, et al. Dietary intake and blood concentrations of antioxidants and the risk of cardiovascular disease, total cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Am J Clin Nutr. 2018;108(5):1069-1091. https://pubmed.ncbi.nlm.nih.gov/30475962/ · https://doi.org/10.1093/ajcn/nqy097\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "antioxidantes",
+      "suplementos",
+      "vitamina C",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Vitamina C en pastillas, antioxidantes en cápsulas. ¿Reemplazan a las frutas y verduras?",
+      "texto_pantalla": "¿Pastilla o fruta?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "vitamin pills bottle versus fruit"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Aune y su equipo revisaron en dos mil dieciocho, en el American Journal of Clinical Nutrition, sesenta y nueve estudios prospectivos sobre vitamina C, carotenoides y vitamina E, en la dieta y en la sangre. Este estudio encontró que niveles más altos, como marcadores de comer frutas y verduras, se asociaron con menos enfermedad cardiovascular, cáncer y mortalidad. Pero su conclusión fue clara: los resultados respaldan comer más frutas y verduras, no usar suplementos antioxidantes. No tomes ni suspendas suplementos sin hablar con tu médico. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2018 · Am J Clin Nutr",
+      "emocion": "agil",
+      "visual": {
+        "query": "fresh berries citrus bowl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "Un sábado para no olvidar ningún beneficio",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Por qué das gracias?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Un sábado para no olvidar ningún beneficio #shorts",
+    "descripcion": "Un sábado para no olvidar ningún beneficio.\n\n📚 Fuentes (PubMed):\n• Chen Y, Okereke OI, Kim ES, Tiemeier H, Kubzansky LD, VanderWeele TJ. Gratitude and Mortality Among Older US Female Nurses. JAMA Psychiatry. 2024;81(10):1030-1038. https://pubmed.ncbi.nlm.nih.gov/38959002/ · https://doi.org/10.1001/jamapsychiatry.2024.1687\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "gratitud",
+      "sábado",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hoy es un buen día para detenerte. ¿Cuándo fue la última vez que diste gracias en voz alta?",
+      "texto_pantalla": "¿Por qué das gracias?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sabbath morning peaceful nature"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El Salmo ciento tres, versículo dos, nos invita a no olvidar ninguno de los beneficios de Dios. Y la ciencia también estudia la gratitud: en el estudio de Chen, con cuarenta y nueve mil doscientas setenta y cinco enfermeras mayores, el tercio más agradecido tuvo un nueve por ciento menos de mortalidad durante el seguimiento. Es una asociación modesta, en un estudio observacional, que no prueba causa. Hoy, en la mesa, comparte con tu familia un motivo de gratitud de la semana. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Salmo 103:2 · Chen Y, 2024 · JAMA Psychiatry",
+      "emocion": "agil",
+      "visual": {
+        "query": "family table bread gratitude"
+      }
+    }
+  ]
+}

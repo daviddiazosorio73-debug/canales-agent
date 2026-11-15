@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "La prueba del tiempo que Dios dio a su pueblo ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Poniendo a prueba a los profetas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "¿Qué prueba?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La prueba del tiempo que Dios dio a su pueblo ⏱️ #shorts",
+    "descripcion": "Israel tenía una pregunta difícil: ¿cómo saber si un profeta hablaba de parte de Dios? Moisés les dio una prueba que solo el tiempo puede responder.\n\nDeuteronomio 18:21-22\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-22T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Israel tenía una pregunta difícil: ¿cómo saber si un profeta hablaba de parte de Dios? Moisés les dio una prueba que solo el tiempo puede responder.",
+      "texto_pantalla": "¿Qué prueba?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hourglass with falling sand on old wooden table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Deuteronomio dieciocho, versículos veintiuno y veintidós. Si un profeta habla en nombre del Señor y lo que anuncia no sucede, esa palabra no vino del Señor. Es una de las pruebas bíblicas relacionadas con la lección nueve, Poniendo a prueba a los profetas, cuyo versículo para memorizar es primera de Juan cuatro, uno. Pero esta prueba no está sola: la Biblia presenta varias, y todas llevan a la misma pregunta: ¿este mensaje está en armonía con la Palabra de Dios? Dios no te pide fe ciega; te invita a examinar con su Palabra en la mano. Comenta qué otra prueba bíblica conoces.",
+      "texto_pantalla": "¿Qué prueba?",
+      "referencia": "Deuteronomio 18:21-22",
+      "emocion": "agil",
+      "visual": {
+        "query": "mountain trail with stone markers"
+      }
+    }
+  ]
+}

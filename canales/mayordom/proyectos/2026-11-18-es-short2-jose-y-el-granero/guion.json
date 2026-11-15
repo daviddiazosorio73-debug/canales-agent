@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "El hombre que guardó grano para salvar al mundo 🌾",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Guardar con propósito",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El hombre que guardó grano para salvar al mundo 🌾 #shorts",
+    "descripcion": "Siete años de abundancia. Siete años de hambre. Y un administrador que entendió para qué le daban recursos. (Génesis 41:47-57 · Génesis 45:5, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "José en Egipto",
+      "ahorro",
+      "finanzas cristianas"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Siete años de abundancia. Siete años de hambre. Y un administrador que entendió para qué le daban recursos.",
+      "texto_pantalla": "Guardar con propósito",
+      "emocion": "gancho",
+      "visual": {
+        "query": "grain storage ancient granary"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Génesis cuarenta y uno. José junta grano en los años buenos, tanto que dejaron de contarlo. Cuando llega el hambre, abre los graneros, y de todas las tierras llegan a Egipto a comprar alimento. Años después, les dice a sus hermanos que Dios lo envió delante de ellos para preservar vida. José no era el dueño del grano. Era el administrador puesto en el lugar correcto. Ahorrar no es egoísmo cuando tiene un propósito que agrada a Dios. Pregúntate hoy: lo que guardo, ¿para qué lo guardo?",
+      "texto_pantalla": "Guardar con propósito",
+      "referencia": "Génesis 41:47-57 · Génesis 45:5",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "golden wheat field wind"
+      }
+    }
+  ]
+}

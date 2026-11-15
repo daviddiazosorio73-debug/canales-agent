@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "Para que Deus deu a Bíblia a você? 🧰",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La presentación de las Escrituras"
+  },
+  "miniatura": {
+    "linea1": "Para que serve?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Para que Deus deu a Bíblia a você? 🧰 #shorts",
+    "descripcion": "Muita gente tem uma Bíblia em casa. Poucos sabem para que Deus a deu. Paulo resumiu isso em quatro funções.\n\n2 Timóteo 3:16-17\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muita gente tem uma Bíblia em casa. Poucos sabem para que Deus a deu. Paulo resumiu isso em quatro funções.",
+      "texto_pantalla": "Para que serve?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old bible on carpenter workbench with tools"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda Timóteo três, dezesseis e dezessete. Paulo diz que toda a Escritura é inspirada por Deus e útil para ensinar, para mostrar o erro, para corrigir e para formar no que é certo, para que a pessoa de Deus esteja preparada para toda boa obra. E segunda Pedro um, vinte e um, acrescenta que os profetas falaram movidos pelo Espírito Santo. Esse é o tema de quinta-feira: a apresentação das Escrituras. A Bíblia se apresenta como mensagem de Deus por meio de pessoas, com um propósito prático: formar você. Não é só para saber mais, mas para viver melhor. Inscreva-se e estude a lição todos os dias.",
+      "texto_pantalla": "Para que serve?",
+      "referencia": "2 Timóteo 3:16-17",
+      "emocion": "agil",
+      "visual": {
+        "query": "wind blowing through golden wheat field"
+      }
+    }
+  ]
+}

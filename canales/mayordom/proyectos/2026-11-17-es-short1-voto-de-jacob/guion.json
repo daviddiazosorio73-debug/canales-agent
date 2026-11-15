@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "Lo que Jacob prometió en una noche de miedo 🌙",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "De TODO",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo que Jacob prometió en una noche de miedo 🌙 #shorts",
+    "descripcion": "Un hombre huye de su casa, duerme con una piedra de almohada y esa noche hace una promesa a Dios que todavía nos habla. (Génesis 28:20-22, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "diezmo",
+      "Jacob",
+      "diezmo antes de la ley"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un hombre huye de su casa, duerme con una piedra de almohada y esa noche hace una promesa a Dios que todavía nos habla.",
+      "texto_pantalla": "De TODO",
+      "emocion": "gancho",
+      "visual": {
+        "query": "stone pillow desert night stars"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es Jacob, en Génesis veintiocho. Después de soñar con una escalera que llegaba al cielo, despierta y llama a ese lugar Betel, casa de Dios. Y promete que de todo lo que Dios le dé, apartará el diezmo para él. No dice de mi trigo. Dice de todo. Antes de la ley de Moisés, el diezmo ya aparecía como una forma de reconocer que Dios es la fuente de todo lo que recibimos. Hoy a las seis de la tarde analizamos una afirmación muy repetida en redes: que el diezmo era solo comida. Te espero en el canal.",
+      "texto_pantalla": "De TODO",
+      "referencia": "Génesis 28:20-22",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "sunrise stone pillar field"
+      }
+    }
+  ]
+}

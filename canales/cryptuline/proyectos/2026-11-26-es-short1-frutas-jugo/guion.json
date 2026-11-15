@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "¿El jugo de fruta cuenta como fruta? Lo que encontró la ciencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿El jugo cuenta?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿El jugo de fruta cuenta como fruta? Lo que encontró la ciencia #shorts",
+    "descripcion": "¿El jugo de fruta cuenta como fruta? Lo que encontró la ciencia.\n\n📚 Fuentes (PubMed):\n• Wang DD, Li Y, Bhupathiraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results From 2 Prospective Cohort Studies of US Men and Women and a Meta-Analysis of 26 Cohort Studies. Circulation. 2021;143(17):1642-1654. https://pubmed.ncbi.nlm.nih.gov/33641343/ · https://doi.org/10.1161/CIRCULATIONAHA.120.048996\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "jugos de fruta",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un vaso de jugo de naranja en el desayuno. ¿Cuenta como una porción de fruta?",
+      "texto_pantalla": "¿El jugo cuenta?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "orange juice glass whole oranges"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el estudio de Wang, publicado en Circulation en dos mil veintiuno, con más de cien mil profesionales de la salud de Estados Unidos, la mayoría de los tipos de frutas y verduras se asoció con menor mortalidad. Pero los jugos de fruta no se asociaron con la mortalidad total ni por causas específicas. Los autores concluyen que los resultados respaldan comer más frutas y verduras, pero no jugos de fruta. Es un estudio observacional, con dieta medida por cuestionarios. Mejor la fruta entera. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Wang DD, 2021 · Circulation",
+      "emocion": "agil",
+      "visual": {
+        "query": "fresh orange peeled"
+      }
+    }
+  ]
+}

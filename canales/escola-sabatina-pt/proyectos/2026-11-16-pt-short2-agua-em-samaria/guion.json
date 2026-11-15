@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "O pedido que espantou uma mulher no poço 💧",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto histórico-cultural"
+  },
+  "miniatura": {
+    "linea1": "Por que o espanto?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O pedido que espantou uma mulher no poço 💧 #shorts",
+    "descripcion": "Um homem pediu um pouco de água junto a um poço. Um pedido simples. Mas a mulher ficou espantada. O que havia de escandaloso nisso?\n\nJoão 4:7-9\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um homem pediu um pouco de água junto a um poço. Um pedido simples. Mas a mulher ficou espantada. O que havia de escandaloso nisso?",
+      "texto_pantalla": "Por que o espanto?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old stone water well in desert"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João quatro, versículo nove. A mulher samaritana pergunta a Jesus como ele, sendo judeu, pede água a ela. E João explica que judeus e samaritanos não se davam. Sem esse dado histórico e cultural, a cena parece um simples diálogo. Com ele, você vê Jesus atravessando uma barreira de séculos de inimizade, de nação e de preconceito, para oferecer água viva. É assim que funciona o tema de segunda-feira: o contexto histórico-cultural não é detalhe acadêmico; ele ilumina o coração da mensagem. Que barreira Deus está pedindo que você atravesse hoje? Deixe nos comentários.",
+      "texto_pantalla": "Por que o espanto?",
+      "referencia": "João 4:7-9",
+      "emocion": "agil",
+      "visual": {
+        "query": "clay water jar in sunlight"
+      }
+    }
+  ]
+}

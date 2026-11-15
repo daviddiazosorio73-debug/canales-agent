@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "Deus falou de muitas maneiras… qual foi a melhor? 🗣️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "La presentación de las Escrituras"
+  },
+  "miniatura": {
+    "linea1": "Qual foi a melhor?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus falou de muitas maneiras… qual foi a melhor? 🗣️ #shorts",
+    "descripcion": "Sonhos, visões, cânticos, cartas, histórias… Deus usou muitas formas para falar. Mas houve uma maneira que superou todas.\n\nHebreus 1:1-2\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Sonhos, visões, cânticos, cartas, histórias… Deus usou muitas formas para falar. Mas houve uma maneira que superou todas.",
+      "texto_pantalla": "Qual foi a melhor?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "collection of old letters scrolls and books"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hebreus um, versículos um e dois. Deus falou muitas vezes e de muitas maneiras aos pais por meio dos profetas, e nestes últimos tempos falou conosco por meio do Filho. Esse é o tema de quinta-feira: a apresentação das Escrituras. A Bíblia não chegou como um manual uniforme. Chegou em relatos, leis, poesia, profecias e cartas, escritas por pessoas diferentes ao longo de séculos. Mas tudo converge em Jesus, a revelação mais clara de quem Deus é. Quando uma parte da Bíblia parecer difícil, olhe para ela à luz de Cristo. O que fala mais com você: as histórias, os salmos ou as cartas? Comente.",
+      "texto_pantalla": "Qual foi a melhor?",
+      "referencia": "Hebreus 1:1-2",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise light breaking through clouds"
+      }
+    }
+  ]
+}

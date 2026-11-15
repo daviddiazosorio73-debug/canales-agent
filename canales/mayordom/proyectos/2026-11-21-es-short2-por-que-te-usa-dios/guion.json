@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "Por qué Dios te usa a ti, en 60 segundos ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "La respuesta",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por qué Dios te usa a ti, en 60 segundos ⏱️ #shorts",
+    "descripcion": "Toda la semana hicimos una pregunta: si Dios es dueño de todo, ¿por qué reparte sus bienes a través de nosotros? Aquí va la respuesta. (Salmos 24:1 · Hechos 20:35, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "consejos sobre mayordomía cristiana",
+      "generosidad",
+      "Elena de White"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Toda la semana hicimos una pregunta: si Dios es dueño de todo, ¿por qué reparte sus bienes a través de nosotros? Aquí va la respuesta.",
+      "texto_pantalla": "La respuesta",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hourglass sand wooden table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primero, no es porque le falte algo: suyo es el mundo y su plenitud. Segundo, nos incluye para bendecirnos, como a la viuda de Sarepta. Tercero, nos diseñó para ser canales y no represas, como José con el grano de Egipto. Y cuarto, la razón más profunda: dar nos sana del egoísmo y nos hace parecernos a Cristo, que no se aferró a nada y lo dio todo. Como dice Hechos veinte, treinta y cinco, hay más dicha en dar que en recibir. Los tres sermones del capítulo tres ya están en el canal.",
+      "texto_pantalla": "La respuesta",
+      "referencia": "Salmos 24:1 · Hechos 20:35",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunlight through trees path"
+      }
+    }
+  ]
+}

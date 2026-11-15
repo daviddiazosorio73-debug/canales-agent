@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "¿Pararte o caminar? Lo que encontraron los ensayos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿De pie o caminando?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Pararte o caminar? Lo que encontraron los ensayos #shorts",
+    "descripcion": "¿Pararte o caminar? Lo que encontraron los ensayos.\n\n📚 Fuentes (PubMed):\n• Buffey AJ, Herring MP, Langley CK, Donnelly AE, Carson BP. The Acute Effects of Interrupting Prolonged Sitting Time in Adults with Standing and Light-Intensity Walking on Biomarkers of Cardiometabolic Health in Adults: A Systematic Review and Meta-analysis. Sports Med. 2022;52(8):1765-1787. https://pubmed.ncbi.nlm.nih.gov/35147898/ · https://doi.org/10.1007/s40279-022-01649-4\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "escritorio de pie",
+      "caminar",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Escritorio de pie o una caminata corta: ¿cuál ayuda más cuando pasas horas sentado?",
+      "texto_pantalla": "¿De pie o caminando?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "standing desk office"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Buffey y su equipo, de la Universidad de Limerick, revisaron en dos mil veintidós ensayos aleatorizados cruzados que interrumpían el tiempo sentado con ratos de pie o caminando suave. Este estudio encontró que estar de pie redujo la glucosa después de comer, pero no la insulina. Caminar suave redujo las dos y fue mejor que solo pararse. Ninguna de las dos opciones cambió la presión arterial en esos ensayos. Fueron pocos estudios, de un solo día, sobre todo en personas con sobrepeso u obesidad. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Buffey AJ, 2022 · Sports Med",
+      "emocion": "agil",
+      "visual": {
+        "query": "light walking indoor steps"
+      }
+    }
+  ]
+}

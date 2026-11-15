@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "La regla que Elena de White pidió para leer sus escritos ⏳",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "Cómo leer los escritos de Elena de White"
+  },
+  "miniatura": {
+    "linea1": "¿Qué regla pidió?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La regla que Elena de White pidió para leer sus escritos ⏳ #shorts",
+    "descripcion": "Elena de White escribió miles de páginas de consejos. Pero ella misma pidió tener en cuenta algo antes de aplicarlos. Si lo olvidas, puedes malinterpretarla.\n\nMensajes selectos, tomo 1\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Elena de White escribió miles de páginas de consejos. Pero ella misma pidió tener en cuenta algo antes de aplicarlos. Si lo olvidas, puedes malinterpretarla.",
+      "texto_pantalla": "¿Qué regla pidió?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old pocket watch on vintage letters"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es el tema del viernes de la lección ocho: cómo leer los escritos de Elena de White. En Mensajes selectos, tomo uno, ella explica que, al considerar sus testimonios, no se descarta nada, pero se deben tener en cuenta el tiempo y el lugar. Es decir, cada consejo nació en una situación concreta, para personas concretas. Leerla bien implica preguntar: ¿a quién escribió?, ¿cuándo?, ¿por qué? y ¿qué principio permanente enseña? Es el mismo cuidado que aplicamos a la Biblia: contexto histórico, contexto literario y significado. Así evitamos tanto el rechazo como el uso extremo. Comenta «Tiempo y lugar» si aprendiste algo nuevo.",
+      "texto_pantalla": "¿Qué regla pidió?",
+      "referencia": "Mensajes selectos, tomo 1",
+      "emocion": "agil",
+      "visual": {
+        "query": "stack of old handwritten letters on desk"
+      }
+    }
+  ]
+}

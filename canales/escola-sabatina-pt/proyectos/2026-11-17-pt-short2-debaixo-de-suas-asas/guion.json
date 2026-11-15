@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "Deus tem penas? 🪶",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 8,
+    "dia": "El contexto literario"
+  },
+  "miniatura": {
+    "linea1": "Deus tem penas?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus tem penas? 🪶 #shorts",
+    "descripcion": "Um salmo diz que Deus vai cobrir você com as suas penas e que debaixo das suas asas você estará seguro. Devemos imaginar Deus com penas?\n\nSalmo 91:4\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um salmo diz que Deus vai cobrir você com as suas penas e que debaixo das suas asas você estará seguro. Devemos imaginar Deus com penas?",
+      "texto_pantalla": "Deus tem penas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "mother bird sheltering chicks under wings nest"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Salmo noventa e um, versículo quatro. É claro que não se trata de penas literais. É poesia hebraica, e a poesia fala por imagens. Esse é o tema de terça-feira: o contexto literário. A Bíblia tem história, leis, cânticos, provérbios, parábolas, cartas e profecia apocalíptica. Não se lê um poema do mesmo jeito que um relato histórico, nem uma parábola como uma genealogia. Se confundimos o gênero, confundimos a mensagem. Aqui a imagem é a de uma ave que protege seus filhotes: proximidade, ternura e refúgio. Antes de interpretar, pergunte: que tipo de texto estou lendo? Comente «Debaixo de suas asas» se hoje você precisa desse refúgio.",
+      "texto_pantalla": "Deus tem penas?",
+      "referencia": "Salmo 91:4",
+      "emocion": "agil",
+      "visual": {
+        "query": "single white feather soft light"
+      }
+    }
+  ]
+}
