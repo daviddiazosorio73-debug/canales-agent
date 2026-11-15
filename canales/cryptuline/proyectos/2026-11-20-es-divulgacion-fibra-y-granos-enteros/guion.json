@@ -1,0 +1,135 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-20",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Fibra y granos enteros: lo que encontraron 243 estudios en The Lancet y 45 en el BMJ",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿25 GRAMOS",
+    "linea2": "AL DÍA?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Fibra y granos enteros: lo que encontraron 243 estudios (The Lancet y BMJ)",
+    "descripcion": "Un nutriente que casi nadie cuenta. Una revisión en The Lancet (185 estudios prospectivos y 58 ensayos clínicos) y un metaanálisis en el BMJ (45 estudios) muestran cómo se relacionan la fibra y los granos enteros con el corazón, la diabetes, el cáncer colorrectal y la mortalidad. Cuánta fibra, en qué alimentos, qué tan segura es la evidencia y un reto de 7 días.\n\n💬 ¿Cuál de los 7 cambios vas a empezar?\n\n📚 Fuentes (PubMed):\n• Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434-445. https://pubmed.ncbi.nlm.nih.gov/30638909/ · https://doi.org/10.1016/S0140-6736(18)31809-9\n• Aune D, Keum N, Giovannucci E, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716. https://pubmed.ncbi.nlm.nih.gov/27301975/ · https://doi.org/10.1136/bmj.i2716\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "fibra",
+      "fibra dietética",
+      "granos enteros",
+      "integrales",
+      "nutrición",
+      "alimentación saludable",
+      "The Lancet",
+      "BMJ",
+      "salud cardiovascular",
+      "diabetes tipo 2",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Nutrición",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-20T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "texto": "Hay un nutriente que casi nadie cuenta, que no está de moda en redes y que no se vende en cápsulas caras. Y, sin embargo, un equipo de investigadores reunió datos equivalentes a casi ciento treinta y cinco millones de años-persona para estudiarlo. Encontraron asociaciones con el corazón, la diabetes, el cáncer colorrectal y la mortalidad. Hoy hablamos de la fibra y de los granos enteros. ¿Cuánta necesitas? ¿En qué alimentos está? ¿Y qué tan seguros estamos de lo que dicen los estudios? Al final te dejo un reto de siete días que puedes empezar mañana mismo. Quédate hasta el final.",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fiber foods overhead table"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "¿Qué es la fibra?",
+      "texto": "Primero, una definición sencilla. La fibra dietética es la parte de los alimentos vegetales que nuestro cuerpo no digiere por completo. Está en las menestras, como lentejas, frejoles y garbanzos; en los granos enteros, como la avena, la quinua o el pan integral; en las verduras, en las frutas y en las semillas. Un grano entero conserva sus tres partes: el salvado, el germen y el endospermo. Un grano refinado, como la harina blanca o el arroz blanco, pierde el salvado y el germen, y con ellos buena parte de su fibra. Hoy vamos a ver dos grandes estudios: uno sobre la fibra y los carbohidratos de calidad, y otro sobre los granos enteros.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "lentils beans oats jars"
+      }
+    },
+    {
+      "id": "estudio1",
+      "capitulo": "El estudio de The Lancet",
+      "texto": "El primer trabajo se publicó en enero de dos mil diecinueve en la revista The Lancet. Su autor principal es Andrew Reynolds, de la Universidad de Otago, en Nueva Zelanda, junto con Jim Mann, John Cummings, Nicola Winter, Evelyn Mete y Lisa Te Morenga. Entre sus financiadores está la Organización Mundial de la Salud. Hicieron una serie de revisiones sistemáticas y metaanálisis. Incluyeron ciento ochenta y cinco estudios prospectivos, que siguen a personas en el tiempo, y cincuenta y ocho ensayos clínicos con cuatro mil seiscientos treinta y cinco adultos. En total, casi ciento treinta y cinco millones de años-persona de datos. Algo importante: excluyeron a personas que ya tenían enfermedades crónicas. Es decir, los resultados hablan de la población general.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "university library research"
+      },
+      "referencia": "Reynolds A, 2019 · Lancet"
+    },
+    {
+      "id": "hallazgos1",
+      "capitulo": "Lo que encontraron",
+      "texto": "Este estudio encontró que, comparando a quienes más fibra comían con quienes menos comían, los estudios observacionales mostraron entre quince y treinta por ciento menos de mortalidad por cualquier causa y por causas cardiovasculares, y menos enfermedad coronaria, accidente cerebrovascular, diabetes tipo dos y cáncer colorrectal. Y en los ensayos clínicos, comer más fibra se asoció con menor peso corporal, menor presión arterial sistólica y menor colesterol total. ¿Cuánta fibra? La mayor reducción de riesgo en varios resultados importantes se vio entre veinticinco y veintinueve gramos al día. Y las curvas de dosis y respuesta sugerían que consumir más podría dar aún más protección frente a enfermedades cardiovasculares, diabetes tipo dos y cánceres colorrectal y de mama. Resultados parecidos se vieron con los granos enteros.",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "heart health check"
+      },
+      "referencia": "Reynolds A, 2019"
+    },
+    {
+      "id": "glicemico",
+      "capitulo": "Mitos vs evidencia: el índice glicémico",
+      "texto": "Ahora, un mito muy repetido en internet: que lo único importante de los carbohidratos es el índice glicémico. En este estudio, cuando se compararon dietas de índice o carga glicémica baja con dietas de índice alto, las reducciones de riesgo fueron menores o no aparecieron. Y la certeza de esa evidencia fue de baja a muy baja. En cambio, la fibra tuvo evidencia de certeza moderada, y los granos enteros, de baja a moderada. Dicho de otra forma: si quieres un indicador sencillo de la calidad de tus carbohidratos, mira primero cuánta fibra tienen y si son integrales.",
+      "emocion": "agil",
+      "visual": {
+        "query": "myth fact checklist"
+      },
+      "referencia": "Reynolds A, 2019"
+    },
+    {
+      "id": "estudio2",
+      "capitulo": "El estudio del BMJ",
+      "texto": "El segundo trabajo se publicó en junio de dos mil dieciséis en el BMJ. Su autor principal es Dagfinn Aune, de la Universidad Noruega de Ciencia y Tecnología y del Imperial College de Londres, con investigadores de Harvard, Noruega, Estados Unidos y el Reino Unido. Analizaron cuarenta y cinco estudios prospectivos sobre granos enteros. Este estudio encontró que, por cada noventa gramos más de granos enteros al día, que equivalen a unas tres porciones, por ejemplo dos rebanadas de pan y un tazón de cereal integral, el riesgo relativo fue diecinueve por ciento menor para enfermedad coronaria, veintidós por ciento menor para enfermedad cardiovascular, quince por ciento menor para mortalidad por cáncer y diecisiete por ciento menor para mortalidad por todas las causas. La reducción se observó hasta unos doscientos diez a doscientos veinticinco gramos al día, de siete a siete porciones y media.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "whole grain bread slices"
+      },
+      "referencia": "Aune D, 2016 · BMJ"
+    },
+    {
+      "id": "refinados",
+      "capitulo": "¿Y lo refinado?",
+      "texto": "Y aquí viene el detalle que cambia cómo compras. En ese mismo análisis, el pan integral, los cereales de desayuno integrales y el salvado agregado se asociaron con menor riesgo. Pero hubo poca evidencia de asociación con los granos refinados, el arroz blanco, el arroz total o los granos totales. Es decir, no se trata de comer más pan o más arroz. Se trata de cambiar el tipo de grano. Ojo: poca evidencia de beneficio no significa daño comprobado. Solo significa que el beneficio observado se concentró en lo integral.",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "white rice bowl"
+      },
+      "referencia": "Aune D, 2016"
+    },
+    {
+      "id": "limites",
+      "capitulo": "Lo que estos estudios NO dicen",
+      "texto": "Ahora, con honestidad, los límites. La mayoría de los datos vienen de estudios observacionales: muestran asociaciones, y quienes comen más fibra suelen tener otros hábitos sanos. Los autores de The Lancet dicen que la fuerte relación de dosis y respuesta indica que la relación podría ser causal. Podría. Además, los resultados se aplican a la población general, no a personas con enfermedades crónicas. Si tienes una enfermedad intestinal, renal o tomas ciertos medicamentos, aumentar mucho la fibra puede no ser adecuado para ti. Por eso, cualquier cambio grande conversalo con tu médico o tu nutricionista.",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "magnifying glass document"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Reto de 7 días",
+      "texto": "Te dejo el reto prometido, un cambio por día. Día uno, avena en el desayuno. Día dos, menestras en el almuerzo, como lentejas o frejoles. Día tres, cambia el pan blanco por pan integral; revisa que el primer ingrediente diga harina integral. Día cuatro, una fruta con cáscara cuando se pueda. Día cinco, quinua o arroz integral en lugar de arroz blanco. Día seis, una porción más de verduras. Día siete, un puñado de semillas. Hazlo poco a poco y toma agua, porque subir la fibra de golpe puede causar molestias. El domingo hablamos de la gratitud y la salud. Suscríbete a Cryptuline y cuéntame en los comentarios cuál de estos cambios vas a empezar.",
+      "emocion": "calido",
+      "visual": {
+        "query": "quinoa salad colorful"
+      }
+    }
+  ]
+}

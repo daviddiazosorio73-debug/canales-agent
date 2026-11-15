@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "¿Cuánta fibra al día? El número que encontró la ciencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuántos gramos?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Cuánta fibra al día? El número que encontró la ciencia #shorts",
+    "descripcion": "¿Cuánta fibra al día? El número que encontró la ciencia.\n\n📚 Fuentes (PubMed):\n• Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434-445. https://pubmed.ncbi.nlm.nih.gov/30638909/ · https://doi.org/10.1016/S0140-6736(18)31809-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "fibra",
+      "fibra dietética",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un rango de fibra diaria donde la reducción de riesgo fue mayor. Y la mayoría de personas no llega. Quédate hasta el final.",
+      "texto_pantalla": "¿Cuántos gramos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "measuring food scale grams"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En la revisión publicada en The Lancet, la mayor reducción de riesgo en varios resultados importantes se vio con un consumo de entre veinticinco y veintinueve gramos de fibra al día. Las curvas sugerían que más podría dar aún más beneficio. La calidad de la evidencia para la fibra fue calificada como moderada. Si tienes un problema digestivo, aumenta poco a poco y con orientación médica. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Reynolds A, 2019 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "oatmeal berries breakfast"
+      }
+    }
+  ]
+}

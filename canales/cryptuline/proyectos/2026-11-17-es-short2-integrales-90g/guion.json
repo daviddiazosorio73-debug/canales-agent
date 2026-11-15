@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "Tres porciones de integrales al día: lo que encontró el BMJ",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿90 gramos al día?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Tres porciones de integrales al día: lo que encontró el BMJ #shorts",
+    "descripcion": "Tres porciones de integrales al día: lo que encontró el BMJ.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716. https://pubmed.ncbi.nlm.nih.gov/27301975/ · https://doi.org/10.1136/bmj.i2716\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "granos enteros",
+      "integrales",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-17T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dos rebanadas de pan integral y un tazón de cereal integral. Eso son unos noventa gramos. ¿Qué tiene que ver con tu corazón? Quédate hasta el final.",
+      "texto_pantalla": "¿90 gramos al día?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "whole grain bread slices"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Aune y su equipo analizaron cuarenta y cinco estudios prospectivos en el BMJ, en dos mil dieciséis. Por cada noventa gramos más de granos enteros al día, el riesgo relativo fue diecinueve por ciento menor para enfermedad coronaria y veintidós por ciento menor para enfermedad cardiovascular. Son estudios observacionales: muestran asociación. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2016 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "heart shaped bowl cereal"
+      }
+    }
+  ]
+}

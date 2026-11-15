@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "Integrales y enfermedades respiratorias: un dato poco conocido",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Pulmones e integrales?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Integrales y enfermedades respiratorias: un dato poco conocido #shorts",
+    "descripcion": "Integrales y enfermedades respiratorias: un dato poco conocido.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716. https://pubmed.ncbi.nlm.nih.gov/27301975/ · https://doi.org/10.1136/bmj.i2716\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "granos enteros",
+      "integrales",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Este resultado del metaanálisis casi nunca se menciona cuando se habla de pan integral. Quédate hasta el final.",
+      "texto_pantalla": "¿Pulmones e integrales?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fresh air lungs nature breathing"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Aune, en el BMJ, cada noventa gramos al día de granos enteros se asoció con veintidós por ciento menos de mortalidad por enfermedades respiratorias, y veintiséis por ciento menos por enfermedades infecciosas, aunque con pocos estudios en este último caso. Son asociaciones observacionales. No reemplazan vacunas ni tratamientos. La evidencia más sólida sigue siendo la cardiovascular. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2016 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "whole grain bread breakfast"
+      }
+    }
+  ]
+}

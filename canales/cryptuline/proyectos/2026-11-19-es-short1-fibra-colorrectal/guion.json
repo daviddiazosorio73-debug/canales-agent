@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-19",
+  "tema": "Fibra y cáncer colorrectal: lo que dicen los datos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Fibra e intestino?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Fibra y cáncer colorrectal: lo que dicen los datos #shorts",
+    "descripcion": "Fibra y cáncer colorrectal: lo que dicen los datos.\n\n📚 Fuentes (PubMed):\n• Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434-445. https://pubmed.ncbi.nlm.nih.gov/30638909/ · https://doi.org/10.1016/S0140-6736(18)31809-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "fibra",
+      "fibra dietética",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-19T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Uno de los resultados de esta revisión tiene que ver con el intestino grueso. Quédate hasta el final.",
+      "texto_pantalla": "¿Fibra e intestino?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "colon health illustration abstract"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En la revisión de Reynolds, quienes más fibra comían tuvieron menor incidencia de cáncer colorrectal que quienes menos comían, dentro del rango de quince a treinta por ciento de reducción observado. Las curvas de dosis y respuesta sugerían más beneficio con más fibra. Es una asociación en población general; no reemplaza los controles médicos ni la colonoscopía cuando corresponde. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Reynolds A, 2019 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "fruits vegetables colorful"
+      }
+    }
+  ]
+}

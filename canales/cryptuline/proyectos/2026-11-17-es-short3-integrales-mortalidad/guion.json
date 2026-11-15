@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-17",
+  "tema": "Granos enteros y mortalidad: 17 % menos riesgo",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Vivir más?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Granos enteros y mortalidad: 17 % menos riesgo #shorts",
+    "descripcion": "Granos enteros y mortalidad: 17 % menos riesgo.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716. https://pubmed.ncbi.nlm.nih.gov/27301975/ · https://doi.org/10.1136/bmj.i2716\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "granos enteros",
+      "integrales",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un análisis de cuarenta y cinco estudios hizo una pregunta directa: ¿comer integrales se asocia con vivir más? Quédate hasta el final.",
+      "texto_pantalla": "¿Vivir más?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "wheat field sunrise"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Aune, del dos mil dieciséis, cada noventa gramos diarios de granos enteros se asoció con un diecisiete por ciento menos de mortalidad por todas las causas, y quince por ciento menos de mortalidad por cáncer. La reducción se vio hasta unos doscientos diez a doscientos veinticinco gramos al día, de siete a siete porciones y media. No prueba causa por sí solo. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2016 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "grains jars kitchen"
+      }
+    }
+  ]
+}

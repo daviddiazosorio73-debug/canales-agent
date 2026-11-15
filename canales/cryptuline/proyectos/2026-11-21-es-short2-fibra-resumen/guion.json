@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "La fibra en 1 minuto: el resumen de la semana",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "Resumen",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "La fibra en 1 minuto: el resumen de la semana #shorts",
+    "descripcion": "La fibra en 1 minuto: el resumen de la semana.\n\n📚 Fuentes (PubMed):\n• Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434-445. https://pubmed.ncbi.nlm.nih.gov/30638909/ · https://doi.org/10.1016/S0140-6736(18)31809-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "fibra",
+      "fibra dietética",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si te perdiste algún video de esta semana, aquí tienes lo más importante en un minuto. Quédate hasta el final.",
+      "texto_pantalla": "Resumen",
+      "emocion": "gancho",
+      "visual": {
+        "query": "notebook summary desk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Según Reynolds, en The Lancet, quienes más fibra comían tuvieron entre quince y treinta por ciento menos riesgo en varias enfermedades; la mejor reducción se vio entre veinticinco y veintinueve gramos al día. Según Aune, en el BMJ, cada noventa gramos de granos enteros se asoció con menor riesgo cardiovascular y menor mortalidad. Lo refinado no mostró el mismo beneficio. Todo es población general. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Reynolds A, 2019 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "healthy plate overhead"
+      }
+    }
+  ]
+}

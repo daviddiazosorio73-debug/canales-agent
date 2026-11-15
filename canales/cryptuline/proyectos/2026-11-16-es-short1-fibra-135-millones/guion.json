@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-16",
+  "tema": "135 millones de años-persona sobre un solo nutriente",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué nutriente?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "135 millones de años-persona sobre un solo nutriente #shorts",
+    "descripcion": "135 millones de años-persona sobre un solo nutriente.\n\n📚 Fuentes (PubMed):\n• Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434-445. https://pubmed.ncbi.nlm.nih.gov/30638909/ · https://doi.org/10.1016/S0140-6736(18)31809-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "fibra",
+      "fibra dietética",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-16T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un equipo de Nueva Zelanda reunió datos equivalentes a casi ciento treinta y cinco millones de años-persona para estudiar un nutriente que casi nadie cuenta. Quédate hasta el final.",
+      "texto_pantalla": "¿Qué nutriente?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fiber rich foods table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Fue la fibra dietética. Reynolds y su equipo, de la Universidad de Otago, publicaron en The Lancet en dos mil diecinueve una serie de revisiones con ciento ochenta y cinco estudios prospectivos y cincuenta y ocho ensayos clínicos. La OMS fue una de las financiadoras. El viernes a las seis de la tarde te cuento todo lo que encontraron. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Reynolds A, 2019 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "scientist reading data"
+      }
+    }
+  ]
+}

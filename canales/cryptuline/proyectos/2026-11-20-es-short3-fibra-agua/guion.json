@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-20",
+  "tema": "Si subes la fibra, no olvides esto",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué olvidas?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Si subes la fibra, no olvides esto #shorts",
+    "descripcion": "Si subes la fibra, no olvides esto.\n\n📚 Fuentes (PubMed):\n• Reynolds A, Mann J, Cummings J, Winter N, Mete E, Te Morenga L. Carbohydrate quality and human health: a series of systematic reviews and meta-analyses. Lancet. 2019;393(10170):434-445. https://pubmed.ncbi.nlm.nih.gov/30638909/ · https://doi.org/10.1016/S0140-6736(18)31809-9\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "fibra",
+      "fibra dietética",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un error común cuando alguien decide comer más fibra de golpe. Quédate hasta el final.",
+      "texto_pantalla": "¿Qué olvidas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "glass of water fresh"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión de Reynolds, en The Lancet, apoya aumentar la fibra hasta veinticinco o treinta gramos al día. Pero si hoy comes poca, subir de golpe puede causar gases o molestias. Aumenta poco a poco durante varias semanas y acompaña con agua. Si tienes una enfermedad intestinal o renal, tu médico debe orientarte. Tu intestino necesita tiempo para adaptarse. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Reynolds A, 2019 · Lancet",
+      "emocion": "agil",
+      "visual": {
+        "query": "oats bowl fruit"
+      }
+    }
+  ]
+}

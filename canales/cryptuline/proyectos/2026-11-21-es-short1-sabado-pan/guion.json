@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-21",
+  "tema": "Del pan del cielo al pan integral 🌾",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Pan y salud?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Del pan del cielo al pan integral 🌾 #shorts",
+    "descripcion": "Del pan del cielo al pan integral 🌾.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716. https://pubmed.ncbi.nlm.nih.gov/27301975/ · https://doi.org/10.1136/bmj.i2716\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "granos enteros",
+      "integrales",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-21T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La Biblia habla mucho del pan. Y la ciencia de hoy tiene algo que decir sobre el grano entero. Quédate hasta el final.",
+      "texto_pantalla": "¿Pan y salud?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "wheat field golden sunset"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el Génesis, Dios entrega al ser humano las plantas que dan semilla como alimento. Hoy, el metaanálisis de Aune, en el BMJ, asocia los granos enteros con menos riesgo cardiovascular y menor mortalidad. La ciencia no mide la fe, pero sí observa que los alimentos sencillos y poco procesados se asocian con mejor salud. Feliz sábado. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Génesis 1:29 · Aune D, 2016 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "bread on wooden table candle"
+      }
+    }
+  ]
+}

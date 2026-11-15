@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-18",
+  "tema": "Arroz blanco y harinas refinadas: lo que NO encontró el estudio",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Y lo refinado?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Arroz blanco y harinas refinadas: lo que NO encontró el estudio #shorts",
+    "descripcion": "Arroz blanco y harinas refinadas: lo que NO encontró el estudio.\n\n📚 Fuentes (PubMed):\n• Aune D, Keum N, Giovannucci E, et al. Whole grain consumption and risk of cardiovascular disease, cancer, and all cause and cause specific mortality: systematic review and dose-response meta-analysis of prospective studies. BMJ. 2016;353:i2716. https://pubmed.ncbi.nlm.nih.gov/27301975/ · https://doi.org/10.1136/bmj.i2716\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "granos enteros",
+      "integrales",
+      "nutrición",
+      "salud",
+      "ciencia",
+      "estudio científico",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-18T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si los granos enteros se asociaron con menos riesgo, ¿pasa lo mismo con el arroz blanco y la harina refinada? Quédate hasta el final.",
+      "texto_pantalla": "¿Y lo refinado?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "white rice bowl closeup"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis del BMJ de dos mil dieciséis, los autores encontraron poca evidencia de asociación con los granos refinados, el arroz blanco, el arroz total o los granos totales. El beneficio observado se concentró en los granos enteros. Ojo: poca evidencia de beneficio no es lo mismo que daño comprobado. La clave está en la calidad del grano. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Aune D, 2016 · BMJ",
+      "emocion": "agil",
+      "visual": {
+        "query": "brown rice whole grains"
+      }
+    }
+  ]
+}
