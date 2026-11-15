@@ -1,4 +1,4 @@
-# Investigación Cryptuline · Salud con ciencia — 2026-11-07
+# Investigación Cryptuline · Salud con ciencia — 2026-11-15
 
 ## Tus 10 mejores videos (28 días)
 | Video | Vistas | Dur. media (s) | % visto | Subs |
@@ -10,25 +10,25 @@
 | ¿10.000 pasos al día es un mito? #shorts | 16 | 24 | 61% | 0 |
 | Lo que el estudio de los pasos NO demuestra #shorts | 15 | 11 | 33% | 0 |
 | Lo que el estudio de los pasos NO demuestra #shorts | 12 | 10 | 28% | 0 |
-| Lo que el estudio de los pasos NO demuestra #shorts | 9 | 18 | 49% | 0 |
 | ¿Por qué la fe se asocia con más salud? #shorts | 9 | 41 | 104% | 0 |
+| Lo que el estudio de los pasos NO demuestra #shorts | 9 | 18 | 49% | 0 |
 | Lo que el estudio de los pasos NO demuestra #shorts | 8 | 16 | 46% | 0 |
 
 ## Lo más visto del nicho (7 días)
 | Video | Canal | Vistas | Vistas/hora |
 |---|---|---|---|
-| Easy 4 Ingredient Chocolate Banana Bites | Dr Pal | 494306 | 4626 |
-| 🍊🍍🥕Jugo de piña, zanahoria y jengibre #salud | Vive Mejor | 488229 | 3897 |
-| 🥚🍳 ¡Los huevos son mucho más nutritivos de lo que imaginas!  #salud | Vive Mejor | 259485 | 3568 |
-| the ULTIMATE morning + night routine *realistic* ⛅️🛌| healthy habits,  | kelly | 378894 | 2503 |
-| 🍝🥕 Why Is Healthy Food Important? These Foods Have Something to Say! 🍽 | Flip4Fun | 192458 | 2018 |
-| ¿Qué alimentos son mejores para cuidar tu cuerpo? 🥔 ⚡️ #nutricion #sal | MIKOLOFIT | 275201 | 1862 |
-| Stop Crash Dieting! Mammootty’s Weight Loss Advice | Dr. Pal Reacts | Dr Pal | 146653 | 1784 |
-| 🥗⏰ ¿Sabías que el momento en que consumes ciertos alimentos puede infl | Vive Mejor | 170177 | 1764 |
-| 🌼💤 ¿Quieres mejorar la calidad de tu sueño de forma natural? #salud | Vive Mejor | 131453 | 1642 |
-| ¿Te cuesta caminar? 5 alimentos que pueden fortalecer tus piernas | Sa | SALUD MAYOR | 159320 | 1199 |
-| 🌿🍊🍅🥑 ¡Escucha las señales de tu cuerpo!   #salud | Vive Mejor | 105495 | 1062 |
-| TRATE a PRÓSTATA e a EREÇÃO com apenas 1 COMPRIMIDO | O Médico dos Homens - Urologis | 69554 | 942 |
-| 30 Foods to Avoid After 30 | Nostalgic Files | 137753 | 922 |
-| Ya sigue @nutri_denisblanco para más!#te#saludable#inflamacion#clavos  | Denis Blanco | 127439 | 834 |
-| BOMBA DE AMIGÃO FUNCIONA❓ | O Médico dos Homens - Urologis | 66276 | 825 |
+| ¿Qué alimentos hinchan y cuáles deshinchan? 🍎 🧄 #nutricion #salud | MIKOLOFIT | 2613391 | 47339 |
+| Cuánto CUESTA comer como SHAKIRA 💰😱 #shakira #comida #fitness #saludab | Nico Velasquez | 2288870 | 15792 |
+| ¡Kevin sigue avanzando hacia una vida más saludable! ❤ #nutritiontips | SR NUTRITION | 463107 | 7972 |
+| 5 alimentos no café da manhã que podem aumentar seu risco de diabetes | Dr. Marlon Batista | Nutrólogo | 1029108 | 7665 |
+| Gisele Bündchen revela comida PROIBIDA na sua casa #shorts | Quantum Life | 317936 | 5713 |
+| 🫜🥑 ¡Tu alimentación marca la diferencia en tu bienestar! 🌿💚 #salud | Vive Mejor | 683607 | 4310 |
+| ✅🥦🍅¡Alimenta tu cuerpo y fortalece tu salud de forma natural!  #salud | Vive Mejor | 121142 | 3190 |
+| Exercise Scientist Debunks Lifting Myths | Renaissance Periodization | 208336 | 2662 |
+| MALAS CENAS VS BUENAS CENAS #nutricion | AleEnForma | 194066 | 2647 |
+| Importante no dia a dia colocar para 1 colher de feijão coloque 3  de  | Leda Nagle | 228445 | 2269 |
+| In my mind this is a healthy meal 🍟🥔🍗🌶️ r #airfryer #chickenwings #cri | Foodie Godmother🧚🏾 | 176311 | 1725 |
+| 🍊🥕🍅🥦 ¡Tu salud comienza con lo que comes! #salud | Vive Mejor | 90525 | 1674 |
+| Sabias que la comidas mas peligrosa para tu cuerpo no son estos alimen | Recetas Live  | 110794 | 1365 |
+| 🍅🍉🥝 ¡Descubre cómo los alimentos pueden beneficiar tu salud!  #salud | Vive Mejor | 142409 | 1270 |
+| ¿Quieres cuidar tu alimentación? Prueba este desayuno con avena y chía | Chef Roger, Recetas faciles | 183079 | 1252 |

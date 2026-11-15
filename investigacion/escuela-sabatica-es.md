@@ -1,34 +1,34 @@
-# Investigación Maestro DD Escuela Sabática (ES) — 2026-11-07
+# Investigación Maestro DD Escuela Sabática (ES) — 2026-11-15
 
 ## Tus 10 mejores videos (28 días)
 | Video | Vistas | Dur. media (s) | % visto | Subs |
 |---|---|---|---|---|
 | El mensaje que pasó por 5 manos hasta llegar a ti ✉️ #shorts | 308 | 27 | 65% | 0 |
-| La MISMA semilla, cuatro resultados distintos 🌱 #shorts | 220 | 25 | 55% | 0 |
-| Revelación e inspiración en 60 segundos ⏱️ #shorts | 211 | 30 | 69% | 1 |
-| LUNES    El verdadero rol de los profetas bíblicos | 199 | 82 | 101% | 1 |
+| La MISMA semilla, cuatro resultados distintos 🌱 #shorts | 221 | 25 | 55% | 0 |
+| Revelación e inspiración en 60 segundos ⏱️ #shorts | 212 | 29 | 68% | 1 |
 | Revelación e inspiración en 60 segundos ⏱️ #shorts | 142 | 35 | 80% | 1 |
 | El profeta que se acostó 390 días 😮 #shorts | 139 | 49 | 117% | 0 |
 | Revelación e inspiración en 60 segundos ⏱️ #shorts | 124 | 36 | 83% | 2 |
-| Revelación e inspiración en 60 segundos ⏱️ #shorts | 112 | 26 | 60% | 0 |
-| Revelación e inspiración en 60 segundos ⏱️ #shorts | 105 | 35 | 82% | 0 |
-| MARTES    Cómo Identificar a un Profeta Falso | 104 | 74 | 102% | 2 |
+| Revelación e inspiración en 60 segundos ⏱️ #shorts | 113 | 26 | 60% | 0 |
+| Revelación e inspiración en 60 segundos ⏱️ #shorts | 106 | 35 | 82% | 0 |
+| ¿Por qué Dios le mostró una ESTATUA a un rey? 👑 #shorts | 101 | 40 | 89% | 0 |
+| Un tesoro guardado en vasijas de BARRO 🏺 #shorts | 66 | 24 | 59% | 1 |
 
 ## Lo más visto del nicho (7 días)
 | Video | Canal | Vistas | Vistas/hora |
 |---|---|---|---|
-| Escuela Sabática LIKE | Lección 6 | Los Escritos Proféticos | Crecer Más | 101225 | 2055 |
-| Alejandro Bullón - Lección 6 - Los Escritos Proféticos | Alejandro Bullon | 281758 | 1790 |
-| Lição da Esc Sabatina dos ADULTOS, Quinta 05/11/26 "Mensagem divina e  | Pr Dudu Batista | 49545 | 776 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 6 2026 | Daniel Herrera Jerez | 32906 | 653 |
-| Lição da Escola Sabatina dos ADULTOS, Terça 03/11/2026 "Assistentes li | Pr Dudu Batista | 56575 | 506 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 5 2026 | Daniel Herrera Jerez | 35682 | 480 |
-| 📘 Sabbath School Lesson 6 SUMMARY | The Prophetic Writings | October 3 | Sabbath School SUMMARY | 30314 | 390 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 4 2026 | Daniel Herrera Jerez | 35035 | 356 |
-| Lição da Escola Sabatina dos ADULTOS, Domingo 01/11/2026 "O chamado pa | Pr Dudu Batista | 52577 | 329 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 3 2026 | Daniel Herrera Jerez | 36339 | 297 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 2 2026 | Daniel Herrera Jerez | 37187 | 254 |
-| Sabbath School with Mark Finley   Lesson 6 — Q4 – 2026 | Citizen Of Heaven | 25061 | 152 |
-| GÉNEROS Y ESTILOS LITERARIOS | LUNES 02 DE NOVIEMBRE | LECCIÓN 6 | Pal | Palabra Viva | 13571 | 102 |
-| Sabbath School Lesson 6 Teacher's Prep: How To Teach The Prophetic Wri | simplyReal. | 5642 | 83 |
-| Sabbath School Lesson 06 Teacher's Prep: How To Teach The Prophetic Wr | Verse by Verse Truth | 2552 | 20 |
+| Escuela Sabática LIKE | Lección 7 | ¡Escuchen esto! | Crecer Más | 57915 | 2142 |
+| Alejandro Bullón - Lección 7 - ¡ESCUCHEN ESTO! | Alejandro Bullon | 323723 | 2020 |
+| Lição da Escola Sabatina dos ADULTOS, Sexta 13/11/2026 "Recebendo e tr | Pr Dudu Batista | 45016 | 1053 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 13 2026 | Daniel Herrera Jerez | 37924 | 712 |
+| Lição da Escola Sabatina dos ADULTOS, Quinta 12/11/2026 "Para nossa ad | Pr Dudu Batista | 46020 | 689 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 12 2026 | Daniel Herrera Jerez | 38561 | 499 |
+| Lição da Escola Sabatina dos ADULTOS, Segunda 09/11/26 "Destruindo a m | Pr Dudu Batista | 54537 | 393 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 11 2026 | Daniel Herrera Jerez | 38740 | 383 |
+| Lição da Escola Sabatina dos ADULTOS, Domingo 08/11/2026 "Ira contra o | Pr Dudu Batista | 54783 | 337 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 10 2026 | Daniel Herrera Jerez | 40865 | 326 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 9 2026 | Daniel Herrera Jerez | 38351 | 257 |
+| Escuela Sabática 7: ¡ESCUCHEN ESTO!  4 trimestr 2026 | El Gran Conflicto | 28960 | 181 |
+| ¿ESCUCHAMOS REALMENTE A DIOS? - LECCIÓN 7 - PR GERARDO FARÍAS - ESCUEL | Biblia e Israel | 17991 | 164 |
+| Nuevo Horizonte, 14 de noviembre del 2026. 4° Trimestre. | Mensajes Adventistas  | 3089 | 54 |
+| Nuevo Horizonte Marcando el Rumbo, Sábado 7 DE NOVIEMBRE 2026, EL MAES | CREACIÓNTV | 1292 | 39 |
