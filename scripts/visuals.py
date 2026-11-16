@@ -155,7 +155,22 @@ def commons(query, used):
     return None, None
 
 
+def consultas(q):
+    """La búsqueda pedida y, si no hay resultados, versiones más cortas (las primeras palabras clave)."""
+    p = [w for w in q.split() if len(w) > 2]
+    out = [q] + [" ".join(p[:n]) for n in (3, 2) if len(p) > n]
+    return list(dict.fromkeys(x for x in out if x))
+
+
 def buscar(fuentes, query, i, nombre):
+    for qq in consultas(query):
+        img, cred = buscar_una(fuentes, qq, i, nombre)
+        if img is not None:
+            return img, cred
+    return None, None
+
+
+def buscar_una(fuentes, query, i, nombre):
     for f in fuentes:
         try:
             img, cred = f(query)
@@ -164,6 +179,16 @@ def buscar(fuentes, query, i, nombre):
         except Exception as ex:  # una fuente caída no detiene el video
             print(f"  aviso {nombre}: {f.__name__ if hasattr(f, '__name__') else 'fuente'} falló ({ex})", flush=True)
     return None, None
+
+
+def clips_largos(proj):
+    """Videos largos con clips 4K solo en los canales con "clips_largos": true en canales.json (p. ej. Cryptuline)."""
+    try:
+        canal = Path(proj).resolve().parent.parent.name
+        cfg = load_json(Path(__file__).resolve().parent.parent / "canales.json").get(canal, {})
+        return bool(cfg.get("clips_largos"))
+    except Exception:
+        return False
 
 
 def main():
@@ -184,7 +209,7 @@ def main():
             img = Image.open(src) if src is not None else None
         elif not offline:
             fuentes = []
-            if key and VERTICAL and not e.get("solo_imagen"):
+            if key and (VERTICAL or clips_largos(proj)) and not e.get("solo_imagen"):
                 fuentes.append(lambda qq: pexels_video(qq, used, key, clip))
             if key:
                 fuentes.append(lambda qq: pexels(qq, used, key))

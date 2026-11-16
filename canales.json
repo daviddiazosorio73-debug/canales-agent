@@ -178,6 +178,7 @@
       "Salud con ciencia · Cryptuline": "Salud, nutrición y salud espiritual explicadas con estudios científicos. Contenido educativo +18; no reemplaza la consulta médica.",
       "Shorts · Salud con ciencia": "Datos de salud y nutrición en un minuto, con su estudio científico. Consulta a tu médico."
     },
-    "prioridad": 4
+    "prioridad": 4,
+    "clips_largos": true
   }
 }
