@@ -122,11 +122,21 @@ def subir_rupload(url, token, archivo):
         "Authorization": f"OAuth {token}", "offset": "0", "file_size": str(len(data))}))
 
 
+def url_publica(archivo):
+    return f"https://github.com/{os.environ.get('GITHUB_REPOSITORY', 'daviddiazosorio73-debug/canales-agent')}/releases/download/{RELEASE}/{archivo.name}"
+
+
 def reel_instagram(ig_id, token, archivo, texto):
-    c = chk(requests.post(f"{G}/{ig_id}/media", timeout=60, data={
-        "media_type": "REELS", "upload_type": "resumable", "caption": texto, "share_to_feed": "true",
-        "access_token": token}))
-    subir_rupload(c["uri"], token, archivo)
+    try:
+        c = chk(requests.post(f"{G}/{ig_id}/media", timeout=60, data={
+            "media_type": "REELS", "upload_type": "resumable", "caption": texto, "share_to_feed": "true",
+            "access_token": token}))
+        subir_rupload(c["uri"], token, archivo)
+    except Exception as e:  # p. ej. ProcessingFailedError en la subida directa: Instagram baja el video de la URL pública
+        print(f"meta: subida directa a Instagram falló ({str(e)[:120]}); uso la URL pública", flush=True)
+        c = chk(requests.post(f"{G}/{ig_id}/media", timeout=60, data={
+            "media_type": "REELS", "video_url": url_publica(archivo), "caption": texto, "share_to_feed": "true",
+            "access_token": token}))
     for _ in range(20):  # hasta ~10 min procesando
         st = chk(requests.get(f"{G}/{c['id']}", params={"fields": "status_code,status", "access_token": token}, timeout=60))
         if st.get("status_code") == "FINISHED":
@@ -143,7 +153,12 @@ def reel_instagram(ig_id, token, archivo, texto):
 
 def reel_facebook(page_id, token, archivo, texto):
     s = chk(requests.post(f"{G}/{page_id}/video_reels", data={"upload_phase": "start", "access_token": token}, timeout=60))
-    subir_rupload(s["upload_url"], token, archivo)
+    try:
+        subir_rupload(s["upload_url"], token, archivo)
+    except Exception as e:  # Facebook también acepta que él mismo baje el video desde una URL pública
+        print(f"meta: subida directa a Facebook falló ({str(e)[:120]}); uso la URL pública", flush=True)
+        chk(requests.post(s["upload_url"], timeout=300, headers={"Authorization": f"OAuth {token}",
+                                                                 "file_url": url_publica(archivo)}))
     chk(requests.post(f"{G}/{page_id}/video_reels", timeout=120, data={
         "upload_phase": "finish", "video_id": s["video_id"], "video_state": "PUBLISHED",
         "description": texto, "access_token": token}))
@@ -195,10 +210,11 @@ def publicar():
             try:
                 gh("release", "download", RELEASE, "-p", c["asset"], "-D", str(d), "--clobber")
                 if not c["instagram"]:
-                    if ig_id:
-                        c["instagram"] = reel_instagram(ig_id, token, archivo, c["caption"])
-                    else:
-                        c["instagram"] = "sin cuenta de Instagram vinculada a la Página"
+                    try:
+                        c["instagram"] = (reel_instagram(ig_id, token, archivo, c["caption"]) if ig_id
+                                          else "sin cuenta de Instagram vinculada a la Página")
+                    except Exception as e:
+                        fallos.append(limpio(f"{canal}: {c['proyecto']} (Instagram): {str(e)[:300]}"))
                 if not c["facebook"]:
                     c["facebook"] = reel_facebook(page_id, token, archivo, c["caption"])
                 print(f"meta: {canal} {c['proyecto']} → IG {c['instagram']} · FB {c['facebook']}")
