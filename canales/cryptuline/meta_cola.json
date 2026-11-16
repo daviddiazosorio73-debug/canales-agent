@@ -4,10 +4,10 @@
     "asset": "cryptuline__2026-11-09-es-short1-perdon-terapia.mp4",
     "publicar_en": "2026-11-09T12:00:00Z",
     "caption": "¿Se puede aprender a perdonar? Lo que dicen los ensayos\n\n¿Se puede aprender a perdonar? Lo que dicen los ensayos.\n\n#Cryptuline #SaludConCiencia",
-    "instagram": null,
-    "intentos": 1,
+    "instagram": "https://www.instagram.com/reel/Df0UG6_hSdj/",
+    "intentos": 2,
     "segundos": 64.8,
-    "facebook": null,
+    "facebook": "https://www.facebook.com/reel/1683268663282290",
     "extra": {}
   },
   {
@@ -315,6 +315,50 @@
     "instagram": null,
     "intentos": 0,
     "segundos": 32.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-19-es-short2-integrales-respiratorias",
+    "asset": "cryptuline__2026-11-19-es-short2-integrales-respiratorias.mp4",
+    "publicar_en": "2026-11-19T18:00:00Z",
+    "caption": "Integrales y enfermedades respiratorias: un dato poco conocido\n\nIntegrales y enfermedades respiratorias: un dato poco conocido.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 37.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-19-es-short3-fibra-certeza",
+    "asset": "cryptuline__2026-11-19-es-short3-fibra-certeza.mp4",
+    "publicar_en": "2026-11-20T01:30:00Z",
+    "caption": "¿Qué tan seguros estamos de la fibra?\n\n¿Qué tan seguros estamos de la fibra?.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 31.7,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-20-es-short1-fibra-viernes",
+    "asset": "cryptuline__2026-11-20-es-short1-fibra-viernes.mp4",
+    "publicar_en": "2026-11-20T12:00:00Z",
+    "caption": "Hoy: todo sobre la fibra, con 243 estudios\n\nHoy: todo sobre la fibra, con 243 estudios.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 28.5,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-20-es-short2-integrales-pan",
+    "asset": "cryptuline__2026-11-20-es-short2-integrales-pan.mp4",
+    "publicar_en": "2026-11-20T18:00:00Z",
+    "caption": "¿Tu pan es integral de verdad?\n\n¿Tu pan es integral de verdad?.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 33.1,
     "facebook": null,
     "extra": {}
   }

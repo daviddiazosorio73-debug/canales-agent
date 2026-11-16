@@ -1,20 +1,17 @@
-# Último reporte (2026-11-16 09:38 UTC)
+# Último reporte (2026-11-16 20:28 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-17-es-short1-todo-lo-puedo → https://youtu.be/0gOzzeiZJhE
-- escola-sabatina-pt: 2026-11-17-pt-short1-tudo-posso → https://youtu.be/vE9nOiyOhus
-- escuela-sabatica-es: 2026-11-17-es-short2-bajo-sus-alas → https://youtu.be/lO-0qYK5vr0
-- escola-sabatina-pt: 2026-11-17-pt-short2-debaixo-de-suas-asas → https://youtu.be/3eLzmKafrE0
-- mayordom: 2026-11-17-es-short1-voto-de-jacob → https://youtu.be/j2OL8Kz6OYE
-- mayordom: 2026-11-17-es-short2-diezmo-en-dinero → https://youtu.be/V4dANdFk7FE
-- cryptuline: 2026-11-18-es-short3-fibra-donde-esta → https://youtu.be/Kzi8H-75Xg8
-- cryptuline: 2026-11-19-es-short1-fibra-colorrectal → https://youtu.be/K478fn6Pjtk
+- escuela-sabatica-es: 2026-11-17-es-short3-estrellas-y-candeleros → https://youtu.be/mwHBnPGZ1vg
+- escola-sabatina-pt: 2026-11-17-pt-short3-estrelas-e-candelabros → https://youtu.be/UfakQQ6sKBk
+- mayordom: 2026-11-17-es-analisis-diezmo-solo-comida → https://youtu.be/w4wR8wElpT4
+- mayordom: 2026-11-17-es-short3-y-si-lo-usan-mal → https://youtu.be/TqOZXuwfyQY
+- cryptuline: 2026-11-19-es-short2-integrales-respiratorias → https://youtu.be/0I0ZAcCCbyU
+- cryptuline: 2026-11-19-es-short3-fibra-certeza → https://youtu.be/W9emmArYpHs
+- cryptuline: 2026-11-20-es-short1-fibra-viernes → https://youtu.be/uz_ypD_fuh8
+- cryptuline: 2026-11-20-es-short2-integrales-pan → https://youtu.be/sj_Ano6u-_I
 
 ## Fallos
 
 ## Instagram/Facebook
-- mayordom: 2026-11-03-es-short3-nehemias-levitas: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
-- escuela-sabatica-es: 2026-11-03-es-short1-baruc-el-escriba: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
-- escola-sabatina-pt: 2026-11-03-pt-short1-baruque-o-escriba: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
-- top10-redes: 2026-11-08-en-short-top10-oceania-views: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
-- cryptuline: 2026-11-09-es-short1-perdon-terapia: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+- mayordom: 2026-11-03-es-short3-nehemias-levitas: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"ADBpGqPceFwZrPonXjKs53v"}}
+- escuela-sabatica-es: 2026-11-03-es-short1-baruc-el-escriba: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"A4t6N-GEXFDRmEZesAmqC7v"}}
