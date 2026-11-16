@@ -5,7 +5,7 @@
     "publicar_en": "2026-11-09T12:00:00Z",
     "caption": "¿Se puede aprender a perdonar? Lo que dicen los ensayos\n\n¿Se puede aprender a perdonar? Lo que dicen los ensayos.\n\n#Cryptuline #SaludConCiencia",
     "instagram": null,
-    "intentos": 0,
+    "intentos": 1,
     "segundos": 64.8,
     "facebook": null,
     "extra": {}
@@ -293,6 +293,28 @@
     "instagram": null,
     "intentos": 0,
     "segundos": 32.5,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-18-es-short3-fibra-donde-esta",
+    "asset": "cryptuline__2026-11-18-es-short3-fibra-donde-esta.mp4",
+    "publicar_en": "2026-11-19T01:30:00Z",
+    "caption": "¿Dónde está la fibra? 5 alimentos de tu mercado\n\n¿Dónde está la fibra? 5 alimentos de tu mercado.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 32.7,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-19-es-short1-fibra-colorrectal",
+    "asset": "cryptuline__2026-11-19-es-short1-fibra-colorrectal.mp4",
+    "publicar_en": "2026-11-19T12:00:00Z",
+    "caption": "Fibra y cáncer colorrectal: lo que dicen los datos\n\nFibra y cáncer colorrectal: lo que dicen los datos.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 32.6,
     "facebook": null,
     "extra": {}
   }

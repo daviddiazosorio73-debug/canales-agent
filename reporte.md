@@ -1,20 +1,20 @@
-# Último reporte (2026-11-15 21:48 UTC)
+# Último reporte (2026-11-16 09:38 UTC)
 
 ## Subidos
-- cryptuline: 2026-11-16-es-short1-fibra-135-millones → https://youtu.be/wQMCGMvoBkI
-- cryptuline: 2026-11-16-es-short2-fibra-15-30 → https://youtu.be/aRFLmZF66FQ
-- cryptuline: 2026-11-16-es-short3-fibra-25-29 → https://youtu.be/nt_6F3WyLw8
-- cryptuline: 2026-11-17-es-short1-fibra-ensayos → https://youtu.be/brlk5eEDRas
-- cryptuline: 2026-11-17-es-short2-integrales-90g → https://youtu.be/61T60iXQfhk
-- cryptuline: 2026-11-17-es-short3-integrales-mortalidad → https://youtu.be/VA9tx-h7jOA
-- cryptuline: 2026-11-18-es-short1-refinados-no → https://youtu.be/kYkZCny6cwA
-- cryptuline: 2026-11-18-es-short2-fibra-glicemico → https://youtu.be/Hyd7RHbU9eQ
+- escuela-sabatica-es: 2026-11-17-es-short1-todo-lo-puedo → https://youtu.be/0gOzzeiZJhE
+- escola-sabatina-pt: 2026-11-17-pt-short1-tudo-posso → https://youtu.be/vE9nOiyOhus
+- escuela-sabatica-es: 2026-11-17-es-short2-bajo-sus-alas → https://youtu.be/lO-0qYK5vr0
+- escola-sabatina-pt: 2026-11-17-pt-short2-debaixo-de-suas-asas → https://youtu.be/3eLzmKafrE0
+- mayordom: 2026-11-17-es-short1-voto-de-jacob → https://youtu.be/j2OL8Kz6OYE
+- mayordom: 2026-11-17-es-short2-diezmo-en-dinero → https://youtu.be/V4dANdFk7FE
+- cryptuline: 2026-11-18-es-short3-fibra-donde-esta → https://youtu.be/Kzi8H-75Xg8
+- cryptuline: 2026-11-19-es-short1-fibra-colorrectal → https://youtu.be/K478fn6Pjtk
 
 ## Fallos
 
 ## Instagram/Facebook
-- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_sub)
-- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_sub)
-- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_sub)
-- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_sub)
-- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_sub)
+- mayordom: 2026-11-03-es-short3-nehemias-levitas: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+- escuela-sabatica-es: 2026-11-03-es-short1-baruc-el-escriba: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+- escola-sabatina-pt: 2026-11-03-pt-short1-baruque-o-escriba: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+- top10-redes: 2026-11-08-en-short-top10-oceania-views: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+- cryptuline: 2026-11-09-es-short1-perdon-terapia: Meta 400: {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
