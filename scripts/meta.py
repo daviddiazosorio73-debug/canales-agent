@@ -20,7 +20,7 @@ import re
 import subprocess
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import requests
@@ -30,6 +30,8 @@ VER = os.environ.get("META_API_VER", "v26.0")
 G = f"https://graph.facebook.com/{VER}"
 RELEASE = "meta-cola"
 MAX_INTENTOS = 3
+ATRASO_H = 2          # más tarde que esto = atrasado
+ATRASO_CADA_H = 3     # orden del Fundador (15-nov-2026): 1 atrasado cada 3 h por canal
 
 
 def gh(*args, check=True):
@@ -163,8 +165,21 @@ def publicar():
         cola = json.loads(cola_p.read_text())
         pendiente = lambda c: (not c["instagram"] or not c["facebook"]  # noqa: E731
                                or any(v is None and os.environ.get(k) for k, v in (c.get("extra") or {}).items()))
-        listos = [c for c in cola if pendiente(c) and c["intentos"] < MAX_INTENTOS
-                  and datetime.fromisoformat(c["publicar_en"].replace("Z", "+00:00")) <= ahora]
+        hora = lambda c: datetime.fromisoformat(c["publicar_en"].replace("Z", "+00:00"))  # noqa: E731
+        listos = [c for c in cola if pendiente(c) and c["intentos"] < MAX_INTENTOS and hora(c) <= ahora]
+        # Atrasados (más de ATRASO_H horas tarde, p. ej. tras un token vencido): 1 cada ATRASO_CADA_H horas por canal,
+        # del más antiguo al más nuevo, para no saturar Instagram/Facebook. Los de su hora salen todos.
+        est_p = ROOT / "canales" / canal / "meta_estado.json"
+        est = json.loads(est_p.read_text()) if est_p.exists() else {}
+        a_tiempo = [c for c in listos if hora(c) > ahora - timedelta(hours=ATRASO_H)]
+        atrasados = sorted([c for c in listos if c not in a_tiempo], key=hora)
+        ultimo = est.get("ultimo_atraso")
+        if atrasados and (not ultimo or datetime.fromisoformat(ultimo) <= ahora - timedelta(hours=ATRASO_CADA_H)):
+            a_tiempo.append(atrasados[0])
+            est["ultimo_atraso"] = ahora.isoformat()
+            est["atrasados_pendientes"] = len(atrasados) - 1
+            est_p.write_text(json.dumps(est, indent=2))
+        listos = a_tiempo
         if not listos:
             continue
         try:
