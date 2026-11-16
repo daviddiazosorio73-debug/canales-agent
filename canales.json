@@ -141,7 +141,8 @@
       "tipos": [
         "short",
         "top10_reel"
-      ]
+      ],
+      "pagina": "Top 10 Redes Sociales"
     },
     "prioridad": 2
   },
@@ -169,7 +170,8 @@
       "secreto": "META_PAGE_TOKEN_CRYPTULINE",
       "tipos": [
         "short"
-      ]
+      ],
+      "pagina": "Cryptuline"
     },
     "ventana_horas": 168,
     "listas_desc": {
