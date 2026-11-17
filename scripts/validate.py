@@ -55,6 +55,10 @@ def main():
             err.append(f"miniatura.{k} vacío.")
     # SEO y calendario (avisos)
     seo = g["seo"]
+    for lg in (g.get("audios_extra") or {}):
+        falta = [e["id"] for e in g["escenas"] if not e.get(f"texto_{lg}")]
+        if falta:
+            warn.append(f"Pista de audio «{lg}»: escenas sin texto_{lg}: {', '.join(falta)} (irán en silencio).")
     if g["tipo"] == "short" and not g.get("top10_short"):
         sinq = [e["id"] for e in g["escenas"] if not (e.get("visual") or {}).get("query")]
         if sinq:

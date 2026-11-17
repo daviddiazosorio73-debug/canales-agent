@@ -180,5 +180,86 @@
     },
     "prioridad": 4,
     "clips_largos": true
+  },
+  "nutricion-andreia": {
+    "nombre": "Andreia Luiza Fabres · Nutrición",
+    "youtube_id": "",
+    "handle": "@andreialuizafabres5041",
+    "secreto": "REFRESH_TOKEN_NUTRICION",
+    "tts": "edge",
+    "voz": "it-IT-ElsaNeural",
+    "skill": "cryptuline-ciencia (reglas de salud) + CLAUDE.md (sección Nutrición Andreia)",
+    "activo": false,
+    "idioma": "it",
+    "audios_extra": {
+      "es": "es-MX-DaliaNeural",
+      "pt": "pt-BR-FranciscaNeural"
+    },
+    "nicho": [
+      "alimentazione sana",
+      "ricette sane",
+      "nutrizione",
+      "alimentação saudável",
+      "receitas saudáveis",
+      "comida saludable",
+      "recetas saludables"
+    ],
+    "calendario": "2 largos por semana: martes y viernes 12:00 Lima (17:00Z = 18:00 Italia, 14:00 Brasil). Un solo video en italiano con pistas de audio en español y portugués. Se escribe con 1 semana de adelanto; revisa Andreia, el Fundador o la Dra. (cualquiera de los 3) antes de la hora.",
+    "listas": {
+      "divulgacion": "Alimentazione sana con la scienza"
+    },
+    "listas_desc": {
+      "Alimentazione sana con la scienza": "Ricette e nutrizione basate su studi scientifici. Audio anche in spagnolo e portoghese. Non sostituisce il parere del medico."
+    },
+    "meta": {
+      "secreto": "META_PAGE_TOKEN_NUTRICION",
+      "tipos": [
+        "short"
+      ]
+    },
+    "ventana_horas": 168,
+    "prioridad": 6,
+    "clips_largos": true
+  },
+  "spri": {
+    "nombre": "SPRI · Radiología Intervencionista",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_SPRI",
+    "tts": "edge",
+    "voz": "es-PE-AlexNeural",
+    "skill": "spri-radiologia-intervencionista",
+    "activo": false,
+    "idioma": "es",
+    "nicho": [
+      "radiología intervencionista",
+      "procedimientos mínimamente invasivos",
+      "embolización",
+      "quimioembolización",
+      "ablación tumoral",
+      "angioplastia",
+      "radiología",
+      "SPRI"
+    ],
+    "calendario": "Largos: martes y jueves 20:00 Lima (01:00Z del día siguiente). Shorts: 1 diario de lunes a sábado 12:30 Lima (17:30Z). Se escribe con 1 semana de adelanto; revisión médica del Fundador antes de la hora.",
+    "listas": {
+      "divulgacion": "Radiología intervencionista con evidencia · SPRI",
+      "analisis": "Casos y procedimientos · SPRI",
+      "short": "Shorts · SPRI"
+    },
+    "listas_desc": {
+      "Radiología intervencionista con evidencia · SPRI": "Temas de radiología intervencionista a la luz de la evidencia científica actual. Sociedad Peruana de Radiología Intervencionista.",
+      "Casos y procedimientos · SPRI": "Casos publicados y procedimientos intervencionistas explicados paso a paso, con su evidencia.",
+      "Shorts · SPRI": "Radiología intervencionista en un minuto."
+    },
+    "meta": {
+      "secreto": "META_PAGE_TOKEN_SPRI",
+      "tipos": [
+        "short"
+      ]
+    },
+    "ventana_horas": 168,
+    "prioridad": 5,
+    "clips_largos": true,
+    "res_4k": true
   }
 }

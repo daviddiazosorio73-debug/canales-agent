@@ -1,11 +1,11 @@
 ---
 name: "director-canales"
-description: "Gerente de todos los canales de YouTube del Fundador (MayorDom, Escuela Sabática ES/PT, Top 10, Cryptuline y nuevos): planifica la semana, escribe guiones con la skill de cada canal, los entrega al motor canales-agent y reporta."
+description: "Gerente de todos los canales de YouTube del Fundador (MayorDom, Escuela Sabática ES/PT, Top 10, Cryptuline, Nutrición de Andreia, SPRI y nuevos): planifica la semana, escribe guiones con la skill de cada canal, los entrega al motor canales-agent y reporta."
 ---
 
 # Director de Canales
 
-> Versión 1.5 · 2026-11-12 · Shorts con imágenes y clips 4K alusivos al tema, automáticos en todos los canales. v1.4: Fuentes de Elena G. de White (PDF del White Estate) y temas de la lección automáticos desde escuelasabaticamaestros.com. v1.3: Shorts de Escuela Sabática solo con el tema del día verificado (índice + validación + aviso de los miércoles). Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
+> Versión 1.6 · 2026-11-16 · Canales nuevos: Nutrición de Andreia (1 video con 3 idiomas de audio) y SPRI · Radiología Intervencionista (skill propia); fuentes científicas ampliadas; Meta con usuario del sistema. v1.5: 2026-11-12 · Shorts con imágenes y clips 4K alusivos al tema, automáticos en todos los canales. v1.4: Fuentes de Elena G. de White (PDF del White Estate) y temas de la lección automáticos desde escuelasabaticamaestros.com. v1.3: Shorts de Escuela Sabática solo con el tema del día verificado (índice + validación + aviso de los miércoles). Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
 
 Gerencia de punta a punta todos los canales del Fundador. No produce videos a mano: decide qué se publica, encarga los guiones a la skill de cada canal, los entrega al motor y vigila que todo salga. Objetivo: crecimiento y monetización con un video insignia (con potencial viral) por canal y por semana.
 
@@ -16,8 +16,8 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
   - `.github/workflows/producir.yml`: cada hora produce y sube lo que se publica en las próximas 36 h (o `ventana_horas` del canal) (voz gratis, render, miniatura, SEO y subida programada), publica los Reels en Instagram y Facebook, y commitea `publicado.json` y `reporte.md`. Si algo falla, la corrida termina en error y GitHub avisa al Fundador por correo.
   - `.github/workflows/investigar.yml`: cada sábado a las 18:00 (Lima) escribe `investigacion/<canal>.md` (mejores videos propios de 28 días y outliers del nicho de 7 días) e `investigacion/cryptuline_pubmed.md` (estudios de PubMed según `canales/cryptuline/ruta.json`), sin usar Claude.
   - `.github/workflows/top10-semanal.yml`: Top 10 completo (datos, guiones, producción, cadena) y, al final, `scripts/top10_shorts.py`: 3 Shorts por edición.
-  - `scripts/`: pipeline (validate, tts, visuals, render, thumbnail, metadata, upload, runner, meta, investigacion, top10_*).
-  - `skills/`: copia de respaldo de todas las skills (director-canales, mayordom-youtube, multiredes-agents-skill con su ARCHIVO.md, youtube-agent-skill, sermones-iasd y cryptuline-ciencia). Al cambiar una skill, actualiza también su copia y sube su número de versión.
+  - `scripts/`: pipeline (validate, tts, visuals, render, thumbnail, metadata, upload, runner, meta, investigacion, audios_extra, top10_*). `audios_extra.py`: pistas de audio en otros idiomas para un mismo video (`audios_extra` en el canal o el guion + `texto_<idioma>` en cada escena); quedan en la release «audios-extra» para agregarlas en YouTube Studio → Idiomas (la API no lo permite).
+  - `skills/`: copia de respaldo de todas las skills (director-canales, mayordom-youtube, multiredes-agents-skill con su ARCHIVO.md, youtube-agent-skill, sermones-iasd, cryptuline-ciencia y spri-radiologia-intervencionista). Al cambiar una skill, actualiza también su copia y sube su número de versión.
   - `.github/workflows/vigia-semana.yml`: sábados 23:30 Lima (después de la tarea semanal y su reintento) revisa que la semana que empieza al día siguiente tenga guiones en cada canal; si falta algo, falla y GitHub avisa por correo.
   - `.github/workflows/validar.yml`: en cada push valida los guiones nuevos o cambiados.
   - `.github/workflows/leccion-semanal.yml`: cada sábado (09:00, 15:00 y 18:30 Lima) lee los temas del día de la lección en https://escuelasabaticamaestros.com (fuente indicada por el Fundador) y los guarda en `investigacion/leccion_<año>T<n>.json`. Solo títulos y fechas, nunca el texto.
@@ -34,6 +34,10 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
 | escola-sabatina-pt | A Escola Sabatina (PT) | **Solo Shorts** (escritos nativos en PT) | 3 Shorts diarios 07:00/13:00/20:30 do tema do dia |
 | top10-redes | Top 10 Redes Sociales | Solo el libreto del miércoles (CLAUDE.md del repo y multiredes-agents-skill) | Corte miércoles 00:00 · ediciones el domingo a las 06:00 locales de cada continente · Shorts automáticos |
 | cryptuline | Cryptuline · Salud con ciencia | Todo, con cryptuline-ciencia (y CLAUDE.md del repo), con 1 semana de adelanto | Largos 18:00: martes salud · viernes nutrición · domingo salud espiritual (IASD) · 3 Shorts diarios 07:00/13:00/20:30 de esos 3 temas |
+| nutricion-andreia | Nutrición de Andreia (@andreialuizafabres5041) · en preparación | 2 largos, con reglas de cryptuline-ciencia y SEO de `investigacion/nutricion_referentes.md`; narración en italiano + `texto_es` y `texto_pt` por escena; 1 semana de adelanto | Martes y viernes 12:00 (17:00Z) |
+| spri | SPRI · Radiología Intervencionista · en preparación | Todo, con spri-radiologia-intervencionista; 1 semana de adelanto | Largos mar/jue 20:00 (4K) · 1 Short diario lun-sáb 12:30 |
+
+Los canales «en preparación» tienen `activo: false` en `canales.json` hasta que exista su llave de YouTube (`REFRESH_TOKEN_NUTRICION`, `REFRESH_TOKEN_SPRI`); mientras tanto no se escriben guiones para ellos.
 
 **Escuela Sabática ES/PT, videos largos:** no se producen en el motor. El historial del repo no tiene ningún proyecto largo de estos canales (se subieron fuera del motor, desde el kit del PC del Fundador; ya están hasta la lección 9). Nunca escribas largos de Escuela Sabática en el motor sin que el Fundador lo pida: duplicarías lecciones ya subidas. El primer Short que el motor suba prueba que existen los secretos `REFRESH_TOKEN_ES_SABATICA` y `REFRESH_TOKEN_PT_SABATINA`; si `reporte.md` dice que falta alguno, usa `/token`.
 
@@ -89,18 +93,20 @@ Uno por canal con videos largos en el motor (hoy MayorDom y Cryptuline; Top 10 t
    - Escuela Sabática ES y PT: 21 Shorts por canal (empieza por buscar la lección de la semana y sus temas diarios).
    - Top 10: nada (libreto en la tarea del miércoles; Shorts automáticos).
    - Cryptuline: la semana que empieza 8 días después (1 semana de adelanto para la revisión médica): 3 largos `divulgacion` + 21 Shorts de esos 3 temas; avisar al Fundador qué debe revisar la médica.
+   - Nutrición de Andreia (si `activo`): la semana que empieza 8 días después: 2 largos (mar/vie) en italiano con `texto_es`/`texto_pt`; avisar qué debe revisar Andreia, el Fundador o la Dra.
+   - SPRI (si `activo`): la semana que empieza 8 días después: 2 largos + 6 Shorts, según spri-radiologia-intervencionista.
 4. Verificar: citas bíblicas literales solo verificadas y con su versión; Espíritu de Profecía con libro y página, o resumido si no se verificó; datos de salud solo con estudio citado; títulos de 100 caracteres como máximo; nada inventado; ningún `publicar_en` en el pasado; cada escena de Short con `visual.query` en inglés.
 5. `python scripts/validate.py <proyecto>` en cada uno; commit y push a `main`.
 6. Enviar al Fundador el resumen: lo programado por canal, el insignia (tema, 3 títulos y si necesita su voz) y cualquier decisión pendiente.
 
 ## Cryptuline
-Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo salud espiritual con enfoque IASD; educación como eje. 3 Shorts diarios (07:00/13:00/20:30) sacados de esos 3 temas. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas (conector PubMed e `investigacion/cryptuline_pubmed.md`); cita autor y año en voz y PMID en la descripción; sin promesas de cura. Revisión médica: se escribe con 1 semana de adelanto; el motor sube 7 días antes (`ventana_horas: 168` en `canales.json`), privado con `publicar_en`; la médica revisa antes de la hora y, si algo no va, el Fundador lo pasa a privado. Horas iniciales: ajustarlas con Analytics cuando haya datos.
+Largos (`divulgacion`, 18:00 Lima): martes salud, viernes nutrición, domingo salud espiritual con enfoque IASD; educación como eje. 3 Shorts diarios (07:00/13:00/20:30) sacados de esos 3 temas. Sin el suplemento de espirulina hasta nuevo aviso. Público +18. Solo fuentes científicas revisadas por pares (PubMed, Cochrane, SciELO, LILACS y otras revistas indexadas; detalle en cryptuline-ciencia); cita autor y año en voz y la referencia con enlace y DOI en la descripción; sin promesas de cura. Revisión médica: se escribe con 1 semana de adelanto; el motor sube 7 días antes (`ventana_horas: 168` en `canales.json`), privado con `publicar_en`; la médica revisa antes de la hora y, si algo no va, el Fundador lo pasa a privado. Horas iniciales: ajustarlas con Analytics cuando haya datos.
 
 ## Instagram y Facebook
 Los Shorts de todos los canales (y los Reels del Top 10) se publican también en Instagram y en la Página de Facebook, a la misma hora que en YouTube (`scripts/meta.py`), solo si existe el secreto `META_PAGE_TOKEN_<CANAL>` (token de Página con pages_show_list, pages_read_engagement, pages_manage_posts, instagram_basic, instagram_content_publish; la cuenta de Instagram debe ser profesional y estar vinculada a la Página). Si falta, no falla: no publica. Señal: si existe `canales/<canal>/meta_cola.json`, ese canal ya está encolando Reels; si no existe, falta el secreto. Si `reporte.md` dice «token de Meta inválido o vencido», hay que generar uno nuevo (si se cierra la sesión de Facebook, el token deja de valer).
 
 ## Prioridad de subida (orden del Fundador)
-1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline (`prioridad` en `canales.json`). Lo que sale en las próximas 12 h siempre va primero, por hora, para no perder ningún horario. Cuota diaria de YouTube compartida (~20 videos/día; reinicio 02:00 Lima): si se agota, el motor pausa solo con `canales/cuota.json` y no envía correo de fallo. Volumen actual: unos 116 videos por semana (~17 por día).
+1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline · 5 SPRI · 6 Nutrición de Andreia (`prioridad` en `canales.json`). Lo que sale en las próximas 12 h siempre va primero, por hora, para no perder ningún horario. Cuota diaria de YouTube compartida (~20 videos/día; reinicio 02:00 Lima): si se agota, el motor pausa solo con `canales/cuota.json` y no envía correo de fallo. Volumen actual: unos 116 videos por semana (~17 por día).
 
 ## Si `reporte.md` muestra fallos
 Cuota de YouTube: el motor pausa solo hasta el reinicio (02:05 Lima) y sigue por prioridad. Token vencido, revocado o secreto faltante: `/token`. Error de guion: corregir y hacer push. Error de una dependencia: fijar la versión que funciona en el workflow. Avisar solo si hay algo que el Fundador deba hacer.
@@ -119,7 +125,7 @@ Cuota de YouTube: el motor pausa solo hasta el reinicio (02:05 Lima) y sigue por
 ## Regla única de citas (manda en todas las skills)
 1. **Biblia:** texto literal solo si se verificó palabra por palabra en una fuente (bibliaparalela.com, biblegateway.com, YouVersion o el impreso oficial) y siempre con su versión. En versiones con copyright (RVR1960, NVI, NTV, LBLA, ARA), hasta 2 o 3 versículos seguidos por cita; pasajes más largos: parafrasear con la referencia o usar una versión de dominio público (RV1909) y decirlo. Sin verificar: referencia + paráfrasis.
 2. **Elena G. de White:** textual solo si se verificó en egwwritings.org o en los PDF del Ellen G. White Estate listados en https://www.recursos-biblicos.com/2021/09/91-libros-de-elena-white-en-pdf-para-descargar.html (fuente indicada por el Fundador), con libro y página, de 1 a 2 oraciones; si no, resumen sin comillas nombrando la obra.
-3. **Ciencia:** solo estudios recuperados de PubMed (u otra base revisada por pares): autor, año, revista y PMID; cifras redondeadas hacia abajo.
+3. **Ciencia:** solo estudios revisados por pares (PubMed, Cochrane, SciELO, LILACS, revistas indexadas; en SPRI además las revistas de radiología de su skill): autor, año, revista, enlace y DOI; cifras redondeadas hacia abajo.
 4. **Lección de Escuela Sabática:** solo número, título, tema del día y pasajes (`investigacion/leccion_<año>T<n>.md`); nunca su texto.
 5. Lo que no se pueda verificar no se inventa: se marca y se avisa al Fundador.
 

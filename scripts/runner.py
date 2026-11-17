@@ -163,7 +163,11 @@ def main():
             if g.get("top10_short"):
                 run_opc("top10_short_visual.py", proj, env)
             run("visuals.py", proj, env, *offline)
-            run("render.py", proj, env)
+            if cfg.get("audios_extra") and not g.get("audios_extra"):
+                g["audios_extra"] = cfg["audios_extra"]
+                (proj / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
+            multi = bool(g.get("audios_extra"))  # 1 video con varias pistas de idioma: sin subtítulos quemados
+            run("render.py", proj, env, *(["--sin-subtitulos-quemados"] if multi else []))
             run("thumbnail.py", proj, env)
             if top10:
                 run_opc("top10_miniatura.py", proj, env)
@@ -171,6 +175,21 @@ def main():
             run("metadata.py", proj, env)
             run("upload.py", proj, env, "--canal", canal)
             shutil.copy(proj / "salida" / "publicado.json", proj / "publicado.json")
+            if multi:  # pistas ES/PT/…: se dejan en la release «audios-extra» para subirlas en YouTube Studio
+                try:
+                    run("audios_extra.py", proj, env)
+                    arch = []
+                    for f in sorted((proj / "salida").glob("audio_*.m4a")) + sorted((proj / "salida").glob("subtitulos_*.srt")):
+                        dst = proj / "salida" / f"{proj.name}__{f.name}"
+                        f.rename(dst)
+                        arch.append(str(dst))
+                    if subprocess.run(["gh", "release", "view", "audios-extra"], env=env, capture_output=True).returncode:
+                        subprocess.run(["gh", "release", "create", "audios-extra", "--title", "Pistas de audio extra",
+                                        "--notes", "Audios y subtítulos en otros idiomas para YouTube Studio → Idiomas."], env=env)
+                    subprocess.run(["gh", "release", "upload", "audios-extra", *arch, "--clobber"], env=env, check=True)
+                    hechos.append(f"{canal}: {proj.name}: pistas de idioma listas para Studio → release «audios-extra»")
+                except Exception as ex:
+                    fallos.append(f"{canal}: {proj.name}: pistas de idioma: {ex}")
             if (cfg.get("meta") or {}).get("secreto") and env.get(cfg["meta"]["secreto"]):
                 r = subprocess.run([sys.executable, str(SCRIPTS / "meta.py"), "encolar", str(proj), "--canal", canal], env=env)
                 if r.returncode:

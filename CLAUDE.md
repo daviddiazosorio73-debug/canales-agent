@@ -1,8 +1,8 @@
 # Instrucciones para Claude en este repositorio
-- Este repo es el motor de los 5 canales del Fundador (MayorDom, Escuela Sabática ES, Escola Sabatina PT, Top 10 Redes Sociales y Cryptuline). Respuestas cortas, verificables, sin inventar citas.
+- Este repo es el motor de los canales del Fundador: MayorDom, Escuela Sabática ES, Escola Sabatina PT, Top 10 Redes Sociales, Cryptuline y, en preparación (`activo: false` hasta tener su llave de YouTube), Nutrición de Andreia y SPRI · Radiología Intervencionista. Respuestas cortas, verificables, sin inventar citas.
 - Guiones: `canales/<canal>/proyectos/<AAAA-MM-DD>-<lang>-<tipo>-<slug>/guion.json` (esquema de youtube-agent-skill; tipos: sermon, analisis, short, divulgacion, top10, intro, diario, resumen_viernes, repaso_sabado).
 - `seo.publicar_en` en UTC (Lima = UTC−5). Nunca borres un `publicado.json`.
-- Orden de subida (cuota diaria de YouTube compartida, ~20 videos/día, se reinicia 02:00 Lima): primero lo que sale en las próximas 12 h, por hora; luego por `prioridad` del canal en canales.json (1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline). Si se agota la cuota, el motor pausa solo (`canales/cuota.json`) hasta el reinicio.
+- Orden de subida (cuota diaria de YouTube compartida, ~20 videos/día, se reinicia 02:00 Lima): primero lo que sale en las próximas 12 h, por hora; luego por `prioridad` del canal en canales.json (1 Escuela Sabática ES/PT · 2 Top 10 · 3 MayorDom · 4 Cryptuline · 5 SPRI · 6 Nutrición de Andreia). Si se agota la cuota, el motor pausa solo (`canales/cuota.json`) hasta el reinicio.
 - Gerencia: skill director-canales (manda sobre calendarios y qué escribe Claude). MayorDom: mayordom-youtube. Top 10: este archivo + multiredes-agents-skill. Cryptuline: cryptuline-ciencia + la sección Cryptuline de este archivo. Citas: «Regla única de citas» de director-canales. Respaldo de todas las skills en `skills/` (con número de versión).
 - Índices verificados para las tareas programadas (no pueden leer la web): `investigacion/leccion_<año>T<n>.md` (lecciones y temas diarios) y `investigacion/cmc_indice.md` (capítulos de Consejos sobre mayordomía cristiana). Si falta un dato, no se inventa: se avisa al Fundador.
 - Control automático: `.github/workflows/validar.yml` (valida en cada push) y `.github/workflows/vigia-semana.yml` (sábado 23:30 Lima: falla si la semana siguiente no tiene todos sus guiones).
@@ -33,3 +33,15 @@
 - Sin afirmaciones de cura/prevención: «este estudio encontró…», con límites (tamaño, en animales o humanos) y «consulta a tu médico». Nada de inversión, NFT, cripto ni ventas; sí la marca Cryptuline.
 - Viralidad científica: gancho con dato sorprendente verificado, pregunta que se responde al final, mitos vs evidencia.
 - Instagram y Facebook: los Shorts de todos los canales se publican también como Reels (scripts/meta.py) si existe el secreto `META_PAGE_TOKEN_<CANAL>`.
+
+## Nutrición de Andreia (@andreialuizafabres5041) · en preparación
+- Canal de Andreia Luiza Fabres; el Fundador lo administra. Nombre del canal: se mantiene (decisión del Fundador).
+- 2 largos por semana (`tipo: "divulgacion"`): **martes y viernes 12:00 Lima (17:00Z)** = 18:00 Italia, 14:00 Brasil. Shorts: aún no.
+- **Un solo video, 3 idiomas:** narración principal en italiano (`lang: "it"`, voz edge it-IT-ElsaNeural) y cada escena con `texto_es` y `texto_pt` (misma idea, largo parecido). El motor sube el video sin subtítulos quemados y deja las pistas `audio_es.m4a` / `audio_pt.m4a` y sus subtítulos en la release «audios-extra»; se agregan en YouTube Studio → Idiomas (la API no permite subirlas). Título y descripción con traducciones (`seo.locs`).
+- Reglas de salud, fuentes, lenguaje e imágenes 4K: skill cryptuline-ciencia. Revisión: Andreia, el Fundador o la Dra. (cualquiera de los 3), con 1 semana de adelanto (`ventana_horas: 168`).
+- Temas y SEO: `investigacion/nutricion_referentes.md` (referentes por idioma; solo temas y patrones, nunca copiar sus videos). Diferenciar de Cryptuline: aquí recetas y alimentos concretos; Cryptuline, salud y estudios.
+
+## SPRI · Radiología Intervencionista · en preparación
+- Canal nuevo con la marca de la Sociedad Peruana de Radiología Intervencionista (SPRI), autorizado por la SPRI. Skill: spri-radiologia-intervencionista (manda sobre calendario, fuentes y formato).
+- Largos (`divulgacion` / `analisis`): **martes y jueves 20:00 Lima (01:00Z del día siguiente)**, 4K. Shorts: **1 diario de lunes a sábado, 12:30 Lima (17:30Z)**. Después Facebook/Instagram (Reels) y luego TikTok.
+- Casos: solo publicados con licencia abierta (CC BY) o de repositorios libres; nunca datos ni imágenes de pacientes propios.
