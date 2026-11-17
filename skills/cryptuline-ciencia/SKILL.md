@@ -5,7 +5,7 @@ description: "Cryptuline · Salud con ciencia (canal de YouTube del Fundador): e
 
 # Cryptuline · Salud con ciencia
 
-> Versión 1.1 · 2026-11-16 · Fuentes ampliadas a otras revistas médicas y científicas; imágenes y clips 4K alusivos en largos y Shorts; reglas aplicables a otros canales de salud del Fundador. v1.0: 2026-11-01. Reglas tomadas de `CLAUDE.md` del repo canales-agent y de director-canales (mandan si difieren; si se contradicen, preguntar al Fundador).
+> Versión 1.2 · 2026-11-17 · Foco único: investigación sobre espirulina (Arthrospira / Limnospira; platensis y maxima) desde la edición del 29-nov-2026. v1.1: 2026-11-16 · Fuentes ampliadas a otras revistas médicas y científicas; imágenes y clips 4K alusivos en largos y Shorts; reglas aplicables a otros canales de salud del Fundador. v1.0: 2026-11-01. Reglas tomadas de `CLAUDE.md` del repo canales-agent y de director-canales (mandan si difieren; si se contradicen, preguntar al Fundador).
 
 Canal de educación en salud para adultos (+18). Objetivo: que la gente entienda qué dice de verdad la ciencia, con datos verificables y sin promesas. La gerencia (calendario, qué se escribe, aviso al Fundador) es de director-canales; el motor `canales-agent` produce y sube.
 
@@ -20,7 +20,9 @@ Canal de educación en salud para adultos (+18). Objetivo: que la gente entienda
 
 - La educación es el eje de todos los videos.
 - **Una semana de adelanto:** la tarea del sábado escribe la semana que empieza 8 días después. El motor sube 7 días antes (`ventana_horas: 168`), en privado con `publicar_en`.
-- Espirulina: fuera hasta nuevo aviso del Fundador (`validate.py` lo bloquea).
+- **Foco único (orden del Fundador, 17-nov-2026): la investigación sobre espirulina** (*Arthrospira* / *Limnospira*; *platensis* y/o *maxima*), desde la edición del 29-nov-2026. Cada semana sigue su edición en `canales/cryptuline/ruta.json` → `semanas` (tema, martes salud, viernes nutrición, domingo IASD con el tema como puente, PMID base). `validate.py` rechaza un guion desde esa fecha que no trate de espirulina.
+- Índice verificado: `investigacion/cryptuline_espirulina.md` (revisiones sistemáticas, metaanálisis y ensayos en humanos; seguridad y B12). Precisiones obligatorias: la espirulina tiene sobre todo pseudovitamina B12 inactiva (Watanabe 1999, 2002), no es fuente de B12; la calidad del producto importa (microcistinas, metales pesados; Grosshagauer 2020); los efectos de los metaanálisis son en general pequeños y con heterogeneidad; resultados en animales se dicen como tales.
+- Nada de ventas ni marcas comerciales de espirulina; sí la marca Cryptuline del canal.
 - Horas iniciales; ajustarlas con los datos de `investigacion/cryptuline.md` cuando haya suficientes.
 
 ## Fuentes (solo científicas, revisadas por pares)

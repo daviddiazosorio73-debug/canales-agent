@@ -1,17 +1,207 @@
 {
-  "_nota": "Ruta anual de Cryptuline: un tema por mes, visto desde varios ángulos. 'pubmed' = búsqueda que GitHub hace cada semana en PubMed (gratis) para que Claude escriba con estudios reales.",
+  "_nota": "Ruta de Cryptuline. Desde la edición del 29-nov-2026 (orden del Fundador, 17-nov-2026) TODO el canal se centra en la investigación sobre espirulina (Arthrospira / Limnospira; platensis y maxima): 'semanas' manda (una edición por semana, de domingo a sábado); 'meses' queda como respaldo cuando se acaben las semanas. 'pubmed' = búsqueda que GitHub hace cada sábado en PubMed (gratis). Índice base verificado: investigacion/cryptuline_espirulina.md.",
   "meses": {
-    "2026-11": {"tema": "¿Qué es la espirulina? Historia, ciencia y composición", "angulos": ["historia (aztecas, lago Chad)", "biología de Arthrospira", "composición nutricional real", "mitos frecuentes"], "pubmed": "(Spirulina OR Arthrospira) AND (composition OR nutritional value OR review[pt])"},
-    "2026-12": {"tema": "Proteína y nutrición", "angulos": ["calidad de su proteína", "deporte", "vegetarianos", "malnutrición infantil"], "pubmed": "(Spirulina OR Arthrospira) AND (protein OR malnutrition OR athletes)"},
-    "2027-01": {"tema": "Sistema inmune y antioxidantes (ficocianina)", "angulos": ["ficocianina", "estrés oxidativo", "qué dicen los ensayos en humanos", "límites de la evidencia"], "pubmed": "(Spirulina OR phycocyanin) AND (immune OR antioxidant) AND (clinical trial[pt] OR meta-analysis[pt])"},
-    "2027-02": {"tema": "Metabolismo: glucosa, colesterol y peso", "angulos": ["meta-análisis de lípidos", "glucosa", "peso corporal", "cómo leer un estudio"], "pubmed": "(Spirulina OR Arthrospira) AND (lipid OR glucose OR weight) AND meta-analysis[pt]"},
-    "2027-03": {"tema": "Seguridad: calidad, contaminantes, interacciones", "angulos": ["microcistinas y metales pesados", "certificaciones de calidad", "interacciones con medicamentos", "quién debe consultar al médico"], "pubmed": "(Spirulina OR Arthrospira) AND (safety OR microcystin OR heavy metals OR adverse)"},
-    "2027-04": {"tema": "Cultivo casero y artesanal", "angulos": ["condiciones de cultivo", "medio y pH", "cosecha y secado", "errores comunes"], "pubmed": "Arthrospira platensis AND (cultivation OR culture medium OR open pond)"},
-    "2027-05": {"tema": "Cultivo industrial y tecnología", "angulos": ["estanques vs fotobiorreactores", "control de calidad", "escalado", "innovación"], "pubmed": "Arthrospira AND (photobioreactor OR large-scale production)"},
-    "2027-06": {"tema": "Economía y emprendimiento", "angulos": ["cadena de valor", "mercado mundial", "costos de producción", "emprendimiento responsable"], "pubmed": "(Spirulina OR Arthrospira) AND (economic OR techno-economic OR market)"},
-    "2027-07": {"tema": "Medio ambiente y espacio", "angulos": ["captura de CO2", "uso de agua", "MELiSSA y la exploración espacial", "economía circular"], "pubmed": "(Spirulina OR Arthrospira) AND (CO2 OR life support OR wastewater)"},
-    "2027-08": {"tema": "Gastronomía y formas de consumo", "angulos": ["fresca vs polvo", "recetas", "sabor y color", "conservación"], "pubmed": "(Spirulina OR Arthrospira) AND (food fortification OR sensory OR food product)"},
-    "2027-09": {"tema": "Investigación de frontera y biotecnología", "angulos": ["ficocianina como colorante natural", "biomateriales", "biocombustibles", "lo que aún no sabemos"], "pubmed": "(Spirulina OR Arthrospira OR phycocyanin) AND (biotechnology OR biomedical) AND 2024:2026[dp]"},
-    "2027-10": {"tema": "Mitos y verdades: el año en ciencia", "angulos": ["mitos virales", "lo que sí está demostrado", "lo que falta probar", "resumen del año"], "pubmed": "(Spirulina OR Arthrospira) AND systematic review[pt]"}
+    "2026-11": {
+      "tema": "¿Qué es la espirulina? Historia, ciencia y composición",
+      "angulos": [
+        "historia (aztecas, lago Chad)",
+        "biología de Arthrospira",
+        "composición nutricional real",
+        "mitos frecuentes"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (composition OR nutritional value OR review[pt])"
+    },
+    "2026-12": {
+      "tema": "Proteína y nutrición",
+      "angulos": [
+        "calidad de su proteína",
+        "deporte",
+        "vegetarianos",
+        "malnutrición infantil"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (protein OR malnutrition OR athletes)"
+    },
+    "2027-01": {
+      "tema": "Sistema inmune y antioxidantes (ficocianina)",
+      "angulos": [
+        "ficocianina",
+        "estrés oxidativo",
+        "qué dicen los ensayos en humanos",
+        "límites de la evidencia"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira OR phycocyanin) AND (immune OR antioxidant) AND (clinical trial[pt] OR meta-analysis[pt])"
+    },
+    "2027-02": {
+      "tema": "Metabolismo: glucosa, colesterol y peso",
+      "angulos": [
+        "meta-análisis de lípidos",
+        "glucosa",
+        "peso corporal",
+        "cómo leer un estudio"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (lipid OR glucose OR weight) AND meta-analysis[pt]"
+    },
+    "2027-03": {
+      "tema": "Seguridad: calidad, contaminantes, interacciones",
+      "angulos": [
+        "microcistinas y metales pesados",
+        "certificaciones de calidad",
+        "interacciones con medicamentos",
+        "quién debe consultar al médico"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (safety OR microcystin OR heavy metals OR adverse)"
+    },
+    "2027-04": {
+      "tema": "Cultivo casero y artesanal",
+      "angulos": [
+        "condiciones de cultivo",
+        "medio y pH",
+        "cosecha y secado",
+        "errores comunes"
+      ],
+      "pubmed": "(Arthrospira platensis OR Limnospira) AND (cultivation OR culture medium OR open pond)"
+    },
+    "2027-05": {
+      "tema": "Cultivo industrial y tecnología",
+      "angulos": [
+        "estanques vs fotobiorreactores",
+        "control de calidad",
+        "escalado",
+        "innovación"
+      ],
+      "pubmed": "(Arthrospira OR Limnospira) AND (photobioreactor OR large-scale production)"
+    },
+    "2027-06": {
+      "tema": "Economía y emprendimiento",
+      "angulos": [
+        "cadena de valor",
+        "mercado mundial",
+        "costos de producción",
+        "emprendimiento responsable"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (economic OR techno-economic OR market)"
+    },
+    "2027-07": {
+      "tema": "Medio ambiente y espacio",
+      "angulos": [
+        "captura de CO2",
+        "uso de agua",
+        "MELiSSA y la exploración espacial",
+        "economía circular"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (CO2 OR life support OR wastewater)"
+    },
+    "2027-08": {
+      "tema": "Gastronomía y formas de consumo",
+      "angulos": [
+        "fresca vs polvo",
+        "recetas",
+        "sabor y color",
+        "conservación"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND (food fortification OR sensory OR food product)"
+    },
+    "2027-09": {
+      "tema": "Investigación de frontera y biotecnología",
+      "angulos": [
+        "ficocianina como colorante natural",
+        "biomateriales",
+        "biocombustibles",
+        "lo que aún no sabemos"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira OR phycocyanin) AND (biotechnology OR biomedical) AND 2024:2026[dp]"
+    },
+    "2027-10": {
+      "tema": "Mitos y verdades: el año en ciencia",
+      "angulos": [
+        "mitos virales",
+        "lo que sí está demostrado",
+        "lo que falta probar",
+        "resumen del año"
+      ],
+      "pubmed": "(Spirulina OR Arthrospira OR Limnospira) AND systematic review[pt]"
+    }
+  },
+  "semanas": {
+    "2026-11-29": {
+      "tema": "¿Qué es de verdad la espirulina?",
+      "martes_salud": "Arthrospira/Limnospira platensis y maxima: qué son, de dónde vienen y qué dicen las revisiones (panorama)",
+      "viernes_nutricion": "Composición real: proteína, hierro, ficocianina y el mito de la vitamina B12",
+      "domingo_iasd": "Templanza: lo bueno, con medida y con evidencia (con el tema de la semana como puente)",
+      "pmid_base": "36273817, 35916491, 10552882, 12656203",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (composition OR nutritional value OR review[pt])"
+    },
+    "2026-12-06": {
+      "tema": "Espirulina y presión arterial",
+      "martes_salud": "Metaanálisis de presión arterial: cuánto baja, en quién y en cuánto tiempo",
+      "viernes_nutricion": "Cocina para el corazón: espirulina con menos sal",
+      "domingo_iasd": "Descanso y corazón: el sábado y la presión de la vida (con el tema de la semana como puente)",
+      "pmid_base": "39529406, 34578932, 40726022, 42321101",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (blood pressure OR hypertension)"
+    },
+    "2026-12-13": {
+      "tema": "Espirulina, colesterol y triglicéridos",
+      "martes_salud": "Lípidos: lo que encontró el metaanálisis con análisis dosis-respuesta",
+      "viernes_nutricion": "Desayunos con espirulina y fibra: cómo combinarla",
+      "domingo_iasd": "Mayordomía del cuerpo: cuidar lo que se nos confió (con el tema de la semana como puente)",
+      "pmid_base": "37263369, 33724587, 40289965",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (lipid OR cholesterol OR triglycerides)"
+    },
+    "2026-12-20": {
+      "tema": "Espirulina y glucosa",
+      "martes_salud": "Glucosa en ayunas y HbA1c: humanos vs animales",
+      "viernes_nutricion": "Batidos verdes sin picos de azúcar",
+      "domingo_iasd": "Dominio propio y decisiones diarias (con el tema de la semana como puente)",
+      "pmid_base": "34538515, 37544212, 40123054",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (glucose OR diabetes OR insulin)"
+    },
+    "2026-12-27": {
+      "tema": "Espirulina, inflamación y antioxidantes",
+      "martes_salud": "PCR, IL-6 y TNF-α: qué cambió y qué no",
+      "viernes_nutricion": "Ficocianina: el azul natural en la cocina",
+      "domingo_iasd": "Paz interior e inflamación: estrés y esperanza (con el tema de la semana como puente)",
+      "pmid_base": "41873104, 34235823, 33908048, 36273817",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (C-reactive protein OR inflammation OR antioxidant OR phycocyanin)"
+    },
+    "2027-01-03": {
+      "tema": "Espirulina y peso corporal",
+      "martes_salud": "Peso, cintura e IMC: efectos pequeños y cómo leerlos",
+      "viernes_nutricion": "Snacks con espirulina para empezar el año",
+      "domingo_iasd": "Propósitos con propósito: hábitos que duran (con el tema de la semana como puente)",
+      "pmid_base": "32967062, 39461896, 40655486",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (body weight OR obesity OR anthropometric)"
+    },
+    "2027-01-10": {
+      "tema": "Espirulina y hierro",
+      "martes_salud": "Hierro y anemia: lo que dicen los estudios y lo que falta",
+      "viernes_nutricion": "Platos ricos en hierro con espirulina y vitamina C",
+      "domingo_iasd": "Agua, aire y sol: remedios naturales (con el tema de la semana como puente)",
+      "pmid_base": "41255135, 35916491",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (iron OR anemia OR hemoglobin)"
+    },
+    "2027-01-17": {
+      "tema": "Espirulina, deporte y recuperación",
+      "martes_salud": "Rendimiento y daño muscular: metaanálisis de algas en el ejercicio",
+      "viernes_nutricion": "Recuperación después del ejercicio: recetas",
+      "domingo_iasd": "Ejercicio y fe: el cuerpo como templo (con el tema de la semana como puente)",
+      "pmid_base": "42075102, 36590230, 38892584",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (exercise OR athletes OR muscle damage)"
+    },
+    "2027-01-24": {
+      "tema": "Seguridad y calidad de la espirulina",
+      "martes_salud": "Microcistinas, metales pesados y quién debe consultar al médico",
+      "viernes_nutricion": "Cómo elegir y guardar espirulina de calidad",
+      "domingo_iasd": "Confianza informada: discernir sin miedo (con el tema de la semana como puente)",
+      "pmid_base": "32133854, 35916491",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (safety OR microcystin OR heavy metals OR adverse)"
+    },
+    "2027-01-31": {
+      "tema": "Espirulina en niños y desnutrición",
+      "martes_salud": "Crecimiento infantil: lo que encontró la revisión de 2026",
+      "viernes_nutricion": "Recetas familiares (adultos; niños solo con indicación médica)",
+      "domingo_iasd": "Familia y alimentación: enseñar con el ejemplo (con el tema de la semana como puente)",
+      "pmid_base": "41919083",
+      "pubmed": "(Spirulina[tiab] OR Arthrospira[tiab] OR Limnospira[tiab] OR \"Arthrospira platensis\" OR \"Arthrospira maxima\") AND (children OR malnutrition OR growth)"
+    }
   }
 }

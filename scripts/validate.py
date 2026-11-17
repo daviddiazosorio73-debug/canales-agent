@@ -92,12 +92,15 @@ def main():
         elif tl.get("dia") != dia_idx["dia"] or tl.get("leccion") != dia_idx["leccion"]:
             err.append(f"Escuela Sabática: tema_leccion debe ser {{'leccion': {dia_idx['leccion']}, 'dia': '{dia_idx['dia']}'}} "
                        "(copiado del índice) y el Short debe tratar ese tema.")
-    # Cryptuline: cumplimiento (+18, consulta médica, sin espirulina, sin promesas de cura)
+    # Cryptuline: cumplimiento (+18, consulta médica, foco en espirulina, sin promesas de cura)
     if "cryptuline" in str(Path(sys.argv[1]).resolve()):
         texto = " ".join(e["texto"] for e in g["escenas"]).lower() + " " + seo.get("titulo", "").lower()
         desc = seo.get("descripcion", "").lower()
-        if "espirulina" in texto or "spirulina" in texto:
-            err.append("Cryptuline: la espirulina está fuera hasta nuevo aviso del Fundador.")
+        # Desde la edición del 29-nov-2026 todo el canal se centra en la investigación sobre espirulina (orden del Fundador, 17-nov-2026)
+        fecha_p = (g.get("fecha") or Path(sys.argv[1]).resolve().name)[:10]
+        if fecha_p >= "2026-11-29" and not re.search(r"espirulina|spirulina|arthrospira|limnospira", texto):
+            err.append("Cryptuline: desde el 29-nov-2026 cada video trata de la investigación sobre espirulina "
+                       "(Arthrospira / Limnospira; platensis y maxima). Ver canales/cryptuline/ruta.json → semanas.")
         if "18 años" not in desc and "+18" not in desc:
             err.append("Cryptuline: falta el aviso de público mayor de 18 años en la descripción.")
         if "médico" not in desc:
