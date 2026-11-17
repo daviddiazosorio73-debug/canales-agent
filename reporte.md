@@ -1,17 +1,17 @@
-# Último reporte (2026-11-16 20:28 UTC)
+# Último reporte (2026-11-17 03:51 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-17-es-short3-estrellas-y-candeleros → https://youtu.be/mwHBnPGZ1vg
-- escola-sabatina-pt: 2026-11-17-pt-short3-estrelas-e-candelabros → https://youtu.be/UfakQQ6sKBk
-- mayordom: 2026-11-17-es-analisis-diezmo-solo-comida → https://youtu.be/w4wR8wElpT4
-- mayordom: 2026-11-17-es-short3-y-si-lo-usan-mal → https://youtu.be/TqOZXuwfyQY
-- cryptuline: 2026-11-19-es-short2-integrales-respiratorias → https://youtu.be/0I0ZAcCCbyU
-- cryptuline: 2026-11-19-es-short3-fibra-certeza → https://youtu.be/W9emmArYpHs
-- cryptuline: 2026-11-20-es-short1-fibra-viernes → https://youtu.be/uz_ypD_fuh8
-- cryptuline: 2026-11-20-es-short2-integrales-pan → https://youtu.be/sj_Ano6u-_I
+- escuela-sabatica-es: 2026-11-18-es-short1-ponian-el-sentido → https://youtu.be/ZeXpQyjHoX8
+- escola-sabatina-pt: 2026-11-18-pt-short1-explicavam-o-sentido → https://youtu.be/RoZsG7WMBFE
+- mayordom: 2026-11-18-es-short1-dos-mares → https://youtu.be/G0kU24QqBRI
+- cryptuline: 2026-11-20-es-divulgacion-fibra-y-granos-enteros → https://youtu.be/LA5oj8-myiw
+- cryptuline: 2026-11-20-es-short3-fibra-agua → https://youtu.be/OMY_gq0lOBg
+- cryptuline: 2026-11-21-es-short1-sabado-pan → https://youtu.be/1kMSpt1-5jM
+- cryptuline: 2026-11-21-es-short2-fibra-resumen → https://youtu.be/xM4FrisEFpk
+- cryptuline: 2026-11-21-es-short3-fibra-reto → https://youtu.be/ORlcOHAJbP0
 
 ## Fallos
 
 ## Instagram/Facebook
-- mayordom: 2026-11-03-es-short3-nehemias-levitas: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"ADBpGqPceFwZrPonXjKs53v"}}
-- escuela-sabatica-es: 2026-11-03-es-short1-baruc-el-escriba: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"A4t6N-GEXFDRmEZesAmqC7v"}}
+- mayordom: 2026-11-03-es-short3-nehemias-levitas: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"AnlCaM7kH3aEhHeC4OHhQuV"}}
+- escuela-sabatica-es: 2026-11-03-es-short1-baruc-el-escriba: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"AnQCVmA5gcSGMXCRtFd6fQr"}}

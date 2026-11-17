@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-16 16:17 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-17 00:47 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -8,20 +8,21 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
 | vie 13 | [Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) | [fijar](https://studio.youtube.com/video/QrSEOcTbl_g/comments) | [editar](https://studio.youtube.com/video/QrSEOcTbl_g/edit) | [revisar](https://studio.youtube.com/video/QrSEOcTbl_g/translations) | — |
+| lun 16 | [¿Por qué Dios usa tus manos para repartir sus bienes? | Mayo](https://youtu.be/EHWxJ3U3EsY) | [fijar](https://studio.youtube.com/video/EHWxJ3U3EsY/comments) | [editar](https://studio.youtube.com/video/EHWxJ3U3EsY/edit) | — | — |
 
-**Escuchar:** [largo: Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) · [Short: Tu bendición no termina en ti ✨ #shorts](https://youtube.com/shorts/K1bJ1HcDjss)
+**Escuchar:** [largo: ¿Por qué Dios usa tus manos para repartir sus bienes? | Mayo](https://youtu.be/EHWxJ3U3EsY) · [Short: La paradoja que las finanzas no explican 💡 #shorts](https://youtube.com/shorts/9oZ6TzZZWEY)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: El pedido que escandalizó a una mujer en un pozo 💧 #shorts](https://youtube.com/shorts/dmzxmkFwXAU)
+**Escuchar:** [Short: ¿Por qué el rey ofreció el TERCER lugar? 👑 #shorts](https://youtube.com/shorts/GBO8KZ8GFxc)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: O pedido que espantou uma mulher no poço 💧 #shorts](https://youtube.com/shorts/3QS8vlQwL7M)
+**Escuchar:** [Short: Por que o rei ofereceu o TERCEIRO lugar? 👑 #shorts](https://youtube.com/shorts/VuW8Ub_VMpQ)
 
 ## Top 10 Redes Sociales
 
@@ -43,5 +44,5 @@ Sin videos largos publicados esta semana.
 | mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | [revisar](https://studio.youtube.com/video/9pkyeHSX5Hs/translations) | sí |
 | vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | — | sí |
 
-**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Más fibra: entre 15 y 30 % menos riesgo #shorts](https://youtube.com/shorts/aRFLmZF66FQ)
+**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: ¿Cuánta fibra al día? El número que encontró la ciencia #sho](https://youtube.com/shorts/nt_6F3WyLw8)
 
