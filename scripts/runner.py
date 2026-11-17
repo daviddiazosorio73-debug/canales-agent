@@ -163,7 +163,7 @@ def main():
             if g.get("top10_short"):
                 run_opc("top10_short_visual.py", proj, env)
             run("visuals.py", proj, env, *offline)
-            if cfg.get("audios_extra") and not g.get("audios_extra"):
+            if cfg.get("audios_extra") and not g.get("audios_extra") and g.get("tipo") in cfg.get("audios_extra_tipos", [g.get("tipo")]):
                 g["audios_extra"] = cfg["audios_extra"]
                 (proj / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
             multi = bool(g.get("audios_extra"))  # 1 video con varias pistas de idioma: sin subtítulos quemados

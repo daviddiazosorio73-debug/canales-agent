@@ -37,7 +37,7 @@
 ## Nutrición de Andreia (@andreialuizafabres5041) · en preparación
 - Canal de Andreia Luiza Fabres; el Fundador lo administra. Nombre del canal: se mantiene (decisión del Fundador).
 - 2 largos por semana (`tipo: "divulgacion"`): **martes y viernes 12:00 Lima (17:00Z)** = 18:00 Italia, 14:00 Brasil. Shorts: aún no.
-- **Un solo video, 3 idiomas:** narración principal en italiano (`lang: "it"`, voz edge it-IT-ElsaNeural) y cada escena con `texto_es` y `texto_pt` (misma idea, largo parecido). El motor sube el video sin subtítulos quemados y deja las pistas `audio_es.m4a` / `audio_pt.m4a` y sus subtítulos en la release «audios-extra»; se agregan en YouTube Studio → Idiomas (la API no permite subirlas). Título y descripción con traducciones (`seo.locs`).
+- **Un solo video, 3 idiomas:** narración principal en italiano (`lang: "it"`, voz edge it-IT-ElsaNeural) y cada escena con `texto_es` y `texto_pt` (misma idea, largo parecido). El motor sube el video sin subtítulos quemados y deja las pistas `audio_es.m4a` / `audio_pt.m4a` y sus subtítulos en la release «audios-extra»; se agregan en YouTube Studio → Idiomas (la API no permite subirlas). Título y descripción con traducciones (`seo.localizaciones`: {"es": {"title", "description"}, "pt": {…}}).
 - Reglas de salud, fuentes, lenguaje e imágenes 4K: skill cryptuline-ciencia. Revisión: Andreia, el Fundador o la Dra. (cualquiera de los 3), con 1 semana de adelanto (`ventana_horas: 168`).
 - Temas y SEO: `investigacion/nutricion_referentes.md` (referentes por idioma; solo temas y patrones, nunca copiar sus videos). Diferenciar de Cryptuline: aquí recetas y alimentos concretos; Cryptuline, salud y estudios.
 
@@ -45,3 +45,4 @@
 - Canal nuevo con la marca de la Sociedad Peruana de Radiología Intervencionista (SPRI), autorizado por la SPRI. Skill: spri-radiologia-intervencionista (manda sobre calendario, fuentes y formato).
 - Largos (`divulgacion` / `analisis`): **martes y jueves 20:00 Lima (01:00Z del día siguiente)**, 4K. Shorts: **1 diario de lunes a sábado, 12:30 Lima (17:30Z)**. Después Facebook/Instagram (Reels) y luego TikTok.
 - Casos: solo publicados con licencia abierta (CC BY) o de repositorios libres; nunca datos ni imágenes de pacientes propios.
+- **Idiomas (orden del Fundador, 16-nov-2026): español, inglés y portugués.** Largos: un solo video con narración en español y cada escena con `texto_en` y `texto_pt`; el motor prepara las pistas de audio en inglés y portugués (release «audios-extra») para agregarlas en YouTube Studio → Idiomas. Título y descripción traducidos (`seo.localizaciones`: {"en": {"title", "description"}, "pt": {…}}). Shorts: en español, con título y descripción traducidos.

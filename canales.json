@@ -260,6 +260,19 @@
     "ventana_horas": 168,
     "prioridad": 5,
     "clips_largos": true,
-    "res_4k": true
+    "res_4k": true,
+    "audios_extra": {
+      "en": "en-US-AndrewNeural",
+      "pt": "pt-BR-AntonioNeural"
+    },
+    "audios_extra_tipos": [
+      "divulgacion",
+      "analisis"
+    ],
+    "idiomas": [
+      "es",
+      "en",
+      "pt"
+    ]
   }
 }

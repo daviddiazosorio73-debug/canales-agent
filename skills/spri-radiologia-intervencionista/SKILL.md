@@ -5,7 +5,7 @@ description: "Dirige el canal de YouTube de la Sociedad Peruana de Radiología I
 
 # SPRI · Radiología Intervencionista con evidencia
 
-> Versión 1.0 · 2026-11-16 · Creada por orden del Fundador. Manda sobre el calendario y el formato del canal SPRI; las reglas generales del motor están en `CLAUDE.md` del repo canales-agent y en director-canales (si se contradicen, preguntar al Fundador).
+> Versión 1.1 · 2026-11-16 · Idiomas: español, inglés y portugués. v1.0: creada por orden del Fundador. Manda sobre el calendario y el formato del canal SPRI; las reglas generales del motor están en `CLAUDE.md` del repo canales-agent y en director-canales (si se contradicen, preguntar al Fundador).
 
 Canal de la **Sociedad Peruana de Radiología Intervencionista (SPRI)**, autorizado por la SPRI. Objetivo: posicionar la marca SPRI como referente de radiología intervencionista en el Perú y Latinoamérica, explicando temas, casos, procedimientos y sus eventos (indicaciones, técnica, complicaciones, resultados) a la luz de la ciencia actual, y vinculando la actualidad médica con la investigación y los tratamientos intervencionistas. Todo gratis y de primera calidad.
 
@@ -23,6 +23,12 @@ Público doble: colegas (médicos, residentes, tecnólogos, enfermería) y pacie
 - Domingo: sin publicación (descanso y análisis de datos).
 - Horas iniciales: ajustarlas con Analytics del canal a las 4 semanas.
 - **Fases:** 1) YouTube largos y Shorts → 2) Facebook e Instagram (Reels, con `META_PAGE_TOKEN_SPRI` y el mismo usuario del sistema de Meta) → 3) TikTok (subida manual o API cuando haya cuenta de empresa aprobada).
+
+## Idiomas: español, inglés y portugués (orden del Fundador, 16-nov-2026)
+- **Largos:** un solo video. Narración principal en español (`lang: "es"`) y, en cada escena, `texto_en` y `texto_pt` con la misma idea y un largo parecido (±15 %; si queda más largo, se acorta). El motor arma las pistas de audio en inglés (en-US-AndrewNeural) y portugués (pt-BR-AntonioNeural), ajustadas al tiempo de cada escena, con sus subtítulos, y las deja en la release «audios-extra» del repo: se agregan en YouTube Studio → el video → Idiomas → Agregar audio (la API de YouTube no permite subirlas). Por eso los largos de SPRI van sin subtítulos pegados en la imagen.
+- **Título y descripción** traducidos en `seo.localizaciones`: `{"en": {"title", "description"}, "pt": {"title", "description"}}` (el motor los sube solos).
+- **Shorts:** narración en español, con título y descripción traducidos (`seo.localizaciones`).
+- Términos técnicos: usar el nombre aceptado en cada idioma (p. ej. TACE / quimioembolización transarterial; embolização). Siglas en inglés entre paréntesis la primera vez.
 
 ## Shorts (6 por semana, rotan)
 1. **¿Sabías que…?** un dato verificado de un estudio.
@@ -78,7 +84,7 @@ Mínimo 3 escenas con `capitulo`; `emocion` en cada escena; voz: edge `es-PE-Ale
 - Marca: logo SPRI en la miniatura y en la pantalla final; color de marca del manual de la SPRI cuando el Fundador lo entregue.
 
 ## Campos del guion.json
-`lang: "es"`, `tipo`, `fecha`, `serie` («Evidencia al día · SPRI» o «Caso y procedimiento · SPRI»), `tema`, `res_4k: true` en los largos, `contenido_sintetico: true`, `revision_medica: "pendiente"`, `seo` con `categoria_id: "27"` (Educación), `privacidad: "private"` y `publicar_en` en UTC, `visual.query` en cada escena. Carpeta: `canales/spri/proyectos/<AAAA-MM-DD>-es-<tipo>-<slug>/`.
+`lang: "es"`, `texto_en` y `texto_pt` en cada escena de los largos, `seo.localizaciones` (en, pt), `tipo`, `fecha`, `serie` («Evidencia al día · SPRI» o «Caso y procedimiento · SPRI»), `tema`, `res_4k: true` en los largos, `contenido_sintetico: true`, `revision_medica: "pendiente"`, `seo` con `categoria_id: "27"` (Educación), `privacidad: "private"` y `publicar_en` en UTC, `visual.query` en cada escena. Carpeta: `canales/spri/proyectos/<AAAA-MM-DD>-es-<tipo>-<slug>/`.
 
 ## Flujo semanal (dentro de «Director de canales: semana», sábado)
 1. Listar proyectos existentes (sin duplicados).
