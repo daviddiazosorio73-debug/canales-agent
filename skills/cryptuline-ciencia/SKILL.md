@@ -1,6 +1,6 @@
 ---
 name: cryptuline-ciencia
-description: "Cryptuline · Salud con ciencia (canal de YouTube del Fundador): escribe los videos de divulgación de salud y nutrición basados solo en estudios verificados de revistas médicas y científicas revisadas por pares (PubMed, Cochrane, SciELO, LILACS y otras) (martes salud, viernes nutrición, domingo salud espiritual IASD) y sus 21 Shorts semanales, con revisión médica y una semana de adelanto. Úsala para cualquier guion, tema, título, Short, SEO o revisión médica de Cryptuline."
+description: "Cryptuline · Salud con ciencia (canal de YouTube del Fundador): escribe los videos de divulgación sobre la investigación de la espirulina (Arthrospira / Limnospira) en salud y nutrición, basados solo en estudios verificados de revistas médicas y científicas revisadas por pares (PubMed, Cochrane, SciELO, LILACS y otras) (martes salud, viernes nutrición, domingo salud espiritual IASD) y sus 21 Shorts semanales, con revisión médica y una semana de adelanto. Úsala para cualquier guion, tema, título, Short, SEO o revisión médica de Cryptuline."
 ---
 
 # Cryptuline · Salud con ciencia
@@ -88,7 +88,7 @@ Descripción, al final: bloque «📚 Fuentes» y el aviso: «Contenido educativ
 ## Flujo
 
 1. Listar proyectos existentes de la semana (sin duplicados).
-2. Elegir los 3 temas (cruzar `investigacion/cryptuline.md` con el calendario) y buscar los estudios en PubMed y las otras fuentes de la lista.
+2. Tomar la edición de la semana en `canales/cryptuline/ruta.json` → `semanas` (desde el 29-nov-2026, siempre sobre espirulina) y buscar los estudios en `investigacion/cryptuline_espirulina.md`, `investigacion/cryptuline_pubmed.md`, PubMed y las otras fuentes de la lista.
 3. Escribir los 3 largos y los 21 Shorts en una pasada, con `visual.query` en inglés en cada escena.
 4. Segunda revisión por un agente distinto: cifras contra los resúmenes, lenguaje, títulos sin spoiler.
 5. `python scripts/validate.py <proyecto>` en cada uno; commit y push a `main`.
