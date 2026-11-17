@@ -12,6 +12,7 @@ sin repetir la misma imagen en el proyecto. Escribe imagenes/<id>.jpg (y <id>.mp
 """
 import io
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -28,9 +29,12 @@ VETO = ("jesus", "jesús", "christ", "cristo", "messiah", "mesías", "prophet", 
         "elías", "isaiah", "isaías", "jeremiah", "jeremías", "mary", "virgin", "virgen", "saint", "santo", "nude", "naked")
 
 
+VETO_CANAL = []  # palabras extra del canal (p. ej. Nutrición de Andreia: alimentos fuera de su lista)
+
+
 def vetado(*textos):
     t = " ".join(x or "" for x in textos).lower()
-    return any(v in t for v in VETO)
+    return any(v in t for v in VETO) or any(re.search(rf"(?<![a-z]){re.escape(v)}(?![a-z])", t) for v in VETO_CANAL)
 
 
 def cover(img):
@@ -196,6 +200,11 @@ def main():
     offline = "--offline" in sys.argv or os.environ.get("VISUALES_OFFLINE") == "1"
     key = os.environ.get("PEXELS_API_KEY")
     g = load_json(proj / "guion.json")
+    try:
+        cfg = load_json(Path(__file__).resolve().parent.parent / "canales.json").get(proj.resolve().parent.parent.name, {})
+        VETO_CANAL.extend(w.lower() for ws in (cfg.get("veto_alimentos") or {}).values() for w in ws)
+    except Exception:
+        pass
     out = proj / "imagenes"
     out.mkdir(exist_ok=True)
     creditos, used = [], set()

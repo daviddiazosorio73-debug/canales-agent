@@ -2,6 +2,7 @@
 
 Uso: python validate.py <proyecto_dir>
 """
+import json
 import re
 import sys
 from pathlib import Path
@@ -31,8 +32,8 @@ def main():
         sys.exit("\n".join(err))
     if g["tipo"] not in RANGO:
         err.append(f"tipo debe ser uno de: {', '.join(RANGO)}.")
-    if g["lang"] not in ("es", "pt", "en", "fr"):
-        err.append("lang debe ser 'es', 'pt', 'en' o 'fr'.")
+    if g["lang"] not in ("es", "pt", "en", "fr", "it"):
+        err.append("lang debe ser 'es', 'pt', 'en', 'fr' o 'it'.")
     ids = [e.get("id") for e in g["escenas"]]
     if len(set(ids)) != len(ids) or not all(ids):
         err.append("Cada escena necesita un 'id' único.")
@@ -80,7 +81,6 @@ def main():
     # Escuela Sabática ES/PT: cada Short sigue el tema del día verificado (investigacion/leccion_*.json)
     ruta = str(Path(sys.argv[1]).resolve())
     if g["tipo"] == "short" and ("escuela-sabatica" in ruta or "escola-sabatina" in ruta):
-        import json
         fecha = g.get("fecha", "")
         dia_idx = None
         for f in sorted((Path(__file__).resolve().parent.parent / "investigacion").glob("leccion_*.json")):
@@ -109,6 +109,23 @@ def main():
                 warn.append(f"Cryptuline: revisar «{w.strip()}» (sin promesas de cura o prevención).")
         if g.get("revision_medica") not in ("pendiente", "aprobada", "observada"):
             warn.append("Cryptuline: falta revision_medica (pendiente | aprobada | observada).")
+    # Canales con veto de alimentos (Nutrición de Andreia: solo alimentos limpios, Levítico 11; no se explica en el video)
+    canal = Path(sys.argv[1]).resolve().parent.parent.name
+    veto = (load_json(Path(__file__).resolve().parent.parent / "canales.json").get(canal) or {}).get("veto_alimentos") or {}
+    if veto:
+        loc = seo.get("localizaciones") or {}
+        textos = {g["lang"]: [e.get("texto", "") for e in g["escenas"]] + [seo.get("titulo", ""), seo.get("descripcion", ""),
+                                                                          json.dumps(g.get("miniatura", ""), ensure_ascii=False)],
+                  "en": [(e.get("visual") or {}).get("query", "") for e in g["escenas"]]}
+        for lg in veto:
+            textos.setdefault(lg, [])
+            textos[lg] += [e.get(f"texto_{lg}", "") for e in g["escenas"]] + list((loc.get(lg) or {}).values())
+        etiquetas = " ".join(seo.get("etiquetas") or seo.get("tags") or [])
+        for lg, palabras in veto.items():
+            t = " ".join(textos.get(lg, [])).lower() + (" " + etiquetas.lower() if lg in (g["lang"], "en") else "")
+            malas = sorted({w for w in palabras if re.search(rf"(?<!\w){re.escape(w.lower())}(?!\w)", t)})
+            if malas:
+                err.append(f"{canal}: alimento fuera de la lista del canal ({lg}): {', '.join(malas)}. Cambiar por otro alimento, sin explicar.")
     for w in warn:
         print("AVISO:", w)
     if err:
