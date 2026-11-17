@@ -37,10 +37,10 @@
     "asset": "cryptuline__2026-11-10-es-short1-sueno-poco.mp4",
     "publicar_en": "2026-11-10T12:00:00Z",
     "caption": "Dormir poco: 12 % más riesgo en 1,3 millones de personas\n\nDormir poco: 12 % más riesgo en 1,3 millones de personas.\n\n#Cryptuline #SaludConCiencia",
-    "instagram": null,
-    "intentos": 0,
+    "instagram": "https://www.instagram.com/reel/Df3DZGeiIhV/",
+    "intentos": 1,
     "segundos": 39.3,
-    "facebook": null,
+    "facebook": "https://www.facebook.com/reel/994698596492760",
     "extra": {}
   },
   {
@@ -436,6 +436,50 @@
     "instagram": null,
     "intentos": 0,
     "segundos": 47.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-23-es-short2-sentado-ocho-horas",
+    "asset": "cryptuline__2026-11-23-es-short2-sentado-ocho-horas.mp4",
+    "publicar_en": "2026-11-23T18:00:00Z",
+    "caption": "Más de 8 horas sentado y poca actividad: lo que encontró The Lancet\n\nMás de 8 horas sentado y poca actividad: lo que encontró The Lancet.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 46.6,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-23-es-short3-sentado-cigarrillo",
+    "asset": "cryptuline__2026-11-23-es-short3-sentado-cigarrillo.mp4",
+    "publicar_en": "2026-11-24T01:30:00Z",
+    "caption": "¿Estar sentado es el nuevo cigarrillo? Mito vs evidencia\n\n¿Estar sentado es el nuevo cigarrillo? Mito vs evidencia.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 42.7,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-24-es-short1-sentado-pausas",
+    "asset": "cryptuline__2026-11-24-es-short1-sentado-pausas.mp4",
+    "publicar_en": "2026-11-24T12:00:00Z",
+    "caption": "Cada cuántos minutos levantarte de la silla, según los ensayos\n\nCada cuántos minutos levantarte de la silla, según los ensayos.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 46.5,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-24-es-short2-sentado-de-pie-o-caminar",
+    "asset": "cryptuline__2026-11-24-es-short2-sentado-de-pie-o-caminar.mp4",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "caption": "¿Pararte o caminar? Lo que encontraron los ensayos\n\n¿Pararte o caminar? Lo que encontraron los ensayos.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 50.0,
     "facebook": null,
     "extra": {}
   }
