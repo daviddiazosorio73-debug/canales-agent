@@ -49,3 +49,9 @@
 - Largos (`divulgacion` / `analisis`): **martes y jueves 20:00 Lima (01:00Z del día siguiente)**, 4K. Shorts: **1 diario de lunes a sábado, 12:30 Lima (17:30Z)**. Después Facebook/Instagram (Reels) y luego TikTok.
 - Casos: solo publicados con licencia abierta (CC BY) o de repositorios libres; nunca datos ni imágenes de pacientes propios.
 - **Idiomas (orden del Fundador, 16-nov-2026): español, inglés y portugués.** Largos: un solo video con narración en español y cada escena con `texto_en` y `texto_pt`; el motor prepara las pistas de audio en inglés y portugués (release «audios-extra») para agregarlas en YouTube Studio → Idiomas. Título y descripción traducidos (`seo.localizaciones`: {"en": {"title", "description"}, "pt": {…}}). Shorts: en español, con título y descripción traducidos.
+
+## Tecno Log IA (@tecnologiapperu) · Shorts de packs Oster (orden del Fundador, 18-nov-2026)
+- Venta multimarca SOLO para distribuidores y mayoristas (frase obligatoria en todo el material: «Solo para distribuidores y mayoristas»). Sin precios en piezas públicas; CTA WhatsApp 928 146 619.
+- Shorts YA RENDERIZADOS fuera del motor (sin voz): `canales/tecnologia/videos/*.mp4` + cola `canales/tecnologia/cola.json`. 3 diarios: 08:30, 13:00 y 19:30 Lima (13:30Z, 18:00Z, 00:30Z).
+- Publica `.github/workflows/tecnologia.yml` (cada hora) con `scripts/tecnologia.py`: YouTube programado (36 h antes) + Reels en Facebook e Instagram a su hora. Secretos: `REFRESH_TOKEN_TECNOLOGIA` (OAuth Playground, mismo cliente, eligiendo el canal Tecno Log IA) y `META_PAGE_TOKEN_TECNOLOGIA` (usuario del sistema del portafolio «TecnoLogIA para Perú»). Sin secreto, esa red se salta.
+- TikTok y estados de WhatsApp: a mano por ahora.
