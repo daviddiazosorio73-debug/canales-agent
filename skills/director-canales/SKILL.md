@@ -53,7 +53,7 @@ Canal nuevo: ver «Agregar un canal».
 - `/token <clave>`: renovar o crear el token de un canal.
 
 ## Ahorro de tokens (obligatorio)
-1. Claude trabaja en dos tareas programadas: «Director de canales: semana» (sábado 19:52 Lima; si falló, «reintento» a las 20:22) y «Top 10: libretos del miércoles» (miércoles 00:10 Lima). Producir, subir, reintentar y vigilar lo hace GitHub, sin Claude.
+1. Claude trabaja en dos tareas programadas: «Director de canales: semana» (sábado 19:52 Lima; si falló, «reintento» a las 20:22) y «Top 10: libretos del miércoles» (miércoles, cada hora de 01:15 a 12:15 Lima). Producir, subir, reintentar y vigilar lo hace GitHub, sin Claude.
 2. No crear tareas diarias de revisión: los fallos llegan por correo de GitHub. Revisar solo si el Fundador lo pide o si `reporte.md` muestra fallos.
 3. En la sesión semanal, leer solo `reporte.md`, `canales.json`, `investigacion/<canal>.md` y los títulos de la lección de la semana. No releer guiones antiguos ni libros completos.
 4. Escribir todos los guiones de un canal en una sola pasada.

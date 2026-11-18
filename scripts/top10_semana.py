@@ -442,7 +442,7 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         "tema": f"Top 10 {cont} · {semana_iso}", "semana": semana_iso, "voz_fundador": True,
         "color_marca": [255, 45, 120], "contenido_sintetico": True,
         "reintento_desde": (fin + timedelta(hours=10)).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "libreto": "plantilla", "esperar_libreto_hasta": (fin + timedelta(minutes=100)).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "libreto": "plantilla", "esperar_libreto_hasta": (fin + timedelta(minutes=150)).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "miniatura": {"linea1": "TOP 10", "linea2": cont.upper(), "etiqueta": f"{'SEMANA' if lang == 'es' else 'WEEK'} {n}"},
         "seo": {"titulo": M[lang]["titulo"].format(c=ed.get("titulo", {}).get(lang, cont), n=n)[:100],
                 "descripcion": descripcion(lang, cont, cats, h_canal, h_ed, n),

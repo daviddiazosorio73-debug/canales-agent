@@ -13,7 +13,7 @@ Canal @Top10RedesSociales (ID `UC5hAk81MlV4wE5Lvl9PV1lQ`), hashtag #Top10RS. **N
 | Momento (Lima, UTC−5) | Paso | Dónde |
 |---|---|---|
 | **Miércoles 00:00** (05:00Z) | Corte semanal: datos + guiones por plantilla de las 6 ediciones | `.github/workflows/top10-semanal.yml` → `scripts/top10_semana.py` |
-| **Miércoles 00:10** | Claude reescribe el libreto (plazo 100 min; si no llega, sale la plantilla) | Tarea programada «Top 10: libretos del miércoles» |
+| **Miércoles 01:15-12:15 (cada hora)** | Claude reescribe el libreto (plazo 150 min desde los guiones; si no llega, sale la plantilla) | Tarea programada «Top 10: libretos del miércoles» |
 | Miércoles–jueves | Producción en paralelo (4K), subida privada con `publicar_en` | mismo workflow |
 | Al terminar la producción | Cadena «Vuelta al mundo» (lista + enlace a la siguiente parada) y **3 Shorts por edición** | `scripts/top10_cadena.py`, `scripts/top10_shorts.py` |
 | **Domingo 06:00 hora local** de cada continente | Estreno: Oceanía (Sídney) → Asia (Calcuta) → África (El Cairo) → Europa (París) → América (Lima) → Mundial (Lima) | `scripts/top10_ediciones.json` |
