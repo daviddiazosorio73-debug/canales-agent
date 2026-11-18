@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-18 12:04 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-18 16:38 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -11,19 +11,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | lun 16 | [¿Por qué Dios usa tus manos para repartir sus bienes? | Mayo](https://youtu.be/EHWxJ3U3EsY) | [fijar](https://studio.youtube.com/video/EHWxJ3U3EsY/comments) | [editar](https://studio.youtube.com/video/EHWxJ3U3EsY/edit) | — | — |
 | mar 17 | [¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) | [fijar](https://studio.youtube.com/video/w4wR8wElpT4/comments) | [editar](https://studio.youtube.com/video/w4wR8wElpT4/edit) | — | — |
 
-**Escuchar:** [largo: ¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) · [Short: Dos mares, la misma agua… y uno está muerto 🌊 #shorts](https://youtube.com/shorts/G0kU24QqBRI)
+**Escuchar:** [largo: ¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) · [Short: El hombre que guardó grano para salvar al mundo 🌾 #shorts](https://youtube.com/shorts/-NWkYSEIqlk)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: El día que todo un pueblo lloró al entender la Biblia 😢 #sho](https://youtube.com/shorts/ZeXpQyjHoX8)
+**Escuchar:** [Short: La pregunta que cambió la vida de un viajero 🛞 #shorts](https://youtube.com/shorts/ftdqO1Phkjg)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: O dia em que um povo inteiro chorou ao entender a Bíblia 😢 #](https://youtube.com/shorts/RoZsG7WMBFE)
+**Escuchar:** [Short: A pergunta que mudou a vida de um viajante 🛞 #shorts](https://youtube.com/shorts/Z8flv5vRixY)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | [revisar](https://studio.youtube.com/video/WTEUj71XFKk/translations) | sí |
 
-**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Arroz blanco y harinas refinadas: lo que NO encontró el estu](https://youtube.com/shorts/kYkZCny6cwA)
+**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Mito o evidencia: ¿el índice glicémico es lo más importante?](https://youtube.com/shorts/Hyd7RHbU9eQ)
 

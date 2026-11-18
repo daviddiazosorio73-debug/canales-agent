@@ -149,7 +149,7 @@ python-magic==0.4.27
 python-multipart==0.0.34
 pytz==2026.6
 referencing==0.36.2
-regex==2026.11.18
+regex==2026.11.19
 requests-oauthlib==2.0.0
 requests==2.34.2
 resemble-perth==1.0.1
@@ -200,7 +200,7 @@ uritemplate==4.2.0
 urllib3==2.6.3
 userpath==1.9.2
 uvicorn==0.54.0
-virtualenv==21.15.8
+virtualenv==21.15.9
 wadllib==2.0.0
 wheel==0.46.3
 wrapt==2.5.2
