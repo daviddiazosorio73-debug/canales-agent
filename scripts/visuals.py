@@ -63,7 +63,9 @@ def bajar_img(url):
     import requests
     r = requests.get(url, headers=UA, timeout=120)
     r.raise_for_status()
-    return Image.open(io.BytesIO(r.content))
+    img = Image.open(io.BytesIO(r.content))
+    img.load()  # si la descarga llegó cortada, falla aquí y se prueba la siguiente fuente
+    return img
 
 
 def pexels_video(query, used, key, dst):
@@ -230,7 +232,12 @@ def main():
             img = Image.open(dst)
         if img is None:
             img = gradient(i)
-        cover(img).save(dst, quality=92)
+        try:
+            cover(img).save(dst, quality=92)
+        except OSError as ex:
+            print(f"AVISO {e['id']}: imagen dañada ({ex}); uso degradado")
+            img, cred = gradient(i), None
+            cover(img).save(dst, quality=92)
         if cred:
             creditos.append(cred)
         tipo = "clip " + cred.get("res", "") if cred and clip.exists() else (cred or {}).get("fuente", "propia" if src else "degradado")
