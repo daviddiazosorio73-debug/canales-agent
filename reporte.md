@@ -1,14 +1,18 @@
-# Último reporte (2026-11-18 04:18 UTC)
+# Último reporte (2026-11-18 13:09 UTC)
 
 ## Subidos
-- escuela-sabatica-es: 2026-11-19-es-short1-moises-profetas-salmos → https://youtu.be/1oYLc7F59kY
-- escola-sabatina-pt: 2026-11-19-pt-short1-moises-profetas-salmos → https://youtu.be/muABwhGUQAg
-- mayordom: 2026-11-19-es-short1-jesus-frente-al-arca → https://youtu.be/KjgsSCgKw1k
-- cryptuline: 2026-11-24-es-divulgacion-estar-sentado → https://youtu.be/R7AwvjAMLSA
-- cryptuline: 2026-11-24-es-short3-sentado-television → https://youtu.be/wUZqihprCJU
+- escuela-sabatica-es: 2026-11-19-es-short2-muchas-maneras → https://youtu.be/FQEiIqQCp00
+- escola-sabatina-pt: 2026-11-19-pt-short2-muitas-maneiras → https://youtu.be/4LQRW8mx2E8
+- mayordom: 2026-11-19-es-short2-cofre-de-joas → https://youtu.be/II5ne22A490
+- cryptuline: 2026-11-25-es-short1-sentado-poco-pero-quieto → https://youtu.be/_tmmHsGgNnI
 
 ## Fallos
+- mayordom: 2026-11-19-es-analisis-diezmo-mal-usado: visuals.py falló en 2026-11-19-es-analisis-diezmo-mal-usado
+  - Qué hacer: fallo de imágenes: suele resolverse solo en la siguiente hora; si se repite, avisa a Claude.
 
 ## Instagram/Facebook
-- mayordom: 2026-11-04-es-short1-mayordomo-tramposo: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"AAlZOBcLXwzCNkUY5IMM-KN"}}
-- escuela-sabatica-es: 2026-11-03-es-short2-tercio-escribio-romanos: Meta 400: {"error":{"message":"Error validating access token: The session is invalid because the user logged out.","type":"OAuthException","code":190,"error_subcode":467,"fbtrace_id":"AeecaW7gsNXFbGKIflSZeIN"}}
+- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ABMmRd8BIbwktK42b4xYshs"}})
+- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ATsM746CzeLN-vQYxtqFa2X"}})
+- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AUuwH3Xi7y0ONJGEj13mCz_"}})
+- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AYmwCD9RmNBeRbGAhua4-3f"}})
+- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"Ak_pnTxhy_8YsExpFSAx3Xj"}})
