@@ -144,12 +144,12 @@ pyserial==3.5
 python-apt==3.1.0+ubuntu1.1
 python-dateutil==2.9.0
 python-debian==1.0.1+ubuntu2
-python-discovery==1.9.5
+python-discovery==1.9.6
 python-magic==0.4.27
 python-multipart==0.0.34
 pytz==2026.6
 referencing==0.36.2
-regex==2026.11.15
+regex==2026.11.18
 requests-oauthlib==2.0.0
 requests==2.34.2
 resemble-perth==1.0.1

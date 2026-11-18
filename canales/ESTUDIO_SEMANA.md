@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-17 17:53 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-18 01:28 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -9,20 +9,21 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 |---|---|---|---|---|---|
 | vie 13 | [Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) | [fijar](https://studio.youtube.com/video/QrSEOcTbl_g/comments) | [editar](https://studio.youtube.com/video/QrSEOcTbl_g/edit) | [revisar](https://studio.youtube.com/video/QrSEOcTbl_g/translations) | — |
 | lun 16 | [¿Por qué Dios usa tus manos para repartir sus bienes? | Mayo](https://youtu.be/EHWxJ3U3EsY) | [fijar](https://studio.youtube.com/video/EHWxJ3U3EsY/comments) | [editar](https://studio.youtube.com/video/EHWxJ3U3EsY/edit) | — | — |
+| mar 17 | [¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) | [fijar](https://studio.youtube.com/video/w4wR8wElpT4/comments) | [editar](https://studio.youtube.com/video/w4wR8wElpT4/edit) | — | — |
 
-**Escuchar:** [largo: ¿Por qué Dios usa tus manos para repartir sus bienes? | Mayo](https://youtu.be/EHWxJ3U3EsY) · [Short: ¿El diezmo era solo comida? Este versículo dice otra cosa 🪙 ](https://youtube.com/shorts/V4dANdFk7FE)
+**Escuchar:** [largo: ¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) · [Short: ¿Y si usan mal tu diezmo? Esto hizo Jesús 👀 #shorts](https://youtube.com/shorts/TqOZXuwfyQY)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: ¿Dios tiene plumas? 🪶 #shorts](https://youtube.com/shorts/lO-0qYK5vr0)
+**Escuchar:** [Short: El libro de los símbolos trae sus propias pistas ⭐ #shorts](https://youtube.com/shorts/mwHBnPGZ1vg)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Deus tem penas? 🪶 #shorts](https://youtube.com/shorts/3eLzmKafrE0)
+**Escuchar:** [Short: O livro dos símbolos traz suas próprias pistas ⭐ #shorts](https://youtube.com/shorts/UfakQQ6sKBk)
 
 ## Top 10 Redes Sociales
 
@@ -41,8 +42,7 @@ Sin videos largos publicados esta semana.
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| mar 10 | [Horas de sueño: lo que vieron 16 estudios con 1,3 millones d](https://youtu.be/9pkyeHSX5Hs) | [fijar](https://studio.youtube.com/video/9pkyeHSX5Hs/comments) | [editar](https://studio.youtube.com/video/9pkyeHSX5Hs/edit) | [revisar](https://studio.youtube.com/video/9pkyeHSX5Hs/translations) | sí |
-| vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | — | sí |
+| vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | [revisar](https://studio.youtube.com/video/WTEUj71XFKk/translations) | sí |
 
-**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Tres porciones de integrales al día: lo que encontró el BMJ ](https://youtube.com/shorts/61T60iXQfhk)
+**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Granos enteros y mortalidad: 17 % menos riesgo #shorts](https://youtube.com/shorts/VA9tx-h7jOA)
 

@@ -48,10 +48,10 @@
     "asset": "cryptuline__2026-11-10-es-short2-sueno-mucho.mp4",
     "publicar_en": "2026-11-10T18:00:00Z",
     "caption": "Dormir mucho también: 30 % más riesgo\n\nDormir mucho también: 30 % más riesgo.\n\n#Cryptuline #SaludConCiencia",
-    "instagram": null,
-    "intentos": 0,
+    "instagram": "https://www.instagram.com/reel/Df33fkFhjJ3/",
+    "intentos": 1,
     "segundos": 40.2,
-    "facebook": null,
+    "facebook": "https://www.facebook.com/reel/1166078132545491",
     "extra": {}
   },
   {
@@ -480,6 +480,17 @@
     "instagram": null,
     "intentos": 0,
     "segundos": 50.0,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-11-24-es-short3-sentado-television",
+    "asset": "cryptuline__2026-11-24-es-short3-sentado-television.mp4",
+    "publicar_en": "2026-11-25T01:30:00Z",
+    "caption": "La televisión y el ejercicio: el giro que casi nadie conoce\n\nLa televisión y el ejercicio: el giro que casi nadie conoce.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 46.8,
     "facebook": null,
     "extra": {}
   }
