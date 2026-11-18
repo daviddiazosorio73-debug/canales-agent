@@ -65,7 +65,7 @@ def youtube(cola):
         if t > ahora() + timedelta(hours=VENTANA_H):
             continue
         status = {"selfDeclaredMadeForKids": False, "containsSyntheticMedia": False}
-        if t > ahora() + timedelta(minutes=20):
+        if t > ahora() + timedelta(minutes=5):
             status.update(privacyStatus="private", publishAt=it["publicar_en"])
         else:
             if atrasados >= 1:
