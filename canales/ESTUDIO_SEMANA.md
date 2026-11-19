@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-18 16:38 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-18 22:42 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -10,20 +10,21 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | vie 13 | [Nuestro generoso benefactor: por qué todo lo que tienes es u](https://youtu.be/QrSEOcTbl_g) | [fijar](https://studio.youtube.com/video/QrSEOcTbl_g/comments) | [editar](https://studio.youtube.com/video/QrSEOcTbl_g/edit) | [revisar](https://studio.youtube.com/video/QrSEOcTbl_g/translations) | — |
 | lun 16 | [¿Por qué Dios usa tus manos para repartir sus bienes? | Mayo](https://youtu.be/EHWxJ3U3EsY) | [fijar](https://studio.youtube.com/video/EHWxJ3U3EsY/comments) | [editar](https://studio.youtube.com/video/EHWxJ3U3EsY/edit) | — | — |
 | mar 17 | [¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) | [fijar](https://studio.youtube.com/video/w4wR8wElpT4/comments) | [editar](https://studio.youtube.com/video/w4wR8wElpT4/edit) | — | — |
+| mié 18 | [Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) | [fijar](https://studio.youtube.com/video/qQ-esKNG7xo/comments) | [editar](https://studio.youtube.com/video/qQ-esKNG7xo/edit) | — | — |
 
-**Escuchar:** [largo: ¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) · [Short: El hombre que guardó grano para salvar al mundo 🌾 #shorts](https://youtube.com/shorts/-NWkYSEIqlk)
+**Escuchar:** [largo: Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) · [Short: Los sacerdotes que se quedaban con las ofrendas 😳 #shorts](https://youtube.com/shorts/3q-w2K3JPPw)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: La pregunta que cambió la vida de un viajero 🛞 #shorts](https://youtube.com/shorts/ftdqO1Phkjg)
+**Escuchar:** [Short: Las 2 preguntas de Jesús para leer la Biblia ❓ #shorts](https://youtube.com/shorts/LLAGVjsANl4)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: A pergunta que mudou a vida de um viajante 🛞 #shorts](https://youtube.com/shorts/Z8flv5vRixY)
+**Escuchar:** [Short: As 2 perguntas de Jesus para ler a Bíblia ❓ #shorts](https://youtube.com/shorts/dNkKcDuIoDY)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +45,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | [revisar](https://studio.youtube.com/video/WTEUj71XFKk/translations) | sí |
 
-**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Mito o evidencia: ¿el índice glicémico es lo más importante?](https://youtube.com/shorts/Hyd7RHbU9eQ)
+**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: ¿Dónde está la fibra? 5 alimentos de tu mercado #shorts](https://youtube.com/shorts/Kzi8H-75Xg8)
 
