@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-18 22:42 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-19 08:42 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -12,19 +12,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | mar 17 | [¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) | [fijar](https://studio.youtube.com/video/w4wR8wElpT4/comments) | [editar](https://studio.youtube.com/video/w4wR8wElpT4/edit) | — | — |
 | mié 18 | [Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) | [fijar](https://studio.youtube.com/video/qQ-esKNG7xo/comments) | [editar](https://studio.youtube.com/video/qQ-esKNG7xo/edit) | — | — |
 
-**Escuchar:** [largo: Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) · [Short: Los sacerdotes que se quedaban con las ofrendas 😳 #shorts](https://youtube.com/shorts/3q-w2K3JPPw)
+**Escuchar:** [largo: Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) · [Short: Lo que Jesús hizo justo después de denunciar a los líderes 🏛](https://youtube.com/shorts/KjgsSCgKw1k)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Las 2 preguntas de Jesús para leer la Biblia ❓ #shorts](https://youtube.com/shorts/LLAGVjsANl4)
+**Escuchar:** [Short: La Biblia de Jesús tenía 3 partes 📚 #shorts](https://youtube.com/shorts/1oYLc7F59kY)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: As 2 perguntas de Jesus para ler a Bíblia ❓ #shorts](https://youtube.com/shorts/dNkKcDuIoDY)
+**Escuchar:** [Short: A Bíblia de Jesus tinha 3 partes 📚 #shorts](https://youtube.com/shorts/muABwhGUQAg)
 
 ## Top 10 Redes Sociales
 
@@ -45,5 +45,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 13 | [Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) | [fijar](https://studio.youtube.com/video/WTEUj71XFKk/comments) | [editar](https://studio.youtube.com/video/WTEUj71XFKk/edit) | [revisar](https://studio.youtube.com/video/WTEUj71XFKk/translations) | sí |
 
-**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: ¿Dónde está la fibra? 5 alimentos de tu mercado #shorts](https://youtube.com/shorts/Kzi8H-75Xg8)
+**Escuchar:** [largo: Frutos secos y legumbres: ¿cuánto al día? Lo que dice la cie](https://youtu.be/WTEUj71XFKk) · [Short: Fibra y cáncer colorrectal: lo que dicen los datos #shorts](https://youtube.com/shorts/K478fn6Pjtk)
 
