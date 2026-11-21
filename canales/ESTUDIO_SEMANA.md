@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-21 01:29 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-21 09:45 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | jue 19 | [Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) | [fijar](https://studio.youtube.com/video/GFEdr_0NQJM/comments) | [editar](https://studio.youtube.com/video/GFEdr_0NQJM/edit) | — | sí |
 | vie 20 | [Dar te transforma: la razón más profunda por la que Dios te ](https://youtu.be/pOIJGxV6amQ) | [fijar](https://studio.youtube.com/video/pOIJGxV6amQ/comments) | [editar](https://studio.youtube.com/video/pOIJGxV6amQ/edit) | — | — |
 
-**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: Nadie le exigió nada a Zaqueo. Y dio la mitad 🌳 #shorts](https://youtube.com/shorts/vsrFmzk3Q3w)
+**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: El pan que no se dañaba solo un día a la semana 🍞 #shorts](https://youtube.com/shorts/d-pxPT_UuDk)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Repaso: Interpretación de los escritos proféticos en 1 minut](https://youtube.com/shorts/HEZqzgpIFhA)
+**Escuchar:** [Short: No creas todo lo que escuchas… ni siquiera en la iglesia ⚠️ ](https://youtube.com/shorts/84xR9c5GbAs)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Revisão: Interpretação dos escritos proféticos em 1 minuto 🔁](https://youtube.com/shorts/hkIUIWS5b1s)
+**Escuchar:** [Short: Não acredite em tudo o que ouve… nem mesmo na igreja ⚠️ #sho](https://youtube.com/shorts/Kps50sJ_bB4)
 
 ## Top 10 Redes Sociales
 
@@ -46,5 +46,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 20 | [Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) | [fijar](https://studio.youtube.com/video/LA5oj8-myiw/comments) | [editar](https://studio.youtube.com/video/LA5oj8-myiw/edit) | [revisar](https://studio.youtube.com/video/LA5oj8-myiw/translations) | sí |
 
-**Escuchar:** [largo: Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) · [Short: Si subes la fibra, no olvides esto #shorts](https://youtube.com/shorts/OMY_gq0lOBg)
+**Escuchar:** [largo: Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) · [Short: Del pan del cielo al pan integral 🌾 #shorts](https://youtube.com/shorts/1kMSpt1-5jM)
 
