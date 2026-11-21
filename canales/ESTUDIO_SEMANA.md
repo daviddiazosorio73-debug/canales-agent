@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-21 09:45 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-21 17:28 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,32 +13,32 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | jue 19 | [Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) | [fijar](https://studio.youtube.com/video/GFEdr_0NQJM/comments) | [editar](https://studio.youtube.com/video/GFEdr_0NQJM/edit) | — | sí |
 | vie 20 | [Dar te transforma: la razón más profunda por la que Dios te ](https://youtu.be/pOIJGxV6amQ) | [fijar](https://studio.youtube.com/video/pOIJGxV6amQ/comments) | [editar](https://studio.youtube.com/video/pOIJGxV6amQ/edit) | — | — |
 
-**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: El pan que no se dañaba solo un día a la semana 🍞 #shorts](https://youtube.com/shorts/d-pxPT_UuDk)
+**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: Por qué Dios te usa a ti, en 60 segundos ⏱️ #shorts](https://youtube.com/shorts/ZkevP6QLB68)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: No creas todo lo que escuchas… ni siquiera en la iglesia ⚠️ ](https://youtube.com/shorts/84xR9c5GbAs)
+**Escuchar:** [Short: El disfraz más peligroso según Jesús 🐺 #shorts](https://youtube.com/shorts/-UMm8D74e1E)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Não acredite em tudo o que ouve… nem mesmo na igreja ⚠️ #sho](https://youtube.com/shorts/Kps50sJ_bB4)
+**Escuchar:** [Short: O disfarce mais perigoso segundo Jesus 🐺 #shorts](https://youtube.com/shorts/LEEOMadbwao)
 
 ## Top 10 Redes Sociales
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| sáb 14 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/cie3WlUhpjc) | [fijar](https://studio.youtube.com/video/cie3WlUhpjc/comments) | [editar](https://studio.youtube.com/video/cie3WlUhpjc/edit) | [revisar](https://studio.youtube.com/video/cie3WlUhpjc/translations) | sí |
-| sáb 14 | [Top 10 Asia: Most Viewed, Commented & Liked on YouTube | Wee](https://youtu.be/kPS32tpKxSI) | [fijar](https://studio.youtube.com/video/kPS32tpKxSI/comments) | [editar](https://studio.youtube.com/video/kPS32tpKxSI/edit) | — | sí |
+| sáb 14 | [Top 10 Asia: Most Viewed, Commented & Liked on YouTube | Wee](https://youtu.be/kPS32tpKxSI) | [fijar](https://studio.youtube.com/video/kPS32tpKxSI/comments) | [editar](https://studio.youtube.com/video/kPS32tpKxSI/edit) | [revisar](https://studio.youtube.com/video/kPS32tpKxSI/translations) | sí |
 | sáb 14 | [Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/Uug8lGu6Vk8) | [fijar](https://studio.youtube.com/video/Uug8lGu6Vk8/comments) | [editar](https://studio.youtube.com/video/Uug8lGu6Vk8/edit) | — | sí |
 | dom 15 | [Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/2Mzb3BbhkM8) | [fijar](https://studio.youtube.com/video/2Mzb3BbhkM8/comments) | [editar](https://studio.youtube.com/video/2Mzb3BbhkM8/edit) | — | sí |
 | dom 15 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/1eghcjWjO60) | [fijar](https://studio.youtube.com/video/1eghcjWjO60/comments) | [editar](https://studio.youtube.com/video/1eghcjWjO60/edit) | — | sí |
 | dom 15 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/xeD0jU5UnjU) | [fijar](https://studio.youtube.com/video/xeD0jU5UnjU/comments) | [editar](https://studio.youtube.com/video/xeD0jU5UnjU/edit) | — | sí |
+| sáb 21 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/MB4Dr5bLWOw) | [fijar](https://studio.youtube.com/video/MB4Dr5bLWOw/comments) | [editar](https://studio.youtube.com/video/MB4Dr5bLWOw/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/xeD0jU5UnjU) · [Short: The most liked video in the world this week 🏆 #shorts](https://youtube.com/shorts/sZWVFEDYxNw)
+**Escuchar:** [largo: Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/MB4Dr5bLWOw) · [Short: The most liked video in the world this week 🏆 #shorts](https://youtube.com/shorts/sZWVFEDYxNw)
 
 ## Cryptuline · Salud con ciencia
 
@@ -46,5 +46,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 20 | [Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) | [fijar](https://studio.youtube.com/video/LA5oj8-myiw/comments) | [editar](https://studio.youtube.com/video/LA5oj8-myiw/edit) | [revisar](https://studio.youtube.com/video/LA5oj8-myiw/translations) | sí |
 
-**Escuchar:** [largo: Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) · [Short: Del pan del cielo al pan integral 🌾 #shorts](https://youtube.com/shorts/1kMSpt1-5jM)
+**Escuchar:** [largo: Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) · [Short: La fibra en 1 minuto: el resumen de la semana #shorts](https://youtube.com/shorts/xM4FrisEFpk)
 
