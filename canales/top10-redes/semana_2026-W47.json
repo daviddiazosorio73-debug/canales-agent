@@ -11,10 +11,20 @@
  "playlist": "PLXnwYWmFTcVA",
  "en_lista": [
   "MB4Dr5bLWOw",
-  "slmk1GoIIPg"
+  "slmk1GoIIPg",
+  "AEJW2LlQvwE",
+  "Y38McEFiUkc",
+  "ysw8eZJMvRY",
+  "iRfZKLDtiMM"
  ],
  "enlazados": [
   "MB4Dr5bLWOw>slmk1GoIIPg",
-  "slmk1GoIIPg>fin"
+  "slmk1GoIIPg>fin",
+  "MB4Dr5bLWOw>AEJW2LlQvwE",
+  "AEJW2LlQvwE>slmk1GoIIPg",
+  "slmk1GoIIPg>Y38McEFiUkc",
+  "Y38McEFiUkc>ysw8eZJMvRY",
+  "ysw8eZJMvRY>iRfZKLDtiMM",
+  "iRfZKLDtiMM>fin"
  ]
 }
