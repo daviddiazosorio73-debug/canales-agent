@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-10",
+  "tema": "Un promedio no es tu resultado (espirulina y presión)",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Te bajará a ti?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Un promedio no es tu resultado (espirulina y presión) #shorts",
+    "descripcion": "Un promedio no es tu resultado (espirulina y presión).\n\n📚 Fuentes (PubMed):\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "cómo leer un estudio",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-10T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si un estudio dice que la espirulina bajó la presión cuatro milímetros, ¿te bajará cuatro a ti?",
+      "texto_pantalla": "¿Te bajará a ti?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "crowd people walking street blurred"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "No necesariamente. Ese número es un promedio. En el metaanálisis de Shiri, de dos mil veinticuatro, el efecto fue más claro en personas con presión elevada, con sobrepeso o mayores de cincuenta años, y los ensayos variaron mucho entre sí. A unas personas les puede bajar más, a otras casi nada. Por eso lo que vale es lo que mide tu médico en ti, con tus números y tu historia. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Shiri H, 2024 · Phytother Res",
+      "emocion": "agil",
+      "visual": {
+        "query": "nurse measuring patient blood pressure"
+      }
+    }
+  ]
+}

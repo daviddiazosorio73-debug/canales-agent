@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "La pregunta sobre Jesús que desenmascara a un falso profeta ❓",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "¿Qué dice de Jesús?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La pregunta sobre Jesús que desenmascara a un falso profeta ❓ #shorts",
+    "descripcion": "Juan dejó una pregunta clave para saber si un espíritu viene de Dios. No es sobre milagros.\n\n1 Juan 4:2-3\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "encarnación",
+      "jesucristo"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Juan dejó una pregunta clave para saber si un espíritu viene de Dios. No es sobre milagros.",
+      "texto_pantalla": "¿Qué dice de Jesús?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old key on worn wooden surface"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en primera de Juan cuatro, versículos dos y tres. Todo espíritu que confiesa que Jesucristo ha venido en carne es de Dios; y el que no lo confiesa, no es de Dios. Es el tema de hoy en la lección nueve, Poniendo a prueba a los profetas: la encarnación de Cristo. ¿Por qué esa prueba? Porque si Jesús no fue verdaderamente humano, no pudo vivir nuestra vida ni morir nuestra muerte. Negar la encarnación vacía el evangelio. Un mensaje que diluye quién es Jesús, por bonito que suene, no viene de Dios. Suscríbete y comenta: ¿quién es Jesús para ti?",
+      "texto_pantalla": "¿Qué dice de Jesús?",
+      "referencia": "1 Juan 4:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "manger in quiet stable at night with soft light"
+      }
+    }
+  ]
+}

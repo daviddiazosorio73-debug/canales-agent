@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Planeó graneros más grandes. Esa noche… 🏚️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Esa noche?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Planeó graneros más grandes. Esa noche… 🏚️ #shorts",
+    "descripcion": "El rico de la parábola dijo mis frutos, mis graneros, mis bienes. Y Dios le dijo: esta noche. (Lucas 12:16-21, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "rico insensato",
+      "Lucas 12",
+      "avaricia"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un hombre tuvo una cosecha enorme. Y planeó derribar sus graneros para construir otros más grandes.",
+      "texto_pantalla": "¿Esa noche?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old barn night stars"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es la parábola de Lucas doce. Fíjate en cómo habla: mis frutos, mis graneros, mis bienes, mi alma. Y se dice a sí mismo: descansa, come, bebe, alégrate. Pero Dios le dijo: necio, esta noche vienen a pedirte tu alma; y lo que has guardado, ¿de quién será? Jesús concluye: así es el que hace tesoro para sí, y no es rico para con Dios. El problema no fue la cosecha. Fue que solo había espacio para él. ¿Para quién estás construyendo?",
+      "texto_pantalla": "¿Esa noche?",
+      "referencia": "Lucas 12:16-21",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "empty granary dust light"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "O único livro que lê você enquanto você o lê 📖",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Ele lê você?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O único livro que lê você enquanto você o lê 📖 #shorts",
+    "descripcion": "Existe um livro que, enquanto você o lê, também lê você.\n\nHebreus 4:12\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existe um livro que, enquanto você o lê, também lê você.",
+      "texto_pantalla": "Ele lê você?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old book opening with light glowing from pages"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "É o verso para memorizar da lição dez, Autoridade e relevância proféticas: Hebreus quatro, versículo doze. A Palavra de Deus é viva e eficaz, mais cortante que qualquer espada de dois gumes. Ela penetra até o mais profundo e julga os pensamentos e as intenções do coração. Repare: a Bíblia não é um livro parado no passado. Ela é viva. Fala hoje, com a mesma autoridade, e alcança o que ninguém mais vê. Por isso ela é a medida de toda mensagem profética. Memorize Hebreus quatro, doze, e comente «Palavra viva».",
+      "texto_pantalla": "Ele lê você?",
+      "referencia": "Hebreus 4:12",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunbeam through dark room onto open book"
+      }
+    }
+  ]
+}

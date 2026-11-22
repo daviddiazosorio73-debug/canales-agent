@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "O convite de Deus que não dá para entender só lendo 🍯",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "Só lendo?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O convite de Deus que não dá para entender só lendo 🍯 #shorts",
+    "descripcion": "Existe um convite na Bíblia que não dá para entender só lendo. É preciso fazer outra coisa.\n\nSalmo 34:8\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existe um convite na Bíblia que não dá para entender só lendo. É preciso fazer outra coisa.",
+      "texto_pantalla": "Só lendo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "honey dripping from wooden dipper close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Salmo trinta e quatro, versículo oito. Provem e vejam que o Senhor é bom; feliz é quem nele se refugia. O salmista não pede apenas para ouvir falar de Deus, mas para experimentá-lo, como quem prova um alimento e descobre o sabor. É o tema de hoje da lição nove, Colocando os profetas à prova: provem e vejam. Os testes bíblicos que vimos nesta semana são importantes, mas a confiança cresce de verdade quando você vive a mensagem e vê o fruto na própria vida. Deus não tem medo de ser provado assim. Comente «Vou provar».",
+      "texto_pantalla": "Só lendo?",
+      "referencia": "Salmo 34:8",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over quiet green valley"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "¿Cómo se nota que Cristo vive en una casa? 🏡",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Cómo se nota?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Cómo se nota que Cristo vive en una casa? 🏡 #shorts",
+    "descripcion": "El lunes empezamos el capítulo 5 de Consejos sobre mayordomía cristiana: Donde Cristo mora hay liberalidad. (Efesios 3:17 · Lucas 19:8, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Elena de White",
+      "consejos sobre mayordomía cristiana",
+      "Efesios 3"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cómo se nota que Cristo vive en una persona? No siempre por lo que dice. A veces, por su mano abierta.",
+      "texto_pantalla": "¿Cómo se nota?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open door warm home light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo pide en Efesios tres que Cristo habite por la fe en nuestros corazones, arraigados en amor. Y donde el amor echa raíz, la mano se abre. Zaqueo no esperó a que le exigieran nada: con Jesús en su casa, decidió dar. El lunes, a las seis de la tarde, empezamos el capítulo cinco de Consejos sobre mayordomía cristiana, de Elena de White: Donde Cristo mora hay liberalidad. Suscríbete y activa la campana.",
+      "texto_pantalla": "¿Cómo se nota?",
+      "referencia": "Efesios 3:17 · Lucas 19:8",
+      "emocion": "calido",
+      "visual": {
+        "query": "hands sharing bread table"
+      }
+    }
+  ]
+}

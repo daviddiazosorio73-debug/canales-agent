@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "9 sinais de que Deus está agindo numa vida 🍇",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "Nove sinais?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "9 sinais de que Deus está agindo numa vida 🍇 #shorts",
+    "descripcion": "Existe uma lista com nove sinais que mostram quando o Espírito de Deus está trabalhando em alguém. Quantos você reconhece?\n\nGálatas 5:22-23\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existe uma lista com nove sinais que mostram quando o Espírito de Deus está trabalhando em alguém. Quantos você reconhece?",
+      "texto_pantalla": "Nove sinais?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "bunch of ripe grapes on vine in sunlight"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Gálatas cinco, versículos vinte e dois e vinte e três. O fruto do Espírito é amor, alegria, paz, paciência, benignidade, bondade, fidelidade, mansidão e domínio próprio. É o tema de hoje da lição nove, Colocando os profetas à prova: frutos positivos. Quando Deus usa alguém, o resultado aparece no caráter, não só nas palavras. E aparece também em quem recebe a mensagem: mais amor, mais paz, mais fidelidade. Uma mensagem que só produz orgulho, medo ou divisão merece atenção. Qual desses frutos você mais quer ver na sua vida? Comente.",
+      "texto_pantalla": "Nove sinais?",
+      "referencia": "Gálatas 5:22-23",
+      "emocion": "agil",
+      "visual": {
+        "query": "vineyard rows at golden hour"
+      }
+    }
+  ]
+}

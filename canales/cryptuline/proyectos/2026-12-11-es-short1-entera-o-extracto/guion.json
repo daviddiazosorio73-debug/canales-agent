@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-11",
+  "tema": "Espirulina entera o extracto: ¿cuál mostró más efecto en la presión?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Entera o extracto?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina entera o extracto: ¿cuál mostró más efecto en la presión? #shorts",
+    "descripcion": "Espirulina entera o extracto: ¿cuál mostró más efecto en la presión?\n\n📚 Fuentes (PubMed):\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "nutrición",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-11T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Espirulina entera o extracto? En la presión arterial, los ensayos no dieron igual.",
+      "texto_pantalla": "¿Entera o extracto?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "green powder and capsules comparison"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En el metaanálisis de Casas-Agustench, de dos mil veinticinco, con veintinueve ensayos sobre algas comestibles, el alga entera tuvo más efecto sobre la presión que los extractos. Eso compara formas de alga en distintos estudios, no recetas. ¿Y qué pasa cuando la pones dentro de un alimento? Hoy a las seis de la tarde, hora de Lima, te cuento un ensayo de dos mil veintiséis que cambia cómo pensamos la cocina con espirulina. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Casas-Agustench P, 2025 · J Hum Nutr Diet",
+      "emocion": "agil",
+      "visual": {
+        "query": "kitchen counter healthy ingredients"
+      }
+    }
+  ]
+}

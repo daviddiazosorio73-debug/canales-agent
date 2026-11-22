@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "¿Alguien en el cielo entiende lo que sientes? 💭",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "¿Te entiende?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Alguien en el cielo entiende lo que sientes? 💭 #shorts",
+    "descripcion": "Cuando sufres, tal vez piensas que nadie allá arriba entiende lo que es ser humano.\n\nHebreos 2:14-18\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "consuelo",
+      "hebreos"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Cuando sufres, tal vez piensas que nadie allá arriba entiende lo que es ser humano.",
+      "texto_pantalla": "¿Te entiende?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "person sitting alone on bench in rain seen from behind"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hebreos dos, versículos catorce al dieciocho, responde: Jesús participó de nuestra carne y sangre, y en todo fue hecho semejante a sus hermanos, para ser un sumo sacerdote misericordioso; y porque él mismo padeció siendo tentado, puede ayudar a los que son tentados. Esto conecta con el tema de hoy en la lección nueve: la encarnación de Cristo. La encarnación no es solo doctrina; es consuelo. Por eso importa tanto que un mensaje la confiese con claridad. El Jesús que se hizo hombre te entiende desde adentro. Suscríbete y comenta «Él me entiende».",
+      "texto_pantalla": "¿Te entiende?",
+      "referencia": "Hebreos 2:14-18",
+      "emocion": "agil",
+      "visual": {
+        "query": "hand reaching out to help another hand"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "La forma de comprobar si algo viene de Dios 🔍",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "¿Cómo comprobarlo?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La forma de comprobar si algo viene de Dios 🔍 #shorts",
+    "descripcion": "Jesús dio un método para saber si una enseñanza viene de Dios. Y no empieza en la cabeza.\n\nJuan 7:17\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "juan 7",
+      "voluntad de dios"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús dio un método para saber si una enseñanza viene de Dios. Y no empieza en la cabeza.",
+      "texto_pantalla": "¿Cómo comprobarlo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass over open book"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Juan siete, versículo diecisiete, Jesús dice que el que quiera hacer la voluntad de Dios conocerá si la enseñanza es de Dios. Esto encaja con el tema de hoy en la lección nueve: gusten y vean. La comprensión espiritual crece cuando estamos dispuestos a obedecer. No se trata de apagar la razón, sino de unirla a un corazón dispuesto. Quien solo quiere discutir, se queda afuera; quien quiere seguir a Dios, recibe luz. Pregúntate hoy si buscas tener razón o hacer su voluntad. Suscríbete y comenta «Quiero hacer tu voluntad».",
+      "texto_pantalla": "¿Cómo comprobarlo?",
+      "referencia": "Juan 7:17",
+      "emocion": "agil",
+      "visual": {
+        "query": "person walking through open door into bright light"
+      }
+    }
+  ]
+}

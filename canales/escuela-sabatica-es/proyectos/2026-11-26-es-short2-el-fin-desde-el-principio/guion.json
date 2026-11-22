@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Solo hay Uno que conoce el final de la historia 📜",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "¿Quién sabe el final?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Solo hay Uno que conoce el final de la historia 📜 #shorts",
+    "descripcion": "Nadie puede predecir el futuro con exactitud. Pero Dios hizo un desafío abierto sobre eso.\n\nIsaías 46:9-10\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "isaías",
+      "futuro"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Nadie puede predecir el futuro con exactitud. Pero Dios hizo un desafío abierto sobre eso.",
+      "texto_pantalla": "¿Quién sabe el final?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient scroll on stone table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Isaías cuarenta y seis, versículos nueve y diez, Dios afirma que no hay nadie como él, porque desde el comienzo anuncia el final y declara de antemano lo que todavía no ha ocurrido. Conecta con el tema de hoy en la lección nueve: profecías cumplidas. Las profecías cumplidas no son trucos de adivino; son la firma de Dios en la historia. Muestran que él ve el final antes del comienzo, y por eso puedes confiar en sus promesas para lo que todavía no ha pasado. Suscríbete y comenta «Él conoce mi final».",
+      "texto_pantalla": "¿Quién sabe el final?",
+      "referencia": "Isaías 46:9-10",
+      "emocion": "agil",
+      "visual": {
+        "query": "winding road disappearing into horizon"
+      }
+    }
+  ]
+}

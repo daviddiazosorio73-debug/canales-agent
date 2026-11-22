@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-09",
+  "tema": "Espirulina y presión: el metaanálisis que dijo «pequeño e incierto»",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Pequeño o grande?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina y presión: el metaanálisis que dijo «pequeño e incierto» #shorts",
+    "descripcion": "Espirulina y presión: el metaanálisis que dijo «pequeño e incierto».\n\n📚 Fuentes (PubMed):\n• Pinto-Leite M, Martins D, Ferreira AC, Silva C, Trindade F, Saraiva F, et al. The Role of Chlorella and Spirulina as Adjuvants of Cardiovascular Risk Factor Control: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. Nutrients. 2025;17(6):943. https://pubmed.ncbi.nlm.nih.gov/40289965/ · https://doi.org/10.3390/nu17060943\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "metaanálisis",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-09T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un metaanálisis de dos mil veinticinco usó dos palabras que casi nadie repite: pequeño e incierto.",
+      "texto_pantalla": "¿Pequeño o grande?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "scientist writing notes laboratory"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pinto-Leite y su equipo, de la Universidad de Oporto, reunieron nueve ensayos sobre espirulina. Este estudio encontró una reducción estadísticamente significativa de la presión diastólica, pero los autores escribieron que la magnitud del efecto es pequeña y de importancia clínica incierta. Además, no cambió de forma significativa el colesterol ni los triglicéridos. Significativo no siempre quiere decir importante para tu salud. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Pinto-Leite M, 2025 · Nutrients",
+      "emocion": "agil",
+      "visual": {
+        "query": "green microalgae microscope"
+      }
+    }
+  ]
+}

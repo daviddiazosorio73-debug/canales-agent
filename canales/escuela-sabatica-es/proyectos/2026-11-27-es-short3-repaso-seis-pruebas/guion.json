@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Seis pruebas para saber si un profeta es de Dios ✅",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "¿Pasa la prueba?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Seis pruebas para saber si un profeta es de Dios ✅ #shorts",
+    "descripcion": "Esta semana vimos seis pruebas bíblicas para saber si un mensaje viene de Dios. ¿Las recuerdas todas?\n\n1 Juan 4:1\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "repaso semanal",
+      "pruebas de un profeta"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Esta semana vimos seis pruebas bíblicas para saber si un mensaje viene de Dios. ¿Las recuerdas todas?",
+      "texto_pantalla": "¿Pasa la prueba?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "checklist on clipboard with pen"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Repaso de la lección nueve, Poniendo a prueba a los profetas, versículo clave primera de Juan cuatro, uno. Uno: lo sobrenatural no basta, según Mateo veinticuatro. Dos: armonía con la Biblia, Isaías ocho, veinte. Tres: confesar que Jesucristo vino en carne, primera de Juan cuatro. Cuatro: frutos, Mateo siete. Cinco: profecías cumplidas, Jeremías veintiocho. Seis: gustar y ver, Salmo treinta y cuatro. Ninguna prueba sola lo dice todo; juntas forman una red segura. Guárdalo para tenerlo a mano. Suscríbete y comenta cuál te ayudó más.",
+      "texto_pantalla": "¿Pasa la prueba?",
+      "referencia": "1 Juan 4:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "six stones stacked in balance by river"
+      }
+    }
+  ]
+}

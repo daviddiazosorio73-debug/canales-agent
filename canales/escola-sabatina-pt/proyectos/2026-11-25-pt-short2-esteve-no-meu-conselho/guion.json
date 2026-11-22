@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Profetas que Deus nunca enviou: como perceber?",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "Como perceber?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Profetas que Deus nunca enviou: como perceber? #shorts",
+    "descripcion": "Deus disse que alguns profetas corriam com mensagens que ele nunca tinha dado. E mostrou como perceber a diferença.\n\nJeremias 23:21-22\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Deus disse que alguns profetas corriam com mensagens que ele nunca tinha dado. E mostrou como perceber a diferença.",
+      "texto_pantalla": "Como perceber?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "footprints on dirt road disappearing into fog"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremias vinte e três, versículos vinte e um e vinte e dois. Deus diz: eu não enviei esses profetas, mas eles correram; não falei com eles, mas eles profetizaram. Se tivessem estado no meu conselho, teriam feito o meu povo ouvir as minhas palavras e o teriam desviado do mau caminho. É o tema de hoje da lição nove, Colocando os profetas à prova: frutos positivos. Um verdadeiro mensageiro de Deus não deixa as pessoas confortáveis no erro. Ele as aproxima da Palavra e as afasta do pecado. Pergunte: esta mensagem me chama a mudar de caminho? Comente «Quero ouvir a Palavra».",
+      "texto_pantalla": "Como perceber?",
+      "referencia": "Jeremias 23:21-22",
+      "emocion": "agil",
+      "visual": {
+        "query": "forest path splitting in two with sunlight"
+      }
+    }
+  ]
+}

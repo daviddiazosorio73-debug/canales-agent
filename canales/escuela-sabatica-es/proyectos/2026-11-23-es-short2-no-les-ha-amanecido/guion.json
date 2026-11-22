@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "La prueba que separa la luz de la oscuridad 🌅",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "En armonía con la Biblia"
+  },
+  "miniatura": {
+    "linea1": "¿Luz u oscuridad?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La prueba que separa la luz de la oscuridad 🌅 #shorts",
+    "descripcion": "Hay un versículo que funciona como un interruptor: enciende la luz sobre cualquier mensaje.\n\nIsaías 8:20\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "isaías",
+      "ley y testimonio"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un versículo que funciona como un interruptor: enciende la luz sobre cualquier mensaje.",
+      "texto_pantalla": "¿Luz u oscuridad?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hand on light switch in dark room"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Isaías ocho, versículo veinte. El profeta dice que hay que ir a la ley y al testimonio, y que si alguien no habla conforme a esto, es porque no le ha amanecido. Es parte del tema de hoy en la lección nueve: en armonía con la Biblia. La idea es sencilla y poderosa: la Escritura es la regla con la que se mide toda enseñanza, incluso la que dice venir de un profeta. Si un mensaje va en contra de lo que Dios ya mandó y reveló, sigue a oscuras, aunque suene muy espiritual. Antes de aceptar una idea, llévala a la Biblia. Suscríbete y comenta qué versículo usas como brújula.",
+      "texto_pantalla": "¿Luz u oscuridad?",
+      "referencia": "Isaías 8:20",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over calm sea horizon"
+      }
+    }
+  ]
+}

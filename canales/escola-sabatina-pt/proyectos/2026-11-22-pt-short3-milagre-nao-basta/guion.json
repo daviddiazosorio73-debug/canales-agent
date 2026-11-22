@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Um milagre prova que a mensagem vem de Deus? 🤔",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "El papel de lo sobrenatural"
+  },
+  "miniatura": {
+    "linea1": "Milagre basta?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Um milagre prova que a mensagem vem de Deus? 🤔 #shorts",
+    "descripcion": "Um sinal acontece diante dos seus olhos. Tudo indica que é obra de Deus. Mas a Bíblia diz que ainda falta uma pergunta, e ela muda tudo.\n\nDeuteronômio 13:1-3\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um sinal acontece diante dos seus olhos. Tudo indica que é obra de Deus. Mas a Bíblia diz que ainda falta uma pergunta, e ela muda tudo.",
+      "texto_pantalla": "Milagre basta?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "lightning strike over dark stormy sky at night"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Deuteronômio treze, versículos um a três. Se um profeta anunciasse um sinal ou um prodígio, e ele acontecesse, mas depois convidasse o povo a seguir outros deuses, Israel não deveria ouvi-lo. O Senhor estava provando se o seu povo o amava de todo o coração. Jesus repetiu o alerta em Mateus vinte e quatro, versículo vinte e quatro: falsos profetas fariam grandes sinais para enganar, se possível, até os escolhidos. É o tema de hoje da lição nove, Colocando os profetas à prova: o papel do sobrenatural. O sobrenatural existe, mas não é a prova final. A prova é: para onde essa mensagem leva você? Para Deus e sua Palavra, ou para longe dele? Comente «A Palavra primeiro».",
+      "texto_pantalla": "Milagre basta?",
+      "referencia": "Deuteronômio 13:1-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "old open book on wooden table lit by candle"
+      }
+    }
+  ]
+}

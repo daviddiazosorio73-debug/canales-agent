@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-08",
+  "tema": "Espirulina y presión: ¿en quién se vio el efecto?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿En quién funciona?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina y presión: ¿en quién se vio el efecto? #shorts",
+    "descripcion": "Espirulina y presión: ¿en quién se vio el efecto?\n\n📚 Fuentes (PubMed):\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "hipertensión",
+      "subgrupos",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-08T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿La espirulina baja la presión a todos por igual? Un metaanálisis buscó en quién.",
+      "texto_pantalla": "¿En quién funciona?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "diverse adults group portrait outdoors"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Shiri y su equipo, de Teherán, publicaron en dos mil veinticuatro una revisión de ensayos aleatorizados en adultos. Este estudio encontró que la presión siguió más baja en quienes empezaban con ciento veinte de sistólica u ochenta de diastólica o más, en personas con hipertensión, con sobrepeso y mayores de cincuenta años. En quienes tienen la presión normal, el efecto promedio se diluye. Por eso un solo número en un titular no basta: pregunta siempre en quién. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Shiri H, 2024 · Phytother Res",
+      "emocion": "agil",
+      "visual": {
+        "query": "older man blood pressure check home"
+      }
+    }
+  ]
+}

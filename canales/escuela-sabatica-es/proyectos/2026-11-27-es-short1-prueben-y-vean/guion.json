@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "La invitación más valiente de la Biblia 😋",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "¿Te atreves?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La invitación más valiente de la Biblia 😋 #shorts",
+    "descripcion": "Hay un versículo que no te pide creer primero. Te invita a probar.\n\nSalmos 34:8\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "salmo 34",
+      "experiencia con dios"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un versículo que no te pide creer primero. Te invita a probar.",
+      "texto_pantalla": "¿Te atreves?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fresh bread on rustic table steam rising"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es el Salmo treinta y cuatro, versículo ocho: gusten y vean que el Señor es bueno; dichoso el que confía en él. Es el tema de hoy en la lección nueve, Poniendo a prueba a los profetas. Después de las pruebas de la Palabra, de Cristo, de los frutos y del cumplimiento, llega una invitación personal: experimentarlo tú mismo. Nadie puede saborear por ti. Lee, ora, obedece lo que entiendes, y observa lo que Dios hace en tu vida. La fe bíblica no huye de la prueba; la busca. Suscríbete y comenta «Lo voy a probar».",
+      "texto_pantalla": "¿Te atreves?",
+      "referencia": "Salmos 34:8",
+      "emocion": "agil",
+      "visual": {
+        "query": "honey dripping from wooden dipper"
+      }
+    }
+  ]
+}

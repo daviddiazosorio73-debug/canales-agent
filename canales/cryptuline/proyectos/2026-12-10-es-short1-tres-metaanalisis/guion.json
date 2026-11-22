@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-10",
+  "tema": "Tres metaanálisis de espirulina, tres números distintos: ¿por qué?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Por qué no coinciden?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Tres metaanálisis de espirulina, tres números distintos: ¿por qué? #shorts",
+    "descripcion": "Tres metaanálisis de espirulina, tres números distintos: ¿por qué?\n\n📚 Fuentes (PubMed):\n• Machowiec P, Ręka G, Maksymowicz M, Piecewicz-Szczęsna H, Smoleń A. Effect of Spirulina Supplementation on Systolic and Diastolic Blood Pressure: Systematic Review and Meta-Analysis of Randomized Controlled Trials. Nutrients. 2021;13(9):3054. https://pubmed.ncbi.nlm.nih.gov/34578932/ · https://doi.org/10.3390/nu13093054\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n• Pinto-Leite M, Martins D, Ferreira AC, Silva C, Trindade F, Saraiva F, et al. The Role of Chlorella and Spirulina as Adjuvants of Cardiovascular Risk Factor Control: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. Nutrients. 2025;17(6):943. https://pubmed.ncbi.nlm.nih.gov/40289965/ · https://doi.org/10.3390/nu17060943\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "metaanálisis",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-10T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tres metaanálisis sobre espirulina y presión dan números distintos. ¿Alguno miente?",
+      "texto_pantalla": "¿Por qué no coinciden?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "three documents side by side desk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "No necesariamente. Machowiec, en dos mil veintiuno, juntó cinco ensayos y doscientas treinta personas. Shiri, en dos mil veinticuatro, hizo una revisión actualizada con evaluación GRADE: algo más de cuatro milímetros menos de sistólica. Pinto-Leite, en dos mil veinticinco, juntó nueve ensayos y vio un efecto pequeño. Distintos ensayos incluidos, distintas personas y distintos métodos dan resultados distintos. Por eso se mira el conjunto, no un solo titular. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Machowiec P, 2021 · Shiri H, 2024 · Pinto-Leite M, 2025",
+      "emocion": "agil",
+      "visual": {
+        "query": "scales balance comparison"
+      }
+    }
+  ]
+}

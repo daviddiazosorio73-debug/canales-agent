@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "¿Un milagro prueba que alguien viene de Dios? 🤔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "El papel de lo sobrenatural"
+  },
+  "miniatura": {
+    "linea1": "¿Milagro = Dios?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Un milagro prueba que alguien viene de Dios? 🤔 #shorts",
+    "descripcion": "Viste algo imposible con tus propios ojos. ¿Eso basta para creer que el mensaje viene de Dios?\n\nMateo 24:24\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "milagros",
+      "señales y prodigios"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Viste algo imposible con tus propios ojos. ¿Eso basta para creer que el mensaje viene de Dios?",
+      "texto_pantalla": "¿Milagro = Dios?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "mysterious bright light in dark foggy forest"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús respondió esa pregunta en Mateo veinticuatro, versículo veinticuatro. Advirtió que se levantarían falsos cristos y falsos profetas, y que harían grandes señales y prodigios, tanto que, si fuera posible, engañarían aun a los escogidos. Es el tema de hoy en la lección nueve, Poniendo a prueba a los profetas: el papel de lo sobrenatural. Lo sobrenatural existe, pero no todo lo sobrenatural viene de Dios. Un prodigio llama la atención; la Palabra de Dios es la que decide. Por eso la prueba no es cuán impresionante es la señal, sino si el mensaje está de acuerdo con lo que Dios ya dijo. Suscríbete y comenta: ¿qué pesa más para ti, lo que ves o lo que está escrito?",
+      "texto_pantalla": "¿Milagro = Dios?",
+      "referencia": "Mateo 24:24",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible on wooden table in warm candlelight"
+      }
+    }
+  ]
+}

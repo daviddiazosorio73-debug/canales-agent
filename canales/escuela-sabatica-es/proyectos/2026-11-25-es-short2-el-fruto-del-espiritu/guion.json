@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Nueve señales de que Dios está obrando 🍇",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "¿Qué fruto ves?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Nueve señales de que Dios está obrando 🍇 #shorts",
+    "descripcion": "Hay una lista bíblica de nueve rasgos que no se pueden fingir por mucho tiempo.\n\nGálatas 5:22-23\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "fruto del espíritu",
+      "gálatas 5"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay una lista bíblica de nueve rasgos que no se pueden fingir por mucho tiempo.",
+      "texto_pantalla": "¿Qué fruto ves?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "bunch of grapes on vine in sunlight"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Gálatas cinco, versículos veintidós y veintitrés: el fruto del Espíritu es amor, gozo, paz, paciencia, benignidad, bondad, fe, mansedumbre y templanza. Esto ilumina el tema de hoy en la lección nueve: frutos positivos. Un mensaje que de verdad viene de Dios produce, con el tiempo, esta clase de fruto en quien lo vive y en quienes lo reciben. No es perfección instantánea, sino dirección: vidas que se parecen cada vez más a Jesús. Pregúntate qué está produciendo en ti lo que escuchas. Suscríbete y comenta cuál de los nueve necesitas hoy.",
+      "texto_pantalla": "¿Qué fruto ves?",
+      "referencia": "Gálatas 5:22-23",
+      "emocion": "agil",
+      "visual": {
+        "query": "fruit tree in orchard at golden hour"
+      }
+    }
+  ]
+}

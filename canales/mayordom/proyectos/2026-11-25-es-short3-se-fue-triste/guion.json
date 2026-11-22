@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Tenía todo… y se fue triste 😔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Por qué triste?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Tenía todo… y se fue triste 😔 #shorts",
+    "descripcion": "Jesús lo miró y lo amó. Pero él se fue triste, porque tenía muchas posesiones. (Mateo 19:21-22 · Marcos 10:21, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "joven rico",
+      "Mateo 19",
+      "riqueza"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Era joven, rico y cumplía los mandamientos. Habló con Jesús cara a cara. Y se fue triste.",
+      "texto_pantalla": "¿Por qué triste?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "young man walking away road"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Mateo diecinueve. Jesús le dijo: vende lo que tienes, dalo a los pobres, y tendrás tesoro en el cielo; y ven, sígueme. Al oír eso, se fue triste, porque tenía muchas posesiones. Marcos agrega un detalle que conmueve: Jesús lo miró y lo amó. No era una exigencia cruel. Era una invitación a ser libre. El problema no eran sus posesiones. Era que sus posesiones lo tenían a él. ¿Hay algo que te tiene a ti?",
+      "texto_pantalla": "¿Por qué triste?",
+      "referencia": "Mateo 19:21-22 · Marcos 10:21",
+      "emocion": "reflexivo",
+      "visual": {
+        "query": "empty road dusk loneliness"
+      }
+    }
+  ]
+}

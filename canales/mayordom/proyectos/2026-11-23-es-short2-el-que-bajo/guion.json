@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "Todos quieren subir. Él decidió bajar ⬇️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Subir o bajar",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Todos quieren subir. Él decidió bajar ⬇️ #shorts",
+    "descripcion": "Jesús, siendo rico, se hizo pobre por amor a nosotros. Hoy empezamos el capítulo 4 de Consejos sobre mayordomía cristiana. (2 Corintios 8:9 · Marcos 10:45, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "2 Corintios 8:9",
+      "humildad de Cristo",
+      "Elena de White"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Todos queremos subir: de puesto, de ingresos, de nivel. Pero hubo alguien que lo tenía todo y decidió bajar.",
+      "texto_pantalla": "Subir o bajar",
+      "emocion": "gancho",
+      "visual": {
+        "query": "city skyline climbing ladder"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo lo cuenta en segunda de Corintios ocho, nueve: Jesús, siendo rico, se hizo pobre por amor a nosotros, para que con su pobreza fuéramos enriquecidos. Y Marcos diez dice que no vino para ser servido, sino para servir y dar su vida. Ahí están los dos principios de este capítulo: uno sube tomando, el otro baja dando. Hoy, a las seis de la tarde, empezamos el capítulo cuatro de Consejos sobre mayordomía cristiana, de Elena de White: Principios conflictivos de Cristo y Satanás. ¿De dónde viene el egoísmo, y por qué Dios responde con generosidad? Te espero.",
+      "texto_pantalla": "Subir o bajar",
+      "referencia": "2 Corintios 8:9 · Marcos 10:45",
+      "emocion": "calido",
+      "visual": {
+        "query": "humble servant washing basin"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "¿Quién es el devorador de Malaquías? Lee el contexto 🌾",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Quién es?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Quién es el devorador de Malaquías? Lee el contexto 🌾 #shorts",
+    "descripcion": "El devorador de Malaquías 3:11 aparece en un contexto de cosechas. Y el texto es una promesa, no una amenaza. (Malaquías 3:11 · Deuteronomio 28:38, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "devorador",
+      "Malaquías 3",
+      "diezmo"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Te dijeron que el devorador viene por tu sueldo si no diezmas. Pero, ¿leíste el versículo completo?",
+      "texto_pantalla": "¿Quién es?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "wheat field golden close"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Malaquías tres, once, dice que Dios reprenderá al devorador para que no destruya el fruto de la tierra, ni la vid en el campo sea estéril. Es un lenguaje de cosechas. Moisés ya había advertido en Deuteronomio veintiocho de la langosta que consume la semilla, y Joel describe esas plagas. Por eso, varias traducciones modernas lo traducen como langosta o plaga. Lo importante: en el texto, Dios no amenaza. Promete proteger. Hoy, a las seis de la tarde, el análisis completo. Suscríbete.",
+      "texto_pantalla": "¿Quién es?",
+      "referencia": "Malaquías 3:11 · Deuteronomio 28:38",
+      "emocion": "agil",
+      "visual": {
+        "query": "grapevine vineyard sunlight"
+      }
+    }
+  ]
+}

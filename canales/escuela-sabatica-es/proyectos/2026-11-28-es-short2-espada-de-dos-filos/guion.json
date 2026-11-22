@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "¿Por qué la Biblia corta como una espada? ⚔️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "¿Por qué corta?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Por qué la Biblia corta como una espada? ⚔️ #shorts",
+    "descripcion": "La Biblia se compara a sí misma con un arma. Y no es para usarla contra otros.\n\nHebreos 4:12\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "hebreos 4",
+      "espada"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La Biblia se compara a sí misma con un arma. Y no es para usarla contra otros.",
+      "texto_pantalla": "¿Por qué corta?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "steel sword blade reflecting light close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hebreos cuatro, doce, versículo para memorizar de la lección diez, Autoridad y relevancia proféticas, compara la palabra de Dios con una espada de dos filos que penetra hasta partir el alma y el espíritu. Esa espada no es para herir al prójimo, sino para llegar a nuestro propio corazón: discierne pensamientos e intenciones que a veces ni nosotros vemos. Corta para sanar, como el bisturí de un cirujano. Cuando un texto te incomoda, quizá está haciendo su trabajo. Déjalo actuar. Suscríbete y comenta «Que me examine».",
+      "texto_pantalla": "¿Por qué corta?",
+      "referencia": "Hebreos 4:12",
+      "emocion": "agil",
+      "visual": {
+        "query": "surgeon scalpel on sterile tray"
+      }
+    }
+  ]
+}

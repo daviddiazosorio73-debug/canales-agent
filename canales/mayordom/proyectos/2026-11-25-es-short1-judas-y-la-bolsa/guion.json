@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "El discípulo que manejaba el dinero… y robaba 👝",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Quién?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El discípulo que manejaba el dinero… y robaba 👝 #shorts",
+    "descripcion": "Judas dijo que pensaba en los pobres. Juan explica que era ladrón y sacaba de la bolsa. (Juan 12:4-6, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Judas",
+      "Juan 12",
+      "egoísmo"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Había un discípulo encargado del dinero del grupo. Y el Evangelio dice, sin rodeos, que robaba.",
+      "texto_pantalla": "¿Quién?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "leather money pouch old table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Juan doce, seis. Judas criticó un regalo hecho a Jesús y dijo que mejor se hubiera vendido para dar a los pobres. Sonaba generoso. Pero Juan explica que no lo dijo porque le importaran los pobres, sino porque era ladrón y, como tenía la bolsa, sacaba de lo que echaban en ella. El egoísmo a veces habla el idioma de la caridad. Hoy, a las seis de la tarde, el sermón completo: dos personas en la misma cena, y dos principios en guerra. Te espero.",
+      "texto_pantalla": "¿Quién?",
+      "referencia": "Juan 12:4-6",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "dinner table candle shadows"
+      }
+    }
+  ]
+}

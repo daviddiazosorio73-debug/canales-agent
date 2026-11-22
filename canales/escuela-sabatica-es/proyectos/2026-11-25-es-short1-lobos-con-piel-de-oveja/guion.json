@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "El disfraz más peligroso de la iglesia 🐺",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "¿Oveja o lobo?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El disfraz más peligroso de la iglesia 🐺 #shorts",
+    "descripcion": "Jesús habló de un disfraz tan bueno que por fuera no se nota nada.\n\nMateo 7:15-16\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "falsos profetas",
+      "mateo 7"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús habló de un disfraz tan bueno que por fuera no se nota nada.",
+      "texto_pantalla": "¿Oveja o lobo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "wolf in snowy forest staring"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Mateo siete, versículos quince y dieciséis, Jesús advierte: tengan cuidado con los falsos profetas: por fuera parecen ovejas, pero por dentro son lobos; y añade que se los reconoce por lo que producen. Es el tema de hoy en la lección nueve, Poniendo a prueba a los profetas: frutos positivos. El disfraz engaña por un tiempo; los frutos no. Con los años se ve qué produce una vida y un mensaje: ¿más amor, obediencia y humildad, o división, orgullo y ganancia personal? Mira el resultado, no la apariencia. Suscríbete y comenta «Por sus frutos».",
+      "texto_pantalla": "¿Oveja o lobo?",
+      "referencia": "Mateo 7:15-16",
+      "emocion": "agil",
+      "visual": {
+        "query": "flock of sheep grazing in green meadow"
+      }
+    }
+  ]
+}

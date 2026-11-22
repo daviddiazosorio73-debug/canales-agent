@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-06",
+  "tema": "El descanso que ninguna espirulina puede darte",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "Hecho para ti",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "El descanso que ninguna espirulina puede darte #shorts",
+    "descripcion": "El descanso que ninguna espirulina puede darte. Marcos 2:27 (paráfrasis).\n\n📚 Fuentes (PubMed):\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "descanso",
+      "sábado",
+      "salud espiritual",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-06T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un descanso que no se vende en polvo ni en cápsulas.",
+      "texto_pantalla": "Hecho para ti",
+      "emocion": "gancho",
+      "visual": {
+        "query": "calm sunrise over hills"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús dijo, en Marcos dos, versículo veintisiete, que el sábado fue hecho por causa del ser humano, y no el ser humano por causa del sábado. Un regalo, no una carga. Esta semana hablamos de espirulina y presión arterial, y la ciencia muestra efectos pequeños, de unos pocos milímetros. Ningún alimento reemplaza el ritmo de descanso que Dios diseñó. No tengo un estudio que mida la presión de quienes guardan el sábado y no lo voy a inventar; pero sí sé que una pausa semanal con Dios y la familia no se compra. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Marcos 2:27 · Casas-Agustench P, 2025",
+      "emocion": "agil",
+      "visual": {
+        "query": "family resting together park"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "El «ciento por uno» tiene una letra pequeña 🔎",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Letra pequeña",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El «ciento por uno» tiene una letra pequeña 🔎 #shorts",
+    "descripcion": "La promesa del ciento por uno en Marcos 10 incluye una frase que casi nadie lee: con persecuciones. (Marcos 10:29-30, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "ciento por uno",
+      "Marcos 10",
+      "evangelio de la prosperidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El ciento por uno es la promesa favorita de algunos predicadores. Pero casi nunca leen la frase completa.",
+      "texto_pantalla": "Letra pequeña",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass old book"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Marcos diez. Jesús promete a quienes lo dejaron todo por él y por el evangelio que recibirán cien veces más: casas, hermanos, hermanas, madres, hijos y tierras, con persecuciones, y en el siglo venidero la vida eterna. Con persecuciones. Y entre lo prometido hay hermanos y madres: una familia de fe, no solo bienes. No es una fórmula para multiplicar dinero. Hoy, a las seis de la tarde, el análisis completo. Suscríbete.",
+      "texto_pantalla": "Letra pequeña",
+      "referencia": "Marcos 10:29-30",
+      "emocion": "agil",
+      "visual": {
+        "query": "family table community warm"
+      }
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-06",
+  "tema": "¿Las algas bajan la presión? Lo que encontraron 29 ensayos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Algas para la presión?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Las algas bajan la presión? Lo que encontraron 29 ensayos #shorts",
+    "descripcion": "¿Las algas bajan la presión? Lo que encontraron 29 ensayos.\n\n📚 Fuentes (PubMed):\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "algas comestibles",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-06T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Un alga puede cambiar tu presión arterial? Veintinueve ensayos clínicos lo midieron.",
+      "texto_pantalla": "¿Algas para la presión?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "seaweed and spirulina on plate"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Casas-Agustench y su equipo, de la Universidad de Plymouth, reunieron en dos mil veinticinco veintinueve ensayos aleatorizados con mil quinientas ochenta y tres personas adultas. Este estudio encontró que, en promedio, las algas comestibles se asociaron con unos dos milímetros menos de presión sistólica. La espirulina fue la que mostró más efecto. Pero los ensayos eran muy distintos entre sí, y miden la presión, no infartos. Hoy a las seis de la tarde, hora de Lima, el video completo: ¿puede un alga compensar una vida sin pausa? Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Casas-Agustench P, 2025 · J Hum Nutr Diet",
+      "emocion": "agil",
+      "visual": {
+        "query": "blood pressure monitor table"
+      }
+    }
+  ]
+}

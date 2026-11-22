@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-09",
+  "tema": "Espirulina: el problema del que casi nadie habla",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué hay en tu frasco?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: el problema del que casi nadie habla #shorts",
+    "descripcion": "Espirulina: el problema del que casi nadie habla.\n\n📚 Fuentes (PubMed):\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "calidad",
+      "seguridad",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-10T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un tema de la espirulina que casi nunca aparece en la etiqueta.",
+      "texto_pantalla": "¿Qué hay en tu frasco?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "supplement jar label close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Grosshagauer y su equipo, de la Universidad de Viena, advirtieron en dos mil veinte que se sabe poco sobre la contaminación de los productos de espirulina con cianotoxinas, metales pesados, pesticidas o hidrocarburos, y que algunos estudios encontraron niveles altos. Por eso, si se consume a diario y en gramos, hace falta vigilar mejor esos contaminantes. Antes de tomarla, consulta a tu médico y busca información clara sobre la calidad del producto. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Grosshagauer S, 2020 · J Agric Food Chem",
+      "emocion": "agil",
+      "visual": {
+        "query": "laboratory food testing samples"
+      }
+    }
+  ]
+}

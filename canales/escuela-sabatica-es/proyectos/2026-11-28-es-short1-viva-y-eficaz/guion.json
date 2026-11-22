@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "El único libro que te lee mientras lo lees 📖",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "¿Un libro vivo?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El único libro que te lee mientras lo lees 📖 #shorts",
+    "descripcion": "Hay un libro que no solo lees tú. Mientras lo lees, él te lee a ti.\n\nHebreos 4:12\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "hebreos 4 12",
+      "palabra de dios"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un libro que no solo lees tú. Mientras lo lees, él te lee a ti.",
+      "texto_pantalla": "¿Un libro vivo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open book glowing in dark room"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es el versículo para memorizar de la lección diez, Autoridad y relevancia proféticas: Hebreos cuatro, doce. Enseña que la palabra de Dios tiene vida y poder, que corta más que cualquier espada y que llega hasta lo más profundo, revelando lo que pensamos y lo que realmente queremos. No es un libro de museo. Habla hoy, actúa hoy y transforma hoy. Por eso tiene autoridad: viene de Dios y sigue vivo. Memoriza Hebreos cuatro, doce, y comenta «Palabra viva».",
+      "texto_pantalla": "¿Un libro vivo?",
+      "referencia": "Hebreos 4:12",
+      "emocion": "agil",
+      "visual": {
+        "query": "green sprout growing from old book pages"
+      }
+    }
+  ]
+}

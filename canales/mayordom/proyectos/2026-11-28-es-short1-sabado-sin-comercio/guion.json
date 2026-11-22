@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "El hombre que cerró las puertas de la ciudad 🚪",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Por qué cerró?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El hombre que cerró las puertas de la ciudad 🚪 #shorts",
+    "descripcion": "Nehemías mandó cerrar las puertas de Jerusalén antes del sábado. El mercado no manda en el día de Dios. (Nehemías 13:15-21, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "sábado",
+      "Nehemías 13",
+      "descanso"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un gobernante mandó cerrar las puertas de su ciudad. Y los comerciantes se quedaron afuera.",
+      "texto_pantalla": "¿Por qué cerró?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient city gate closed"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es Nehemías. En el capítulo trece vio que en sábado la gente pisaba lagares, cargaba mercancías, y que unos comerciantes vendían pescado en Jerusalén. Entonces ordenó cerrar las puertas antes de que empezara el sábado. Algunos mercaderes durmieron afuera de la muralla, y él les advirtió que no volvieran. El sábado es un día en que el mercado no manda. Un día para recordar que lo que somos no depende de lo que compramos o vendemos. Feliz sábado.",
+      "texto_pantalla": "¿Por qué cerró?",
+      "referencia": "Nehemías 13:15-21",
+      "emocion": "calido",
+      "visual": {
+        "query": "peaceful morning sunlight window"
+      }
+    }
+  ]
+}

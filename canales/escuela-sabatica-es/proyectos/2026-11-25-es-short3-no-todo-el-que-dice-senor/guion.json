@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Decir «Señor, Señor» no es suficiente ⚠️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "¿Basta decirlo?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Decir «Señor, Señor» no es suficiente ⚠️ #shorts",
+    "descripcion": "Jesús describió a personas que hicieron cosas asombrosas en su nombre… y aun así él no las reconoció.\n\nMateo 7:21-23\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "obediencia",
+      "voluntad de dios"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús describió a personas que hicieron cosas asombrosas en su nombre… y aun así él no las reconoció.",
+      "texto_pantalla": "¿Basta decirlo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "closed wooden door with light behind it"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Mateo siete, versículos veintiuno al veintitrés. No todo el que dice Señor, Señor, entrará en el reino, sino el que hace la voluntad del Padre. Algunos dirán que profetizaron e hicieron milagros en su nombre, y Jesús dirá que nunca los conoció. Es el otro lado del tema de hoy en la lección nueve: frutos positivos. Las palabras correctas y los hechos impresionantes no reemplazan una vida que obedece. Eso vale para quien predica y también para quien escucha. Suscríbete y comenta «Hacer su voluntad».",
+      "texto_pantalla": "¿Basta decirlo?",
+      "referencia": "Mateo 7:21-23",
+      "emocion": "agil",
+      "visual": {
+        "query": "footprints on sandy path toward sunrise"
+      }
+    }
+  ]
+}

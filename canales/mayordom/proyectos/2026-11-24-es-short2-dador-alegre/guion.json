@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Dios no quiere tu dinero así 😟",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "Así no",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios no quiere tu dinero así 😟 #shorts",
+    "descripcion": "Que cada uno dé como lo decidió en su corazón, no con tristeza ni por obligación: Dios ama al dador alegre. (2 Corintios 9:7 · 1 Juan 4:18, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "dador alegre",
+      "2 Corintios 9:7",
+      "diezmo"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay una forma de dar que Dios no busca. Y muchos la practican cada semana sin darse cuenta.",
+      "texto_pantalla": "Así no",
+      "emocion": "gancho",
+      "visual": {
+        "query": "worried face hands holding coins"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo lo escribe en segunda de Corintios nueve, siete: que cada uno dé como lo decidió en su corazón, no con tristeza ni por obligación, porque Dios ama al dador alegre. Y Juan dice en su primera carta que en el amor no hay temor, porque el amor perfecto echa fuera el temor. Dar por miedo no es lo que Dios pide. Hoy, a las seis de la tarde, analizamos con la Biblia la frase si no diezmas, el devorador te alcanzará. Te espero.",
+      "texto_pantalla": "Así no",
+      "referencia": "2 Corintios 9:7 · 1 Juan 4:18",
+      "emocion": "agil",
+      "visual": {
+        "query": "smiling hands giving gift"
+      }
+    }
+  ]
+}

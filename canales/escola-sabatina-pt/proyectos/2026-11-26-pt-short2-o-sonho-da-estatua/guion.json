@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Um sonho antigo que descreveu séculos de história",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "Que sonho?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Um sonho antigo que descreveu séculos de história #shorts",
+    "descripcion": "Um rei teve um sonho que nenhum sábio conseguiu explicar. A explicação descreveu séculos de história antes que acontecessem.\n\nDaniel 2:31-45\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um rei teve um sonho que nenhum sábio conseguiu explicar. A explicação descreveu séculos de história antes que acontecessem.",
+      "texto_pantalla": "Que sonho?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient bronze statue in dim museum light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Daniel dois. O rei Nabucodonosor sonhou com uma grande estátua: cabeça de ouro, peito e braços de prata, ventre e coxas de bronze, pernas de ferro e pés de ferro e barro. Daniel explicou que a cabeça de ouro era a Babilônia e que outros reinos viriam depois dela. Mais adiante, em Daniel oito, a própria Bíblia nomeia a Média e a Pérsia, e também a Grécia. E a história registra essa sequência de impérios. É o tema de hoje da lição nove, Colocando os profetas à prova: profecias cumpridas. E o final do sonho, a pedra que se torna um monte e enche a terra, ainda aponta para o reino que Deus vai estabelecer. Comente «Deus conhece o futuro».",
+      "texto_pantalla": "Que sonho?",
+      "referencia": "Daniel 2:31-45",
+      "emocion": "agil",
+      "visual": {
+        "query": "bars of gold silver bronze and iron stacked"
+      }
+    }
+  ]
+}

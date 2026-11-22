@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-12",
+  "tema": "Espirulina y presión arterial: la semana en 1 minuto",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué aprendimos?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina y presión arterial: la semana en 1 minuto #shorts",
+    "descripcion": "Espirulina y presión arterial: la semana en 1 minuto.\n\n📚 Fuentes (PubMed):\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n• Papakonstantinou E, Lympaki F, Savvidou A, Dalaka E, Georgiopoulos G, Giannoglou M, et al. Impact of spirulina-enriched yogurt-like dessert on blood pressure in overweight individuals with high cardiometabolic risk: results from in vitro studies and a randomized, placebo-controlled clinical trial. Nutr Metab Cardiovasc Dis. 2026;36(11):104824. https://pubmed.ncbi.nlm.nih.gov/42321101/ · https://doi.org/10.1016/j.numecd.2026.104824\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "resumen",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-12T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Espirulina y presión arterial: todo lo que aprendimos esta semana, en un minuto.",
+      "texto_pantalla": "¿Qué aprendimos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "notebook summary notes coffee"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Uno: en el análisis de Shiri, de dos mil veinticuatro, la espirulina se asoció con unos cuatro milímetros menos de sistólica y algo más de dos de diastólica, con certeza moderada. Dos: el efecto fue más claro en presión elevada, sobrepeso, mayores de cincuenta años y más de ocho semanas. Tres: los ensayos variaron mucho. Cuatro: dentro de un postre, en el ensayo de Papakonstantinou, no bajó la presión. Y cinco: no reemplaza tu tratamiento. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Shiri H, 2024 · Papakonstantinou E, 2026",
+      "emocion": "agil",
+      "visual": {
+        "query": "checklist notebook pen"
+      }
+    }
+  ]
+}

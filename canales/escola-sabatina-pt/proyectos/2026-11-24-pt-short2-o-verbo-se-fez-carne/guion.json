@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Deus armou sua tenda entre nós? ⛺",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "Morar aqui?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus armou sua tenda entre nós? ⛺ #shorts",
+    "descripcion": "O Criador do universo decidiu morar perto de você. E o Evangelho de João usa uma palavra muito especial para dizer isso.\n\nJoão 1:14\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "O Criador do universo decidiu morar perto de você. E o Evangelho de João usa uma palavra muito especial para dizer isso.",
+      "texto_pantalla": "Morar aqui?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "tent in desert at night under starry sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João um, versículo catorze. O Verbo se fez carne e habitou entre nós, cheio de graça e de verdade. A palavra grega traduzida como habitou lembra armar uma tenda: Deus veio acampar no meio do seu povo, como no santuário do deserto. É o tema de hoje da lição nove, Colocando os profetas à prova: a encarnação de Cristo. Jesus não fingiu ser humano. Ele se cansou, chorou e sentiu fome. Deus chegou perto de verdade. Por isso, uma mensagem que nega a humanidade real de Cristo não vem de Deus. Comente «Deus perto de mim».",
+      "texto_pantalla": "Morar aqui?",
+      "referencia": "João 1:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "warm lantern light inside simple tent"
+      }
+    }
+  ]
+}

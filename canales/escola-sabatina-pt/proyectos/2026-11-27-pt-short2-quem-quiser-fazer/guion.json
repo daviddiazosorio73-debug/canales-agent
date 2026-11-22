@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Como saber se um ensino vem de Deus? 🗝️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "Como saber?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Como saber se um ensino vem de Deus? 🗝️ #shorts",
+    "descripcion": "Muita gente quer ter certeza antes de obedecer. Jesus apresentou uma ordem diferente.\n\nJoão 7:17\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muita gente quer ter certeza antes de obedecer. Jesus apresentou uma ordem diferente.",
+      "texto_pantalla": "Como saber?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old iron key in lock of wooden door"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João sete, versículo dezessete. Jesus disse que, se alguém quiser fazer a vontade de Deus, vai conhecer se o ensino vem de Deus ou se ele falava por conta própria. A certeza não vem só de discutir. Ela nasce de uma disposição: estar pronto a obedecer. É o tema de hoje da lição nove, Colocando os profetas à prova: provem e vejam. Quem coloca em prática o que Deus mostra descobre, na própria experiência, que a Palavra é verdadeira. Que passo de obediência Deus está pedindo a você nesta semana? Comente.",
+      "texto_pantalla": "Como saber?",
+      "referencia": "João 7:17",
+      "emocion": "agil",
+      "visual": {
+        "query": "path of stepping stones leading toward light"
+      }
+    }
+  ]
+}

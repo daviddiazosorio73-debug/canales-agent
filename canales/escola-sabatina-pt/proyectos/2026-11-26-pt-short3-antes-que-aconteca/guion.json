@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Por que Jesus contou o futuro antes de acontecer?",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "Por quê?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por que Jesus contou o futuro antes de acontecer? #shorts",
+    "descripcion": "Jesus contou aos discípulos coisas que ainda iam acontecer. E explicou exatamente por que fazia isso.\n\nJoão 14:29\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesus contou aos discípulos coisas que ainda iam acontecer. E explicou exatamente por que fazia isso.",
+      "texto_pantalla": "Por quê?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "calendar pages turning on wooden desk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João catorze, versículo vinte e nove. Jesus disse que estava contando antes que as coisas acontecessem, para que, quando acontecessem, os discípulos cressem. A profecia cumprida não é um truque para impressionar. É um presente para fortalecer a fé. Quando Jesus foi preso e morreu, os discípulos puderam lembrar: ele tinha avisado. É o tema de hoje da lição nove, Colocando os profetas à prova: profecias cumpridas. Cada promessa que Deus já cumpriu é um motivo para confiar nas que ainda faltam. Comente uma promessa de Deus que você já viu se cumprir.",
+      "texto_pantalla": "Por quê?",
+      "referencia": "João 14:29",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over calm sea horizon"
+      }
+    }
+  ]
+}

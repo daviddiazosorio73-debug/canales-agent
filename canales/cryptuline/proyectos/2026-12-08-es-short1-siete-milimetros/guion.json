@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-08",
+  "tema": "Espirulina: ¿7 milímetros menos de presión? Mira cuántas personas",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿7 mm menos?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: ¿7 milímetros menos de presión? Mira cuántas personas #shorts",
+    "descripcion": "Espirulina: ¿7 milímetros menos de presión? Mira cuántas personas.\n\n📚 Fuentes (PubMed):\n• Machowiec P, Ręka G, Maksymowicz M, Piecewicz-Szczęsna H, Smoleń A. Effect of Spirulina Supplementation on Systolic and Diastolic Blood Pressure: Systematic Review and Meta-Analysis of Randomized Controlled Trials. Nutrients. 2021;13(9):3054. https://pubmed.ncbi.nlm.nih.gov/34578932/ · https://doi.org/10.3390/nu13093054\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "metaanálisis",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-08T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un metaanálisis encontró que la espirulina bajó la presión diastólica unos siete milímetros. Mira el detalle.",
+      "texto_pantalla": "¿7 mm menos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "newspaper headline magnifying glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Machowiec y su equipo, de la Universidad Médica de Lublin, publicaron en dos mil veintiuno un metaanálisis con solo cinco ensayos y doscientas treinta personas. Dosis de uno a ocho gramos al día, de dos a doce semanas. Este estudio encontró una baja de más de cuatro milímetros en la sistólica y unos siete en la diastólica, sobre todo en personas con hipertensión. Pero cinco ensayos es muy poco: un estudio extremo mueve todo el promedio. Hoy a las seis de la tarde, hora de Lima, comparo tres metaanálisis. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Machowiec P, 2021 · Nutrients",
+      "emocion": "agil",
+      "visual": {
+        "query": "small group of people study table"
+      }
+    }
+  ]
+}

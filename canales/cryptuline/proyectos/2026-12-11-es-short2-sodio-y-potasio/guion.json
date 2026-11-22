@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-11",
+  "tema": "¿La espirulina tiene sodio? Lo que dice una revisión",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Tiene sodio?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿La espirulina tiene sodio? Lo que dice una revisión #shorts",
+    "descripcion": "¿La espirulina tiene sodio? Lo que dice una revisión.\n\n📚 Fuentes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "sal",
+      "sodio",
+      "nutrición",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-11T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si cuidas la sal por tu presión, ¿la espirulina tiene sodio?",
+      "texto_pantalla": "¿Tiene sodio?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "salt shaker kitchen table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Sí. La revisión de Gogna y su equipo, de dos mil veintidós, menciona entre sus minerales el hierro, el calcio, el magnesio, el potasio, el zinc y también el sodio. Por eso la espirulina no compensa un plato salado. Para la presión, reducir la sal es una recomendación general, y cuánta es adecuada para ti lo define tu médico o tu nutricionista. Da sabor con hierbas, ajo, limón y especias. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gogna S, 2022 · J Am Nutr Assoc",
+      "emocion": "agil",
+      "visual": {
+        "query": "fresh herbs lemon garlic"
+      }
+    }
+  ]
+}

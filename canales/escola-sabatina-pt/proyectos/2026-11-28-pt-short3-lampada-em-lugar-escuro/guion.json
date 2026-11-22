@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "A luz que Pedro mandou não perder de vista 🕯️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Mais firme?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A luz que Pedro mandou não perder de vista 🕯️ #shorts",
+    "descripcion": "Pedro viu Jesus glorificado no monte. Mesmo assim, apontou para algo que chamou de ainda mais firme.\n\n2 Pedro 1:19-21\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Pedro viu Jesus glorificado no monte. Mesmo assim, apontou para algo que chamou de ainda mais firme.",
+      "texto_pantalla": "Mais firme?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "oil lamp glowing in dark stone room"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda Pedro um, versículos dezenove a vinte e um. Pedro diz que temos a palavra profética, ainda mais firme, e que fazemos bem em prestar atenção a ela, como a uma lâmpada que brilha em lugar escuro, até o dia clarear. E explica por quê: nenhuma profecia veio por vontade humana; homens falaram da parte de Deus, movidos pelo Espírito Santo. É o tema da lição dez, Autoridade e relevância proféticas, com Hebreus quatro, doze, como verso para memorizar. A autoridade vem de Deus, e a relevância aparece na escuridão em que vivemos. Comente «Luz no caminho».",
+      "texto_pantalla": "Mais firme?",
+      "referencia": "2 Pedro 1:19-21",
+      "emocion": "agil",
+      "visual": {
+        "query": "dawn breaking over mountain ridge"
+      }
+    }
+  ]
+}

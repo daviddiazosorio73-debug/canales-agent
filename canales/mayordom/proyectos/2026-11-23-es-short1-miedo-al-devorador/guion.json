@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "¿Diezmas por amor… o por miedo al devorador? 🦗",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Amor o miedo?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Diezmas por amor… o por miedo al devorador? 🦗 #shorts",
+    "descripcion": "¿Diezmas por amor o por miedo al devorador? Mañana lo analizamos con la Biblia. (Malaquías 3:11 · 2 Corintios 9:7, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "diezmo",
+      "devorador",
+      "Malaquías 3"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay personas que diezman por miedo. Les dijeron que si no lo hacen, el devorador acabará con su dinero.",
+      "texto_pantalla": "¿Amor o miedo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "locust close up macro"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El versículo existe. Está en Malaquías tres, once: Dios promete reprender al devorador para que no destruya el fruto de la tierra. Pero, ¿es una promesa o una amenaza? ¿Y quién es ese devorador en el contexto? Mañana martes, a las seis de la tarde, lo analizamos con la Biblia abierta, versículo por versículo. Y te adelanto algo: en segunda de Corintios nueve, Pablo dice que Dios ama al dador alegre, no al que da con tristeza ni por obligación. No te lo pierdas. Suscríbete y activa la campana.",
+      "texto_pantalla": "¿Amor o miedo?",
+      "referencia": "Malaquías 3:11 · 2 Corintios 9:7",
+      "emocion": "agil",
+      "visual": {
+        "query": "farm field harvest wind"
+      }
+    }
+  ]
+}

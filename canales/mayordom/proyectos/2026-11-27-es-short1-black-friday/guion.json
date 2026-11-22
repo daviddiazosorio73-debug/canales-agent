@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Hoy es Black Friday. Escucha esto antes de comprar 🛍️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Lo necesitas?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Hoy es Black Friday. Escucha esto antes de comprar 🛍️ #shorts",
+    "descripcion": "Hoy es Black Friday. Jesús: la vida no consiste en la abundancia de los bienes que se poseen. (Lucas 12:15 · Hebreos 13:5, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Black Friday",
+      "consumismo",
+      "contentamiento"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hoy es Black Friday. Millones de personas van a comprar cosas que ayer no sabían que necesitaban.",
+      "texto_pantalla": "¿Lo necesitas?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "shopping bags sale crowd"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "No está mal comprar. Pero Jesús dejó una advertencia en Lucas doce, quince: cuídense de toda avaricia, porque la vida de una persona no consiste en la abundancia de los bienes que posee. Y Hebreos trece pide que vivamos sin amor al dinero, contentos con lo que tenemos, porque él prometió no dejarnos. Antes de pagar, pregúntate: ¿esto lo necesito, o solo lo deseo? Hoy, a las seis de la tarde, cerramos el capítulo cuatro: cómo elegir el principio correcto.",
+      "texto_pantalla": "¿Lo necesitas?",
+      "referencia": "Lucas 12:15 · Hebreos 13:5",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "wallet credit card hesitation"
+      }
+    }
+  ]
+}

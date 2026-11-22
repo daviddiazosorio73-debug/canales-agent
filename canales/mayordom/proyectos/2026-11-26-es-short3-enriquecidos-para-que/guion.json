@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Dios sí te quiere bendecir. Pero para esto 🎯",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Para qué?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios sí te quiere bendecir. Pero para esto 🎯 #shorts",
+    "descripcion": "Pablo: somos enriquecidos en todo para toda generosidad. La bendición tiene un propósito. (2 Corintios 9:6, 11, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "2 Corintios 9",
+      "siembra y cosecha",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Sí, la Biblia dice que Dios bendice al generoso. Pero también dice para qué te bendice.",
+      "texto_pantalla": "¿Para qué?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "seeds hand soil planting"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Segunda de Corintios nueve, seis: el que siembra escasamente, también segará escasamente, y el que siembra generosamente, generosamente también segará. Hasta ahí llegan muchos. Pero sigue leyendo. En el versículo once, Pablo dice que somos enriquecidos en todo para toda generosidad. La bendición no termina en tu bolsillo. Es un canal, no una represa. Dios te da para que tengas lo suficiente y te sobre para dar. ¿Viste el análisis de hoy sobre la siembra de fe? Está en el canal.",
+      "texto_pantalla": "¿Para qué?",
+      "referencia": "2 Corintios 9:6, 11",
+      "emocion": "ensenanza",
+      "visual": {
+        "query": "river flowing through valley"
+      }
+    }
+  ]
+}

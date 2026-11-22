@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-08",
+  "tema": "Espirulina y presión: ¿en cuánto tiempo se vio algo?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿En cuánto tiempo?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina y presión: ¿en cuánto tiempo se vio algo? #shorts",
+    "descripcion": "Espirulina y presión: ¿en cuánto tiempo se vio algo?\n\n📚 Fuentes (PubMed):\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "tiempo",
+      "dosis",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-09T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si alguien te dice que la espirulina te baja la presión en una semana, mira esto.",
+      "texto_pantalla": "¿En cuánto tiempo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "calendar pages weeks"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En la revisión de Shiri, de dos mil veinticuatro, los descensos de presión se mantuvieron en las intervenciones de más de ocho semanas. En promedio, la sistólica bajó más de cuatro milímetros y la diastólica más de dos, con certeza moderada y mucha variación entre estudios. Y por los pocos ensayos que había, no pudieron establecer qué dosis es la mejor. Es un efecto pequeño y lento, no inmediato. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Shiri H, 2024 · Phytother Res",
+      "emocion": "agil",
+      "visual": {
+        "query": "hourglass sand time"
+      }
+    }
+  ]
+}

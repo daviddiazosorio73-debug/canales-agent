@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Dios se mudó a tu barrio 🏠",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "¿Dios con nosotros?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios se mudó a tu barrio 🏠 #shorts",
+    "descripcion": "El Dios que creó las galaxias decidió algo que ninguna religión humana imaginó.\n\nJuan 1:14\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "emanuel",
+      "juan 1"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El Dios que creó las galaxias decidió algo que ninguna religión humana imaginó.",
+      "texto_pantalla": "¿Dios con nosotros?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "spiral galaxy in deep space"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Juan uno, versículo catorce, enseña que la Palabra eterna se hizo humana y vivió entre nosotros, y que los testigos vieron en él una gloria llena de gracia y verdad. Es el corazón del tema de hoy en la lección nueve: la encarnación de Cristo. Dios no envió solo un mensaje; vino él mismo. Tomó un cuerpo humano, caminó por el polvo, tuvo hambre y cansancio. Por eso Juan la usa como prueba: un mensaje de Dios siempre exalta a ese Jesús real, plenamente Dios y plenamente hombre. Si un mensaje lo deja de lado, algo falta. Suscríbete y comenta «Emanuel».",
+      "texto_pantalla": "¿Dios con nosotros?",
+      "referencia": "Juan 1:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "small village houses with warm lights at dusk"
+      }
+    }
+  ]
+}

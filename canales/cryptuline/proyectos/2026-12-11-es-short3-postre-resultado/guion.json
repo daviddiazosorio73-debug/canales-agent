@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-11",
+  "tema": "Espirulina en un postre: el resultado del ensayo de 2026",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Funcionó el postre?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina en un postre: el resultado del ensayo de 2026 #shorts",
+    "descripcion": "Espirulina en un postre: el resultado del ensayo de 2026.\n\n📚 Fuentes (PubMed):\n• Papakonstantinou E, Lympaki F, Savvidou A, Dalaka E, Georgiopoulos G, Giannoglou M, et al. Impact of spirulina-enriched yogurt-like dessert on blood pressure in overweight individuals with high cardiometabolic risk: results from in vitro studies and a randomized, placebo-controlled clinical trial. Nutr Metab Cardiovasc Dis. 2026;36(11):104824. https://pubmed.ncbi.nlm.nih.gov/42321101/ · https://doi.org/10.1016/j.numecd.2026.104824\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "matriz alimentaria",
+      "nutrición",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-12T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "El resultado del postre con espirulina para la presión. Prometido.",
+      "texto_pantalla": "¿Funcionó el postre?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "yogurt dessert spoon close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Papakonstantinou y su equipo encontraron que, en el laboratorio, la espirulina sola frenaba una enzima clave de la presión, pero dentro del postre ese efecto desapareció. Y en las sesenta y cuatro personas, comer el postre con cuatro gramos diarios de espirulina durante ocho semanas no bajó la presión ni mejoró la rigidez arterial frente al postre de control. La matriz del alimento importa. Es un solo ensayo; no dice que nunca funcione, pero sí que no basta con mezclarla en cualquier cosa. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Papakonstantinou E, 2026 · Nutr Metab Cardiovasc Dis",
+      "emocion": "agil",
+      "visual": {
+        "query": "laboratory test tubes rack"
+      }
+    }
+  ]
+}

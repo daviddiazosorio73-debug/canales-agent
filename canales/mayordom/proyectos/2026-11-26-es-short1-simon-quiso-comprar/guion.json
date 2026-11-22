@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Quiso comprar el poder de Dios con dinero 💰",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Se compra?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Quiso comprar el poder de Dios con dinero 💰 #shorts",
+    "descripcion": "Pedro a Simón: tu dinero perezca contigo, porque pensaste que el don de Dios se obtiene con dinero. (Hechos 8:18-20, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Simón el mago",
+      "Hechos 8",
+      "evangelio de la prosperidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un hombre ofreció dinero a los apóstoles para comprar el poder de Dios. La respuesta fue durísima.",
+      "texto_pantalla": "¿Se compra?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hand offering money dark"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hechos ocho. Simón vio que, por la imposición de manos de los apóstoles, se daba el Espíritu Santo, y les ofreció dinero para tener ese poder. Pedro le respondió: tu dinero perezca contigo, porque has pensado que el don de Dios se obtiene con dinero. Hoy hay quien promete lo contrario: da una ofrenda y Dios te devolverá multiplicado. Hoy, a las seis de la tarde, analizamos con la Biblia la llamada siembra de fe. ¿Dar para recibir? Te espero.",
+      "texto_pantalla": "¿Se compra?",
+      "referencia": "Hechos 8:18-20",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "scales balance light shadow"
+      }
+    }
+  ]
+}

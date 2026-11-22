@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "¿Por qué Dios avisa antes de que pase? 🔔",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "¿Por qué avisa?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Por qué Dios avisa antes de que pase? 🔔 #shorts",
+    "descripcion": "Jesús explicó por qué a veces anuncia las cosas antes de que sucedan. La razón te va a sorprender.\n\nJuan 14:29\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "fe",
+      "juan 14"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús explicó por qué a veces anuncia las cosas antes de que sucedan. La razón te va a sorprender.",
+      "texto_pantalla": "¿Por qué avisa?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "alarm bell ringing close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Juan catorce, versículo veintinueve, Jesús dice a sus discípulos: que les avisa con anticipación para que, cuando las cosas ocurran, su fe se afirme. Es el propósito detrás del tema de hoy en la lección nueve: profecías cumplidas. La profecía no es para satisfacer la curiosidad, sino para fortalecer la fe. Cuando lo anunciado se cumple, la confianza crece, y estamos mejor preparados para lo que viene. Dios no quiere sorprenderte; quiere que estés listo. Suscríbete y comenta una promesa bíblica que ya viste cumplirse.",
+      "texto_pantalla": "¿Por qué avisa?",
+      "referencia": "Juan 14:29",
+      "emocion": "agil",
+      "visual": {
+        "query": "lighthouse shining over stormy sea"
+      }
+    }
+  ]
+}

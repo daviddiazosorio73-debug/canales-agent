@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "E se um anjo trouxesse uma mensagem nova?",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "En armonía con la Biblia"
+  },
+  "miniatura": {
+    "linea1": "Você aceitaria?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "E se um anjo trouxesse uma mensagem nova? #shorts",
+    "descripcion": "Imagine uma mensagem trazida por um anjo do céu. Você aceitaria na hora? Um apóstolo respondeu a essa pergunta de um jeito que surpreende.\n\nGálatas 1:8\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Imagine uma mensagem trazida por um anjo do céu. Você aceitaria na hora? Um apóstolo respondeu a essa pergunta de um jeito que surpreende.",
+      "texto_pantalla": "Você aceitaria?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "bright light rays breaking through dark clouds"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Gálatas um, versículo oito. Paulo escreveu que, se ele mesmo, ou até um anjo do céu, anunciasse um evangelho diferente daquele que eles já tinham recebido, seria maldito. Forte, não é? É o tema de hoje da lição nove, Colocando os profetas à prova: em harmonia com a Bíblia. A origem aparente de uma mensagem não decide nada: nem a fama de quem fala, nem a emoção do momento, nem uma experiência impressionante. O que decide é se ela concorda com aquilo que Deus já revelou. Um verdadeiro profeta não contradiz a Escritura. Antes de crer, compare. Comente «Comparo com a Bíblia».",
+      "texto_pantalla": "Você aceitaria?",
+      "referencia": "Gálatas 1:8",
+      "emocion": "agil",
+      "visual": {
+        "query": "two old manuscripts side by side on wooden desk"
+      }
+    }
+  ]
+}

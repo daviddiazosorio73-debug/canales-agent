@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Derramó casi un año de salario en un minuto 🫙",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Desperdicio?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Derramó casi un año de salario en un minuto 🫙 #shorts",
+    "descripcion": "María derramó un perfume de casi un año de salario sobre los pies de Jesús. Él la defendió. (Juan 12:3-7 · Mateo 20:2, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "María de Betania",
+      "Juan 12",
+      "adoración"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "En un minuto derramó casi un año de salario. Y algunos de los presentes lo llamaron desperdicio.",
+      "texto_pantalla": "¿Desperdicio?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "perfume jar alabaster pouring"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Juan doce, María toma un perfume de nardo puro, muy costoso, y unge los pies de Jesús. Judas calculó su valor en trescientos denarios, y en la Biblia un denario era el pago de un día de trabajo. Casi un año de jornales. Y la casa se llenó del olor del perfume. Jesús la defendió: déjala. Lo que unos ven como pérdida, Dios lo ve como adoración. Hoy, a las seis de la tarde, el sermón completo sobre esa cena. Suscríbete.",
+      "texto_pantalla": "¿Desperdicio?",
+      "referencia": "Juan 12:3-7 · Mateo 20:2",
+      "emocion": "calido",
+      "visual": {
+        "query": "flowers fragrance soft light"
+      }
+    }
+  ]
+}

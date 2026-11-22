@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "Dios no se contradice. Y eso lo cambia todo ✋",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "En armonía con la Biblia"
+  },
+  "miniatura": {
+    "linea1": "¿Dios se contradice?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios no se contradice. Y eso lo cambia todo ✋ #shorts",
+    "descripcion": "Si un mensaje dice que Dios ahora piensa lo contrario de lo que dijo antes, hay un problema.\n\nNúmeros 23:19\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "fidelidad de dios",
+      "números"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si un mensaje dice que Dios ahora piensa lo contrario de lo que dijo antes, hay un problema.",
+      "texto_pantalla": "¿Dios se contradice?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "two arrows pointing in opposite directions on road"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Números veintitrés, versículo diecinueve, Balaam tuvo que reconocerlo: Dios no miente como los humanos ni cambia de parecer; lo que promete, lo lleva a cabo. Por eso la lección nueve, Poniendo a prueba a los profetas, pide hoy revisar si un mensaje está en armonía con la Biblia. Si Dios es fiel y coherente, sus mensajeros también lo serán. Un profeta verdadero no corrige a Dios: explica, aplica y señala lo que él ya reveló. La coherencia es una huella de lo divino. Suscríbete y comenta «Dios cumple».",
+      "texto_pantalla": "¿Dios se contradice?",
+      "referencia": "Números 23:19",
+      "emocion": "agil",
+      "visual": {
+        "query": "ancient stone pillar standing firm in desert"
+      }
+    }
+  ]
+}

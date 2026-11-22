@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "La semilla que se guarda… se queda sola 🌱",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Guardar o soltar?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La semilla que se guarda… se queda sola 🌱 #shorts",
+    "descripcion": "Si el grano de trigo no cae en la tierra y muere, queda solo; pero si muere, lleva mucho fruto. (Juan 12:24-25, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "grano de trigo",
+      "Juan 12",
+      "entrega"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si guardas una semilla en un cajón, la conservas. Pero se queda sola para siempre.",
+      "texto_pantalla": "¿Guardar o soltar?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "single wheat grain macro"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús lo dijo en Juan doce, veinticuatro: si el grano de trigo no cae en la tierra y muere, queda solo; pero si muere, lleva mucho fruto. Y en el versículo siguiente: el que ama su vida, la perderá. Así funciona el principio de Cristo: lo que se suelta, se multiplica; lo que se retiene, se pierde. Hoy, a las seis de la tarde, cerramos el capítulo cuatro de Consejos sobre mayordomía cristiana. Te espero.",
+      "texto_pantalla": "¿Guardar o soltar?",
+      "referencia": "Juan 12:24-25",
+      "emocion": "calido",
+      "visual": {
+        "query": "wheat field growing sunrise"
+      }
+    }
+  ]
+}

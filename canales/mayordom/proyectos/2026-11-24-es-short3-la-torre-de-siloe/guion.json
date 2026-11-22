@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Una torre cayó sobre 18 personas. Jesús respondió esto 🏚️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Más culpables?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Una torre cayó sobre 18 personas. Jesús respondió esto 🏚️ #shorts",
+    "descripcion": "Jesús preguntó si los 18 de la torre de Siloé eran más culpables que los demás. Y respondió: no. (Lucas 13:4-5 · Juan 9:2-3, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "torre de Siloé",
+      "Lucas 13",
+      "sufrimiento y fe"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Una torre se derrumbó y mató a dieciocho personas. Y la gente pensó: algo malo habrán hecho.",
+      "texto_pantalla": "¿Más culpables?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "collapsed stone tower ruins"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jesús lo comentó en Lucas trece. Preguntó: ¿piensan que esos dieciocho eran más culpables que todos los demás que vivían en Jerusalén? Y respondió: les digo que no. Y en Juan nueve, cuando le preguntaron quién había pecado para que un hombre naciera ciego, dijo que ni él ni sus padres. Cuidado con leer cada desgracia como castigo. Jesús no lo hizo. Lo que sí pidió fue que cada uno revise su propio corazón. ¿Viste el análisis de hoy sobre el devorador? Te lo dejo en el canal.",
+      "texto_pantalla": "¿Más culpables?",
+      "referencia": "Lucas 13:4-5 · Juan 9:2-3",
+      "emocion": "reflexivo",
+      "visual": {
+        "query": "sunlight through ruins hope"
+      }
+    }
+  ]
+}

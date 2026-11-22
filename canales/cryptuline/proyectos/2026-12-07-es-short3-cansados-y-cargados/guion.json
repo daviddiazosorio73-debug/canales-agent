@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-07",
+  "tema": "Cansados y cargados: la invitación que ningún suplemento reemplaza",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cansado?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Cansados y cargados: la invitación que ningún suplemento reemplaza #shorts",
+    "descripcion": "Cansados y cargados: la invitación que ningún suplemento reemplaza. Mateo 11:28 (paráfrasis).\n\n📚 Fuentes (PubMed):\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "descanso",
+      "salud espiritual",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-08T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si hoy terminas el día agotado, esto es para ti.",
+      "texto_pantalla": "¿Cansado?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "tired person evening window city"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Mateo once, versículo veintiocho, Jesús invita a los cansados y cargados a ir a él, y promete darles descanso. Esta semana revisamos la ciencia de la espirulina y la presión arterial, y los estudios muestran efectos pequeños, como en la revisión de Casas-Agustench, de dos mil veinticinco. Cuidar lo que comes importa. Pero tu cansancio también necesita pausa, sueño y alguien en quien confiar. Esta noche, apaga la pantalla un poco antes y descansa. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Mateo 11:28 · Casas-Agustench P, 2025",
+      "emocion": "agil",
+      "visual": {
+        "query": "candle light quiet evening rest"
+      }
+    }
+  ]
+}

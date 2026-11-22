@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "Nada queda escondido… y eso es buena noticia 👁️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "¿Nada oculto?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Nada queda escondido… y eso es buena noticia 👁️ #shorts",
+    "descripcion": "Hay una verdad que da miedo al principio y paz al final.\n\nHebreos 4:12-13\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "gracia",
+      "relevancia de la biblia"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay una verdad que da miedo al principio y paz al final.",
+      "texto_pantalla": "¿Nada oculto?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sunlight breaking through window into dark room"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hebreos cuatro, versículos doce y trece, junto al versículo para memorizar de la lección diez, Autoridad y relevancia proféticas, enseña que ninguna criatura puede esconderse de Dios: todo queda a la vista de aquel ante quien un día responderemos. Suena fuerte, pero los versículos siguientes hablan de un sumo sacerdote que se compadece de nuestras debilidades. La Palabra nos muestra lo que somos para llevarnos a la gracia. Por eso sigue siendo relevante hoy. Suscríbete y comenta «Me acerco con confianza».",
+      "texto_pantalla": "¿Nada oculto?",
+      "referencia": "Hebreos 4:12-13",
+      "emocion": "agil",
+      "visual": {
+        "query": "open hands receiving warm light"
+      }
+    }
+  ]
+}

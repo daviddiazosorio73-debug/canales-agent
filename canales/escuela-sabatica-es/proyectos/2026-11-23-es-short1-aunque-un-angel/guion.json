@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "¿Y si un ángel te trae un mensaje nuevo? 😮",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "En armonía con la Biblia"
+  },
+  "miniatura": {
+    "linea1": "¿Y si es un ángel?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Y si un ángel te trae un mensaje nuevo? 😮 #shorts",
+    "descripcion": "Imagina que un ser lleno de luz se te aparece con un evangelio distinto. ¿Lo aceptarías?\n\nGálatas 1:8\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "evangelio",
+      "gálatas"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Imagina que un ser lleno de luz se te aparece con un evangelio distinto. ¿Lo aceptarías?",
+      "texto_pantalla": "¿Y si es un ángel?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "beam of light through dark clouds over mountains"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pablo responde en Gálatas uno, versículo ocho. Dice que, aunque él mismo o un ángel del cielo anunciara un evangelio diferente del que ya habían recibido, no debía ser aceptado. Es el tema del día en la lección nueve, Poniendo a prueba a los profetas: en armonía con la Biblia. Fíjate en el orden: el mensajero no está por encima del mensaje. Ni el brillo, ni la fama, ni la experiencia más intensa reemplazan lo que Dios ya reveló en su Palabra. Un verdadero profeta nunca contradice a los profetas anteriores. Suscríbete y comenta «La Palabra primero».",
+      "texto_pantalla": "¿Y si es un ángel?",
+      "referencia": "Gálatas 1:8",
+      "emocion": "agil",
+      "visual": {
+        "query": "old book pages turning in sunlight"
+      }
+    }
+  ]
+}

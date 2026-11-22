@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "La prueba que solo el tiempo puede hacer ⏳",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "¿Se cumplió?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La prueba que solo el tiempo puede hacer ⏳ #shorts",
+    "descripcion": "Dos profetas dijeron cosas opuestas frente a todo el pueblo. ¿Cómo saber quién tenía razón?\n\nJeremías 28:9\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "jeremías",
+      "profecía cumplida"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dos profetas dijeron cosas opuestas frente a todo el pueblo. ¿Cómo saber quién tenía razón?",
+      "texto_pantalla": "¿Se cumplió?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hourglass with sand falling on dark background"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Pasó en Jeremías veintiocho. Hananías anunció paz y pronto regreso; Jeremías había anunciado lo contrario. En el versículo nueve, Jeremías dice que del profeta que anuncia paz se sabrá que el Señor lo envió cuando se cumpla su palabra. Es el tema de hoy en la lección nueve, Poniendo a prueba a los profetas: profecías cumplidas. La historia dio la razón a Jeremías. El tiempo es un juez que no se puede sobornar. Por eso vale la pena conocer las profecías y ver cómo se cumplieron. Suscríbete y comenta «El tiempo lo muestra».",
+      "texto_pantalla": "¿Se cumplió?",
+      "referencia": "Jeremías 28:9",
+      "emocion": "agil",
+      "visual": {
+        "query": "old calendar pages flying in wind"
+      }
+    }
+  ]
+}

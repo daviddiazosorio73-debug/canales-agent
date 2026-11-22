@@ -1,0 +1,144 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-12-06",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Descanso y corazón: espirulina, presión arterial y el sábado frente a la presión de la vida",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "titulos_alternativos": [
+    "Espirulina y presión arterial: lo que encontraron 29 ensayos y lo que no puede darte",
+    "Presión alta y presión de la vida: espirulina, ciencia y descanso",
+    "¿Un alga para la presión? Lo que dicen 29 ensayos (y lo que falta)"
+  ],
+  "miniatura": {
+    "linea1": "¿UN ALGA",
+    "linea2": "BASTA?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Espirulina y presión arterial: ¿puede un alga compensar una vida sin pausa?",
+    "descripcion": "¿Puede un alga compensar una vida sin pausa? Una revisión sistemática con metaanálisis reunió 29 ensayos clínicos aleatorizados y 1 583 adultos para medir qué pasa con la presión arterial cuando se consumen algas comestibles, entre ellas la espirulina (Arthrospira platensis). Te contamos qué encontró, qué significan los dos números de la presión, los límites de la evidencia y qué enseña la Biblia sobre el descanso del sábado (Génesis 2:2-3, Éxodo 20:8-11, Marcos 2:27, Mateo 11:28), con una idea de El ministerio de curación, de Elena G. de White. Si tienes la presión alta o tomas medicamentos, no los cambies ni los suspendas por tu cuenta: consulta a tu médico.\n\n💬 ¿Cómo descansas de verdad durante la semana? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "presión arterial",
+      "hipertensión",
+      "descanso",
+      "sábado",
+      "salud espiritual",
+      "algas comestibles",
+      "Arthrospira platensis",
+      "metaanálisis",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "SaludEspiritual",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-06T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Veintinueve ensayos clínicos. Mil quinientas ochenta y tres personas adultas. Un equipo de investigadoras e investigadores del Reino Unido y de España reunió todo eso para responder una pregunta concreta: ¿comer algas comestibles cambia la presión arterial? Y cuando miraron solo una de ellas, la espirulina, la diferencia fue la más grande de todas las algas que estudiaron. Suena muy bien. Pero hoy quiero hacerte una pregunta más honda, de esas que no caben en un frasco: ¿puede un alga compensar una vida sin pausa? Trabajo sin horario, celular hasta la medianoche, preocupaciones que no se apagan. Al final de este video te doy mi respuesta, con lo que dice la ciencia y con lo que dice la Biblia sobre un día de la semana muy especial.",
+      "texto_pantalla": "¿Un alga compensa una vida sin pausa?",
+      "visual": {
+        "query": "blood pressure monitor cuff arm close up"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "Los dos números de la presión",
+      "emocion": "ensenanza",
+      "texto": "Primero, entendamos la presión arterial. Es la fuerza con la que la sangre empuja las paredes de las arterias. Por eso siempre se dan dos números. El primero, el más alto, es la presión sistólica: la fuerza cuando el corazón se contrae y bombea. El segundo, el más bajo, es la diastólica: la presión que queda cuando el corazón se relaja entre latido y latido. Ambos se miden en milímetros de mercurio. Y aquí va la enseñanza para leer estudios: cuando un artículo dice que algo bajó la presión cinco milímetros, no significa que alguien pasó de presión alta a normal. Es un promedio, y es una diferencia frente a un grupo de comparación. ¿Y la espirulina? Es el nombre común de unas cianobacterias, organismos microscópicos que hacen fotosíntesis, de las especies Arthrospira platensis y Arthrospira maxima. Se vende seca, en polvo o en tabletas, y en estudios recientes también aparece con el nombre de género Limnospira.",
+      "texto_pantalla": "Sistólica / diastólica",
+      "visual": {
+        "query": "spirulina powder bowl green"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "Veintinueve ensayos",
+      "emocion": "narrativo",
+      "texto": "En dos mil veinticinco, Patricia Casas-Agustench, de la Universidad de Plymouth, en el Reino Unido, publicó con su equipo en el Journal of Human Nutrition and Dietetics una revisión sistemática con metaanálisis. Buscaron ensayos aleatorizados en adultos, sanos o con alguna condición cardiometabólica, que consumieran algas durante al menos cuatro semanas y midieran la presión. Encontraron veintinueve ensayos, con mil quinientas ochenta y tres participantes. Este estudio encontró que, tomando todas las algas juntas, la presión sistólica bajó unos dos milímetros de mercurio y la diastólica, uno coma ocho, en promedio, frente a los grupos de comparación. Al separar por tipo de alga, la espirulina fue la que mostró más efecto: la sistólica bajó más de cinco milímetros y la diastólica, más de tres. Además, las dosis de más de tres gramos al día se asociaron con descensos mayores, el alga entera tuvo más efecto que los extractos, y el beneficio fue más claro en personas con riesgo cardiometabólico. Y un detalle importante: lo que mejor predijo cuánto bajaba la presión fue cuán alta estaba al comenzar.",
+      "texto_pantalla": "Espirulina: −5 sistólica / −3 diastólica",
+      "referencia": "Casas-Agustench P, 2025 · J Hum Nutr Diet",
+      "visual": {
+        "query": "scientist laboratory microalgae culture flask"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Ahora, la letra pequeña. Primero, la heterogeneidad fue alta: los ensayos eran muy distintos entre sí en dosis, duración, tipo de alga y tipo de personas. Cuando eso pasa, el promedio esconde resultados que van en direcciones diferentes. Segundo, un promedio no es tu resultado: hubo personas a las que les bajó más y otras a las que casi nada. Tercero, estos ensayos miden la presión, no infartos ni accidentes cerebrovasculares; no sabemos todavía si estas diferencias se traducen en menos eventos. Y cuarto, la propia revisión encontró que la dosis, por sí sola, no explicó el cambio de la presión sistólica cuando se analizó con el resto de factores. Es decir: no hay una cantidad mágica.",
+      "texto_pantalla": "Un promedio no es tu resultado",
+      "visual": {
+        "query": "magnifying glass reading scientific paper"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Vamos con tres mitos. Mito uno: si tomo espirulina, puedo dejar mis pastillas de la presión. No. Los autores la ven, en todo caso, como algo que complementa el tratamiento, no que lo reemplaza. Suspender un medicamento por tu cuenta puede ser peligroso. Mito dos: más espirulina, más efecto. La revisión no encontró una relación independiente entre la dosis y el cambio de la presión sistólica. Mito tres: si es natural, no tiene riesgos. Cualquier cosa que tomas a diario merece una conversación con tu médico, sobre todo si ya tomas medicamentos.",
+      "texto_pantalla": "¿Dejar las pastillas? No",
+      "visual": {
+        "query": "pill organizer medication kitchen table"
+      }
+    },
+    {
+      "id": "fe",
+      "capitulo": "El sábado y la presión de la vida",
+      "emocion": "reflexivo",
+      "texto": "Y aquí viene el puente que te prometí. En Génesis capítulo dos, versículos dos y tres, la Biblia cuenta que Dios reposó el séptimo día, lo bendijo y lo apartó. No porque estuviera cansado, sino para regalarnos un ritmo. En Éxodo veinte, del versículo ocho al once, ese descanso se convierte en mandamiento, y alcanza a todos: a los hijos, a los trabajadores, a los extranjeros y hasta a los animales. Jesús lo resumió en Marcos dos, versículo veintisiete: el sábado fue hecho por causa del ser humano, y no el ser humano por causa del sábado. Y en Mateo once, versículo veintiocho, invita a los cansados y cargados a ir a él, con la promesa de darles descanso. Quiero ser honesto contigo: no tengo un ensayo que haya medido la presión arterial de quienes guardan el sábado, y no lo voy a inventar. Lo que sí sé es que ninguna cápsula ni ninguna cucharada puede darte lo que Dios diseñó como un encuentro semanal: un día para detenerte, para la familia, para la naturaleza y para él.",
+      "texto_pantalla": "Hecho para ti",
+      "referencia": "Génesis 2:2-3 · Éxodo 20:8-11 · Marcos 2:27 · Mateo 11:28",
+      "visual": {
+        "query": "peaceful family walk nature sunset"
+      }
+    },
+    {
+      "id": "egw",
+      "capitulo": "Los remedios sencillos",
+      "emocion": "calido",
+      "texto": "Elena G. de White, en su libro El ministerio de curación, incluye el descanso entre los verdaderos remedios, junto al aire puro, la luz del sol, la templanza, el ejercicio, una alimentación adecuada, el agua y la confianza en el poder divino. Fíjate que no es una lista de productos: es una forma de vivir. La alimentación entra en esa lista, y la ciencia de hoy sigue estudiando alimentos como la espirulina. Pero el descanso y la confianza también están ahí, al mismo nivel. Ningún alimento ocupa el lugar de los demás.",
+      "texto_pantalla": "Remedios que no se compran",
+      "visual": {
+        "query": "morning sunlight open window fresh air"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "ensenanza",
+      "texto": "Entonces, ¿puede un alga compensar una vida sin pausa? Mi respuesta es no. Este estudio encontró que la espirulina se asoció con una baja de la presión de unos pocos milímetros, en promedio, sobre todo en quienes la tenían elevada, con dosis de más de tres gramos al día y alga entera. Es un dato interesante y lo vamos a revisar con lupa esta semana. Pero es un efecto pequeño, con estudios muy distintos entre sí, y no reemplaza un tratamiento indicado por tu médico ni el descanso que tu cuerpo necesita. La espirulina puede ser, como mucho, una pieza más. La pausa, en cambio, no se vende en polvo.",
+      "texto_pantalla": "No: la pausa no se vende en polvo",
+      "visual": {
+        "query": "person resting hammock garden calm"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu semana",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer esta semana? Primero, conoce tus números: mide tu presión en un centro de salud o con tu médico. Segundo, si tomas medicamentos para la presión, no los cambies ni los suspendas por tu cuenta; y si quieres probar espirulina, consulta antes a tu médico. Tercero, planifica tu descanso: este próximo sábado, apaga el celular unas horas, sal a caminar con tu familia y deja que tu mente baje el ritmo. El martes, salud: tres metaanálisis sobre espirulina y presión arterial que no dicen lo mismo. Te explico cuánto baja, en quién y en cuánto tiempo. Suscríbete a Cryptuline y cuéntame en los comentarios: ¿cómo descansas de verdad?",
+      "visual": {
+        "query": "smartphone turned off table family"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-07",
+  "tema": "Los dos números de tu presión, explicados en 1 minuto",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué son los 2 números?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Los dos números de tu presión, explicados en 1 minuto #shorts",
+    "descripcion": "Los dos números de tu presión, explicados en 1 minuto.\n\n📚 Fuentes (PubMed):\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "sistólica",
+      "diastólica",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-07T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Te toman la presión y te dicen dos números. ¿Sabes qué significa cada uno?",
+      "texto_pantalla": "¿Qué son los 2 números?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "blood pressure monitor display numbers"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El primero, el más alto, es la presión sistólica: la fuerza de la sangre cuando el corazón bombea. El segundo es la diastólica: la presión cuando el corazón se relaja entre latidos. Se miden en milímetros de mercurio. Cuando un estudio dice que la espirulina bajó la presión unos cinco milímetros, como en la revisión de Casas-Agustench de dos mil veinticinco, habla de un promedio frente a un grupo de comparación, no de que alguien pasó de presión alta a normal. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Casas-Agustench P, 2025 · J Hum Nutr Diet",
+      "emocion": "agil",
+      "visual": {
+        "query": "heart anatomy illustration pulse"
+      }
+    }
+  ]
+}

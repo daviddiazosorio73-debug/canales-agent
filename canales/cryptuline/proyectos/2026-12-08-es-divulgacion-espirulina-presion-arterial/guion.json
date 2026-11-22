@@ -1,0 +1,151 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-12-08",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Espirulina y presión arterial: qué encontraron los metaanálisis, en quién y en cuánto tiempo",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "insignia": true,
+  "res_4k": true,
+  "titulos_alternativos": [
+    "Tres metaanálisis de espirulina y presión arterial que no dicen lo mismo",
+    "¿La espirulina baja la presión? Lo que encontraron los ensayos aleatorizados",
+    "Espirulina e hipertensión: los números reales y la letra pequeña"
+  ],
+  "miniatura": {
+    "linea1": "¿BAJA LA",
+    "linea2": "PRESIÓN?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Espirulina y presión arterial: ¿cuánto baja, en quién y en cuánto tiempo?",
+    "descripcion": "¿La espirulina baja la presión arterial? Revisamos tres revisiones sistemáticas con metaanálisis de ensayos aleatorizados: una de 2021 con 5 ensayos y 230 personas, una de 2024 evaluada con el método GRADE y una de 2025 que la compara con la chlorella. Te contamos cuánto cambió la presión, en qué personas y con cuánto tiempo, cómo leer la heterogeneidad de un metaanálisis, los mitos más repetidos y los límites de la evidencia, incluida la calidad de los productos. Si tienes presión alta o tomas medicamentos, no los cambies ni los suspendas por tu cuenta: consulta a tu médico.\n\n💬 ¿Conoces tus números de presión? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Machowiec P, Ręka G, Maksymowicz M, Piecewicz-Szczęsna H, Smoleń A. Effect of Spirulina Supplementation on Systolic and Diastolic Blood Pressure: Systematic Review and Meta-Analysis of Randomized Controlled Trials. Nutrients. 2021;13(9):3054. https://pubmed.ncbi.nlm.nih.gov/34578932/ · https://doi.org/10.3390/nu13093054\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n• Pinto-Leite M, Martins D, Ferreira AC, Silva C, Trindade F, Saraiva F, et al. The Role of Chlorella and Spirulina as Adjuvants of Cardiovascular Risk Factor Control: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. Nutrients. 2025;17(6):943. https://pubmed.ncbi.nlm.nih.gov/40289965/ · https://doi.org/10.3390/nu17060943\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "espirulina presión arterial",
+      "hipertensión",
+      "presión alta",
+      "spirulina",
+      "Arthrospira platensis",
+      "metaanálisis",
+      "ensayos clínicos",
+      "salud cardiovascular",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Salud",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-08T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Un metaanálisis encontró que la espirulina bajó la presión diastólica unos siete milímetros de mercurio. Otro, más grande y más reciente, encontró algo más de dos. Y un tercero concluyó que el efecto es pequeño y de importancia clínica incierta. Los tres revisaron ensayos aleatorizados. Los tres hablan de la misma cianobacteria, Arthrospira, la espirulina. ¿Quién tiene razón? Hoy vamos a responder tres preguntas: cuánto baja la presión, en quién y en cuánto tiempo. Y al final te doy la respuesta en una sola frase, con los números exactos. Pero antes, necesitas una herramienta para que nadie te confunda con un titular.",
+      "texto_pantalla": "¿7 mm, 2 mm o casi nada?",
+      "visual": {
+        "query": "doctor measuring blood pressure patient"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "Qué es un metaanálisis",
+      "emocion": "ensenanza",
+      "texto": "Un ensayo aleatorizado sortea a las personas: unas reciben espirulina y otras un placebo, o nada, y luego se comparan. Es el mejor diseño para saber si algo causa un efecto, pero cada ensayo suele ser pequeño. Un metaanálisis junta varios ensayos y calcula un efecto promedio, que se expresa como diferencia de medias: cuántos milímetros de mercurio más bajó la presión en el grupo de espirulina que en el de comparación. Recuerda los dos números: la sistólica, cuando el corazón bombea, y la diastólica, cuando se relaja. Y una pista: si los metaanálisis no coinciden, casi siempre es porque no juntaron los mismos ensayos ni las mismas personas.",
+      "texto_pantalla": "Metaanálisis = muchos ensayos juntos",
+      "visual": {
+        "query": "stack of research papers desk"
+      }
+    },
+    {
+      "id": "machowiec",
+      "capitulo": "2021: cinco ensayos",
+      "emocion": "narrativo",
+      "texto": "Empecemos por el de los siete milímetros. En dos mil veintiuno, Piotr Machowiec y su equipo, de la Universidad Médica de Lublin, en Polonia, publicaron en la revista Nutrients una revisión sistemática con metaanálisis. Encontraron solo cinco ensayos aleatorizados elegibles, con doscientas treinta personas en total. Las dosis iban de uno a ocho gramos de espirulina al día, durante dos a doce semanas. Este estudio encontró que la presión sistólica bajó más de cuatro milímetros de mercurio y la diastólica, unos siete, frente a los grupos de comparación, sobre todo en un subgrupo de personas con hipertensión. Pero fíjate: cinco ensayos y doscientas treinta personas es muy poco. Un solo ensayo con resultados extremos puede mover mucho el promedio. Los propios autores pidieron ensayos más exactos.",
+      "texto_pantalla": "5 ensayos · 230 personas",
+      "referencia": "Machowiec P, 2021 · Nutrients",
+      "visual": {
+        "query": "small group clinical study volunteers"
+      }
+    },
+    {
+      "id": "shiri",
+      "capitulo": "2024: el análisis con GRADE",
+      "emocion": "narrativo",
+      "texto": "Tres años después, Hamidreza Shiri y su equipo, de la Universidad de Ciencias Médicas de Teherán, en Irán, publicaron en Phytotherapy Research una revisión actualizada, con búsquedas hasta abril de dos mil veinticuatro, en adultos mayores de dieciocho años. Este estudio encontró que la espirulina se asoció con una baja de la sistólica de más de cuatro milímetros de mercurio y de la diastólica, de más de dos. Evaluaron la certeza con el método GRADE y la calificaron como moderada. Y aquí está lo más útil: el análisis por subgrupos. La presión siguió más baja en quienes empezaban con ciento veinte de sistólica u ochenta de diastólica o más, en personas con hipertensión, con sobrepeso, mayores de cincuenta años y en intervenciones de más de ocho semanas. Por pocos estudios y pocos participantes, no pudieron establecer una relación clara entre la dosis y el efecto.",
+      "texto_pantalla": "−4 sistólica · −2 diastólica",
+      "referencia": "Shiri H, 2024 · Phytother Res",
+      "visual": {
+        "query": "older adult checking blood pressure home"
+      }
+    },
+    {
+      "id": "pinto",
+      "capitulo": "2025: pequeño e incierto",
+      "emocion": "narrativo",
+      "texto": "Y el tercero. En dos mil veinticinco, Mariana Pinto-Leite y su equipo, de la Facultad de Medicina de la Universidad de Oporto, en Portugal, compararon en Nutrients la espirulina con otra microalga, la chlorella. Para la espirulina reunieron nueve ensayos; según el resultado medido, entre ciento uno y doscientas noventa y nueve participantes. Este estudio encontró una reducción de la presión diastólica estadísticamente significativa, pero los autores escribieron que la magnitud del efecto es pequeña y de importancia clínica incierta. Además, la espirulina no cambió de forma significativa el colesterol ni los triglicéridos. Su conclusión: podría usarse como complemento, y hacen falta más ensayos.",
+      "texto_pantalla": "Efecto pequeño, importancia incierta",
+      "referencia": "Pinto-Leite M, 2025 · Nutrients",
+      "visual": {
+        "query": "green microalgae under microscope"
+      }
+    },
+    {
+      "id": "como_leer",
+      "capitulo": "Cómo leer la heterogeneidad",
+      "emocion": "ensenanza",
+      "texto": "¿Por qué tanta diferencia entre siete milímetros y casi nada? Aquí va la enseñanza de hoy: la heterogeneidad. En los metaanálisis aparece como una cifra llamada I cuadrado, que va de cero a cien por ciento. Indica cuánto de la diferencia entre los ensayos no se explica por el azar. En el estudio de Shiri fue de sesenta y seis por ciento para la sistólica y de sesenta y dos para la diastólica: los ensayos no se parecían mucho entre sí. Distintas dosis, distintos productos, distintas personas. Por eso los subgrupos importan tanto: el promedio general mezcla a personas con presión normal, a quienes casi no les cambia, con personas con presión alta, a quienes les cambia más. Cuando un titular te da un solo número, pregúntate: ¿en quién?",
+      "texto_pantalla": "I² alto = ensayos muy distintos",
+      "referencia": "Shiri H, 2024 · Phytother Res",
+      "visual": {
+        "query": "colorful puzzle pieces mixed"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Mitos rápidos. Mito uno: la espirulina baja la presión a cualquiera. La evidencia apunta sobre todo a personas que ya la tenían elevada, con sobrepeso o mayores de cincuenta años. Mito dos: se nota en una semana. En los subgrupos, el efecto se vio en intervenciones de más de ocho semanas. Mito tres: reemplaza al medicamento. Ninguno de estos estudios lo demuestra, y suspender un tratamiento por tu cuenta puede ser peligroso. Mito cuatro: un número más grande es más confiable. El metaanálisis con el efecto más grande fue el que tenía menos ensayos.",
+      "texto_pantalla": "Mitos vs evidencia",
+      "visual": {
+        "query": "question marks paper notes"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Los límites. Son pocos ensayos, la mayoría pequeños y cortos. Usaron productos y dosis distintos. Miden la presión, no infartos ni accidentes cerebrovasculares. Y hay un tema que casi nunca sale en los anuncios: la calidad del producto. Silke Grosshagauer y su equipo, de la Universidad de Viena, advirtieron en dos mil veinte en el Journal of Agricultural and Food Chemistry que se sabe poco sobre la contaminación de los productos de espirulina con cianotoxinas, metales pesados, pesticidas o hidrocarburos, que algunos estudios encontraron niveles altos, y que un consumo diario en gramos exige vigilar mejor esos contaminantes.",
+      "texto_pantalla": "La calidad también cuenta",
+      "referencia": "Grosshagauer S, 2020 · J Agric Food Chem",
+      "visual": {
+        "query": "food quality control laboratory test tubes"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "ensenanza",
+      "texto": "Y ahora, la respuesta en una frase. ¿Cuánto? En el análisis más actualizado, unos cuatro milímetros de mercurio de sistólica y algo más de dos de diastólica, en promedio. ¿En quién? Sobre todo en personas con la presión elevada, con sobrepeso o mayores de cincuenta años. ¿En cuánto tiempo? En intervenciones de más de ocho semanas. Con certeza moderada, con mucha variación entre estudios y como complemento, nunca como reemplazo. ¿Qué hacer con esto? Si tienes la presión alta, lo que más pesa sigue siendo el tratamiento y los hábitos que indique tu médico. Si quieres probar espirulina, consulta antes a tu médico, sobre todo si tomas medicamentos o tienes alguna enfermedad, y no suspendas nada por tu cuenta. El viernes, nutrición: ¿qué pasa con la espirulina cuando la pones dentro de un alimento? Un ensayo de dos mil veintiséis tiene una sorpresa. Suscríbete a Cryptuline y cuéntame en los comentarios si conoces tus números de presión.",
+      "texto_pantalla": "~4 mm · presión alta · +8 semanas",
+      "referencia": "Shiri H, 2024 · Phytother Res",
+      "visual": {
+        "query": "heart health healthy lifestyle walking"
+      }
+    }
+  ]
+}

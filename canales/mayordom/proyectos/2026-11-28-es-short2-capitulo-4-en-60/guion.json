@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "Dos principios en 60 segundos ⏱️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Cuál eliges?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dos principios en 60 segundos ⏱️ #shorts",
+    "descripcion": "Resumen del capítulo 4 de Consejos sobre mayordomía cristiana: el principio de Cristo y el de Satanás. (Filipenses 2:6-8 · Juan 12:3-6 · Mateo 6:24, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Elena de White",
+      "consejos sobre mayordomía cristiana",
+      "gran conflicto"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Esta semana vimos una guerra que empezó en el cielo y que se pelea hoy en tu corazón. En sesenta segundos.",
+      "texto_pantalla": "¿Cuál eliges?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "light vs darkness sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Uno: el egoísmo empezó con un ser que quiso subir tomando, y Jesús respondió bajando y dando. Dos: en la cena de Betania, María derramó su perfume y Judas sacaba de la bolsa. Tres: no se puede servir a Dios y a las riquezas, pero el grano que se entrega lleva mucho fruto. Y en los análisis: Dios no pide dar por miedo al devorador, ni para recibir más. Pide dar por amor. ¿Cuál de las tres ideas te tocó más? Escríbelo en los comentarios.",
+      "texto_pantalla": "¿Cuál eliges?",
+      "referencia": "Filipenses 2:6-8 · Juan 12:3-6 · Mateo 6:24",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over mountains peace"
+      }
+    }
+  ]
+}

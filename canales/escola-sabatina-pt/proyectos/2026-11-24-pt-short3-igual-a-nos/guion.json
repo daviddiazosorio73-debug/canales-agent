@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Por que Jesus precisava ser igual a nós?",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "Por quê?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por que Jesus precisava ser igual a nós? #shorts",
+    "descripcion": "Jesus poderia ter salvado o mundo sem se tornar humano? A Bíblia mostra que havia um motivo para ele ser igual a nós.\n\nHebreus 2:14-17\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesus poderia ter salvado o mundo sem se tornar humano? A Bíblia mostra que havia um motivo para ele ser igual a nós.",
+      "texto_pantalla": "Por quê?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hand reaching down to help another hand up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hebreus dois, versículos catorze a dezessete. Como nós somos de carne e sangue, Jesus também participou da mesma natureza. Assim, pela sua morte, derrotou aquele que tinha o poder da morte, o diabo. E se tornou semelhante aos seus irmãos em tudo, para ser um sumo sacerdote misericordioso e fiel. É o tema de hoje da lição nove, Colocando os profetas à prova: a encarnação de Cristo. Ele não nos salva de longe. Ele entende a sua luta porque viveu como humano. Por isso a encarnação não é um detalhe: é o centro do evangelho que todo verdadeiro profeta anuncia. Comente «Ele me entende».",
+      "texto_pantalla": "Por quê?",
+      "referencia": "Hebreus 2:14-17",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over green hills after storm"
+      }
+    }
+  ]
+}

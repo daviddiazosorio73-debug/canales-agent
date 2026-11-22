@@ -1,0 +1,148 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-12-11",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Cocina para el corazón: espirulina dentro de los alimentos, la matriz alimentaria y menos sal",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "titulos_alternativos": [
+    "Espirulina en la cocina: lo que un ensayo de 2026 enseñó sobre la presión",
+    "¿Funciona la espirulina dentro de un alimento? Un ensayo responde",
+    "Cocina para el corazón: espirulina, sal y lo que dice la ciencia"
+  ],
+  "miniatura": {
+    "linea1": "¿POSTRE",
+    "linea2": "PARA LA PRESIÓN?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Espirulina en un postre para la presión: ¿qué pasó en 8 semanas?",
+    "descripcion": "Un equipo de la Universidad Agrícola de Atenas puso 4 gramos diarios de espirulina dentro de un postre tipo yogur y lo dio durante 8 semanas a adultos con sobrepeso y riesgo cardiometabólico, en un ensayo aleatorizado controlado con placebo. ¿Qué pasó con su presión? Te contamos el resultado, qué es la matriz alimentaria, por qué un tubo de ensayo no es el cuerpo humano, qué dice la evidencia sobre el alga entera, por qué la espirulina no reemplaza reducir la sal, qué contiene de verdad (y por qué no es fuente de vitamina B12) y qué saber sobre calidad y seguridad. Si tienes presión alta o tomas medicamentos, consulta a tu médico antes de cambiar tu alimentación.\n\n💬 ¿Qué usas en tu cocina para dar sabor sin tanta sal? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Papakonstantinou E, Lympaki F, Savvidou A, Dalaka E, Georgiopoulos G, Giannoglou M, et al. Impact of spirulina-enriched yogurt-like dessert on blood pressure in overweight individuals with high cardiometabolic risk: results from in vitro studies and a randomized, placebo-controlled clinical trial. Nutr Metab Cardiovasc Dis. 2026;36(11):104824. https://pubmed.ncbi.nlm.nih.gov/42321101/ · https://doi.org/10.1016/j.numecd.2026.104824\n• Casas-Agustench P, Mínguez S, Brookes Z, Bescos R. Edible Algae Reduce Blood Pressure in Humans: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. J Hum Nutr Diet. 2025;38(4):e70095. https://pubmed.ncbi.nlm.nih.gov/40726022/ · https://doi.org/10.1111/jhn.70095\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Watanabe F, Takenaka S, Kittaka-Katsura H, Ebara S, Miyamoto E. Characterization and bioavailability of vitamin B12-compounds from edible algae. J Nutr Sci Vitaminol (Tokyo). 2002;48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "espirulina en la cocina",
+      "presión arterial",
+      "menos sal",
+      "matriz alimentaria",
+      "alimentos funcionales",
+      "nutrición",
+      "Arthrospira platensis",
+      "salud cardiovascular",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Nutrición",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-11T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Imagina un postre cremoso, tipo yogur, verde por dentro, con cuatro gramos de espirulina en cada porción. Un equipo de científicos en Grecia se lo dio todos los días, durante ocho semanas, a adultos con sobrepeso y alto riesgo cardiometabólico. El otro grupo recibió un postre igual en calorías, pero sin espirulina. Y en el laboratorio, la espirulina sola ya había mostrado algo prometedor sobre una enzima clave de la presión arterial. Entonces, ¿bajó la presión de quienes comieron el postre? La respuesta te la doy al final, y te adelanto que cambia la forma en que deberíamos pensar en cocinar con espirulina. Bienvenido a la cocina para el corazón de Cryptuline.",
+      "texto_pantalla": "¿Bajó la presión?",
+      "visual": {
+        "query": "green smoothie bowl yogurt spirulina"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "Qué hay dentro de la espirulina",
+      "emocion": "ensenanza",
+      "texto": "Primero, qué contiene. Una revisión de Simran Gogna y su equipo, publicada en el Journal of the American Nutrition Association, describe que la espirulina aporta sobre todo proteína, además de vitaminas A, C y E, y minerales como hierro, calcio, magnesio, potasio, zinc y también sodio. Tiene pigmentos como la ficocianina, que le da su color azul verdoso. Y una precisión que siempre repetimos en este canal: aunque muchas etiquetas la presentan como fuente de vitamina B12, Fumio Watanabe y su equipo mostraron que en las tabletas de espirulina predomina la pseudovitamina B12, una forma inactiva para las personas. No es una fuente adecuada de B12, sobre todo para quienes son vegetarianos.",
+      "texto_pantalla": "No es fuente de B12",
+      "referencia": "Gogna S, 2022 · Watanabe F, 2002",
+      "visual": {
+        "query": "spirulina powder spoon wooden table"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "El ensayo del postre",
+      "emocion": "narrativo",
+      "texto": "Ahora, el estudio. En dos mil veintiséis, Emilia Papakonstantinou y su equipo, de la Universidad Agrícola de Atenas, publicaron en la revista Nutrition, Metabolism and Cardiovascular Diseases un trabajo en dos partes. La primera, en el laboratorio: simularon la digestión de la espirulina sola, del postre con espirulina y de un postre de control, y midieron si los pequeños péptidos resultantes, fragmentos de proteína, frenaban la enzima convertidora de angiotensina, la misma sobre la que actúan algunos medicamentos para la presión. La segunda, en personas: un ensayo aleatorizado, controlado con placebo. Sesenta y cuatro adultos con sobrepeso u obesidad lo completaron, treinta y dos por grupo. Comieron el postre con cuatro gramos diarios de espirulina o el postre de control durante ocho semanas, y luego fueron observados cuatro semanas más. Midieron la presión en el brazo, la presión central y la rigidez de las arterias.",
+      "texto_pantalla": "64 adultos · 4 g/día · 8 semanas",
+      "referencia": "Papakonstantinou E, 2026 · Nutr Metab Cardiovasc Dis",
+      "visual": {
+        "query": "laboratory scientist yogurt cups samples"
+      }
+    },
+    {
+      "id": "como_leer",
+      "capitulo": "Tubo de ensayo no es cuerpo",
+      "emocion": "ensenanza",
+      "texto": "Antes del resultado, la enseñanza de hoy: un efecto en el tubo de ensayo no es un efecto en el cuerpo. En el laboratorio se controla todo. En el cuerpo hay digestión, absorción, otros alimentos, otros medicamentos y años de hábitos. Por eso los estudios in vitro sirven para generar preguntas, no para dar respuestas sobre tu salud. Y hay un concepto que hoy vas a aprender: la matriz alimentaria. Es todo lo que rodea a un ingrediente dentro de un alimento: grasas, proteínas, azúcares, textura. Esa matriz puede cambiar cómo se libera o cómo actúa un compuesto. Piensa en una semilla dentro de una fruta: no es lo mismo comerla sola que dentro de un batido con leche, avena y miel. Lo que la acompaña puede atrapar, proteger o cambiar lo que llega a tu cuerpo. Y eso solo se sabe midiendo en personas, no imaginando.",
+      "texto_pantalla": "In vitro ≠ en tu cuerpo",
+      "visual": {
+        "query": "test tube rack laboratory close up"
+      }
+    },
+    {
+      "id": "entera",
+      "capitulo": "Alga entera y dosis",
+      "emocion": "ensenanza",
+      "texto": "Aquí ayuda recordar lo que vimos el domingo. En el metaanálisis de Patricia Casas-Agustench, de dos mil veinticinco, con veintinueve ensayos sobre algas comestibles, el alga entera tuvo más efecto sobre la presión que los extractos, y las dosis de más de tres gramos al día se asociaron con descensos mayores. Pero ojo: eso compara formas de alga en distintos ensayos, no recetas de cocina. Ninguno de esos ensayos nos dice cuál es la mejor manera de cocinar la espirulina para el corazón.",
+      "texto_pantalla": "Alga entera > extractos",
+      "referencia": "Casas-Agustench P, 2025 · J Hum Nutr Diet",
+      "visual": {
+        "query": "seaweed nori spirulina variety table"
+      }
+    },
+    {
+      "id": "sal",
+      "capitulo": "Menos sal, más sabor",
+      "emocion": "calido",
+      "texto": "Y la sal. Una aclaración importante: la espirulina no compensa un plato salado. De hecho, la revisión de Gogna menciona el sodio entre sus minerales. Para la presión, reducir la sal es una de las recomendaciones generales de salud, y cuánta sal es adecuada para ti lo define tu médico o tu nutricionista. En la cocina, puedes dar sabor con hierbas frescas, ajo, cebolla, limón, comino u orégano, y dejar el salero fuera de la mesa. Si usas espirulina, piensa en ella como un ingrediente más dentro de un plato con verduras, legumbres y granos enteros, no como un atajo.",
+      "texto_pantalla": "Hierbas y limón, menos salero",
+      "referencia": "Gogna S, 2022 · J Am Nutr Assoc",
+      "visual": {
+        "query": "fresh herbs lemon garlic cutting board"
+      }
+    },
+    {
+      "id": "calidad",
+      "capitulo": "Calidad y seguridad",
+      "emocion": "ensenanza",
+      "texto": "Calidad y seguridad. Silke Grosshagauer y su equipo, de la Universidad de Viena, advirtieron que se sabe poco sobre la contaminación de los productos de espirulina con cianotoxinas, metales pesados, pesticidas o hidrocarburos, y que algunos estudios encontraron niveles altos. La revisión de Gogna menciona posibles efectos adversos por toxinas, como las microcistinas, en productos contaminados, y cita como dosis de seguridad en adultos unos tres a diez gramos al día; es una revisión, no un ensayo, y no reemplaza la indicación de tu médico. Si estás embarazada, das de lactar, tomas medicamentos o tienes una enfermedad crónica, la conversación con tu médico va primero.",
+      "texto_pantalla": "Calidad: no todo producto es igual",
+      "referencia": "Grosshagauer S, 2020 · Gogna S, 2022",
+      "visual": {
+        "query": "reading food label supermarket close up"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "enfasis",
+      "texto": "Y ahora, la respuesta que te prometí. En el laboratorio, la espirulina sola sí frenó la enzima de la presión. Pero dentro del postre, ese efecto desapareció. Y en las personas, este estudio encontró que comer el postre con espirulina durante ocho semanas no bajó la presión ni mejoró la rigidez de las arterias, en comparación con el postre de control. El resultado no cambió al excluir a quienes tomaban medicamentos para la presión ni al mirar solo a quienes empezaban con la presión elevada. Los autores concluyen que la matriz alimentaria es clave. Es un solo ensayo, con sesenta y cuatro personas y un solo tipo de alimento; no dice que la espirulina nunca funcione en la comida, pero sí que no basta con mezclarla en cualquier cosa.",
+      "texto_pantalla": "Dentro del postre: sin cambios",
+      "referencia": "Papakonstantinou E, 2026 · Nutr Metab Cardiovasc Dis",
+      "visual": {
+        "query": "yogurt dessert glass green"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu cocina",
+      "emocion": "calido",
+      "texto": "¿Qué te llevas a tu cocina? Primero, la base sigue siendo el plato completo: verduras, frutas, legumbres, granos enteros y menos sal. Segundo, desconfía de los productos que prometen bajar la presión solo por llevar espirulina: la ciencia muestra que la matriz cambia el resultado. Tercero, si quieres probar espirulina, consulta antes a tu médico, sobre todo si tienes presión alta o tomas medicamentos, y elige productos con información clara sobre su calidad. Este fin de semana, prueba a cocinar un plato con hierbas y limón en lugar de sal. Suscríbete a Cryptuline y cuéntame en los comentarios qué usas para dar sabor sin tanta sal.",
+      "visual": {
+        "query": "colorful vegetable salad legumes bowl"
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-10",
+  "tema": "Pusieron espirulina en un postre para la presión: ¿qué pasó?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Y el postre?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Pusieron espirulina en un postre para la presión: ¿qué pasó? #shorts",
+    "descripcion": "Pusieron espirulina en un postre para la presión: ¿qué pasó?\n\n📚 Fuentes (PubMed):\n• Papakonstantinou E, Lympaki F, Savvidou A, Dalaka E, Georgiopoulos G, Giannoglou M, et al. Impact of spirulina-enriched yogurt-like dessert on blood pressure in overweight individuals with high cardiometabolic risk: results from in vitro studies and a randomized, placebo-controlled clinical trial. Nutr Metab Cardiovasc Dis. 2026;36(11):104824. https://pubmed.ncbi.nlm.nih.gov/42321101/ · https://doi.org/10.1016/j.numecd.2026.104824\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "nutrición",
+      "alimentos funcionales",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-11T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Un equipo griego puso cuatro gramos de espirulina en un postre tipo yogur, todos los días, durante ocho semanas.",
+      "texto_pantalla": "¿Y el postre?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "green yogurt dessert glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Papakonstantinou y su equipo, de la Universidad Agrícola de Atenas, lo probaron en un ensayo aleatorizado controlado con placebo, con sesenta y cuatro adultos con sobrepeso y alto riesgo cardiometabólico. Midieron la presión y la rigidez de las arterias. En el laboratorio, la espirulina sola había mostrado algo prometedor. ¿Se repitió en las personas? Mañana viernes, a las seis de la tarde, hora de Lima, te cuento el resultado completo. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Papakonstantinou E, 2026 · Nutr Metab Cardiovasc Dis",
+      "emocion": "agil",
+      "visual": {
+        "query": "scientist holding sample cup"
+      }
+    }
+  ]
+}

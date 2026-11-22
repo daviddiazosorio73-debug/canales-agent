@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Cinco veces dijo «yo»… y así empezó la guerra 👑",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Yo… o Él?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Cinco veces dijo «yo»… y así empezó la guerra 👑 #shorts",
+    "descripcion": "La primera rebelión empezó con una palabra repetida cinco veces: yo. Y Jesús respondió bajando. (Isaías 14:13-14 · Filipenses 2:6-8, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Lucifer",
+      "Isaías 14",
+      "Filipenses 2",
+      "gran conflicto"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La primera rebelión del universo no empezó con un arma. Empezó con una palabra repetida cinco veces: yo.",
+      "texto_pantalla": "¿Yo… o Él?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "golden crown shadow dark"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Isaías catorce, un texto que la tradición adventista aplica a la caída de Lucifer, ese ser dice en su corazón: subiré al cielo, levantaré mi trono, me sentaré en el monte, subiré sobre las nubes y seré semejante al Altísimo. Cinco veces yo. Ahora compáralo con Filipenses dos: Jesús, siendo igual a Dios, no se aferró a eso. Se despojó, tomó forma de siervo y se humilló hasta la cruz. Uno quiso subir tomando. El otro bajó dando. Mañana lunes, a las seis de la tarde, empezamos el capítulo cuatro de Consejos sobre mayordomía cristiana, de Elena de White: Principios conflictivos de Cristo y Satanás. Suscríbete y activa la campana.",
+      "texto_pantalla": "¿Yo… o Él?",
+      "referencia": "Isaías 14:13-14 · Filipenses 2:6-8",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "stairs going down light"
+      }
+    }
+  ]
+}

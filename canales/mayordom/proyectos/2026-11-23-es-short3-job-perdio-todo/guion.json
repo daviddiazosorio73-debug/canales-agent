@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "Perdió todo… y no era por falta de fe 🌪️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Castigo?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Perdió todo… y no era por falta de fe 🌪️ #shorts",
+    "descripcion": "Job lo perdió todo y no era infiel. Cuidado con decir que cada pérdida es castigo por no dar. (Job 1:1, 9-11, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "Job",
+      "sufrimiento",
+      "diezmo"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Perdió sus bienes, sus animales y a sus hijos en un solo día. Y no fue porque hubiera fallado a Dios.",
+      "texto_pantalla": "¿Castigo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "storm clouds over empty field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es Job. El capítulo uno dice que era perfecto y recto, temeroso de Dios. Y aun así lo perdió todo. ¿Por qué? Porque Satanás acusó a Dios diciendo que Job lo servía solo por interés. Entonces, cuidado con la idea de que cada pérdida es un castigo por no dar. La Biblia no enseña eso. Mañana, a las seis de la tarde, analizamos la frase más usada para presionar con el diezmo: si no diezmas, el devorador te alcanzará. ¿Qué dice realmente Malaquías? Suscríbete y activa la campana.",
+      "texto_pantalla": "¿Castigo?",
+      "referencia": "Job 1:1, 9-11",
+      "emocion": "narrativo",
+      "visual": {
+        "query": "old man sitting ruins sunset"
+      }
+    }
+  ]
+}

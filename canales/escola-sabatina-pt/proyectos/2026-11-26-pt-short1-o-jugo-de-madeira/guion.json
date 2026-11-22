@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Dois profetas, duas mensagens opostas. Quem acertou?",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "Quem acertou?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dois profetas, duas mensagens opostas. Quem acertou? #shorts",
+    "descripcion": "Dois profetas na casa do Senhor, com mensagens opostas. Um prometia paz em dois anos. O outro discordava. O tempo deu o veredito.\n\nJeremias 28:1-17\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dois profetas na casa do Senhor, com mensagens opostas. Um prometia paz em dois anos. O outro discordava. O tempo deu o veredito.",
+      "texto_pantalla": "Quem acertou?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old wooden ox yoke hanging on rustic barn wall"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Jeremias vinte e oito. Hananias quebrou o jugo de madeira que Jeremias levava no pescoço e anunciou que, em dois anos, o domínio da Babilônia seria quebrado. Jeremias lembrou que o profeta que anuncia paz é reconhecido quando a sua palavra se cumpre. Depois avisou que o Senhor não tinha enviado Hananias e que ele morreria naquele ano. E Hananias morreu no sétimo mês daquele mesmo ano. É o tema de hoje da lição nove, Colocando os profetas à prova: profecias cumpridas. Prometer o que as pessoas querem ouvir é fácil. Cumprir é com Deus. Comente «Deus cumpre».",
+      "texto_pantalla": "Quem acertou?",
+      "referencia": "Jeremias 28:1-17",
+      "emocion": "agil",
+      "visual": {
+        "query": "broken wooden beam on stone floor"
+      }
+    }
+  ]
+}

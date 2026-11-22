@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-12",
+  "tema": "Un día para detener la presión de la semana",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Paras alguna vez?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Un día para detener la presión de la semana #shorts",
+    "descripcion": "Un día para detener la presión de la semana. Éxodo 20:8-11 (paráfrasis).\n\n📚 Fuentes (PubMed):\n• Shiri H, Yasbolaghi Sharahi J, Alizadeh Sani M, Mousavi SMJ, Nematollahi MH, Soleimani AA, et al. The Effect of Spirulina Supplementation on Blood Pressure in Adults: A GRADE-Assessed Systematic Review and Meta-Analysis of Randomized Clinical Trials. Phytother Res. 2025;39(1):397-412 (en línea: nov-2024). https://pubmed.ncbi.nlm.nih.gov/39529406/ · https://doi.org/10.1002/ptr.8377\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "descanso",
+      "sábado",
+      "salud espiritual",
+      "espirulina",
+      "presión arterial",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-12T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Seis días de trabajo y uno para detenerse. La idea no es nueva.",
+      "texto_pantalla": "¿Paras alguna vez?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "peaceful morning nature lake"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Éxodo veinte, del versículo ocho al once, el descanso del sábado alcanza a todos: hijos, trabajadores, extranjeros y hasta animales. Esta semana vimos que la espirulina se asoció con una baja pequeña de la presión, de unos pocos milímetros, en estudios como el de Shiri, de dos mil veinticuatro. Ningún alimento reemplaza el descanso. Hoy, regálate una pausa con Dios, tu familia y la naturaleza. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Éxodo 20:8-11 · Shiri H, 2024",
+      "emocion": "agil",
+      "visual": {
+        "query": "family walking forest trail"
+      }
+    }
+  ]
+}

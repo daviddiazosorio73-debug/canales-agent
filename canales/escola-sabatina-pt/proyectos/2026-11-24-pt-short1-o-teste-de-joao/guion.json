@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "O teste de uma frase que desmascara falsos mestres 🔍",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "Que teste?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O teste de uma frase que desmascara falsos mestres 🔍 #shorts",
+    "descripcion": "João deu à igreja um teste curto, quase uma frase. Mas ele separa a verdade do engano até hoje.\n\n1 João 4:2-3\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "João deu à igreja um teste curto, quase uma frase. Mas ele separa a verdade do engano até hoje.",
+      "texto_pantalla": "Que teste?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass over old handwritten letter"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Primeira João quatro, versículos dois e três. Logo depois de pedir que provemos os espíritos, João mostra como: todo espírito que confessa que Jesus Cristo veio em carne é de Deus, e o que não confessa Jesus não vem de Deus. É o tema de hoje da lição nove, Colocando os profetas à prova: a encarnação de Cristo. Um verdadeiro profeta não diminui Jesus. Não o transforma em uma ideia, um símbolo ou apenas um bom mestre. Ele apresenta Jesus como o Filho de Deus que se fez homem de verdade para nos salvar. Uma mensagem que esconde Jesus já falhou no teste. Comente «Jesus veio em carne».",
+      "texto_pantalla": "Que teste?",
+      "referencia": "1 João 4:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "single candle glowing in dark room"
+      }
+    }
+  ]
+}
