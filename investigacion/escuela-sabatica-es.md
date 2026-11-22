@@ -1,4 +1,4 @@
-# Investigación Maestro DD Escuela Sabática (ES) — 2026-11-17
+# Investigación Maestro DD Escuela Sabática (ES) — 2026-11-22
 
 ## Tus 10 mejores videos (28 días)
 | Video | Vistas | Dur. media (s) | % visto | Subs |
@@ -17,18 +17,17 @@
 ## Lo más visto del nicho (7 días)
 | Video | Canal | Vistas | Vistas/hora |
 |---|---|---|---|
-| Alejandro Bullón - Lección 8 - La Biblia Como Su Propio Intérprete | Alejandro Bullon | 119512 | 2292 |
-| Lição da Escola Sabatina dos ADULTOS, Segunda 16/11/2026 "Contexto His | Pr Dudu Batista | 53610 | 1749 |
-| Lição da Escola Sabatina dos ADULTOS, Domingo 15/11/26 "A Bíblia inter | Pr Dudu Batista | 47882 | 876 |
-| 8. INTERPRETACIÓN DE LOS ESCRITOS PROFÉTICOS - El Don de Profecía | Es | SUMtv Latino | 54382 | 875 |
-| Escuela Sabática LIKE | Lección 7 | ¡Escuchen esto! | Crecer Más | 60117 | 692 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I INTRODUCCIÓN 8 I TRIMESTRE | Daniel Herrera Jerez | 42225 | 599 |
-| Lección 8: Interpretación de los escritos proféticos | Pastor Joel Flo | Joel Flores | 42833 | 570 |
-| Lição da Escola Sabatina dos ADULTOS, Quinta 12/11/2026 "Para nossa ad | Pr Dudu Batista | 46341 | 366 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 13 2026 | Daniel Herrera Jerez | 38542 | 341 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 12 2026 | Daniel Herrera Jerez | 38842 | 283 |
-| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 11 2026 | Daniel Herrera Jerez | 39014 | 242 |
-| Escuela Sabática | Lección 7 | ¡Escuchen esto! | Lección para MAESTROS | Lecciones Escuela Sabática | 3828 | 45 |
-| Sabbath Lesson 7 Now Hear This - Full Teacher's Prep Q4, 2026 | simplyReal. | 3950 | 39 |
-| Nuevo Horizonte, 14 de noviembre del 2026. 4° Trimestre. | Mensajes Adventistas  | 3145 | 27 |
-| Nuevo Horizonte Marcando el Rumbo, Sábado 7 DE NOVIEMBRE 2026, EL MAES | CREACIÓNTV | 1311 | 14 |
+| Escuela Sabática LIKE | Lección 8 | Interpretación de los Escritos Pro | Crecer Más | 87455 | 2823 |
+| Alejandro Bullón - Lección 8 - La Biblia Como Su Propio Intérprete | Alejandro Bullon | 370889 | 2307 |
+| Lição da Escola Sabatina Pr Dudu Batista | Pr Dudu Batista | 52991 | 788 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 19 2026 | Daniel Herrera Jerez | 39143 | 504 |
+| Lição da Escola Sabatina dos ADULTOS, Segunda 16/11/2026 "Contexto His | Pr Dudu Batista | 63539 | 456 |
+| Lição da Escola Sabatina dos ADULTOS, Terça 17/11/2026 "Contexto liter | Pr Dudu Batista | 51731 | 449 |
+| Lesson 8 - Interpreting Prophetic Writings | Hope Sabbath School - Official | 73926 | 441 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 18 2026 | Daniel Herrera Jerez | 39410 | 387 |
+| Lição da Escola Sabatina dos ADULTOS, Domingo 15/11/26 "A Bíblia inter | Pr Dudu Batista | 54874 | 336 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 17 2026 | Daniel Herrera Jerez | 42258 | 336 |
+| Interpretación de los escritos proféticos: | LES 8 | 4.º trimestre 202 | Ruben Bullon | 44344 | 279 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 16 2026 | Daniel Herrera Jerez | 41247 | 275 |
+| Escuela Sabática | Lección 8 | Interpretación de los escritos profétic | Lecciones Escuela Sabática | 3638 | 144 |
+| ¿Cómo Prepararse para Enseñar Eficazmente? | Consejos para Maestros de | Inter-American Division | 444 | 9 |

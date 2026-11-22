@@ -1,34 +1,34 @@
-# Investigación MayorDom · Mayordomía Bíblica — 2026-11-17
+# Investigación MayorDom · Mayordomía Bíblica — 2026-11-22
 
 ## Tus 10 mejores videos (28 días)
 | Video | Vistas | Dur. media (s) | % visto | Subs |
 |---|---|---|---|---|
-| Así funciona REALMENTE el diezmo bíblico #shorts | 1225 | 31 | 38% | 3 |
-| No eres lo suficientemente bueno (y está bien) ✝️ #shorts | 1172 | 11 | 37% | 2 |
-| Lo PRIMERO, no lo que sobra ✋ #shorts | 1127 | 29 | 103% | 5 |
 | El que da recibe DOS veces 🎁 #shorts | 1106 | 24 | 79% | 0 |
+| Tu bendición no termina en ti ✨ #shorts | 1041 | 27 | 66% | 5 |
 | La Semana de Mayordomía en 60 segundos ⏱️ #shorts | 1031 | 12 | 36% | 0 |
 | La respuesta que Dios está esperando de ti #shorts | 1013 | 22 | 88% | 5 |
 | Mañana empieza algo nuevo en el canal 📖 #shorts | 1006 | 11 | 37% | 1 |
+| Primero usó cuervos. Después, a una viuda pobre. ¿Por qué? 🐦 #shorts | 1005 | 40 | 101% | 1 |
 | No eres empleado de Dios. Eres esto 👇 #shorts | 1003 | 18 | 72% | 2 |
-| ¿De quién es REALMENTE tu dinero? 💰 #shorts | 949 | 15 | 54% | 0 |
+| Dios podría hacerlo solo… pero eligió tus manos 🤲 #shorts | 995 | 29 | 66% | 4 |
+| Dos mares, la misma agua… y uno está muerto 🌊 #shorts | 975 | 29 | 75% | 2 |
 | Reto de 7 días: haz esto cada día ✅ #shorts | 937 | 16 | 53% | 1 |
 
 ## Lo más visto del nicho (7 días)
 | Video | Canal | Vistas | Vistas/hora |
 |---|---|---|---|
-| Tyler Wood Goes NUCLEAR Over Josh Howerton's Tithing Practices—“He’s A | AaronPageReacts | 96649 | 1579 |
-| Debía siete meses de diezmo, y esto hizo la pastora #viral #historias | Nany rivas | 62247 | 1301 |
-| Ella es la que debe el diezmo #drama #horadehistorias #comedia #histor | Josué Rivera  | 159789 | 1178 |
-| PARA QUIÉN ES EL DIEZMO? #catolico #cristianos #mexico #usa #reflexion | Misionero Católico | 100222 | 627 |
-| Don’t know how you’re going to make it if you tithe? That’s exactly wh | Patristic Nectar | 38126 | 601 |
-| Mormon Tithing Requires Tax Documents? | Jasmin Rappleye | 55226 | 587 |
-| La ofrenda que le dejó el papa León XIV a la Virgen de Luján en su últ | Todo Noticias | 73608 | 518 |
-| Dízimo, toca em inscrever-se para mais | Tv Municípios | 45727 | 513 |
-| Diezmo doble 😨 | eldespistadoramon2 | 31219 | 458 |
-| 5 PLACES EVERY ADVENTIST SHOULD AVOID GOING ON SATURDAY - ELLEN WHITE | Walking whith Ellen G. White | 63939 | 397 |
-| Ellen White: El engaño final contra los testimonios proféticos #shorts | SUMtv Latino | 43961 | 366 |
-| Si no entrego el 10% de mi salario como ofrenda se enojará Dios conmig | Jaqueline Cautullin | 44126 | 301 |
-| O FIM DO MUNDO EM 2026? O que Ellen White REALMENTE disse sobre os 6.0 | Vida & Profecia | 17040 | 267 |
-| COMO SABER UM POUCO MAIS A RESPEITO DO DÍZIMO #bênçãos #dizimo #biblia | Fabiano@Alves | 30949 | 264 |
-| Las finanzas de una chica cristiana| Para Zoé Podcast | Para Zoé Podcast | 3647 | 165 |
+| The Tithe 💀 #shorts #roblox #viral | Noobified | 1296307 | 49881 |
+| llego a cobrar el diezmo y termino dando cuentas del dinero de Esther | Novelas con filo | 125407 | 4965 |
+| @predivinagreoficial deu o recado #dízimoeofertas #dizimos | Fé e Adoração Oficial | 380946 | 3448 |
+| Falou no dismo acabou a oração | Billy Trombadinha | 54046 | 1033 |
+| O que não te contaram a respeito do DÍZIMO! #evangelho #fe #silasmalaf | Conhecereis_a_Verdade | 101662 | 899 |
+| PASTOR PIDE DIEZMO DESCARADAMENTE A LOS FELIGRESES😱🔥 #cristianos #fe | Cesar Bonilla | 47934 | 818 |
+| DANIEL HERRERA I LECCIÓN ESCUELA SABÁTICA I NOVIEMBRE 20 2026 | Daniel Herrera Jerez | 32176 | 599 |
+| Of all the commandments, tithing is the only one in which God says, “T | Patristic Nectar | 64519 | 524 |
+| PASTORA NECESITA TU DIEZMO😱💥 #cristianos #fe | Cesar Bonilla | 28475 | 496 |
+| Esto se nos viene el 2027  | Apología Adventista | 34681 | 486 |
+| Debía siete meses de diezmo, y esto hizo la pastora #viral #historias | Nany rivas | 65804 | 421 |
+| PASTOR AMEAÇA FIEL COM O DEVORADOR PORCAUSA DO DIZIMO! | Mariana Leni | 34420 | 333 |
+| MOÇA DENUNCIA ESQUEMA DE PIRÂMIDE NA IGREJA?! Pra onde estão indo os d | PORTÃO de SAÍDA | 11993 | 318 |
+| SALPICÓN | COMO LEER LOS ESCRITOS DE ELENA DE WHITE | LECCIÓN 8 | VIE  | Palabra Viva | 12877 | 316 |
+| Escuela Sabática | Viernes 20 de noviembre del 2026 | Lección Alumnos | Lecciones Escuela Sabática | 11031 | 275 |

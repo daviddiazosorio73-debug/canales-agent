@@ -1,34 +1,34 @@
-# Investigación Top 10 Redes Sociales — 2026-11-17
+# Investigación Top 10 Redes Sociales — 2026-11-22
 
 ## Tus 10 mejores videos (28 días)
 | Video | Vistas | Dur. media (s) | % visto | Subs |
 |---|---|---|---|---|
-| El #1 con más likes de América esta semana 🏆 #shorts | 161 | 13 | 36% | 0 |
-| The most viewed video in Asia this week 🏆 #shorts | 155 | 6 | 19% | 0 |
-| El #1 más visto de América esta semana 🏆 #shorts | 97 | 7 | 21% | 0 |
+| El #1 con más likes de América esta semana 🏆 #shorts | 973 | 17 | 52% | 0 |
+| El #1 con más likes de América esta semana 🏆 #shorts | 160 | 12 | 36% | 0 |
+| The most viewed video in Asia this week 🏆 #shorts | 139 | 6 | 19% | 0 |
+| El #1 más visto de América esta semana 🏆 #shorts | 132 | 16 | 48% | 0 |
+| El #1 más visto de América esta semana 🏆 #shorts | 95 | 7 | 21% | 0 |
+| The most viewed video in the world this week 🏆 #shorts | 89 | 21 | 64% | 0 |
 | The most viewed video in Europe this week 🏆 #shorts | 61 | 9 | 29% | 0 |
-| El #1 más comentado de América esta semana 🏆 #shorts | 54 | 20 | 34% | 0 |
-| The most liked video in the world this week 🏆 #shorts | 33 | 48 | 142% | 0 |
-| The most viewed video in Oceania this week 🏆 #shorts | 29 | 14 | 43% | 0 |
-| The most commented video in the world this week 🏆 #shorts | 27 | 35 | 97% | 0 |
-| The most viewed video in Oceania this week 🏆 #shorts | 27 | 16 | 51% | 0 |
-| The most commented video in the world this week 🏆 #shorts | 25 | 20 | 54% | 0 |
+| El #1 más comentado de América esta semana 🏆 #shorts | 53 | 20 | 34% | 0 |
+| El #1 más comentado de América esta semana 🏆 #shorts | 43 | 13 | 33% | 0 |
+| The most viewed video in Oceania this week 🏆 #shorts | 37 | 12 | 40% | 0 |
 
 ## Lo más visto del nicho (7 días)
 | Video | Canal | Vistas | Vistas/hora |
 |---|---|---|---|
-| top 10 betrayal moments @NickandCarrie #sofimanassyan #funny #relatabl | Sofi Manassyan | 9021512 | 63726 |
-| My Top 10 BRAINLESS Moments…😭💔 #shorts #shortvideo #ytshorts #fyp #fun | Nilo | 4816858 | 56294 |
-| TOP 5 OMPED VISUAL | RMeme Zone. | 5857682 | 37775 |
-| Washington Commanders vs New York Giants Highlights | 2026 NFL Season  | NFL | 2950055 | 27943 |
-| 🌟 Bebefinn & Minjee’s TOP 10 Songs! 🎵｜Ten on a Mat, The Alphabet Bus & | Bebefinn - Nursery Rhymes & Ki | 3096967 | 24946 |
-| BEST WAY TO FIND The Pirate Shop Token 🥳 | Crackly | 4088269 | 24709 |
-| Monster LEVEL News: India’s Air Was Crying in Diwali - AQI & Air Pollu | FactTechz | 3812571 | 24365 |
-| Ranking The BEST 2016 Makeup TREND pt2 #tiktok #trend #usa #shorts | TrendCountdowns | 1696350 | 18018 |
-| Top 10 Best New TV Shows of 2026 to Watch Now! | Nour Mi | 2723373 | 16515 |
-| Inside Jude Bellingham’s Louis Vuitton Bag | In the Bag | Vogue | Vogue | 2714007 | 16188 |
-| CELTICS at 76ERS | FULL GAME HIGHLIGHTS | November 10, 2026 | NBA | 2163950 | 14014 |
-| A Geração Z inventou um jeito novo de contar folga 💀 | Minato HQ | 558463 | 8572 |
-| #trending | Bholu Shorts | 1097869 | 8354 |
-| ELEGANCE OF ITALIAN TRENDS IN WINTER 2026 🇮🇹 #milanstreetstyle #italia | Walking Together | 342849 | 7956 |
-| Fiz a Famosa Trend do Leilão (e mais Trends Viralizadas) | Gabriel e Shirley | 374124 | 5742 |
+| Ranking Best Demolition Videos | Bass Rank | 13991009 | 109527 |
+| This TREND Was Banned From Schools Because How BAD It Is! 😨 #shorts #v | MomentumMotivation | 4053761 | 74062 |
+| My Top 10 ZERO IQ moments…😭🙏 #shorts #shortvideo #ytshorts #fyp #viral | Nilo | 8630182 | 71417 |
+| GTA 6: 10 Things The Game DOESN'T TELL YOU | gameranx | 2564769 | 44588 |
+| My Top 10 CRAZIEST moments…😭💔 #shorts #shortvideo #fyp #viral #funny # | Nilo | 3105107 | 42925 |
+| Top 3 Funniest Gilla Horror Game Moments 😂 #vr #horrorgaming | Skibibones | 4334979 | 32174 |
+| Top 3 Funniest Lethal Ape Horror Game Moments 😂 #vr #horrorgaming | Skibibones | 4198053 | 26447 |
+| San Francisco 49ers vs. Dallas Cowboys Highlights | NFL 2026 Season We | NFL | 3842986 | 26368 |
+| Trying 2016 Trends: Heelys 😂👟🏄‍♂️ | Landen Levine | 591438 | 19979 |
+| Los Angeles Chargers vs Baltimore Ravens Game Highlights | 2026 NFL Se | NFL | 2338190 | 19794 |
+| Top 10 Best New TV Shows of 2026 to Watch Now! | Nour Mi | 2722118 | 17485 |
+| Ranking The Craziest Wall Friction Moments Ever 😭 #shorts #trending | Cooked Compilations | 995204 | 15309 |
+| Minnesota Vikings vs. Green Bay Packers Highlights | 2026 NFL Season W | NFL | 2218829 | 14844 |
+| Top 10 Most Handsome Men in Asia 2026! | rare avenoir  | 240093 | 9362 |
+| Tom Brady’s Week 10 NFL Power Rankings | FOX Sports | 585079 | 8050 |
