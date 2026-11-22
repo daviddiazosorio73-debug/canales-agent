@@ -33,6 +33,7 @@ def main():
     desc = seo["descripcion"].strip() + bloque_caps
     if seo.get("hashtags"):
         desc += "\n\n" + " ".join("#" + h.lstrip("#") for h in seo["hashtags"][:8])
+    base_desc = desc  # sin créditos: se usa si hay que acortar
     if creditos:
         lineas = []
         for c in creditos:  # CC BY / BY-SA exigen autor, fuente y licencia
@@ -65,8 +66,22 @@ def main():
             tags.append(t)
     if len(seo["titulo"]) > LIMITS["titulo"]:
         errores.append(f"Título de {len(seo['titulo'])} caracteres (máx 100).")
-    if len(desc) > LIMITS["descripcion"]:
-        errores.append(f"Descripción de {len(desc)} caracteres (máx 5000).")
+    # YouTube cuenta BYTES (máx 5000): si no cabe, créditos compactos (autor · fuente · licencia, sin URL)
+    MAXB = 4900
+    if len(desc.encode()) > MAXB and creditos:
+        cortos = list(dict.fromkeys(f"{c.get('autor', '')} · {c.get('fuente', 'Pexels')}" + (f" · {c['licencia']}" if c.get("licencia") else "") for c in creditos))
+        pie = f"\n\n{CREDITOS_TXT.get(lang, CREDITOS_TXT['es'])}: "
+        desc = base_desc + pie
+        for i, l in enumerate(cortos):
+            sep = "" if i == 0 else "; "
+            if len((desc + sep + l).encode()) > MAXB - 4:
+                desc += " …"
+                break
+            desc += sep + l
+        errores.append("Descripción larga: créditos compactados para caber en 5000 bytes.")
+    if len(desc.encode()) > MAXB:
+        desc = desc.encode()[:MAXB].decode(errors="ignore").rstrip()
+        errores.append("Descripción recortada a 5000 bytes.")
 
     meta = {
         "titulo": seo["titulo"], "descripcion": desc, "tags": tags,
