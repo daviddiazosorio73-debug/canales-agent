@@ -48,3 +48,10 @@
 - escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A-scZdVjIFgMfDPA6rti7SH"}})
 - top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A7MhPXzbHwLx322EAH2Tthi"}})
 - cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A28z9b5SHmSAqwDnfFHdug4"}})
+
+## Instagram/Facebook
+- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AWukq8CzScflEdPa-Ho4mYy"}})
+- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A_Z-k_OPDRE7L5kA-s6kQH4"}})
+- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A56dnhpRkPccRiwZR6n7jkt"}})
+- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AQnNmDq5WISLN7MFlTKLJ1h"}})
+- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AuAxUiE9V1euFwtFrNspJTu"}})

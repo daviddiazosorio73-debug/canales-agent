@@ -69,7 +69,7 @@
     },
     "categoria_id": "24",
     "privacidad": "public",
-    "publicar_en": "2026-11-22T11:00:00Z",
+    "publicar_en": null,
     "lista_id": null
   },
   "escenas": [
@@ -123,7 +123,7 @@
         },
         {
           "img": "imagenes/v10_01.jpg",
-          "dur": 3.757,
+          "dur": 4.544,
           "mov": false
         },
         {
@@ -235,13 +235,8 @@
         },
         {
           "img": "imagenes/v09_01.jpg",
-          "dur": 5.0,
+          "dur": 3.72,
           "mov": false
-        },
-        {
-          "img": "imagenes/v09_02.jpg",
-          "dur": 0.59,
-          "mov": true
         },
         {
           "img": "imagenes/v09_cnt_00.jpg",
@@ -352,7 +347,7 @@
         },
         {
           "img": "imagenes/v08_01.jpg",
-          "dur": 2.038,
+          "dur": 0.917,
           "mov": false
         },
         {
@@ -464,8 +459,13 @@
         },
         {
           "img": "imagenes/v07_01.jpg",
-          "dur": 4.394,
+          "dur": 5.0,
           "mov": false
+        },
+        {
+          "img": "imagenes/v07_02.jpg",
+          "dur": 0.664,
+          "mov": true
         },
         {
           "img": "imagenes/v07_cnt_00.jpg",
@@ -576,7 +576,7 @@
         },
         {
           "img": "imagenes/v06_01.jpg",
-          "dur": 4.431,
+          "dur": 2.562,
           "mov": false
         },
         {
@@ -693,7 +693,7 @@
         },
         {
           "img": "imagenes/v05_02.jpg",
-          "dur": 1.74,
+          "dur": 2.039,
           "mov": true
         },
         {
@@ -814,11 +814,6 @@
           "mov": true
         },
         {
-          "img": "imagenes/v04_02.jpg",
-          "dur": 0.608,
-          "mov": false
-        },
-        {
           "img": "imagenes/v04_cnt_00.jpg",
           "dur": 0.06,
           "mov": false,
@@ -892,7 +887,7 @@
         },
         {
           "img": "imagenes/v04_card.jpg",
-          "dur": 3.0,
+          "dur": 3.086,
           "mov": false,
           "limpio": true
         }
@@ -933,7 +928,7 @@
         },
         {
           "img": "imagenes/v03_02.jpg",
-          "dur": 1.85,
+          "dur": 2.33,
           "mov": true
         },
         {
@@ -1050,7 +1045,7 @@
         },
         {
           "img": "imagenes/v02_02.jpg",
-          "dur": 3.0,
+          "dur": 2.45,
           "mov": true
         },
         {
@@ -1127,7 +1122,7 @@
         },
         {
           "img": "imagenes/v02_card.jpg",
-          "dur": 3.13,
+          "dur": 3.0,
           "mov": false,
           "limpio": true
         }
@@ -1165,6 +1160,11 @@
           "img": "imagenes/v01_01.jpg",
           "dur": 5.0,
           "mov": false
+        },
+        {
+          "img": "imagenes/v01_02.jpg",
+          "dur": 0.54,
+          "mov": true
         },
         {
           "img": "imagenes/v01_cnt_00.jpg",
@@ -1240,13 +1240,13 @@
         },
         {
           "img": "imagenes/v01_card.jpg",
-          "dur": 1.5,
+          "dur": 1.82,
           "mov": false,
           "limpio": true
         },
         {
           "img": "imagenes/tabla_views.jpg",
-          "dur": 5.822,
+          "dur": 6.0,
           "mov": false,
           "limpio": true
         }
@@ -1359,7 +1359,7 @@
         },
         {
           "img": "imagenes/c10_card.jpg",
-          "dur": 5.492,
+          "dur": 4.856,
           "mov": false,
           "limpio": true
         }
@@ -1471,7 +1471,7 @@
         },
         {
           "img": "imagenes/c09_card.jpg",
-          "dur": 4.034,
+          "dur": 3.286,
           "mov": false,
           "limpio": true
         }
@@ -1583,7 +1583,7 @@
         },
         {
           "img": "imagenes/c08_card.jpg",
-          "dur": 8.408,
+          "dur": 7.584,
           "mov": false,
           "limpio": true
         }
@@ -1695,7 +1695,7 @@
         },
         {
           "img": "imagenes/c07_card.jpg",
-          "dur": 4.146,
+          "dur": 5.865,
           "mov": false,
           "limpio": true
         }
@@ -1807,7 +1807,7 @@
         },
         {
           "img": "imagenes/c06_card.jpg",
-          "dur": 8.959,
+          "dur": 8.66,
           "mov": false,
           "limpio": true
         }
@@ -1919,7 +1919,7 @@
         },
         {
           "img": "imagenes/c05_card.jpg",
-          "dur": 7.351,
+          "dur": 7.987,
           "mov": false,
           "limpio": true
         }
@@ -2031,7 +2031,7 @@
         },
         {
           "img": "imagenes/c04_card.jpg",
-          "dur": 8.061,
+          "dur": 7.949,
           "mov": false,
           "limpio": true
         }
@@ -2143,7 +2143,7 @@
         },
         {
           "img": "imagenes/c03_card.jpg",
-          "dur": 6.99,
+          "dur": 8.27,
           "mov": false,
           "limpio": true
         }
@@ -2255,7 +2255,7 @@
         },
         {
           "img": "imagenes/c02_card.jpg",
-          "dur": 10.88,
+          "dur": 9.68,
           "mov": false,
           "limpio": true
         }
@@ -2368,7 +2368,7 @@
         },
         {
           "img": "imagenes/c01_card.jpg",
-          "dur": 5.321,
+          "dur": 4.783,
           "mov": false,
           "limpio": true
         },
@@ -2487,7 +2487,7 @@
         },
         {
           "img": "imagenes/l10_card.jpg",
-          "dur": 5.193,
+          "dur": 4.744,
           "mov": false,
           "limpio": true
         }
@@ -2599,7 +2599,7 @@
         },
         {
           "img": "imagenes/l09_card.jpg",
-          "dur": 8.361,
+          "dur": 6.492,
           "mov": false,
           "limpio": true
         }
@@ -2711,7 +2711,7 @@
         },
         {
           "img": "imagenes/l08_card.jpg",
-          "dur": 3.323,
+          "dur": 4.556,
           "mov": false,
           "limpio": true
         }
@@ -2823,7 +2823,7 @@
         },
         {
           "img": "imagenes/l07_card.jpg",
-          "dur": 4.781,
+          "dur": 5.603,
           "mov": false,
           "limpio": true
         }
@@ -2935,7 +2935,7 @@
         },
         {
           "img": "imagenes/l06_card.jpg",
-          "dur": 3.997,
+          "dur": 3.099,
           "mov": false,
           "limpio": true
         }
@@ -2970,7 +2970,7 @@
         },
         {
           "img": "imagenes/l05_02.jpg",
-          "dur": 2.5,
+          "dur": 1.328,
           "mov": false
         },
         {
@@ -3047,7 +3047,7 @@
         },
         {
           "img": "imagenes/l05_card.jpg",
-          "dur": 3.921,
+          "dur": 3.0,
           "mov": false,
           "limpio": true
         }
@@ -3159,7 +3159,7 @@
         },
         {
           "img": "imagenes/l04_card.jpg",
-          "dur": 10.866,
+          "dur": 9.557,
           "mov": false,
           "limpio": true
         }
@@ -3271,7 +3271,7 @@
         },
         {
           "img": "imagenes/l03_card.jpg",
-          "dur": 10.0,
+          "dur": 11.2,
           "mov": false,
           "limpio": true
         }
@@ -3383,7 +3383,7 @@
         },
         {
           "img": "imagenes/l02_card.jpg",
-          "dur": 8.88,
+          "dur": 9.2,
           "mov": false,
           "limpio": true
         }
@@ -3496,7 +3496,7 @@
         },
         {
           "img": "imagenes/l01_card.jpg",
-          "dur": 5.399,
+          "dur": 4.706,
           "mov": false,
           "limpio": true
         },

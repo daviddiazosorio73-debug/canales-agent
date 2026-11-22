@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-21 23:12 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-22 11:17 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -31,13 +31,10 @@ Sin videos largos publicados esta semana.
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| dom 15 | [Top 10 Europe: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/2Mzb3BbhkM8) | [fijar](https://studio.youtube.com/video/2Mzb3BbhkM8/comments) | [editar](https://studio.youtube.com/video/2Mzb3BbhkM8/edit) | [revisar](https://studio.youtube.com/video/2Mzb3BbhkM8/translations) | sí |
-| dom 15 | [Top 10 América: lo más visto, comentado y con más likes | Se](https://youtu.be/1eghcjWjO60) | [fijar](https://studio.youtube.com/video/1eghcjWjO60/comments) | [editar](https://studio.youtube.com/video/1eghcjWjO60/edit) | — | sí |
-| dom 15 | [Top 10 World: Most Viewed, Commented & Liked on YouTube | We](https://youtu.be/xeD0jU5UnjU) | [fijar](https://studio.youtube.com/video/xeD0jU5UnjU/comments) | [editar](https://studio.youtube.com/video/xeD0jU5UnjU/edit) | — | sí |
-| sáb 21 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/MB4Dr5bLWOw) | [fijar](https://studio.youtube.com/video/MB4Dr5bLWOw/comments) | [editar](https://studio.youtube.com/video/MB4Dr5bLWOw/edit) | — | sí |
+| sáb 21 | [Top 10 Oceania: Most Viewed, Commented & Liked on YouTube | ](https://youtu.be/MB4Dr5bLWOw) | [fijar](https://studio.youtube.com/video/MB4Dr5bLWOw/comments) | [editar](https://studio.youtube.com/video/MB4Dr5bLWOw/edit) | [revisar](https://studio.youtube.com/video/MB4Dr5bLWOw/translations) | sí |
 | sáb 21 | [Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/slmk1GoIIPg) | [fijar](https://studio.youtube.com/video/slmk1GoIIPg/comments) | [editar](https://studio.youtube.com/video/slmk1GoIIPg/edit) | — | sí |
 
-**Escuchar:** [largo: Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/slmk1GoIIPg) · [Short: The most viewed video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/5OXxAvA64YQ)
+**Escuchar:** [largo: Top 10 Africa: Most Viewed, Commented & Liked on YouTube | W](https://youtu.be/slmk1GoIIPg) · [Short: The most commented video in Oceania this week 🏆 #shorts](https://youtube.com/shorts/7_wRSx0BwEc)
 
 ## Cryptuline · Salud con ciencia
 
@@ -45,5 +42,5 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 20 | [Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) | [fijar](https://studio.youtube.com/video/LA5oj8-myiw/comments) | [editar](https://studio.youtube.com/video/LA5oj8-myiw/edit) | [revisar](https://studio.youtube.com/video/LA5oj8-myiw/translations) | sí |
 
-**Escuchar:** [largo: Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) · [Short: Reto de 7 días: un cambio de fibra por día #shorts](https://youtube.com/shorts/ORlcOHAJbP0)
+**Escuchar:** [largo: Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) · [Short: ¿Ser agradecido se asocia con vivir más? 49 mil enfermeras #](https://youtube.com/shorts/XRgR2y3nYQg)
 
