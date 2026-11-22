@@ -1,0 +1,69 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Sinais e prodígios… podem enganar? ⚠️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "El papel de lo sobrenatural"
+  },
+  "miniatura": {
+    "linea1": "Sinal = verdade?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Sinais e prodígios… podem enganar? ⚠️ #shorts",
+    "descripcion": "Paulo avisou que viriam sinais e prodígios de mentira. A proteção é amar a verdade. (2 Tessalonicenses 2:9-10, paráfrase)\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "dom de profecia",
+      "milagres",
+      "1 João 4",
+      "2 Tessalonicenses 2"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T02:45:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um prodígio pode ser real e, ainda assim, servir para enganar. Parece estranho? Paulo explicou.",
+      "texto_pantalla": "Sinal = verdade?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "storm clouds lightning at night"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Segunda Tessalonicenses, capítulo dois, versículos nove e dez, Paulo fala de uma vinda acompanhada de todo poder, sinais e prodígios de mentira, com todo engano para os que perecem, porque não receberam o amor da verdade para serem salvos. É o tema de hoje da lição nove: o papel do sobrenatural. Veja a proteção que Paulo aponta: não é fugir de tudo o que é extraordinário, nem correr atrás de cada sinal. É amar a verdade. Quem ama a Palavra percebe quando algo não combina com ela. Inscreva-se e comente: «Amo a verdade».",
+      "texto_pantalla": "Sinal = verdade?",
+      "referencia": "2 Tessalonicenses 2:9-10",
+      "emocion": "agil",
+      "visual": {
+        "query": "open bible on wooden table in warm candlelight"
+      }
+    }
+  ]
+}

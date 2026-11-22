@@ -1,0 +1,64 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "La frase de Jesús que no está en los evangelios 🤲",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Dar o recibir?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "La frase de Jesús que no está en los evangelios 🤲 #shorts",
+    "descripcion": "Pablo citó una frase de Jesús que no aparece en los cuatro evangelios. (Hechos 20:35, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "gran conflicto",
+      "Juan 10:10",
+      "dar",
+      "generosidad",
+      "Hechos 20:35"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T02:45:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay una frase de Jesús que no está en Mateo, ni en Marcos, ni en Lucas, ni en Juan. ¿Dónde quedó?",
+      "texto_pantalla": "¿Dar o recibir?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old scroll unrolled on table candle"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Está en Hechos veinte, versículo treinta y cinco. Pablo se despide de los ancianos de Éfeso y les recuerda que trabajó con sus manos para ayudar a los necesitados, acordándose de las palabras del Señor Jesús: más bienaventurado es dar que recibir. Piénsalo: el mundo mide la felicidad por lo que acumula; Jesús la mide por lo que entrega. Esa es la diferencia entre dos principios en guerra. Mañana lunes, a las seis de la tarde, lo estudiamos en el capítulo cuatro de Consejos sobre mayordomía cristiana. Suscríbete y comenta: «Dar».",
+      "texto_pantalla": "¿Dar o recibir?",
+      "referencia": "Hechos 20:35",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "hands passing a gift box warm light"
+      }
+    }
+  ]
+}

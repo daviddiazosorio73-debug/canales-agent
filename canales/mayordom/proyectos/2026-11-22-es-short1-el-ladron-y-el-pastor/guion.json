@@ -1,0 +1,63 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Uno viene a quitar, el otro a dar vida 🐑",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "¿Quitar o dar?",
+    "linea2": "",
+    "etiqueta": "MAYORDOM",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Uno viene a quitar, el otro a dar vida 🐑 #shorts",
+    "descripcion": "Jesús resumió el gran conflicto en una sola frase sobre un ladrón y un pastor. (Juan 10:10, paráfrasis RVR1960)\n\nSuscríbete a MayorDom · Mayordomía Bíblica. Narración con voz sintética. #shorts",
+    "tags": [
+      "mayordomía bíblica",
+      "mayordomía cristiana",
+      "shorts",
+      "reflexión cristiana",
+      "gran conflicto",
+      "Juan 10:10",
+      "dar",
+      "generosidad"
+    ],
+    "hashtags": [
+      "MayordomíaBíblica",
+      "shorts",
+      "fe"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T00:45:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús resumió toda la guerra entre el bien y el mal en una sola frase. Y tiene que ver con tus manos.",
+      "texto_pantalla": "¿Quitar o dar?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "shepherd silhouette with sheep at sunset"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Juan diez, versículo diez, Jesús dice que el ladrón no viene sino para hurtar, matar y destruir; y que él vino para que tengamos vida, y vida en abundancia. Mira el contraste: uno quita, el otro da. Ese es el corazón de la mayordomía. Cada vez que retienes por miedo o por egoísmo, imitas al que quita. Cada vez que das con alegría, te pareces al que da vida. Mañana lunes, a las seis de la tarde, empezamos el capítulo cuatro de Consejos sobre mayordomía cristiana: Principios conflictivos de Cristo y Satanás. Suscríbete y activa la campana.",
+      "texto_pantalla": "¿Quitar o dar?",
+      "referencia": "Juan 10:10",
+      "emocion": "enfasis",
+      "visual": {
+        "query": "open hands giving bread warm light"
+      }
+    }
+  ]
+}

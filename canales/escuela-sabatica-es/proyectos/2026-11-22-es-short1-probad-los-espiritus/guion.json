@@ -1,0 +1,68 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "¿Por qué la Biblia dice que no creas a todo espíritu? 🔍",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "El papel de lo sobrenatural"
+  },
+  "miniatura": {
+    "linea1": "¿Creer a todo?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Por qué la Biblia dice que no creas a todo espíritu? 🔍 #shorts",
+    "descripcion": "No todo lo que parece espiritual viene de Dios. Juan dio una instrucción clara. (1 Juan 4:1)\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "don de profecía",
+      "milagros",
+      "1 Juan 4"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T00:45:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La Biblia te pide algo que pocos se atreven a hacer: no creer a todo lo que parece venir del cielo.",
+      "texto_pantalla": "¿Creer a todo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "shadowy figure behind frosted glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Lo dice el apóstol Juan en su primera carta, capítulo cuatro, versículo uno: amados, no crean a todo espíritu, sino prueben los espíritus para ver si son de Dios, porque muchos falsos profetas han salido por el mundo. Es el versículo de esta semana en la lección nueve, Poniendo a prueba a los profetas, y hoy el tema es el papel de lo sobrenatural. Fíjate: Juan no dice que lo sobrenatural no exista. Dice que hay que probarlo. Creer sin examinar no es fe, es descuido. Dios no se ofende cuando comparas un mensaje con su Palabra; al contrario, te lo pide. Suscríbete y comenta: ¿con qué pruebas tú lo que escuchas?",
+      "texto_pantalla": "¿Creer a todo?",
+      "referencia": "1 Juan 4:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "magnifying glass over old book pages"
+      }
+    }
+  ]
+}

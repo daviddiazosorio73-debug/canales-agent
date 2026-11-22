@@ -1,0 +1,68 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Por que a Bíblia manda não acreditar em todo espírito? 🔍",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "El papel de lo sobrenatural"
+  },
+  "miniatura": {
+    "linea1": "Acreditar em tudo?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por que a Bíblia manda não acreditar em todo espírito? 🔍 #shorts",
+    "descripcion": "Nem tudo o que parece espiritual vem de Deus. João deixou uma instrução clara. (1 João 4:1)\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "dom de profecia",
+      "milagres",
+      "1 João 4"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T00:45:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "A Bíblia pede uma coisa que pouca gente tem coragem de fazer: não acreditar em tudo o que parece vir do céu.",
+      "texto_pantalla": "Acreditar em tudo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "shadowy figure behind frosted glass"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Quem diz isso é o apóstolo João, na primeira carta, capítulo quatro, versículo um: amados, não deem crédito a qualquer espírito; antes, provem os espíritos para ver se procedem de Deus, porque muitos falsos profetas têm saído pelo mundo. É o verso desta semana na lição nove, Colocando os profetas à prova, e hoje o tema é o papel do sobrenatural. Repare: João não diz que o sobrenatural não existe. Ele diz que é preciso provar. Acreditar sem examinar não é fé, é descuido. Deus não se ofende quando você compara uma mensagem com a Palavra dele; ele mesmo pede isso. Inscreva-se e comente: com o que você prova o que ouve?",
+      "texto_pantalla": "Acreditar em tudo?",
+      "referencia": "1 João 4:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "magnifying glass over old book pages"
+      }
+    }
+  ]
+}
