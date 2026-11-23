@@ -1,4 +1,5 @@
-"""Tecno Log IA (@tecnologiapperu): publica Shorts YA HECHOS (packs Oster) en YouTube, Facebook e Instagram.
+"""Tecno Log IA (@tecnologiapperu): publica Shorts en YouTube, Facebook e Instagram.
+Desde el 24-nov-2026: 7 diarios dom-vie (sábado descanso), generados del catálogo por tecnologia_gen.py.
 
 Cola: canales/tecnologia/cola.json  →  [{"clave","archivo","titulo","descripcion","tags","publicar_en"(RFC3339Z), ...}]
 Videos: canales/tecnologia/videos/<archivo>  (vertical 1080x1920, ya renderizados; sin voz).
@@ -21,7 +22,8 @@ ROOT = Path(__file__).resolve().parent.parent
 DIR = ROOT / "canales" / "tecnologia"
 COLA = DIR / "cola.json"
 REPO = os.environ.get("GITHUB_REPOSITORY", "daviddiazosorio73-debug/canales-agent")
-VENTANA_H = 36
+VENTANA_H = 30
+CUOTA_F = ROOT / "canales" / "cuota.json"  # pausa compartida con el motor (cuota diaria de YouTube)
 
 
 def ahora():
@@ -56,7 +58,13 @@ def youtube(cola):
     import upload
     from googleapiclient.errors import HttpError
     from googleapiclient.http import MediaFileUpload
+    if CUOTA_F.exists():
+        hasta = fecha(json.loads(CUOTA_F.read_text())["hasta"])
+        if ahora() < hasta:
+            print("YouTube: cuota en pausa hasta", hasta.isoformat(), "(la comparten todos los canales)")
+            return
     yt = upload.service("tecnologia")
+    import tecnologia_gen
     atrasados = 0
     for it in sorted(cola, key=lambda x: x["publicar_en"]):
         if it.get("youtube_id") or it.get("pausado"):
@@ -76,15 +84,27 @@ def youtube(cola):
                             "tags": it.get("tags", []), "categoryId": "26",
                             "defaultLanguage": "es", "defaultAudioLanguage": "es"}, "status": status}
         try:
+            archivo = tecnologia_gen.asegurar_video(it)
+        except Exception as e:
+            print("Render: error", it["clave"], str(e)[:300])
+            it["render_error"] = str(e)[:300]
+            guardar(cola)
+            continue
+        try:
             req = yt.videos().insert(part="snippet,status", body=body, media_body=MediaFileUpload(
-                str(DIR / "videos" / it["archivo"]), chunksize=8 * 1024 * 1024, resumable=True))
+                str(archivo), chunksize=8 * 1024 * 1024, resumable=True))
             resp = None
             while resp is None:
                 _, resp = req.next_chunk()
         except HttpError as e:
             print("YouTube: error", it["clave"], upload.razon(e) if hasattr(upload, "razon") else str(e)[:200])
             if any(k in str(e) for k in upload.CUOTA):
-                print("YouTube: cuota agotada; sigo en la próxima corrida.")
+                # Pausa compartida hasta el reinicio (07:00 UTC = 02:00 Lima), igual que el motor
+                h = ahora().replace(hour=7, minute=5, second=0, microsecond=0)
+                if h <= ahora():
+                    h += timedelta(days=1)
+                CUOTA_F.write_text(json.dumps({"hasta": h.strftime("%Y-%m-%dT%H:%M:%SZ"), "motivo": "Tecno Log IA: cuota agotada"}))
+                print("YouTube: cuota agotada; pausa hasta", h.isoformat())
                 return
             continue
         it["youtube_id"] = resp["id"]
@@ -109,7 +129,12 @@ def meta_reels(cola):
             continue
         if it.get("meta_intentos", 0) >= 3:
             continue
-        archivo = DIR / "videos" / it["archivo"]
+        try:
+            import tecnologia_gen
+            archivo = tecnologia_gen.asegurar_video(it)
+        except Exception as e:
+            print("Render (Meta): error", it["clave"], str(e)[:200])
+            continue
         texto = it.get("texto_reel") or it["descripcion"]
         hecho = False
         for red, campo in (("facebook", "facebook_url"), ("instagram", "instagram_url")):
@@ -132,8 +157,31 @@ def meta_reels(cola):
             return  # un Reel por corrida y por red: evita ráfagas
 
 
+def necesita_render(cola):
+    """¿Hay Shorts generados por subir en la ventana sin su MP4? (para instalar el navegador solo si hace falta)"""
+    lim = ahora() + timedelta(hours=VENTANA_H)
+    return any(it.get("gen") and not it.get("youtube_id") and fecha(it["publicar_en"]) <= lim
+               and not (DIR / "videos" / it["archivo"]).exists() for it in cola)
+
+
 if __name__ == "__main__":
     cola = json.loads(COLA.read_text())
+    if "--necesita-render" in sys.argv:
+        try:
+            import tecnologia_gen
+            tecnologia_gen.planificar(cola)
+            guardar(cola)
+        except Exception:
+            print("si"); sys.exit(0)
+        print("si" if necesita_render(cola) else "no")
+        sys.exit(0)
+    try:
+        import tecnologia_gen
+        n = tecnologia_gen.planificar(cola)
+        guardar(cola)
+        print("Plan:", n, "Shorts agregados o reubicados")
+    except Exception as e:
+        print("Plan: no pude leer el catálogo:", str(e)[:200])
     youtube(cola)
     meta_reels(cola)
     guardar(cola)

@@ -1,4 +1,4 @@
-name: Tecno Log IA - Shorts packs Oster
+name: Tecno Log IA - Shorts (7 diarios dom-vie)
 
 on:
   schedule:
@@ -15,12 +15,20 @@ permissions:
 jobs:
   publicar:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
 
       - name: Dependencias
-        run: pip install -q requests google-api-python-client google-auth-oauthlib
+        run: pip install -q requests google-api-python-client google-auth-oauthlib playwright qrcode pillow numpy
+
+      - name: ¿Hay Shorts por armar?
+        id: rn
+        run: echo "render=$(python scripts/tecnologia.py --necesita-render 2>/dev/null || echo si)" >> "$GITHUB_OUTPUT"
+
+      - name: Navegador para armar los Shorts
+        if: steps.rn.outputs.render != 'no'
+        run: python -m playwright install --with-deps chromium
 
       - name: Publicar (YouTube, Facebook, Instagram)
         env:
