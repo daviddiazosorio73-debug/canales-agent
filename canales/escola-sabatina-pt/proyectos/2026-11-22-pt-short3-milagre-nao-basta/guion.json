@@ -38,9 +38,10 @@
       "shorts",
       "Biblia"
     ],
-    "privacidad": "private",
-    "publicar_en": "2026-11-23T01:30:00Z",
-    "lista_id": null
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null,
+    "localizaciones": {}
   },
   "escenas": [
     {
