@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-23T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Do you tithe out of love… or out of fear of the devourer? 🦗 #shorts",
+        "description": "Do you tithe out of love or out of fear of the devourer? Tomorrow we'll analyze it with the Bible. (Malachi 3:11 · 2 Corinthians 9:7, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Você dá o dízimo por amor… ou por medo do devorador? 🦗 #shorts",
+        "description": "Dízimos por amor ou por medo do devorador? Amanhã, vamos analisar isso com a Bíblia. (Malaquias 3:11 · 2 Coríntios 9:7, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "هل تدفع العشور بدافع الحب... أم خوفًا من الآكل؟ 🦗 #shorts",
+        "description": "هل تدفع العشور بدافع الحب أم خوفًا من الآكل؟ سنناقش ذلك غدًا من منظور الكتاب المقدس. (ملاخي 3: 11 · 2 كورنثوس 9: 7، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "您是出于爱心……还是出于对蝗虫的恐惧而缴纳什一奉献？🦗 #shorts",
+        "description": "是出于爱还是出于对吞噬者的恐惧而缴纳什一奉献？明天我们将对照圣经进行分析。（玛拉基书 3:11 · 哥林多后书 9:7，RVR1960 译本意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "사랑 때문에 십일조를 드리나요... 아니면 삼키는 자에 대한 두려움 때문에 드리나요? 🦗 #shorts",
+        "description": "사랑 때문에 십일조를 내는 것입니까, 아니면 삼키는 자에 대한 두려움 때문에 내는 것입니까? 내일 성경을 통해 살펴보겠습니다. (말라기 3:11 · 고린도후서 9:7, RVR1960 성경 구절 해설) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 된 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "locust close up macro"
-      }
+      },
+      "texto_en": "There are people who tithe out of fear. They were told that if they don't, the devourer will take their money.",
+      "texto_pt": "Há pessoas que dão o dízimo por medo. Disseram-lhes que, se não o fizerem, o devorador acabará com o seu dinheiro.",
+      "texto_ar": "هناك أشخاص يدفعون العشور بدافع الخوف. قيل لهم إنه إذا لم يفعلوا ذلك، فسوف ينهي الآكل أموالهم.",
+      "texto_zh": "有些人出于恐惧而缴纳什一奉献。他们被告知，如果不这样做，吞噬者就会吞噬他们的钱财。",
+      "texto_ko": "두려움 때문에 십일조를 바치는 사람들이 있습니다. 그들은 그렇게 하지 않으면 삼키는 자가 그들의 돈을 다 가져가 버릴 것이라고 들었습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "farm field harvest wind"
-      }
+      },
+      "texto_en": "The verse exists. It is in Malachi 3:11: God promises to rebuke the devourer so that it does not destroy the fruit of the land. But is it a promise or a threat? And who is this devourer in context? Tomorrow, Tuesday, at 6:00 p.m., we will analyze it with the Bible open, verse by verse. And I'll give you a sneak peek: In 2 Corinthians 9, Paul says that God loves a cheerful giver, not one who gives reluctantly or under compulsion. Don't miss out. Subscribe and turn on notifications.",
+      "texto_pt": "O versículo existe. Está em Malaquias 3:11: Deus promete repreender o devorador para que ele não destrua o fruto da terra. Mas é uma promessa ou uma ameaça? E quem é esse devorador no contexto? Amanhã, terça-feira, às seis da tarde, vamos analisá-lo com a Bíblia aberta, versículo por versículo. E vou adiantar uma coisa: em 2 Coríntios 9, Paulo diz que Deus ama o doador alegre, não aquele que dá com tristeza ou por obrigação. Não perca. Inscreva-se e ative o sininho.",
+      "texto_ar": "الآية موجودة. وهي في سفر ملاخي الإصحاح الثالث، الآية الحادية عشرة: الله يعد بتوبيخ الآكل حتى لا يدمر ثمار الأرض. ولكن، هل هو وعد أم تهديد؟ ومن هو هذا الآكل في السياق؟ غدًا الثلاثاء، الساعة السادسة مساءً، سنحلله مع فتح الكتاب المقدس، آيةً تلو الأخرى. وسأخبرك بشيء مسبقًا: في رسالة كورنثوس الثانية الإصحاح التاسع، يقول بولس الرسول إن الله يحب المعطي بفرح، وليس الذي يعطي بحزن أو بإكراه. لا تفوتك. اشترك وفعل الجرس.",
+      "texto_zh": "这节经文确实存在。它出自《玛拉基书》第三章第十一节：神应许要斥责蝗虫，使它不糟蹋地上的出产。但是，这是应许还是威胁？那么，在这种情况下，这个吞噬者是谁呢？明天周二下午六点，我们将打开圣经，逐节分析。我先透露一点：在哥林多后书第九章中，保罗说，神爱喜乐的施予者，而不是那些忧愁或出于义务而施予的人。 千万不要错过。订阅并开启铃铛提醒。",
+      "texto_ko": "그 구절은 존재합니다. 말라기 3장 11절에 있습니다. 하나님께서는 땅의 소산을 삼키는 자를 꾸짖어 그것이 땅의 소산을 망치지 못하게 하시겠다고 약속하십니다. 그런데 이것은 약속일까요, 아니면 위협일까요? 그리고 이 맥락에서 그 삼키는 자는 누구입니까? 내일 화요일 오후 6시에 성경을 펼쳐 놓고 구절별로 분석해 보겠습니다. 그리고 한 가지 미리 말씀드리겠습니다. 고린도후서 9장에서는 바울이 하나님께서는 슬퍼하며 또는 억지로 드리는 자가 아니라 기쁘게 드리는 자를 사랑하신다고 말합니다. 놓치지 마세요. 구독하고 알림을 활성화하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
