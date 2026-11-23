@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-23T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "What if an angel brings you a new message? 😮 #shorts",
+        "description": "Imagine that a being full of light appears to you with a different gospel. Would you accept it? Galatians 1:8 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "E se um anjo lhe trouxer uma nova mensagem? 😮 #shorts",
+        "description": "Imagine que um ser cheio de luz aparece para você com um evangelho diferente. Você o aceitaria? Gálatas 1:8 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "ماذا لو أحضر لك ملاك رسالة جديدة؟ 😮 #shorts",
+        "description": "تخيّل أن كائنًا مليئًا بالنور يظهر لك ببشارة مختلفة. هل ستقبله؟ غلاطية 1: 8 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "如果有一位天使给您带来一条新消息呢？😮 #shorts",
+        "description": "想象一下，一个充满光明的人物向你显现，带来一种不同的福音。你会接受吗？加拉太书 1:8 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "천사가 새로운 메시지를 전해준다면 어떨까요? 😮 #shorts",
+        "description": "빛으로 가득 찬 존재가 다른 복음을 들고 당신에게 나타난다고 상상해 보세요. 그것을 받아들이시겠습니까? 갈라디아서 1:8 1분 안식일학교 더 보기를 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "beam of light through dark clouds over mountains"
-      }
+      },
+      "texto_en": "Imagine that a being full of light appears to you with a different gospel. Would you accept it?",
+      "texto_pt": "Imagine que um ser cheio de luz apareça para você com um evangelho diferente. Você o aceitaria?",
+      "texto_ar": "تخيل أن كائنًا مليئًا بالنور يظهر لك بإنجيل مختلف. هل ستقبله؟",
+      "texto_zh": "想象一下，一个充满光明的存在向您显现，带来一种不同的福音。您会接受吗？",
+      "texto_ko": "빛으로 가득 찬 존재가 다른 복음을 가지고 나타난다고 상상해 보십시오. 받아들이시겠습니까?"
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "old book pages turning in sunlight"
-      }
+      },
+      "texto_en": "Paul answers in Galatians 1, verse 8. He says that even if he himself or an angel from heaven were to proclaim a gospel different from the one they had already received, it should not be accepted. This is the topic of the day in Lesson Nine, Testing the Prophets: In Harmony with the Bible. Notice the order: The messenger is not above the message. Neither brilliance, nor fame, nor the most intense experience can replace what God has already revealed in His Word. A true prophet never contradicts the prophets who came before him. Subscribe and comment on “The Word First.”",
+      "texto_pt": "Paulo responde em Gálatas 1, versículo 8. Ele diz que, mesmo que ele mesmo ou um anjo do céu anunciasse um evangelho diferente daquele que já haviam recebido, ele não deveria ser aceito. É o tema do dia na lição nove, Testando os profetas: em harmonia com a Bíblia. Observe a ordem: o mensageiro não está acima da mensagem. Nem o brilho, nem a fama, nem a experiência mais intensa substituem o que Deus já revelou em Sua Palavra. Um verdadeiro profeta nunca contradiz os profetas anteriores. Inscreva-se e comente \"A Palavra em primeiro lugar\".",
+      "texto_ar": "يجيب بولس في رسالة غلاطية الإصحاح الأول، الآية الثامنة. يقول إنه حتى لو أعلن هو نفسه أو ملاك من السماء إنجيلًا مختلفًا عن الإنجيل الذي تلقوه بالفعل، فلا ينبغي قبوله. هذا هو موضوع اليوم في الدرس التاسع، اختبار الأنبياء: بما يتوافق مع الكتاب المقدس. لاحظ الترتيب: الرسول ليس أعلى من الرسالة. لا يمكن للوهج أو الشهرة أو حتى أقوى تجربة أن تحل محل ما كشفه الله بالفعل في كلمته. لا يتعارض النبي الحقيقي أبدًا مع الأنبياء السابقين. اشترك وعلق على \"الكلمة أولاً\".",
+      "texto_zh": "保罗在加拉太书第一章第八节中作出了回答。他说，即使是他自己或天上的使者传讲与他们已经领受的福音不同的福音，也不应当被接受。这是第 9 课的主题，即检验先知：与圣经一致。请注意顺序：使者并不凌驾于信息之上。无论光彩、名望还是最深刻的经历，都无法取代神已经在祂的话语中启示的内容。 真正的先知绝不会与先前的先知相悖。订阅并评论“先有圣言”。",
+      "texto_ko": "바울은 갈라디아서 1장 8절에서 이에 대해 답합니다. 그는 비록 자신이나 하늘의 천사가 이미 받은 것과 다른 복음을 전한다 해도 받아들여서는 안 된다고 말합니다. 이것이 9과, '선지자들을 시험함: 성경과 일치함'의 오늘의 주제입니다. 순서를 주목하십시오. 전령이 메시지보다 위에 있지 않습니다. 화려함도, 명성도, 가장 강렬한 경험도 하나님께서 이미 그분의 말씀에서 계시하신 것을 대체할 수 없습니다. 참된 선지자는 결코 이전 선지자들과 모순되지 않습니다. 구독하고 '말씀이 먼저'에 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
