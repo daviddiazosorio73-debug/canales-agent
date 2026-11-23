@@ -35,9 +35,31 @@
       "shorts",
       "fe"
     ],
-    "privacidad": "private",
-    "publicar_en": "2026-11-23T02:45:00Z",
-    "lista_id": null
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The saying of Jesus that is not in the Gospels 🤲 #shorts",
+        "description": "Paul quoted a saying of Jesus that does not appear in the four Gospels. (Acts 20:35, paraphrase RVR1960) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "A frase de Jesus que não está nos Evangelhos 🤲 #shorts",
+        "description": "Paulo citou uma frase de Jesus que não aparece nos quatro evangelhos. (Atos 20:35, paráfrase da versão RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "عبارة يسوع التي ليست في الأناجيل 🤲 #shorts",
+        "description": "استشهد بولس بعبارة ليسوع لا تظهر في الأناجيل الأربعة. (أعمال الرسل 20: 35، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "耶稣的一句话，但未见于福音书中 🤲 #shorts",
+        "description": "保罗引用了耶稣的一句话，这句话在四福音书中没有出现。（使徒行传 20:35，RVR1960 译本意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "복음서에 없는 예수님의 말씀 🤲 #shorts",
+        "description": "바울은 네 복음서에 나오지 않는 예수님의 말씀을 인용했습니다. (사도행전 20:35, RVR1960 의역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -48,7 +70,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "old scroll unrolled on table candle"
-      }
+      },
+      "texto_en": "There is a saying of Jesus that is not in Matthew, Mark, Luke, or John. Where did it go?",
+      "texto_pt": "Há uma frase de Jesus que não está em Mateus, nem em Marcos, nem em Lucas, nem em João. Onde ela ficou?",
+      "texto_ar": "هناك عبارة ليسوع غير موجودة في متى، ولا في مرقس، ولا في لوقا، ولا في يوحنا. أين ذهبت؟",
+      "texto_zh": "有一句耶稣的话既没有出现在《马太福音》中，也没有出现在《马可福音》、《路加福音》或《约翰福音》中。它在哪里？",
+      "texto_ko": "마태복음, 마가복음, 누가복음, 요한복음 어디에도 없는 예수님의 말씀이 있습니다. 그 말씀은 어디에 있을까요?"
     },
     {
       "id": "mensaje",
@@ -58,7 +85,19 @@
       "emocion": "enfasis",
       "visual": {
         "query": "hands passing a gift box warm light"
-      }
+      },
+      "texto_en": "It is in Acts 20, verse 35. Paul says goodbye to the elders of Ephesus and reminds them that he worked with his hands to help those in need, remembering the words of the Lord Jesus: It is more blessed to give than to receive. Think about it: The world measures happiness by what it accumulates; Jesus measures it by what it gives. That is the difference between two principles at war. Tomorrow, Monday, at six in the evening, we will study it in chapter four of Counsels on Stewardship. Subscribe and comment: \"Giving.\"",
+      "texto_pt": "Está em Atos vinte, versículo trinta e cinco. Paulo se despede dos anciãos de Éfeso e lhes lembra que trabalhou com as próprias mãos para ajudar os necessitados, lembrando-se das palavras do Senhor Jesus: mais bem-aventurado é dar do que receber. Pense nisso: o mundo mede a felicidade pelo que acumula; Jesus a mede pelo que dá. Essa é a diferença entre dois princípios em guerra. Amanhã, segunda-feira, às seis da tarde, estudaremos isso no capítulo quatro de Conselhos sobre mordomia cristã. Inscreva-se e comente: \"Dar\".",
+      "texto_ar": "إنها في سفر أعمال الرسل العشرين، الآية خمسة وثلاثون. يودع بولس شيوخ أفسس ويذكرهم بأنه عمل بيده لمساعدة المحتاجين، متذكرًا كلمات الرب يسوع: الطوبى للعطاء أكثر من الأخذ. فكر في الأمر: العالم يقيس السعادة بما يجمعه؛ أما يسوع فيقيسها بما يعطيه. هذا هو الفرق بين مبدأين متصارعين. غدًا الاثنين، الساعة السادسة مساءً، سندرس ذلك في الفصل الرابع من كتاب \"نصائح حول الإشراف المسيحي\". اشترك وعلق: \"العطاء\".",
+      "texto_zh": "这句话出自《使徒行传》第二十章第三十五节。保罗与以弗所的长老们告别，并提醒他们，他亲手劳作以帮助有需要的人，同时他也记住了主耶稣的话：施比受更有福。想想看：世人以积累的财富来衡量幸福；耶稣则以给予来衡量幸福。这就是两个对立原则之间的区别。 明天周一，下午六点，我们将学习《基督徒管家职责的忠告》第四章。订阅并留言：“奉献”。",
+      "texto_ko": "사도행전 20장 35절에 나옵니다. 바울은 에베소의 장로들에게 작별 인사를 하면서 자신이 손수 일하여 궁핍한 사람들을 도왔음을 상기시키고, 주 예수님의 말씀을 기억하라고 합니다. 주는 것이 받는 것보다 복이 있다. 생각해 보세요. 세상은 축적하는 것으로 행복을 측정하지만, 예수님은 베푸는 것으로 행복을 측정하십니다. 이것이 서로 대립하는 두 가지 원칙의 차이입니다. 내일 월요일 오후 6시에 우리는 '기독교 청지기직에 대한 권면'의 4장을 공부합니다. 구독하고 '주다'에 대해 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
