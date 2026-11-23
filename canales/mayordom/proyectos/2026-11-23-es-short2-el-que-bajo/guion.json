@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-23T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Everyone wants to go up. He decided to go down ⬇️ #shorts",
+        "description": "Jesus, though He was rich, became poor for our sake. Today we begin Chapter 4 of Counsels on Stewardship. (2 Corinthians 8:9 · Mark 10:45, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Todo mundo quer subir. Ele decidiu descer ⬇️ #shorts",
+        "description": "Jesus, sendo rico, fez-se pobre por amor a nós. Hoje, começamos o capítulo 4 de Conselhos sobre mordomia cristã. (2 Coríntios 8:9 · Marcos 10:45, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الجميع يريد الصعود. قرر هو النزول ⬇️ #shorts",
+        "description": "يسوع، وهو غني، أصبح فقيرًا من أجل محبتنا. نبدأ اليوم الفصل الرابع من كتاب \"نصائح حول الإشراف المسيحي\". (2 كورنثوس 8: 9 · مرقس 10: 45، تفسير RVR1960) اشترك في مايور دوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "人人都想往上爬。他却决定往下走⬇️ #shorts",
+        "description": "耶稣本是富足的，却为爱我们而甘愿贫穷。今天，我们开始学习《基督徒管家职责的忠告》第 4 章。（哥林多后书 8:9 · 马可福音 10:45，RVR1960 译本意译）订阅“管家”· 圣经式管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "모두가 올라가고 싶어 합니다. 그는 내려가기로 했습니다. ⬇️ #shorts",
+        "description": "예수님께서는 부유하셨지만 우리를 사랑하셔서 가난하게 되셨습니다. 오늘 우리는 기독교 청지기직에 대한 조언의 제4장을 시작합니다. (고린도후서 8:9 · 마가복음 10:45, RVR1960 번역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "city skyline climbing ladder"
-      }
+      },
+      "texto_en": "We all want to move up: in position, in income, in status. But there was someone who had it all and decided to come down.",
+      "texto_pt": "Todos queremos subir: de cargo, de renda, de nível. Mas houve alguém que tinha tudo e decidiu descer.",
+      "texto_ar": "نريد جميعًا الارتقاء: في المنصب، والدخل، والمستوى. لكن كان هناك شخص لديه كل شيء وقرر النزول.",
+      "texto_zh": "我们都想往上爬：升职、加薪、晋级。但有个人拥有了一切，却决定放下。",
+      "texto_ko": "우리 모두는 직급, 수입, 수준을 높이고 싶어 합니다. 하지만 모든 것을 가졌음에도 불구하고 내려오기로 결심한 분이 계셨습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "calido",
       "visual": {
         "query": "humble servant washing basin"
-      }
+      },
+      "texto_en": "Paul tells us about it in 2 Corinthians 8:9: For you know the grace of our Lord Jesus Christ, that though he was rich, yet for your sake he became poor, so that you by his poverty might become rich. And Mark 10 says that he did not come to be served, but to serve and to give his life. There are the two principles of this chapter: one goes up by taking, the other comes down by giving. Today, at 6:00 p.m., we begin chapter four of Counsels on Stewardship by Ellen G. White: Conflicting Principles of Christ and Satan. Where does selfishness come from, and why does God respond with generosity? I'll be waiting for you.",
+      "texto_pt": "Paulo conta isso em 2 Coríntios 8, 9: Jesus, sendo rico, fez-se pobre por amor a nós, para que, com a sua pobreza, fôssemos enriquecidos. E Marcos 10 diz que Ele não veio para ser servido, mas para servir e dar a Sua vida. Aí estão os dois princípios deste capítulo: um sobe tomando, o outro desce dando. Hoje, às seis da tarde, começamos o capítulo quatro de Conselhos sobre mordomia cristã, de Ellen G. White: Princípios conflitantes de Cristo e Satanás. De onde vem o egoísmo e por que Deus responde com generosidade? Espero por você.",
+      "texto_ar": "يروي بولس ذلك في رسالته الثانية إلى أهل كورنثوس الإصحاح الثامن، الآية التاسعة: يسوع، وهو غني، صار فقيرًا من أجلنا، لكي نُغنى نحن بفقره. ويقول إنجيل مرقس العاشر إنه لم يأت ليُخدَم، بل ليَخدِمَ ويبذل حياته. هذان هما المبدآن في هذا الإصحاح: أحدهما يصعد آخذًا، والآخر ينزل معطيًا. اليوم، في الساعة السادسة مساءً، سنبدأ الفصل الرابع من كتاب \"نصائح حول الإشراف المسيحي\" لإلين جي وايت: المبادئ المتضاربة للمسيح والشيطان. من أين تأتي الأنانية، ولماذا يستجيب الله بسخاء؟ في انتظارك.",
+      "texto_zh": "保罗在哥林多后书第八章和第九章中讲述了这一点：耶稣本是富足的，却为我们的缘故成了贫穷的，为要叫我们因他的贫穷得以富足。《马可福音》第十章说，祂来不是要受人服侍，而是要服侍人，并舍命。这就是本章的两个原则：一个通过索取而上升，另一个通过给予而下降。 今天下午六点，我们将开始学习怀爱伦所著《基督徒管家工作指南》的第四章：基督与撒但的对立原则。自私来自哪里？为什么上帝以慷慨来回应？我在这里等你。",
+      "texto_ko": "바울은 고린도후서 8장 9절에서 이렇게 말합니다. 예수님께서는 부유하시면서도 우리를 위하여 가난하게 되셨으니, 이는 그분의 가난함으로 말미암아 우리가 부유하게 되게 하려는 것이었습니다. 그리고 마가복음 10장에서는 예수님께서 섬김을 받으러 오신 것이 아니라 섬기러 오셨고, 당신의 목숨을 대가로 내어주셨다고 말씀합니다. 이 장의 두 가지 원칙이 여기에 있습니다. 하나는 취하면서 올라가고, 다른 하나는 주면서 내려갑니다. 오늘 오후 6시에 엘렌 화이트의 '기독교 청지기 직분에 대한 권면' 제4장 '그리스도와 사탄의 상반되는 원리'를 시작합니다. 이기심은 어디에서 비롯되며, 하나님께서는 왜 관대함으로 응답하십니까? 여러분을 기다리겠습니다."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
