@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "God moved into your neighborhood 🏠 #shorts",
+        "description": "The God who created the galaxies decided something that no human religion ever imagined. John 1:14 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Deus se mudou para o seu bairro 🏠 #shorts",
+        "description": "O Deus que criou as galáxias decidiu algo que nenhuma religião humana imaginou. João 1:14 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "انتقل الله إلى حيك 🏠 #shorts",
+        "description": "قرر الإله الذي خلق المجرات شيئًا لم تتخيله أي ديانة بشرية. يوحنا 1:14 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "上帝搬到了您的街区 🏠 #shorts",
+        "description": "创造星系的上帝做出了一个任何人类宗教都无法想象的决定。约翰福音 1:14 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님께서 여러분의 동네로 이사오셨습니다 🏠 #shorts",
+        "description": "은하계를 창조하신 하나님께서는 그 어떤 인간의 종교도 상상하지 못한 일을 결정하셨습니다. 요한복음 1:14 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "spiral galaxy in deep space"
-      }
+      },
+      "texto_en": "The God who created the galaxies decided something that no human religion ever imagined.",
+      "texto_pt": "O Deus que criou as galáxias decidiu algo que nenhuma religião humana imaginou.",
+      "texto_ar": "قرر الإله الذي خلق المجرات شيئًا لم تتخيله أي ديانة بشرية.",
+      "texto_zh": "创造星系的上帝做出了一项人类任何宗教都无法想象的决定。",
+      "texto_ko": "은하계를 창조하신 하나님께서는 어떤 인간의 종교도 상상하지 못한 일을 결정하셨습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "small village houses with warm lights at dusk"
-      }
+      },
+      "texto_en": "John 1:14 teaches that the eternal Word became human and lived among us, and that the witnesses saw in him a glory full of grace and truth. This is the heart of today's topic in lesson nine: the incarnation of Christ. God did not just send a message; He came Himself. He took on a human body, walked in the dust, was hungry and tired. That's why John uses it as proof: A message from God always exalts that real Jesus, fully God and fully man. If a message leaves Him out, something is missing. Subscribe and comment \"Emanuel.\"",
+      "texto_pt": "João 1, versículo 14, ensina que o Verbo eterno se fez homem e habitou entre nós, e que as testemunhas viram nele uma glória cheia de graça e verdade. É o cerne do tema de hoje na lição nove: a encarnação de Cristo. Deus não enviou apenas uma mensagem; Ele mesmo veio. Ele assumiu um corpo humano, caminhou pela poeira, sentiu fome e cansaço. É por isso que João a usa como prova: uma mensagem de Deus sempre exalta esse Jesus real, plenamente Deus e plenamente homem. Se uma mensagem o deixa de lado, algo está faltando. Inscreva-se e comente \"Emanuel\".",
+      "texto_ar": "يعلمنا إنجيل يوحنا الإصحاح الأول، الآية الرابعة عشرة، أن الكلمة الأبدية تجسدت وعاشت بيننا، وأن الشهود رأوا فيه مجدًا مليئًا بالنعمة والحق. هذا هو جوهر موضوع اليوم في الدرس التاسع: تجسد المسيح. لم يرسل الله مجرد رسالة؛ بل جاء بنفسه. اتخذ جسدًا بشريًا، وسار على التراب، وجاع وتعب. لهذا السبب يستخدمها يوحنا كدليل: الرسالة من الله تمجد دائمًا ذلك يسوع الحقيقي، الإله الكامل والإنسان الكامل. إذا تجاهلت رسالة ما هذا الأمر، فهناك شيء ناقص. اشترك وعلق بكلمة \"عمانوئيل\".",
+      "texto_zh": "约翰福音第一章第十四节教导我们，永恒的道成了人，住在我们中间，见证人们在他身上看到了充满恩典和真理的荣耀。这是今天第九课主题的核心：基督的道成肉身。神不仅传达了信息，祂还亲自降临。他取了人的身体，在尘世中行走，经历饥饿和疲倦。 这就是为什么约翰用它作为证据：来自上帝的信息总是颂扬那位真实的耶稣，祂完全是神，也完全是人。如果某条信息将他置于一边，那么就缺少了某些东西。订阅并评论“以马内利”。",
+      "texto_ko": "요한복음 1장 14절은 영원한 말씀이 사람이 되셔서 우리 가운데 거하셨으며, 증인들이 그분 안에서 은혜와 진리로 충만한 영광을 보았다고 가르칩니다. 이것이 오늘 9과에서 다룰 주제의 핵심입니다. 바로 그리스도의 성육신입니다. 하나님께서는 단지 메시지만 보내신 것이 아니라 친히 오셨습니다. 그분은 인간의 몸을 취하시고, 흙먼지 속을 걸으시며, 굶주리고 피곤하셨습니다. 그래서 요한은 그것을 증거로 사용합니다. 하나님의 메시지는 언제나 온전히 하나님이시며 온전히 사람이신 그 진정한 예수님을 높입니다. 어떤 메시지가 그분을 소홀히 한다면, 뭔가 부족한 것입니다. 구독하고 '임마누엘'이라고 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
