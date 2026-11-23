@@ -1,0 +1,25 @@
+name: Probar traductor (diagnóstico)
+on:
+  workflow_dispatch: {}
+jobs:
+  probar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q deep-translator edge-tts
+      - name: Traductores
+        run: |
+          python - <<'PY'
+          import traceback
+          from deep_translator import GoogleTranslator, MyMemoryTranslator
+          for nombre, f in [("google", lambda d: GoogleTranslator(source="es", target=d).translate("Más bienaventurado es dar que recibir.")),
+                            ("mymemory", lambda d: MyMemoryTranslator(source="es-ES", target={"zh-CN":"zh-CN","ko":"ko-KR","en":"en-GB","ar":"ar-SA","pt":"pt-BR"}[d]).translate("Más bienaventurado es dar que recibir."))]:
+              for d in ["en", "zh-CN", "ko", "ar", "pt"]:
+                  try:
+                      print(nombre, d, "OK", f(d))
+                  except Exception as e:
+                      print(nombre, d, "ERROR", type(e).__name__, str(e)[:300])
+          PY
+      - name: Voces
+        run: edge-tts --list-voices | grep -E "^(ar-SA-HamedNeural|zh-CN-YunxiNeural|ko-KR-InJoonNeural|en-US-AndrewNeural|pt-BR-AntonioNeural) " || edge-tts --list-voices | grep -E "ar-SA|zh-CN-Yun|ko-KR" | head

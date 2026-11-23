@@ -33,9 +33,10 @@ def traductor(origen, destino):
                     buf += p + "\n"
                 partes.append(buf)
                 return "\n".join(t.translate(x.rstrip("\n")) or "" for x in partes if x.strip()).strip()
-            except Exception:
+            except Exception as ex:
+                ultimo = f"{type(ex).__name__}: {str(ex)[:200]}"
                 time.sleep(2 + 3 * intento)
-        raise RuntimeError(f"traducción {origen}->{destino} falló")
+        raise RuntimeError(f"traducción {origen}->{destino} falló ({ultimo})")
     return f
 
 
