@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Who's the malachi devour? Read the context #shorts",
+        "description": "The devour of Malachi 3: 11 appears in a growing context. And text's a promise, not a threat. (Malachi 3: 11 · Deuteronomy 28: 38, paraphrase RVR1960)\n\nSubscribe to MayorDom · Biblical Mayordomy. Narration with a synthetic voice. Shorts"
+      },
+      "pt": {
+        "title": "Quem é o Malachi? Ler o contexto #shorts",
+        "description": "O devorador de Malaquias 3: 11 aparece num contexto crescente. E mensagem é uma promessa, não uma ameaça. (Malachi 3: 11 · Deuteronômio 28: 38, parafrase RVR1960)\n\nAssine a MayorDom · Mayordomy Bíblica. Narração com uma voz sintética. Calções"
+      },
+      "ar": {
+        "title": "من هو (مالاتشي ديفور)؟ اقرأ السياق #shorts",
+        "description": "The devour of Malachi 3: 11 appears in a growing context. والنص وعد وليس تهديد (Malachi 3: 11 · Deuteronomy 28: 38, paraphrase RVR1960)\n\nSubscribe to MayorDom · Biblical Mayordomy. الغضب مع صوت اصطناعي قصيرة"
+      },
+      "zh-Hans": {
+        "title": "谁是恶棍? 阅读上下文 #shorts",
+        "description": "吞噬马拉奇3:11出现于不断增长的背景中. 而文本是承诺,不是威胁. (马拉奇3:11) 脱胎造型 28:38, 引文为RVR1960\n\n向多姆市长订阅圣经市长领地。 以合成声闻. 短裤"
+      },
+      "ko": {
+        "title": "모라치 devour는 누구입니까? 자주 묻는 질문 #shorts",
+        "description": "Malachi 3 : 11의 devour는 성장 상황에 나타납니다. 그리고 텍스트의 약속은 위협이 아닙니다. (말라치 3 : 11 · 자궁 28 : 38, 파라페라세 RVR1960)\n\nMarketDom · Biblical Mayordomy에 가입하십시오. 합성 음성과 비교. 이름 *"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "wheat field golden close"
-      }
+      },
+      "texto_en": "They told you the devour's coming for your salary if you don't title. But did you read the whole verse?",
+      "texto_pt": "Disseram-te que o devorado vem buscar o teu salário se não titulares. Mas você leu o versículo inteiro?",
+      "texto_ar": "لقد أخبروك أن المأمور قادم من أجل راتبك إن لم يكن لك الحق ولكن هل قرأت كل الآية؟",
+      "texto_zh": "禗狦⊿Τ  devour碞穦ㄓт窥 但你读了整首诗吗?",
+      "texto_ko": "그들은 당신이 제목을하지 않는 경우 당신의 급여에 대한 devour의 오는 말했다. 그러나 당신은 전체 구절을 읽었다?"
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "grapevine vineyard sunlight"
-      }
+      },
+      "texto_en": "Malachi 3, 11, says that God will rebuke the devour so that He will not destroy the fruit of the earth, and his vine in the field will be sterile. It's a growing language. Moses had already warned at Deuteronomy about 28 of the lobster that consumes the seed and Joel describes these pestilations. That's why several modern translations translate them as lobster or plague. The important thing: in the text, God doesn't threaten. Promise to protect. Today at 6: 00 p.m., complete analysis. Subscribe.",
+      "texto_pt": "Malaquias 3, 11, diz que Deus repreenderá o devorador para que não destrua o fruto da terra, e sua videira no campo será estéril. É uma linguagem crescente. Moisés já havia avisado em Deuteronômio sobre 28 da lagosta que consome a semente e Joel descreve essas pestilações. É por isso que várias traduções modernas traduzi-los como lagosta ou praga. O importante: no texto, Deus não ameaça. Promete proteger-te. Hoje às 18:00, análise completa. Assina.",
+      "texto_ar": "مالاتشي 3، 11، يقول أن الله سيعيد إحياء المفترس حتى لا يدمر فاكهة الأرض إنها لغة متنامية وقد حذر موسى بالفعل في ديترونومي حوالي 28 من سرطان البحر الذي يستهلك البذرة ويصف جويل هذه التشويشات. لهذا السبب العديد من الترجمات الحديثة تترجمها كسرطان أو طاعون الشيء المهم: في النص، الله لا يهدد. عدني بأن تحمي اليوم في الساعة السادسة مساء، تحليل كامل. التصويب",
+      "texto_zh": "玛拉奇3,11,表示上帝会斥责吞噬,以免破坏大地的果实,而田里的藤本也无菌. 渐渐增长语言. 摩西已经在Deuteronomy警告过28只食用种子的龙虾,乔尔描述了这些瘟疫. 因此,几部现代译本将其译为龙虾或瘟疫. 重要的是:在文字中,上帝不会威胁. 答应保护。 今天下午6点,完成分析 订阅.",
+      "texto_ko": "Malachi 3, 11, 하나님은 그가 땅의 과일을 파괴하지 않을 것이라는 죄를 사귀게하는 것을 말한다, 그리고 필드에 그의 포도는 멸망한다. 그것은 성장 언어입니다. 모세는 이미 시드와 요엘을 소비하는 랍스터의 28에 대한 자궁에 경고했다. 그것은 몇 가지 현대 번역은 랍스터 또는 plague로 번역. 중요한 일 : 텍스트에서 하나님은 위협하지 않습니다. 보호하는 약속. 오늘 6 : 00 pm, 전체 분석. 이름 *"
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
