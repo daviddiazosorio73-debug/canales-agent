@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "God set up your tent among us? #shorts",
+        "description": "The Creator of the universe has decided to live near you. And the Gospel of John uses a very special word to say this.\n\nJohn 1:14\n\nSign up for more Sabatina School in one minute. Narration with a synthetic voice. #shorts"
+      },
+      "ar": {
+        "title": "خلق الله خيمتك بيننا؟ #shorts",
+        "description": "خالق الكون قرر أن يعيش بالقرب منك و (جوسبيل جون) يستخدم كلمة خاصة جداً لقول هذا\n\nجون 1: 14\n\nوقّعْ للمزيد من مدرسةِ ساباتينا في دقيقةِ واحدة. الغضب مع صوت اصطناعي #"
+      },
+      "zh-Hans": {
+        "title": "上帝在咱们中间安排你的帐篷? #shorts",
+        "description": "宇宙的造物主决定 住在你身边。 而\"约翰福音\"则用一个非常特别的词来表达这一点.\n\n约翰1:14\n\n一分钟后报名参加更多的萨巴蒂纳学校. 以合成声闻. 短裤"
+      },
+      "ko": {
+        "title": "하나님은 우리 사이에 당신의 텐트를 설정? #shorts",
+        "description": "우주의 창조자는 당신 가까이에 살고 결정했다. 요한 복음은이 말을 매우 특별한 단어를 사용합니다.\n\n존 1:14\n\n1 분에 Sabatina 학교에 가입하십시오. 합성 음성과 비교. #짧은"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "tent in desert at night under starry sky"
-      }
+      },
+      "texto_en": "The Creator of the universe has decided to live near you. And the Gospel of John uses a very special word to say this.",
+      "texto_ar": "خالق الكون قرر أن يعيش بالقرب منك و (جوسبيل جون) يستخدم كلمة خاصة جداً لقول هذا",
+      "texto_zh": "宇宙的造物主决定 住在你身边。 而\"约翰福音\"则用一个非常特别的词来表达这一点.",
+      "texto_ko": "우주의 창조자는 당신 가까이에 살고 결정했다. 요한 복음은이 말을 매우 특별한 단어를 사용합니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "warm lantern light inside simple tent"
-      }
+      },
+      "texto_en": "John one, verse fourteen. The Word became flesh and dwelt among us, full of grace and truth. The Greek word translated as Habitus recalls setting up a tent: God came to camp among his people, as in the sanctuary of the wilderness. It is today's theme of lesson nine, testing the prophets: the incarnation of Christ. Jesus did not pretend to be human. He got tired, cried, and felt hungry. God really came close. Therefore, a message that denies the real humanity of Christ does not come from God. Comment “God near me”.",
+      "texto_ar": "(جون) واحد، أربعة عشر الكلمات أصبحت لحماً و دائباً بيننا مليئة بالنعمة والحقيقة الكلمة اليونانية التي ترجمت إلى هابيتوس تشير إلى إنشاء خيمة: جاء الله إلى معسكر بين شعبه، كما في ملاذ البرية. إنه موضوع اليوم للدرس التاسع، اختبار الأنابيب: حبس المسيح المسيح لم يتظاهر بأنه بشري لقد تعب و بكى وشعر بالجوع لقد اقترب الله لذلك، رسالة تنكر الإنسانية الحقيقية للمسيح لا تأتي من الله. تعليق &quot; الله بالقرب مني &quot; .",
+      "texto_zh": "约翰一号,十四节 世言化为肉身,居于我们中间,充满恩惠和真理. 希腊语中译为Habitus的词, 真主在他的百姓中安营扎寨,犹如在荒野的避难所一样。 这是今天第九课的主题,考验先知:基督的化身. 耶稣没有假装是人类。 他累了,哭了,感到饿了。 上帝真的亲近了 因此,否认基督真实人性的信息并非来自上帝. 评论“靠近我的上帝”。",
+      "texto_ko": "존 하나, 구 4teen. 낱말은 우리 가운데 살이 되고, 은혜와 진리의 가득. Habitus recalls로 번역 된 그리스어 단어는 텐트를 설정 : 하나님은 그의 백성들 중 하나로서 그의 백성들 중의 캠프에 왔습니다. 그것은 오늘의 주제의 교훈 9, 선지자를 테스트: 그리스도의 신화. 예수님은 인간이 되지 않았다. 그는 피곤하고 선명하고, 배고픈 느낌. 안녕하세요. 그러므로, 그리스도의 실제 인류가 하나님으로부터 오지 않는 메시지. 댓글 “내 근처의 거들”."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
