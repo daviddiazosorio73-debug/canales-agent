@@ -33,9 +33,27 @@
       "shorts"
     ],
     "categoria_id": "24",
-    "privacidad": "private",
-    "publicar_en": "2026-11-23T05:00:00Z",
-    "lista_id": null
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais curtido na África esta semana 🏆 #shorts",
+        "description": "O pódio dos vídeos mais curtidos na África esta semana. Contagem regressiva completa, de 10 a 1: https://youtu.be/slmk1GoIIPg Dados da API oficial do YouTube. Narração com voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر إعجابًا في أفريقيا هذا الأسبوع 🏆 #shorts",
+        "description": "منصة الفيديوهات الأكثر إعجابًا في أفريقيا هذا الأسبوع. العد التنازلي الكامل، من 10 إلى 1: https://youtu.be/slmk1GoIIPg البيانات من واجهة برمجة التطبيقات الرسمية لـ YouTube. سرد صوتي اصطناعي. #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周非洲点赞最多的视频🏆 #shorts",
+        "description": "本周非洲点赞数最多的视频榜单。完整倒计时，从第 10 名到第 1 名：https://youtu.be/slmk1GoIIPg 数据来自 YouTube 官方 API。合成语音旁白。#Top10RS #shorts"
+      },
+      "ko": {
+        "title": "이번 주 아프리카에서 가장 많은 '좋아요'를 받은 동영상 🏆 #shorts",
+        "description": "이번 주 아프리카에서 가장 많은 '좋아요'를 받은 동영상 순위. 10위부터 1위까지 전체 순위: https://youtu.be/slmk1GoIIPg 공식 YouTube API에서 제공하는 데이터입니다. 인공 음성 내레이션. #Top10RS #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most liked video in Africa this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "7ay1oyfGnTw",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais curtido na África esta semana? Aqui está o pódio. Assista até o final.",
+      "texto_ar": "ما هو الفيديو الأكثر إعجابًا في أفريقيا هذا الأسبوع؟ إليكم منصة التتويج. شاهد حتى النهاية.",
+      "texto_zh": "本周非洲最受欢迎的视频是哪一个？这是前三名。请看到最后。",
+      "texto_ko": "이번 주 아프리카에서 가장 많은 '좋아요'를 받은 동영상은 무엇일까요? 순위는 다음과 같습니다. 끝까지 시청하세요."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "Calm man",
       "cifra": 203389,
-      "categoria": "LIKES"
+      "categoria": "LIKES",
+      "texto_pt": "Em terceiro lugar, A briga entre os dois casais., de Calm man, com mais de 203 mil curtidas.",
+      "texto_ar": "في المركز الثالث، \"المشاجرة بين الزوجين\"، بواسطة كالم مان، مع أكثر من 203 آلاف إعجاب.",
+      "texto_zh": "排名第三的是Calm man的《两对情侣的争吵》，获得了超过20.3万个赞。",
+      "texto_ko": "3위는 Calm man의 '두 커플 간의 싸움'으로, 20만 3천 개 이상의 '좋아요'를 받았습니다."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Saqib Saifi",
       "cifra": 254038,
-      "categoria": "LIKES"
+      "categoria": "LIKES",
+      "texto_pt": "Em segundo lugar, Hindu Bahu in a Muslim Family - Part 1 (Nora hindu em uma família muçulmana - Parte 1), de Saqib Saifi, com mais de 254 mil curtidas.",
+      "texto_ar": "في المرتبة الثانية، \"هندوسية زوجة في عائلة مسلمة - الجزء 1\"، تأليف صاقب صيفي، مع أكثر من 254 ألف إعجاب.",
+      "texto_zh": "排名第二的是Saqib Saifi的《穆斯林家庭中的印度教儿媳——第1集》，获得了超过25.4万个赞。",
+      "texto_ko": "2위는 사킵 사이피(Saqib Saifi)의 '무슬림 가정의 힌두교 신부 - 1부'로, 25만 4천 개 이상의 '좋아요'를 받았습니다."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "Greg Batocabe",
       "cifra": 281822,
-      "categoria": "LIKES"
+      "categoria": "LIKES",
+      "texto_pt": "E em primeiro lugar: \"Bros hair is a whip\", de Greg Batocabe, com mais de 281 mil curtidas.",
+      "texto_ar": "والصورة الأولى: شعر الأخ هو سوط، بواسطة غريغ باتوكابي، مع أكثر من 281 ألف إعجاب.",
+      "texto_zh": "第一名是Greg Batocabe的《兄弟的头发像鞭子》，获得了超过28.1万个赞。",
+      "texto_ko": "그리고 1위는 그렉 바토카베(Greg Batocabe)의 '형제의 머리카락은 채찍이다'로, 28만 1천 개 이상의 '좋아요'를 받았습니다."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "7ay1oyfGnTw",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva completa, de dez a um, já está no canal. Você encontra na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، موجود بالفعل على القناة. ستجدونه في الوصف. هاشتاغ Top 10 RS.",
+      "texto_zh": "从十到一的完整倒计时已经发布到频道上了。在描述中可以找到。话题标签：Top 10 RS。",
+      "texto_ko": "10부터 1까지의 전체 카운트다운은 이미 채널에 올라와 있습니다. 설명에서 찾아보세요. 해시태그 Top 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
