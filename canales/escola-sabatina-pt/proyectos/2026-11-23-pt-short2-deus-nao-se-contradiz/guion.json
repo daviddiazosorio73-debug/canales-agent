@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-23T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Can God say one thing today and the opposite tomorrow? #shorts",
+        "description": "If God spoke yesterday, can He say the opposite today? The answer explains a test that no false message can pass. Numbers 23:19 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "هل يمكن لله أن يقول شيئًا اليوم ويقول العكس غدًا؟ #shorts",
+        "description": "إذا كان الله قد تكلم بالأمس، فهل يمكنه أن يقول العكس اليوم؟ يوضح الجواب اختبارًا لا تستطيع أي رسالة كاذبة اجتيازه. سفر العدد 23: 19 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "难道上帝今天说的话，明天就会变卦吗？ #shorts",
+        "description": "如果神昨天说了话，祂今天会说相反的话吗？答案解释了一种任何虚假信息都无法通过的检验。民数记 23:19 订阅，即可在 1 分钟内了解更多安息日学的内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님께서 오늘 한 가지를 말씀하시고 내일은 그 반대를 말씀하실 수 있습니까? #shorts",
+        "description": "하나님께서 어제 말씀하셨다면, 오늘 그 반대의 말씀을 하실 수 있을까요? 답은 어떤 거짓 메시지도 통과할 수 없는 시험에 대해 설명합니다. 민수기 23:19 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "ancient stone pillar standing in desert at sunrise"
-      }
+      },
+      "texto_en": "If God spoke yesterday, can he say the opposite today? The answer explains a test that no false message can pass.",
+      "texto_ar": "إذا كان الله قد تكلم بالأمس، فهل يمكنه أن يقول العكس اليوم؟ يوضح الجواب اختبارًا لا تستطيع أي رسالة زائفة اجتيازه.",
+      "texto_zh": "如果上帝昨天说了话，祂今天还会说相反的话吗？答案解释了一种任何虚假信息都无法通过的检验。",
+      "texto_ko": "하나님께서 어제 말씀하셨다면, 오늘 그 반대의 말씀을 하실 수 있을까요? 답은 그 어떤 거짓 메시지도 통과할 수 없는 시험에 대해 설명합니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "compass needle steady on old paper map"
-      }
+      },
+      "texto_en": "Numbers twenty-three, verse nineteen. God is not a man, that he should lie, nor a son of man, that he should change his mind. What He promises, He fulfills. If God does not contradict Himself, the message that comes from Him will also not contradict what He has already revealed. Therefore, in today's topic for lesson nine, Putting the Prophets to the Test, in harmony with the Bible, the test is simple and powerful: place the new message alongside Scripture. If the two agree, there is consistency. If one contradicts the other, it is the message that needs to give way, never the Word. God's truth is consistent from beginning to end. Comment on \"God does not change.\"",
+      "texto_ar": "سفر العدد، الإصحاح الثالث والعشرون، الآية التاسعة عشرة. الله ليس إنسانًا فيكذب، ولا ابن إنسان فيندم. ما يعد به، يفي به. إذا كان الله لا يناقض نفسه، فإن الرسالة التي تأتي منه لن تناقض أيضًا ما كشفه بالفعل. لذلك، في موضوع الدرس التاسع اليوم، اختبار الأنبياء، بما يتوافق مع الكتاب المقدس، فإن الاختبار بسيط وقوي: ضع الرسالة الجديدة جنبًا إلى جنب مع الكتاب المقدس. إذا اتفق الاثنان، فهناك اتساق. إذا تعارضت إحداهما مع الأخرى، فإن الرسالة هي التي يجب أن تتنازل، وليس الكلمة أبدًا. حقيقة الله متسقة من البداية إلى النهاية. علق على عبارة \"الله لا يتغير\".",
+      "texto_zh": "民数记二十三章十九节。神非人，必不致说谎，也非人子，必不致后悔。祂所应许的，祂必会兑现。如果神不会自相矛盾，那么来自祂的信息也不会与祂已经启示的内容相矛盾。因此，在今天的第九课主题“检验先知是否与圣经一致”中，检验方法既简单又有效：将新信息与圣经对照。如果两者一致，那么就存在一致性。 如果两者发生冲突，需要让步的是信息，而不是圣言。神的真理从头到尾都是一致的。请就“上帝不会改变”发表评论。",
+      "texto_ko": "민수기 23장 19절. 하나님은 거짓말하는 사람이 아니시며 후회하는 사람의 아들도 아니십니다. 그분께서 약속하신 것은 이루십니다. 하나님께서 모순되지 않으신다면, 그분에게서 오는 메시지도 그분이 이미 계시하신 것과 모순되지 않을 것입니다. 그러므로 오늘 9과 '성경과 일치하는지 선지자들을 시험하기'의 주제에서 시험은 간단하면서도 강력합니다. 새로운 메시지를 성경과 나란히 놓아보십시오. 둘이 일치하면 일관성이 있습니다. 둘이 서로 충돌한다면 양보해야 할 것은 메시지이며, 결코 말씀이 아닙니다. 하나님의 진리는 처음부터 끝까지 일관됩니다. \"하나님은 변하지 않으십니다\"에 대해 말씀해 주십시오."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
