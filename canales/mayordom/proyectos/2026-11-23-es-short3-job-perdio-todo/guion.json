@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "He lost everything… and it wasn't for lack of faith 🌪️ #shorts",
+        "description": "Job lost everything, and he was not unfaithful. Be careful about saying that every loss is punishment for not giving. (Job 1:1, 9–11, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Ele perdeu tudo… e não foi por falta de fé 🌪️ #shorts",
+        "description": "Jó perdeu tudo e não era infiel. Cuidado ao dizer que toda perda é um castigo por não dar. (Jó 1:1, 9-11, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "فقد كل شيء... ولم يكن ذلك بسبب نقص الإيمان 🌪️ #shorts",
+        "description": "فقد أيوب كل شيء ولم يكن غير مخلص. احذر من القول إن كل خسارة هي عقاب على عدم العطاء. (أيوب 1: 1، 9-11، شرح RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "他失去了一切……但这并不是因为缺乏信心🌪️ #shorts",
+        "description": "约伯失去了一切，但他并没有不忠。不要轻易说每一次损失都是因为不施舍而受到的惩罚。（约伯记 1:1、9-11，RVR1960 意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "그는 모든 것을 잃고 믿음의 부족하지 않았다 #shorts",
+        "description": "작업은 모든 것을 잃고 실패하지 않았습니다. 모든 손실이 포기하지 않는 처벌이라고 말하는 것을 조심하십시오. (Job 1: 1, 9-11의 paraphrase RVR1960)\n\nMarketDom · Biblical Mayordomy에 가입하십시오. 합성 음성과 비교. 이름 *"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "storm clouds over empty field"
-      }
+      },
+      "texto_en": "He lost his possessions, his animals, and his children in a single day. And it wasn't because he had failed God.",
+      "texto_pt": "Ele perdeu seus bens, seus animais e seus filhos em um só dia. E não foi porque ele tivesse falhado com Deus.",
+      "texto_ar": "فقد ممتلكاته وحيواناته وأولاده في يوم واحد. ولم يكن ذلك لأنه خذل الله.",
+      "texto_zh": "他在一天之内失去了财产、牲畜和儿女。这并不是因为他辜负了上帝。",
+      "texto_ko": "그는 하루 만에 재산과 가축, 자녀를 잃었습니다. 그리고 그것은 그가 하나님을 거역했기 때문이 아니었습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "narrativo",
       "visual": {
         "query": "old man sitting ruins sunset"
-      }
+      },
+      "texto_en": "It's Job. Chapter one says that he was blameless and upright, fearing God. And yet he lost everything. Why? Because Satan accused God, saying that Job served Him only out of self-interest. So, beware of the idea that every loss is a punishment for not giving. The Bible does not teach that. Tomorrow, at six in the evening, we will analyze the most commonly used phrase to pressure people to tithe: If you don't tithe, the devourer will get you. What does Malachi really say? Subscribe and turn on notifications.",
+      "texto_pt": "É Jó. O capítulo um diz que ele era perfeito e reto, temente a Deus. E, mesmo assim, perdeu tudo. Por quê? Porque Satanás acusou a Deus, dizendo que Jó O servia apenas por interesse. Portanto, tenha cuidado com a ideia de que toda perda é um castigo por não dar. A Bíblia não ensina isso. Amanhã, às seis da tarde, analisaremos a frase mais usada para pressionar pelo dízimo: se você não der o dízimo, o devorador o alcançará. O que Malaquias realmente diz? Inscreva-se e ative o sininho.",
+      "texto_ar": "إنه أيوب. يقول الإصحاح الأول إنه كان كاملًا وصالحًا، ويخشى الله. ومع ذلك فقد كل شيء. لماذا؟ لأن الشيطان اتهم الله قائلاً إن أيوب كان يخدمه فقط من أجل مصلحته. لذلك، احذروا من فكرة أن كل خسارة هي عقاب على عدم العطاء. الكتاب المقدس لا يعلّم ذلك. غدًا، في الساعة السادسة مساءً، سنحلل العبارة الأكثر استخدامًا للضغط من أجل دفع العشور: إذا لم تدفع العشور، فسوف يلحق بك الآكل. ماذا يقول ملاخي حقًا؟ اشترك وفعل الجرس.",
+      "texto_zh": "是约伯。第一章说他为人正直诚实，敬畏上帝。尽管如此，他还是失去了一切。为什么？因为撒但指控神，说约伯侍奉祂只是为了自己的利益。因此，要当心这种想法：每一次损失都是因为不奉献而受到的惩罚。圣经并没有这样教导。明天下午六点，我们将分析最常用来施加什一奉献压力的那句话：如果你不交什一奉献，吞噬者就会追上你。玛拉基书到底说了什么？ 订阅并开启提醒铃铛。",
+      "texto_ko": "그것은 작업입니다. 한 장은 그녀가 완벽하고 곧 하나님을 두려워 한 것을 말한다. 그리고 그녀는 여전히 모든 것을 잃었다. 왜? 사탄이 하나님을 비난했기 때문에 그 직업은 그 밖에도 관심을 갖게 되었다. 그래서 모든 손실이 포기하지 않는 처벌이라는 아이디어를 조심한다. 성경은 가르치지 않는다. 내일 6 : 00 p.m. 우리는 tithe와 함께 눌러 가장 단어를 논의 : 당신이 tithe하지 않는 경우, devour 당신을 도달합니다. Malachi는 정말 말합니까? 종을 구독하고 활성화하십시오."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
