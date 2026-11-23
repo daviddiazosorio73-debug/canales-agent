@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Why did Jesus need to be like us? #shorts",
+        "description": "Could Jesus have saved the world without becoming human? The Bible shows that there was a reason why he was like us.\n\nHebrews 2:14-17\n\nSign up for more Sabatina School in one minute. Narration with a synthetic voice. #shorts"
+      },
+      "ar": {
+        "title": "لماذا يجب أن يكون المسيح مثلنا؟ #shorts",
+        "description": "هل يمكن للمسيح أن ينقذ العالم دون أن يصبح بشرياً؟ يُظهر الإنجيل أنه كان هناك سبب لإنه كان مثلنا\n\nHebrews 2:14-17\n\nوقّعْ للمزيد من مدرسةِ ساباتينا في دقيقةِ واحدة. الغضب مع صوت اصطناعي #"
+      },
+      "zh-Hans": {
+        "title": "为什么耶稣需要像我们一样? #shorts",
+        "description": "耶稣能拯救世界而不成为人类吗? 圣经显示他和我们一样是有原因的\n\n希伯来语2:14-17\n\n一分钟后报名参加更多的萨巴蒂纳学校. 以合成声闻. 短裤"
+      },
+      "ko": {
+        "title": "왜 예수님이 우리를 좋아해야 했습니까? #shorts",
+        "description": "예수님은 인간이 되지 않고 세상을 구할 수 있었습니까? 성경은 그가 우리를 좋아하는 이유가 있었다는 것을 보여줍니다.\n\n히브리서 2:14-17\n\n1 분에 Sabatina 학교에 가입하십시오. 합성 음성과 비교. #짧은"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "hand reaching down to help another hand up"
-      }
+      },
+      "texto_en": "Could Jesus have saved the world without becoming human? The Bible shows that there was a reason why he was like us.",
+      "texto_ar": "هل يمكن للمسيح أن ينقذ العالم دون أن يصبح بشرياً؟ يُظهر الإنجيل أنه كان هناك سبب لإنه كان مثلنا",
+      "texto_zh": "耶稣能拯救世界而不成为人类吗? 圣经显示他和我们一样是有原因的",
+      "texto_ko": "예수님은 인간이 되지 않고 세상을 구할 수 있었습니까? 성경은 그가 우리를 좋아하는 이유가 있었다는 것을 보여줍니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "sunrise over green hills after storm"
-      }
+      },
+      "texto_en": "Hebrews two, verses fourteen to seventeen. As we are of flesh and blood, Jesus also participated in the same nature. Thus, by his death, he defeated the one who had the power of death, the devil. And he became like his brethren in all things, to be a merciful and faithful high priest. It is today's theme of lesson nine, testing the prophets: the incarnation of Christ. He doesn't save us from far away. He understands his struggle because he lived as a human. Therefore the incarnation is not a detail: it is the center of the gospel that every true prophet proclaims. Comment “He understands me”.",
+      "texto_ar": "الـ \"إثنان\" ، الآية من أربعة عشر إلى سبعة عشر ونحن من لحم ودم، شارك المسيح أيضا في نفس الطبيعة. وهكذا، بموته، هزم الذي كان لديه قوة الموت، الشيطان. و أصبح مثل إخوته في كل شيء ليكون قسيساً مخلصاً ومخلصاً إنه موضوع اليوم للدرس التاسع، اختبار الأنابيب: حبس المسيح هو لا ينقذنا من بعيد إنه يفهم كفاحه لأنه عاش كإنسان ولذلك فإن الحبس ليس تفصيلاً: بل هو مركز النبي الحقيقي الذي يعلنه كل نبي حقيقي. التعليق &quot; إنه يفهمني &quot; .",
+      "texto_zh": "希伯来语2,第14节至第17节. 由于我们有血有肉,耶稣也以同样的性质参与. 因此,由于他的死,他打败了拥有死亡力量的恶魔. 他像他的兄弟一样 在万物中,成为一个仁慈和忠实的大祭司。 这是今天第九课的主题,考验先知:基督的化身. 他从远处救不了我们 他理解他的斗争,因为他作为一个人类生活. 因此,化身并不是一个细节:每个真正的先知所宣扬的是福音的中心. 评论“他理解我”。",
+      "texto_ko": "히브리서 2, 구절 14 ~ 17. 우리는 육체와 혈액으로, 예수는 또한 동일한 성격에 참가했습니다. 따라서, 그의 죽음에 의해, 그는 죽음의 힘을 가지고 한 것을 패배, 악마. 그리고 그는 모든 일에 그의 형제처럼되었다, merciful과 믿음있는 높은 제사. 그것은 오늘의 주제의 교훈 9, 선지자를 테스트: 그리스도의 신화. 그는 멀리에서 우리를 저장하지 않습니다. 그는 인간으로 살기 때문에 그의 투쟁을 이해한다. 따라서 incarnation는 세부 사항이 아닙니다. 모든 진실한 선지자가 될 복음의 중심입니다. 댓글 \"그는 나를 이해한다\"."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
