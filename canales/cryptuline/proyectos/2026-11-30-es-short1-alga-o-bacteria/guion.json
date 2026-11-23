@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-30",
+  "tema": "Espirulina: ¿alga, planta o bacteria?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Alga?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: ¿alga, planta o bacteria? Lo que dicen las revisiones #shorts",
+    "descripcion": "Espirulina: ¿alga, planta o bacteria?.\n\n📚 Fuentes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Chaouachi M, Vincent S, Groussard C. A Review of the Health-Promoting Properties of Spirulina with a Focus on athletes' Performance and Recovery. J Diet Suppl. 2024;21(2):210-241 (en línea: may-2023). https://pubmed.ncbi.nlm.nih.gov/37143238/ · https://doi.org/10.1080/19390211.2023.2208663\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "cianobacteria",
+      "Arthrospira",
+      "microalgas",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-30T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La llaman alga verde azulada. Pero las revisiones científicas usan otra palabra.",
+      "texto_pantalla": "¿Alga, planta o bacteria?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "microscope view blue green spiral filaments"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión de Gogna, de dos mil veintidós, la describe en su título como una cianobacteria comestible. Y la revisión de Chaouachi, de dos mil veintitrés, explica que las especies de espirulina son bacterias filamentosas que hacen fotosíntesis, y que comúnmente se les llama microalgas verde azuladas. Es decir: hace fotosíntesis como una planta, pero no es una planta. Mañana, en el video del martes, te explico por qué la espirulina tiene hasta tres nombres científicos. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gogna S, 2022 · Chaouachi M, 2023",
+      "emocion": "agil",
+      "visual": {
+        "query": "green water pond sunlight surface"
+      }
+    }
+  ]
+}

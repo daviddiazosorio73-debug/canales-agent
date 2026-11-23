@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-04",
+  "tema": "¿La espirulina es fuente de vitamina B12? Lo que concluyó un grupo japonés",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿B12?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿La espirulina es fuente de vitamina B12? Lo que concluyó la ciencia #shorts",
+    "descripcion": "¿La espirulina es fuente de vitamina B12? Lo que concluyó un grupo japonés.\n\n📚 Fuentes (PubMed):\n• Watanabe F, Katsura H, Takenaka S, Fujita T, Abe K, Tamura Y, et al. Pseudovitamin B(12) is the predominant cobamide of an algal health food, spirulina tablets. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n• Watanabe F, Takenaka S, Kittaka-Katsura H, Ebara S, Miyamoto E. Characterization and bioavailability of vitamin B12-compounds from edible algae. J Nutr Sci Vitaminol (Tokyo). 2002;48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "vitamina B12",
+      "vegetarianos",
+      "nutrición",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-04T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Mucha gente toma espirulina por la vitamina B12. ¿Funciona?",
+      "texto_pantalla": "¿Fuente de B12?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "spirulina tablets jar close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En mil novecientos noventa y nueve, Watanabe y su equipo analizaron en el laboratorio tabletas de espirulina. De los compuestos que se unían al factor intrínseco, la proteína que usamos para absorber la B12, el ochenta y tres por ciento era pseudovitamina B12, una forma inactiva. En dos mil dos, el mismo grupo concluyó que las tabletas de espirulina no son adecuadas como fuente de B12, sobre todo para vegetarianos. Hoy a las seis de la tarde, hora de Lima, el video completo sobre lo que tiene de verdad la espirulina. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Watanabe F, 1999 · Watanabe F, 2002",
+      "emocion": "agil",
+      "visual": {
+        "query": "vegetarian plate vegetables and grains"
+      }
+    }
+  ]
+}

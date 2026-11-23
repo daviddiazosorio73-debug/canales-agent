@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-30",
+  "tema": "Espirulina: ¿natural es igual a seguro?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Natural = seguro?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: ¿natural significa seguro? Lo que pide una revisión #shorts",
+    "descripcion": "Espirulina: ¿natural es igual a seguro?.\n\n📚 Fuentes (PubMed):\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "seguridad alimentaria",
+      "calidad",
+      "contaminantes",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-01T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Es natural, así que es seguro. ¿Seguro?",
+      "texto_pantalla": "¿Natural = seguro?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "green powder sample laboratory test tube"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Una revisión de Grosshagauer y su equipo, de la Universidad de Viena, publicada en dos mil veinte, explica que todavía se sabe poco sobre la contaminación de los productos de espirulina con toxinas de cianobacterias, metales pesados, pesticidas u otros contaminantes, y que algunos estudios encontraron niveles altos. Por eso pide vigilar más de cerca a quienes la toman a diario. La calidad del producto importa. Mañana a las seis de la tarde, hora de Lima: qué es de verdad la espirulina y qué dicen las revisiones. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Grosshagauer S, 2020 · J Agric Food Chem",
+      "emocion": "agil",
+      "visual": {
+        "query": "quality control laboratory food testing"
+      }
+    }
+  ]
+}

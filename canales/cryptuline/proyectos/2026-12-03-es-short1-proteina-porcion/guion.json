@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-03",
+  "tema": "Espirulina: 60 a 70 % de proteína… pero mira la porción",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿70 % proteína?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: ¿70 % de proteína? Mira la porción antes de emocionarte #shorts",
+    "descripcion": "Espirulina: 60 a 70 % de proteína… pero mira la porción.\n\n📚 Fuentes (PubMed):\n• Chaouachi M, Vincent S, Groussard C. A Review of the Health-Promoting Properties of Spirulina with a Focus on athletes' Performance and Recovery. J Diet Suppl. 2024;21(2):210-241 (en línea: may-2023). https://pubmed.ncbi.nlm.nih.gov/37143238/ · https://doi.org/10.1080/19390211.2023.2208663\n• Maddiboyina B, Vanamamalai HK, Roy H, Ramaiah, Gandhi S, Kavisri M, et al. Food and drug industry applications of microalgae Spirulina platensis: A review. J Basic Microbiol. 2023;63(6):573-583. https://pubmed.ncbi.nlm.nih.gov/36720046/ · https://doi.org/10.1002/jobm.202200704\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "proteína",
+      "nutrición",
+      "porción",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-03T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Sesenta a setenta por ciento de proteína. Suena enorme. Pero mira la porción.",
+      "texto_pantalla": "¿70 % de proteína?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "spirulina powder spoon close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión de Chaouachi, de dos mil veintitrés, dice que la espirulina tiene entre sesenta y setenta por ciento de proteína, con todos los aminoácidos esenciales; y la de Maddiboyina, del mismo año, da un rango de cincuenta y cinco a setenta. Pero eso es en el polvo seco. Si alguien toma tres gramos, el mínimo del rango que cita la revisión de Gogna, y la proteína fuera del sesenta por ciento, serían menos de dos gramos de proteína. Un porcentaje no es una porción. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Chaouachi M, 2023 · Maddiboyina B, 2023 · Gogna S, 2022",
+      "emocion": "agil",
+      "visual": {
+        "query": "lentils beans bowls protein foods"
+      }
+    }
+  ]
+}

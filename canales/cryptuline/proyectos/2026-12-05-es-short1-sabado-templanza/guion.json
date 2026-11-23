@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-05",
+  "tema": "Templanza en la mesa: un fruto del Espíritu",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Medida?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Templanza en la mesa: lo que la espirulina nos recordó esta semana #shorts",
+    "descripcion": "Templanza en la mesa: un fruto del Espíritu. Gálatas 5:22-23 (paráfrasis).\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "templanza",
+      "salud espiritual",
+      "sábado",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-05T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La templanza no es una dieta. Es un fruto.",
+      "texto_pantalla": "¿Templanza?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "peaceful morning table bread fruit sunlight"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Gálatas cinco, versículos veintidós y veintitrés, la templanza, o dominio propio, aparece entre los frutos del Espíritu, junto al amor y la paz. Esta semana vimos que la espirulina tiene estudios interesantes, pero que la revisión de Calella, de dos mil veintidós, solo pudo incluir dieciocho estudios y pide más ensayos. Lo bueno, con medida y con evidencia. Hoy, sábado, disfruta una comida sencilla con tu familia, sin prisa y con gratitud. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gálatas 5:22-23 · Calella P, 2022",
+      "emocion": "agil",
+      "visual": {
+        "query": "family sharing simple meal table"
+      }
+    }
+  ]
+}

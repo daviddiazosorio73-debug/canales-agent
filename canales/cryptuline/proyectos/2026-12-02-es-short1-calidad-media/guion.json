@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-02",
+  "tema": "Pocos ensayos y calidad media: qué significa en los estudios de espirulina",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Calidad media?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: «pocos ensayos y calidad media». ¿Qué significa? #shorts",
+    "descripcion": "Pocos ensayos y calidad media: qué significa en los estudios de espirulina.\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "calidad de la evidencia",
+      "ensayos clínicos",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-02T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Cuando un estudio dice calidad media, ¿qué te está diciendo?",
+      "texto_pantalla": "¿Calidad media?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "checklist clipboard research evaluation"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión sistemática de Calella, de dos mil veintidós, sobre espirulina en personas enfermas, advierte dos cosas: hay muy pocos ensayos clínicos controlados para cada enfermedad, y algunos estudios son de calidad media. Eso significa que pueden tener pocos participantes, poco tiempo o fallas en cómo se compararon los grupos. No quiere decir que estén mal, sino que sus resultados son menos firmes. Por eso los autores piden más investigación antes de confirmar su papel clínico. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Calella P, 2022 · Int J Food Sci Nutr",
+      "emocion": "agil",
+      "visual": {
+        "query": "researcher writing notes clinical trial"
+      }
+    }
+  ]
+}

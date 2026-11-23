@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-01",
+  "tema": "Revisión sistemática o narrativa: cuál pesa más (con el ejemplo de la espirulina)",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuál pesa más?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Revisión sistemática vs narrativa: cuál pesa más (espirulina) #shorts",
+    "descripcion": "Revisión sistemática o narrativa: cuál pesa más (con el ejemplo de la espirulina).\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "revisión sistemática",
+      "cómo leer un estudio",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-01T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dos revisiones científicas sobre espirulina. ¿Cuál pesa más?",
+      "texto_pantalla": "Sistemática vs narrativa",
+      "emocion": "gancho",
+      "visual": {
+        "query": "two stacks of books scale balance"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Una revisión sistemática, como la de Calella, de dos mil veintidós, define antes qué va a buscar y revisa todo con reglas claras: de mil seiscientos veintiún registros, dejó solo dieciocho estudios. Una revisión narrativa, como la de Gogna, del mismo año, resume lo que sus autores consideran importante. Las dos sirven, pero no pesan igual. Cuando leas una afirmación sobre espirulina, pregunta: ¿viene de una revisión sistemática, de un ensayo en personas o de una opinión resumida? Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Calella P, 2022 · Gogna S, 2022",
+      "emocion": "agil",
+      "visual": {
+        "query": "person reading research on laptop night"
+      }
+    }
+  ]
+}

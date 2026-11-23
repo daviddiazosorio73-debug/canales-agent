@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-03",
+  "tema": "Ficocianina: el pigmento azul de la espirulina",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Por qué azul?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Ficocianina: el pigmento azul de la espirulina, explicado #shorts",
+    "descripcion": "Ficocianina: el pigmento azul de la espirulina.\n\n📚 Fuentes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Spínola MP, Mendes AR, Prates JAM. Chemical Composition, Bioactivities, and Applications of Spirulina (Limnospira platensis) in Food, Feed, and Medicine. Foods. 2024;13(22):3656. https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "ficocianina",
+      "pigmentos",
+      "nutrición",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-03T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La espirulina es verde… pero esconde un pigmento azul.",
+      "texto_pantalla": "¿Un pigmento azul?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "blue pigment liquid in glass beaker"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Se llama ficocianina. La revisión de Gogna, de dos mil veintidós, la incluye entre las ficobiliproteínas de la espirulina, junto a la clorofila y los carotenos. La revisión de Spínola, de dos mil veinticuatro, la menciona entre sus compuestos bioactivos más estudiados. Pero ojo: la misma revisión pide confirmar su eficacia y su seguridad con ensayos clínicos grandes en humanos. Que un pigmento sea interesante en el laboratorio no prueba que haga lo mismo en tu cuerpo. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gogna S, 2022 · Spínola MP, 2024",
+      "emocion": "agil",
+      "visual": {
+        "query": "blue and green powder bowls overhead"
+      }
+    }
+  ]
+}

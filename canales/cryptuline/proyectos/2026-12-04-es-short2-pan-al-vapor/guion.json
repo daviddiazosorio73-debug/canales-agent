@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-04",
+  "tema": "Pan al vapor con espirulina: cuánta aguanta la masa",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuánta?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Pan al vapor con espirulina: ¿cuánta aguanta la masa? #shorts",
+    "descripcion": "Pan al vapor con espirulina: cuánta aguanta la masa.\n\n📚 Fuentes (PubMed):\n• Wang Y, Lyu Y, Xu L, Liu K, Chen J. Preparation and Quality Evaluation of Steamed Buns with Spirulina Powder. Foods. 2025;14(23):4136. https://pubmed.ncbi.nlm.nih.gov/41376073/ · https://doi.org/10.3390/foods14234136\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "cocina",
+      "pan",
+      "recetas",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-04T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Le pusieron espirulina a un pan al vapor. Con demasiada, el pan cambió.",
+      "texto_pantalla": "¿Cuánta espirulina?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "steamed buns bamboo steamer"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es un estudio de ciencia de los alimentos de Wang y su equipo, en China, publicado en dos mil veinticinco. Con más de cinco por ciento de espirulina, la red del gluten se rompía, el pan perdía volumen, se ponía más verde y más duro, y gustaba menos. Con dos por ciento, el pan tuvo la mejor calidad y más proteína. Es un estudio de cocina, no de salud. Pero la lección es clara: en la cocina, un poco basta. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Wang Y, 2025 · Foods",
+      "emocion": "agil",
+      "visual": {
+        "query": "green dough kneading hands kitchen"
+      }
+    }
+  ]
+}

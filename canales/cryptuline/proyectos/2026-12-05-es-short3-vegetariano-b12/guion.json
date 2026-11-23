@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-05",
+  "tema": "¿Eres vegetariano? Tu vitamina B12 no viene de la espirulina",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Y tu B12?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "¿Vegetariano o vegano? Tu vitamina B12 no viene de la espirulina #shorts",
+    "descripcion": "¿Eres vegetariano? Tu vitamina B12 no viene de la espirulina.\n\n📚 Fuentes (PubMed):\n• Watanabe F, Takenaka S, Kittaka-Katsura H, Ebara S, Miyamoto E. Characterization and bioavailability of vitamin B12-compounds from edible algae. J Nutr Sci Vitaminol (Tokyo). 2002;48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "vitamina B12",
+      "vegetarianos",
+      "veganos",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-06T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si eres vegetariano o vegano, este minuto es para ti.",
+      "texto_pantalla": "¿Y tu B12?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "vegetarian meal bowl vegetables grains"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión de Watanabe y su equipo, de dos mil dos, concluyó que en las tabletas de espirulina predomina la pseudovitamina B12, una forma inactiva, y que no son adecuadas como fuente de vitamina B12, sobre todo para vegetarianos. No te quedes con la duda: habla con tu médico sobre cómo cubrirla y si necesitas un análisis. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Watanabe F, 2002 · J Nutr Sci Vitaminol",
+      "emocion": "agil",
+      "visual": {
+        "query": "doctor consultation blood test tube"
+      }
+    }
+  ]
+}

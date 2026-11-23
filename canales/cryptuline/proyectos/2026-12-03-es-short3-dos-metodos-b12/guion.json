@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-03",
+  "tema": "Espirulina y vitamina B12: dos métodos, dos resultados muy distintos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuál dice la verdad?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina y B12: dos métodos de laboratorio, dos resultados distintos #shorts",
+    "descripcion": "Espirulina y vitamina B12: dos métodos, dos resultados muy distintos.\n\n📚 Fuentes (PubMed):\n• Watanabe F, Katsura H, Takenaka S, Fujita T, Abe K, Tamura Y, et al. Pseudovitamin B(12) is the predominant cobamide of an algal health food, spirulina tablets. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "vitamina B12",
+      "laboratorio",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-04T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Midieron la vitamina B12 de unas tabletas de espirulina con dos métodos. Uno dio mucho más que el otro.",
+      "texto_pantalla": "¿6 a 9 veces más?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "laboratory test tubes analysis"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es un estudio de laboratorio de Watanabe y su equipo, en Japón, publicado en mil novecientos noventa y nueve. Con un método basado en bacterias, los valores salieron entre seis y nueve veces más altos que con otro método basado en el factor intrínseco, la proteína que el cuerpo usa para absorber la B12. ¿Cuál se acercaba más a la verdad, y qué significa para ti? Mañana a las seis de la tarde, hora de Lima, el video completo. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Watanabe F, 1999 · J Agric Food Chem",
+      "emocion": "agil",
+      "visual": {
+        "query": "spirulina tablets close up"
+      }
+    }
+  ]
+}

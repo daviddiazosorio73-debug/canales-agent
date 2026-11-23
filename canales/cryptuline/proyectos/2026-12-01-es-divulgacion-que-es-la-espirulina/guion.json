@@ -1,0 +1,151 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-12-01",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "¿Qué es de verdad la espirulina? Arthrospira/Limnospira platensis y maxima: qué son, de dónde vienen y qué dicen las revisiones",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "insignia": true,
+  "res_4k": true,
+  "titulos_alternativos": [
+    "Espirulina: ¿merece su fama? Lo que dicen las revisiones científicas",
+    "Espirulina, Arthrospira o Limnospira: qué es y qué dice la ciencia",
+    "¿Superalimento? La espirulina explicada con estudios, sin exagerar"
+  ],
+  "miniatura": {
+    "linea1": "¿MERECE SU",
+    "linea2": "FAMA?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿Qué es de verdad la espirulina? Tres nombres, 18 estudios y una pregunta incómoda",
+    "descripcion": "¿Qué es de verdad la espirulina y merece la fama que tiene? Te explicamos qué es (una cianobacteria comestible, no una planta), por qué aparece con tres nombres (Spirulina, Arthrospira y Limnospira), cómo se produce y qué encontró una revisión sistemática que reunió 18 estudios en personas con distintas enfermedades. Además: la diferencia entre una revisión sistemática y una revisión narrativa, dos revisiones que no dicen lo mismo sobre la seguridad, los mitos más repetidos y los límites de la evidencia. Si tomas medicamentos o tienes una enfermedad, no empieces ningún suplemento por tu cuenta: consulta a tu médico.\n\n💬 ¿Qué te habían dicho de la espirulina antes de este video? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n• Sinetova MA, Kupriyanova EV, Los DA. Spirulina/Arthrospira/Limnospira-Three Names of the Single Organism. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762\n• Castillo M, Guevara G, Baldanta S, Rodríguez PS, Agudo L, Nogales J, et al. Characterization of Limnospira platensis PCC 9108 R-M and CRISPR-Cas systems. Microbiol Res. 2024;279:127572 (en línea: dic-2023). https://pubmed.ncbi.nlm.nih.gov/38101163/ · https://doi.org/10.1016/j.micres.2023.127572\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Chaouachi M, Vincent S, Groussard C. A Review of the Health-Promoting Properties of Spirulina with a Focus on athletes' Performance and Recovery. J Diet Suppl. 2024;21(2):210-241 (en línea: may-2023). https://pubmed.ncbi.nlm.nih.gov/37143238/ · https://doi.org/10.1080/19390211.2023.2208663\n• Spínola MP, Mendes AR, Prates JAM. Chemical Composition, Bioactivities, and Applications of Spirulina (Limnospira platensis) in Food, Feed, and Medicine. Foods. 2024;13(22):3656. https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "qué es la espirulina",
+      "spirulina",
+      "Arthrospira platensis",
+      "Limnospira",
+      "cianobacteria",
+      "revisión sistemática",
+      "superalimentos",
+      "salud basada en evidencia",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "Salud",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-01T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "Mil seiscientos veintiún registros científicos. Un equipo de investigación los revisó uno por uno para responder qué hace la espirulina en personas enfermas. ¿Sabes cuántos estudios quedaron al final? Dieciocho. Y eso no es todo: el organismo que estudiaron tiene tres nombres científicos distintos, y hay revisiones que no se ponen de acuerdo sobre su seguridad. La espirulina se vende como superalimento en polvo, en tabletas y en batidos. Hoy, en el primer martes de salud de nuestra serie, quiero responder una pregunta incómoda: ¿la espirulina merece la fama que tiene? Al final del video te doy mi respuesta, con lo que dicen los estudios y con lo que todavía no sabemos.",
+      "texto_pantalla": "¿Merece su fama?",
+      "visual": {
+        "query": "spirulina smoothie glass green close up"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "Ni planta ni alga común",
+      "emocion": "ensenanza",
+      "texto": "Empecemos por lo básico: ¿qué es? Aunque se le dice alga, las revisiones científicas usan otra palabra. La revisión de Simran Gogna y su equipo, de dos mil veintidós, la llama en su título una cianobacteria comestible. Y la revisión de Mehdi Chaouachi y su equipo, de la Universidad de Rennes, en Francia, publicada en dos mil veintitrés, explica que las especies de espirulina son bacterias filamentosas que hacen fotosíntesis, a las que comúnmente se les llama microalgas verde azuladas. Es decir: captan la luz del sol como las plantas, pero no son plantas. Son organismos microscópicos que forman filamentos en espiral, y de esa forma viene el nombre espirulina. Las especies que se comen son sobre todo dos: platensis y maxima.",
+      "texto_pantalla": "Cianobacteria comestible",
+      "referencia": "Gogna S, 2022 · Chaouachi M, 2023",
+      "visual": {
+        "query": "microscope spiral cyanobacteria filaments"
+      }
+    },
+    {
+      "id": "nombres",
+      "capitulo": "Tres nombres, un organismo",
+      "emocion": "narrativo",
+      "texto": "¿Y por qué tres nombres? En dos mil veinticuatro, Maria Sinetova y su equipo, del Instituto de Fisiología Vegetal de la Academia Rusa de Ciencias, publicaron en la revista Foods una revisión con un título muy claro: Spirulina, Arthrospira, Limnospira, tres nombres de un solo organismo. Explican que los avances en técnicas de investigación, como la secuenciación del genoma completo, cambiaron la clasificación: hoy las especies de espirulina se reparten en tres géneros, Spirulina, Arthrospira y Limnospira, y Limnospira es el nombre que ahora corresponde a las cepas que se producen de forma industrial. Por eso un estudio de Castillo y su equipo, del Consejo Superior de Investigaciones Científicas de España, publicado a fines de dos mil veintitrés, habla de Limnospira platensis, antes conocida como Arthrospira platensis o espirulina. Si ves cualquiera de esos nombres en un estudio, casi siempre se habla del mismo alimento.",
+      "texto_pantalla": "Spirulina · Arthrospira · Limnospira",
+      "referencia": "Sinetova MA, 2024 · Castillo M, 2023",
+      "visual": {
+        "query": "scientist DNA sequencing laboratory screen"
+      }
+    },
+    {
+      "id": "de_donde",
+      "capitulo": "De dónde viene",
+      "emocion": "narrativo",
+      "texto": "¿Y de dónde viene la espirulina que se vende? El estudio de Castillo describe a Limnospira platensis como una de las especies de microalgas más importantes en el comercio, que por su valor nutricional y sus usos industriales se cultiva a gran escala comercial. La revisión de Sinetova añade que la espirulina se estudia incluso como componente de sistemas de soporte de vida, tanto en la Tierra como en el espacio. Y la revisión de Maria Spínola y su equipo, de la Universidad de Lisboa, en dos mil veinticuatro, recuerda que hoy se usa en alimentos, en piensos para animales y en investigación médica. Es decir: no es un producto raro ni nuevo. Es un organismo muy cultivado y muy estudiado. Pero muy estudiado no significa lo mismo que muy probado en personas.",
+      "texto_pantalla": "Cultivo a gran escala",
+      "referencia": "Castillo M, 2023 · Sinetova MA, 2024 · Spínola MP, 2024",
+      "visual": {
+        "query": "algae cultivation pond raceway green water"
+      }
+    },
+    {
+      "id": "revision",
+      "capitulo": "Lo que encontró una revisión sistemática",
+      "emocion": "narrativo",
+      "texto": "Vamos a la evidencia en personas. En dos mil veintidós, Patrizia Calella y su equipo, de la Universidad de Nápoles Parthenope, en Italia, publicaron en el International Journal of Food Sciences and Nutrition una revisión sistemática sobre suplementos de espirulina en personas con distintas enfermedades, transmisibles y no transmisibles. De mil seiscientos veintiún registros revisados, solo dieciocho estudios, publicados entre dos mil uno y dos mil veinte, cumplieron los criterios. Este estudio encontró que los resultados, en general, apoyan beneficios de añadir espirulina a la dieta, con mejoras en todas las condiciones estudiadas, excepto en la infertilidad masculina. Pero los autores son claros: el número de ensayos clínicos controlados sobre cada enfermedad todavía es muy bajo, algunos estudios son de calidad media, y hace falta más investigación para confirmar su posible papel junto a los tratamientos médicos.",
+      "texto_pantalla": "18 estudios · pocos ensayos por enfermedad",
+      "referencia": "Calella P, 2022 · Int J Food Sci Nutr",
+      "visual": {
+        "query": "doctor reviewing clinical study documents"
+      }
+    },
+    {
+      "id": "como_leer",
+      "capitulo": "Cómo leer una revisión",
+      "emocion": "ensenanza",
+      "texto": "Aquí va la enseñanza de hoy: no todas las revisiones pesan igual. Una revisión sistemática, como la de Calella, define antes qué va a buscar, revisa todo lo publicado con reglas claras y explica por qué deja fuera cada estudio. Por eso de mil seiscientos registros quedaron dieciocho. Una revisión narrativa, en cambio, resume lo que sus autores consideran importante, y puede llegar a conclusiones distintas. Te doy un ejemplo real. La revisión de Gogna advierte posibles efectos adversos por toxinas como las microcistinas. La revisión de Sinetova, en cambio, dice que las técnicas modernas de análisis mostraron la ausencia de compuestos peligrosos en las células de espirulina. ¿Quién tiene razón? Una pista la da la revisión de Grosshagauer, de la Universidad de Viena, en dos mil veinte: el problema señalado es la contaminación de algunos productos. Por eso, cuando dos revisiones narrativas no coinciden, la pregunta es: ¿qué datos y qué tipo de estudio hay detrás?",
+      "texto_pantalla": "Sistemática ≠ narrativa",
+      "referencia": "Gogna S, 2022 · Sinetova MA, 2024 · Grosshagauer S, 2020",
+      "visual": {
+        "query": "two open books comparison desk lamp"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Tres mitos rápidos. Mito uno: la espirulina sirve para todo. La revisión de Spínola describe muchas actividades biológicas, pero la propia revisión pide validar su eficacia, la relación entre dosis y efecto, y su seguridad con ensayos clínicos grandes en humanos. Mito dos: es una gran fuente de vitamina B12. El viernes te muestro por qué eso no es así. Mito tres: si es natural, no hay que preocuparse por la calidad. Grosshagauer pide justamente lo contrario: vigilar más de cerca los contaminantes en los productos que se toman a diario.",
+      "texto_pantalla": "¿Sirve para todo? No se sabe",
+      "referencia": "Spínola MP, 2024 · Grosshagauer S, 2020",
+      "visual": {
+        "query": "question mark sticky notes wall"
+      }
+    },
+    {
+      "id": "limites",
+      "capitulo": "La letra pequeña",
+      "emocion": "ensenanza",
+      "texto": "Ahora, la letra pequeña de lo que vimos hoy. Primero: la revisión sistemática reunió estudios de enfermedades muy distintas, y para cada una hay pocos ensayos controlados. Segundo: algunos estudios son de calidad media. Tercero: muchas de las propiedades que se repiten en internet vienen de revisiones narrativas que describen actividades biológicas, no de ensayos grandes en personas. Y cuarto: la composición y la calidad cambian de un producto a otro. Por eso, en Cryptuline, cada semana vamos a mirar un tema concreto, con el tipo de estudio, el número de personas y si fue en humanos o en animales.",
+      "texto_pantalla": "Pocos ensayos · calidad desigual",
+      "visual": {
+        "query": "magnifying glass small print document"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "enfasis",
+      "texto": "Entonces, ¿la espirulina merece la fama que tiene? Mi respuesta: solo una parte. Merece atención, porque es un organismo muy estudiado, cultivado a gran escala y con estudios en personas que, en general, apuntan a beneficios. Pero la fama de superalimento que sirve para todo va más rápido que la evidencia: hay pocos ensayos para cada enfermedad, algunos de calidad media, y la calidad del producto importa. No reemplaza ningún tratamiento. Y si tomas medicamentos, estás embarazada o tienes una enfermedad, consulta a tu médico antes de probarla. El viernes, nutrición: qué tiene de verdad por dentro. Proteína, hierro, ficocianina y un análisis de laboratorio con dos métodos que dieron resultados muy distintos. Suscríbete a Cryptuline y cuéntame en los comentarios: ¿qué te habían dicho de la espirulina?",
+      "texto_pantalla": "Merece atención, no fama ciega",
+      "visual": {
+        "query": "sunrise over green field hope"
+      }
+    }
+  ]
+}

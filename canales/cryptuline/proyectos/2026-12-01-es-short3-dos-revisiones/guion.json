@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-01",
+  "tema": "Espirulina y seguridad: dos revisiones que no dicen lo mismo",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Quién tiene razón?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina y seguridad: dos revisiones que no dicen lo mismo #shorts",
+    "descripcion": "Espirulina y seguridad: dos revisiones que no dicen lo mismo.\n\n📚 Fuentes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Sinetova MA, Kupriyanova EV, Los DA. Spirulina/Arthrospira/Limnospira-Three Names of the Single Organism. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "seguridad",
+      "microcistinas",
+      "calidad",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-02T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Una revisión advierte sobre toxinas en la espirulina. Otra dice que sus células no tienen compuestos peligrosos.",
+      "texto_pantalla": "¿Quién tiene razón?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "two scientists discussing laboratory"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La de Gogna, de dos mil veintidós, menciona posibles efectos adversos por toxinas como las microcistinas. La de Sinetova, de dos mil veinticuatro, dice que los análisis modernos mostraron la ausencia de compuestos peligrosos en las células de espirulina. Una tercera, de Grosshagauer, de dos mil veinte, da la pista: algunos estudios encontraron contaminantes en ciertos productos, por eso hay que vigilar la calidad. El organismo y el producto no son lo mismo. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gogna S, 2022 · Sinetova MA, 2024 · Grosshagauer S, 2020",
+      "emocion": "agil",
+      "visual": {
+        "query": "food safety inspection laboratory gloves"
+      }
+    }
+  ]
+}

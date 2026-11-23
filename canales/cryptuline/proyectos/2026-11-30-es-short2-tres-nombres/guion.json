@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-30",
+  "tema": "Espirulina, Arthrospira, Limnospira: tres nombres, un organismo",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿3 nombres?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina, Arthrospira o Limnospira: ¿por qué tres nombres? #shorts",
+    "descripcion": "Espirulina, Arthrospira, Limnospira: tres nombres, un organismo.\n\n📚 Fuentes (PubMed):\n• Sinetova MA, Kupriyanova EV, Los DA. Spirulina/Arthrospira/Limnospira-Three Names of the Single Organism. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762\n• Castillo M, Guevara G, Baldanta S, Rodríguez PS, Agudo L, Nogales J, et al. Characterization of Limnospira platensis PCC 9108 R-M and CRISPR-Cas systems. Microbiol Res. 2024;279:127572 (en línea: dic-2023). https://pubmed.ncbi.nlm.nih.gov/38101163/ · https://doi.org/10.1016/j.micres.2023.127572\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "Limnospira",
+      "Arthrospira platensis",
+      "taxonomía",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-30T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Espirulina, Arthrospira, Limnospira. ¿Son tres cosas distintas?",
+      "texto_pantalla": "¿Tres nombres?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "three labeled glass jars laboratory shelf"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Una revisión de Sinetova y su equipo, de la Academia Rusa de Ciencias, publicada en dos mil veinticuatro, lo explica desde el título: tres nombres de un solo organismo. Hoy las especies de espirulina se clasifican en tres géneros: Spirulina, Arthrospira y Limnospira, y este último se refiere ahora a las cepas que se producen de forma industrial. Por eso un estudio español de dos mil veintitrés, de Castillo, habla de Limnospira platensis, antes conocida como Arthrospira platensis o espirulina. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Sinetova MA, 2024 · Castillo M, 2023",
+      "emocion": "agil",
+      "visual": {
+        "query": "scientist labeling sample tubes"
+      }
+    }
+  ]
+}

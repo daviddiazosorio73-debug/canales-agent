@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-02",
+  "tema": "Espirulina: de 3 a 10 gramos al día, ¿de dónde sale esa cifra?",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿3 a 10 g?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: ¿de dónde sale lo de 3 a 10 gramos al día? #shorts",
+    "descripcion": "Espirulina: de 3 a 10 gramos al día, ¿de dónde sale esa cifra?.\n\n📚 Fuentes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "dosis",
+      "seguridad",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-02T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Tres a diez gramos de espirulina al día. ¿De dónde sale esa cifra?",
+      "texto_pantalla": "¿3 a 10 gramos?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "kitchen scale green powder measuring"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Viene de una revisión narrativa de Gogna y su equipo, de dos mil veintidós, que menciona que la dosis de seguridad recomendada para adultos ronda entre tres y diez gramos al día. Es un rango citado en una revisión, no una indicación personal. La misma revisión advierte posibles efectos adversos por toxinas en algunos casos, y otra revisión, de Grosshagauer, pide vigilar la calidad de los productos. Si tomas medicamentos o tienes una enfermedad, tu dosis, si corresponde, la decide tu médico. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Gogna S, 2022 · Grosshagauer S, 2020",
+      "emocion": "agil",
+      "visual": {
+        "query": "small measuring spoons on table"
+      }
+    }
+  ]
+}

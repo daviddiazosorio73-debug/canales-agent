@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-04",
+  "tema": "Crema de verduras con microalgas: qué cambió en la proteína",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Qué cambió?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina en una crema de verduras: ¿qué cambió en la proteína? #shorts",
+    "descripcion": "Crema de verduras con microalgas: qué cambió en la proteína.\n\n📚 Fuentes (PubMed):\n• Prandi B, Boukid F, Van De Walle S, Cutroneo S, Comaposada J, Van Royen G, et al. Protein Quality and Protein Digestibility of Vegetable Creams Reformulated with Microalgae Inclusion. Foods. 2023;12(12):2395. https://pubmed.ncbi.nlm.nih.gov/37372606/ · https://doi.org/10.3390/foods12122395\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "microalgas",
+      "crema de verduras",
+      "proteína",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-05T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Agregaron espirulina y otras microalgas a una crema de verduras. ¿Qué pasó con la proteína?",
+      "texto_pantalla": "¿Más proteína?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "green vegetable cream soup bowl"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Prandi y su equipo, de la Universidad de Parma, en dos mil veintitrés, añadieron microalgas, entre ellas espirulina, en uno coma cinco y tres por ciento a una receta de crema de verduras. Mejoró el contenido de proteína y el perfil de aminoácidos, y la digestibilidad de la proteína, medida en el laboratorio, no cambió. Es un estudio de alimentos, no un ensayo en personas. Una pequeña cantidad dentro de una comida real puede sumar. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Prandi B, 2023 · Foods",
+      "emocion": "agil",
+      "visual": {
+        "query": "vegetables soup cooking pot kitchen"
+      }
+    }
+  ]
+}

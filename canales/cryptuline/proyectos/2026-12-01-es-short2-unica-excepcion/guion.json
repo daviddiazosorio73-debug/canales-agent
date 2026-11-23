@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-12-01",
+  "tema": "Espirulina: 18 estudios y una sola excepción",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Cuál falló?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: 18 estudios en personas enfermas y una sola excepción #shorts",
+    "descripcion": "Espirulina: 18 estudios y una sola excepción.\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "revisión sistemática",
+      "suplementos",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-12-01T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Dieciocho estudios con espirulina en personas enfermas. En uno de los temas no hubo mejora.",
+      "texto_pantalla": "¿Cuál fue la excepción?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "doctor patient consultation hands desk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La revisión sistemática de Calella, de dos mil veintidós, encontró mejoras en todas las condiciones estudiadas, con una sola excepción: la infertilidad masculina. Pero ojo: los autores advierten que hay muy pocos ensayos controlados para cada enfermedad, que algunos son de calidad media, y que su posible papel sería junto a los tratamientos médicos, no en lugar de ellos. Hoy a las seis de la tarde, hora de Lima, el video completo: qué es de verdad la espirulina y si merece su fama. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Calella P, 2022 · Int J Food Sci Nutr",
+      "emocion": "agil",
+      "visual": {
+        "query": "spirulina tablets on white table"
+      }
+    }
+  ]
+}
