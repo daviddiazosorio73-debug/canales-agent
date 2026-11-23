@@ -40,9 +40,31 @@
       "shorts",
       "Biblia"
     ],
-    "privacidad": "private",
-    "publicar_en": "2026-11-23T02:45:00Z",
-    "lista_id": null
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "What if the sign is fulfilled… but not the message? ⚠️ #shorts",
+        "description": "Moses warned about a prophet whose sign does come true. The proof was elsewhere. (Deuteronomy 13:1–3, RVR1960 paraphrase) Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "E se o sinal for cumprido... mas a mensagem não? ⚠️ #shorts",
+        "description": "Moisés advertiu sobre um profeta cujo sinal se cumpre. A prova estava em outro lugar. (Deuteronômio 13:1-3, paráfrase RVR1960) Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "ماذا لو تحققت العلامة... ولكن لم تتحقق الرسالة؟ ⚠️ #shorts",
+        "description": "حذر موسى من نبي تتحقق آياته. كان الدليل في مكان آخر. (سفر التثنية 13: 1-3، شرح الترجمة الإسبانية المنقحة 1960) اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "如果信号得到了满足……但信息没有呢？⚠️ #shorts",
+        "description": "摩西警告过，有一位先知的神迹确实应验了。证据在别处。（申命记 13:1-3，RVR1960 译本意译）订阅以获取更多 1 分钟安息日学内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "징조는 나타났는데... 메시지는 그렇지 않다면? ⚠️ #shorts",
+        "description": "모세는 그 표적이 실제로 이루어지는 선지자에 대해 경고했습니다. 증거는 다른 곳에 있었습니다. (신명기 13:1-3, RVR1960 패러프레이징) 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -53,7 +75,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "storm clouds lightning over desert"
-      }
+      },
+      "texto_en": "Imagine that someone announces a sign, and the sign comes true exactly as stated. Can you believe them now?",
+      "texto_pt": "Imagine que alguém anuncia um sinal, e o sinal se cumpre exatamente como foi anunciado. Você já pode acreditar nessa pessoa?",
+      "texto_ar": "تخيل أن شخصًا ما يعلن عن علامة، وتتحقق العلامة كما هي. هل يمكنك تصديقه الآن؟",
+      "texto_zh": "想象一下，有人宣布一个征兆，而这个征兆就真的应验了。您现在能相信他了吗？",
+      "texto_ko": "누군가가 징조를 예고하고 그 징조가 그대로 성취된다고 상상해 보세요. 이제 그 사람을 믿을 수 있습니까?"
     },
     {
       "id": "mensaje",
@@ -63,7 +90,19 @@
       "emocion": "agil",
       "visual": {
         "query": "ancient stone tablets in warm light"
-      }
+      },
+      "texto_en": "Moses answered that question in Deuteronomy 13, verses 1–3. If a prophet arose and gave a sign or a wonder, and it came to pass, but then he said, “Let us go after other gods,” the people were not to listen to him. Why? Because the Lord was testing whether they loved him with all their heart. This is today's topic in Lesson Nine: The Role of the Supernatural. A fulfilled sign is not the ultimate test. The crucial question is where the message leads you: toward God and His Word, or away from them. Subscribe and comment: \"The Word first.\"",
+      "texto_pt": "Moisés respondeu a essa pergunta em Deuteronômio 13, versículos 1 a 3. Se um profeta se levantasse e desse um sinal ou um prodígio, e isso se cumprisse, mas depois dissesse: \"Vamos seguir outros deuses\", o povo não deveria ouvi-lo. Por quê? Porque o Senhor estava testando se O amavam de todo o coração. Este é o tema de hoje na lição nove: o papel do sobrenatural. Um sinal cumprido não é a prova final. A questão decisiva é para onde a mensagem leva você: em direção a Deus e à Sua Palavra, ou para longe deles. Inscreva-se e comente: \"A Palavra em primeiro lugar\".",
+      "texto_ar": "أجاب موسى على هذا السؤال في سفر التثنية الثالث عشر، الآيات من الأولى إلى الثالثة. إذا قام نبي وأعطى علامة أو معجزة، وتحققت، ولكنه قال بعد ذلك لنتبع آلهة أخرى، فلا يجب على الشعب أن يستمع إليه. لماذا؟ لأن الرب كان يختبر ما إذا كانوا يحبونه من كل قلبهم. هذا هو موضوع اليوم في الدرس التاسع: دور الخوارق. الآية التي تتحقق ليست الدليل النهائي. السؤال الحاسم هو إلى أين تقودك الرسالة: نحو الله وكلمته، أم بعيدًا عنهما. اشترك وعلق: \"الكلمة أولاً\".",
+      "texto_zh": "摩西在申命记第十三章第一至三节回答了这个问题。如果有一个先知起来，显出神迹奇事，而且应验了，但他后来又说我们要去跟随别的神，那么百姓就不该听从他。为什么？因为耶和华在考验他们是否全心全意地爱祂。这是今天第九课的主题：超自然的作用。应验的神迹并不是最终的考验。 关键问题在于这条信息将你引向何方：是走向神和祂的话语，还是远离它们。订阅并留言：“先有话语”。",
+      "texto_ko": "모세는 신명기 13장 1~3절에서 이 질문에 답했습니다. 만일 선지자가 일어나서 표적이나 기사를 행하여 그것이 이루어졌지만, 그 후에 다른 신들을 따르라고 말한다면, 백성은 그 말을 듣지 말아야 했습니다. 왜냐고요? 주님께서 그들이 온 마음을 다해 그분을 사랑하는지 시험하고 계셨기 때문입니다. 오늘 9과에서 다룰 주제는 초자연적인 것의 역할입니다. 성취된 표적은 최종적인 증거가 아닙니다. 결정적인 질문은 이 메시지가 여러분을 어디로 인도하는가 하는 것입니다. 하나님과 그분의 말씀 쪽으로 인도하는가, 아니면 그분들로부터 멀어지게 하는가? 구독하고 \"말씀이 먼저\"에 대해 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
