@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Paul’s advice that avoids two opposing mistakes ⚖️ #shorts",
+        "description": "There are two opposing errors when it comes to prophecy. An apostle resolved both in just two lines. 1 Thessalonians 5:20-21 Subscribe for more 1-Minute Sabbath School. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "نصيحة بولس الرسول التي تتجنب خطأين متعارضين ⚖️ #shorts",
+        "description": "هناك خطأان متعارضان عندما يتعلق الأمر بالنبوءة. لقد حل أحد الرسل كلاً منهما في سطرين فقط. 1 تسالونيكي 5: 20-21 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "保罗的忠告：避免两种截然相反的错误 ⚖️ #shorts",
+        "description": "说到预言，有两种截然相反的错误。一位使徒仅用两句话就解决了这两个问题。帖撒罗尼迦前书 5:20-21 订阅，即可在 1 分钟内观看更多安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "두 가지 상반된 실수를 피하라는 바울의 조언 ⚖️ #shorts",
+        "description": "예언에 관해서는 두 가지 상반된 오류가 있습니다. 한 사도가 단 두 줄로 두 가지 오류를 해결했습니다. 데살로니가전서 5:20-21 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성으로 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "balance scale with two brass pans on table"
-      }
+      },
+      "texto_en": "There are two opposing errors when it comes to prophecy. An apostle resolved both in just two lines.",
+      "texto_ar": "هناك خطأان متضادان عندما يتعلق الأمر بالنبوءة. وقد عالج أحد الرسل الخطأين في سطرين فقط.",
+      "texto_zh": "说到预言，有两种截然相反的错误。一位使徒仅用两句话就解决了这两个问题。",
+      "texto_ko": "예언에 관해서는 두 가지 상반된 오류가 있습니다. 한 사도가 단 두 줄로 두 가지 오류를 해결했습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "hands sifting gold flakes in pan with water"
-      }
+      },
+      "texto_en": "1 Thessalonians 5, verses 20 and 21. Paul asks not to despise prophecies, but to examine everything and hold on to what is good. The first mistake is to despise: to think that God no longer speaks through the gift of prophecy. The second is to believe everything without examining it. Paul asks for both attitudes together: openness and caution. And the standard for examining is God's Word itself. It is today's topic for lesson nine, Putting the prophets to the test: in harmony with the Bible. Neither closed-minded nor naive: attentive. Which of the two mistakes do you see more often today? Comment.",
+      "texto_ar": "رسالة بولس الأولى إلى أهل تسالونيكي الإصحاح الخامس، الآيتان العشرون والحادية والعشرون. يطلب بولس عدم ازدراء النبوءات، بل فحص كل شيء والتمسك بما هو صالح. الخطأ الأول هو الازدراء: الاعتقاد بأن الله لم يعد يتكلم من خلال موهبة النبوة. والخطأ الثاني هو تصديق كل شيء دون تمحيص. يطلب بولس هذين الموقفين معًا: الانفتاح والحذر. والمقياس للفحص هو كلمة الله نفسها. إنه موضوع الدرس التاسع لهذا اليوم، اختبار الأنبياء: بما يتوافق مع الكتاب المقدس. لا منغلق ولا ساذج: بل يقظ. أي من الخطأين تراه أكثر اليوم؟ علق.",
+      "texto_zh": "帖撒罗尼迦前书第五章，第20节和第21节。保罗要求不要轻忽先知的话，而是要凡事察验，善者持守。第一个错误是轻视：认为上帝不再通过先知恩赐说话。第二个错误是不加分辨地相信一切。保罗要求同时具备两种态度：开放和谨慎。而检验的标准就是神的话语本身。 这是第九课的今日主题：检验先知：与圣经保持一致。既不封闭，也不天真：保持警惕。您今天最常看到哪一种错误？请发表您的看法。",
+      "texto_ko": "데살로니가전서 5장 20절과 21절입니다. 바울은 예언을 업신여기지 말고 모든 것을 시험하여 좋은 것을 취하라고 요청합니다. 첫 번째 오류는 경시하는 것입니다. 즉, 하나님께서 더 이상 예언의 은사를 통해 말씀하시지 않는다고 생각하는 것입니다. 두 번째는 검토하지 않고 모든 것을 믿는 것입니다. 바울은 두 가지 태도를 함께 요구합니다. 개방성과 신중함입니다. 그리고 검토의 기준은 바로 하나님의 말씀입니다. 오늘 9과, '선지자들을 시험에 들게 하다: 성경과 조화'의 주제입니다. 닫힌 것도 아니고 순진한 것도 아닙니다. 주의를 기울이는 것입니다. 오늘날 이 두 가지 오류 중 어느 것을 더 많이 보십니까? 의견을 남겨 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
