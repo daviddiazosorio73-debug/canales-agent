@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The one-sentence test that exposes false teachers 🔍 #shorts",
+        "description": "John gave the church a short test, almost a single sentence. But it separates truth from falsehood to this day. 1 John 4:2-3 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "اختبار عبارة تكشف عن المعلمين الزائفين 🔍 #shorts",
+        "description": "أعطى يوحنا الكنيسة اختبارًا قصيرًا، يكاد يكون عبارة واحدة. لكنه يفصل الحقيقة عن الضلال حتى يومنا هذا. 1 يوحنا 4: 2-3 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "揭露假师傅的一句话测试🔍 #shorts",
+        "description": "约翰给教会提供了一个简短的检验标准，几乎只有一句话。但他至今仍将真理与谬误区分开来。约翰一书 4:2-3 订阅，即可在 1 分钟内观看更多安息日学课程。合成语音旁白。#shorts"
+      },
+      "ko": {
+        "title": "거짓 선생들을 폭로하는 한 문장의 시험 🔍 #shorts",
+        "description": "요한은 교회에 짧은, 거의 한 문장 정도의 시험을 주었습니다. 그러나 그는 오늘날까지도 진리와 거짓을 구분합니다. 요한일서 4:2-3 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "magnifying glass over old handwritten letter"
-      }
+      },
+      "texto_en": "John gave the church a short test, almost a single sentence. But it separates truth from falsehood to this day.",
+      "texto_ar": "أعطى يوحنا الكنيسة اختبارًا قصيرًا، يكاد يكون عبارة واحدة. لكنه يميز بين الحق والباطل حتى يومنا هذا.",
+      "texto_zh": "约翰给教会提供了一个简短的考验，几乎只有一句话。但直到今天，它仍将真理与谬误区分开来。",
+      "texto_ko": "요한은 교회에 짧은, 거의 한 문장 정도의 시험을 주었습니다. 그러나 요한은 오늘날까지도 진리와 거짓을 구분합니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "single candle glowing in dark room"
-      }
+      },
+      "texto_en": "First John chapter four, verses two and three. Shortly after asking us to test the spirits, John shows us how: Every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is today's topic for Lesson Nine, Testing the Prophets: The Incarnation of Christ. A true prophet does not diminish Jesus. He does not turn Him into an idea, a symbol, or just a good teacher. It presents Jesus as the Son of God who truly became man to save us. A message that conceals Jesus has already failed the test. Comment on “Jesus came in the flesh.”",
+      "texto_ar": "رسالة يوحنا الأولى الإصحاح الرابع، الآيتان الثانية والثالثة. بعد أن طلب منا أن نمتحن الأرواح مباشرة، يوضح لنا يوحنا كيف نفعل ذلك: كل روح تعترف بأن يسوع المسيح جاء في الجسد فهي من الله، وكل روح لا تعترف بيسوع فهي ليست من الله. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: تجسد المسيح. النبي الحقيقي لا يحط من قدر يسوع. لا يحوله إلى فكرة أو رمز أو مجرد معلم جيد. إنه يقدم يسوع كابن الله الذي تجسد حقًا لكي يخلصنا. الرسالة التي تخفي يسوع قد فشلت بالفعل في الاختبار. علّق على عبارة \"جاء يسوع في الجسد\".",
+      "texto_zh": "约翰一书第四章第二节和第三节。在要求我们检验诸灵之后，约翰马上就说明了检验的方法：凡灵承认耶稣基督是成了肉身来的，就是出于神的；凡灵不承认耶稣，就不是出于神的。这是今天第九课的主题，即检验先知：基督的道成肉身。真正的先知不会贬低耶稣。他不会将耶稣变成一个观念、一个象征或仅仅是一位好老师。 他将耶稣描述为神的儿子，祂真正地道成肉身，以拯救我们。如果一个信息掩盖了耶稣，那么它就已经没有通过考验。请评论“耶稣以肉身降临”。",
+      "texto_ko": "요한일서 4장 2~3절입니다. 영들을 시험해 보라고 권면한 직후에 요한은 그 방법을 보여줍니다. 예수 그리스도께서 육신으로 오셨음을 시인하는 영은 다 하나님께 속한 것이요, 예수를 시인하지 않는 영은 하나님께 속한 것이 아니니라. 오늘 9과, '선지자들을 시험함: 그리스도의 성육신'의 주제입니다. 참된 선지자는 예수를 낮추지 않습니다. 그분을 관념이나 상징, 또는 그저 훌륭한 스승으로 만들지 않습니다. 그는 예수를 우리를 구원하시기 위해 참된 인간이 되신 하나님의 아들로 소개합니다. 예수님을 숨기는 메시지는 이미 시험에 실패한 것입니다. \"예수님께서 육신으로 오셨다\"는 말씀을 설명해 주십시오."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
