@@ -460,7 +460,9 @@
         "VDP-08AI"
       ]
     },
-    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'"
+    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'",
+    "youtube_id": "QR4IUlX2gmg",
+    "youtube_url": "https://youtube.com/shorts/QR4IUlX2gmg"
   },
   {
     "clave": "gundsant_afi",
@@ -519,7 +521,9 @@
         "OST-139976.16"
       ]
     },
-    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'"
+    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'",
+    "youtube_id": "BSwvndp02p0",
+    "youtube_url": "https://youtube.com/shorts/BSwvndp02p0"
   },
   {
     "clave": "slice2_afi",
@@ -574,7 +578,9 @@
         "OST-140257.02"
       ]
     },
-    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'"
+    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'",
+    "youtube_id": "XyYS4s5AjPM",
+    "youtube_url": "https://youtube.com/shorts/XyYS4s5AjPM"
   },
   {
     "clave": "gen-2026-11-24-1800-marca",
@@ -605,7 +611,9 @@
         "RE-95BK"
       ]
     },
-    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'"
+    "render_error": "[Errno 2] No such file or directory: 'ffmpeg'",
+    "youtube_id": "lWupihC5ywQ",
+    "youtube_url": "https://youtube.com/shorts/lWupihC5ywQ"
   },
   {
     "clave": "catalogo_digital",
