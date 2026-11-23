@@ -1,20 +1,27 @@
-# Último reporte (2026-11-23 00:51 UTC)
+# Último reporte (2026-11-23 06:13 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-22-en-short-top10-africa-views → https://youtu.be/tzJ6Uhbfxjc
-- top10-redes: 2026-11-22-en-short-top10-africa-comments → https://youtu.be/4N4jNd7lTQE
-- top10-redes: 2026-11-22-en-short-top10-oceania-likes → https://youtu.be/9l95VCZQ-Ts
-- mayordom: 2026-11-22-es-short1-el-ladron-y-el-pastor → https://youtu.be/LIQDcDOhUg0
-- escuela-sabatica-es: 2026-11-22-es-short1-probad-los-espiritus → https://youtu.be/ZY18_jufOb8
-- escola-sabatina-pt: 2026-11-22-pt-short1-provai-os-espiritos → https://youtu.be/kKmMRvwv__Y
-- mayordom: 2026-11-22-es-short3-cinco-veces-yo → https://youtu.be/2Casq_B7bpY
-- escuela-sabatica-es: 2026-11-22-es-short3-senales-y-prodigios → https://youtu.be/XEGt1nOSKz8
+- escola-sabatina-pt: 2026-11-22-pt-short3-milagre-nao-basta → https://youtu.be/9-m24XSvRjo
+- mayordom: 2026-11-22-es-short2-mas-bienaventurado: pistas de idioma listas para Studio → release «audios-extra»
+- mayordom: 2026-11-22-es-short2-mas-bienaventurado → https://youtu.be/x5fAJDSrZSo
+- escuela-sabatica-es: 2026-11-22-es-short2-aunque-se-cumpla: pistas de idioma listas para Studio → release «audios-extra»
+- escuela-sabatica-es: 2026-11-22-es-short2-aunque-se-cumpla → https://youtu.be/QGAh6lLw0BI
+- escola-sabatina-pt: 2026-11-22-pt-short2-sinais-de-mentira: pistas de idioma listas para Studio → release «audios-extra»
+- escola-sabatina-pt: 2026-11-22-pt-short2-sinais-de-mentira → https://youtu.be/74dxKnvrEj8
+- top10-redes: 2026-11-23-en-short-top10-africa-likes: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-23-en-short-top10-africa-likes → https://youtu.be/5WoxfcnqZIM
+- mayordom: 2026-11-23-es-short1-miedo-al-devorador: pistas de idioma listas para Studio → release «audios-extra»
+- mayordom: 2026-11-23-es-short1-miedo-al-devorador → https://youtu.be/uYNebehfic4
+- escuela-sabatica-es: 2026-11-23-es-short1-aunque-un-angel: pistas de idioma listas para Studio → release «audios-extra»
+- escuela-sabatica-es: 2026-11-23-es-short1-aunque-un-angel → https://youtu.be/PwmoGzqsttU
+- escola-sabatina-pt: 2026-11-23-pt-short1-nem-um-anjo: pistas de idioma listas para Studio → release «audios-extra»
+- escola-sabatina-pt: 2026-11-23-pt-short1-nem-um-anjo → https://youtu.be/mYbChLbHg00
 
 ## Fallos
 
 ## Instagram/Facebook
-- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AUW21klb4liSANpAt1KSB1u"}})
-- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A5SX6wud20s4-oL9kEweh-t"}})
-- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"Al_5YBpvnM0oKY_TBRiYVLi"}})
-- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AgWIbpyRgTDH-T9zuYa8I_3"}})
-- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ARBEYqp-hqDKG_NDpqE1ERO"}})
+- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ASg6L9mRg6pdfImihF9NhHE"}})
+- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AwDnozeriOtkEVJZV_br5Wv"}})
+- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ABxSUyNS_cOmOSa7yKZxJ7i"}})
+- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AWvyZumU5zFqZWMVpwYs8Vs"}})
+- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AhET9ovcn9RE-_gvYPglf7p"}})
