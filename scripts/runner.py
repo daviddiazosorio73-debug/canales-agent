@@ -168,6 +168,23 @@ def main():
                 (proj / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
             multi = bool(g.get("audios_extra"))  # 1 video con varias pistas de idioma: sin subtítulos quemados
             run("render.py", proj, env, *(["--sin-subtitulos-quemados"] if multi else []))
+            # Idiomas extra para todos los canales (orden del Fundador, 23-nov-2026): traducción del audio
+            # (texto narrado) → título/descripción localizados + pistas de audio en la release «audios-extra».
+            idiomas = [l for l in (cfg.get("idiomas_extra", canales.get("_idiomas_extra", {}).get("idiomas", []))) if l != g["lang"]]
+            if idiomas:
+                r = subprocess.run([sys.executable, str(SCRIPTS / "traducir.py"), str(proj), *idiomas], env=env)
+                if r.returncode:
+                    print("AVISO: traducción a idiomas extra no se completó", flush=True)
+                g = json.loads((proj / "guion.json").read_text())
+                voces = canales.get("_idiomas_extra", {}).get("voces", {})
+                pistas = dict(g.get("audios_extra") or {})
+                for l in idiomas:
+                    if voces.get(l) and any(e.get(f"texto_{l}") for e in g["escenas"]):
+                        pistas.setdefault(l, voces[l])
+                if pistas:
+                    g["audios_extra"] = pistas
+                    (proj / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
+                    multi = True  # el video ya se renderizó: solo se generan las pistas aparte
             run("thumbnail.py", proj, env)
             if top10:
                 run_opc("top10_miniatura.py", proj, env)

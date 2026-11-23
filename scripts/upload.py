@@ -74,7 +74,10 @@ def main():
     locs = g.get("seo", {}).get("localizaciones") or {}
     partes = "snippet,status"
     if locs:
-        body["localizations"] = {l: {"title": v["title"][:100], "description": v["description"][:5000]}
+        def corta(t, n):  # YouTube mide la descripción en BYTES (árabe, chino y coreano ocupan 2-3 por letra)
+            t = (t or "").replace("<", "‹").replace(">", "›")
+            return t.encode()[:n].decode(errors="ignore").strip()
+        body["localizations"] = {l: {"title": (v.get("title") or m["titulo"])[:100], "description": corta(v.get("description"), 4900)}
                                  for l, v in locs.items() if l != m["idioma"]}
         partes += ",localizations"
     req = yt.videos().insert(part=partes, body=body,

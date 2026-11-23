@@ -449,5 +449,23 @@
       "en",
       "pt"
     ]
+  },
+  "_idiomas_extra": {
+    "nota": "Orden del Fundador 23-nov-2026: todos los videos y Shorts con idiomas extra desde el audio (texto narrado). traducir.py → seo.localizaciones + pistas audio_<idioma>.m4a/subtítulos en la release «audios-extra» (YouTube Studio → Idiomas; la API no sube pistas). Doblaje automático de YouTube (ES→EN/PT/AR) se activa en Studio. Un canal puede fijar su propia lista con \"idiomas_extra\".",
+    "idiomas": [
+      "en",
+      "pt",
+      "ar",
+      "zh",
+      "ko"
+    ],
+    "voces": {
+      "en": "en-US-AndrewNeural",
+      "pt": "pt-BR-AntonioNeural",
+      "ar": "ar-SA-HamedNeural",
+      "zh": "zh-CN-YunxiNeural",
+      "ko": "ko-KR-InJoonNeural",
+      "es": "es-MX-JorgeNeural"
+    }
   }
 }

@@ -9,6 +9,10 @@ from pathlib import Path
 from common import load_json, save_json, ts
 
 LIMITS = {"titulo": 100, "descripcion": 5000, "tags_total": 500}
+GEO_TXT = {"es": {"resumen": "En resumen", "preguntas": "Preguntas que responde este video", "refs": "Referencias"},
+           "pt": {"resumen": "Em resumo", "preguntas": "Perguntas que este vídeo responde", "refs": "Referências"},
+           "en": {"resumen": "In short", "preguntas": "Questions this video answers", "refs": "References"},
+           "it": {"resumen": "In breve", "preguntas": "Domande a cui risponde questo video", "refs": "Riferimenti"}}
 CREDITOS_TXT = {"es": "Imágenes y videos", "pt": "Imagens e vídeos", "en": "Images and footage", "fr": "Images et vidéos", "it": "Immagini e video"}
 CAP_TXT = {"es": "Capítulos", "pt": "Capítulos", "en": "Chapters", "fr": "Chapitres", "it": "Capitoli"}
 
@@ -30,7 +34,19 @@ def main():
         bloque_caps = ""
         errores.append("Se necesitan ≥3 capítulos y el primero en 00:00 (marca 'capitulo' en la escena 1).")
 
-    desc = seo["descripcion"].strip() + bloque_caps
+    # GEO (generative engine optimization, orden del Fundador 23-nov-2026): respuesta directa arriba,
+    # preguntas que responde el video y referencias explícitas, para que buscadores con IA lo entiendan y lo citen.
+    G = GEO_TXT.get(lang, GEO_TXT["es"])
+    desc = seo["descripcion"].strip()
+    if seo.get("resumen"):
+        desc = f"{G['resumen']}: {seo['resumen'].strip()}\n\n" + desc
+    if seo.get("preguntas"):
+        desc += f"\n\n{G['preguntas']}:\n" + "\n".join(f"• {q.strip()}" for q in seo["preguntas"][:6])
+    refs = list(dict.fromkeys(r.strip() for e in g.get("escenas", []) for r in str(e.get("referencia") or "").split("·") if r.strip()))
+    faltan = [r for r in refs if r not in desc]
+    if faltan:
+        desc += f"\n\n{G['refs']}: " + " · ".join(faltan[:12])
+    desc += bloque_caps
     if seo.get("hashtags"):
         desc += "\n\n" + " ".join("#" + h.lstrip("#") for h in seo["hashtags"][:8])
     base_desc = desc  # sin créditos: se usa si hay que acortar
