@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-23T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "What if an angel brought a new message? #shorts",
+        "description": "Imagine a message brought by an angel from heaven. Would you accept it right away? An apostle answered this question in a surprising way. Galatians 1:8 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "ماذا لو أحضر ملاك رسالة جديدة؟ #shorts",
+        "description": "تخيل رسالة يحملها ملاك من السماء. هل كنت ستقبلها على الفور؟ أجاب أحد الرسل على هذا السؤال بطريقة مفاجئة. غلاطية 1: 8 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "如果一位天使带来一条新的讯息呢？ #shorts",
+        "description": "想象一下，一位天上的天使带来了一条信息。您会当场接受吗？一位使徒以一种令人惊讶的方式回答了这个问题。加拉太书 1:8 订阅，1 分钟内即可获得更多安息日学堂内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "만약 천사가 새로운 메시지를 가져온다면 어떨까요? #shorts",
+        "description": "하늘의 천사가 전하는 메시지를 상상해 보십시오. 당장 받아들이시겠습니까? 한 사도가 이 질문에 놀라운 방식으로 답했습니다. 갈라디아서 1:8 1분 안식일학교 더 보시려면 구독하세요. 인공 음성으로 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "bright light rays breaking through dark clouds"
-      }
+      },
+      "texto_en": "Imagine a message brought by an angel from heaven. Would you accept it right away? An apostle answered this question in a surprising way.",
+      "texto_ar": "تخيل رسالة يحملها ملاك من السماء. هل كنت ستقبلها على الفور؟ أجاب أحد الرسل على هذا السؤال بطريقة مدهشة.",
+      "texto_zh": "想象一下，一位天上的天使带来了一条信息。您会当即接受吗？一位使徒以令人惊讶的方式回答了这个问题。",
+      "texto_ko": "하늘의 천사가 전하는 메시지를 상상해 보세요. 당장 받아들이시겠습니까? 한 사도가 이 질문에 놀라운 방식으로 답했습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "two old manuscripts side by side on wooden desk"
-      }
+      },
+      "texto_en": "Galatians 1, verse 8. Paul wrote that if he himself, or even an angel from heaven, were to proclaim a gospel different from the one they had already received, he would be accursed. Strong, isn't it? That's today's theme for Lesson Nine, Testing the Prophets: In Harmony with the Bible. The apparent origin of a message does not determine anything: neither the reputation of the speaker, nor the emotion of the moment, nor an impressive experience. What determines it is whether it agrees with what God has already revealed. A true prophet does not contradict Scripture. Before believing, compare. Comment \"I compare it with the Bible.\"",
+      "texto_ar": "غلاطية واحد، الآية الثامنة. كتب بولس أنه إذا أعلن هو نفسه، أو حتى ملاك من السماء، إنجيلًا مختلفًا عن الإنجيل الذي تلقوه بالفعل، فسيكون ملعونًا. قوي، أليس كذلك؟ هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: بما يتوافق مع الكتاب المقدس. لا يحدد المصدر الظاهري للرسالة أي شيء: لا شهرة المتحدث، ولا عاطفة اللحظة، ولا تجربة مؤثرة. ما يحدد ذلك هو ما إذا كانت تتفق مع ما كشفه الله بالفعل. النبي الحقيقي لا يتعارض مع الكتاب المقدس. قبل أن تؤمن، قارن. علّق بعبارة \"أقارن بالكتاب المقدس\".",
+      "texto_zh": "加拉太书第一章第八节。保罗写道，如果他自己，甚至天上的使者，传与他们所受的福音不同的福音，他就要被咒诅。很严厉，不是吗？这是今天第9课的主题：检验先知：与圣经保持一致。信息的表面来源并不决定任何事情：既不是说话者的名望，也不是当时的激情，更不是令人印象深刻的经历。 决定性因素在于它是否与上帝已经启示的内容相符。真正的先知不会与圣经相悖。在相信之前，请先进行比较。请评论“我将其与圣经进行比较”。",
+      "texto_ko": "갈라디아서 1장 8절입니다. 바울은 자신이나 심지어 하늘의 천사라도 그들이 이미 받은 것과 다른 복음을 전한다면 저주를 받을 것이라고 썼습니다. 강렬하죠, 그렇죠? 오늘 9과, '선지자들을 시험에 들게 하다: 성경과 조화'의 주제입니다. 메시지의 외견상 출처는 아무것도 결정하지 않습니다. 말하는 사람의 명성도, 그 순간의 감정도, 인상적인 경험도 아닙니다. 중요한 것은 그것이 하나님께서 이미 계시하신 것과 일치하는지 여부입니다. 참된 선지자는 성경과 모순되지 않습니다. 믿기 전에 비교해 보세요. \"성경과 비교합니다\"라고 댓글을 다세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
