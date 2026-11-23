@@ -33,9 +33,10 @@
       "shorts"
     ],
     "categoria_id": "24",
-    "privacidad": "private",
-    "publicar_en": "2026-11-22T11:00:00Z",
-    "lista_id": null
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null,
+    "localizaciones": {}
   },
   "escenas": [
     {
