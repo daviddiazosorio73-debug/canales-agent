@@ -59,7 +59,7 @@ def youtube(cola):
     yt = upload.service("tecnologia")
     atrasados = 0
     for it in sorted(cola, key=lambda x: x["publicar_en"]):
-        if it.get("youtube_id"):
+        if it.get("youtube_id") or it.get("pausado"):
             continue
         t = fecha(it["publicar_en"])
         if t > ahora() + timedelta(hours=VENTANA_H):
@@ -105,7 +105,7 @@ def meta_reels(cola):
         print("Meta: no pude leer la Página:", meta.limpio(str(e))[:200])
         return
     for it in sorted(cola, key=lambda x: x["publicar_en"]):
-        if fecha(it["publicar_en"]) > ahora():
+        if fecha(it["publicar_en"]) > ahora() or it.get("pausado"):
             continue
         if it.get("meta_intentos", 0) >= 3:
             continue
