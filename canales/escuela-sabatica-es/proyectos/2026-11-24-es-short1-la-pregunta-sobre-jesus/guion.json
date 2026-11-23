@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The question about Jesus that exposes a false prophet ❓ #shorts",
+        "description": "John left a key question to determine whether a spirit comes from God. It's not about miracles. 1 John 4:2–3 Subscribe for more 1-Minute Sabbath School. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "A pergunta sobre Jesus que desmascara um falso profeta ❓ #shorts",
+        "description": "João deixou uma pergunta-chave para saber se um espírito vem de Deus. Não se trata de milagres. 1 João 4:2-3 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "السؤال عن يسوع الذي يكشف عن نبي كاذب ❓ #shorts",
+        "description": "ترك يوحنا سؤالًا أساسيًا لمعرفة ما إذا كان الروح من الله. لا يتعلق الأمر بالمعجزات. 1 يوحنا 4: 2-3 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "揭露假先知的一个关于耶稣的问题 ❓ #shorts",
+        "description": "约翰留下了一个关键问题，以判断一种灵是否来自上帝。这不是关于神迹的问题。约翰一书 4:2-3 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "거짓 선지자를 폭로하는 예수님에 대한 질문 ❓ #shorts",
+        "description": "요한은 어떤 영이 하나님으로부터 오는 것인지 알기 위한 핵심적인 질문을 남겼습니다. 그것은 기적에 관한 것이 아닙니다. 요한일서 4:2-3 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "old key on worn wooden surface"
-      }
+      },
+      "texto_en": "John left a key question to determine whether a spirit comes from God. It's not about miracles.",
+      "texto_pt": "João deixou uma pergunta-chave para saber se um espírito vem de Deus. Não se trata de milagres.",
+      "texto_ar": "ترك يوحنا سؤالًا أساسيًا لمعرفة ما إذا كان الروح من الله. لا يتعلق الأمر بالمعجزات.",
+      "texto_zh": "约翰留下了一个关键问题，以判断某位灵是否来自上帝。这与奇迹无关。",
+      "texto_ko": "요한은 영이 하나님으로부터 오는 것인지 알기 위한 핵심적인 질문을 남겼습니다. 그것은 기적에 관한 것이 아닙니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "manger in quiet stable at night with soft light"
-      }
+      },
+      "texto_en": "It is in 1 John 4, verses 2 and 3. Every spirit that confesses that Jesus Christ has come in the flesh is from God, and every spirit that does not confess Jesus is not from God. This is today's topic in Lesson Nine, Testing the Prophets: The Incarnation of Christ. Why that test? Because if Jesus was not truly human, He could not live our life or die our death. Denying the incarnation empties the gospel. A message that dilutes who Jesus is, however nice it may sound, does not come from God. Subscribe and comment: Who is Jesus to you?",
+      "texto_pt": "Está em 1 João 4, versículos 2 e 3. Todo espírito que confessa que Jesus Cristo veio em carne é de Deus; e todo espírito que não confessa a Jesus não é de Deus. É o tema de hoje na lição nove, Testando os profetas: a encarnação de Cristo. Por que esse teste? Porque, se Jesus não era verdadeiramente humano, Ele não poderia viver a nossa vida nem morrer a nossa morte. Negar a encarnação esvazia o evangelho. Uma mensagem que dilui quem é Jesus, por mais bonita que possa parecer, não vem de Deus. Inscreva-se e comente: quem é Jesus para você?",
+      "texto_ar": "إنه في رسالة يوحنا الأولى الإصحاح الرابع، الآيتان الثانية والثالثة. كل روح تعترف بأن يسوع المسيح قد جاء في الجسد فهي من الله. وكل روح لا تعترف بيسوع ليست من الله. هذا هو موضوع اليوم في الدرس التاسع، اختبار الأنبياء: تجسد المسيح. لماذا هذا الاختبار؟ لأنه إذا لم يكن يسوع إنسانًا حقيقيًا، فإنه لم يكن قادرًا على أن يعيش حياتنا أو أن يموت موتنا. إنكار التجسد يبطل الإنجيل. الرسالة التي تخفف من حقيقة من هو يسوع، مهما كانت جميلة، فهي ليست من الله. اشترك وعلق: من هو يسوع بالنسبة لك؟",
+      "texto_zh": "经文出自约翰一书第四章第 2 和第 3 节。凡灵承认耶稣基督是成了肉身来的，就是出于神的；凡灵不承认耶稣，就不是出于神。这是今天第九课的主题，检验先知：基督的道成肉身。为什么要有这样的检验？因为如果耶稣不是真正的人，祂就无法过我们的生活，也无法经历我们的死亡。否认道成肉身就使福音失去了意义。 一种淡化耶稣是谁的信息，无论听起来多么悦耳，都不是来自上帝。订阅并留言：对您来说，耶稣是谁？",
+      "texto_ko": "요한일서 4장 2절과 3절에 나옵니다. 예수 그리스도께서 육신으로 오신 것을 시인하는 영은 모두 하나님께 속한 것이요, 시인하지 않는 영은 하나님께 속한 것이 아닙니다. 오늘 9과에서 다룰 주제는 '선지자 시험하기: 그리스도의 성육신'입니다. 왜 이런 시험이 필요할까요? 왜냐하면 예수님이 진정으로 인간이 아니셨다면, 우리 삶을 살지도, 우리 죽음을 죽으실 수도 없었기 때문입니다. 강림을 부인하는 것은 복음을 무효화합니다. 예수님이 누구신지를 희석시키는 메시지는 아무리 듣기 좋아도 하나님으로부터 온 것이 아닙니다. 구독하고 댓글을 달아주세요. 예수님은 당신에게 어떤 분이신가요?"
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
