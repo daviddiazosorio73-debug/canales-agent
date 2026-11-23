@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-29",
+  "tema": "Daniel y la prueba de los diez días: probar con medida y con evidencia",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿10 días?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Daniel y la prueba de los 10 días: lo que nos enseña sobre la espirulina #shorts",
+    "descripcion": "Daniel y la prueba de los diez días: probar con medida y con evidencia. Daniel 1:8-16 (paráfrasis).\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "Daniel",
+      "salud espiritual",
+      "evidencia",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hace siglos, un joven propuso una prueba de diez días con su comida.",
+      "texto_pantalla": "¿Una prueba de 10 días?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient scroll candle light table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Daniel capítulo uno, un joven lejos de su tierra pide que durante diez días a él y a sus amigos les den legumbres y agua, y que después los comparen con quienes comían de la mesa del rey. No es un ensayo clínico. Pero enseña algo que la ciencia respeta: probar con humildad, comparar y mirar el resultado. Así vamos a estudiar la espirulina en Cryptuline: sin miedo y sin moda. Por ejemplo, la revisión sistemática de Calella, de dos mil veintidós, solo pudo incluir dieciocho estudios, y pide más ensayos. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Daniel 1:8-16 · Calella P, 2022",
+      "emocion": "agil",
+      "visual": {
+        "query": "bowl of lentils and glass of water"
+      }
+    }
+  ]
+}

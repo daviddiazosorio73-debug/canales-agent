@@ -1,0 +1,61 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-29",
+  "tema": "Espirulina: 1 621 registros revisados, solo 18 estudios incluidos",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Solo 18?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Espirulina: revisaron 1 621 registros y solo quedaron 18 estudios. ¿Por qué? #shorts",
+    "descripcion": "Espirulina: 1 621 registros revisados, solo 18 estudios incluidos.\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "revisión sistemática",
+      "evidencia científica",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-30T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Mil seiscientos veintiún registros revisados. Solo dieciocho estudios pasaron el filtro.",
+      "texto_pantalla": "1 621 → 18",
+      "emocion": "gancho",
+      "visual": {
+        "query": "stack of research papers desk"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es la revisión sistemática de Calella y su equipo, de la Universidad de Nápoles Parthenope, publicada en dos mil veintidós, sobre espirulina en personas con distintas enfermedades. Este estudio encontró mejoras en todas las condiciones estudiadas, menos en la infertilidad masculina. Pero los autores advierten que todavía hay muy pocos ensayos controlados para cada enfermedad, y que algunos son de calidad media. Por eso piden más investigación, junto a los tratamientos médicos, no en lugar de ellos. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Calella P, 2022 · Int J Food Sci Nutr",
+      "emocion": "agil",
+      "visual": {
+        "query": "magnifying glass over scientific chart"
+      }
+    }
+  ]
+}

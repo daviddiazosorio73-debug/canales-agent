@@ -1,0 +1,146 @@
+{
+  "lang": "es",
+  "tipo": "divulgacion",
+  "fecha": "2026-11-29",
+  "serie": "Salud con ciencia · Cryptuline",
+  "tema": "Templanza: lo bueno, con medida y con evidencia (espirulina, el primer paso de la serie)",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "titulos_alternativos": [
+    "La miel de Proverbios y la espirulina: lo bueno, con medida",
+    "Espirulina: 1 621 registros, 18 estudios y una lección de templanza",
+    "Daniel, diez días y la espirulina: probar con medida y con evidencia"
+  ],
+  "miniatura": {
+    "linea1": "¿MÁS ES",
+    "linea2": "MEJOR?",
+    "etiqueta": "CRYPTULINE · CIENCIA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Espirulina y templanza: si algo es bueno, ¿más es mejor?",
+    "descripcion": "Si algo es bueno, ¿más es mejor? Empezamos en Cryptuline la serie sobre la investigación de la espirulina (Arthrospira platensis y Arthrospira maxima) con la templanza: lo bueno, con medida y con evidencia. Revisamos una revisión sistemática que reunió 18 estudios en personas con distintas enfermedades, una revisión sobre el rango de dosis y los posibles efectos adversos, y otra sobre la calidad y la contaminación de los productos. Y lo unimos con la Biblia (Proverbios 25:16, Gálatas 5:22-23, Daniel 1:8-16, 1 Corintios 10:31 y 9:25; paráfrasis) y con una idea de El ministerio de curación, de Elena G. de White. Si tomas medicamentos o tienes una enfermedad, no empieces ningún suplemento sin hablar antes con tu médico.\n\n💬 ¿En qué área de tu vida te cuesta más la medida? Cuéntanos en los comentarios.\n\n📚 Fuentes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "templanza",
+      "salud espiritual",
+      "dominio propio",
+      "superalimentos",
+      "Arthrospira platensis",
+      "revisión sistemática",
+      "suplementos",
+      "estilo de vida saludable",
+      "Cryptuline"
+    ],
+    "hashtags": [
+      "SaludEspiritual",
+      "SaludConCiencia",
+      "Cryptuline"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T23:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Introducción",
+      "emocion": "gancho",
+      "texto": "En la Biblia hay un consejo sobre la miel que parece escrito para la época de los superalimentos. Está en Proverbios, capítulo veinticinco, versículo dieciséis, y dice, en pocas palabras: si encontraste miel, come lo que te basta, no sea que te empalagues y termines devolviéndola. La miel es buena. El problema no es la miel: es la medida. Hoy empezamos en Cryptuline una nueva etapa. Semana a semana vamos a estudiar lo que dice de verdad la ciencia sobre la espirulina. Y quiero empezar con una pregunta que vale para la espirulina, para la miel y para casi todo en la vida: si algo es bueno, ¿más es mejor? Al final de este video te doy mi respuesta, con lo que dicen los estudios y con lo que dice la Biblia.",
+      "texto_pantalla": "Si algo es bueno, ¿más es mejor?",
+      "visual": {
+        "query": "honey dripping wooden spoon jar"
+      }
+    },
+    {
+      "id": "que_es",
+      "capitulo": "Qué es la templanza",
+      "emocion": "ensenanza",
+      "texto": "Empecemos por dos definiciones. La primera: templanza. En la Biblia aparece entre los frutos del Espíritu, en Gálatas capítulo cinco, versículos veintidós y veintitrés, junto al amor, la paz y la paciencia; algunas versiones la traducen como dominio propio. No es tristeza ni prohibición: es la capacidad de usar bien lo bueno y de dejar lo que hace daño. La segunda definición: espirulina. Es el nombre común de unos organismos microscópicos de las especies Arthrospira platensis y Arthrospira maxima. Una revisión publicada en el Journal of the American Nutrition Association la describe en su título como una cianobacteria comestible: un organismo que hace fotosíntesis, de color verde azulado, que se vende seco, en polvo o en tabletas. En estudios recientes también aparece con otro nombre de género, Limnospira. El martes te explico por qué tiene tres nombres.",
+      "texto_pantalla": "Templanza = usar bien lo bueno",
+      "referencia": "Gálatas 5:22-23 · Gogna S, 2022 · J Am Nutr Assoc",
+      "visual": {
+        "query": "spirulina powder bowl green"
+      }
+    },
+    {
+      "id": "estudio",
+      "capitulo": "Lo bueno, con evidencia",
+      "emocion": "narrativo",
+      "texto": "Lo bueno, con evidencia. En dos mil veintidós, Patrizia Calella y su equipo, de la Universidad de Nápoles Parthenope, en Italia, publicaron en el International Journal of Food Sciences and Nutrition una revisión sistemática. Buscaron estudios sobre suplementos de espirulina en personas con distintas enfermedades, tanto transmisibles como no transmisibles. Revisaron mil seiscientos veintiún registros, y solo dieciocho estudios, publicados entre dos mil uno y dos mil veinte, cumplieron los criterios para entrar. Este estudio encontró que, en general, los resultados apoyan beneficios de añadir espirulina a la dieta, con mejoras en todas las condiciones estudiadas, con una sola excepción: la infertilidad masculina. Pero los propios autores advierten dos cosas. Primera: el número de ensayos clínicos controlados sobre cada enfermedad todavía es muy bajo. Segunda: algunos estudios son de calidad media. Por eso concluyen que hace falta más investigación para confirmar su posible papel junto a los tratamientos médicos. Fíjate en esa palabra: junto. No en lugar de.",
+      "texto_pantalla": "1 621 registros → 18 estudios",
+      "referencia": "Calella P, 2022 · Int J Food Sci Nutr",
+      "visual": {
+        "query": "scientist reading research papers desk"
+      }
+    },
+    {
+      "id": "medida",
+      "capitulo": "Lo bueno, con medida",
+      "emocion": "ensenanza",
+      "texto": "Lo bueno, con medida. La revisión de Simran Gogna y su equipo, de la Universidad Profesional Lovely, en la India, publicada en dos mil veintidós, menciona que la dosis de seguridad recomendada para adultos ronda entre tres y diez gramos al día. Es un rango citado en una revisión, no una receta para ti. La misma revisión advierte posibles efectos adversos por toxinas, como las microcistinas, que podrían contribuir a molestias digestivas o a daño del hígado. Otra revisión, de Silke Grosshagauer y su equipo, de la Universidad de Viena, en dos mil veinte, explica que todavía se sabe poco sobre la contaminación de los productos de espirulina con toxinas de cianobacterias, metales pesados, pesticidas u otros contaminantes; que algunos estudios encontraron niveles altos; y que tomarla a diario, en cantidades de gramos, exige vigilar más de cerca esos componentes. Es decir: no basta con que algo sea bueno. Importa cuánto, cómo se produjo y quién lo toma.",
+      "texto_pantalla": "Importa cuánto y cómo se produjo",
+      "referencia": "Gogna S, 2022 · Grosshagauer S, 2020",
+      "visual": {
+        "query": "kitchen scale measuring green powder"
+      }
+    },
+    {
+      "id": "mitos",
+      "capitulo": "Mitos vs evidencia",
+      "emocion": "agil",
+      "texto": "Tres mitos rápidos. Mito uno: si es natural, es seguro. La calidad del producto importa, y la ciencia pide vigilarla. Mito dos: si un poco es bueno, mucho es mejor. La revisión que cita un rango de dosis habla de límites, no de cuanto más, mejor. Mito tres: un superalimento compensa todo lo demás. Ninguno de los estudios que revisamos hoy dice eso. La revisión de Calella habla de un posible complemento junto al tratamiento médico, y pide más ensayos. La templanza también es esto: no exagerar la promesa.",
+      "texto_pantalla": "Natural no es igual a seguro",
+      "visual": {
+        "query": "supermarket shelf supplements blurred"
+      }
+    },
+    {
+      "id": "fe",
+      "capitulo": "Daniel y la prueba de los diez días",
+      "emocion": "reflexivo",
+      "texto": "Ahora, el puente. En el libro de Daniel, capítulo uno, versículos ocho al dieciséis, un joven llevado lejos de su tierra decide no contaminarse con la comida del rey. No hace un escándalo: propone una prueba. Pide que durante diez días a él y a sus amigos les den legumbres y agua, y que después los comparen con los jóvenes que comían de la mesa real. Al final de los diez días, cuenta el relato, se veían mejor y más saludables que los demás. No es un ensayo clínico, y no lo voy a presentar como tal. Pero tiene algo que la buena ciencia respeta: una propuesta humilde, un tiempo definido, una comparación y la disposición a mirar el resultado. Esa es la templanza que propongo para esta serie: no rechazar por miedo ni aceptar por moda, sino probar con medida y con evidencia. El apóstol Pablo lo lleva más lejos en Primera de Corintios, capítulo diez, versículo treinta y uno: aun lo que comemos y bebemos puede ser para la gloria de Dios. Y en el capítulo nueve, versículo veinticinco, recuerda que el atleta se disciplina en todo por un premio que se marchita.",
+      "texto_pantalla": "Diez días, una comparación",
+      "referencia": "Daniel 1:8-16 · 1 Corintios 10:31 · 1 Corintios 9:25",
+      "visual": {
+        "query": "simple meal vegetables and water glass table"
+      }
+    },
+    {
+      "id": "egw",
+      "capitulo": "Un remedio que atraviesa todo",
+      "emocion": "calido",
+      "texto": "Elena G. de White, en su libro El ministerio de curación, nombra la templanza entre los verdaderos remedios, junto al aire puro, la luz del sol, el descanso, el ejercicio, una alimentación adecuada, el agua y la confianza en el poder divino. Fíjate que la templanza no es un producto: es una forma de usar todo lo demás. Templanza en el trabajo, en el descanso, en la pantalla y también en la mesa. Y en una época en la que cada mes aparece un nuevo superalimento, la templanza nos ayuda a hacernos dos preguntas: ¿qué dice la evidencia? y ¿cuánto es suficiente?",
+      "texto_pantalla": "La templanza atraviesa todo",
+      "visual": {
+        "query": "morning sunlight garden table breakfast"
+      }
+    },
+    {
+      "id": "respuesta",
+      "capitulo": "La respuesta",
+      "emocion": "enfasis",
+      "texto": "Entonces, si algo es bueno, ¿más es mejor? Mi respuesta es no. Lo bueno se usa con medida y con evidencia. La espirulina tiene estudios interesantes, como los dieciocho que reunió la revisión de Calella, pero también tiene límites: pocos ensayos por enfermedad, calidad desigual y productos que deben vigilarse. La miel de Proverbios es buena; comerla toda de una vez, no. Y nada que quepa en una cuchara reemplaza un tratamiento indicado por tu médico ni un estilo de vida equilibrado.",
+      "texto_pantalla": "No: lo bueno, con medida",
+      "visual": {
+        "query": "small spoon green powder glass of water"
+      }
+    },
+    {
+      "id": "aplicacion",
+      "capitulo": "Para tu semana",
+      "emocion": "calido",
+      "texto": "¿Qué puedes hacer esta semana? Uno: antes de creer una promesa de salud, pregunta qué estudio la respalda, en cuántas personas y si fue en humanos o en animales. Dos: si tomas medicamentos, estás embarazada o tienes una enfermedad, no empieces ningún suplemento, tampoco espirulina, sin consultar antes a tu médico. Tres: practica la templanza en algo concreto, en la mesa o en la pantalla. El martes, salud: qué es de verdad la espirulina, por qué tiene tres nombres y qué dicen las revisiones científicas. Y el viernes, nutrición: proteína, hierro, ficocianina y un mito muy repetido sobre la vitamina B12. Suscríbete a Cryptuline y cuéntame en los comentarios: ¿en qué área de tu vida te cuesta más la medida?",
+      "visual": {
+        "query": "person writing notes notebook coffee morning"
+      }
+    }
+  ]
+}

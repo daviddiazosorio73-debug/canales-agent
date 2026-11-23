@@ -1,0 +1,62 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-29",
+  "tema": "La miel de Proverbios y la espirulina: lo bueno, con medida",
+  "voz_fundador": true,
+  "color_marca": [
+    46,
+    196,
+    140
+  ],
+  "contenido_sintetico": true,
+  "revision_medica": "pendiente",
+  "miniatura": {
+    "linea1": "¿Más es mejor?",
+    "linea2": "?",
+    "etiqueta": "CRYPTULINE"
+  },
+  "seo": {
+    "titulo": "Si algo es bueno, ¿más es mejor? La miel de Proverbios y la espirulina #shorts",
+    "descripcion": "La miel de Proverbios y la espirulina: lo bueno, con medida. Proverbios 25:16 (paráfrasis).\n\n📚 Fuentes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina- An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (en línea: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n\nContenido educativo para mayores de 18 años. No reemplaza la consulta médica: consulta a tu médico antes de cambiar tu alimentación, tu actividad física o un tratamiento. Narración con voz sintética. Cryptuline.",
+    "tags": [
+      "espirulina",
+      "templanza",
+      "salud espiritual",
+      "dosis",
+      "salud con ciencia",
+      "cryptuline",
+      "shorts"
+    ],
+    "hashtags": [
+      "Cryptuline",
+      "SaludConCiencia",
+      "shorts"
+    ],
+    "categoria_id": "27",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Si algo es bueno, ¿más es mejor? La Biblia responde con un ejemplo de miel.",
+      "texto_pantalla": "¿Más es mejor?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "honey jar wooden spoon"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Proverbios veinticinco, versículo dieciséis, el consejo es sencillo: si encontraste miel, come lo que te basta, no sea que te empalagues. Hoy empezamos en Cryptuline una serie sobre la ciencia de la espirulina, y empezamos por la medida. Una revisión de Gogna, de dos mil veintidós, menciona para adultos un rango de seguridad de tres a diez gramos al día, y advierte posibles efectos adversos por toxinas como las microcistinas. Lo bueno, con medida. Hoy a las seis de la tarde, hora de Lima, el video completo: templanza, espirulina y una prueba de diez días en la Biblia. Guarda este video y compártelo con alguien a quien le pueda servir. Consulta a tu médico antes de hacer cambios. Síguenos en Cryptuline para más ciencia de salud.",
+      "referencia": "Proverbios 25:16 · Gogna S, 2022",
+      "emocion": "agil",
+      "visual": {
+        "query": "green spirulina powder small spoon"
+      }
+    }
+  ]
+}
