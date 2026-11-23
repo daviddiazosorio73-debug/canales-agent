@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-23T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The test that separates light from darkness 🌅 #shorts",
+        "description": "There is a verse that works like a light switch: it sheds light on any message. Isaiah 8:20 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "O teste que separa a luz da escuridão 🌅 #shorts",
+        "description": "Há um versículo que funciona como um interruptor: ele acende a luz sobre qualquer mensagem. Isaías 8:20 Inscreva-se para ver mais vídeos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الاختبار الذي يفصل النور عن الظلام 🌅 #shorts",
+        "description": "هناك آية تعمل كمفتاح: تضيء أي رسالة. إشعياء 8: 20 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "将光明与黑暗区分开来的测试 🌅 #shorts",
+        "description": "有一节经文就像一个开关：它能为任何信息点亮明灯。以赛亚书 8:20 订阅，以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "어둠 속에서 빛을 가려내는 테스트 🌅 #shorts",
+        "description": "어떤 메시지에도 빛을 비춰주는 스위치 같은 구절이 있습니다. 이사야 8:20 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "hand on light switch in dark room"
-      }
+      },
+      "texto_en": "There is a verse that works like a switch: it turns the light on for any message.",
+      "texto_pt": "Há um versículo que funciona como um interruptor: ele acende a luz sobre qualquer mensagem.",
+      "texto_ar": "هناك آية تعمل كمفتاح: تضيء أي رسالة.",
+      "texto_zh": "有一节经文的作用就像一个开关：它能为任何信息点亮明灯。",
+      "texto_ko": "스위치 역할을 하는 구절이 있습니다. 어떤 메시지에도 불을 밝혀줍니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "sunrise over calm sea horizon"
-      }
+      },
+      "texto_en": "It is in Isaiah 8, verse 20. The prophet says that we must turn to the law and to the testimony, and that if anyone does not speak according to this word, it is because there is no light in him. It is part of today's topic in lesson nine: in harmony with the Bible. The idea is simple and powerful: Scripture is the standard by which all teaching is measured, even that which claims to come from a prophet. If a message goes against what God has already commanded and revealed, it remains in darkness, even if it sounds very spiritual. Before accepting an idea, take it to the Bible. Subscribe and comment on which verse you use as your compass.",
+      "texto_pt": "Está em Isaías 8, versículo 20. O profeta diz que devemos recorrer à lei e ao testemunho, e que, se alguém não falar de acordo com isso, é porque não amanheceu para ele. Faz parte do tema de hoje na lição nove: em harmonia com a Bíblia. A ideia é simples e poderosa: as Escrituras são a regra pela qual todo ensino é medido, inclusive aquele que diz vir de um profeta. Se uma mensagem vai contra o que Deus já ordenou e revelou, ela permanece nas trevas, mesmo que pareça muito espiritual. Antes de aceitar uma ideia, leve-a à Bíblia. Inscreva-se e comente qual versículo você usa como bússola.",
+      "texto_ar": "إنه في سفر إشعياء الإصحاح الثامن، الآية العشرون. يقول النبي إنه يجب الرجوع إلى الشريعة والشهادة، وأنه إذا لم يتكلم أحد وفقًا لذلك، فذلك لأنه لم يشرق عليه الفجر. وهو جزء من موضوع اليوم في الدرس التاسع: بما يتوافق مع الكتاب المقدس. الفكرة بسيطة وقوية: الكتاب المقدس هو القاعدة التي تُقاس بها كل التعاليم، حتى تلك التي يقال إنها تأتي من نبي. إذا كانت الرسالة تتعارض مع ما أمر به الله وكشفه بالفعل، فهي لا تزال في الظلام، حتى لو بدت روحانية للغاية. قبل قبول أي فكرة، قارنها بالكتاب المقدس. اشترك وعلق على الآية التي تستخدمها كبوصلة.",
+      "texto_zh": "它在以赛亚书第八章第二十节。先知说，我们必须遵行律法和见证，如果有人不照此说话，那是因为他没有看见晨光。这是今天第九课主题的一部分：与圣经相符。这个观点既简单又有力：圣经是衡量所有教导的准绳，即使是自称来自先知的教导也不例外。 如果一个信息与上帝已经吩咐和启示的内容相悖，那么即使它听起来非常属灵，也仍然是错误的。在接受一个观点之前，请先对照圣经。订阅并留言，分享您将哪节经文用作指南。",
+      "texto_ko": "이사야 8장 20절에 나옵니다. 선지자는 율법과 증거로 나아가야 하며, 만일 어떤 사람이 이에 따라 말하지 않는다면 그것은 그에게 빛이 비치지 않았기 때문이라고 말합니다. 이것은 오늘 9과 주제의 일부입니다. 성경과 일치하는 것. 이 생각은 단순하면서도 강력합니다. 성경은 모든 가르침, 심지어 선지자에게서 왔다고 하는 가르침까지도 평가하는 기준입니다. 하나님께서 이미 명령하시고 계시하신 것과 배치되는 메시지는 아무리 영적으로 들리더라도 여전히 어둠 속에 있습니다. 어떤 생각을 받아들이기 전에 성경에 비춰 보십시오. 구독하고 나침반처럼 사용하는 성경 구절이 무엇인지 댓글로 알려주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
