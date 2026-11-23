@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Do anyone in heaven understand how you feel?) #shorts",
+        "description": "When you suffer, perhaps you think that nobody up there understands what human beings are.\n\nHebrews 2: 14-18\n\nSubscribe for more Sabbatical School in 1 minute. Narration with a synthetic voice. Shorts"
+      },
+      "pt": {
+        "title": "Alguém no céu entende como você se sente?) #shorts",
+        "description": "Quando sofres, talvez penses que ninguém lá em cima compreende o que são os seres humanos.\n\nHebreus 2: 14-18\n\nInscreva-se para mais Escola Sabática em 1 minuto. Narração com uma voz sintética. Calções"
+      },
+      "ar": {
+        "title": "هل يفهم أي شخص في السماء كيف تشعر؟ #shorts",
+        "description": "عندما تعاني، ربما تعتقد أن لا أحد هناك يفهم ما هو البشر.\n\nHebrews 2: 14-18\n\nتصوّر ثانوي لمدرسة ساباتية في دقيقة واحدة الغضب مع صوت اصطناعي قصيرة"
+      },
+      "zh-Hans": {
+        "title": "天上有人理解你的感受吗? ) #shorts",
+        "description": "当你受苦时,也许你认为 没有人知道人类是什么。\n\n希伯来语2:14-18\n\n在1分钟内订阅更多的萨比塔学校. 以合成声闻. 短裤"
+      },
+      "ko": {
+        "title": "천국에서 누구가 어떻게 느끼나요?) #shorts",
+        "description": "당신이 겪을 때, 아마도 당신은 인간이 무엇인지 이해하는 것이 아니라 생각한다.\n\n히브리서 2: 14-18\n\n1 분에 더 Sabbatical 학교에 가입하십시오. 합성 음성과 비교. 이름 *"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "person sitting alone on bench in rain seen from behind"
-      }
+      },
+      "texto_en": "When you suffer, perhaps you think that nobody up there understands what human beings are.",
+      "texto_pt": "Quando sofres, talvez penses que ninguém lá em cima compreende o que são os seres humanos.",
+      "texto_ar": "عندما تعاني، ربما تعتقد أن لا أحد هناك يفهم ما هو البشر.",
+      "texto_zh": "当你受苦时,也许你认为 没有人知道人类是什么。",
+      "texto_ko": "당신이 겪을 때, 아마도 당신은 인간이 무엇인지 이해하는 것이 아니라 생각한다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "hand reaching out to help another hand"
-      }
+      },
+      "texto_en": "Hebrews two, verses 14 to 18, responded: \"Jesus was his share of our flesh and blood, and in all his brothers and sisters were made to be a merciful high priest, and because He Himself suffered while He was tempted, He can help those who are tempted. That links with today's theme in lesson 9: the Incarnation of Christ. Incarnation isn't just doctrine. It's consolation. That's why it's so important that a message's clear. The Jesus who became man understands you from within. Subscribe and comment\" He understands me. \"",
+      "texto_pt": "Hebreus dois, versículos 14 a 18, respondeu: \"Jesus era sua parte de nossa carne e sangue, e em todos os seus irmãos e irmãs foi feito para ser um sumo sacerdote misericordioso, e porque Ele mesmo sofreu enquanto Ele foi tentado, Ele pode ajudar aqueles que são tentados. Isso se relaciona com o tema de hoje na lição 9: a Encarnação de Cristo. Encarnação não é apenas doutrina. É um consolo. É por isso que é tão importante que uma mensagem seja clara. O Jesus que se tornou homem entende você de dentro. Assine e comente\" Ele me entende.\"",
+      "texto_ar": "\"القلبان الثانيان، الآية من 14 إلى 18، ردّاً: \"المسيح كان نصيبه من لحمنا ودمّنا، وفي جميع إخوته وشقيقاته جُعلوا ليكونوا قسّاً رفيعاً رحماً، ولأنّه عانى بينما كان مُغرياً، يمكنه مساعدة من يُغرى. تلك الصلات مع موضوع اليوم في الدرس 9: حبس المسيح القذف ليس مجرد نظرية إنه تعزية لهذا من المهم جداً أن تكون الرسالة واضحة المسيح الذي أصبح رجلاً يفهمك من الداخل يتفهمني",
+      "texto_zh": "希伯来人第二篇,第14至18节,回答说:\"耶稣是我们的血肉之分,在他的兄弟姐妹中,他都成了仁慈的大祭司,由于他自己在受诱惑时遭受了痛苦,他可以帮助受诱惑的人. 这与今天第9课的主题:基督的化身有关。 化身不仅仅是学说. 谓之安慰. 故言之重,以传之明. 成为人类的耶稣从内部理解你 订阅和评论\" 他理解我。\"",
+      "texto_ko": "히브리스 두, 구절 14 에 18, 응답: \"제우스는 우리의 육체와 혈액의 그의 몫이었다, 그리고 그의 형제와 자매 모두는 자비로운 높은 제사로되기 위해 만들어졌다, 그는 자신이 유혹 한 동안 고통, 그는 유혹하는 사람들을 도울 수. 그 링크를 가진 오늘의 테마에서 수업 9: The Incarnation of Christ. Incarnation은 단지 교리가 아닙니다. 그것은 별자리입니다. 그것은 왜 그렇게 중요 한 메시지의 분명. 남자가 내 안에 당신을 이해 한 예수. 구독하고 댓글\"그는 나를 이해한다. \""
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
