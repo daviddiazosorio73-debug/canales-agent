@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "God doesn't want your money that way #shorts",
+        "description": "That each man give as his heart decided, not with sadness and obligation: God loves the cheerful giver. (2 Corinthians 9: 7 · 1 John 4: 18, paraphrase RVR1960)\n\nSubscribe to MayorDom · Biblical Mayordomy. Narration with a synthetic voice. Shorts"
+      },
+      "pt": {
+        "title": "Deus não quer o teu dinheiro assim. #shorts",
+        "description": "Que cada homem dê como o seu coração decidiu, não com tristeza e obrigação: Deus ama o doador alegre. (2 Coríntios 9: 7 · 1 João 4: 18, parafrase RVR1960)\n\nAssine a MayorDom · Mayordomy Bíblica. Narração com uma voz sintética. Calções"
+      },
+      "ar": {
+        "title": "الله لا يريد مالك بهذه الطريقة #shorts",
+        "description": "أن يعطي كل رجل كما قرر قلبه، ليس بالحزن والالتزام: الله يحب المشجع (2 Corinthians 9: 7 · 1 John 4: 18, paraphrase RVR1960)\n\nSubscribe to MayorDom · Biblical Mayordomy. الغضب مع صوت اصطناعي قصيرة"
+      },
+      "zh-Hans": {
+        "title": "上帝不想要你那样的钱 #shorts",
+        "description": "每个人的心所决定 而不是悲伤和义务 神爱欢喜献者. (2科林斯语9:7 ^ 1 John 4:18,引文为RVR1960).\n\n向多姆市长订阅圣经市长领地。 以合成声闻. 短裤"
+      },
+      "ko": {
+        "title": "하나님은 당신의 돈을 원하지 않습니다 #shorts",
+        "description": "그 각 사람이 그의 마음으로 결정, 슬픔과 의무와: 하나님은 쾌활한 주자를 사랑합니다. (2 Corinthians 9 : 7 · 1 존 4 : 18, 파라페라세 RVR1960)\n\nMarketDom · Biblical Mayordomy에 가입하십시오. 합성 음성과 비교. 이름 *"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "worried face hands holding coins"
-      }
+      },
+      "texto_en": "There's a way to give that God doesn't seek. And many practice it every week without noticing.",
+      "texto_pt": "Há uma maneira de dar que Deus não procura. E muitos o praticam todas as semanas sem notar.",
+      "texto_ar": "هناك طريقة لإعطاء ذلك الله لا يسعى والعديد من المتدربين كل أسبوع بدون ملاحظة",
+      "texto_zh": "有方法可以给神不寻求。 每个星期都有很多人练习,没有注意到。",
+      "texto_ko": "하나님이 추구하지 않는 것을주는 방법이 있습니다. 그리고 많은 연습 그것 매주 noticing 없이."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "smiling hands giving gift"
-      }
+      },
+      "texto_en": "Paul writes this in Corinth's second nine, seven: that each man give as his heart decided, with no sadness or obligation, for God loves the cheerful giver. And John says in his first letter that in love there's no fear, because perfect love puts out fear. To be afraid isn't what God wants. Today at 6: 00 p.m. we discuss with the Bible the words if you don't tithe, the devour will reach you. I'll wait for you.",
+      "texto_pt": "Paulo escreve isto no segundo nove, sete de Corinto: que cada um dá como o seu coração decidiu, sem tristeza ou obrigação, porque Deus ama o doador alegre. E João diz em sua primeira carta que no amor não há medo, porque o amor perfeito põe fora o medo. Ter medo não é o que Deus quer. Hoje, às 18:00, discutimos com a Bíblia as palavras se você não der o dízimo, o devorador chegará até você. Eu espero por ti.",
+      "texto_ar": "(بول) يكتب هذا في (كورينث) الثاني في التاسعة والسابعة أن كل رجل يعطيه كما قرر قلبه بدون حزن أو التزام و (جون) يقول في رسالته الأولى أنه واقع في الحب لا يوجد خوف لأن الحب المثالي يضع الخوف الخوف ليس ما يريده الرب اليوم في السادسة مساءً نناقش مع الكتاب المقدس الكلمات إن لم تتقيأ، سيصلك المفترس سأنتظرك",
+      "texto_zh": "保罗在科林斯的第二九,第七篇中写道: 每个人按照自己的心意,不带悲哀和义务地奉献,因为上帝喜爱欢乐的奉献者. 约翰在他的第一封信中说,在爱情中没有恐惧,因为完美的爱情消除了恐惧. 恐惧不是上帝想要的 今天下午6点,我们和圣经讨论 如果你不说十二分之一的话, 吞噬会到达你身边。 我会等你的",
+      "texto_ko": "Paul은 Corinth의 두 번째 9, 7에서 이것을 썼습니다. 각 사람이 그의 마음이 결정되지 않고 슬픔이나 의무가 없으며 하나님은 쾌활한 감수를 사랑합니다. 그리고 존은 그의 첫 번째 편지에서 사랑에 두려움이 없다, 완벽한 사랑은 두려움을 넣어 때문에. 하나님이 원하는 것을 두려워하지 않는다. 오늘 6 : 00 p.m. 우리는 성경과 토론하여 당신이 호랑이없는 경우, 죄수는 당신을 도달합니다. 당신을 기다리고 있습니다."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
