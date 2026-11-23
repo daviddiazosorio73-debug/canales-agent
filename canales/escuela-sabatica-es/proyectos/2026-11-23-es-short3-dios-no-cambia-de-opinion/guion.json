@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-24T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "God does not contradict Himself. And that changes everything ✋ #shorts",
+        "description": "If a message says that God now thinks the opposite of what He said before, there is a problem. Numbers 23:19 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Deus não se contradiz. E isso muda tudo ✋ #shorts",
+        "description": "Se uma mensagem diz que Deus agora pensa o contrário do que disse antes, há um problema. Números 23:19 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الله لا يناقض نفسه. وهذا يغير كل شيء ✋ #shorts",
+        "description": "إذا كانت الرسالة تقول إن الله يفكر الآن بعكس ما قاله من قبل، فهناك مشكلة. سفر العدد 23: 19 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "上帝不会自相矛盾。而这一点改变了一切✋ #shorts",
+        "description": "如果一个信息说，上帝现在所想的与祂以前所说的相反，那就存在问题。民数记 23:19 订阅以获取更多 1 分钟安息日学内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님은 모순되지 않으십니다. 그리고 그것이 모든 것을 바꿉니다 ✋ #shorts",
+        "description": "하나님께서 이전에 말씀하신 것과 지금은 반대로 생각하신다고 하는 메시지가 있다면 문제가 있는 것입니다. 민수기 23:19 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "two arrows pointing in opposite directions on road"
-      }
+      },
+      "texto_en": "If a message says that God now thinks the opposite of what He said before, there is a problem.",
+      "texto_pt": "Se uma mensagem diz que Deus agora pensa o contrário do que disse antes, há um problema.",
+      "texto_ar": "إذا كانت الرسالة تقول إن الله يفكر الآن في عكس ما قاله من قبل، فهناك مشكلة.",
+      "texto_zh": "如果某条信息说，上帝现在认为的与祂以前所说的相反，那就存在问题。",
+      "texto_ko": "하나님이 이전에 말씀하신 것과 반대되는 것을 지금 생각하신다고 메시지가 말한다면, 문제가 있습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "ancient stone pillar standing firm in desert"
-      }
+      },
+      "texto_en": "In Numbers 23, verse 19, Balaam had to acknowledge it: God does not lie like humans do, nor does He change His mind; what He promises, He fulfills. That is why Lesson 9, Testing the Prophets, asks us today to check whether a message is in harmony with the Bible. If God is faithful and consistent, so will His messengers be. A true prophet does not correct God: he explains, applies, and points out what God has already revealed. Consistency is a hallmark of the divine. Subscribe and comment \"God delivers.\"",
+      "texto_pt": "Em Números 23, versículo 19, Balaão teve que reconhecer: Deus não mente como os seres humanos nem muda de ideia; o que Ele promete, Ele cumpre. É por isso que a lição nove, Testando os profetas, pede que verifiquemos hoje se uma mensagem está em harmonia com a Bíblia. Se Deus é fiel e coerente, Seus mensageiros também serão. Um verdadeiro profeta não corrige a Deus: ele explica, aplica e aponta o que Ele já revelou. A coerência é uma marca do divino. Inscreva-se e comente \"Deus cumpre\".",
+      "texto_ar": "في سفر العدد الإصحاح الثالث والعشرين، الآية التاسعة عشرة، كان على بلعام أن يعترف بما يلي: الله لا يكذب مثل البشر ولا يغير رأيه؛ ما يعد به، ينفذه. لهذا السبب، يطلب الدرس التاسع، اختبار الأنبياء، اليوم التحقق مما إذا كانت الرسالة متوافقة مع الكتاب المقدس. إذا كان الله أمينًا ومتسقًا، فسيكون رسله كذلك أيضًا. النبي الحقيقي لا يصحح لله: إنه يشرح ويطبق ويشير إلى ما كشفه الله بالفعل. الاتساق هو بصمة الإله. اشترك وعلق بعبارة \"الله يفي\".",
+      "texto_zh": "在《民数记》第二十三章第十九节中，巴兰不得不承认：神不像人那样撒谎，也不改变主意；祂所应许的，祂必会实现。因此，第九课“检验先知”要求我们今天检查某条信息是否与圣经相符。如果上帝是忠信且始终如一的，那么祂的使者也应如此。真正的先知不会纠正上帝：他解释、应用并指出上帝已经启示的内容。 一致性是神圣的印记。订阅并评论“上帝信守诺言”。",
+      "texto_ko": "민수기 23장 19절에서 발람은 다음과 같은 사실을 인정해야 했습니다. 하나님은 인간처럼 거짓말을 하지 않으시고 마음을 바꾸지 않으십니다. 하나님께서 약속하신 것은 이루십니다. 그래서 제9과, 선지자들을 시험하는 것은 오늘날 어떤 메시지가 성경과 일치하는지 검토하도록 요청합니다. 하나님께서 충실하시고 일관되시다면 그분의 사자들도 마찬가지일 것입니다. 참된 선지자는 하나님을 바로잡지 않습니다. 그는 하나님께서 이미 계시하신 것을 설명하고, 적용하고, 지적합니다. 일관성은 신성함의 흔적입니다. 구독하고 '하나님은 약속을 지키십니다'라고 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
