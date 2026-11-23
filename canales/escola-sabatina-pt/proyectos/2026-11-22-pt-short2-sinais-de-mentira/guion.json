@@ -40,9 +40,27 @@
       "shorts",
       "Biblia"
     ],
-    "privacidad": "private",
-    "publicar_en": "2026-11-23T02:45:00Z",
-    "lista_id": null
+    "privacidad": "public",
+    "publicar_en": null,
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Signs and wonders… can they be deceptive? ⚠️ #shorts",
+        "description": "Paul warned that false signs and wonders would come. The protection is to love the truth. (2 Thessalonians 2:9-10, paraphrase) Subscribe for more 1-Minute Sabbath School. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "الآيات والعجائب... هل يمكن أن تكون خداعًا؟ ⚠️ #shorts",
+        "description": "حذر بولس الرسول من أنه ستظهر آيات وعجائب كاذبة. الحماية هي محبة الحق. (2 تسالونيكي 2: 9-10، إعادة صياغة) اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "神迹与奇事……会欺骗人吗？⚠️ #shorts",
+        "description": "保罗警告说，将有虚假的异兆和神迹出现。保护之道在于热爱真理。（帖撒罗尼迦后书 2:9-10，意译）订阅，1 分钟内了解更多安息日学内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "표적과 기적… 속일 수 있습니까? ⚠️ #shorts",
+        "description": "바울은 거짓 징조와 이적이 나타날 것이라고 경고했습니다. 보호는 진리를 사랑하는 것입니다. (데살로니가후서 2:9-10, 의역) 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성으로 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -53,7 +71,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "storm clouds lightning at night"
-      }
+      },
+      "texto_en": "A prodigy can be real and still be used to deceive. Does that sound strange? Paul explained.",
+      "texto_ar": "قد تكون المعجزة حقيقية، ومع ذلك، قد تكون وسيلة للخداع. هل يبدو هذا غريبًا؟ أوضح بولس ذلك.",
+      "texto_zh": "神迹可能是真实的，但仍可能被用来欺骗。听起来很奇怪吗？保罗解释道。",
+      "texto_ko": "기적은 진짜이면서도 속이는 데 쓰일 수 있습니다. 이상하게 들리시나요? 바울이 설명했습니다."
     },
     {
       "id": "mensaje",
@@ -63,7 +85,17 @@
       "emocion": "agil",
       "visual": {
         "query": "open bible on wooden table in warm candlelight"
-      }
+      },
+      "texto_en": "In 2 Thessalonians, chapter 2, verses 9 and 10, Paul speaks of a coming accompanied by all power, signs, and lying wonders, with all deceit for those who are perishing, because they did not receive the love of the truth that they might be saved. This is today's topic for Lesson Nine: The Role of the Supernatural. Consider the protection that Paul points out: it is not about fleeing from everything that is extraordinary, nor chasing after every sign. It is to love the truth. Those who love the Word recognize when something doesn't align with it. Sign up and comment: \"I love the truth.\"",
+      "texto_ar": "في رسالة بولس الرسول الثانية إلى أهل تسالونيكي، الإصحاح الثاني، الآيتان التاسعة والعاشرة، يتحدث بولس عن مجيء مصحوب بكل قوة وعلامات وآيات كاذبة، بكل خداع لأولئك الذين يهلكون، لأنهم لم يقبلوا محبة الحق لكي يخلصوا. هذا هو موضوع الدرس التاسع اليوم: دور الخوارق. انظر إلى الحماية التي يشير إليها بولس: إنها ليست الهروب من كل ما هو خارق للعادة، ولا السعي وراء كل علامة. بل هو محبة الحق. من يحب الكلمة يدرك عندما يكون هناك شيء لا يتوافق معها. اشترك وعلق: \"أحب الحقيقة\".",
+      "texto_zh": "在《帖撒罗尼迦后书》第二章第九节和第十节中，保罗提到一种伴随着一切能力、虚假的异兆和奇事的来临，用各种欺骗的手段来迷惑那些将要灭亡的人，因为他们不领受那使人得救的真理的爱。这是今天第九课的主题：超自然的作用。请看保罗指出的保护之道：既不是逃避所有超乎寻常的事物，也不是追逐每一个神迹。而是要热爱真理。 热爱圣言的人会察觉到与圣言不符之处。订阅并留言：“我热爱真理”。",
+      "texto_ko": "데살로니가후서 2장 9절과 10절에서 바울은 모든 권능과 거짓 징조와 이적을 동반한 오심에 대해 말합니다. 이는 구원을 얻기 위해 진리를 사랑하는 마음을 받지 못한 자들을 온갖 속임수로 유혹하는 것입니다. 오늘 9과에서 다룰 주제는 초자연의 역할입니다. 바울이 지적하는 보호 방법을 보세요. 그것은 모든 특별한 것을 피하는 것도 아니고, 모든 표적을 쫓아다니는 것도 아닙니다. 그것은 진리를 사랑하는 것입니다. 말씀을 사랑하는 사람은 어떤 것이 말씀과 맞지 않을 때 알아챕니다. 가입하고 댓글을 달아주세요: «저는 진리를 사랑합니다.»"
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
