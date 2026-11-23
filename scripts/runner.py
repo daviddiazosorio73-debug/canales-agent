@@ -86,6 +86,21 @@ def que_hacer(msg):
     return "si se repite en la siguiente corrida, avisa a Claude con este mensaje."
 
 
+def guardar_ya(proj):
+    """Commit + push del proyecto recién publicado. Nunca detiene el motor si falla (se guarda al final)."""
+    g = ["git", "-c", "user.name=canales-bot", "-c", "user.email=canales-bot@users.noreply.github.com"]
+    try:
+        subprocess.run(g + ["add", str(proj / "publicado.json"), str(proj / "guion.json")], cwd=ROOT, check=True)
+        subprocess.run(g + ["commit", "-q", "-m", f"Publicado: {proj.name}"], cwd=ROOT, check=True)
+        for _ in range(4):
+            if subprocess.run(g + ["pull", "-q", "--rebase", "-X", "theirs", "--autostash"], cwd=ROOT).returncode == 0 \
+                    and subprocess.run(g + ["push", "-q"], cwd=ROOT).returncode == 0:
+                return
+            subprocess.run(g + ["rebase", "--abort"], cwd=ROOT, capture_output=True)
+    except Exception as ex:
+        print(f"AVISO: no se pudo guardar al instante {proj.name}: {ex}", flush=True)
+
+
 def main():
     canales = json.loads((ROOT / "canales.json").read_text())
     ahora = datetime.now(timezone.utc)
@@ -99,6 +114,10 @@ def main():
             return
         CUOTA_F.unlink()
     pendientes = []
+    try:
+        REPRODUCIR = set(json.loads((ROOT / ".github" / "top10_reproducir.json").read_text()).get("proyectos", []))
+    except Exception:
+        REPRODUCIR = set()
     for canal, cfg in canales.items():
         if canal.startswith("_") or not cfg.get("activo"):
             continue
@@ -110,6 +129,8 @@ def main():
             solo = os.environ.get("SOLO_PROYECTO")
             if solo and proj.resolve() != (ROOT / solo).resolve():
                 continue
+            if not solo and g.get("motor") == "top10-semanal" and str(proj.relative_to(ROOT)) in REPRODUCIR:
+                continue  # lo está reintentando top10-reproducir.yml: no subirlo dos veces
             if not solo and g.get("motor") == "top10-semanal":
                 desde = g.get("reintento_desde")  # lo produce su propio workflow; aquí solo se reintenta si falló
                 if not desde or datetime.fromisoformat(desde.replace("Z", "+00:00")) > ahora:
@@ -124,7 +145,15 @@ def main():
     print(f"Pendientes en ventana: {len(pendientes)}")
     hechos, fallos = [], []
     pausa = None
+    import time as _time
+    t0 = _time.monotonic()
+    presupuesto = int(os.environ.get("PRESUPUESTO_MIN", "200"))  # el job muere a los 300 min: se para antes y guarda
     for fp, canal, cfg, proj, g in pendientes[:MAX_POR_CORRIDA]:
+        usados = (_time.monotonic() - t0) / 60
+        pesado = bool(g.get("voz_fundador")) and g.get("tipo") != "short"  # voz clonada en CPU: 1-2 h por largo
+        if usados > presupuesto or (pesado and usados > presupuesto - 100):
+            print(f"Tiempo de esta corrida usado ({usados:.0f} min): {proj.name} sigue en la próxima.", flush=True)
+            continue
         if not token_file(canal, cfg):
             fallos.append(f"{canal}: falta el secreto {cfg['secreto']}")
             continue
@@ -192,6 +221,7 @@ def main():
             run("metadata.py", proj, env)
             run("upload.py", proj, env, "--canal", canal)
             shutil.copy(proj / "salida" / "publicado.json", proj / "publicado.json")
+            guardar_ya(proj)  # se sube a git al instante: si la corrida se corta, no se vuelve a subir (sin duplicados)
             if multi:  # pistas ES/PT/…: se dejan en la release «audios-extra» para subirlas en YouTube Studio
                 try:
                     run("audios_extra.py", proj, env)

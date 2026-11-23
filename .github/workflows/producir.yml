@@ -144,4 +144,4 @@ jobs:
           if [ "${{ job.status }}" = "success" ]; then pip freeze | sort > scripts/versiones_ok.txt; fi
           git add -A canales reporte.md scripts/versiones_ok.txt 2>/dev/null || git add -A canales reporte.md
           git diff --cached --quiet || git commit -m "Publicado: $(date -u +%Y-%m-%dT%H:%MZ)"
-          git pull --rebase --autostash -q && git push -q || true
+          for i in 1 2 3 4; do git pull --rebase -X theirs --autostash -q && git push -q && break; git rebase --abort 2>/dev/null; sleep 7; done || true
