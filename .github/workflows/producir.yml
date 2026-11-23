@@ -54,6 +54,32 @@ jobs:
             echo "No se necesita la voz del Fundador en esta corrida"
           fi
 
+      - name: Traductor offline (respaldo de idiomas extra; caché)
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/share/argos-translate
+          key: argos-v1
+
+      - name: Instalar traductor offline
+        continue-on-error: true
+        run: |
+          python -c "import torch" 2>/dev/null || pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q argostranslate
+          python - <<'PY'
+          import argostranslate.package as p
+          pares = [("es","en"),("en","es"),("pt","en"),("en","pt"),("en","ar"),("en","zh"),("en","ko")]
+          ya = {(x.from_code, x.to_code) for x in p.get_installed_packages()}
+          if not all(par in ya for par in pares):
+              p.update_package_index()
+              disp = p.get_available_packages()
+              for a, b in pares:
+                  if (a, b) not in ya:
+                      pk = next((x for x in disp if x.from_code == a and x.to_code == b), None)
+                      if pk:
+                          p.install_from_path(pk.download())
+          print("argos:", sorted((x.from_code, x.to_code) for x in p.get_installed_packages()))
+          PY
+
       - name: Producir y subir
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}

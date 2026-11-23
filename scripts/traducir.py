@@ -16,27 +16,69 @@ TR = {"en": "en", "pt": "pt", "ar": "ar", "zh": "zh-CN", "ko": "ko", "es": "es",
 YT = {"zh": "zh-Hans"}
 
 
-def traductor(origen, destino):
-    from deep_translator import GoogleTranslator
-    t = GoogleTranslator(source=TR.get(origen, origen), target=TR.get(destino, destino))
+MM = {"es": "es-ES", "pt": "pt-BR", "en": "en-US", "ar": "ar-SA", "zh": "zh-CN", "ko": "ko-KR", "it": "it-IT", "fr": "fr-FR"}
+APAGADO = set()  # motores que fallaron en esta corrida (Google bloquea a los runners de GitHub: TooManyRequests)
 
+
+def _trozos(texto, n):
+    """Corta en frases sin pasar de n caracteres por trozo (en orden)."""
+    import re
+    piezas = []
+    for f in re.split(r"(?<=[.!?…»\n])\s+", texto):
+        piezas += [f[i:i + n] for i in range(0, len(f), n)] or [""]
+    out, buf = [], ""
+    for f in piezas:
+        if buf and len(buf) + len(f) + 1 > n:
+            out.append(buf)
+            buf = ""
+        buf = (buf + " " + f).strip()
+    if buf:
+        out.append(buf)
+    return out
+
+
+def _google(t, o, d):
+    from deep_translator import GoogleTranslator
+    tr = GoogleTranslator(source=TR.get(o, o), target=TR.get(d, d))
+    return " ".join(tr.translate(x) or "" for x in _trozos(t, 4500))
+
+
+def _mymemory(t, o, d):
+    import requests
+    out = []
+    for x in _trozos(t, 450):
+        r = requests.get("https://api.mymemory.translated.net/get", timeout=30,
+                         params={"q": x, "langpair": f"{MM.get(o, o)}|{MM.get(d, d)}", "de": "canales-bot@users.noreply.github.com"})
+        j = r.json()
+        if r.status_code != 200 or int(j.get("responseStatus", 500)) != 200 or "MYMEMORY WARNING" in str(j):
+            raise RuntimeError(f"MyMemory {r.status_code}: {str(j.get('responseDetails'))[:120]}")
+        out.append(j["responseData"]["translatedText"])
+        time.sleep(0.3)
+    return " ".join(out)
+
+
+def _argos(t, o, d):  # offline y sin límite (instalado por producir.yml); pasa por inglés si hace falta
+    import argostranslate.translate as at
+    cod = {"zh": "zh"}.get(d, d)
+    return at.translate(t, o, cod)
+
+
+def traductor(origen, destino):
     def f(texto):
         if not texto or not texto.strip():
             return texto
-        for intento in range(3):
+        errores = []
+        for nombre, motor in (("google", _google), ("mymemory", _mymemory), ("argos", _argos)):
+            if nombre in APAGADO:
+                continue
             try:
-                partes, buf = [], ""
-                for p in texto.split("\n"):  # el servicio acepta ~5000 caracteres por llamada
-                    if len(buf) + len(p) > 4000:
-                        partes.append(buf)
-                        buf = ""
-                    buf += p + "\n"
-                partes.append(buf)
-                return "\n".join(t.translate(x.rstrip("\n")) or "" for x in partes if x.strip()).strip()
+                r = motor(texto, origen, destino)
+                if r and r.strip():
+                    return r.strip()
             except Exception as ex:
-                ultimo = f"{type(ex).__name__}: {str(ex)[:200]}"
-                time.sleep(2 + 3 * intento)
-        raise RuntimeError(f"traducción {origen}->{destino} falló ({ultimo})")
+                errores.append(f"{nombre}: {type(ex).__name__}: {str(ex)[:120]}")
+                APAGADO.add(nombre)
+        raise RuntimeError(f"traducción {origen}->{destino} falló ({' | '.join(errores)})")
     return f
 
 
