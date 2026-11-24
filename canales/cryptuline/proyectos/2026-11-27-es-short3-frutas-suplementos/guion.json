@@ -38,7 +38,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-11-28T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Can an antioxidant pill replace fruit? #shorts",
+        "description": "Can an antioxidant pill replace fruit?\n\npubMed:\n• Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, Greenwood DC, et al. Dietary intact and blood concentrations of antioxidants and the risk of cardiovascular disease, total cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Am J Clin Nutr. 2018; 108 (5): 1069-1091. https: / / pubmed.ncbi.nlm.nih.gov / 30475962 / · https: / / doi.org / 10.1093 / ajcN / nqy097\n\nEducational content for more than 18 years old. Do not substitute for medical care: check with your doctor before changing your food, physical activity or treatment. Narration with synthetic voice. Cryptline."
+      },
+      "pt": {
+        "title": "Pode uma pílula antioxidante substituir a fruta? #shorts",
+        "description": "Pode uma pílula antioxidante substituir a fruta?\n\nPubMed:\n• Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, Greenwood DC, et al. Concentrações dietéticas intactas e sanguíneas de antioxidantes e risco de doença cardiovascular, câncer total e mortalidade por todas as causas: revisão sistemática e meta-análise dose-resposta de estudos prospectivos. Am J Clin Nutr. 2018; 108 (5): 1069-1091. https: // pubmed.ncbi. nlm. nih.gov / 30475962 / · https: // doi.org / 10.1093 / ajcN / nqy097\n\nConteúdo educacional para mais de 18 anos. Não substitua os cuidados médicos: consulte o seu médico antes de alterar a sua alimentação, actividade física ou tratamento. Narração com voz sintética. Criptalina."
+      },
+      "ar": {
+        "title": "هل يمكن لحبوب مضاد للأكسدة أن تحل محل الفاكهة؟ #shorts",
+        "description": "هل يمكن لحبوب مضاد للأكسدة أن تحل محل الفاكهة؟\n\n-\n• Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, Greenwood DC, et al. Dietary intact and blood concentrations of antioxidants and the risk of cardiovascular disease, total cancer, and all-cause mortality: a systematic review and dose-response meta-analysis of prospective studies. Am J Clin Nutr 2018; 108 (5): 1069-1091. https: / / pubmed.ncbi.nlm.nih.gov / 30475962 / ; https: / doi.org / 10.1093 / ajcN / nqy097\n\nالمحتوى التعليمي لأكثر من 18 سنة. لا تستبدلي الرعاية الطبية: تفقدي مع طبيبك قبل تغيير طعامك أو نشاطك الجسدي أو العلاج الغضب مع الصوت الاصطناعي مشفرة"
+      },
+      "zh-Hans": {
+        "title": "抗氧化药能替代水果吗? #shorts",
+        "description": "抗氧化药能替代水果吗?\n\n阴茎 :\n• Aune D、Keum N、Giovannucci E、Fadnes LT、Boffetta P、Greenwood DC等。 抗氧化剂的饮食和血液浓度以及心血管疾病、总癌症和全因死亡的风险:对预期研究的系统审查和剂量反应元分析。 Am J Clin Nutr. 2018; 108 (5): 1069–1091. https: // pubmed.ncbi.nlm.nih.gov / 30475962 / · https: // doi.org/ 10.1093 / ajcN / nqy097\n\n18岁以上教育内容. 不得替代医疗:在改变食物、身体活动或治疗之前与医生联系。 以合成声闻. 密码"
+      },
+      "ko": {
+        "title": "산화 방지제는 과일을 대체 할 수 있습니까? #shorts",
+        "description": "산화 방지제는 과일을 대체 할 수 있습니까?\n\npubMed:\n• Aune D, Keum N, Giovannucci E, Fadnes LT, Boffetta P, 그린우드 DC, 기타. 항 산화제의 규정 및 혈액 농도 및 심장 혈관 질병의 위험, 총 암, 그리고 모든 원인 사망률 : 유망한 연구의 체계적인 검토 및 복용량 응답 메타 분석. 2018 년 J 클린 Nutr. 108 (5) : 1069-1091. https : / / pubmed.ncbi.nlm.nih.gov / 30475962 / · https : / doi.org / 10.1093 / ajcN / nqy097\n\n18 세 이상 교육 내용. 치료에 대 한 대체 하지 마십시오: 당신의 의사와 함께 당신의 음식, 신체 활동 또는 치료를 변경 하기 전에. 합성 목소리와 비교. 암호화."
+      }
+    }
   },
   "escenas": [
     {
@@ -49,7 +71,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "vitamin pills bottle versus fruit"
-      }
+      },
+      "texto_en": "Vitamin C in tablets, antioxidants in capsules. Do they replace fruit and vegetables?",
+      "texto_pt": "Vitamina C em comprimidos, antioxidantes em cápsulas. Substituim frutas e legumes?",
+      "texto_ar": "الفيتامين جيم في اللوحات، مضادات السموم في الكبسولات هل يستبدلون الفاكهة والخضروات؟",
+      "texto_zh": "药片中的维生素C,胶囊中的抗氧化剂. 它们能代替水果和蔬菜吗?",
+      "texto_ko": "정제에 비타민 C, 캡슐에 산화. 그들은 과일과 야채를 대체합니까?"
     },
     {
       "id": "mensaje",
@@ -58,7 +85,19 @@
       "emocion": "agil",
       "visual": {
         "query": "fresh berries citrus bowl"
-      }
+      },
+      "texto_en": "Aune and his team reviewed at about two thousand and eighteen, in the American Journal of Clinical Nutrition, 64 prospective studies about vitamin C, carotenoids and vitamin E, in diet and blood. The study found that higher levels, such as fruit and vegetable food markers, were associated with less cardiovascular disease, cancer and mortality. But its conclusion was clear: the results support eating more fruit and vegetables, and do not use antioxidant supplements. Do not take or suspend supplements without talking to your doctor. Keep this video and share with someone I can serve. Check with your doctor before making changes. Follow us at Cryptline for more health science.",
+      "texto_pt": "Aune e sua equipe revisaram cerca de dois mil e dezoito anos, no American Journal of Clinical Nutrition, 64 estudos prospectivos sobre vitamina C, carotenoides e vitamina E, em dieta e sangue. O estudo verificou que níveis mais elevados, como marcadores alimentares de frutas e hortaliças, estiveram associados a menos doenças cardiovasculares, câncer e mortalidade. Mas sua conclusão foi clara: os resultados apoiam a ingestão de mais frutas e legumes, e não usam suplementos antioxidantes. Não tome ou suspenda suplementos sem falar com o seu médico. Mantenha este vídeo e compartilhe com alguém que eu possa servir. Consulte o seu médico antes de fazer alterações. Siga-nos na Criptline para mais ciências da saúde.",
+      "texto_ar": "Aune and his team reviewed at about two thousand and eighteen, in the American Journal of Clinical Nutrition, 64 prospective studies about vitamin C, carotenoids and vitamin E, in diet and blood. وخلصت الدراسة إلى أن مستويات أعلى، مثل علامات الفاكهة والغذاء النباتي، ترتبط بمرض القلب والأوعية الدموية والسرطان والوفيات. غير أن استنتاجها كان واضحاً: فالنتائج تدعم تناول المزيد من الفواكه والخضروات، ولا تستخدم مكملات مضادة للأكسدة. لا تأخذ أو توقف المكملات دون التحدث إلى طبيبك احتفظي بهذا الفيديو واشاركي شخص يمكنني خدمته تحقق مع طبيبك قبل إجراء التغييرات إتبعنا في (كريبتلين) لمزيد من العلوم الصحية",
+      "texto_zh": "Aune和他的团队在大约两千零十八分时,在美国临床营养杂志上,对饮食和血液中的维生素C,类固醇和维生素E进行了64项远景研究. 研究发现,水果和蔬菜食品标记等较高水平与心血管疾病,癌症和死亡率较低有关. 但结论是明确的:结果支持食用更多的水果和蔬菜,不使用抗氧化剂补充剂. 在不与医生交谈的情况下,不要服用或暂停补充。 留着这段视频 和我能服务的人分享 在修改前先去找医生 跟随我们在密码线 更多的健康科学。",
+      "texto_ko": "아네와 그의 팀은 약 2 천 8 세, 임상 영양의 미국 저널, 비타민 C, Carotenoids 및 비타민 E, 다이어트 및 혈액에 대한 64의 잠재 연구에서 검토했습니다. 연구는 과일과 야채 음식 마커와 같은 더 높은 수준이 더 적은 심혈관 질환, 암 및 사망과 관련되었음을 발견했습니다. 그러나 그것의 결론은 명확했습니다: 결과는 과일과 야채를 더 먹고, 산화 방지제 보충교재를 사용하지 않습니다. 의사에게 얘기하지 않고 보충을하지 마십시오. 이 비디오를 유지하고 누군가와 공유 할 수 있습니다. 변경하기 전에 의사와 확인. 더 많은 건강 과학을위한 Cryptline에서 우리를 따르라."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
