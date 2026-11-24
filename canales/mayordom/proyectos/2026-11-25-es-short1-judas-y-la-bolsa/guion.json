@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The disciple who handled the money… and stole 👝 #shorts",
+        "description": "Judas said he was thinking of the poor. John explains that he was a thief and took money from the bag. (John 12:4–6, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "O discípulo que administrava o dinheiro… e roubava 👝 #shorts",
+        "description": "Judas disse que pensava nos pobres. João explica que ele era um ladrão e tirava dinheiro da bolsa. (João 12:4-6, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "التلميذ الذي كان يدير المال... وكان يسرق 👝 #shorts",
+        "description": "قال يهوذا إنه كان يفكر في الفقراء. يوحنا يوضح أنه كان لصًا وكان يأخذ من الحقيبة. (يوحنا 12: 4-6، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "掌管钱财的门徒……却偷窃钱财👝 #shorts",
+        "description": "犹大说他关心穷人。约翰解释说，他是个小偷，从钱袋里偷钱。（约翰福音 12:4-6，RVR1960 译本意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "돈을 관리하고… 훔치던 제자 👝 #shorts",
+        "description": "유다는 가난한 사람들을 생각한다고 말했습니다. 요한은 그가 도둑이었고 돈주머니에서 돈을 훔쳤다고 설명합니다. (요한복음 12:4-6, RVR1960 번역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 된 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "leather money pouch old table"
-      }
+      },
+      "texto_en": "There was a disciple in charge of the group's money. And the Gospel says, bluntly, that he stole.",
+      "texto_pt": "Havia um discípulo encarregado do dinheiro do grupo. E o Evangelho diz, sem rodeios, que ele roubava.",
+      "texto_ar": "كان هناك تلميذ مسؤول عن أموال المجموعة. ويقول الإنجيل، دون مواربة، إنه كان يسرق.",
+      "texto_zh": "有一位门徒负责保管团体的钱财。福音书直截了当地说，他偷钱。",
+      "texto_ko": "일행의 돈을 관리하는 제자가 있었습니다. 그리고 복음서는 그가 훔쳤다고 솔직하게 말합니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "narrativo",
       "visual": {
         "query": "dinner table candle shadows"
-      }
+      },
+      "texto_en": "It's in John 12:6. Judas criticized a gift given to Jesus and said that it would have been better to sell it and give the money to the poor. It sounded generous. But John explains that he didn't say this because he cared about the poor, but because he was a thief and, since he was in charge of the money bag, he would help himself to what was put into it. Selfishness sometimes speaks the language of charity. Today, at six o'clock in the evening, the full sermon: two people at the same dinner, and two principles at war. I'll be waiting here.",
+      "texto_pt": "Está em João 12:6. Judas criticou um presente dado a Jesus e disse que seria melhor vendê-lo para dar aos pobres. Parecia generoso. Mas João explica que ele não disse isso porque se importava com os pobres, mas porque era um ladrão e, como tinha a bolsa, tirava do que colocavam nela. O egoísmo às vezes fala a língua da caridade. Hoje, às seis da tarde, o sermão completo: duas pessoas no mesmo jantar e dois princípios em guerra. Espero você.",
+      "texto_ar": "إنه في إنجيل يوحنا الإصحاح الثاني عشر، الآية السادسة. انتقد يهوذا هدية قُدمت ليسوع وقال إنه كان من الأفضل بيعها لإعطاء ثمنها للفقراء. بدا الأمر نبيلًا. لكن يوحنا يوضح أنه لم يقل ذلك لأنه كان يهتم بالفقراء، بل لأنه كان لصًا، وبما أنه كان يحمل الحقيبة، كان يأخذ مما يوضع فيها. في بعض الأحيان تتحدث الأنانية بلغة الإحسان. اليوم، في الساعة السادسة مساءً، العظة الكاملة: شخصان في العشاء نفسه، ومبدآن في حالة حرب. \"كم المرأة الأخرى محظوظة\"",
+      "texto_zh": "这段经文在《约翰福音》第十二章第六节。犹大批评了送给耶稣的礼物，说这礼物应该拿去卖掉，把钱分给穷人。这听起来很慷慨。但约翰解释说，他这么说并不是因为他关心穷人，而是因为他是个小偷，而且由于他掌管钱囊，所以他会从中偷取人们放进去的钱。自私有时会以慈善的语言表达出来。今天下午六点，完整讲道：同席用餐的两个人，以及相互对立的两种原则。 我在等你。",
+      "texto_ko": "요한복음 12장 6절에 나옵니다. 유다는 예수님께 드린 선물을 비난하며 차라리 팔아서 가난한 사람들에게 주었어야 한다고 말했습니다. 그것은 관대한 것처럼 들렸습니다. 그러나 요한은 그가 가난한 사람들을 염려해서 그렇게 말한 것이 아니라, 그가 도둑이었고 돈주머니를 맡고 있었기 때문에 그 안에 들어 있는 돈을 훔쳐냈기 때문이라고 설명합니다. 이기심은 때때로 자선의 언어로 말합니다. 오늘 오후 6시에 설교 전문을 들으실 수 있습니다. 같은 식탁에 앉은 두 사람, 그리고 서로 대립하는 두 가지 원칙. 기다리고 있을게요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
