@@ -37,7 +37,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-11-28T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "A Saturday so as to have no gain #shorts",
+        "description": "A Saturday so as to have no gain.\n\npubMed:\n• Chen Y, Okereke OI, Kim ES, Tiemeier H, Kubzansky LD, VanderWeele TJ. Gratude and Mortality Among Old US Female Nurses. JAMA Psychiatry. 2024, 81 (10): 1030-1038. https: / / pubmed.ncbi.nlm.nih.gov / 38959002 / · https: / / doi.org / 10.1001 / jamapsychiatry.2024.1687\n\nEducational content for more than 18 years old. Do not substitute for medical care: check with your doctor before changing your food, physical activity or treatment. Narration with synthetic voice. Cryptline."
+      },
+      "pt": {
+        "title": "Um sábado para não ter ganho #shorts",
+        "description": "Um sábado para não ganhar nada.\n\nPubMed:\n• Chen Y, Okereke OI, Kim ES, Tiemeier H, Kubzansky LD, VanderWeele TJ. Gratude e Mortalidade Entre Enfermeiras Velhas dos EUA. JAMA Psiquiatria. 2024, 81 (10): 1030-1038. https: // pubmed.ncbi.nlm.nih.gov / 38959002 / · https: // doi.org / 10.1001 / jamapsychiatry.2024.1687\n\nConteúdo educacional para mais de 18 anos. Não substitua os cuidados médicos: consulte o seu médico antes de alterar a sua alimentação, actividade física ou tratamento. Narração com voz sintética. Criptalina."
+      },
+      "ar": {
+        "title": "يوم السبت حتى لا يكون هناك ربح #shorts",
+        "description": "يوم السبت حتى لا يكون له أي ربح.\n\n-\n• Chen Y, Okereke OI, Kim ES, Tiemeier H, Kubzansky LD, VanderWeele TJ. Gratude and Mortality among Old US female Nurse. JAMA Psychiatry. 2024, 81 (10): 1030-1038. https: / pubmed.ncbi.nlm.nih.gov 389590\n\nالمحتوى التعليمي لأكثر من 18 سنة. لا تستبدلي الرعاية الطبية: تفقدي مع طبيبك قبل تغيير طعامك أو نشاطك الجسدي أو العلاج الغضب مع الصوت الاصطناعي مشفرة"
+      },
+      "zh-Hans": {
+        "title": "{\\fn黑体\\fs22\\bord1\\shad0\\3aHBE\\4aH00\\fscx67\\fscy66\\2cHFFFFFF\\3cH808080}一个无利可图的星期六 #shorts",
+        "description": "星期六,这样没有好处。\n\n阴茎 :\n• 陈Y、Okereke OI、Kim ES、Tiemeier H、Kubzansky LD、VanderWeele TJ. Gratude和老美国女护士的死亡率。\n\n18岁以上教育内容. 不得替代医疗:在改变食物、身体活动或治疗之前与医生联系。 以合成声闻. 密码"
+      },
+      "ko": {
+        "title": "주저하지 않도록 #shorts",
+        "description": "토요일은 이득이 없습니다.\n\npubMed:\n• Chen Y, Okereke OI, Kim ES, Tiemeier H, Kubzansky LD, VanderWeele TJ. Gratude 및 Mortality는 오래된 미국 여성 간호사 중입니다. JAMA Psychiatry. 2024, 81 (10) : 1030-1038. https : / pubmed.ncbi.nlm.nih.gov / 38959002 / · https : / doi.org / 10.1001 / jamapsytry.202687.\n\n18 세 이상 교육 내용. 치료에 대 한 대체 하지 마십시오: 당신의 의사와 함께 당신의 음식, 신체 활동 또는 치료를 변경 하기 전에. 합성 목소리와 비교. 암호화."
+      }
+    }
   },
   "escenas": [
     {
@@ -48,7 +70,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "sabbath morning peaceful nature"
-      }
+      },
+      "texto_en": "Today's a good day to stop you. When was the last time you gave thank you out loud?",
+      "texto_pt": "Hoje é um bom dia para te impedir. Quando foi a última vez que agradeceste em voz alta?",
+      "texto_ar": "اليوم يوم جيد لإيقافك متى كانت آخر مرة قدمت فيها الشكر بصوت عال؟",
+      "texto_zh": "今天是阻止你的好日子 你上次大声道谢是什么时候?",
+      "texto_ko": "오늘 당신을 중지하는 좋은 날입니다. 당신이 확고한 감사를 준 마지막 시간이 있었을 때?"
     },
     {
       "id": "mensaje",
@@ -57,7 +84,19 @@
       "emocion": "agil",
       "visual": {
         "query": "family table bread gratitude"
-      }
+      },
+      "texto_en": "The psalm one hundred and three, verse two, invites us not to forget any of God's benefits. Science also studies gratitude: in Chen's study with forty-nine thousand two hundred and seventy-five older nurses, the most grateful third had 9 percent less mortality during monitoring. It's a modest association, in an observational study, that doesn't prove cause. Today, at the table, share with your family a reason for gratitude of the week. Keep this video and share with someone I can serve. Check with your doctor before making changes. Follow us at Cryptline for more health science.",
+      "texto_pt": "O salmo cento e três, versículo dois, convida-nos a não esquecer nenhum dos benefícios de Deus. A ciência também estuda gratidão: no estudo de Chen com quarenta e nove mil duzentos e setenta e cinco enfermeiros mais velhos, o terceiro mais grato teve 9 por cento menos mortalidade durante o monitoramento. É uma associação modesta, num estudo observacional, que não prova causa. Hoje, à mesa, compartilhe com sua família uma razão para a gratidão da semana. Mantenha este vídeo e compartilhe com alguém que eu possa servir. Consulte o seu médico antes de fazer alterações. Siga-nos na Criptline para mais ciências da saúde.",
+      "texto_ar": "الرزمة الواحدة بعد المائة وثلاثة، العكس الثاني، يدعونا إلى عدم نسيان أي من فوائد الله. العلم أيضاً يَدْرسُ الامتنان: في دراسةِ تشين مَع تسعة وأربعون ألف ممرضة مُسنّة وخمسة وسبعين، الثلث الأكثر امتناناً كَانَ عِنْدَهُ نسبة أقل من الوفيات خلال الرصد. إنّها جمعية متواضعة، في دراسة مراقبة، هذا لا يثبت السبب. اليوم، على الطاولة، تشاطر مع عائلتك سبب للامتنان للأسبوع. احتفظي بهذا الفيديو واشاركي شخص يمكنني خدمته تحقق مع طبيبك قبل إجراء التغييرات إتبعنا في (كريبتلين) لمزيد من العلوم الصحية",
+      "texto_zh": "\"诗经\"一百三,第二节,请我们不要忘记上帝的任何好处. 科学还研究感恩:在陈氏与四万九千二百七十五名年长的护士的研究中,最感恩的三分之一在监测期间的死亡率减少了9%. 在观察性研究中,它是一个谦虚的联系,并不能证明原因. 今天,在餐桌上,与你的家人分享周的感激之情。 留着这段视频 和我能服务的人分享 在修改前先去找医生 跟随我们在密码线 更多的健康科学。",
+      "texto_ko": "1 백 세, 2 구절, 하나님의 이익을 잊지 않도록 초대합니다. 과학 또한 연구 gratitude: 첸의 연구에서 forty-nine 천 2 백과 7 ty-five 이전 간호사, 가장 영광스러운 세 번째는 모니터링 중 9 % 덜 사망했다. 관찰 연구에서 가장 중요한 협회입니다. 오늘, 테이블에서, 당신의 가족과 함께 주의 감사의 이유. 이 비디오를 유지하고 누군가와 공유 할 수 있습니다. 변경하기 전에 의사와 확인. 더 많은 건강 과학을위한 Cryptline에서 우리를 따르라."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
