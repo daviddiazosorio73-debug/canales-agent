@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "9 signs that God is working in a life 🍇 #shorts",
+        "description": "There is a list of nine signs that show when the Spirit of God is working in someone. How many do you recognize? Galatians 5:22-23 Subscribe for more 1-Minute Sabbath School. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "9 علامات على أن الله يعمل في حياة ما 🍇 #shorts",
+        "description": "هناك قائمة تضم تسع علامات تدل على أن روح الله تعمل في شخص ما. كم عددها التي تتعرف عليها؟ غلاطية 5: 22-23 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "上帝在某人生命中作工的 9 个迹象 🍇 #shorts",
+        "description": "有一份包含九个迹象的清单，表明上帝的灵正在某人身上作工。您能认出多少个？加拉太书 5:22-23 订阅以获取更多“1 分钟安息日学堂”内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님께서 삶에서 역사하고 계신다는 9가지 징조 🍇 #shorts",
+        "description": "하나님의 영이 어떤 사람 안에서 역사하고 계실 때 나타나는 아홉 가지 징후 목록이 있습니다. 여러분은 몇 가지를 알고 계십니까? 갈라디아서 5:22-23 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "bunch of ripe grapes on vine in sunlight"
-      }
+      },
+      "texto_en": "There is a list of nine signs that show when the Spirit of God is working in someone. How many do you recognize?",
+      "texto_ar": "هناك قائمة تضم تسع علامات تدل على أن روح الله تعمل في شخص ما. كم عدد العلامات التي تتعرف عليها؟",
+      "texto_zh": "有一份包含九个迹象的清单，这些迹象表明神的灵正在某人身上作工。您能认出多少个？",
+      "texto_ko": "하나님의 영이 어떤 사람에게 역사하고 계실 때 나타나는 아홉 가지 징조 목록이 있습니다. 여러분은 몇 가지를 알고 계십니까?"
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "vineyard rows at golden hour"
-      }
+      },
+      "texto_en": "Galatians five, verses twenty-two and twenty-three. But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control. This is today's theme for Lesson Nine, Putting the Prophets to the Test: Positive Fruits. When God uses someone, the result shows in their character, not just in their words. And it also appears in those who receive the message: more love, more peace, more faithfulness. A message that only produces pride, fear, or division deserves attention. Which of these fruits do you most want to see in your life? Comment.",
+      "texto_ar": "رسالة بولس الرسول إلى أهل غلاطية الإصحاح الخامس، الآيتان الثانية والعشرون والثالثة والعشرون. أما ثمر الروح فهو المحبة والفرح والسلام والأناة واللطف والصلاح والأمانة والوداعة وضبط النفس. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: الثمار الإيجابية. عندما يستخدم الله شخصًا ما، تظهر النتيجة في شخصيته، وليس فقط في كلماته. ويظهر أيضًا في من يتلقى الرسالة: المزيد من المحبة، والمزيد من السلام، والمزيد من الإخلاص. تستحق الرسالة التي لا تثير سوى الكبرياء أو الخوف أو الانقسام الانتباه. أي من هذه الثمار ترغب في رؤيتها أكثر في حياتك؟ شاركنا رأيك.",
+      "texto_zh": "加拉太书第五章，第22节和第23节。圣灵所结的果子，就是仁爱、喜乐、和平、忍耐、恩慈、良善、信实、温柔、节制。这是今天第九课的主题，考验先知：积极的果子。当神使用某人时，结果会体现在品格上，而不仅仅体现在言语上。它也体现在那些接受信息的人身上：更多的爱、更多的平安、更多的忠信。 如果一条信息只会引发骄傲、恐惧或分歧，那么它就值得我们警惕。在您的人生中，您最希望看到哪一种果实？请留言。",
+      "texto_ko": "갈라디아서 5장 22절과 23절입니다. 성령의 열매는 사랑, 기쁨, 평안, 인내, 친절, 선함, 신실함, 온유함, 절제입니다. 오늘 9과 '선지자들을 시험에 들게 하다: 긍정적인 열매'의 주제입니다. 하나님께서 어떤 사람을 사용하실 때, 그 결과는 말뿐만 아니라 성품에도 나타납니다. 그리고 메시지를 받는 사람에게도 나타납니다. 더 많은 사랑, 더 많은 평화, 더 많은 신실함. 오직 교만, 두려움 또는 분열만을 불러일으키는 메시지는 주의를 기울여야 합니다. 이 열매들 중 어떤 것을 여러분의 삶에서 가장 보고 싶으신가요? 댓글을 달아 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
