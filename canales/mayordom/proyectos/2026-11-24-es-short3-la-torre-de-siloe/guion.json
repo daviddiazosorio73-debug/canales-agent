@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "A tower fell on 18 people. Jesus answered this 🏚️ #shorts",
+        "description": "Jesus asked if the 18 people from the tower of Siloam were more guilty than the others. And he answered, “No.” (Luke 13:4–5 · John 9:2–3, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Uma torre caiu sobre 18 pessoas. Jesus respondeu o seguinte 🏚️ #shorts",
+        "description": "Jesus perguntou se os 18 da torre de Siloé eram mais culpados do que os outros. E Ele respondeu: Não. (Lucas 13:4-5 · João 9:2-3, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "سقط برج على 18 شخصًا. أجاب يسوع بهذا 🏚️ #shorts",
+        "description": "سأل يسوع عما إذا كان الثمانية عشر الذين سقط عليهم برج سلوام كانوا أكثر إثمًا من الآخرين. فأجاب: لا. (لوقا 13: 4-5 · يوحنا 9: 2-3، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "一座塔楼倒塌，砸中 18 人。耶稣这样回答 🏚️ #shorts",
+        "description": "耶稣问，西罗亚楼倒塌压死的那十八个人，是不是比其他人罪孽更深。祂回答说：不是。（路加福音 13:4-5 ·约翰福音 9:2-3，RVR1960 译本意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "탑이 무너지면서 18명이 깔렸습니다. 예수님께서는 이렇게 대답하셨습니다 🏚️ #shorts",
+        "description": "예수님께서는 실로암 탑에서 18명이 죽은 일이 다른 사람들보다 더 큰 죄 때문이었는지 물으셨습니다. 그리고 그분은 아니라고 답하셨습니다. (누가복음 13:4-5 · 요한복음 9:2-3, RVR1960 번역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "collapsed stone tower ruins"
-      }
+      },
+      "texto_en": "A tower collapsed and killed eighteen people. And people thought: They must have done something wrong.",
+      "texto_pt": "Uma torre desabou e matou dezoito pessoas. E as pessoas pensaram: elas devem ter feito algo errado.",
+      "texto_ar": "انهار برج وقتل ثمانية عشر شخصًا. وفكر الناس: لا بد أنهم فعلوا شيئًا سيئًا.",
+      "texto_zh": "一座塔楼倒塌，造成十八人死亡。人们心想：他们一定做了什么坏事。",
+      "texto_ko": "탑이 무너지면서 18명이 사망했습니다. 그러자 사람들은 '그들이 뭔가 잘못했을 거야'라고 생각했습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "reflexivo",
       "visual": {
         "query": "sunlight through ruins hope"
-      }
+      },
+      "texto_en": "Jesus commented on this in Luke 13. He asked, “Do you think that these eighteen were more guilty than all the others living in Jerusalem?” And he answered, \"I tell you, no.\" And in John 9, when they asked him who had sinned for a man to be born blind, he said neither he nor his parents. Be careful not to interpret every misfortune as punishment. Jesus did not do that. What he did ask was for each person to examine their own heart. Did you see today's analysis of the devourer? I'll leave it for you on the channel.",
+      "texto_pt": "Jesus comentou isso em Lucas 13. Ele perguntou: Vocês acham que aqueles dezoito eram mais culpados do que todos os outros que viviam em Jerusalém? E respondeu: Eu lhes digo que não. E em João 9, quando lhe perguntaram quem havia pecado para que um homem nascesse cego, Ele disse que nem ele nem seus pais. Cuidado para não interpretar cada desgraça como um castigo. Jesus não fez isso. O que Ele pediu foi que cada um examinasse o seu próprio coração. Você viu a análise de hoje sobre o devorador? Vou deixar para você no canal.",
+      "texto_ar": "تحدث يسوع عن ذلك في إنجيل لوقا الإصحاح الثالث عشر. سأل: هل تعتقدون أن هؤلاء الثمانية عشر كانوا أكثر إثمًا من جميع السكان الآخرين في أورشليم؟ فأجاب: أقول لكم لا. وفي إنجيل يوحنا الإصحاح التاسع، عندما سألوه من أخطأ حتى يولد رجل أعمى، قال إنه ليس هو ولا والديه. احذروا من تفسير كل مصيبة على أنها عقاب. لم يفعل يسوع ذلك. ما طلبه هو أن يفحص كل شخص قلبه. هل شاهدت تحليل اليوم عن المفترس؟ سأتركه لك على القناة.",
+      "texto_zh": "耶稣在《路加福音》第十三章中提到了这一点。祂问：“你们以为这十八个人比住耶路撒冷的所有其他人更有罪吗？” 祂回答说：“我告诉你们，不是的。” 在《约翰福音》第九章中，当人们问祂是谁犯了罪，以致那人生来就是瞎眼的，祂说既不是他，也不是他父母。小心不要将每一种不幸都看作是惩罚。耶稣没有这样做。他所要求的是每个人都审视自己的内心。 你看到今天关于吞噬者的分析了吗？我把它放在频道里。",
+      "texto_ko": "예수님께서는 누가복음 13장에서 이 말씀을 하셨습니다. 그분께서 물으셨습니다. \"그 열여덟 명이 예루살렘에 사는 다른 모든 사람보다 더 죄가 많다고 생각하십니까?\" 그리고 그분은 대답하셨습니다. 그렇지 않다고 내가 너희에게 말한다. 그리고 요한복음 9장에서는 한 사람이 소경으로 태어난 것이 누구의 죄 때문이냐고 여쭈었을 때, 예수님은 그 사람도 그의 부모도 죄를 짓지 않았다고 말씀하셨습니다. 모든 불행을 벌로 해석하지 않도록 주의하십시오. 예수님은 그렇게 하지 않으셨습니다. 그분께서 요구하신 것은 각자가 자신의 마음을 돌아보는 것이었습니다. 오늘 '파괴자'에 대한 분석을 보셨나요? 채널에 올려둘게요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
