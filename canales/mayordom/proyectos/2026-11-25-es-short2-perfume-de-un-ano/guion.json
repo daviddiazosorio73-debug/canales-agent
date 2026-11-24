@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "He spilled almost a year's salary in a minute 🫙 #shorts",
+        "description": "Mary poured perfume worth almost a year's wages on Jesus' feet. He defended her. (John 12:3-7 · Matthew 20:2, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Ele desperdiçou quase um ano de salário em um minuto 🫙 #shorts",
+        "description": "Maria derramou um perfume que custava quase um ano de salário nos pés de Jesus. Ele a defendeu. (João 12:3-7 · Mateus 20:2, paráfrase RVR1960) Assine o MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "أهدر ما يقرب من راتب عام كامل في دقيقة واحدة 🫙 #shorts",
+        "description": "سكبت مريم عطرًا يساوي ما يقرب من راتب عام على قدمي يسوع. دافع عنها. (يوحنا 12: 3-7 · متى 20: 2، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "他在一分钟内洒掉了将近一年的工资 🫙 #shorts",
+        "description": "马利亚将价值近一年的香膏浇在耶稣的脚上。祂为她辩护。（约翰福音 12:3-7 · 马太福音 20:2，RVR1960 意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "1분 만에 거의 1년 치 월급을 쏟아버렸습니다 🫙 #shorts",
+        "description": "마리아는 거의 1년 치 월급에 해당하는 향유를 예수님의 발에 부었습니다. 예수님께서는 마리아를 변호하셨습니다. (요한복음 12:3-7 · 마태복음 20:2, RVR1960 성경 해설) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "perfume jar alabaster pouring"
-      }
+      },
+      "texto_en": "In one minute, he spilled almost a year's salary. And some of those present called it wasteful.",
+      "texto_pt": "Em um minuto, ele desperdiçou quase um ano de salário. E alguns dos presentes chamaram isso de desperdício.",
+      "texto_ar": "في دقيقة واحدة، أهدر ما يقرب من راتب عام كامل. ووصف بعض الحاضرين ذلك بالتبذير.",
+      "texto_zh": "在一分钟内，他洒掉了将近一年的工资。在场的一些人称之为浪费。",
+      "texto_ko": "그는 1분 만에 거의 1년 치 월급을 쏟아버렸습니다. 그리고 그 자리에 있던 사람들 중 일부는 그것을 낭비라고 불렀습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "calido",
       "visual": {
         "query": "flowers fragrance soft light"
-      }
+      },
+      "texto_en": "In John 12, Mary takes a very expensive perfume of pure nard and anoints Jesus' feet. Judas estimated its value at three hundred denarii, and in the Bible, a denarius was the pay for a day's work. Almost a year's wages. And the house was filled with the fragrance of the perfume. Jesus defended her: Leave her alone. What some see as a loss, God sees as worship. Today, at 6:00 p.m., the full sermon on that dinner. Subscribe.",
+      "texto_pt": "Em João 12, Maria pega um perfume de nardo puro, muito caro, e unge os pés de Jesus. Judas calculou seu valor em trezentos denários, e na Bíblia um denário era o pagamento de um dia de trabalho. Quase um ano de salários. E a casa se encheu com o aroma do perfume. Jesus a defendeu: deixem-na. O que alguns veem como perda, Deus vê como adoração. Hoje, às seis da tarde, o sermão completo sobre essa ceia. Inscreva-se.",
+      "texto_ar": "في إنجيل يوحنا الإصحاح الثاني عشر، تأخذ مريم طيبًا من ناردين خالص، وهو ثمين جدًا، وتدهن به قدمي يسوع. قدر يهوذا قيمته بثلاثمائة دينار، وفي الكتاب المقدس كان الدينار أجر يوم عمل واحد. ما يقرب من عام من الأجور اليومية. وامتلأ البيت برائحة العطر. دافع عنها يسوع: دعوها. ما يراه البعض خسارة، يراه الله عبادة. اليوم، في الساعة السادسة مساءً، العظة الكاملة عن تلك الوليمة. اشترك.",
+      "texto_zh": "在《约翰福音》第十二章中，马利亚取了一斤极贵的纯哪哒香膏，膏耶稣的脚。犹大估算它的价值为三百第纳尔，而在圣经中，一个第纳尔是一天的工钱。差不多是一年的工资。屋里充满了香膏的香味。耶稣为她辩护说：由她吧。有些人认为这是浪费，但上帝却视之为敬拜。今天下午六点，将有关于这顿晚餐的完整布道。请订阅。",
+      "texto_ko": "요한복음 12장에서 마리아는 매우 비싼 순수한 나르드 향유를 가져와 예수님의 발에 바릅니다. 유다는 그 값어치를 300데나리온으로 계산했는데, 성경에서 데나리온은 하루 일당이었습니다. 거의 1년 치 일당에 해당하는 금액이었습니다. 그리고 집은 향유 냄새로 가득 찼습니다. 예수님께서는 마리아를 변호하셨습니다. \"그대로 두어라.\" 어떤 이들은 낭비라고 생각하지만, 하나님께서는 경배로 보십니다. 오늘 오후 6시에 이 만찬에 대한 설교 전체를 전해드립니다. 구독하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
