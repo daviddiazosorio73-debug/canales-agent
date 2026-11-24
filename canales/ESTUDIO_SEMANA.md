@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-24 02:49 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-24 14:04 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | vie 20 | [Dar te transforma: la razón más profunda por la que Dios te ](https://youtu.be/pOIJGxV6amQ) | [fijar](https://studio.youtube.com/video/pOIJGxV6amQ/comments) | [editar](https://studio.youtube.com/video/pOIJGxV6amQ/edit) | — | — |
 | lun 23 | [Dos principios en guerra: dónde nació el egoísmo | Mayordomí](https://youtu.be/ELfJtU5uM6Q) | [fijar](https://studio.youtube.com/video/ELfJtU5uM6Q/comments) | [editar](https://studio.youtube.com/video/ELfJtU5uM6Q/edit) | — | — |
 
-**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: Perdió todo… y no era por falta de fe 🌪️ #shorts](https://youtube.com/shorts/X4aQ3uGlvqY)
+**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: Dios no quiere tu dinero así 😟 #shorts](https://youtube.com/shorts/hiKYLjqytbY)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Dios no se contradice. Y eso lo cambia todo ✋ #shorts](https://youtube.com/shorts/20rHqL4iSd4)
+**Escuchar:** [Short: Dios se mudó a tu barrio 🏠 #shorts](https://youtube.com/shorts/ufo3YSnDbxY)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: O conselho de Paulo que evita dois erros opostos ⚖️ #shorts](https://youtube.com/shorts/Flm_zy5bpOw)
+**Escuchar:** [Short: Deus armou sua tenda entre nós? ⛺ #shorts](https://youtube.com/shorts/Yj5nvmEs8uY)
 
 ## Top 10 Redes Sociales
 
@@ -43,5 +43,5 @@ Sin videos largos publicados esta semana.
 | vie 20 | [Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) | [fijar](https://studio.youtube.com/video/LA5oj8-myiw/comments) | [editar](https://studio.youtube.com/video/LA5oj8-myiw/edit) | [revisar](https://studio.youtube.com/video/LA5oj8-myiw/translations) | sí |
 | dom 22 | [Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) | [fijar](https://studio.youtube.com/video/n9Bqd7M2oI4/comments) | [editar](https://studio.youtube.com/video/n9Bqd7M2oI4/edit) | — | sí |
 
-**Escuchar:** [largo: Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) · [Short: ¿Estar sentado es el nuevo cigarrillo? Mito vs evidencia #sh](https://youtube.com/shorts/nWtKMfFPkv0)
+**Escuchar:** [largo: Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) · [Short: ¿Pararte o caminar? Lo que encontraron los ensayos #shorts](https://youtube.com/shorts/pHLg6WjRQuY)
 
