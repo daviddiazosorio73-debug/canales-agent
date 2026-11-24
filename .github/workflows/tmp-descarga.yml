@@ -3,10 +3,14 @@ on:
   workflow_dispatch:
     inputs:
       url: {required: true}
+permissions:
+  contents: write
 jobs:
   d:
     runs-on: ubuntu-latest
     steps:
-      - run: curl -sL "${{ inputs.url }}" -o datos.csv && wc -c datos.csv
-      - uses: actions/upload-artifact@v4
-        with: {name: datos, path: datos.csv, retention-days: 1}
+      - run: |
+          mkdir w && cd w && git init -q && curl -sL "${{ inputs.url }}" | gzip -9 > datos.csv.gz
+          git config user.name bot && git config user.email bot@users.noreply.github.com
+          git checkout -q -b tmp-datos && git add . && git commit -qm datos
+          git push -q -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" tmp-datos
