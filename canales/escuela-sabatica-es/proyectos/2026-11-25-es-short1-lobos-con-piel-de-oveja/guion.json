@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The most dangerous costume in the church 🐺 #shorts",
+        "description": "Jesus spoke of a disguise so good that nothing can be seen on the outside. Matthew 7:15–16 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "A fantasia mais perigosa da igreja 🐺 #shorts",
+        "description": "Jesus falou de um disfarce tão bom que, por fora, nada se percebe. Mateus 7:15-16 Inscreva-se para ver mais vídeos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "التنكر الأكثر خطورة في الكنيسة 🐺 #shorts",
+        "description": "تحدث يسوع عن تمويه جيد لدرجة أنه لا يمكن ملاحظة أي شيء من الخارج. متى 7: 15-16 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "教堂里最危险的装扮 🐺 #shorts",
+        "description": "耶稣谈到一种伪装得非常好的外表，从外面看什么也看不出来。马太福音 7:15-16 订阅以获取更多 1 分钟安息日学内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "교회에서 가장 위험한 위장 🐺 #shorts",
+        "description": "예수님께서는 겉으로는 아무것도 드러나지 않을 만큼 완벽한 위장에 대해 말씀하셨습니다. 마태복음 7:15-16 1분 안식일학교를 더 보려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "wolf in snowy forest staring"
-      }
+      },
+      "texto_en": "Jesus spoke of a disguise so good that nothing can be seen on the outside.",
+      "texto_pt": "Jesus falou de um disfarce tão bom que, por fora, nada se percebe.",
+      "texto_ar": "تحدث يسوع عن تنكر جيد لدرجة أنه من الخارج لا يمكن ملاحظة أي شيء.",
+      "texto_zh": "耶稣谈到了一种非常巧妙的伪装，从外表上看不出任何破绽。",
+      "texto_ko": "예수님께서는 겉으로는 아무것도 보이지 않을 정도로 좋은 위장에 대해 말씀하셨습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "flock of sheep grazing in green meadow"
-      }
+      },
+      "texto_en": "In Matthew 7, verses 15 and 16, Jesus warns: Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. And he adds that you will recognize them by their fruits. This is today's topic in Lesson Nine, Testing the Prophets: Good Fruit. The disguise deceives for a while; the fruits do not. Over the years, you can see what a life and a message produce: more love, obedience, and humility, or division, pride, and personal gain? Look at the result, not the appearance. Subscribe and comment on \"By their fruits.\"",
+      "texto_pt": "Em Mateus 7, versículos 15 e 16, Jesus adverte: tenham cuidado com os falsos profetas: por fora parecem ovelhas, mas por dentro são lobos; e acrescenta que eles são reconhecidos pelo que produzem. Este é o tema de hoje na lição nove, Testando os profetas: frutos positivos. O disfarce engana por um tempo; os frutos não. Com o passar dos anos, vemos o que uma vida e uma mensagem produzem: mais amor, obediência e humildade, ou divisão, orgulho e ganho pessoal? Observe o resultado, não a aparência. Inscreva-se e comente \"Pelos seus frutos\".",
+      "texto_ar": "في إنجيل متى الإصحاح السابع، الآيتان الخامسة عشرة والسادسة عشرة، يحذر يسوع: احترسوا من الأنبياء الكذبة: من الخارج يبدون كخراف، ولكن من الداخل هم ذئاب؛ ويضيف أنهم يُعرفون بما ينتجونه. هذا هو موضوع اليوم في الدرس التاسع، اختبار الأنبياء: الثمار الإيجابية. التمويه يخدع لفترة من الوقت؛ أما الثمار فلا. مع مرور السنين، يمكننا أن نرى ما تنتجه الحياة والرسالة: المزيد من الحب والطاعة والتواضع، أم الانقسام والغرور والمكاسب الشخصية؟ انظر إلى النتيجة، وليس إلى المظهر. اشترك وعلق على \"من ثمارهم\".",
+      "texto_zh": "在《马太福音》第七章第十五节和第十六节中，耶稣告诫说：要提防假先知：他们外表像绵羊，内心却是豺狼；他还补充说，可以从他们的行为来辨认他们。这是今天第九课的主题：检验先知：积极的果实。伪装可以欺骗一时，但果子不会。 随着时间的推移，我们可以看到一种生活和一种信息会带来什么：是更多的爱、顺服和谦卑，还是分裂、骄傲和个人利益？看结果，而不是外表。订阅并评论“凭他们的果子”。",
+      "texto_ko": "마태복음 7장 15절과 16절에서 예수님께서는 다음과 같이 경고하십니다. 거짓 선지자들을 조심하십시오. 그들은 겉으로는 양 같지만 속은 늑대입니다. 그리고 그들이 맺는 열매로 그들을 알아볼 수 있다고 덧붙이십니다. 오늘 9과에서 다룰 주제는 '선지자들을 시험함: 좋은 열매'입니다. 겉모습은 잠시 속일 수 있지만, 열매는 속일 수 없습니다. 세월이 흐르면 한 사람의 삶과 메시지가 무엇을 낳는지 알 수 있습니다. 더 많은 사랑, 순종, 겸손일까요, 아니면 분열, 교만, 개인적 이익일까요? 겉모습이 아니라 결과를 보세요. 구독하고 '그 열매로'에 대해 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
