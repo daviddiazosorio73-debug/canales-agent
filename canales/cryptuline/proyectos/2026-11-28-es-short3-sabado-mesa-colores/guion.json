@@ -37,7 +37,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-11-29T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The Saturday table with two fruits and three vegetables #shorts",
+        "description": "Saturday table with two fruits and three vegetables.\n\npubMed:\n• Wang DD, Li Y, Bupathyraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results from 2 Prospective Cohour Studies of US Men and Women and a Meta-Analysis of 26 Cohour Studies. Circulation. 2021, 143 (17): 1642-1654. https: / / pubmed.ncbi.nlm.nih.gov / 33641343 / · https: / / doi.org / 10.1161 / CIRCULATIONAHA.120.048996\n\nEducational content for more than 18 years old. Do not substitute for medical care: check with your doctor before changing your food, physical activity or treatment. Narration with synthetic voice. Cryptline."
+      },
+      "pt": {
+        "title": "A mesa de sábado com duas frutas e três legumes #shorts",
+        "description": "Mesa de sábado com duas frutas e três legumes.\n\nPubMed:\n• Wang DD, Li Y, Bupathyraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Circulação. 2021, 143 (17): 1642-1654. https: // pubmed.ncbi. nlm. nih.gov / 33641343 / · https: // doi.org / 10.1161 / CIRCULATIONAHA. 120.048996\n\nConteúdo educacional para mais de 18 anos. Não substitua os cuidados médicos: consulte o seu médico antes de alterar a sua alimentação, actividade física ou tratamento. Narração com voz sintética. Criptalina."
+      },
+      "ar": {
+        "title": "طاولة السبت مع فاكهة وثلاثة خضار #shorts",
+        "description": "طاولة السبت مع فاكهتين وثلاثة خضروات\n\n-\n• Wang DD, Li Y, Bupathyraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. Fruit and Vegetable Intake and Mortality: Results from 2 Prospective Cohour Studies of US Men and Women and a Meta-Analysis of 26 Cohour Studies. Circulation. 2021, 143 (17): 1642-1654. https: / / pubmed.ncbi.nlm.nih.gov /33641343 / ; https: / doi.org / 10.1161 / CIRCULATIONAHA.120.048996\n\nالمحتوى التعليمي لأكثر من 18 سنة. لا تستبدلي الرعاية الطبية: تفقدي مع طبيبك قبل تغيير طعامك أو نشاطك الجسدي أو العلاج الغضب مع الصوت الاصطناعي مشفرة"
+      },
+      "zh-Hans": {
+        "title": "星期六的餐桌,有两块水果和三块蔬菜 #shorts",
+        "description": "星期六的餐桌,有2个水果和3个蔬菜.\n\n阴茎 :\n• Wang DD、Li Y、Bupathyraju SN、Rosner BA、Sun Q、Giovannucci EL、et al. 水果和蔬菜摄入量及死亡率:对美国男女进行2次预测性Cohour研究和对26次Cohour研究进行Meta-分析的结果。 流通. 2021, 143 (17): 1642–1654. https: // pubmed.ncbi.nlm.nih.gov / 33641343 / - https: // doi.org/ 10.1161 / CIRCULATIONAHA 1200.048996\n\n18岁以上教育内容. 不得替代医疗:在改变食物、身体活动或治疗之前与医生联系。 以合成声闻. 密码"
+      },
+      "ko": {
+        "title": "2개의 과일과 3개의 야채를 가진 토요일 테이블 #shorts",
+        "description": "2개의 과일과 3개의 야채를 가진 토요일 테이블.\n\npubMed:\n• Wang DD, Li Y, Bupathyraju SN, Rosner BA, Sun Q, Giovannucci EL, et al. 과일 및 야채 섭취 및 Mortality : 미국 남성과 여성 2 시간 연구 결과 26 시간 연구의 Meta-Analysis. 순환. 2021, 143 (17) : 1642-1654. https : / / pubmed.ncbi.nlm.nih.gov / 33641343 / · https : / / doi.org / 10.1161 / CIRCULATIONAHA.120.048996\n\n18 세 이상 교육 내용. 치료에 대 한 대체 하지 마십시오: 당신의 의사와 함께 당신의 음식, 신체 활동 또는 치료를 변경 하기 전에. 합성 목소리와 비교. 암호화."
+      }
+    }
   },
   "escenas": [
     {
@@ -48,7 +70,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "colorful vegetables dinner table"
-      }
+      },
+      "texto_en": "How many colors are today at your Saturday table?",
+      "texto_pt": "Quantas cores estão hoje na sua mesa de sábado?",
+      "texto_ar": "كم عدد الألوان اليوم على طاولة يوم السبت؟",
+      "texto_zh": "今天你星期六的餐桌上有多少颜色?",
+      "texto_ko": "얼마나 많은 색상은 오늘 토요일 테이블에?"
     },
     {
       "id": "mensaje",
@@ -57,7 +84,19 @@
       "emocion": "agil",
       "visual": {
         "query": "fruit platter family"
-      }
+      },
+      "texto_en": "In Genesis one, verse 20, God gives to man plants with seed and fruits as food. And in Wang's study, with about two million people, about five portions a day, two fruit and three vegetables, were associated with lower mortality and above that, there was no additional reduction. It's an observational study: sample association, no cause. Tonight, try a plate with fruit and vegetables of several colors. Keep this video and share with someone I can serve. Check with your doctor before making changes. Follow us at Cryptline for more health science.",
+      "texto_pt": "Em Gênesis um, versículo 20, Deus dá ao homem plantas com semente e frutos como alimento. E no estudo de Wang, com cerca de dois milhões de pessoas, cerca de cinco porções por dia, duas frutas e três hortaliças, foram associadas com menor mortalidade e acima disso, não houve redução adicional. É um estudo observacional: associação da amostra, sem causa. Esta noite, experimente um prato com frutas e legumes de várias cores. Mantenha este vídeo e compartilhe com alguém que eu possa servir. Consulte o seu médico antes de fazer alterações. Siga-nos na Criptline para mais ciências da saúde.",
+      "texto_ar": "في الجينسيس الأول، الآية 20، الله يعطي لرجل النباتات مع البذور والفواكه كالطعام. وفي دراسة وانغ، مع حوالي مليوني شخص، حوالي خمسة أجزاء في اليوم، اثنين من الفاكهة وثلاثة خضروات، كانت مرتبطة بانخفاض الوفيات وفوق ذلك، لم يكن هناك تخفيض إضافي. إنّها دراسة ملاحظّة، جمعيّة العينات، لا سبب. الليلة، جربي طبق مع الفواكه والخضروات من عدة ألوان احتفظي بهذا الفيديو واشاركي شخص يمكنني خدمته تحقق مع طبيبك قبل إجراء التغييرات إتبعنا في (كريبتلين) لمزيد من العلوم الصحية",
+      "texto_zh": "在创世纪1,第20节中,上帝赐予人类以种子和水果作为食物的植物. 而汪精卫的研究中,约有两百万人,每天约五部分,两片水果和三片蔬菜,都与死亡率降低及以上有关,没有再减少. 观察研究:样本关联,无因. 今晚,尝试一个盘子 水果和蔬菜几色。 留着这段视频 和我能服务的人分享 在修改前先去找医生 跟随我们在密码线 更多的健康科学。",
+      "texto_ko": "제네시스에서, 구절 20, 하나님은 종자와 과일을 음식으로 준다. 그리고 왕의 연구에서, 약 2 백만명의 사람들과 더불어, 하루에 약 5개의 부분, 2개의 과일 및 3개의 야채는 더 낮은 사망률과 그 위에, 추가적인 감소가 없었습니다. 관찰 연구 : 샘플 협회, 원인 없음. 밤, 여러 색상의 과일과 야채와 접시를보십시오. 이 비디오를 유지하고 누군가와 공유 할 수 있습니다. 변경하기 전에 의사와 확인. 더 많은 건강 과학을위한 Cryptline에서 우리를 따르라."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
