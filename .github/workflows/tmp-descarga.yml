@@ -1,0 +1,12 @@
+name: tmp descarga
+on:
+  workflow_dispatch:
+    inputs:
+      url: {required: true}
+jobs:
+  d:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl -sL "${{ inputs.url }}" -o datos.csv && wc -c datos.csv
+      - uses: actions/upload-artifact@v4
+        with: {name: datos, path: datos.csv, retention-days: 1}
