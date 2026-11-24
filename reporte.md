@@ -1,28 +1,28 @@
-# Último reporte (2026-11-23 21:19 UTC)
+# Último reporte (2026-11-24 06:00 UTC)
 
 ## Subidos
-- mayordom: 2026-11-23-es-sermon-dos-principios-en-guerra: pistas de idioma listas para Studio → release «audios-extra»
-- mayordom: 2026-11-23-es-sermon-dos-principios-en-guerra → https://youtu.be/ELfJtU5uM6Q
-- mayordom: 2026-11-23-es-short3-job-perdio-todo: pistas de idioma listas para Studio → release «audios-extra»
-- mayordom: 2026-11-23-es-short3-job-perdio-todo → https://youtu.be/X4aQ3uGlvqY
-- escola-sabatina-pt: 2026-11-24-pt-short2-o-verbo-se-fez-carne: pistas de idioma listas para Studio → release «audios-extra»
-- escola-sabatina-pt: 2026-11-24-pt-short2-o-verbo-se-fez-carne → https://youtu.be/Yj5nvmEs8uY
-- escuela-sabatica-es: 2026-11-24-es-short3-entiende-tu-dolor: pistas de idioma listas para Studio → release «audios-extra»
-- escuela-sabatica-es: 2026-11-24-es-short3-entiende-tu-dolor → https://youtu.be/wt1KFQJj2lo
-- escola-sabatina-pt: 2026-11-24-pt-short3-igual-a-nos: pistas de idioma listas para Studio → release «audios-extra»
-- escola-sabatina-pt: 2026-11-24-pt-short3-igual-a-nos → https://youtu.be/Wh4kcMTZCz4
-- mayordom: 2026-11-24-es-short1-el-devorador-en-contexto: pistas de idioma listas para Studio → release «audios-extra»
-- mayordom: 2026-11-24-es-short1-el-devorador-en-contexto → https://youtu.be/Qu2Qn5Y43h4
-- mayordom: 2026-11-24-es-short2-dador-alegre: pistas de idioma listas para Studio → release «audios-extra»
-- mayordom: 2026-11-24-es-short2-dador-alegre → https://youtu.be/hiKYLjqytbY
-- mayordom: 2026-11-24-es-analisis-diezmo-y-devorador: pistas de idioma listas para Studio → release «audios-extra»
-- mayordom: 2026-11-24-es-analisis-diezmo-y-devorador → https://youtu.be/_-cCZx0ORcw
+- escuela-sabatica-es: 2026-11-25-es-short1-lobos-con-piel-de-oveja: pistas de idioma listas para Studio → release «audios-extra»
+- escuela-sabatica-es: 2026-11-25-es-short1-lobos-con-piel-de-oveja → https://youtu.be/YdQ2D-aOEyQ
+- escola-sabatina-pt: 2026-11-25-pt-short1-o-fruto-do-espirito: pistas de idioma listas para Studio → release «audios-extra»
+- escola-sabatina-pt: 2026-11-25-pt-short1-o-fruto-do-espirito → https://youtu.be/yVE7LlOEvI0
+- escuela-sabatica-es: 2026-11-25-es-short2-el-fruto-del-espiritu: pistas de idioma listas para Studio → release «audios-extra»
+- escuela-sabatica-es: 2026-11-25-es-short2-el-fruto-del-espiritu → https://youtu.be/sAFVBKZGCEM
+- escola-sabatina-pt: 2026-11-25-pt-short2-esteve-no-meu-conselho: pistas de idioma listas para Studio → release «audios-extra»
+- escola-sabatina-pt: 2026-11-25-pt-short2-esteve-no-meu-conselho → https://youtu.be/K2TQMw0sCUg
+- mayordom: 2026-11-24-es-short3-la-torre-de-siloe: pistas de idioma listas para Studio → release «audios-extra»
+- mayordom: 2026-11-24-es-short3-la-torre-de-siloe → https://youtu.be/v7WiWr7s3d0
+- mayordom: 2026-11-25-es-short1-judas-y-la-bolsa: pistas de idioma listas para Studio → release «audios-extra»
+- mayordom: 2026-11-25-es-short1-judas-y-la-bolsa → https://youtu.be/jJwT_4dzRTI
+- mayordom: 2026-11-25-es-short2-perfume-de-un-ano: pistas de idioma listas para Studio → release «audios-extra»
+- mayordom: 2026-11-25-es-short2-perfume-de-un-ano → https://youtu.be/XNsI-gXFMhQ
+- cryptuline: 2026-11-27-es-divulgacion-frutas-y-verduras: pistas de idioma listas para Studio → release «audios-extra»
+- cryptuline: 2026-11-27-es-divulgacion-frutas-y-verduras → https://youtu.be/qJGVwwkoZek
 
 ## Fallos
 
 ## Instagram/Facebook
-- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AFDGY_LQm0EM-N2X8an_XvI"}})
-- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A4VMqqpk9ohyCxugJD7ArOd"}})
-- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ADbtu5C5V7iYZft0d4I15uE"}})
-- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AWrSvR-M66UARqnKRnDu2jd"}})
-- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AlRp3KbYSyM8vEC-q8tsYEK"}})
+- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AaSPQYMINq7W75LABukV0Tz"}})
+- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"AKutUtH6X8zBh24ENjG_CLI"}})
+- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"A3ydELMh-2m-fWEgW233QiK"}})
+- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"ANeX_iDwba3jCXlvtPNpx03"}})
+- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","code":200,"type":"OAuthException","error_subcode":5258005,"fbtrace_id":"Au9bl2JuuZj3tMV57P8_dvV"}})
