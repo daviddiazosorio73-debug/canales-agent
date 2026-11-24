@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-25T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Prophets that God never sent: how can we recognize them? #shorts",
+        "description": "God said that some prophets were running around with messages that he had never given. And he showed how to tell the difference. Jeremiah 23:21-22 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "الأنبياء الذين لم يرسلهم الله أبدًا: كيف يمكن التعرف عليهم؟ #shorts",
+        "description": "قال الله إن بعض الأنبياء كانوا ينشرون رسائل لم يرسلها هو أبدًا. وأوضح كيفية معرفة الفرق. إرميا 23: 21-22 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "上帝从未派遣过的先知：如何辨别？ #shorts",
+        "description": "神说，有些先知传播着祂从未传达过的信息。祂还指出了如何辨别其中的差异。耶利米书 23:21-22 订阅，即可在 1 分钟内观看更多安息日学堂内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님께서 보내지 않으신 예언자들: 어떻게 알아볼 수 있을까요? #shorts",
+        "description": "하나님께서는 어떤 예언자들이 그분이 주신 적 없는 메시지를 전파하고 다녔다고 말씀하셨습니다. 그리고 그 차이를 어떻게 구별할 수 있는지 보여주셨습니다. 예레미야 23:21-22 1분 안식일학교를 더 보려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "footprints on dirt road disappearing into fog"
-      }
+      },
+      "texto_en": "God said that some prophets were spreading messages that he had never given. And He showed how to tell the difference.",
+      "texto_ar": "قال الله إن بعض الأنبياء كانوا ينشرون رسائل لم يرسلها هو أبدًا. وأظهر كيف يمكن ملاحظة الفرق.",
+      "texto_zh": "上帝说，有些先知传播着祂从未传达过的信息。祂还指出了如何辨别其中的差异。",
+      "texto_ko": "하나님께서는 어떤 예언자들이 그분이 주신 적 없는 메시지를 전파하고 다닌다고 말씀하셨습니다. 그리고 그 차이를 어떻게 인식할 수 있는지 보여주셨습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "forest path splitting in two with sunlight"
-      }
+      },
+      "texto_en": "Jeremiah twenty-three, verses twenty-one and twenty-two. God says: I did not send these prophets, yet they ran; I did not speak to them, yet they prophesied. If they had stood in my council, they would have made my people hear my words and turned them from their evil way. This is today's topic for Lesson Nine: Putting the Prophets to the Test: Positive Results. A true messenger of God does not let people feel comfortable in their error. He brings them closer to the Word and leads them away from sin. Ask yourself: Does this message call me to change my path? Say, “I want to hear the Word.”",
+      "texto_ar": "إرميا الإصحاح الثالث والعشرون، الآيتان الحادية والعشرون والثانية والعشرون. يقول الله: لم أرسل هؤلاء الأنبياء، لكنهم ركضوا؛ لم أتكلم معهم، لكنهم تنبأوا. لو كانوا قد حضروا مجلسي، لكانوا جعلوا شعبي يسمع كلامي ولأبعدوه عن الطريق السيئ. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: الثمار الإيجابية. الرسول الحقيقي لله لا يترك الناس مرتاحين في الخطأ. إنه يقربهن من الكلمة ويبعدهن عن الخطيئة. اسأل: هل تدعوني هذه الرسالة إلى تغيير مساري؟ علّق بقولك \"أريد أن أسمع الكلمة\".",
+      "texto_zh": "耶利米书第二十三章，第二十一节和第二十二节。神说：我没有差遣这些先知，他们竟自奔跑；我没有吩咐他们，他们竟自说预言。他们若站在我的会中，就必使我的百姓听我的话，又领他们离开恶路，不做恶事。这是今天第九课的主题：考验先知：积极的果实。真正的神的使者不会让人们在错误中感到安逸。 他使她们更接近圣言，远离罪恶。问问自己：这条信息是否在呼唤我改变道路？发表评论：“我想聆听圣言。”",
+      "texto_ko": "예레미야 23장 21절과 22절입니다. 하나님께서 말씀하시기를, 내가 이 선지자들을 보내지 않았으나 그들이 달려갔고, 내가 그들에게 말하지 않았으나 그들이 예언하였다. 그들이 내 모임에 참석했다면 내 백성에게 내 말을 들려주고 그들을 악한 길에서 돌이켰을 것이다. 오늘 9과, '선지자들을 시험에 들게 하다: 긍정적인 열매'의 주제입니다. 하나님의 참된 사자는 사람들이 잘못된 길에서 편안해하도록 내버려 두지 않습니다. 그분께서는 그들을 말씀에 가까이 오게 하시고 죄에서 멀어지게 하십니다. 자신에게 물어보십시오. 이 메시지가 나에게 길을 바꾸라고 촉구하는가? \"말씀을 듣고 싶습니다\"라고 말씀하십시오."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
