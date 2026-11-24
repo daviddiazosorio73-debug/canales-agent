@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "He had everything... and went bad #shorts",
+        "description": "Jesus saw and loved him. But he's gone sad, because he had so many possessions. (Matthew 19: 21-22)\n\nSubscribe to MayorDom · Biblical Mayordomy. Narration with synthetic voice. Shorts"
+      },
+      "pt": {
+        "title": "Ele tinha tudo... e correu mal. #shorts",
+        "description": "Jesus o viu e amou. Mas ele ficou triste, porque tinha tantos bens. (Mateus 19: 21-22)\n\nAssine a MayorDom · Mayordomy Bíblica. Narração com voz sintética. Calções"
+      },
+      "ar": {
+        "title": "كان لديه كل شيء وذهب بشكل سيء #shorts",
+        "description": "المسيح رآه و أحبه لكنه أصبح حزيناً لأنه كان لديه الكثير من الحيازة (Matthew 19: 21-22)\n\nSubscribe to MayorDom · Biblical Mayordomy. الغضب مع الصوت الاصطناعي قصيرة"
+      },
+      "zh-Hans": {
+        "title": "他拥有一切... 却变得很糟糕 #shorts",
+        "description": "耶稣看见并爱他. 但他很伤心,因为他有这么多财产 (马修19:21-22)\n\n向多姆市长订阅圣经市长领地。 以合成声闻. 短裤"
+      },
+      "ko": {
+        "title": "그는 모든 것을 가지고 ... 그리고 나쁜 갔다 #shorts",
+        "description": "예수님은 그를 보았다. 그러나 그는 슬픈, 그는 너무 많은 소유가 있었다 때문에. (마라톤 19 : 21-22)\n\nMarketDom · Biblical Mayordomy에 가입하십시오. 합성 목소리와 비교. 이름 *"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "young man walking away road"
-      }
+      },
+      "texto_en": "He was young and rich and did his commandments. He talked to Jesus face to face. And she's gone sad.",
+      "texto_pt": "Era jovem e rico e cumpria os seus mandamentos. Ele falou com Jesus cara a cara. E ela ficou triste.",
+      "texto_ar": "كان شاباً وغنياً وقام بأوامره لقد تحدث إلى السيد المسيح وجهاً لوجه وهي أصبحت حزينة",
+      "texto_zh": "年少富贵,行其戒律. 他和耶稣面对面交谈 她已经伤心死了",
+      "texto_ko": "그는 젊고 부유하고 그의 계명을했다. 그는 예수 얼굴에 얼굴에 이야기했다. 그리고 그녀는 슬픈."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "reflexivo",
       "visual": {
         "query": "empty road dusk loneliness"
-      }
+      },
+      "texto_en": "Matthew 19. Jesus said to him, \"Do what you have and give to the poor and have treasure in heaven and come and follow me.\" When she heard that, she went sad, because she had a lot of possessions. Mark adds a moved detail: Jesus saw and loved him. That was no cruel demand. It was an invitation to be free. The problem was his possessions. It was his possessions had him. Is something with you?",
+      "texto_pt": "Mateus 19. Disse-lhe Jesus: Faze o que tens e dá aos pobres, e tem tesouro no céu, e vem e segue-me. Quando ouviu isso, ficou triste, porque tinha muitos bens. Marcos acrescenta um detalhe comovente: Jesus o viu e o amou. Não foi uma exigência cruel. Era um convite para ser livre. O problema eram os bens dele. Eram os seus bens que o tinham. Passa-se alguma coisa contigo?",
+      "texto_ar": "ماثيو 19 السيد المسيح قال له: \"افعل ما لديك وتعطيه للفقراء ولديه كنز في السماء وتعال وتبعني\" عندما سمعت ذلك، أصبحت حزينة، لأن لديها الكثير من الحيازة. (مارك) يضيف تفصيلاً متحركاً المسيح رآه و أحبه لم يكن ذلك طلباً قاسياً كانت دعوة لتكون حرة المشكلة كانت ممتلكاته لقد كان بحوزته هل هناك شيء معك؟",
+      "texto_zh": "马修 19. 耶稣对他说:\"做你所拥有的事情,把钱交给穷人,在天上有宝藏,来跟着我. 听说后,她伤心欲绝,因为她有很多财物. 马克补充了一个感人的细节:耶稣看见并爱他. 这不是残酷的要求。 这是自由的邀请。 问题是他的财物 是他的财产给他的 跟你有什么关系吗?",
+      "texto_ko": "마태복음 19 예수님은 그에게 말했다, \"당신은 무엇을하고 가난한 사람에게주고 하늘에 보물을 가지고 나를 따르라.\" 그녀가 들었을 때, 그녀는 슬픈, 그녀는 많은 물건을 가지고 있기 때문에. Mark는 이전 세부 사항을 추가합니다 : 예수님은 그를 보았습니다. 그것은 유람선 수요가 없었다. 무료로 초대되었습니다. 문제는 그의 소유물이었다. 그것은 그의 소유가 그를했다. 당신과 함께 뭔가?"
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
