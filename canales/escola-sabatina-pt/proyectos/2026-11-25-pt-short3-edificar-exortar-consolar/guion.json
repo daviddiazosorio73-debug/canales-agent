@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "What is the purpose of prophecy? Three words provide the answer. #shorts",
+        "description": "Prophecy was not given to frighten or to satisfy curiosity. Paul summed up its purpose in three words. 1 Corinthians 14:3 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "ما فائدة النبوءة؟ ثلاث كلمات تجيب عن ذلك #shorts",
+        "description": "لم تُعطَ النبوة لإثارة الخوف أو لإخماد الفضول. لخص بولس هدفها في ثلاث كلمات. 1 كورنثوس 14: 3 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "预言有何用处？三个词语即可回答。 #shorts",
+        "description": "预言的赐予不是为了吓唬人，也不是为了满足好奇心。保罗用三个词概括了它的目的。哥林多前书 14:3 订阅，1 分钟内了解更多安息日学的内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "예언은 무엇에 유용한가요? 세 단어로 답합니다. #shorts",
+        "description": "예언은 두려움을 주거나 호기심을 없애기 위해 주어지지 않았습니다. 바울은 그 목적을 세 단어로 요약했습니다. 고린도전서 14:3 1분 안식일학교를 더 보려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "brick wall being built with trowel and mortar"
-      }
+      },
+      "texto_en": "The prophecy was not given to frighten or to quell curiosity. Paul summed up its purpose in three words.",
+      "texto_ar": "لم تُعطَ النبوءة لإثارة الخوف أو لإخماد الفضول. لخص بولس هدفها في ثلاث كلمات.",
+      "texto_zh": "预言的用意既不是为了吓唬人，也不是为了满足好奇心。保罗用三个词概括了它的目的。",
+      "texto_ko": "예언은 두려움을 주거나 호기심을 없애기 위해 주어진 것이 아닙니다. 바울은 그 목적을 세 단어로 요약했습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "morning sunlight through window on open book"
-      }
+      },
+      "texto_en": "First Corinthians fourteen, verse three. The one who prophesies speaks to people for their edification, encouragement, and consolation. To edify is to build up faith. To exhort is to call someone back to the right path. To comfort is to give hope to those who suffer. This is today's topic for Lesson Nine, Testing the Prophets: Positive Results. A message from God can correct, but always with the aim of lifting the person up, not destroying them. To edify, exhort, and comfort. Which of the three do you need most today? Comment.",
+      "texto_ar": "رسالة بولس الأولى إلى أهل كورنثوس الإصحاح الرابع عشر، الآية الثالثة. من يتنبأ يخاطب الناس ليبني ويوصي ويعزي. البناء يعني بناء الإيمان. الوعظ هو إعادة الشخص إلى الطريق الصحيح. التعزية هي إعطاء الأمل لمن يعاني. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: الثمار الإيجابية. قد تكون رسالة من الله للتصحيح، ولكن دائمًا بهدف رفع شأن الشخص، وليس تدميره. البناء والتشجيع والتعزية. أي من هذه الثلاثة تحتاج إليه أكثر اليوم؟ اترك تعليقًا.",
+      "texto_zh": "哥林多前书第十四章第三节。作先知讲道的人是对人说话，为要造就、劝勉、安慰人。造就就是建立信心。劝勉就是引导人们回到正道。安慰就是给受苦的人带来希望。这是今天第 9 课的主题，检验先知：积极的果实。来自上帝的信息可以起到纠正的作用，但其目的始终是提升人，而不是摧毁人。造就、劝勉和安慰。 今天，您最需要哪一项？请留言。",
+      "texto_ko": "고린도전서 14장 3절. 예언하는 사람은 사람들을 격려하고, 권면하고, 위로하기 위해 말합니다. 권면한다는 것은 믿음을 세우는 것입니다. 권면한다는 것은 올바른 길로 돌아오도록 이끄는 것입니다. 위로한다는 것은 고통받는 사람에게 희망을 주는 것입니다. 오늘 9과, '선지자들을 시험에 들게 함: 긍정적인 열매'의 주제입니다. 하나님의 메시지는 교정할 수 있지만, 항상 사람을 파괴하는 것이 아니라 일으키려는 목적으로 합니다. 세우고, 권면하고, 위로합니다. 오늘 가장 필요한 것은 다음 세 가지 중 무엇인가요? 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
