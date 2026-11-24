@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Saying “Lord, Lord” is not enough ⚠️ #shorts",
+        "description": "Jesus described people who did amazing things in his name… and yet he did not recognize them. Matthew 7:21–23 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Dizer \"Senhor, Senhor\" não é suficiente ⚠️ #shorts",
+        "description": "Jesus descreveu pessoas que fizeram coisas incríveis em Seu nome… e, mesmo assim, Ele não as reconheceu. Mateus 7:21-23 Inscreva-se para ver mais vídeos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "قول \"يا رب، يا رب\" ليس كافيًا ⚠️ #shorts",
+        "description": "وصف يسوع أشخاصًا قاموا بأعمال مذهلة باسمه... ومع ذلك لم يعترف بهم. متى 7: 21-23 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "光说“主啊，主啊”是不够的⚠️ #shorts",
+        "description": "耶稣描述了一些人，他们以祂的名义做了许多惊人的事……但祂并不承认他们。马太福音 7:21-23 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "'주님, 주님'이라고 말하는 것만으로는 충분하지 않습니다. ⚠️ #shorts",
+        "description": "예수님께서는 당신의 이름으로 놀라운 일을 행한 사람들에 대해 말씀하셨지만... 그럼에도 불구하고 그들을 인정하지 않으셨습니다. 마태복음 7:21-23 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "closed wooden door with light behind it"
-      }
+      },
+      "texto_en": "Jesus described people who did amazing things in his name… and yet he did not recognize them.",
+      "texto_pt": "Jesus descreveu pessoas que fizeram coisas incríveis em Seu nome… e, mesmo assim, Ele não as reconheceu.",
+      "texto_ar": "وصف يسوع أشخاصًا فعلوا أشياء مذهلة باسمه... ومع ذلك لم يعترف بهم.",
+      "texto_zh": "耶稣描述了一些人，他们奉他的名行了奇妙的事……但他却不认识他们。",
+      "texto_ko": "예수님께서는 당신의 이름으로 놀라운 일을 행한 사람들에 대해 말씀하셨습니다... 그런데도 예수님께서는 그들을 인정하지 않으셨습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "footprints on sandy path toward sunrise"
-      }
+      },
+      "texto_en": "It is in Matthew 7, verses 21 to 23. Not everyone who says, “Lord, Lord,” will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven. Some will say that they prophesied and performed miracles in His name, and Jesus will say that He never knew them. This is the other side of today's topic in Lesson Nine: positive fruits. The right words and impressive deeds do not replace a life of obedience. That applies to those who preach and also to those who listen. Subscribe and comment on \"Doing His Will.\"",
+      "texto_pt": "Está em Mateus 7, versículos 21 a 23. Nem todo aquele que diz Senhor, Senhor, entrará no reino, mas aquele que faz a vontade do Pai. Alguns dirão que profetizaram e fizeram milagres em Seu nome, e Jesus dirá que nunca os conheceu. É o outro lado do tema de hoje na lição nove: frutos positivos. As palavras certas e as ações impressionantes não substituem uma vida de obediência. Isso vale para quem prega e também para quem ouve. Inscreva-se e comente \"Fazer a Sua vontade\".",
+      "texto_ar": "إنه في إنجيل متى الإصحاح السابع، الآيات من الحادية والعشرين إلى الثالثة والعشرين. ليس كل من يقول يا رب، يا رب، سيدخل الملكوت، بل من يفعل مشيئة الآب. سيقول البعض إنهم تنبأوا وصنعوا معجزات باسمه، وسيقول يسوع إنه لم يعرفهم أبدًا. هذا هو الجانب الآخر من موضوع اليوم في الدرس التاسع: الثمار الإيجابية. الكلمات الصحيحة والأفعال المثيرة للإعجاب لا تحل محل حياة الطاعة. هذا ينطبق على من يوعظ وكذلك على من يستمع. اشترك وعلق على \"فعل مشيئته\".",
+      "texto_zh": "这段经文在马太福音第七章二十一至二十三节。凡称呼我“主啊，主啊”的人不能都进天国；惟独遵行我天父旨意的人才能进去。有些人会说，他们奉耶稣的名传过道，行过神迹，而耶稣会说，他从来不认识他们。这是今天第九课主题的另一面：积极的果子。正确的言辞和令人印象深刻的行动并不能替代顺服的生活。 这既适用于传道者，也适用于听道者。订阅并评论“遵行祂的旨意”。",
+      "texto_ko": "마태복음 7장 21절부터 23절에 나옵니다. 나더러 주여, 주여 하는 자마다 천국에 들어갈 것이 아니요 다만 하늘에 계신 내 아버지의 뜻대로 행하는 자라야 들어가리라. 어떤 사람들은 그분의 이름으로 예언하고 기적을 행했다고 말할 것이고, 예수님은 그들을 한 번도 알지 못했다고 말씀하실 것입니다. 이것은 오늘 9과에서 다루는 주제의 다른 측면, 즉 긍정적인 열매입니다. 옳은 말과 인상적인 행동은 순종하는 삶을 대신할 수 없습니다. 이것은 설교하는 사람과 듣는 사람 모두에게 해당됩니다. 구독하고 '그분의 뜻을 행하기'에 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
