@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "There is only One who knows the end of the story 📜 #shorts",
+        "description": "No one can predict the future with accuracy. But God issued an open challenge about that. Isaiah 46:9–10 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Só há Um que conhece o final da história 📜 #shorts",
+        "description": "Ninguém pode prever o futuro com precisão. Mas Deus lançou um desafio aberto sobre isso. Isaías 46:9-10 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "هناك واحد فقط يعرف نهاية القصة 📜 #shorts",
+        "description": "لا أحد يستطيع التنبؤ بالمستقبل بدقة. لكن الله طرح تحديًا مفتوحًا بشأن ذلك. إشعياء 46: 9-10 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "只有一位神知道故事的结局 📜 #shorts",
+        "description": "没有人能准确地预测未来。但神就此提出了一个公开的挑战。以赛亚书 46:9-10 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "이야기의 결말을 아는 분은 한 분뿐입니다 📜 #shorts",
+        "description": "아무도 미래를 정확하게 예측할 수 없습니다. 하지만 하나님께서는 이에 대해 공개적인 도전을 하셨습니다. 이사야 46:9-10 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "ancient scroll on stone table"
-      }
+      },
+      "texto_en": "No one can predict the future with accuracy. But God issued an open challenge about that.",
+      "texto_pt": "Ninguém pode prever o futuro com precisão. Mas Deus lançou um desafio aberto sobre isso.",
+      "texto_ar": "لا أحد يستطيع التنبؤ بالمستقبل بدقة. لكن الله طرح تحديًا مفتوحًا بشأن ذلك.",
+      "texto_zh": "没有人能准确地预测未来。但上帝对此发出了公开挑战。",
+      "texto_ko": "아무도 미래를 정확하게 예측할 수 없습니다. 그러나 하나님께서는 그것에 대해 공개적인 도전을 하셨습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "winding road disappearing into horizon"
-      }
+      },
+      "texto_en": "In Isaiah 46, verses 9 and 10, God states that there is no one like him, because from the beginning he announces the end and declares in advance what has not yet happened. This connects with today's topic in Lesson Nine: Fulfilled Prophecies. Fulfilled prophecies are not fortune-teller's tricks; they are God's signature in history. They show that He sees the end before the beginning, and that's why you can trust His promises for what hasn't happened yet. Subscribe and comment, \"He knows my end.\"",
+      "texto_pt": "Em Isaías 46, versículos 9 e 10, Deus afirma que não há ninguém como Ele, porque, desde o princípio, Ele anuncia o fim e declara de antemão o que ainda não aconteceu. Isso se conecta com o tema de hoje na lição nove: profecias cumpridas. As profecias cumpridas não são truques de adivinhação; são a assinatura de Deus na história. Elas mostram que Ele vê o fim antes do começo e, por isso, você pode confiar em Suas promessas para o que ainda não aconteceu. Inscreva-se e comente \"Ele conhece o meu fim\".",
+      "texto_ar": "في سفر إشعياء الأصحاح السادس والأربعين، الآيتان التاسعة والعاشرة، يؤكد الله أنه لا يوجد أحد مثله، لأنه منذ البداية يعلن النهاية ويخبر مسبقًا بما لم يحدث بعد. يرتبط بموضوع اليوم في الدرس التاسع: النبوءات التي تحققت. النبوءات التي تحققت ليست حيلًا لعراف؛ إنها بصمة الله في التاريخ. تُظهر أنه يرى النهاية قبل البداية، ولهذا السبب يمكنك أن تثق في وعوده بما لم يحدث بعد. اشترك وعلق بعبارة \"إنه يعرف نهايتي\".",
+      "texto_zh": "在以赛亚书第四十六章第九节和第十节中，神宣告没有像祂这样的神，因为祂从起初就宣告结局，并预先宣告尚未发生的事情。这与第九课的今天主题相关：应验的预言。应验的预言不是算命的把戏；它们是神在历史上的印记。 它们表明，祂在事情开始之前就看到了结局，因此您可以相信祂对尚未发生之事所作的承诺。订阅并留言“祂知道我的结局”。",
+      "texto_ko": "이사야 46장 9절과 10절에서 하나님께서는 처음부터 끝을 알리시고 아직 일어나지 않은 일을 미리 선포하시므로 하나님과 같은 분은 없다고 말씀하십니다. 오늘 9과 주제인 성취된 예언과 연결됩니다. 성취된 예언은 점쟁이의 속임수가 아니라 역사 속에서 하나님의 서명입니다. 이 말씀들은 그분이 시작 전에 끝을 보신다는 것을 보여줍니다. 그러므로 아직 일어나지 않은 일에 대한 그분의 약속을 신뢰할 수 있습니다. 구독하고 \"그분은 제 종말을 알고 계십니다\"라고 댓글을 달아 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
