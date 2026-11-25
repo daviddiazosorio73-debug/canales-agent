@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "God does want to bless you. But for this 🎯 #shorts",
+        "description": "Paul: We are enriched in every way for all generosity. Blessing has a purpose. (2 Corinthians 9:6, 11, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Deus quer sim abençoar você. Mas para isso 🎯 #shorts",
+        "description": "Paulo: somos enriquecidos em tudo para toda generosidade. A bênção tem um propósito. (2 Coríntios 9:6, 11, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الله يريد أن يباركك. ولكن من أجل هذا 🎯 #shorts",
+        "description": "بولس: نحن نُغنى في كل شيء من أجل كل سخاء. البركة لها هدف. (2 كورنثوس 9: 6، 11، شرح RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "上帝确实想要祝福你。但为此目的 🎯 #shorts",
+        "description": "保罗：我们在凡事上都蒙恩惠，使我们能多多地施舍。祝福是有目的的。（哥林多后书 9:6、11，RVR1960 译本意译）订阅 MayorDom · 圣经管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님께서는 당신을 축복하고 싶어 하십니다. 하지만 이를 위해서는 🎯 #shorts",
+        "description": "바울: 우리는 모든 일에 풍성하게 되어 모든 후한 선물을 베풀 수 있습니다. 축복에는 목적이 있습니다. (고린도후서 9:6, 11, RVR1960 패러프레이징) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "seeds hand soil planting"
-      }
+      },
+      "texto_en": "Yes, the Bible says that God blesses the generous. But it also says why He blesses you.",
+      "texto_pt": "Sim, a Bíblia diz que Deus abençoa o generoso. Mas também diz por que Ele o abençoa.",
+      "texto_ar": "نعم، يقول الكتاب المقدس إن الله يبارك الكريم. لكنها تقول أيضًا لماذا يباركك.",
+      "texto_zh": "是的，圣经说上帝会赐福给慷慨的人。但圣经也说了祂为何祝福你。",
+      "texto_ko": "네, 성경은 하나님께서 관대한 사람을 축복하신다고 말씀합니다. 하지만 하나님께서 어떤 이유로 여러분을 축복하시는지도 말씀하십니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "ensenanza",
       "visual": {
         "query": "river flowing through valley"
-      }
+      },
+      "texto_en": "2 Corinthians 9:6: The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully. Many people get that far. But keep reading. In verse eleven, Paul says that we are enriched in everything for all generosity. The blessing doesn't end in your pocket. It's a channel, not a dam. God gives to you so that you have enough and have plenty left over to give. Did you see today's analysis on sowing faith? It's on the channel.",
+      "texto_pt": "Segunda Coríntios 9:6: O que semeia pouco, também colherá pouco; e o que semeia com generosidade, também colherá com generosidade. Muitos chegam até aí. Mas continue lendo. No versículo onze, Paulo diz que somos enriquecidos em tudo para toda generosidade. A bênção não termina no seu bolso. É um canal, não uma barragem. Deus lhe dá para que você tenha o suficiente e sobre para dar. Você viu a análise de hoje sobre a semeadura da fé? Está no canal.",
+      "texto_ar": "رسالة بولس الرسول الثانية إلى أهل كورنثوس الإصحاح التاسع، الآية السادسة: \"مَنْ يَزْرَعُ بِبُخْلٍ فَبِبُخْلٍ أَيْضًا يَحْصُدُ، وَمَنْ يَزْرَعُ بِبَرَكَةٍ فَبِبَرَكَةٍ أَيْضًا يَحْصُدُ\". الكثيرون يصلون إلى هذا الحد. لكن استمر في القراءة. في الآية الحادية عشرة، يقول بولس إننا نُغنى في كل شيء من أجل كل سخاء. البركة لا تنتهي في جيبك. إنها قناة، وليست سدًا. يعطيك الله حتى يكون لديك ما يكفي ويزيد عن حاجتك لتعطي. هل شاهدت التحليل اليوم حول زرع الإيمان؟ إنه على القناة.",
+      "texto_zh": "哥林多后书九章六节：少种的少收，多种的多收。很多人都读到这里。但请继续读下去。在第十一节中，保罗说，我们在凡事上都得以富足，可以多多施舍。祝福不会止于你的口袋。它是一条水道，而不是一座水坝。上帝赐予你，让你有足够的财富，还有余力去施与他人。 您看过今天关于播种信心的分析了吗？它在频道上。",
+      "texto_ko": "고린도후서 9장 6절: 적게 심는 자는 적게 거두고 많이 심는 자는 많이 거두느니라. 많은 사람들이 여기까지 옵니다. 하지만 계속 읽어보세요. 11절에서 바울은 우리가 모든 관대함을 베풀 수 있도록 모든 일에 풍요롭게 될 것이라고 말합니다. 축복은 여러분의 주머니에서 끝나지 않습니다. 축복은 댐이 아니라 수로입니다. 하나님께서는 여러분이 충분히 가질 수 있도록 주시고, 남아서 베풀 수 있도록 주십니다. 오늘의 믿음의 씨앗 뿌리기에 대한 분석을 보셨나요? 채널에 있습니다."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
