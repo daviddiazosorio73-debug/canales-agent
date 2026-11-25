@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-11-26T01:25:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-11-25T17:55:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Africa, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over two hundred and sixty million views. But only one took number one. Welcome to Top 10 Social Media, Africa edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Eighteen seconds. A tiny channel. Over thirty million views. This week in Africa, small creators beat giants, movies over two hours long kept people watching for hours, and one video did something no other video in this countdown managed. Who is it? You'll have to wait. Welcome to Top 10 Social Media, Africa edition. Today we count down the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the very end, because the biggest twist comes last.",
       "tarjeta": {
         "titulo": "TOP 10 · AFRICA",
         "sub": "Week 48"
@@ -76,7 +76,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Africa. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, with the weekly cut every Wednesday at midnight, Lima, Peru time. Let's go.",
+      "texto": "Quick rules before we start. Only videos posted in the last seven days that trended in Africa. One video per creator on each list. Music and news have their own space. Every number comes straight from the official YouTube API, and the weekly cut is every Wednesday at midnight, Lima, Peru time. Ready? Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. In position number ten, from Kenya, Bahati Kenya, with a video posted five days ago. Over three point one million views. It has the best engagement rate on this list: four out of every hundred viewers liked or commented. It also has over eight thousand comments.",
+      "texto": "First list: the ten most viewed. Opening the countdown at number ten, from Kenya, Bahati Kenya, with the official video “ZOZA” by Morgan Bahati. Over three point one million views. Tenth place here, but keep this name in mind.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, Sonia Uche Tv, with a video posted six days ago. Over five point eight million views. A video over one hundred and thirty-seven minutes long, and people still stayed to watch. It also has over four thousand comments."
+      "texto": "Number nine, Sonia Uche Tv, with “GLORIA MUST GO”, starring Sonia Uche, Ruth Kadiri and Symon Okoh. Over two hours and seventeen minutes long, and over five point eight million views. People didn't just click. They stayed."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number eight, Itelediconstudio, with a video posted five days ago. Over six point nine million views. A video over ninety-two minutes long, and people still stayed to watch. It also has over seven thousand comments."
+      "texto": "Number eight, Itelediconstudio, with “Koleoso part fifteen”, a Yoruba movie over an hour and a half long. Over six point nine million views. Long stories, big audiences."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number seven, Silly AI Lab, with “Por favor comparte con tus amigos”. Over seven million views. And get this: it's a channel with about seventy-one thousand subscribers, playing in the big leagues this week. A Short of just thirty-one seconds."
+      "texto": "Number seven, Silly AI Lab, with a thirty-one second Short. Over seven million views, from a channel of about seventy-one thousand subscribers."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number six, from Nigeria, Agbaps Shorts, with “Spies Escaping A Laser At Every IQ Level”. Over eight million views. A Short of just thirty seconds. It also has one hundred and thirty-four comments."
+      "texto": "Number six, from Nigeria, Agbaps Shorts, with “Spies Escaping A Laser At Every IQ Level”. Thirty seconds, and over eight million views."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number five, mc3🐾🐞, with “please don't come for me”. Over thirteen million views. It was the fastest-growing video on this list: about two hundred and forty thousand views per hour. And get this: it's a channel with about seventy-one thousand subscribers, playing in the big leagues this week."
+      "texto": "Number five, mc3, with “please don't come for me”, a twelve-second Short. Over thirteen point six million views. The numbers are about to jump."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number four, Grinch Menace, with “Comment Christmas if you want one TODAY!”. Over fourteen million views. And get this: it's a channel with about seven thousand, one hundred subscribers, playing in the big leagues this week. A Short of just eleven seconds."
+      "texto": "Number four, Grinch Menace, with a Christmas Short of just eleven seconds. Over fourteen point one million views, from a channel of about seven thousand subscribers. Christmas came early."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, SportFiction , with “Mbappé Yamal Exposed Haaland’s Fake Injury Instantly”. Over fourteen million views. And get this: it's a channel with about twenty-one thousand subscribers, playing in the big leagues this week. A Short of just twenty-three seconds.",
+      "texto": "And now, the podium. Bronze medal, SportFiction, with a football Short starring Mbappé, Yamal and Haaland. Twenty-three seconds, over fourteen point four million views, from a channel of about twenty-one thousand subscribers.",
       "capitulo": "The podium"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Egypt, Omar kotb, with a video posted three days ago. Over eighteen million views. A Short of just nineteen seconds. It also has over eighty-seven thousand likes."
+      "texto": "Silver medal, from Egypt, Omar kotb, with a nineteen-second Short. Over eighteen point seven million views. A huge number. But first place is in another league."
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most viewed, Goodluck Amarachi Yusuf, with “Our new pediatrician taught me this”. Over thirty-one million views. And get this: it's a channel with about thirteen thousand subscribers, playing in the big leagues this week. A Short of just eighteen seconds."
+      "texto": "Drum roll, please. The most viewed video of the week in Africa: Goodluck Amarachi Yusuf, with “Our new pediatrician taught me this”. Eighteen seconds, and over thirty-one million views. From a channel of about thirteen thousand subscribers. That's the power of a good idea."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Coming in at number ten, from Libya, Colomby, with a video posted five days ago. Seven hundred and forty-one comments. It also has over eighty-eight thousand views.",
+      "texto": "Second list: the conversation. The ten most commented videos. At number ten, from Libya, Colomby, with a video of about three and a half minutes. Over seven hundred and forty comments.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number nine, FoltynGaming, with “Stealing millionaire supercars in gta 6!”. Seven hundred and eighty-eight comments. A video over twenty-one minutes long, and people still stayed to watch. It got there in just one day."
+      "texto": "Number nine, FoltynGaming, with “Stealing MILLIONAIRE SUPERCARS in GTA 6!”. Over seven hundred and eighty-eight comments."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number eight, DLT, with a video posted one day ago. Eight hundred and fifty-two comments. It has the best engagement rate on this list: seven out of every hundred viewers liked or commented. A video over seventy-eight minutes long, and people still stayed to watch."
+      "texto": "Number eight, DLT, with part five of a Resident Evil 9 playthrough, over an hour long. Over eight hundred and fifty comments."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number seven, from Egypt, سيف - SAYKO, with a video posted four days ago. Nine hundred and eighty-two comments. It also has over three hundred and seventeen thousand views."
+      "texto": "Number seven, from Egypt, SAYKO, with a video about the game Suzy Says. Over nine hundred and eighty comments."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number six, from Egypt, Abdo 2xd, with a video posted six days ago. Over one thousand comments. A video over twenty-seven minutes long, and people still stayed to watch. It also has over one point two million views."
+      "texto": "Number six, from Egypt, Abdo 2xd, with a video over twenty-seven minutes long. Over one thousand, one hundred comments."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number five, from Morocco, la3zawi family Two, with a video posted four days ago. Over one thousand comments. A video over thirty-two minutes long, and people still stayed to watch. It also has over one point four million views."
+      "texto": "Number five, from Morocco, la3zawi family Two, with a family video over thirty-two minutes long. Over one thousand, four hundred comments."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number four, from Morocco, SHAW, with a video posted four days ago. Over one thousand comments. It also has over seven hundred and twenty-five thousand views."
+      "texto": "Number four, from Morocco, SHAW, with the official clip of “PARANOÏAQUE”, featuring Inko. Over one thousand, four hundred comments."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Sonia Uche Tv, with a video posted six days ago. Over four thousand comments. A video over one hundred and thirty-seven minutes long, and people still stayed to watch. It also has over five point eight million views."
+      "texto": "Podium time. Bronze medal, Sonia Uche Tv, with “GLORIA MUST GO”. Over four thousand, nine hundred comments."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Itelediconstudio, with a video posted five days ago. Over seven thousand comments. It was the fastest-growing video on this list: about fifty-seven thousand views per hour. A video over ninety-two minutes long, and people still stayed to watch."
+      "texto": "Silver medal, Itelediconstudio, with “Koleoso part fifteen”. Over seven thousand, nine hundred comments. These fans don't stay quiet."
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most commented, from Kenya, Bahati Kenya, with a video posted five days ago. Over eight thousand comments. It also has over three point one million views."
+      "texto": "And here it is. The most commented video of the week in Africa comes from Kenya. Bahati Kenya, with “ZOZA” by Morgan Bahati. Over eight thousand, six hundred comments. Remember? Tenth in views. First in the conversation."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Coming in at number ten, Grinch Menace, with “Comment Christmas if you want one TODAY!”. Over thirty-eight thousand likes. And get this: it's a channel with about seven thousand, one hundred subscribers, playing in the big leagues this week. A Short of just eleven seconds.",
+      "texto": "And the last list: the love. The ten most liked videos. At number ten, Grinch Menace and that Christmas Short. Over thirty-eight thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number nine, Sonia Uche Tv, with a video posted six days ago. Over fifty-one thousand likes. A video over one hundred and thirty-seven minutes long, and people still stayed to watch. It also has over five point eight million views."
+      "texto": "Number nine, Sonia Uche Tv, with “GLORIA MUST GO”. Over fifty-one thousand likes. Third list for this movie."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number eight, from Nigeria, Agbaps Shorts, with “Spies Escaping A Laser At Every IQ Level”. Over fifty-three thousand likes. A Short of just thirty seconds. It also has over eight million views."
+      "texto": "Number eight, from Nigeria, Agbaps Shorts, with the spies and the laser. Over fifty-three thousand likes."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number seven, from Egypt, Abdo 2xd, with a video posted six days ago. Over fifty-seven thousand likes. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. A video over twenty-seven minutes long, and people still stayed to watch."
+      "texto": "Number seven, from Egypt, Abdo 2xd. Over fifty-seven thousand likes."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number six, mc3🐾🐞, with “please don't come for me”. Over fifty-eight thousand likes. It was the fastest-growing video on this list: about two hundred and forty thousand views per hour. And get this: it's a channel with about seventy-one thousand subscribers, playing in the big leagues this week."
+      "texto": "Number six, mc3, with “please don't come for me”. Over fifty-eight thousand likes."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number five, SportFiction , with “Mbappé Yamal Exposed Haaland’s Fake Injury Instantly”. Over seventy thousand likes. And get this: it's a channel with about twenty-one thousand subscribers, playing in the big leagues this week. A Short of just twenty-three seconds."
+      "texto": "Number five, SportFiction, with Mbappé, Yamal and Haaland. Over seventy thousand likes."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number four, from Egypt, Omar kotb, with a video posted three days ago. Over eighty-seven thousand likes. A Short of just nineteen seconds. It also has over eighteen million views."
+      "texto": "Number four, from Egypt, Omar kotb. Over eighty-seven thousand likes."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Itelediconstudio, with a video posted five days ago. Over ninety-three thousand likes. A video over ninety-two minutes long, and people still stayed to watch. It also has over six point nine million views."
+      "texto": "The final podium. Bronze medal, Itelediconstudio, with “Koleoso part fifteen”. Over ninety-three thousand likes."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Goodluck Amarachi Yusuf, with “Our new pediatrician taught me this”. Over one hundred and four thousand likes. And get this: it's a channel with about thirteen thousand subscribers, playing in the big leagues this week. A Short of just eighteen seconds."
+      "texto": "Silver medal, Goodluck Amarachi Yusuf, our number one in views. Over one hundred and four thousand likes. Thirty-one million views, and still not number one here. So who beat it?"
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most liked, from Kenya, Bahati Kenya, with a video posted five days ago. Over one hundred and twenty thousand likes. It also has over three point one million views."
+      "texto": "Drum roll, please. The most liked video of the week in Africa comes from Kenya. Bahati Kenya, with “ZOZA” by Morgan Bahati. Over one hundred and twenty thousand likes, from just over three million views. Most commented and most liked. The quiet number ten of the first list just won Africa's heart."
     },
     {
       "id": "cierre",
