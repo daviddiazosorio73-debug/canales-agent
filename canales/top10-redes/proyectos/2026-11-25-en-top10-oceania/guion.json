@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-11-26T01:25:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-11-25T17:55:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -67,7 +67,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Oceania, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over one hundred million views. But only one took number one. Welcome to Top 10 Social Media, Oceania edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "One owl. One beach. One game the whole region can't stop talking about. This week in Oceania, three lists fought for your attention, and the winners are not who you'd expect. A tiny channel with just a few thousand subscribers went head to head with giants of over twenty million. Who came out on top? Welcome to Top 10 Social Media, Oceania edition. Today we count down the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay with us until the very end, because number one in each list is a story of its own.",
       "tarjeta": {
         "titulo": "TOP 10 · OCEANIA",
         "sub": "Week 48"
@@ -77,7 +77,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Oceania. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, with the weekly cut every Wednesday at midnight, Lima, Peru time. Let's go.",
+      "texto": "Quick rules before we start. Only videos posted in the last seven days that trended in Oceania. One video per creator on each list. Music and news have their own space. Every number comes straight from the official YouTube API, and the weekly cut is every Wednesday at midnight, Lima, Peru time. Ready? Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -89,7 +89,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. At number ten, W.O Kpop 💝, with “Sophia when the awards slipped out of Yoonchae's hands?”. Over two million views. A Short of just twelve seconds. It also has sixty-nine comments.",
+      "texto": "First list: the ten most viewed. Opening the countdown at number ten, W.O Kpop, with a twelve-second Short about an awards moment. Over two million views in its first week. Not bad for twelve seconds.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -98,7 +98,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, from New Zealand, dmxruser, with “One simple trick”. Over two million views. And get this: it's a channel with about fifteen thousand subscribers, playing in the big leagues this week. A Short of just fifteen seconds."
+      "texto": "Number nine, from New Zealand, dmxruser, with “One simple trick”. Over two million views, and here's the surprise: this channel has only about fifteen thousand subscribers. Fifteen seconds of video, playing in the big leagues."
     },
     {
       "id": "v08",
@@ -106,7 +106,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number eight, from Australia, TGG, with “1 Hour of GTA 6 Free-Roam Gameplay”. Over two point one million views. A video over sixty-seven minutes long, and people still stayed to watch. It also has over two thousand comments."
+      "texto": "Number eight, from Australia, TGG, and this one goes the other way: one full hour of GTA 6 free-roam gameplay. Over sixty-seven minutes long, over two point one million views and over two thousand comments. Remember that game. You'll hear it again today."
     },
     {
       "id": "v07",
@@ -114,7 +114,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number seven, from New Zealand, Drama Investigator, with “You hit a car, not run into your crush”. Over two point eight million views. And get this: it's a channel with about one hundred and fifty thousand subscribers, playing in the big leagues this week. A Short of just eight seconds."
+      "texto": "Number seven, from New Zealand, Drama Investigator. Eight seconds. That's all it took. A Short about hitting a car instead of running into your crush, with over two point eight million views. A channel of about one hundred and fifty thousand subscribers, punching way above its weight."
     },
     {
       "id": "v06",
@@ -122,7 +122,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number six, from New Zealand, Amit Sharma, with “She Found a Genius Way to Keep Jensen Home NVIDIA GPU Giveaway”. Over three point two million views. And get this: it's a channel with about sixteen thousand subscribers, playing in the big leagues this week. A Short of just twenty-nine seconds."
+      "texto": "Number six, from New Zealand, Amit Sharma, with a twenty-nine second Short about keeping Jensen home and an NVIDIA GPU giveaway. Over three point two million views, from a channel of about sixteen thousand subscribers. The climb is getting steeper."
     },
     {
       "id": "v05",
@@ -130,7 +130,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number five, Step Bloom, with “Comment BUMP if your kids would love these!”. Over three point four million views. And get this: it's a channel with about one thousand, one hundred subscribers, playing in the big leagues this week. A Short of just twelve seconds."
+      "texto": "Number five, and this might be the biggest underdog of the week. Step Bloom, a channel with about one thousand, one hundred subscribers, with a twelve-second bumper ball Short. Over three point four million views. One thousand subscribers, three million views. Let that sink in."
     },
     {
       "id": "v04",
@@ -138,7 +138,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number four, Bloxy Productions, with “Why You Exist.”. Over three point seven million views. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. It also has eight hundred and thirty-three comments."
+      "texto": "Number four, Bloxy Productions, with “Why You Exist.”. Over three point seven million views, and the best engagement on this list: about five out of every hundred viewers liked or commented. Keep an eye on this one. It's not done with us today."
     },
     {
       "id": "v03",
@@ -146,7 +146,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, Owls in Towels, with “How to Wrap an Owl”. Over three point nine million views. And get this: it's a channel with about four thousand, two hundred subscribers, playing in the big leagues this week. A Short of just fifteen seconds.",
+      "texto": "And now, the podium. The bronze medal goes to a channel with only about four thousand, two hundred subscribers. Owls in Towels, with “How to Wrap an Owl”. Fifteen seconds, and over three point nine million views. Yes. An owl, in a towel, on the podium.",
       "capitulo": "The podium"
     },
     {
@@ -155,7 +155,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Australia, CrackerMilk, with “Swimming between the flags”. Over seven point four million views. It was the fastest-growing video on this list: about one hundred and ninety thousand views per hour. A Short of just twenty-three seconds."
+      "texto": "Silver medal, from Australia, CrackerMilk, with “Swimming between the flags”. Over seven point four million views, and the fastest-growing video on the list: about one hundred and ninety thousand views per hour. It almost doubled third place. But there is one video above it."
     },
     {
       "id": "v01",
@@ -163,7 +163,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most viewed, from Australia, LazarBeam, with “Testing Everything In GTA 6”. Over eight point five million views. It also has over one thousand comments."
+      "texto": "Drum roll, please. The most viewed video of the week in Oceania comes from Australia. LazarBeam, with “Testing Everything In GTA 6”. Over eight point five million views and over one thousand comments. The game everyone is talking about takes the crown."
     },
     {
       "id": "c10",
@@ -171,7 +171,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Next up, number ten, emma & georgia , with “So excited omg!!”. Over one thousand comments. It has the best engagement rate on this list: six out of every hundred viewers liked or commented. It got there in just one day.",
+      "texto": "Second list: the conversation. These are the ten most commented videos. At number ten, emma & georgia, with “So excited omg!!”. Over one thousand comments, in just one day. And the best engagement on this list: about six out of every hundred viewers liked or commented.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -180,7 +180,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number nine, from Australia, Karl Jobst, with “Shocking Cheating Scandal In Black Ops 3 Zombies”. Over one thousand comments. It got there in just two days. It also has over one million views."
+      "texto": "Number nine, from Australia, Karl Jobst, with a deep dive into a cheating scandal in Black Ops 3 Zombies. Over one thousand comments in just two days, and over one million views. Scandal always gets people talking."
     },
     {
       "id": "c08",
@@ -188,7 +188,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number eight, from Australia, CrackerMilk, with “Swimming between the flags”. Over one thousand comments. It was the fastest-growing video on this list: about one hundred and ninety thousand views per hour. A Short of just twenty-three seconds."
+      "texto": "Number eight, from Australia, CrackerMilk again, our silver medal in views. “Swimming between the flags” also starts a conversation: over one thousand comments."
     },
     {
       "id": "c07",
@@ -196,7 +196,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number seven, from Australia, LazarBeam, with “Testing Everything In GTA 6”. Over one thousand comments. It also has over eight point five million views."
+      "texto": "Number seven, from Australia, LazarBeam, the king of views, with “Testing Everything In GTA 6”. Over one thousand comments. Big in views, but in this list, others talk louder."
     },
     {
       "id": "c06",
@@ -204,7 +204,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number six, from Australia, TGG, with “1 Hour of GTA 6 Free-Roam Gameplay”. Over two thousand comments. A video over sixty-seven minutes long, and people still stayed to watch. It also has over two point one million views."
+      "texto": "Number six, from Australia, TGG and its hour of GTA 6 free-roam gameplay. Over two thousand comments. A video over sixty-seven minutes long, and people still stayed to discuss it."
     },
     {
       "id": "c05",
@@ -212,7 +212,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, from Australia, Lessons in Meme Culture, with “GTA 6 Has Become A Meme”. Over two thousand comments. It also has over eight hundred and eighty-four thousand views."
+      "texto": "Number five, from Australia, Lessons in Meme Culture, with “GTA 6 Has Become A Meme”. Over two thousand comments and over eight hundred and eighty-four thousand views. Notice a pattern?"
     },
     {
       "id": "c04",
@@ -220,7 +220,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number four, from New Zealand, RadicalSoda, with “Breeding YouTuber Trauma with my FNAF QUIZ”. Over two thousand comments. A video over seventy minutes long, and people still stayed to watch. It also has over one million views."
+      "texto": "Number four, from New Zealand, RadicalSoda, with a Five Nights at Freddy's quiz over seventy minutes long. Over two thousand comments and over one million views. Long videos, loyal fans."
     },
     {
       "id": "c03",
@@ -228,7 +228,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Australia, SAMTIME, with “People Aren’t Happy About GTA 6”. Over three thousand comments. It also has over eight hundred and sixty-two thousand views."
+      "texto": "Podium time. Bronze medal, from Australia, SAMTIME, with “People Aren’t Happy About GTA 6”. Over three thousand comments. Fans have opinions, and they're writing them down."
     },
     {
       "id": "c02",
@@ -236,7 +236,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, Owls in Towels, with “How to Wrap an Owl”. Over three thousand comments. And get this: it's a channel with about four thousand, two hundred subscribers, playing in the big leagues this week. A Short of just fifteen seconds."
+      "texto": "Silver medal, and look who's back. Owls in Towels, with “How to Wrap an Owl”. Over three thousand comments. A channel of four thousand subscribers, on the podium of two lists. But it's not number one here."
     },
     {
       "id": "c01",
@@ -244,7 +244,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most commented, from New Zealand, Dolan Darkest, with “Is GTA 6 Completely Cooked”. Over four thousand comments. It also has over six hundred and eighty-four thousand views."
+      "texto": "And here it is. The most commented video of the week in Oceania comes from New Zealand. Dolan Darkest, with “Is GTA 6 Completely Cooked”. Over four thousand comments, with over six hundred and eighty-four thousand views. Fewer views than many on this list, but the loudest conversation of all."
     },
     {
       "id": "l10",
@@ -252,7 +252,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Number ten, emma & georgia , with “So excited omg!!”. Over forty-seven thousand likes. It got there in just one day. It also has over eight hundred and sixty-one thousand views.",
+      "texto": "And the last list: the love. The ten most liked videos. At number ten, emma & georgia again, with “So excited omg!!”. Over forty-seven thousand likes in just one day.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -261,7 +261,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number nine, Gerard Briones, with “Is this normal?”. Over fifty-two thousand likes. And get this: it's a channel with about three thousand subscribers, playing in the big leagues this week. A Short of just forty-seven seconds."
+      "texto": "Number nine, Gerard Briones, with “Is this normal?”, a forty-seven second comedy Short. Over fifty-two thousand likes, from a channel of about three thousand subscribers."
     },
     {
       "id": "l08",
@@ -269,7 +269,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number eight, from New Zealand, dmxruser, with “One simple trick”. Over fifty-five thousand likes. And get this: it's a channel with about fifteen thousand subscribers, playing in the big leagues this week. A Short of just fifteen seconds."
+      "texto": "Number eight, from New Zealand, dmxruser, with “One simple trick”. Over fifty-five thousand likes. Fifteen seconds, two lists."
     },
     {
       "id": "l07",
@@ -277,7 +277,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, from New Zealand, Drama Investigator, with “You hit a car, not run into your crush”. Over fifty-six thousand likes. And get this: it's a channel with about one hundred and fifty thousand subscribers, playing in the big leagues this week. A Short of just eight seconds."
+      "texto": "Number seven, from New Zealand, Drama Investigator and that eight-second car Short. Over fifty-six thousand likes."
     },
     {
       "id": "l06",
@@ -285,7 +285,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number six, Zack D. Films, with “How Electricity Reveals Hidden Fingerprints”. Over sixty-four thousand likes. A Short of just twenty-eight seconds. It got there in just one day."
+      "texto": "Number six, Zack D. Films, with a twenty-eight second Short on how electricity reveals hidden fingerprints. Over sixty-four thousand likes, in just one day."
     },
     {
       "id": "l05",
@@ -293,7 +293,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number five, from New Zealand, Viva La Dirt League, with “Enemies in Red Dead 2 be like”. Over eighty-four thousand likes. It has the best engagement rate on this list: seven out of every hundred viewers liked or commented. It also has over one point two million views."
+      "texto": "Number five, from New Zealand, Viva La Dirt League, with “Enemies in Red Dead 2 be like”. Over eighty-four thousand likes and over one point two million views, with the best engagement of this list: about seven out of every hundred viewers liked or commented."
     },
     {
       "id": "l04",
@@ -301,7 +301,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number four, Owls in Towels, with “How to Wrap an Owl”. Over one hundred and ten thousand likes. And get this: it's a channel with about four thousand, two hundred subscribers, playing in the big leagues this week. A Short of just fifteen seconds."
+      "texto": "Number four, and the owl is back for a third list. Owls in Towels, with over one hundred and ten thousand likes. Fifteen seconds that won Oceania's heart."
     },
     {
       "id": "l03",
@@ -309,7 +309,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from Australia, LazarBeam, with “Testing Everything In GTA 6”. Over one hundred and sixteen thousand likes. It also has over eight point five million views."
+      "texto": "The final podium. Bronze medal, from Australia, LazarBeam, with “Testing Everything In GTA 6”. Over one hundred and sixteen thousand likes."
     },
     {
       "id": "l02",
@@ -317,7 +317,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Australia, CrackerMilk, with “Swimming between the flags”. Over one hundred and twenty thousand likes. It was the fastest-growing video on this list: about one hundred and ninety thousand views per hour. A Short of just twenty-three seconds."
+      "texto": "Silver medal, from Australia, CrackerMilk, with “Swimming between the flags”. Over one hundred and twenty thousand likes. Second in views, second in likes. So who beat it?"
     },
     {
       "id": "l01",
@@ -325,7 +325,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most liked, Bloxy Productions, with “Why You Exist.”. Over one hundred and seventy-seven thousand likes. It also has over three point seven million views."
+      "texto": "Drum roll, please. The most liked video of the week in Oceania is Bloxy Productions, with “Why You Exist.”. Over one hundred and seventy-seven thousand likes, from over three point seven million views. Fourth in views, but number one in love."
     },
     {
       "id": "cierre",
