@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-24 14:04 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-25 00:29 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,25 +7,25 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| mar 17 | [¿El diezmo era solo comida? Lo que la Biblia dice del diezmo](https://youtu.be/w4wR8wElpT4) | [fijar](https://studio.youtube.com/video/w4wR8wElpT4/comments) | [editar](https://studio.youtube.com/video/w4wR8wElpT4/edit) | [revisar](https://studio.youtube.com/video/w4wR8wElpT4/translations) | — |
-| mié 18 | [Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) | [fijar](https://studio.youtube.com/video/qQ-esKNG7xo/comments) | [editar](https://studio.youtube.com/video/qQ-esKNG7xo/edit) | — | — |
+| mié 18 | [Canal o represa: lo que el Mar Muerto enseña sobre tu dinero](https://youtu.be/qQ-esKNG7xo) | [fijar](https://studio.youtube.com/video/qQ-esKNG7xo/comments) | [editar](https://studio.youtube.com/video/qQ-esKNG7xo/edit) | [revisar](https://studio.youtube.com/video/qQ-esKNG7xo/translations) | — |
 | jue 19 | [Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) | [fijar](https://studio.youtube.com/video/GFEdr_0NQJM/comments) | [editar](https://studio.youtube.com/video/GFEdr_0NQJM/edit) | — | sí |
 | vie 20 | [Dar te transforma: la razón más profunda por la que Dios te ](https://youtu.be/pOIJGxV6amQ) | [fijar](https://studio.youtube.com/video/pOIJGxV6amQ/comments) | [editar](https://studio.youtube.com/video/pOIJGxV6amQ/edit) | — | — |
 | lun 23 | [Dos principios en guerra: dónde nació el egoísmo | Mayordomí](https://youtu.be/ELfJtU5uM6Q) | [fijar](https://studio.youtube.com/video/ELfJtU5uM6Q/comments) | [editar](https://studio.youtube.com/video/ELfJtU5uM6Q/edit) | — | — |
+| mar 24 | [Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) | [fijar](https://studio.youtube.com/video/_-cCZx0ORcw/comments) | [editar](https://studio.youtube.com/video/_-cCZx0ORcw/edit) | — | sí |
 
-**Escuchar:** [largo: Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) · [Short: Dios no quiere tu dinero así 😟 #shorts](https://youtube.com/shorts/hiKYLjqytbY)
+**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: Una torre cayó sobre 18 personas. Jesús respondió esto 🏚️ #s](https://youtube.com/shorts/v7WiWr7s3d0)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Dios se mudó a tu barrio 🏠 #shorts](https://youtube.com/shorts/ufo3YSnDbxY)
+**Escuchar:** [Short: ¿Alguien en el cielo entiende lo que sientes? 💭 #shorts](https://youtube.com/shorts/wt1KFQJj2lo)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Deus armou sua tenda entre nós? ⛺ #shorts](https://youtube.com/shorts/Yj5nvmEs8uY)
+**Escuchar:** [Short: Por que Jesus precisava ser igual a nós? #shorts](https://youtube.com/shorts/Wh4kcMTZCz4)
 
 ## Top 10 Redes Sociales
 
@@ -42,6 +42,7 @@ Sin videos largos publicados esta semana.
 |---|---|---|---|---|---|
 | vie 20 | [Fibra y granos enteros: lo que encontraron 243 estudios (The](https://youtu.be/LA5oj8-myiw) | [fijar](https://studio.youtube.com/video/LA5oj8-myiw/comments) | [editar](https://studio.youtube.com/video/LA5oj8-myiw/edit) | [revisar](https://studio.youtube.com/video/LA5oj8-myiw/translations) | sí |
 | dom 22 | [Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) | [fijar](https://studio.youtube.com/video/n9Bqd7M2oI4/comments) | [editar](https://studio.youtube.com/video/n9Bqd7M2oI4/edit) | — | sí |
+| mar 24 | [Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) | [fijar](https://studio.youtube.com/video/R7AwvjAMLSA/comments) | [editar](https://studio.youtube.com/video/R7AwvjAMLSA/edit) | — | sí |
 
-**Escuchar:** [largo: Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) · [Short: ¿Pararte o caminar? Lo que encontraron los ensayos #shorts](https://youtube.com/shorts/pHLg6WjRQuY)
+**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: La televisión y el ejercicio: el giro que casi nadie conoce ](https://youtube.com/shorts/wUZqihprCJU)
 
