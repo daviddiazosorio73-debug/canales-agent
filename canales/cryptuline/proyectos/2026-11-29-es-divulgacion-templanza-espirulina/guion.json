@@ -46,7 +46,25 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-11-29T23:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Spirulina and moderation: If something is good, is more of it better?",
+        "description": "If something is good, is more better? At Cryptuline, we are launching the series on spirulina research (Arthrospira platensis and Arthrospira maxima) with a sense of moderation: what is good, in moderation, and with evidence. We reviewed a systematic review that gathered 18 studies in people with various diseases, a review on the dose range and possible adverse effects, and another on the quality and contamination of the products. And we connect it with the Bible (Proverbs 25:16, Galatians 5:22-23, Daniel 1:8-16, 1 Corinthians 10:31 and 9:25; paraphrase) and with an idea from The Ministry of Healing, by Ellen G. White. If you take medication or have a medical condition, do not start any supplements without first talking to your doctor. 💬 In which area of your life do you find moderation most difficult? Tell us in the comments. 📚 Sources (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina – An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (online: Aug-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109–4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251 Educational content for people over 18. It is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Synthetic voice narration. Cryptuline."
+      },
+      "pt": {
+        "title": "Espirulina e temperança: se algo é bom, mais é melhor?",
+        "description": "Se algo é bom, mais é melhor? Na Cryptuline, iniciamos a série sobre a pesquisa da espirulina (Arthrospira platensis e Arthrospira maxima) com moderação: o que é bom, com moderação e com evidências. Analisamos uma revisão sistemática que reuniu 18 estudos em pessoas com diferentes doenças, uma revisão sobre a faixa de dosagem e os possíveis efeitos adversos e outra sobre a qualidade e a contaminação dos produtos. E o relacionamos com a Bíblia (Provérbios 25:16, Gálatas 5:22-23, Daniel 1:8-16, 1 Coríntios 10:31 e 9:25; paráfrase) e com uma ideia de O ministério de cura, de Ellen G. White. Se você toma medicamentos ou tem alguma doença, não comece a tomar nenhum suplemento sem antes conversar com seu médico. 💬 Em qual área da sua vida você tem mais dificuldade em ter moderação? Conte para a gente nos comentários. 📚 Fontes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina – An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (online: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Grosshagauer S, Kraemer K, Somoza V. The True Value of Spirulina. J Agric Food Chem. 2020;68(14):4109-4115. https://pubmed.ncbi.nlm.nih.gov/32133854/ · https://doi.org/10.1021/acs.jafc.9b08251 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "المُدمن الرئيسي",
+        "description": "المُدمن الرئيسي\n\nالمُدمن الرئيسي\n\nالمُدمن الرئيسي\nالمُدمن الرئيسي\nالمُدمن الرئيسي\nالمُدمن الرئيسي\n\nالمُدمن الرئيسي"
+      },
+      "ko": {
+        "title": "사이트 맵",
+        "description": "사이트 맵\n\n사이트 맵\n\n사이트 맵\n사이트 맵\n사이트 맵\n사이트 맵\n\n사이트 맵"
+      }
+    }
   },
   "escenas": [
     {
@@ -57,7 +75,12 @@
       "texto_pantalla": "Si algo es bueno, ¿más es mejor?",
       "visual": {
         "query": "honey dripping wooden spoon jar"
-      }
+      },
+      "texto_en": "In the Bible, there is advice about honey that seems to have been written for the era of superfoods. It's in Proverbs, chapter twenty-five, verse sixteen, and it says, in a nutshell: If you find honey, eat only what you need, or you will be surfeited with it and vomit it out. Honey is good. The problem isn't the honey: it's the amount. Today, we're starting a new chapter at Cryptuline. Week after week, we will study what science really says about spirulina. And I want to start with a question that applies to spirulina, to honey, and to almost everything in life: If something is good, is more of it better? At the end of this video, I'll give you my answer, based on what the studies say and what the Bible says.",
+      "texto_pt": "Na Bíblia, há um conselho sobre o mel que parece ter sido escrito para a era dos superalimentos. Está em Provérbios, capítulo vinte e cinco, versículo dezesseis, e diz, em poucas palavras: se você encontrou mel, coma o quanto for suficiente para você, para não se empanturrar e acabar vomitando. O mel é bom. O problema não é o mel: é a quantidade. Hoje, na Cryptuline, iniciamos uma nova etapa. Semana após semana, vamos estudar o que a ciência realmente diz sobre a espirulina. E quero começar com uma pergunta que se aplica à espirulina, ao mel e a quase tudo na vida: se algo é bom, mais é melhor? No final deste vídeo, darei a minha resposta, com o que os estudos dizem e com o que a Bíblia diz.",
+      "texto_ar": "في الكتاب المقدس، توجد نصيحة حول العسل تبدو وكأنها كُتبت لعصر الأطعمة الفائقة. وهي موجودة في سفر الأمثال، الإصحاح الخامس والعشرين، الآية السادسة عشرة، وتنص باختصار: إذا وجدت عسلاً، فكل ما يكفيك، لئلا تشبع منه وتنتهي بتقيؤه. العسل جيد. المشكلة ليست في العسل: بل في المقدار. اليوم نبدأ مرحلة جديدة في كريبتولين. سنقوم أسبوعًا بعد أسبوع بدراسة ما تقوله العلوم بالفعل عن الإسبيرولينا. وأود أن أبدأ بسؤال ينطبق على الإسبيرولينا والعسل وعلى كل شيء تقريبًا في الحياة: إذا كان شيء ما جيدًا، فهل المزيد منه أفضل؟ في نهاية هذا الفيديو، سأقدم لك إجابتي، مع ما تقوله الدراسات وما يقوله الكتاب المقدس.",
+      "texto_zh": "......而............................................................................................... .................................... .......... .............. .. . ... . . .  .  .  . . .   . .    .",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "que_es",
@@ -68,7 +91,11 @@
       "referencia": "Gálatas 5:22-23 · Gogna S, 2022 · J Am Nutr Assoc",
       "visual": {
         "query": "spirulina powder bowl green"
-      }
+      },
+      "texto_en": "Let's start with two definitions. The first: temperance. In the Bible, it appears among the fruits of the Spirit, in Galatians chapter five, verses twenty-two and twenty-three, along with love, peace, and patience; some versions translate it as self-control. It is not sadness or prohibition: it is the ability to make good use of what is good and to avoid what is harmful. The second definition: spirulina. This is the common name for microscopic organisms of the species Arthrospira platensis and Arthrospira maxima. A review published in the Journal of the American Nutrition Association describes it in its title as an edible cyanobacterium: a photosynthetic, bluish-green organism that is sold dried, in powder form, or in tablets. In recent studies, it also appears under another genus name, Limnospira. On Tuesday, I'll explain why he has three names.",
+      "texto_pt": "Vamos começar com duas definições. A primeira: temperança. Na Bíblia, ela aparece entre os frutos do Espírito, em Gálatas, capítulo cinco, versículos vinte e dois e vinte e três, junto com o amor, a paz e a paciência; algumas versões a traduzem como autocontrole. Não é tristeza nem proibição: é a capacidade de usar bem o que é bom e de deixar de lado o que faz mal. A segunda definição: espirulina. É o nome comum de organismos microscópicos das espécies Arthrospira platensis e Arthrospira maxima. Uma revisão publicada no Journal of the American Nutrition Association a descreve no título como uma cianobactéria comestível: um organismo fotossintetizante, de cor verde-azulado, que é vendido seco, em pó ou em comprimidos. Em estudos recentes, ela também aparece com outro nome de gênero, Limnospira. Na terça-feira, explico por que ela tem três nomes.",
+      "texto_ar": "لنبدأ بتعريفين. الأولى: الاعتدال. يظهر في الكتاب المقدس من بين ثمار الروح، في رسالة بولس الرسول إلى أهل غلاطية، الإصحاح الخامس، الآيتان الثانية والعشرون والثالثة والعشرون، جنبًا إلى جنب مع المحبة والسلام والصبر؛ وتترجمه بعض النسخ على أنه ضبط النفس. إنها ليست حزنًا ولا حظرًا: إنها القدرة على استخدام ما هو جيد بشكل جيد وترك ما يضر. التعريف الثاني: سبيرولينا. هو الاسم الشائع للكائنات الحية المجهرية من نوعي أرثروسبيرا بلاتينسيس وأرثروسبيرا ماكسيما. تصفها مراجعة نُشرت في مجلة جمعية التغذية الأمريكية في عنوانها بأنها بكتيريا زرقاء خضراء صالحة للأكل: كائن حي يقوم بعملية التمثيل الضوئي، ذو لون أخضر مزرق، يُباع مجففًا أو في شكل مسحوق أو أقراص. في الدراسات الحديثة، تظهر أيضًا باسم جنس آخر، وهو ليمNOSPIRA. سأشرح لك يوم الثلاثاء سبب وجود ثلاثة أسماء له.",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "estudio",
@@ -79,7 +106,11 @@
       "referencia": "Calella P, 2022 · Int J Food Sci Nutr",
       "visual": {
         "query": "scientist reading research papers desk"
-      }
+      },
+      "texto_en": "The good stuff, with evidence. In 2022, Patrizia Calella and her team from the Parthenope University of Naples, Italy, published a systematic review in the International Journal of Food Sciences and Nutrition. They searched for studies on spirulina supplements in people with various diseases, both communicable and non-communicable. They reviewed 1,621 records, and only 18 studies, published between 2001 and 2020, met the criteria for inclusion. This study found that, overall, the results support the benefits of adding spirulina to the diet, with improvements in all the conditions studied, with one exception: male infertility. But the authors themselves caution about two things. First: The number of controlled clinical trials on each disease is still very low. Second: Some studies are of average quality. That is why they conclude that more research is needed to confirm its possible role alongside medical treatments. Notice that word: alongside. Not instead of.",
+      "texto_pt": "O que é bom, com evidências. Em 2022, Patrizia Calella e sua equipe, da Universidade de Nápoles Parthenope, na Itália, publicaram uma revisão sistemática no International Journal of Food Sciences and Nutrition. Eles buscaram estudos sobre suplementos de espirulina em pessoas com diversas doenças, tanto transmissíveis quanto não transmissíveis. Eles analisaram mil seiscentos e vinte e um registros, e apenas dezoito estudos, publicados entre 2001 e 2020, atenderam aos critérios de inclusão. Este estudo constatou que, em geral, os resultados corroboram os benefícios de adicionar espirulina à dieta, com melhorias em todas as condições estudadas, com uma única exceção: a infertilidade masculina. Mas os próprios autores alertam para duas coisas. Primeira: o número de ensaios clínicos controlados sobre cada doença ainda é muito baixo. Segundo: alguns estudos são de qualidade mediana. Por isso, eles concluem que são necessárias mais pesquisas para confirmar seu possível papel em conjunto com os tratamentos médicos. Observe essa palavra: junto. Não no lugar de.",
+      "texto_ar": "الفوائد، مع الأدلة. في عام ألفين واثنان وعشرين، نشرت باتريزيا كاللا وفريقها من جامعة بارثينوبي في نابولي بإيطاليا مراجعة منهجية في المجلة الدولية لعلوم الأغذية والتغذية. بحثوا عن دراسات حول مكملات سبيرولينا لدى الأشخاص المصابين بأمراض مختلفة، سواء كانت معدية أو غير معدية. راجعوا ألفًا وستمائة وواحد وعشرين سجلًا، ولم يستوف سوى ثمانية عشر دراسة، نُشرت بين عامي ألفين وواحد وألفين وعشرين، معايير الإدراج. وجدت هذه الدراسة أنه بشكل عام، تدعم النتائج فوائد إضافة سبيرولينا إلى النظام الغذائي، مع تحسن في جميع الحالات التي تمت دراستها، باستثناء واحد فقط: العقم عند الذكور. لكن المؤلفين أنفسهم يحذرون من أمرين. أولاً: لا يزال عدد التجارب السريرية الخاضعة للرقابة لكل مرض منخفضًا للغاية. ثانيًا: بعض الدراسات ذات جودة متوسطة. لهذا السبب خلصوا إلى أن هناك حاجة إلى مزيد من البحث لتأكيد دورها المحتمل جنبًا إلى جنب مع العلاجات الطبية. لاحظ هذه الكلمة: جنبًا إلى جنب. وليس بدلاً من.",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "medida",
@@ -90,7 +121,11 @@
       "referencia": "Gogna S, 2022 · Grosshagauer S, 2020",
       "visual": {
         "query": "kitchen scale measuring green powder"
-      }
+      },
+      "texto_en": "Good things in moderation. The review by Simran Gogna and her team at Lovely Professional University in India, published in 2022, states that the recommended safe dose for adults is between three and ten grams per day. This is a range cited in a review, not a prescription for you. The same review warns of possible adverse effects from toxins, such as microcystins, which could contribute to digestive discomfort or liver damage. Another review, by Silke Grosshagauer and her team at the University of Vienna in 2020, explains that little is still known about the contamination of spirulina products with cyanobacterial toxins, heavy metals, pesticides, or other contaminants; that some studies have found high levels; and that taking it daily, in gram quantities, requires closer monitoring of these components. In other words: it's not enough for something to be good. What matters is how much, how it was produced, and who takes it.",
+      "texto_pt": "O que é bom, com moderação. A revisão de Simran Gogna e sua equipe, da Lovely Professional University, na Índia, publicada em 2022, menciona que a dose segura recomendada para adultos varia entre três e dez gramas por dia. É uma faixa citada em uma revisão, não uma prescrição para você. A mesma revisão alerta para possíveis efeitos adversos de toxinas, como as microcistinas, que podem contribuir para desconfortos digestivos ou danos ao fígado. Outra revisão, de Silke Grosshagauer e sua equipe, da Universidade de Viena, em 2020, explica que ainda se sabe pouco sobre a contaminação dos produtos de espirulina com toxinas de cianobactérias, metais pesados, pesticidas ou outros contaminantes; que alguns estudos encontraram níveis elevados; e que consumi-la diariamente, em quantidades de gramas, exige um monitoramento mais atento desses componentes. Ou seja: não basta que algo seja bom. O que importa é quanto, como foi produzido e quem o toma.",
+      "texto_ar": "الشيء الجيد، باعتدال. تشير المراجعة التي أجرتها سيمران غوغنا وفريقها من جامعة لوفلي المهنية في الهند، والتي نُشرت في عام ألفين واثنين وعشرين، إلى أن الجرعة الآمنة الموصى بها للبالغين تتراوح بين ثلاثة وعشرة جرامات يوميًا. هذا هو النطاق المذكور في مراجعة، وليس وصفة طبية لك. ويحذر الاستعراض نفسه من الآثار الضارة المحتملة للسموم، مثل الميكروسيستينات، التي قد تساهم في حدوث اضطرابات هضمية أو تلف الكبد. تشرح مراجعة أخرى، أجرتها سيلك غروشهوغاور وفريقها من جامعة فيينا، في عام ألفين وعشرين، أنه لا تزال هناك معلومات قليلة عن تلوث منتجات سبيرولينا بسموم البكتيريا الزرقاء أو المعادن الثقيلة أو المبيدات الحشرية أو الملوثات الأخرى؛ وأن بعض الدراسات وجدت مستويات عالية منها؛ وأن تناولها يوميًا، بكميات بالجرامات، يتطلب مراقبة هذه المكونات عن كثب. بمعنى آخر: لا يكفي أن يكون الشيء جيدًا. المهم هو مقدارها وكيف تم إنتاجها ومن يتناولها.",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "mitos",
@@ -100,7 +135,11 @@
       "texto_pantalla": "Natural no es igual a seguro",
       "visual": {
         "query": "supermarket shelf supplements blurred"
-      }
+      },
+      "texto_en": "Three quick myths. Myth one: If it's natural, it's safe. Product quality matters, and science calls for monitoring it. Myth two: If a little is good, a lot is better. The review that cites a range of doses talks about limits, not about more being better. Myth three: A superfood makes up for everything else. None of the studies we reviewed today say that. The Calella review mentions a possible complement to medical treatment and calls for further trials. Temperance is also this: not overstating the promise.",
+      "texto_pt": "Três mitos rápidos. Mito número um: se é natural, é seguro. A qualidade do produto é importante, e a ciência pede que ela seja monitorada. Mito dois: se um pouco é bom, muito é melhor. A revisão que cita uma faixa de dosagem fala de limites, não de que quanto mais, melhor. Mito três: um superalimento compensa tudo o mais. Nenhum dos estudos que analisamos hoje diz isso. A revisão de Calella fala de um possível complemento ao tratamento médico e pede mais ensaios. A temperança também é isso: não exagerar na promessa.",
+      "texto_ar": "ثلاث خرافات سريعة. الخرافة الأولى: إذا كان الأمر طبيعيًا، فهو آمن. جودة المنتج مهمة، والعلم يطلب مراقبتها. الخرافة الثانية: إذا كان القليل جيدًا، فالكثير أفضل. تشير المراجعة التي تذكر نطاق الجرعات إلى الحدود، وليس إلى أنه كلما زادت الجرعة كان ذلك أفضل. الخرافة الثالثة: الطعام الخارق يعوض عن كل شيء آخر. لا توجد أي من الدراسات التي استعرضناها اليوم تقول ذلك. تشير مراجعة كالييلا إلى إمكانية وجود مكمل علاجي إلى جانب العلاج الطبي، وتدعو إلى إجراء المزيد من التجارب. الاعتدال هو أيضًا هذا: عدم المبالغة في الوعد.",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "fe",
@@ -111,7 +150,11 @@
       "referencia": "Daniel 1:8-16 · 1 Corintios 10:31 · 1 Corintios 9:25",
       "visual": {
         "query": "simple meal vegetables and water glass table"
-      }
+      },
+      "texto_en": "Now, the bridge. In the Book of Daniel, chapter one, verses eight to sixteen, a young man taken away from his homeland decides not to defile himself with the king's food. He doesn't make a fuss: he proposes a test. He asks that for ten days he and his friends be given vegetables and water, and that they then be compared with the young men who ate from the king's table. At the end of the ten days, the story goes, they looked better and healthier than the others. It is not a clinical trial, and I am not going to present it as such. But it has something that good science respects: a humble proposal, a defined timeframe, a comparison, and a willingness to look at the result. That is the temperance I propose for this series: not to reject out of fear or accept out of fashion, but to test with moderation and evidence. The Apostle Paul takes it further in 1 Corinthians, chapter 10, verse 31: Even what we eat and drink can be for the glory of God. And in chapter nine, verse twenty-five, he reminds us that the athlete disciplines himself in all things for a prize that will fade away.",
+      "texto_pt": "Agora, a ponte. No livro de Daniel, capítulo um, versículos oito a dezesseis, um jovem levado para longe de sua terra decide não se contaminar com a comida do rei. Ele não faz escândalo: propõe um teste. Ele pede que, durante dez dias, deem a ele e a seus amigos legumes e água e que, depois, os comparem com os jovens que comiam da mesa real. Ao final dos dez dias, conta o relato, eles pareciam melhores e mais saudáveis do que os outros. Não é um ensaio clínico, e não vou apresentá-lo como tal. Mas tem algo que a boa ciência respeita: uma proposta humilde, um tempo definido, uma comparação e a disposição de analisar o resultado. Essa é a temperança que proponho para esta série: não rejeitar por medo nem aceitar por estar na moda, mas testar com moderação e com base em evidências. O apóstolo Paulo vai mais longe em 1 Coríntios, capítulo 10, versículo 31: até mesmo o que comemos e bebemos pode ser para a glória de Deus. E, no capítulo nove, versículo vinte e cinco, ele lembra que o atleta se disciplina em tudo por um prêmio que se desvanece.",
+      "texto_ar": "المُدمن الرئيسي",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "egw",
@@ -121,7 +164,11 @@
       "texto_pantalla": "La templanza atraviesa todo",
       "visual": {
         "query": "morning sunlight garden table breakfast"
-      }
+      },
+      "texto_en": "In her book The Ministry of Healing, Ellen G. White lists temperance among the true remedies, along with fresh air, sunlight, rest, exercise, proper nutrition, water, and trust in divine power. Notice that temperance is not a product: it is a way of using everything else. Moderation at work, at rest, in front of the screen, and also at the table. And at a time when a new superfood appears every month, temperance helps us ask ourselves two questions: What does the evidence say? And how much is enough?",
+      "texto_pt": "Elena G. de White, em seu livro O Ministério da Cura, cita a temperança entre os verdadeiros remédios, juntamente com o ar puro, a luz do sol, o descanso, o exercício, a alimentação adequada, a água e a confiança no poder divino. Observe que a temperança não é um produto: é uma forma de usar tudo o mais. Temperança no trabalho, no descanso, na tela e também à mesa. E, em uma época em que um novo superalimento surge a cada mês, a temperança nos ajuda a fazer duas perguntas: o que dizem as evidências? E quanto é suficiente?",
+      "texto_ar": "المُدمن الرئيسي",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "respuesta",
@@ -131,7 +178,11 @@
       "texto_pantalla": "No: lo bueno, con medida",
       "visual": {
         "query": "small spoon green powder glass of water"
-      }
+      },
+      "texto_en": "So, if something is good, is more better? My answer is no. Good things are used in moderation and with evidence. There are interesting studies on spirulina, such as the eighteen included in the Calella review, but it also has limitations: few trials per disease, uneven quality, and products that need to be monitored. The honey of Proverbs is good; eating it all at once is not. And nothing that fits on a spoon can replace a treatment prescribed by your doctor or a balanced lifestyle.",
+      "texto_pt": "Então, se algo é bom, mais é melhor? Minha resposta é não. O que é bom deve ser usado com moderação e com base em evidências. A espirulina tem estudos interessantes, como os dezoito reunidos na revisão de Calella, mas também tem limitações: poucos ensaios por doença, qualidade desigual e produtos que precisam ser monitorados. O mel dos Provérbios é bom; comê-lo todo de uma vez, não. E nada que caiba em uma colher substitui um tratamento indicado pelo seu médico ou um estilo de vida equilibrado.",
+      "texto_ar": "المُدمن الرئيسي",
+      "texto_ko": "사이트 맵"
     },
     {
       "id": "aplicacion",
@@ -140,7 +191,18 @@
       "texto": "¿Qué puedes hacer esta semana? Uno: antes de creer una promesa de salud, pregunta qué estudio la respalda, en cuántas personas y si fue en humanos o en animales. Dos: si tomas medicamentos, estás embarazada o tienes una enfermedad, no empieces ningún suplemento, tampoco espirulina, sin consultar antes a tu médico. Tres: practica la templanza en algo concreto, en la mesa o en la pantalla. El martes, salud: qué es de verdad la espirulina, por qué tiene tres nombres y qué dicen las revisiones científicas. Y el viernes, nutrición: proteína, hierro, ficocianina y un mito muy repetido sobre la vitamina B12. Suscríbete a Cryptuline y cuéntame en los comentarios: ¿en qué área de tu vida te cuesta más la medida?",
       "visual": {
         "query": "person writing notes notebook coffee morning"
-      }
+      },
+      "texto_en": "What can you do this week? One: Before believing a health claim, ask what study supports it, how many people it involved, and whether it was conducted on humans or animals. Two: If you take medication, are pregnant, or have a medical condition, do not start taking any supplements, including spirulina, without first consulting your doctor. Three: Practice moderation in something specific, at the table or on the screen. On Tuesday, health: What spirulina really is, why it has three names, and what scientific reviews say. And on Friday, nutrition: protein, iron, phycocyanin, and a widely repeated myth about vitamin B12. Subscribe to Cryptuline and tell me in the comments: In which area of your life do you find it hardest to measure?",
+      "texto_pt": "O que você pode fazer esta semana? Primeiro: antes de acreditar em uma promessa de saúde, pergunte qual estudo a respalda, em quantas pessoas e se foi em humanos ou em animais. Dois: se você toma medicamentos, está grávida ou tem alguma doença, não comece a tomar nenhum suplemento, nem mesmo espirulina, sem antes consultar seu médico. Terceiro: pratique a temperança em algo concreto, na mesa ou na tela. Na terça-feira, saúde: o que realmente é a espirulina, por que ela tem três nomes e o que dizem as revisões científicas. E na sexta-feira, nutrição: proteína, ferro, ficocianina e um mito muito repetido sobre a vitamina B12. Assine a Cryptuline e me conte nos comentários: em qual área da sua vida você tem mais dificuldade em medir?",
+      "texto_ar": "المُدمن الرئيسي",
+      "texto_ko": "사이트 맵"
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
