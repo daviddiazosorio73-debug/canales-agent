@@ -7,5 +7,22 @@
   "canales/top10-redes/proyectos/2026-11-25-en-top10-europa",
   "canales/top10-redes/proyectos/2026-11-25-es-top10-america",
   "canales/top10-redes/proyectos/2026-11-25-en-top10-mundial"
+ ],
+ "playlist": "PLPf3cMuRH42k",
+ "en_lista": [
+  "kWYbk4JRIEU",
+  "T4rHSe5LGzA",
+  "B3ui9gQ2qZ8",
+  "2UBofLbfpcw",
+  "fzJcU7dHB8A",
+  "xkhc1zX8kJQ"
+ ],
+ "enlazados": [
+  "kWYbk4JRIEU>T4rHSe5LGzA",
+  "T4rHSe5LGzA>B3ui9gQ2qZ8",
+  "B3ui9gQ2qZ8>2UBofLbfpcw",
+  "2UBofLbfpcw>fzJcU7dHB8A",
+  "fzJcU7dHB8A>xkhc1zX8kJQ",
+  "xkhc1zX8kJQ>fin"
  ]
 }

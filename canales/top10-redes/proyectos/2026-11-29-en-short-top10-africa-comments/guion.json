@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "africa",
+  "fecha": "2026-11-29",
+  "tema": "Top 10 Africa · 2026-W48 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "AFRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in Africa this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in Africa this week.\n\nFull countdown, from 10 to 1: https://youtu.be/B3ui9gQ2qZ8\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T18:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in Africa this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "fRw5yyFMnXg",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, GLORIA MUST GO - SONIA UCHE, RUTH KADIRI, SYMON OKOH…, by Sonia Uche Tv, with over 4 thousand comments.",
+      "emocion": "agil",
+      "video_id": "ShC9YaCkDfo",
+      "puesto": 3,
+      "creador": "Sonia Uche Tv",
+      "cifra": 4966,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Koleoso part 15 - Latest Yoruba Movie 2026 |…, by Itelediconstudio, with over 7 thousand comments.",
+      "emocion": "agil",
+      "video_id": "h2puYrQ47_A",
+      "puesto": 2,
+      "creador": "Itelediconstudio",
+      "cifra": 7943,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: MORGAN BAHATI - ZOZA (NIKIFIKA 18), by Bahati Kenya, with over 8 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "fRw5yyFMnXg",
+      "puesto": 1,
+      "creador": "Bahati Kenya",
+      "cifra": 8668,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "fRw5yyFMnXg",
+      "solo_fondo": true
+    }
+  ]
+}

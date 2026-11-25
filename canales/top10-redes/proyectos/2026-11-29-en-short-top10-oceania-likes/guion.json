@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "oceania",
+  "fecha": "2026-11-29",
+  "tema": "Top 10 Oceania · 2026-W48 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "OCEANIA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most liked video in Oceania this week 🏆 #shorts",
+    "descripcion": "The podium of the most liked videos in Oceania this week.\n\nFull countdown, from 10 to 1: https://youtu.be/kWYbk4JRIEU\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T20:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most liked video in Oceania this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "PB6qi5CIpeE",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, Testing Everything In GTA 6, by LazarBeam, with over 116 thousand likes.",
+      "emocion": "agil",
+      "video_id": "NwQKirh2dxE",
+      "puesto": 3,
+      "creador": "LazarBeam",
+      "cifra": 116810,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, Swimming between the flags, by CrackerMilk, with over 120 thousand likes.",
+      "emocion": "agil",
+      "video_id": "QDMSPMjm13k",
+      "puesto": 2,
+      "creador": "CrackerMilk",
+      "cifra": 120325,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: Why You Exist., by Bloxy Productions, with over 177 thousand likes.",
+      "emocion": "enfasis",
+      "video_id": "PB6qi5CIpeE",
+      "puesto": 1,
+      "creador": "Bloxy Productions",
+      "cifra": 177672,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "PB6qi5CIpeE",
+      "solo_fondo": true
+    }
+  ]
+}

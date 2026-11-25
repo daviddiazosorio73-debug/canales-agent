@@ -1,0 +1,87 @@
+{
+  "lang": "en",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "asia",
+  "fecha": "2026-11-29",
+  "tema": "Top 10 Asia · 2026-W48 · COMMENTS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 COMMENTS",
+    "linea2": "ASIA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "The most commented video in Asia this week 🏆 #shorts",
+    "descripcion": "The podium of the most commented videos in Asia this week.\n\nFull countdown, from 10 to 1: https://youtu.be/T4rHSe5LGzA\n\nData from the official YouTube API. Synthetic voice narration. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "viral videos",
+      "youtube trends",
+      "shorts",
+      "top 10 social media"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T15:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Which was the most commented video in Asia this week? Here is the podium. Watch until the end.",
+      "emocion": "gancho",
+      "video_id": "169ZzvPxvvM",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "In third place, I GOT OWNER INFINITE LUCK IN STEAL AN EGG ROBLOX !!, by Shivang Mini, with over 14 thousand comments.",
+      "emocion": "agil",
+      "video_id": "YPEEuHrmEWc",
+      "puesto": 3,
+      "creador": "Shivang Mini",
+      "cifra": 14487,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p2",
+      "texto": "In second place, なにわ男子 - 僕がカワイくて君がカワイくて [Official Music Video], by なにわ男子, with over 20 thousand comments.",
+      "emocion": "agil",
+      "video_id": "BhxGLC6o5Lc",
+      "puesto": 2,
+      "creador": "なにわ男子",
+      "cifra": 20447,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "p1",
+      "texto": "And number one: MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY, by Techno Gamerz, with over 54 thousand comments.",
+      "emocion": "enfasis",
+      "video_id": "169ZzvPxvvM",
+      "puesto": 1,
+      "creador": "Techno Gamerz",
+      "cifra": 54287,
+      "categoria": "COMMENTS"
+    },
+    {
+      "id": "cierre",
+      "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "169ZzvPxvvM",
+      "solo_fondo": true
+    }
+  ]
+}

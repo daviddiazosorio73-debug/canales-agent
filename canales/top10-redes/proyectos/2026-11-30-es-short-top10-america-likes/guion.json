@@ -1,0 +1,87 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "america",
+  "fecha": "2026-11-30",
+  "tema": "Top 10 América · 2026-W48 · LIKES",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 LIKES",
+    "linea2": "AMÉRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "El #1 con más likes de América esta semana 🏆 #shorts",
+    "descripcion": "El podio de los videos con más likes de América esta semana.\n\nConteo completo, del 10 al 1: https://youtu.be/fzJcU7dHB8A\n\nDatos de la API oficial de YouTube. Narración con voz sintética. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "videos virales",
+      "tendencias youtube",
+      "shorts",
+      "top 10 redes sociales"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-30T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuál fue el video con más likes de América esta semana? Este es el podio. Mira hasta el final.",
+      "emocion": "gancho",
+      "video_id": "Wb8Tq_HD4E8",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "En el tercer lugar, Can I Beat Magnus Carlsen?, de MrBeast, con más de 633 mil likes.",
+      "emocion": "agil",
+      "video_id": "WjCH5JUNzao",
+      "puesto": 3,
+      "creador": "MrBeast",
+      "cifra": 633276,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p2",
+      "texto": "En el segundo lugar, I Survived 100 Hours In GTA 6, de MrBeast Gaming, con más de 774 mil likes.",
+      "emocion": "agil",
+      "video_id": "ymCHX_Dcc-U",
+      "puesto": 2,
+      "creador": "MrBeast Gaming",
+      "cifra": 774087,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "p1",
+      "texto": "Y el número uno: Avengers: Doomsday | Final Trailer | In Theaters…, de Marvel Entertainment, con más de un millón de likes.",
+      "emocion": "enfasis",
+      "video_id": "Wb8Tq_HD4E8",
+      "puesto": 1,
+      "creador": "Marvel Entertainment",
+      "cifra": 1594790,
+      "categoria": "LIKES"
+    },
+    {
+      "id": "cierre",
+      "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "Wb8Tq_HD4E8",
+      "solo_fondo": true
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "top10_short": true,
+  "voz_fundador": true,
+  "edicion": "america",
+  "fecha": "2026-11-29",
+  "tema": "Top 10 América · 2026-W48 · VISTAS",
+  "color_marca": [
+    255,
+    45,
+    120
+  ],
+  "contenido_sintetico": true,
+  "miniatura": {
+    "linea1": "#1 VISTAS",
+    "linea2": "AMÉRICA",
+    "etiqueta": "TOP 10 RS",
+    "imagen": "p1"
+  },
+  "seo": {
+    "titulo": "El #1 más visto de América esta semana 🏆 #shorts",
+    "descripcion": "El podio de los videos más visto de América esta semana.\n\nConteo completo, del 10 al 1: https://youtu.be/fzJcU7dHB8A\n\nDatos de la API oficial de YouTube. Narración con voz sintética. #Top10RS #shorts",
+    "tags": [
+      "top 10",
+      "videos virales",
+      "tendencias youtube",
+      "shorts",
+      "top 10 redes sociales"
+    ],
+    "hashtags": [
+      "Top10RS",
+      "shorts"
+    ],
+    "categoria_id": "24",
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Cuál fue el video más visto de América esta semana? Este es el podio. Mira hasta el final.",
+      "emocion": "gancho",
+      "video_id": "ymCHX_Dcc-U",
+      "solo_fondo": true
+    },
+    {
+      "id": "p3",
+      "texto": "En el tercer lugar, Couch Glitch For New GTA 🎮🤣, de VerrTV, con más de 34 millones de vistas.",
+      "emocion": "agil",
+      "video_id": "PiqRE334R0g",
+      "puesto": 3,
+      "creador": "VerrTV",
+      "cifra": 34453605,
+      "categoria": "VISTAS"
+    },
+    {
+      "id": "p2",
+      "texto": "En el segundo lugar, Avengers: Doomsday | Final Trailer | In Theaters…, de Marvel Entertainment, con más de 50 millones de vistas.",
+      "emocion": "agil",
+      "video_id": "Wb8Tq_HD4E8",
+      "puesto": 2,
+      "creador": "Marvel Entertainment",
+      "cifra": 50165055,
+      "categoria": "VISTAS"
+    },
+    {
+      "id": "p1",
+      "texto": "Y el número uno: I Survived 100 Hours In GTA 6, de MrBeast Gaming, con más de 72 millones de vistas.",
+      "emocion": "enfasis",
+      "video_id": "ymCHX_Dcc-U",
+      "puesto": 1,
+      "creador": "MrBeast Gaming",
+      "cifra": 72326891,
+      "categoria": "VISTAS"
+    },
+    {
+      "id": "cierre",
+      "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
+      "emocion": "calido",
+      "video_id": "ymCHX_Dcc-U",
+      "solo_fondo": true
+    }
+  ]
+}
