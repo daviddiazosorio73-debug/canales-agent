@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The test that only time can perform ⏳ #shorts",
+        "description": "Two prophets said opposite things in front of all the people. How could they know who was right? Jeremiah 28:9 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "A prova que só o tempo pode fazer ⏳ #shorts",
+        "description": "Dois profetas disseram coisas opostas diante de todo o povo. Como saber quem estava certo? Jeremias 28:9 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الدليل الذي لا يمكن تقديمه إلا مع مرور الوقت ⏳ #shorts",
+        "description": "قال نبيان أشياء متناقضة أمام الشعب كله. كيف نعرف من كان على حق؟ إرميا 28: 9 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "只有时间才能证明的真理 ⏳ #shorts",
+        "description": "两位先知在众目睽睽之下说了截然相反的话。怎么知道谁是对的？耶利米书 28:9 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "오직 시간이 줄 수 있는 증명 ⏳ #shorts",
+        "description": "두 선지자가 모든 백성 앞에서 서로 상반되는 말을 했습니다. 누가 옳았는지 어떻게 알 수 있을까요? 예레미야 28:9 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "hourglass with sand falling on dark background"
-      }
+      },
+      "texto_en": "Two prophets said opposite things in front of all the people. How could they know who was right?",
+      "texto_pt": "Dois profetas disseram coisas opostas diante de todo o povo. Como saber quem estava certo?",
+      "texto_ar": "قال نبيان أشياء متناقضة أمام الشعب كله. كيف يمكن معرفة من كان على حق؟",
+      "texto_zh": "两位先知在全体百姓面前说了截然相反的话。如何知道谁是对的？",
+      "texto_ko": "두 선지자가 모든 백성 앞에서 서로 상반되는 말을 했습니다. 누가 옳았는지 어떻게 알 수 있을까요?"
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "old calendar pages flying in wind"
-      }
+      },
+      "texto_en": "It happened in Jeremiah 28. Hananiah proclaimed peace and an early return; Jeremiah had proclaimed the opposite. In verse nine, Jeremiah says that it will be known that the Lord sent the prophet who proclaims peace when his word comes true. This is today's topic in Lesson Nine, Testing the Prophets: Fulfilled Prophecies. History proved Jeremiah right. Time is a judge who cannot be bribed. That's why it's worth knowing the prophecies and seeing how they were fulfilled. Subscribe and comment \"Time will tell.\"",
+      "texto_pt": "Aconteceu em Jeremias 28. Hananias anunciou paz e um retorno rápido; Jeremias havia anunciado o contrário. No versículo nove, Jeremias diz que, do profeta que anuncia a paz, saber-se-á que o Senhor o enviou quando sua palavra se cumprir. Este é o tema de hoje na lição nove, Testando os profetas: profecias cumpridas. A história deu razão a Jeremias. O tempo é um juiz que não pode ser subornado. É por isso que vale a pena conhecer as profecias e ver como elas se cumpriram. Inscreva-se e comente \"O tempo mostrará\".",
+      "texto_ar": "حدث ذلك في إرميا الإصحاح الثامن والعشرين. أعلن حننيا السلام والعودة قريبًا؛ بينما أعلن إرميا العكس. في الآية التاسعة، يقول إرميا إنه سيُعرف عن النبي الذي يبشر بالسلام أن الرب أرسله عندما تتحقق كلمته. هذا هو موضوع اليوم في الدرس التاسع، اختبار الأنبياء: النبوءات التي تحققت. أثبت التاريخ أن إرميا كان على حق. الوقت قاضٍ لا يمكن رشوته. لهذا السبب، من المفيد معرفة النبوءات ورؤية كيف تحققت. اشترك وعلق بعبارة \"الزمن سيُظهر ذلك\".",
+      "texto_zh": "这发生在耶利米书第二十八章。哈拿尼雅宣告和平与早日归回；耶利米则宣告了相反的信息。在第9节中，耶利米说，当宣告平安的先知的话语应验时，人们就知道是耶和华差遣了他。这是今天第九课的主题：检验先知：应验的预言。历史证明了耶利米是对的。时间是一位无法被贿赂的法官。 因此，了解这些预言并看看它们是如何应验的，是值得的。订阅并评论“时间会证明一切”。",
+      "texto_ko": "예레미야 28장에서 일어난 일입니다. 하난야는 평화와 빠른 귀환을 예고했고, 예레미야는 그 반대를 예고했습니다. 9절에서 예레미야는 평화를 선포하는 선지자는 그의 말이 이루어질 때 주님께서 그를 보내신 것임을 알게 될 것이라고 말합니다. 오늘 9과에서 다룰 주제는 '선지자 시험하기: 성취된 예언'입니다. 역사는 예레미야의 주장을 뒷받침했습니다. 시간은 매수할 수 없는 심판관입니다. 그러므로 예언을 알고 그것이 어떻게 성취되었는지 살펴보는 것은 가치 있는 일입니다. 구독하고 \"시간이 증명합니다\"라고 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
