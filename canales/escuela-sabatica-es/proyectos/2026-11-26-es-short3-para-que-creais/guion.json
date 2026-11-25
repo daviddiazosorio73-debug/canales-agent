@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Why does God give warning before it happens? 🔔 #shorts",
+        "description": "Jesus explained why he sometimes announces things before they happen. The reason will surprise you. John 14:29 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Por que Deus avisa antes que aconteça? 🔔 #shorts",
+        "description": "Jesus explicou por que às vezes anuncia as coisas antes que elas aconteçam. O motivo vai surpreender você. João 14:29 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "لماذا يحذر الله قبل أن يحدث ذلك؟ 🔔 #shorts",
+        "description": "أوضح يسوع لماذا يعلن أحيانًا عن الأشياء قبل حدوثها. السبب سيفاجئك. يوحنا 14: 29 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "为什么上帝会在事情发生之前发出警告？🔔 #shorts",
+        "description": "耶稣解释了为什么祂有时会在事情发生之前就预告。原因会让你大吃一惊。约翰福音 14:29 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "하나님께서는 왜 일이 일어나기 전에 경고하실까요? 🔔 #shorts",
+        "description": "예수님께서는 때때로 일이 일어나기 전에 그 일을 말씀하시는 이유를 설명하셨습니다. 그 이유는 당신을 놀라게 할 것입니다. 요한복음 14:29 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "alarm bell ringing close up"
-      }
+      },
+      "texto_en": "Jesus explained why he sometimes announces things before they happen. The reason will surprise you.",
+      "texto_pt": "Jesus explicou por que às vezes anuncia as coisas antes que elas aconteçam. O motivo vai surpreendê-lo.",
+      "texto_ar": "أوضح يسوع سبب إعلانه للأمور أحيانًا قبل حدوثها. السبب سيفاجئك.",
+      "texto_zh": "耶稣解释了他为何有时会在事情发生之前就预先告知。原因会让您感到惊讶。",
+      "texto_ko": "예수님께서는 때때로 일이 일어나기 전에 그 일을 예고하시는 이유를 설명하셨습니다. 그 이유는 놀라움을 안겨줄 것입니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "lighthouse shining over stormy sea"
-      }
+      },
+      "texto_en": "In John 14, verse 29, Jesus tells his disciples that he is warning them in advance so that, when things happen, their faith will be strengthened. This is the purpose behind today's topic in Lesson Nine: Fulfilled Prophecies. Prophecy is not to satisfy curiosity, but to strengthen faith. When what is foretold comes to pass, confidence grows, and we are better prepared for what is to come. God doesn't want to surprise you; He wants you to be ready. Subscribe and comment on a biblical promise that you have already seen fulfilled.",
+      "texto_pt": "Em João 14, versículo 29, Jesus diz aos Seus discípulos: que Ele os avisa com antecedência para que, quando as coisas acontecerem, a fé deles se fortaleça. Esse é o propósito por trás do tema de hoje na lição nove: profecias cumpridas. A profecia não é para satisfazer a curiosidade, mas para fortalecer a fé. Quando o que foi anunciado se cumpre, a confiança aumenta e ficamos mais bem preparados para o que está por vir. Deus não quer surpreender você; Ele quer que você esteja preparado. Inscreva-se e comente uma promessa bíblica que você já viu se cumprir.",
+      "texto_ar": "في إنجيل يوحنا الإصحاح الرابع عشر، الآية التاسعة والعشرين، يقول يسوع لتلاميذه: إنه يحذرهم مسبقًا حتى عندما تحدث الأمور، يثبت إيمانهم. هذا هو الهدف من موضوع اليوم في الدرس التاسع: النبوءات التي تحققت. النبوءة ليست لإرضاء الفضول، بل لتقوية الإيمان. عندما يتحقق ما تم الإعلان عنه، يزداد الثقة، ونكون أكثر استعدادًا لما هو قادم. لا يريد الله أن يفاجئك؛ بل يريدك أن تكون مستعدًا. اشترك وعلق على وعد من الكتاب المقدس رأيته يتحقق بالفعل.",
+      "texto_zh": "在《约翰福音》第十四章第二十九节中，耶稣对门徒说：他提前告知他们，以便事情发生时，他们的信心得以坚固。这就是今天第九课主题背后的目的：应验的预言。预言不是为了满足好奇心，而是为了增强信心。当预言应验时，信心就会增强，我们就能更好地为即将发生的事情做好准备。 神不想让你措手不及；祂希望你做好准备。订阅并评论一个你已经看到应验的圣经应许。",
+      "texto_ko": "요한복음 14장 29절에서 예수님께서는 제자들에게 이렇게 말씀하십니다. 일이 일어날 때 제자들의 믿음이 굳건해지도록 미리 알려 주신다고요. 이것이 오늘 9과 주제인 성취된 예언의 목적입니다. 예언은 호기심을 충족시키기 위한 것이 아니라 믿음을 강화하기 위한 것입니다. 예언된 일이 성취되면 신뢰가 커지고 우리는 다가올 일에 더 잘 대비할 수 있습니다. 하나님께서는 당신을 놀라게 하고 싶지 않으십니다. 당신이 준비되기를 원하십니다. 구독하고 이미 성취된 것을 보신 성경의 약속에 대해 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
