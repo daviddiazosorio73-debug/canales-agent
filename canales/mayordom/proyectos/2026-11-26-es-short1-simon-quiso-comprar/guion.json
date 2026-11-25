@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "He wanted to buy God's power with money 💰 #shorts",
+        "description": "Peter to Simon: May your money perish with you, because you thought that God's gift could be obtained with money. (Acts 8:18–20, paraphrase RVR1960) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Ele quis comprar o poder de Deus com dinheiro 💰 #shorts",
+        "description": "Pedro a Simão: Que o seu dinheiro pereça com você, porque pensou que o dom de Deus se obtém com dinheiro. (Atos 8:18-20, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "أراد أن يشتري قوة الله بالمال 💰 #shorts",
+        "description": "بطرس إلى سمعان: لِتَكُنْ فِضَّتُكَ مَعَكَ لِلْهَلاَكِ، لأَنَّكَ ظَنَنْتَ أَنْ تُقْتَنَى هِبَةُ اللهِ بِالدَّرَاهِمِ. (أعمال الرسل 8: 18-20، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "他想用金钱💰来购买上帝的力量。 #shorts",
+        "description": "彼得对西门说：“你的银子和你一同灭亡吧！因为你想神的恩赐是可以用钱买的。” （使徒行传 8:18-20，RVR1960 译本意译）订阅 MayorDom · 圣经管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "그는 돈으로 하나님의 권능을 사려고 했습니다 💰 #shorts",
+        "description": "베드로가 시몬에게: 네가 하나님의 은사를 돈으로 살 수 있다고 생각했으니, 네 돈이 너와 함께 망하리라. (사도행전 8:18-20, RVR1960 번역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "hand offering money dark"
-      }
+      },
+      "texto_en": "A man offered money to the apostles to buy God's power. The response was very harsh.",
+      "texto_pt": "Um homem ofereceu dinheiro aos apóstolos para comprar o poder de Deus. A resposta foi muito dura.",
+      "texto_ar": "عرض رجل المال على الرسل لشراء قوة الله. كان الرد قاسيًا للغاية.",
+      "texto_zh": "有一个人向使徒们出钱，想买到上帝的力量。得到的回答非常严厉。",
+      "texto_ko": "한 남자가 사도들에게 하나님의 권능을 사기 위해 돈을 주었습니다. 답은 매우 가혹했습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "enfasis",
       "visual": {
         "query": "scales balance light shadow"
-      }
+      },
+      "texto_en": "Acts 8. Simon saw that the Holy Spirit was given through the laying on of the apostles' hands, and he offered them money to have that power. Peter answered: \"May your money perish with you, because you thought that God's gift could be obtained with money.\" Today, there are those who promise the opposite: give an offering, and God will give it back to you multiplied. Today, at six o'clock in the evening, we will use the Bible to analyze what is known as sowing in faith. Giving to receive? I'll be waiting for you.",
+      "texto_pt": "Atos 8. Simão viu que, pela imposição das mãos dos apóstolos, o Espírito Santo era concedido e lhes ofereceu dinheiro para ter esse poder. Pedro lhe respondeu: Que o seu dinheiro pereça com você, porque você pensou que o dom de Deus se obtém com dinheiro. Hoje há quem prometa o contrário: dê uma oferta e Deus lhe devolverá multiplicada. Hoje, às seis da tarde, analisamos com a Bíblia a chamada semeadura da fé. Dar para receber? Espero por você.",
+      "texto_ar": "أعمال الرسل الإصحاح الثامن. رأى سمعان أنه بإلقاء الأيدي من قبل الرسل، كان يُعطى الروح القدس، وعرض عليهم المال للحصول على هذه القوة. فأجابه بطرس: \"ليَبِدْ مالُكَ مَعَكَ، لأنَّكَ ظَنَنْتَ أنَّ عَطِيَّةَ اللهِ تُشْتَرَى بِمالٍ\". اليوم، هناك من يعد بالعكس: قدّم قربانًا وسيعيده الله إليك مضاعفًا. اليوم، في الساعة السادسة مساءً، سنحلل مع الكتاب المقدس ما يسمى بزرع الإيمان. هل تعطي لتتلقى؟ أنا في انتظارك.",
+      "texto_zh": "使徒行传第八章。西门看见使徒按手，便得了圣灵，就拿钱给使徒，说：“也把这权柄给我，叫我手按着谁，谁就可以受圣灵。” 彼得对他说：“你的银子和你一同灭亡吧！因你以为神的恩赐是可以用钱买的。” 如今，有人却承诺相反的事情：奉献一份礼物，上帝会加倍回报你。今天下午六点，我们将根据圣经来分析所谓的“信心播种”。付出是为了收获？我等着你。",
+      "texto_ko": "사도행전 8장. 시몬은 사도들이 안수함으로써 성령이 주어지는 것을 보고 그 권능을 얻기 위해 그들에게 돈을 주겠다고 했습니다. 베드로가 그에게 대답했습니다. \"네가 하나님의 선물을 돈으로 살 수 있다고 생각했으니 네 돈이 너와 함께 망하리라.\" 오늘날에는 그 반대를 약속하는 사람들이 있습니다. 헌금을 하면 하나님께서 그보다 더 많이 돌려주신다는 것입니다. 오늘 오후 6시에 우리는 성경을 통해 소위 믿음의 씨앗 뿌리기에 대해 살펴볼 것입니다. 받기 위해 주는 것일까요? 여러분을 기다리겠습니다."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
