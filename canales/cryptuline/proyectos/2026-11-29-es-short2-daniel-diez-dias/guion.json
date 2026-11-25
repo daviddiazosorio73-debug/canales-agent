@@ -36,7 +36,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-11-29T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Daniel and the 10-day test: What it teaches us about spirulina #shorts",
+        "description": "Daniel and the ten-day test: Testing with moderation and evidence. Daniel 1:8–16 (paraphrase). 📚 Sources (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785 Educational content for people over 18. This is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthesized voice. Cryptuline."
+      },
+      "pt": {
+        "title": "Daniel e o teste dos 10 dias: o que ele nos ensina sobre a espirulina #shorts",
+        "description": "Daniel e o teste dos dez dias: testar com moderação e com evidências. Daniel 1:8-16 (paráfrase). 📚 Fontes (PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. Antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systematic review. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "دانيال واختبار العشرة أيام: ما يعلمنا إياه عن سبيرولينا #shorts",
+        "description": "دانيال واختبار العشرة أيام: الاختبار بالقياس وبالدليل. سفر دانيال 1: 8-16 (شرح). 📚 المصادر (PubMed):\n• كاليلا ب، دي ديو م، سيرولو ج، دي أونوفريو ف، غالي ف، ليغوري ج. الآثار المضادة للأكسدة والمعدلة للمناعة والمضادة للالتهابات للسبيرولينا في حالات المرض: مراجعة منهجية. المجلة الدولية لعلوم وتغذية الأغذية. 2022؛73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785 محتوى تثقيفي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشر طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتولين."
+      },
+      "zh-Hans": {
+        "title": "但以理和 10 天试验：它告诉我们关于螺旋藻的哪些信息 #shorts",
+        "description": "但以理和十天的考验：有节制地、有证据地进行试验。《但以理书》1:8-16（意译）。📚 资料来源（PubMed）：\n• Calella P、Di Dio M、Cerullo G、Di Onofrio V、Gallé F、Liguori G。《螺旋藻在疾病状态下的抗氧化、免疫调节和抗炎作用：系统综述》。《国际食品科学与营养学杂志》。2022 年；73(8)：1047-1056。https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785 面向 18 岁以上人士的教育内容。本内容不能替代医疗咨询：在改变饮食、体育活动或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "다니엘과 10일간의 시험: 스피룰리나에 대해 알려주는 것 #shorts",
+        "description": "다니엘과 10일간의 시험: 적절한 분량으로, 그리고 증거를 가지고 시험하기. 다니엘 1:8-16(의미 전달). 📚 출처(PubMed):\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. 질병 상태에서 스피룰리나의 항산화, 면역 조절 및 항염증 효과: 체계적 검토. Int J Food Sci Nutr. 2022;73(8):1047-1056. https://pubmed.ncbi.nlm.nih.gov/36273817/ · https://doi.org/10.1080/09637486.2022.2137785 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식단, 신체 활동 또는 치료를 변경하기 전에 의사와 상담하세요. 인공 음성으로 된 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -47,7 +69,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "ancient scroll candle light table"
-      }
+      },
+      "texto_en": "Centuries ago, a young man proposed a ten-day test with his food.",
+      "texto_pt": "Séculos atrás, um jovem propôs um teste de dez dias com sua comida.",
+      "texto_ar": "منذ قرون، اقترح شاب اختبارًا لمدة عشرة أيام يتعلق بطعامه.",
+      "texto_zh": "几个世纪前，一位年轻人提出了一个为期十天的饮食试验。",
+      "texto_ko": "수백 년 전, 한 젊은이가 자신의 식단으로 10일간의 실험을 제안했습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "bowl of lentils and glass of water"
-      }
+      },
+      "texto_en": "In Daniel chapter one, a young man far from his homeland asks that for ten days he and his friends be given vegetables and water, and that they then be compared with those who ate from the king's table. This is not a clinical trial. But it teaches something that science respects: to test with humility, to compare, and to observe the result. This is how we are going to study spirulina at Cryptuline: without fear and without following trends. For example, the 2022 systematic review by Calella was only able to include eighteen studies, and it calls for more trials. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "No capítulo um de Daniel, um jovem longe de sua terra pede que, durante dez dias, ele e seus amigos recebam verduras e água, e que depois sejam comparados com aqueles que comiam da mesa do rei. Não é um ensaio clínico. Mas ensina algo que a ciência respeita: testar com humildade, comparar e observar o resultado. É assim que vamos estudar a espirulina na Cryptuline: sem medo e sem seguir modismos. Por exemplo, a revisão sistemática de Calella, de 2022, só pôde incluir dezoito estudos e pede mais ensaios. Salve este vídeo e compartilhe-o com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos no Cryptuline para ver mais conteúdos sobre ciência da saúde.",
+      "texto_ar": "في الإصحاح الأول من سفر دانيال، يطلب شاب بعيدًا عن وطنه أن يُعطى هو وأصدقاؤه الخضروات والماء لمدة عشرة أيام، ثم تتم مقارنتهم بأولئك الذين كانوا يأكلون من مائدة الملك. إنها ليست تجربة سريرية. لكنه يعلم شيئًا يحترمه العلم: التجربة بتواضع والمقارنة والنظر إلى النتيجة. وهكذا سندرس سبيرولينا في كريبتولين: دون خوف ودون اتباع الموضة. على سبيل المثال، لم تتمكن المراجعة المنهجية التي أجرتها كالّيلا في عام ألفين واثنين وعشرين من تضمين سوى ثمانية عشر دراسة، وتدعو إلى إجراء المزيد من التجارب. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشيري طبيبك قبل إجراء أي تغييرات. تابعونا على كريبتيولين للحصول على المزيد من العلوم الصحية.",
+      "texto_zh": "在《但以理书》第一章中，一位远离家乡的年轻人请求在十天内只给他和他的朋友们蔬菜和水，然后将他们与那些享用王宫膳食的人进行比较。这不是一项临床试验。但它传达了一种科学所尊崇的理念：谦虚地进行试验、比较并观察结果。这就是我们将在 Cryptuline 中研究螺旋藻的方式：不畏惧，不盲从。 例如，2022 年的卡莱利亚系统综述仅纳入了 18 项研究，并呼吁开展更多试验。请保存此视频，并与可能需要的人分享。在做出任何改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学资讯。",
+      "texto_ko": "다니엘 1장에서는 고향에서 멀리 떨어진 한 청년이 자신과 친구들에게 10일 동안 채소와 물만 주시고, 그 후에는 왕의 식탁에서 음식을 먹는 사람들과 비교해 보라고 요청합니다. 이것은 임상 시험이 아닙니다. 하지만 이 이야기는 과학이 존중하는 것을 보여줍니다. 겸손하게 시도하고, 비교하고, 결과를 살펴보는 것입니다. 이와 같이 우리는 크립툴린에서 스피룰리나를 두려움 없이, 유행에 따르지 않고 연구할 것입니다. 예를 들어, 2022년 칼레야의 체계적 검토에는 18건의 연구만 포함될 수 있었으며, 더 많은 시험이 필요하다고 요청했습니다. 이 동영상을 저장하고 도움이 될 수 있는 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline에서 저희를 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
