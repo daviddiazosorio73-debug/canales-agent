@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-11-26T01:25:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-11-25T17:55:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -67,7 +67,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Europe, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over two hundred and forty-seven million views. But only one took number one. Welcome to Top 10 Social Media, Europe edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Supercars, Formula One in Las Vegas, a Bugatti that won't behave, and one game that took over the conversation all across Europe. This week, a creator with five thousand subscribers sat on the same list as creators with over twenty million. And at the very top? A name you probably won't guess. Welcome to Top 10 Social Media, Europe edition. Today we count down the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the very end, because every number one has a surprise.",
       "tarjeta": {
         "titulo": "TOP 10 · EUROPE",
         "sub": "Week 48"
@@ -77,7 +77,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Europe. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, with the weekly cut every Wednesday at midnight, Lima, Peru time. Let's go.",
+      "texto": "Quick rules before we start. Only videos posted in the last seven days that trended in Europe. One video per creator on each list. Music and news have their own space. Every number comes straight from the official YouTube API, and the weekly cut is every Wednesday at midnight, Lima, Peru time. Ready? Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -89,7 +89,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Coming in at number ten, from Spain, Dagar, with a video posted five days ago. Over five point seven million views. A video over twenty-five minutes long, and people still stayed to watch. It also has seven hundred and two comments.",
+      "texto": "First list: the ten most viewed. Opening the countdown at number ten, from Spain, Dagar, with a Minecraft adventure over twenty-five minutes long. Over five point seven million views.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -98,7 +98,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number nine, PORTIA AI STORY LITH , with a video posted two days ago. Over five point nine million views. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. It got there in just two days."
+      "texto": "Number nine, PORTIA AI STORY LITH, with an AI story of just under three minutes. Over five point nine million views. And this one is not done with us today."
     },
     {
       "id": "v08",
@@ -106,7 +106,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "In position number eight, from United Kingdom, Mat Armstrong MK2, with “Attempting to fix the misfiring bugatti chiron”. Over six point nine million views. A video over forty-two minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number eight, from the United Kingdom, Mat Armstrong MK2, with “ATTEMPTING TO FIX THE MISFIRING BUGATTI CHIRON”. Over forty-two minutes of garage work, and over six point nine million views."
     },
     {
       "id": "v07",
@@ -114,7 +114,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number seven, from Spain, Miguel ASSAL , with a video posted two days ago. Over seven point seven million views. A Short of just thirty-seven seconds. It got there in just two days."
+      "texto": "Number seven, from Spain, Miguel ASSAL, with a thirty-seven second survival Short. Over seven point seven million views."
     },
     {
       "id": "v06",
@@ -122,7 +122,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number six, from Austria, Red Bull, with “Always Keep Going”. Over eight million views. A Short of just thirty seconds. It also has four hundred and sixty-nine comments."
+      "texto": "Number six, from Austria, Red Bull, with “Always Keep Going”. Thirty seconds, and over eight million views."
     },
     {
       "id": "v05",
@@ -130,7 +130,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number five, from Belgium, Blin., with “How to Crack Lucia in GTA 6 Most People Miss This”. Over eight point six million views. And get this: it's a channel with about sixty-two thousand subscribers, playing in the big leagues this week. A Short of just fifty-seven seconds."
+      "texto": "Number five, from Belgium, Blin., with “How to Crack Lucia in GTA 6”. Over eight point six million views, from a channel of about sixty-two thousand subscribers. The first GTA 6 video of the day. Not the last."
     },
     {
       "id": "v04",
@@ -138,7 +138,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number four, FORMULA 1, with “Race Highlights 2026 Las Vegas Grand Prix”. Over ten million views. It also has over eight thousand comments."
+      "texto": "Number four, FORMULA 1, with the race highlights of the twenty twenty-six Las Vegas Grand Prix. Over ten point six million views."
     },
     {
       "id": "v03",
@@ -146,7 +146,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, Mrwhosetheboss, with “Why GTA is a Bigger Deal Than You Think”. Over eleven million views. A video over forty-eight minutes long, and people still stayed to watch. It also has over five thousand comments.",
+      "texto": "And now, the podium. Bronze medal, from the United Kingdom, Mrwhosetheboss, with “Why GTA is a Bigger Deal Than You Think”. Over eleven point four million views.",
       "capitulo": "The podium"
     },
     {
@@ -155,7 +155,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Türkiye, Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Over nineteen million views. A Short of just thirty-six seconds. It also has over three thousand comments."
+      "texto": "Silver medal, from Turkey, Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Thirty-six seconds, and over nineteen million views. Remember this one."
     },
     {
       "id": "v01",
@@ -163,7 +163,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And finally, number one most viewed, SEEDPIT Official, with “Kevin says Seed is TOO SMALL”. Over twenty-eight million views. It was the fastest-growing video on this list: about one hundred and ninety thousand views per hour. A Short of just thirty-nine seconds."
+      "texto": "Drum roll, please. The most viewed video of the week in Europe: SEEDPIT Official, with “Kevin says Seed is TOO SMALL”. A thirty-nine second Short with over twenty-eight million views. Small seed, giant numbers."
     },
     {
       "id": "c10",
@@ -171,7 +171,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Number ten, from Ukraine, Domer Grief, with a video posted three days ago. Over five thousand comments. A video over twenty-five minutes long, and people still stayed to watch. It also has over one point one million views.",
+      "texto": "Second list: the conversation. The ten most commented videos. At number ten, from Ukraine, Domer Grief, with a Minecraft story over twenty-five minutes long. Over five thousand, four hundred comments.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -180,7 +180,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from United Kingdom, Unknown Player, with a video posted three days ago. Over five thousand comments. It also has over one point seven million views."
+      "texto": "Number nine, from the United Kingdom, Unknown Player, with “GTA 6: What Actually Happens At IRREDEEMABLE?”. Over five thousand, six hundred comments."
     },
     {
       "id": "c08",
@@ -188,7 +188,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number eight, from United Kingdom, Mat Armstrong MK2, with “Attempting to fix the misfiring bugatti chiron”. Over five thousand comments. A video over forty-two minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number eight, from the United Kingdom, Mat Armstrong MK2 and the Bugatti Chiron. Over five thousand, seven hundred comments."
     },
     {
       "id": "c07",
@@ -196,7 +196,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number seven, Jazzghost, with a video posted four days ago. Over seven thousand comments. A video over one hundred and thirty-two minutes long, and people still stayed to watch. It also has over four million views."
+      "texto": "Number seven, Jazzghost, with a video of over two hours and twelve minutes. Over seven thousand, six hundred comments."
     },
     {
       "id": "c06",
@@ -204,7 +204,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number six, from United Kingdom, Could You Survive History?, with “GTA 6 Is the Most Expensive Flop Ever Made”. Over seven thousand comments. And get this: it's a channel with about one thousand, nine hundred subscribers, playing in the big leagues this week. It got there in just two days."
+      "texto": "Number six, from the United Kingdom, Could You Survive History?, with “GTA 6 Is the Most Expensive Flop Ever Made”. Over seven thousand, nine hundred comments, from a channel of about one thousand, nine hundred subscribers."
     },
     {
       "id": "c05",
@@ -212,7 +212,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number five, from United Kingdom, DanTDM, with “This Is Why You Hate GTA 6 rant”. Over seven thousand comments. It also has over two point five million views."
+      "texto": "Number five, from the United Kingdom, DanTDM, with “This Is Why You Hate GTA 6”. Over seven thousand, nine hundred comments. GTA 6 divides opinions."
     },
     {
       "id": "c04",
@@ -220,7 +220,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number four, FORMULA 1, with “Race Highlights 2026 Las Vegas Grand Prix”. Over eight thousand comments. It was the fastest-growing video on this list: about one hundred and thirty thousand views per hour. It also has over ten million views."
+      "texto": "Number four, FORMULA 1 and the Las Vegas Grand Prix. Over eight thousand, one hundred comments."
     },
     {
       "id": "c03",
@@ -228,7 +228,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, IAmBeanz, with “GTA 6 Feels Like Something's Off...”. Over nine thousand comments. And get this: it's a channel with about five thousand subscribers, playing in the big leagues this week. It also has over one point six million views."
+      "texto": "Podium time. Bronze medal, from the United Kingdom, IAmBeanz, with “GTA 6 Feels Like Something's Off...”. Over nine thousand, nine hundred comments, from a channel of about five thousand subscribers."
     },
     {
       "id": "c02",
@@ -236,7 +236,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from France, Ninjaxx, with a video posted five days ago. Over thirteen thousand comments. It also has over one point three million views."
+      "texto": "Silver medal, from France, Ninjaxx, with “La fin du duo”. Over thirteen thousand, four hundred comments."
     },
     {
       "id": "c01",
@@ -244,7 +244,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, HYPNOS CR, with a video posted two days ago. Over sixteen thousand comments. It has the best engagement rate on this list: twenty-four out of every hundred viewers liked or commented. A video over thirty minutes long, and people still stayed to watch."
+      "texto": "And here it is. The most commented video of the week in Europe. HYPNOS CR, with a GTA 6 video over thirty minutes long. Over sixteen thousand comments, from just over one hundred and thirty-two thousand views. More comments than likes. That's how you get a community talking."
     },
     {
       "id": "l10",
@@ -252,7 +252,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Coming in at number ten, from Austria, Red Bull, with “Always Keep Going”. Over one hundred and eight thousand likes. A Short of just thirty seconds. It also has over eight million views.",
+      "texto": "And the last list: the love. The ten most liked videos. At number ten, from Austria, Red Bull, with “Always Keep Going”. Over one hundred and eight thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -261,7 +261,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number nine, from France, Ninjaxx, with a video posted five days ago. Over one hundred and eight thousand likes. It has the best engagement rate on this list: nine out of every hundred viewers liked or commented. It also has over one point three million views."
+      "texto": "Number nine, from France, Ninjaxx, with “La fin du duo”. Over one hundred and eight thousand likes."
     },
     {
       "id": "l08",
@@ -269,7 +269,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number eight, FORMULA 1, with “Race Highlights 2026 Las Vegas Grand Prix”. Over one hundred and thirty-one thousand likes. It also has over ten million views."
+      "texto": "Number eight, FORMULA 1, with Las Vegas. Over one hundred and thirty-one thousand likes."
     },
     {
       "id": "l07",
@@ -277,7 +277,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number seven, from United Kingdom, Mrwhosetheboss, with “Why GTA is a Bigger Deal Than You Think”. Over one hundred and thirty-two thousand likes. A video over forty-eight minutes long, and people still stayed to watch. It also has over eleven million views."
+      "texto": "Number seven, from the United Kingdom, Mrwhosetheboss. Over one hundred and thirty-two thousand likes."
     },
     {
       "id": "l06",
@@ -285,7 +285,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number six, SEEDPIT Official, with “Can Kevin FEED Seed to the BIRDS?”. Over one hundred and forty-four thousand likes. It was the fastest-growing video on this list: about one hundred and forty thousand views per hour. A Short of just fifty-six seconds."
+      "texto": "Number six, SEEDPIT Official, now with “Can Kevin FEED Seed to the BIRDS?”. Over one hundred and forty-four thousand likes and over twenty-three million views."
     },
     {
       "id": "l05",
@@ -293,7 +293,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number five, from Spain, Miguel ASSAL , with a video posted two days ago. Over one hundred and fifty thousand likes. A Short of just thirty-seven seconds. It got there in just two days."
+      "texto": "Number five, from Spain, Miguel ASSAL, with his survival Short. Over one hundred and fifty thousand likes."
     },
     {
       "id": "l04",
@@ -301,7 +301,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number four, from Belgium, Blin., with “How to Crack Lucia in GTA 6 Most People Miss This”. Over one hundred and eighty-six thousand likes. And get this: it's a channel with about sixty-two thousand subscribers, playing in the big leagues this week. A Short of just fifty-seven seconds."
+      "texto": "Number four, from Belgium, Blin., with “How to Crack Lucia in GTA 6”. Over one hundred and eighty-six thousand likes."
     },
     {
       "id": "l03",
@@ -309,7 +309,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United Kingdom, Mat Armstrong MK2, with “Attempting to fix the misfiring bugatti chiron”. Over one hundred and ninety-seven thousand likes. A video over forty-two minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "The final podium. Bronze medal, from the United Kingdom, Mat Armstrong MK2 and the Bugatti Chiron. Over one hundred and ninety-seven thousand likes. Three lists, three appearances."
     },
     {
       "id": "l02",
@@ -317,7 +317,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, PORTIA AI STORY LITH , with a video posted two days ago. Over two hundred and ninety-eight thousand likes. It got there in just two days. It also has over five point nine million views."
+      "texto": "Silver medal, PORTIA AI STORY LITH. Remember number nine in views? Over two hundred and ninety-eight thousand likes. So close to the top. But not quite."
     },
     {
       "id": "l01",
@@ -325,7 +325,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most liked, from Türkiye, Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Over three hundred and three thousand likes. A Short of just thirty-six seconds. It also has over nineteen million views."
+      "texto": "Drum roll, please. The most liked video of the week in Europe comes from Turkey. Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Over three hundred and three thousand likes. Silver in views, gold in love."
     },
     {
       "id": "cierre",
