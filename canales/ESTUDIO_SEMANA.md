@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-25 00:29 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-25 09:39 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | lun 23 | [Dos principios en guerra: dónde nació el egoísmo | Mayordomí](https://youtu.be/ELfJtU5uM6Q) | [fijar](https://studio.youtube.com/video/ELfJtU5uM6Q/comments) | [editar](https://studio.youtube.com/video/ELfJtU5uM6Q/edit) | — | — |
 | mar 24 | [Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) | [fijar](https://studio.youtube.com/video/_-cCZx0ORcw/comments) | [editar](https://studio.youtube.com/video/_-cCZx0ORcw/edit) | — | sí |
 
-**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: Una torre cayó sobre 18 personas. Jesús respondió esto 🏚️ #s](https://youtube.com/shorts/v7WiWr7s3d0)
+**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: El discípulo que manejaba el dinero… y robaba 👝 #shorts](https://youtube.com/shorts/jJwT_4dzRTI)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: ¿Alguien en el cielo entiende lo que sientes? 💭 #shorts](https://youtube.com/shorts/wt1KFQJj2lo)
+**Escuchar:** [Short: El disfraz más peligroso de la iglesia 🐺 #shorts](https://youtube.com/shorts/YdQ2D-aOEyQ)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Por que Jesus precisava ser igual a nós? #shorts](https://youtube.com/shorts/Wh4kcMTZCz4)
+**Escuchar:** [Short: 9 sinais de que Deus está agindo numa vida 🍇 #shorts](https://youtube.com/shorts/yVE7LlOEvI0)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 | dom 22 | [Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) | [fijar](https://studio.youtube.com/video/n9Bqd7M2oI4/comments) | [editar](https://studio.youtube.com/video/n9Bqd7M2oI4/edit) | — | sí |
 | mar 24 | [Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) | [fijar](https://studio.youtube.com/video/R7AwvjAMLSA/comments) | [editar](https://studio.youtube.com/video/R7AwvjAMLSA/edit) | — | sí |
 
-**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: La televisión y el ejercicio: el giro que casi nadie conoce ](https://youtube.com/shorts/wUZqihprCJU)
+**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: Te sientas poco pero no te mueves: el dato que sorprende #sh](https://youtube.com/shorts/_tmmHsGgNnI)
 
