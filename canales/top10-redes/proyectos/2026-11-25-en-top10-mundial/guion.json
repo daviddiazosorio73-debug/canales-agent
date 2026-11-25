@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-11-26T01:25:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-11-25T17:55:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "We toured Oceania, Asia, Africa, Europe and the Americas. Now, the ranking that brings it all together: this week's global Top 10. This week in the World, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over six hundred and seventy-nine million views. But only one took number one. Welcome to Top 10 Social Media, the World edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "We toured Oceania, Asia, Africa, Europe and the Americas. Now the champions of every continent meet in one ranking. Superstars with hundreds of millions of subscribers against small channels with just a few thousand. One video game on every continent, and a trailer the whole world talked about. Only one video can be number one in the world. Welcome to Top 10 Social Media, the World edition. Today we count down the ten most viewed, the ten most commented and the ten most liked videos of the week on the planet. Stay until the very end, because the final answer might surprise you.",
       "tarjeta": {
         "titulo": "TOP 10 · THE WORLD",
         "sub": "Week 48"
@@ -76,7 +76,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The world rules: the top three of every list from every continent compete here, the same videos and the same numbers from this Sunday's world tour. One video per creator on each list. Every number comes from the official YouTube API. Let's go.",
+      "texto": "The world rules: the top three of every list from every continent compete here, with the same videos and the same numbers from this week's world tour. One video per creator on each list. Every number comes from the official YouTube API, with the weekly cut every Wednesday at midnight, Lima, Peru time. Ready? Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. Coming in at number ten, from Egypt, Omar kotb, with a video posted three days ago. Over eighteen million views. A Short of just nineteen seconds. It also has over eighty-seven thousand likes.",
+      "texto": "First list: the ten most viewed in the world. Opening the global countdown at number ten, from Egypt, Omar kotb. A nineteen-second Short with over eighteen point seven million views. Africa enters the world stage.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, from Türkiye, Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Over nineteen million views. A Short of just thirty-six seconds. It also has over three thousand comments."
+      "texto": "Number nine, from Turkey, Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Thirty-six seconds and over nineteen million views. Europe's champion of likes, now in the world ranking."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number eight, from South Korea, RESCENE, with a video posted four days ago. Over nineteen million views. A Short of just ten seconds. It also has over one thousand comments."
+      "texto": "Number eight, from South Korea, RESCENE, with “2026 MAMA”. Just ten seconds, and over nineteen point eight million views."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number seven, from India, Maddock Films, with “Sisuse me!!! Shraddha Kapoor Eetha in cinemas 4th December”. Over twenty-seven million views. It also has over one thousand comments."
+      "texto": "Number seven, from India, Maddock Films, with a promo featuring Shraddha Kapoor, for a film in cinemas on December fourth. Over twenty-seven point two million views."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Next up, number six, SEEDPIT Official, with “Kevin says Seed is TOO SMALL”. Over twenty-eight million views. A Short of just thirty-nine seconds. It also has four hundred and one comments."
+      "texto": "Number six, SEEDPIT Official, with “Kevin says Seed is TOO SMALL”. Europe's most viewed video, with over twenty-eight million views."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number five, Goodluck Amarachi Yusuf, with “Our new pediatrician taught me this”. Over thirty-one million views. And get this: it's a channel with about thirteen thousand subscribers, playing in the big leagues this week. A Short of just eighteen seconds."
+      "texto": "Number five, and this is the story of the week. Goodluck Amarachi Yusuf, with “Our new pediatrician taught me this”. Eighteen seconds, over thirty-one million views, from a channel of about thirteen thousand subscribers. Number one in Africa, number five in the world."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number four, from United States, VerrTV, with “Couch Glitch For New GTA”. Over thirty-four million views. And get this: it's a channel with about one hundred and ten thousand subscribers, playing in the big leagues this week. A Short of just twenty-one seconds."
+      "texto": "Number four, from the United States, VerrTV, with a twenty-one second Short about a couch and GTA. Over thirty-four million views, from a channel of about one hundred and thirteen thousand subscribers."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from India, Techno Gamerz, with “My first day in vice city gta 6 gameplay”. Over thirty-six million views. A video over one hundred and twenty-seven minutes long, and people still stayed to watch. It also has over fifty-four thousand comments.",
+      "texto": "And now, the world podium. Bronze medal, from India, Techno Gamerz, with “MY FIRST DAY IN VICE CITY”. Over two hours of GTA 6 gameplay, and over thirty-six million views. The king of Asia, on the world podium. And we'll hear from him again.",
       "capitulo": "The podium"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from United States, Marvel Entertainment, with “Avengers: Doomsday Final Trailer In Theaters December 18”. Over fifty million views. It was the fastest-growing video on this list: about one million views per hour. It has the best engagement rate on this list: three out of every hundred viewers liked or commented."
+      "texto": "Silver medal, from the United States, Marvel Entertainment, with the final trailer of Avengers: Doomsday, in theaters December eighteenth. Over fifty million views. Fifty million. And still not number one."
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most viewed, from United States, MrBeast Gaming, with “I Survived 100 Hours In GTA 6”. Over seventy-two million views. A video over thirty minutes long, and people still stayed to watch. It also has over seventeen thousand comments."
+      "texto": "Drum roll, please. The most viewed video of the week on the planet, from the United States: MrBeast Gaming, with “I Survived 100 Hours In GTA 6”. Over seventy-two million views. The game everyone is talking about, on top of the world."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. At number ten, from Kenya, Bahati Kenya, with a video posted five days ago. Over eight thousand comments. It also has over three point one million views.",
+      "texto": "Second list: the conversation. The ten most commented videos in the world. At number ten, from Kenya, Bahati Kenya, with “ZOZA” by Morgan Bahati. Over eight thousand, six hundred comments. Africa's champion of comments and likes makes it to the global list.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number nine, from United Kingdom, IAmBeanz, with “GTA 6 Feels Like Something's Off...”. Over nine thousand comments. And get this: it's a channel with about five thousand subscribers, playing in the big leagues this week. It also has over one point six million views."
+      "texto": "Number nine, from the United Kingdom, IAmBeanz, with “GTA 6 Feels Like Something's Off...”. Over nine thousand, nine hundred comments, from a channel of about five thousand subscribers. Five thousand subscribers, world ranking."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "At number eight, from France, Ninjaxx, with a video posted five days ago. Over thirteen thousand comments. It also has over one point three million views."
+      "texto": "Number eight, from France, Ninjaxx, with “La fin du duo”. Over thirteen thousand, four hundred comments."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number seven, from India, Shivang Mini, with a video posted one day ago. Over fourteen thousand comments. A video over twenty-three minutes long, and people still stayed to watch. It got there in just one day."
+      "texto": "Number seven, from India, Shivang Mini, with a Roblox Steal an Egg video. Over fourteen thousand, four hundred comments."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number six, HYPNOS CR, with a video posted two days ago. Over sixteen thousand comments. It has the best engagement rate on this list: twenty-four out of every hundred viewers liked or commented. A video over thirty minutes long, and people still stayed to watch."
+      "texto": "Number six, HYPNOS CR, with a GTA 6 video over thirty minutes long. Over sixteen thousand comments, from about one hundred and thirty-two thousand views. Europe's most talked-about video."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number five, from Japan, なにわ男子, with a video posted three days ago. Over twenty thousand comments. It also has over one point four million views."
+      "texto": "Number five, from Japan, なにわ男子, with their official music video. Over twenty thousand, four hundred comments."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "In position number four, from United States, Asmongold TV , with “The GTA 6 backlash is getting out of hand..”. Over twenty-seven thousand comments. It also has over five point one million views."
+      "texto": "Number four, from the United States, Asmongold TV, with “The GTA 6 backlash is getting out of hand”. Over twenty-seven thousand comments."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United States, skibidi, with “skibidi toilet 83 part 2”. Over forty-one thousand comments. It also has over nine point three million views."
+      "texto": "World podium. Bronze medal, from the United States, skibidi, with “skibidi toilet 83 (part 2)”. Over forty-one thousand comments."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Techno Gamerz, with “My first day in vice city gta 6 gameplay”. Over fifty-four thousand comments. A video over one hundred and twenty-seven minutes long, and people still stayed to watch. It also has over thirty-six million views."
+      "texto": "Silver medal, from India, Techno Gamerz, with “MY FIRST DAY IN VICE CITY”. Over fifty-four thousand comments. Bronze in views, silver in comments. But someone talked even louder."
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And finally, number one most commented, from United States, Marvel Entertainment, with “Avengers: Doomsday Final Trailer In Theaters December 18”. Over ninety-two thousand comments. It was the fastest-growing video on this list: about one million views per hour. It got there in just two days."
+      "texto": "And here it is. The most commented video of the week on the planet, from the United States: Marvel Entertainment, with the final trailer of Avengers: Doomsday. Over ninety-two thousand comments. The whole world had something to say."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. In position number ten, Bloxy Productions, with “Why You Exist.”. Over one hundred and seventy-seven thousand likes. It also has over three point seven million views.",
+      "texto": "And the last list: the love. The ten most liked videos in the world. At number ten, Bloxy Productions, with “Why You Exist.”. Over one hundred and seventy-seven thousand likes. The most liked video in Oceania, now in the global ranking.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from United Kingdom, Mat Armstrong MK2, with “Attempting to fix the misfiring bugatti chiron”. Over one hundred and ninety-seven thousand likes. A video over forty-two minutes long, and people still stayed to watch. It got there in just two days."
+      "texto": "Number nine, from the United Kingdom, Mat Armstrong MK2, with the misfiring Bugatti Chiron. Over one hundred and ninety-seven thousand likes."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number eight, from India, resham info, with a video posted five days ago. Over two hundred and sixty-seven thousand likes. And get this: it's a channel with about forty-seven thousand subscribers, playing in the big leagues this week. It also has over eight point three million views."
+      "texto": "Number eight, from India, resham info, explaining how the Kolkata underwater metro was built. Over two hundred and sixty-seven thousand likes, from a channel of about forty-seven thousand subscribers."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number seven, PORTIA AI STORY LITH , with a video posted two days ago. Over two hundred and ninety-eight thousand likes. It has the best engagement rate on this list: five out of every hundred viewers liked or commented. It got there in just two days."
+      "texto": "Number seven, PORTIA AI STORY LITH. Over two hundred and ninety-eight thousand likes."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number six, from Türkiye, Mr Spring, with “Did GTA 6 Finally Fix BLOCKED Car Doors?”. Over three hundred and three thousand likes. A Short of just thirty-six seconds. It also has over nineteen million views."
+      "texto": "Number six, from Turkey, Mr Spring. Over three hundred and three thousand likes. Second list in the world ranking."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, from India, Aman Sharma , with a video posted five days ago. Over three hundred and thirteen thousand likes. It also has over nine point two million views."
+      "texto": "Number five, from India, Aman Sharma, with “How Maharashtra Brought a Dead River Back to Life!”. Over three hundred and thirteen thousand likes."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number four, from United States, MrBeast, with “Can I Beat Magnus Carlsen?”. Over six hundred and thirty-three thousand likes. A Short of just thirty-nine seconds. It also has over twenty million views."
+      "texto": "Number four, from the United States, MrBeast, with “Can I Beat Magnus Carlsen?”. Thirty-nine seconds, and over six hundred and thirty-three thousand likes."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from United States, MrBeast Gaming, with “I Survived 100 Hours In GTA 6”. Over seven hundred and seventy-four thousand likes. A video over thirty minutes long, and people still stayed to watch. It also has over seventy-two million views."
+      "texto": "The final world podium. Bronze medal, from the United States, MrBeast Gaming, our number one in views. Over seven hundred and seventy-four thousand likes."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Techno Gamerz, with “My first day in vice city gta 6 gameplay”. Over one million likes. A video over one hundred and twenty-seven minutes long, and people still stayed to watch. It also has over thirty-six million views."
+      "texto": "Silver medal, from India, Techno Gamerz. Over one million likes. One million, and still not first. Can you guess who is?"
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most liked, from United States, Marvel Entertainment, with “Avengers: Doomsday Final Trailer In Theaters December 18”. Over one point five million likes. It was the fastest-growing video on this list: about one million views per hour. It got there in just two days."
+      "texto": "Drum roll, please. The most liked video of the week on the planet, from the United States: Marvel Entertainment, with the final trailer of Avengers: Doomsday. Over one million, five hundred thousand likes. Silver in views, gold in comments, gold in likes. The world has spoken."
     },
     {
       "id": "cierre",
