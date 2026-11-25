@@ -36,7 +36,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-11-29T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "If something is good, is more better? The honey of Proverbs and spirulina #shorts",
+        "description": "The honey of Proverbs and spirulina: good things, in moderation. Proverbs 25:16 (paraphrase). 📚 Sources (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina – An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (online: Aug-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852 Educational content for people over 18 years of age. This is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthesized voice. Cryptuline."
+      },
+      "pt": {
+        "title": "Se algo é bom, mais é melhor? O mel de Provérbios e a espirulina #shorts",
+        "description": "O mel de Provérbios e a espirulina: o que é bom, com moderação. Provérbios 25:16 (paráfrase). 📚 Fontes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina – An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (online: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte o seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "إذا كان شيء ما جيدًا، فهل المزيد منه أفضل؟ عسل أمثال سليمان والسبيرولينا #shorts",
+        "description": "عسل أمثال الكتاب المقدس وسبيرولينا: الأشياء الجيدة، باعتدال. سفر الأمثال 25:16 (إعادة صياغة). 📚 المصادر (PubMed):\n• غوغنا س، كور ج، شارما ك، براساد ر، سينغ ج، بهاداريا ف، وآخرون. السبيرولينا - بكتيريا زرقاء صالحة للأكل ذات فوائد صحية علاجية محتملة وعواقب سمية. مجلة الجمعية الأمريكية للتغذية. 2023؛42(6):559-572 (على الإنترنت: أغسطس 2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852 محتوى تعليمي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشيري طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتولين."
+      },
+      "zh-Hans": {
+        "title": "如果某样东西很好，那么更多就更好吗？箴言中的蜂蜜和螺旋藻 #shorts",
+        "description": "《箴言》中的蜂蜜和螺旋藻：好东西，要适量。《箴言》25:16（意译）。📚 资料来源（PubMed）：\n• Gogna S、Kaur J、Sharma K、Prasad R、Singh J、Bhadariya V 等。螺旋藻——一种具有潜在治疗保健益处和毒理学后果的可食用蓝藻。《美国营养协会杂志》2023 年；42(6)：559-572（在线发布：2022 年 8 月）。https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852 面向 18 岁以上人士的教育内容。本内容不能替代医疗咨询：在改变饮食、体育活动或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "좋은 것이라면, 더 많은 것이 더 나을까요? 잠언에 나오는 꿀과 스피룰리나 #shorts",
+        "description": "잠언에 나오는 꿀과 스피룰리나: 좋은 것도 적당히. 잠언 25:16(의미 전달). 📚 출처(PubMed):\n• 고그나 S, 카우르 J, 샤르마 K, 프라사드 R, 싱 J, 바다리야 V, 외. 스피룰리나 - 잠재적인 치료적 건강상의 이점과 독성학적 결과가 있는 식용 남조류. J Am Nutr Assoc. 2023;42(6):559-572 (온라인: 2022년 8월). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식단, 신체 활동 또는 치료를 변경하기 전에 의사와 상의하세요. 인공 음성 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -47,7 +69,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "honey jar wooden spoon"
-      }
+      },
+      "texto_en": "If something is good, is more of it better? The Bible answers with an example of honey.",
+      "texto_pt": "Se algo é bom, mais é melhor? A Bíblia responde com um exemplo do mel.",
+      "texto_ar": "إذا كان الشيء جيدًا، فهل المزيد منه أفضل؟ يجيب الكتاب المقدس بمثال العسل.",
+      "texto_zh": "如果某样东西是好的，那么更多就更好吗？圣经用蜂蜜的例子来回答这个问题。",
+      "texto_ko": "어떤 것이 좋다면, 더 많은 것이 더 나을까요? 성경은 꿀의 예를 들어 답합니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "green spirulina powder small spoon"
-      }
+      },
+      "texto_en": "In Proverbs 25, verse 16, the advice is simple: If you find honey, eat just enough, or you will have too much and vomit it up. Today at Cryptuline, we’re launching a series on the science of spirulina, and we’re starting with dosage. A 2022 review by Gogna mentions a safe range of three to ten grams per day for adults, and warns of possible adverse effects from toxins such as microcystins. Good things, in moderation. Today at 6:00 p.m. Lima time, the full video: temperance, spirulina, and a ten-day test in the Bible. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "Em Provérbios 25, versículo 16, o conselho é simples: se você encontrou mel, coma o suficiente para você, para não ficar enjoado. Hoje, na Cryptuline, começamos uma série sobre a ciência da espirulina, e começamos pela dosagem. Uma revisão de Gogna, de 2022, menciona uma faixa de segurança de três a dez gramas por dia para adultos e alerta para possíveis efeitos adversos de toxinas como as microcistinas. O que é bom, com moderação. Hoje, às 18h, horário de Lima, o vídeo completo: temperança, espirulina e um teste de dez dias na Bíblia. Salve este vídeo e compartilhe com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos no Cryptuline para ver mais conteúdos sobre ciência da saúde.",
+      "texto_ar": "في سفر الأمثال خمسة وعشرون، الآية السادسة عشرة، النصيحة بسيطة: إذا وجدت عسلاً، فكل ما يكفيك، لئلا تشبع منه. اليوم نبدأ في كريبتيولين سلسلة عن علم سبيرولينا، ونبدأ بالكمية. تذكر مراجعة أجراها غونيا، في عام ألفين واثنين وعشرين، نطاقًا آمنًا للبالغين يتراوح بين ثلاثة وعشرة جرامات يوميًا، وتحذر من الآثار الضارة المحتملة للسموم مثل الميكروسيستينات. الشيء الجيد، باعتدال. اليوم في الساعة السادسة مساءً بتوقيت ليما، الفيديو الكامل: الاعتدال والسبيرولينا واختبار لمدة عشرة أيام في الكتاب المقدس. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشر طبيبك قبل إجراء أي تغييرات. تابعونا على Cryptuline لمزيد من العلوم الصحية.",
+      "texto_zh": "在《箴言》第二十五章第十六节中，给出的建议很简单：你得了蜜，就吃够用，免得你饱足厌弃。今天，我们在 Cryptuline 开启一个关于螺旋藻科学的系列，首先从用量开始。Gogna 在 2022 年的一篇综述中提到，成人每日的安全摄入量为 3 至 10 克，并警告微囊藻毒素等毒素可能产生的不良反应。 好事要适度。今天下午 6 点（利马时间），完整视频：节制、螺旋藻和圣经中的十天试验。请保存此视频，并与可能从中受益的人分享。在做出任何改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学知识。",
+      "texto_ko": "잠언 25장 16절의 조언은 간단합니다. 꿀을 찾았다면, 너무 많이 먹어 질리지 않도록 적당히만 먹으라는 것입니다. 오늘 Cryptuline에서 스피룰리나 과학에 대한 시리즈를 시작하며, 먼저 복용량부터 살펴보겠습니다. 2022년 고냐(Gogna)의 한 검토에서는 성인의 경우 하루 3~10g을 안전 범위로 언급하고, 마이크로시스틴과 같은 독소로 인한 부작용 가능성에 대해 경고합니다. 좋은 것은 적당히. 오늘 오후 6시(리마 시간)에 전체 동영상이 공개됩니다. 절제, 스피룰리나, 그리고 성경에 나오는 10일간의 시험에 대해 다룹니다. 이 동영상을 저장하고 도움이 될 만한 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline에서 저희를 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
