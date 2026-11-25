@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-11-26T01:25:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-11-25T17:55:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -66,7 +66,7 @@
       "id": "apertura",
       "capitulo": "Apertura",
       "emocion": "gancho",
-      "texto": "Esta semana, en América, millones de personas vieron, comentaron y compartieron sin parar. Entre los treinta videos de este conteo suman más de setecientos veinticinco millones de vistas. Pero solo uno se quedó con el número uno. Bienvenidos a Top 10 Redes Sociales, edición América. Hoy, los diez videos más vistos, los diez más comentados y los diez con más likes de la semana. Quédate hasta el final, porque el número uno no lo vas a adivinar.",
+      "texto": "Cien horas dentro de un videojuego. Un tráiler que puso a hablar a todo un continente. Y un canal de apenas doce mil suscriptores compitiendo con los gigantes más grandes de YouTube. Esta semana, en América, las cifras fueron de otro planeta, y el número uno de cada lista tiene su propia historia. Bienvenidos a Top 10 Redes Sociales, edición América. Hoy contamos los diez videos más vistos, los diez más comentados y los diez con más likes de la semana. Quédate hasta el final, porque el número uno no lo vas a adivinar.",
       "tarjeta": {
         "titulo": "TOP 10 · AMÉRICA",
         "sub": "Semana 48"
@@ -76,7 +76,7 @@
       "id": "reglas",
       "capitulo": "Cómo contamos",
       "emocion": "agil",
-      "texto": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en América. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, con corte cada miércoles a las cero horas, hora de Lima, Perú. Empecemos.",
+      "texto": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en América. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, con corte cada miércoles a las cero horas, hora de Lima, Perú. ¿Listos? Empecemos.",
       "tarjeta": {
         "titulo": "LAS REGLAS",
         "sub": "YouTube API · 7 días"
@@ -88,7 +88,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Empezamos con los diez videos más vistos. Llegamos al puesto diez, desde México, Fede Vigevani, con «Jugué gta 6 por primera vez». Más de quince millones de vistas. Un video de más de treinta y un minutos, y aun así la gente se quedó a verlo. Además suma más de veinticinco mil comentarios.",
+      "texto": "Primera lista: los diez más vistos. Abre el conteo en el puesto diez, desde México, Fede Vigevani, jugando GTA seis por primera vez. Más de treinta y un minutos de video y más de quince millones de vistas. Y es apenas el puesto diez.",
       "capitulo": "Top 10 más vistos"
     },
     {
@@ -97,7 +97,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En la posición número nueve, desde Estados Unidos, Dart Games, con un video publicado hace cuatro días. Más de quince millones de vistas. Y ojo: es un canal de unos doce mil suscriptores que esta semana jugó en las grandes ligas. Un Short de apenas treinta y nueve segundos."
+      "texto": "Puesto nueve, desde Estados Unidos, Dart Games, con un Short de treinta y nueve segundos sobre un procesador y un lápiz. Más de quince millones setecientas mil vistas, de un canal de unos doce mil suscriptores. El gran batacazo de la semana."
     },
     {
       "id": "v08",
@@ -105,7 +105,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Ahora, el número ocho, desde Estados Unidos, Prime Video India, con un video publicado hace dos días. Más de dieciséis millones de vistas. Lo logró en apenas dos días. Además suma más de diez mil comentarios."
+      "texto": "Puesto ocho, Prime Video India, con el tráiler oficial de la quinta temporada de Panchayat. Más de dieciséis millones de vistas."
     },
     {
       "id": "v07",
@@ -113,7 +113,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Llegamos al puesto siete, desde Argentina, Ian Lucas, con «Baje a los backrooms por primera vez». Más de dieciséis millones de vistas. Un video de más de veintiséis minutos, y aun así la gente se quedó a verlo. Además suma más de diecinueve mil comentarios."
+      "texto": "Puesto siete, desde Argentina, Ian Lucas, bajando a los Backrooms por primera vez. Casi veintisiete minutos y más de dieciséis millones de vistas. Guarda este nombre: volverá a aparecer."
     },
     {
       "id": "v06",
@@ -121,7 +121,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En la posición número seis, desde Estados Unidos, Sony Pictures Entertainment, con un video publicado hace seis días. Más de diecinueve millones de vistas. Además suma más de mil comentarios."
+      "texto": "Puesto seis, desde Estados Unidos, Sony Pictures Entertainment, con el teaser oficial de «The Nightingale». Más de diecinueve millones seiscientas mil vistas."
     },
     {
       "id": "v05",
@@ -129,7 +129,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Ahora, el número cinco, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de veinte millones de vistas. Un Short de apenas treinta y nueve segundos. Además suma más de ocho mil comentarios."
+      "texto": "Puesto cinco, desde Estados Unidos, MrBeast, con «Can I Beat Magnus Carlsen?». Treinta y nueve segundos y más de veinte millones setecientas mil vistas. Sí, MrBeast en el puesto cinco. Imagina lo que viene."
     },
     {
       "id": "v04",
@@ -137,7 +137,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "En el puesto cuatro, desde Estados Unidos, Mindova, con un video publicado hace cuatro días. Más de veintinueve millones de vistas. Un Short de apenas dieciséis segundos. Además suma cuatrocientos sesenta y cuatro comentarios."
+      "texto": "Puesto cuatro, desde Estados Unidos, Mindova, con «She Knew Exactly What To Do». Dieciséis segundos y más de veintinueve millones de vistas."
     },
     {
       "id": "v03",
@@ -145,7 +145,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, VerrTV, con un video publicado hace cuatro días. Más de treinta y cuatro millones de vistas. Y ojo: es un canal de unos ciento diez mil suscriptores que esta semana jugó en las grandes ligas. Un Short de apenas veintiún segundos.",
+      "texto": "Llegamos al podio. Medalla de bronce, desde Estados Unidos, VerrTV, con un Short de veintiún segundos sobre un sofá y GTA. Más de treinta y cuatro millones de vistas, de un canal de unos ciento trece mil suscriptores.",
       "capitulo": "El podio"
     },
     {
@@ -154,7 +154,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, Marvel Entertainment, con un video publicado hace dos días. Más de cincuenta millones de vistas. Fue el que más rápido creció de esta lista: cerca de un millón vistas por hora. Tiene la mejor tasa de interacción de esta lista: tres de cada cien personas dieron like o comentaron."
+      "texto": "Medalla de plata, desde Estados Unidos, Marvel Entertainment, con el tráiler final de Avengers: Doomsday, en cines el dieciocho de diciembre. Más de cincuenta millones de vistas. Cincuenta millones. Y aun así, no es el número uno."
     },
     {
       "id": "v01",
@@ -162,7 +162,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "Redoble de tambores. El número uno de los más vistos, desde Estados Unidos, MrBeast Gaming, con un video publicado hace cinco días. Más de setenta y dos millones de vistas. Un video de más de treinta minutos, y aun así la gente se quedó a verlo. Además suma más de diecisiete mil comentarios."
+      "texto": "Redoble de tambores. El video más visto de la semana en América, desde Estados Unidos: MrBeast Gaming, con «I Survived 100 Hours In GTA 6». Más de setenta y dos millones de vistas. El juego del momento, en el canal del momento."
     },
     {
       "id": "c10",
@@ -170,7 +170,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Pasamos a la conversación: los diez videos más comentados. Llegamos al puesto diez, Paulino Razo, con «Estamos atrapados en Singapur en la Luna de Miel!!». Más de diecisiete mil comentarios. Además suma más de nueve coma nueve millones de vistas.",
+      "texto": "Segunda lista: la conversación. Los diez videos más comentados. En el puesto diez, Paulino Razo, atrapados en Singapur en plena luna de miel. Más de diecisiete mil comentarios.",
       "capitulo": "Top 10 más comentados"
     },
     {
@@ -179,7 +179,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Puesto nueve, desde Estados Unidos, MrBeast Gaming, con un video publicado hace cinco días. Más de diecisiete mil comentarios. Un video de más de treinta minutos, y aun así la gente se quedó a verlo. Además suma más de setenta y dos millones de vistas."
+      "texto": "Puesto nueve, desde Estados Unidos, MrBeast Gaming y sus cien horas en GTA seis. Más de diecisiete mil novecientos comentarios."
     },
     {
       "id": "c08",
@@ -187,7 +187,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto ocho, desde Argentina, Ian Lucas, con «Baje a los backrooms por primera vez». Más de diecinueve mil comentarios. Un video de más de veintiséis minutos, y aun así la gente se quedó a verlo. Además suma más de dieciséis millones de vistas."
+      "texto": "Puesto ocho, desde Argentina, Ian Lucas y los Backrooms. Más de diecinueve mil comentarios."
     },
     {
       "id": "c07",
@@ -195,7 +195,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto siete, desde Estados Unidos, Lord Frogmire, con un video publicado hace cinco días. Más de diecinueve mil comentarios. Y ojo: es un canal de unos sesenta y dos mil suscriptores que esta semana jugó en las grandes ligas. Un video de más de veintitrés minutos, y aun así la gente se quedó a verlo."
+      "texto": "Puesto siete, desde Estados Unidos, Lord Frogmire, con una crítica dura a GTA seis. Más de diecinueve mil doscientos comentarios, de un canal de unos sesenta y dos mil suscriptores. GTA seis divide opiniones."
     },
     {
       "id": "c06",
@@ -203,7 +203,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número seis, desde Estados Unidos, Asmongold Clips, con un video publicado hace cuatro días. Más de diecinueve mil comentarios. Además suma más de cuatro coma nueve millones de vistas."
+      "texto": "Puesto seis, desde Estados Unidos, Asmongold Clips, con «GTA 6 User Reviews Are Finally Out». Más de diecinueve mil ochocientos comentarios."
     },
     {
       "id": "c05",
@@ -211,7 +211,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En la posición número cinco, desde Estados Unidos, CoryxKenshin, con un video publicado hace un día. Más de veintitrés mil comentarios. Tiene la mejor tasa de interacción de esta lista: ocho de cada cien personas dieron like o comentaron. Un video de más de noventa y cuatro minutos, y aun así la gente se quedó a verlo."
+      "texto": "Puesto cinco, desde Estados Unidos, CoryxKenshin, con «GTA 6 #2», un video de más de una hora y treinta y cuatro minutos. Más de veintitrés mil setecientos comentarios."
     },
     {
       "id": "c04",
@@ -219,7 +219,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En la posición número cuatro, desde México, Fede Vigevani, con «Jugué gta 6 por primera vez». Más de veinticinco mil comentarios. Un video de más de treinta y un minutos, y aun así la gente se quedó a verlo. Además suma más de quince millones de vistas."
+      "texto": "Puesto cuatro, desde México, Fede Vigevani y su primera partida de GTA seis. Más de veinticinco mil quinientos comentarios."
     },
     {
       "id": "c03",
@@ -227,7 +227,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, Asmongold TV , con un video publicado hace cuatro días. Más de veintisiete mil comentarios. Además suma más de cinco coma uno millones de vistas."
+      "texto": "Hora del podio. Medalla de bronce, desde Estados Unidos, Asmongold TV, con «The GTA 6 backlash is getting out of hand». Más de veintisiete mil comentarios."
     },
     {
       "id": "c02",
@@ -235,7 +235,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, skibidi, con un video publicado hace cinco días. Más de cuarenta y uno mil comentarios. Además suma más de nueve coma tres millones de vistas."
+      "texto": "Medalla de plata, desde Estados Unidos, skibidi, con «skibidi toilet 83 (part 2)». Más de cuarenta y un mil comentarios. Una comunidad que no se queda callada. Pero hay alguien todavía más arriba."
     },
     {
       "id": "c01",
@@ -243,7 +243,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Y ahora sí, el número uno de los más comentados, desde Estados Unidos, Marvel Entertainment, con un video publicado hace dos días. Más de noventa y dos mil comentarios. Fue el que más rápido creció de esta lista: cerca de un millón vistas por hora. Lo logró en apenas dos días."
+      "texto": "Y aquí está. El video más comentado de la semana en América, desde Estados Unidos: Marvel Entertainment, con el tráiler final de Avengers: Doomsday. Más de noventa y dos mil comentarios. Más del doble que el segundo lugar."
     },
     {
       "id": "l10",
@@ -251,7 +251,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Y la última lista: los diez videos con más likes. En la posición número diez, desde Estados Unidos, VerrTV, con un video publicado hace cuatro días. Más de trescientos mil likes. Y ojo: es un canal de unos ciento diez mil suscriptores que esta semana jugó en las grandes ligas. Un Short de apenas veintiún segundos.",
+      "texto": "Y la última lista: el cariño. Los diez videos con más likes. En el puesto diez, desde Estados Unidos, VerrTV, con el sofá y GTA. Más de trescientos mil likes.",
       "capitulo": "Top 10 con más likes"
     },
     {
@@ -260,7 +260,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "En el puesto nueve, desde Estados Unidos, Dart Games, con un video publicado hace cuatro días. Más de trescientos trece mil likes. Y ojo: es un canal de unos doce mil suscriptores que esta semana jugó en las grandes ligas. Un Short de apenas treinta y nueve segundos."
+      "texto": "Puesto nueve, desde Estados Unidos, Dart Games, el lápiz y el procesador. Más de trescientos trece mil likes. Doce mil suscriptores, dos listas."
     },
     {
       "id": "l08",
@@ -268,7 +268,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Puesto ocho, desde Brasil, Natan por Aí, con un video publicado hace cuatro días. Más de trescientos veinticinco mil likes. Además suma más de siete coma dos millones de vistas."
+      "texto": "Puesto ocho, desde Brasil, Natan por Aí, con «IMPOSSÍVEL ENTRAR NA PISCINA», un Short de ochenta y seis segundos. Más de trescientos veinticinco mil likes."
     },
     {
       "id": "l07",
@@ -276,7 +276,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Ahora, el número siete, desde Estados Unidos, Jay The Wrap Specialist, con un video publicado hace cuatro días. Más de trescientos cuarenta y dos mil likes. Además suma más de ocho coma nueve millones de vistas."
+      "texto": "Puesto siete, desde Estados Unidos, Jay The Wrap Specialist, con un vinilo de GTA seis en la vida real. Más de trescientos cuarenta y dos mil likes."
     },
     {
       "id": "l06",
@@ -284,7 +284,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Llegamos al puesto seis, desde Canadá, Top 10 Talent, con un video publicado hace cuatro días. Más de trescientos sesenta y siete mil likes. Además suma más de catorce millones de vistas."
+      "texto": "Puesto seis, desde Canadá, Top 10 Talent. Más de trescientos sesenta y siete mil likes y más de catorce millones de vistas."
     },
     {
       "id": "l05",
@@ -292,7 +292,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Puesto cinco, desde Argentina, Ian Lucas, con «Baje a los backrooms por primera vez». Más de trescientos sesenta y nueve mil likes. Un video de más de veintiséis minutos, y aun así la gente se quedó a verlo. Además suma más de dieciséis millones de vistas."
+      "texto": "Puesto cinco, desde Argentina, Ian Lucas. Tercera lista, tercera aparición. Más de trescientos sesenta y nueve mil likes."
     },
     {
       "id": "l04",
@@ -300,7 +300,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Puesto cuatro, desde Estados Unidos, Drew Lynch, con un video publicado hace seis días. Más de cuatrocientos trece mil likes. Tiene la mejor tasa de interacción de esta lista: seis de cada cien personas dieron like o comentaron. Además suma más de seis coma nueve millones de vistas."
+      "texto": "Puesto cuatro, desde Estados Unidos, Drew Lynch, con un monólogo de comedia sobre una mamá que quiere nietos. Más de cuatrocientos trece mil likes."
     },
     {
       "id": "l03",
@@ -308,7 +308,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de bronce, desde Estados Unidos, MrBeast, con un video publicado hace cuatro días. Más de seiscientos treinta y tres mil likes. Un Short de apenas treinta y nueve segundos. Además suma más de veinte millones de vistas."
+      "texto": "El último podio. Medalla de bronce, desde Estados Unidos, MrBeast, con «Can I Beat Magnus Carlsen?». Más de seiscientos treinta y tres mil likes."
     },
     {
       "id": "l02",
@@ -316,7 +316,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Medalla de plata, desde Estados Unidos, MrBeast Gaming, con un video publicado hace cinco días. Más de setecientos setenta y cuatro mil likes. Un video de más de treinta minutos, y aun así la gente se quedó a verlo. Además suma más de setenta y dos millones de vistas."
+      "texto": "Medalla de plata, desde Estados Unidos, MrBeast Gaming, nuestro número uno en vistas. Más de setecientos setenta y cuatro mil likes. Enorme. Pero no alcanza."
     },
     {
       "id": "l01",
@@ -324,7 +324,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Y llegó el momento. El número uno en likes, desde Estados Unidos, Marvel Entertainment, con un video publicado hace dos días. Más de uno coma cinco millones de likes. Fue el que más rápido creció de esta lista: cerca de un millón vistas por hora. Lo logró en apenas dos días."
+      "texto": "Redoble de tambores. El video con más likes de la semana en América, desde Estados Unidos: Marvel Entertainment, con el tráiler final de Avengers: Doomsday. Más de un millón quinientos mil likes. Plata en vistas, oro en comentarios y oro en likes."
     },
     {
       "id": "cierre",
