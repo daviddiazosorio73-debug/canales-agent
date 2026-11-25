@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Why did Jesus foretell the future before it happened? #shorts",
+        "description": "Jesus told the disciples things that were yet to happen. And he explained exactly why he was doing it. John 14:29 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "لماذا تنبأ يسوع بالمستقبل قبل حدوثه؟ #shorts",
+        "description": "أخبر يسوع التلاميذ بأشياء كانت ستحدث لاحقًا. وأوضح بالضبط سبب قيامه بذلك. يوحنا 14: 29 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "为什么耶稣会在未来发生之前就预言了未来？ #shorts",
+        "description": "耶稣告诉门徒们即将发生的事情。并确切地解释了他这样做的原因。约翰福音 14:29 订阅，1 分钟内了解更多安息日学内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "예수님께서는 왜 미래가 일어나기 전에 말씀하셨을까요? #shorts",
+        "description": "예수님께서는 제자들에게 앞으로 일어날 일들을 말씀하셨습니다. 그리고 그분이 그렇게 하신 이유를 정확히 설명하셨습니다. 요한복음 14:29 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "calendar pages turning on wooden desk"
-      }
+      },
+      "texto_en": "Jesus told the disciples things that were yet to happen. And he explained exactly why he was doing it.",
+      "texto_ar": "أخبر يسوع التلاميذ بأشياء كانت ستحدث لاحقًا. وأوضح بالضبط سبب قيامه بذلك.",
+      "texto_zh": "耶稣向门徒讲述了即将发生的事情。并确切地解释了他这样做的原因。",
+      "texto_ko": "예수님께서는 제자들에게 아직 일어나지 않은 일들을 말씀하셨습니다. 그리고 그분이 그렇게 하신 이유를 정확히 설명하셨습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "sunrise over calm sea horizon"
-      }
+      },
+      "texto_en": "John fourteen, verse twenty-nine. Jesus said that he was telling them before things happened, so that when they did happen, the disciples would believe. A fulfilled prophecy is not a trick to impress. It is a gift to strengthen faith. When Jesus was arrested and died, the disciples could remember: he had warned them. This is today's topic for lesson nine, Putting the Prophets to the Test: Fulfilled Prophecies. Every promise that God has already fulfilled is a reason to trust in those that are still to come. Comment on a promise of God that you have seen fulfilled.",
+      "texto_ar": "إنجيل يوحنا الإصحاح الرابع عشر، الآية التاسعة والعشرون. قال يسوع إنه كان يخبرهم قبل أن تحدث الأمور، حتى يؤمن التلاميذ عندما تحدث. النبوءة التي تحققت ليست خدعة لإثارة الإعجاب. إنها هدية لتقوية الإيمان. عندما أُلقي القبض على يسوع ومات، تمكن التلاميذ من التذكر: إنه كان قد حذرهم. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: النبوءات التي تحققت. كل وعد وفى به الله هو سبب للثقة في الوعود التي لم تتحقق بعد. اذكر وعدًا من وعود الله رأيت تحققه.",
+      "texto_zh": "约翰福音第十四章第二十九节。耶稣说，祂是在事情发生之前就预言了，这样，当事情发生时，门徒们就会相信。应验的预言不是用来给人留下深刻印象的伎俩。这是一份用来增强信心的礼物。当耶稣被捕并死去时，门徒们能够回想起：他曾发出过警告。这是今天第9课的主题，即“检验先知：应验的预言”。 上帝已经应验的每一项应许，都是我们对尚未应验的应许抱有信心的理由。请谈谈您已经看到应验的一项神的应许。",
+      "texto_ko": "요한복음 14장 29절. 예수님께서는 일들이 일어나기 전에 말씀하셨는데, 이는 일들이 일어났을 때 제자들이 믿도록 하기 위함이었습니다. 성취된 예언은 사람들을 놀라게 하기 위한 속임수가 아닙니다. 그것은 믿음을 강화하기 위한 선물입니다. 예수님께서 체포되시고 돌아가셨을 때, 제자들은 그분께서 경고하셨다는 것을 기억할 수 있었습니다. 오늘 9과, '선지자들을 시험에 들게 하다: 성취된 예언'의 주제입니다. 하나님께서 이미 이루신 모든 약속은 아직 이루어지지 않은 약속을 신뢰할 이유가 됩니다. 이미 성취된 것을 본 하나님의 약속에 대해 이야기해 보세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
