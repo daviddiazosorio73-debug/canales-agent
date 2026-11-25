@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "An ancient dream that described centuries of history #shorts",
+        "description": "A king had a dream that no wise man could explain. The explanation described centuries of history before they happened. Daniel 2:31-45 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "حلم قديم يصف قرونًا من التاريخ #shorts",
+        "description": "رأى ملك حلمًا لم يستطع أي حكيم تفسيره. وصف التفسير قرونًا من التاريخ قبل وقوعها. دانيال 2: 31-45 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "一个描述了数百年历史的古老梦想 #shorts",
+        "description": "一位国王做了一个梦，但没有一个智者能够解释。这个解释描述了几个世纪的历史，而且是在这些历史发生之前。但以理书 2:31-45 订阅，即可在 1 分钟内了解更多安息日学的内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "수백 년의 역사를 묘사한 오래된 꿈 #shorts",
+        "description": "한 왕이 꿈을 꾸었는데 어떤 현자도 그 꿈을 해석할 수 없었습니다. 해석은 수 세기의 역사가 일어나기 전에 그 역사를 묘사했습니다. 다니엘 2:31-45 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "ancient bronze statue in dim museum light"
-      }
+      },
+      "texto_en": "A king had a dream that no wise man could explain. The explanation described centuries of history before they happened.",
+      "texto_ar": "رأى ملك حلمًا لم يستطع أي حكيم تفسيره. وصف التفسير قرونًا من التاريخ قبل حدوثها.",
+      "texto_zh": "一位国王做了一个梦，但没有一个智者能够解释。这个解释描述了几个世纪的历史，而且是在这些历史发生之前。",
+      "texto_ko": "한 왕이 꿈을 꾸었는데 어떤 현자도 그 꿈을 해석할 수 없었습니다. 해석은 수 세기의 역사가 일어나기 전에 그것을 묘사했습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "bars of gold silver bronze and iron stacked"
-      }
+      },
+      "texto_en": "Daniel 2. King Nebuchadnezzar dreamed of a great statue: a head of gold, a chest and arms of silver, a belly and thighs of bronze, legs of iron, and feet of iron and clay. Daniel explained that the head of gold was Babylon and that other kingdoms would come after it. Later, in Daniel 8, the Bible itself names Media and Persia, as well as Greece. And history records this sequence of empires. This is today's topic for Lesson Nine, Putting the Prophets to the Test: Prophecies Fulfilled. And the end of the dream, the stone that becomes a mountain and fills the earth, still points to the kingdom that God will establish. Comment on \"God knows the future.\"",
+      "texto_ar": "سفر دانيال الإصحاح الثاني. حلم الملك نبوخذنصر بتمثال كبير: رأسه من الذهب، وصدره وذراعاه من الفضة، وبطنه وفخذاه من النحاس، وساقاه من الحديد، وقدمتاه من الحديد والطين. أوضح دانيال أن الرأس الذهبي كان بابل وأن ممالك أخرى ستأتي من بعده. في وقت لاحق، في سفر دانيال الإصحاح الثامن، يذكر الكتاب المقدس نفسه ميديا وفارس، وكذلك اليونان. ويسجل التاريخ هذا التسلسل للإمبراطوريات. إنه موضوع الدرس التاسع اليوم، اختبار الأنبياء: النبوءات التي تحققت. ونهاية الحلم، الحجر الذي يصبح جبلًا ويملأ الأرض، لا يزال يشير إلى المملكة التي سيقيمها الله. علّق على عبارة \"الله يعرف المستقبل\".",
+      "texto_zh": "《但以理书》第二章。尼布甲尼撒王梦见一尊大像：头是金的，胸膛和膀臂是银的，肚腹和腰是铜的，腿是铁的，脚是半铁半泥的。但以理解释说，金头代表巴比伦，之后还会有其他王国出现。后来，在《但以理书》第八章中，圣经本身提到了米底亚和波斯，以及希腊。历史记录了这些帝国相继出现的顺序。 这是第 9 课的今日主题：检验先知：应验的预言。而梦的结局，即那块变成山并充满大地的小石头，仍然指向神将要建立的国度。请评论“神知道未来”。",
+      "texto_ko": "다니엘 2장. 느부갓네살 왕은 큰 우상을 꿈꿨습니다. 머리는 금, 가슴과 팔은 은, 배와 허벅지는 청동, 다리는 쇠, 발은 쇠와 진흙이었습니다. 다니엘은 금 머리가 바빌로니아이며 그 뒤에 다른 왕국들이 올 것이라고 설명했습니다. 나중에 다니엘 8장에서는 성경 자체가 메대와 페르시아, 그리고 그리스를 언급합니다. 그리고 역사는 이러한 제국의 순서를 기록하고 있습니다. 오늘 9과, 선지자들을 시험에 들게 하다: 성취된 예언의 주제입니다. 그리고 꿈의 마지막 부분, 즉 산이 되어 땅을 가득 채우는 돌은 여전히 하나님께서 세우실 왕국을 가리킵니다. \"하나님께서는 미래를 아십니다\"에 대해 의견을 나눠 주십시오."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
