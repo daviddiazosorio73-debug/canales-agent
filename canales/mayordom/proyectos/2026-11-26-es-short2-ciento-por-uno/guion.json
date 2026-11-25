@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The “100 to 1” has some fine print 🔎 #shorts",
+        "description": "The promise of a hundredfold in Mark 10 includes a phrase that almost no one reads: with persecutions. (Mark 10:29–30, paraphrase RVR1960) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "O \"cem por um\" tem letras miúdas 🔎 #shorts",
+        "description": "A promessa do cêntuplo em Marcos 10 inclui uma frase que quase ninguém lê: com perseguições. (Marcos 10:29-30, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "\"مائة مقابل واحد\" لها أحرف صغيرة 🔎 #shorts",
+        "description": "يتضمن الوعد بالمائة مقابل واحد في إنجيل مرقس 10 عبارة لا يكاد أحد يقرأها: مع الاضطهادات. (مرقس 10: 29-30، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "“百赚一”有附加条件 🔎 #shorts",
+        "description": "马可福音第 10 章中关于百倍回报的应许包含一句几乎没有人读到的内容：伴随着逼迫。（马可福音 10:29-30，RVR1960 译本意译）订阅 MayorDom · 圣经管家。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "'100대 1'에는 작은 글씨로 된 조건이 있습니다 🔎 #shorts",
+        "description": "마가복음 10장에 나오는 백 배의 약속에는 거의 아무도 읽지 않는 문구가 포함되어 있습니다. 바로 '박해를 받으면서'라는 문구입니다. (마가복음 10:29-30, RVR1960 번역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "magnifying glass old book"
-      }
+      },
+      "texto_en": "The hundredfold is the favorite promise of some preachers. But they almost never read the full sentence.",
+      "texto_pt": "O cem por um é a promessa favorita de alguns pregadores. Mas quase nunca leem a frase completa.",
+      "texto_ar": "المائة مقابل واحد هو الوعد المفضل لبعض الواعظين. لكنهم نادرًا ما يقرؤون الجملة كاملة.",
+      "texto_zh": "“百倍的报偿”是一些传道人最喜欢的承诺。但他们几乎从不读完整句话。",
+      "texto_ko": "백 배의 열매는 일부 설교자들이 가장 좋아하는 약속입니다. 하지만 그들은 거의 결코 전체 문장을 읽지 않습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "family table community warm"
-      }
+      },
+      "texto_en": "It's in Mark 10. Jesus promises those who have left everything behind for him and for the Gospel that they will receive a hundredfold: houses, brothers, sisters, mothers, children, and land, along with persecutions, and in the age to come, eternal life. With persecutions. And among what is promised are brothers and mothers: a family of faith, not just material possessions. It's not a formula for multiplying money. Today, at 6:00 p.m., the full analysis. Subscribe.",
+      "texto_pt": "Está em Marcos 10. Jesus promete àqueles que deixaram tudo por Ele e pelo Evangelho que receberão cem vezes mais: casas, irmãos, irmãs, mães, filhos e terras, com perseguições, e, no século vindouro, a vida eterna. Com perseguições. E entre o que foi prometido estão irmãos e mães: uma família de fé, não apenas bens. Não é uma fórmula para multiplicar dinheiro. Hoje, às seis da tarde, a análise completa. Inscreva-se.",
+      "texto_ar": "إنه في إنجيل مرقس الإصحاح العاشر. يعدُّ يسوع أولئك الذين تركوا كل شيء من أجله ومن أجل الإنجيل بأنهم سينالون مائة ضعف: بيوتًا وإخوة وأخوات وأمهات وأبناء وأراضي، مع الاضطهادات، وفي الدهر الآتي الحياة الأبدية. مع الاضطهادات. ومن بين ما وُعد به الإخوة والأمهات: عائلة الإيمان، وليس فقط الممتلكات. إنها ليست صيغة لزيادة المال. اليوم، في الساعة السادسة مساءً، التحليل الكامل. اشترك.",
+      "texto_zh": "这段经文出自《马可福音》第十章。耶稣应许那些为祂和福音舍弃一切的人，他们将得到百倍的报偿：房屋、弟兄、姊妹、母亲、儿女和田地，以及迫害，并在来世得永生。伴随着迫害。在所应许的恩典中，有兄弟和母亲：一个信仰的大家庭，而不仅仅是物质财富。这不是一个让钱生钱的公式。今天下午六点，完整分析。请订阅。",
+      "texto_ko": "마가복음 10장에 나옵니다. 예수님께서는 그분과 복음을 위해 모든 것을 버린 사람들에게 백 배를 받게 될 것이라고 약속하십니다. 집, 형제, 자매, 어머니, 자녀, 땅, 그리고 박해를 받으며, 내세에서는 영원한 생명을 얻게 될 것입니다. 박해를 받으면서 말입니다. 그리고 약속된 것들 중에는 형제들과 어머니들이 있습니다. 즉, 재산뿐만 아니라 신앙의 가족입니다. 돈을 불리는 공식이 아닙니다. 오늘 오후 6시에 전체 분석이 나옵니다. 구독하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
