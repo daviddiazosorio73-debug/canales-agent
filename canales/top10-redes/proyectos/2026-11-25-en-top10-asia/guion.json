@@ -14,7 +14,7 @@
   ],
   "contenido_sintetico": true,
   "reintento_desde": "2026-11-26T01:25:00Z",
-  "libreto": "plantilla",
+  "libreto": "claude",
   "esperar_libreto_hasta": "2026-11-25T17:55:00Z",
   "miniatura": {
     "linea1": "TOP 10",
@@ -65,7 +65,7 @@
       "id": "apertura",
       "capitulo": "Intro",
       "emocion": "gancho",
-      "texto": "This week in Asia, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to over three hundred and seventy-eight million views. But only one took number one. Welcome to Top 10 Social Media, Asia edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
+      "texto": "Asia doesn't do small numbers. This week, ten seconds were enough for one video to pass nineteen million views, and that wasn't even number one. An awards night, a bottle flip, a cat in a printing contest, and the game everyone is playing. But only one video can rule the continent, and it might rule more than one list. Welcome to Top 10 Social Media, Asia edition. Today we count down the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the very end, because number one is something else.",
       "tarjeta": {
         "titulo": "TOP 10 · ASIA",
         "sub": "Week 48"
@@ -75,7 +75,7 @@
       "id": "reglas",
       "capitulo": "How we count",
       "emocion": "agil",
-      "texto": "The rules, quick and clear. Only videos posted in the last seven days that trended in Asia. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, with the weekly cut every Wednesday at midnight, Lima, Peru time. Let's go.",
+      "texto": "Quick rules before we start. Only videos posted in the last seven days that trended in Asia. One video per creator on each list. Music and news have their own space. Every number comes straight from the official YouTube API, and the weekly cut is every Wednesday at midnight, Lima, Peru time. Ready? Let's go.",
       "tarjeta": {
         "titulo": "THE RULES",
         "sub": "YouTube API · 7 days"
@@ -87,7 +87,7 @@
       "rank": 10,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Let's start with the ten most viewed videos. In position number ten, from Japan, Saito, with “Bottle Flip”. Over twelve million views. A Short of just fifteen seconds. It also has seven hundred and thirty-seven comments.",
+      "texto": "First list: the ten most viewed. Opening the countdown at number ten, from Japan, Saito, with “Bottle Flip”. A fifteen-second Short with over twelve point six million views. And that's just the entry ticket in Asia.",
       "capitulo": "Top 10 most viewed"
     },
     {
@@ -96,7 +96,7 @@
       "rank": 9,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number nine, from Indonesia, Cici & Mas Bule, with a video posted six days ago. Over thirteen million views. A Short of just forty-eight seconds. It also has two hundred and thirteen comments."
+      "texto": "Number nine, from Indonesia, Cici and Mas Bule, with “BTS Bikin Trend Boom Clap”. A forty-eight second Short, and over thirteen point five million views."
     },
     {
       "id": "v08",
@@ -104,7 +104,7 @@
       "rank": 8,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Number eight, from India, Neetu Bisht, with a video posted one day ago. Over thirteen million views. It was the fastest-growing video on this list: about one million, two hundred thousand views per hour. It got there in just one day."
+      "texto": "Number eight, from India, Neetu Bisht, with a family prank Short of one minute and fifty seconds. Over thirteen point seven million views, and it was posted on the very last day of the week. Imagine where it ends up."
     },
     {
       "id": "v07",
@@ -112,7 +112,7 @@
       "rank": 7,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "At number seven, from United Arab Emirates, dami, with “Dad vs. toddler vs. the cat: who made the best print?”. Over fifteen million views. And get this: it's a channel with about five thousand, seven hundred subscribers, playing in the big leagues this week. A Short of just sixteen seconds."
+      "texto": "Number seven, from the United Arab Emirates, dami. Dad versus toddler versus the cat: who made the best print? Sixteen seconds, over fifteen point two million views, from a channel of about five thousand, seven hundred subscribers. The underdog of the week."
     },
     {
       "id": "v06",
@@ -120,7 +120,7 @@
       "rank": 6,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number six, from South Korea, K덕톡, with a video posted four days ago. Over fifteen million views. And get this: it's a channel with about fifty-three thousand subscribers, playing in the big leagues this week. A Short of just forty seconds."
+      "texto": "Number six, from South Korea, K덕톡, with a forty-second Short about CL's MAMA stage. Over fifteen point eight million views, from a channel of about fifty-three thousand subscribers."
     },
     {
       "id": "v05",
@@ -128,7 +128,7 @@
       "rank": 5,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number five, from Indonesia, Nadia Omara, with a video posted six days ago. Over sixteen million views. A video over twenty-nine minutes long, and people still stayed to watch. It also has over eleven thousand comments."
+      "texto": "Number five, from Indonesia, Nadia Omara, with part four hundred and five of her series, filmed in West Sumatra. Over twenty-nine minutes long, and over sixteen point three million views. Remember this name. You'll hear it again."
     },
     {
       "id": "v04",
@@ -136,7 +136,7 @@
       "rank": 4,
       "modo": "completo",
       "emocion": "agil",
-      "texto": "Coming in at number four, from South Korea, 가방고리고도리, with a video posted four days ago. Over seventeen million views. And get this: it's a channel with about one hundred and seventy thousand subscribers, playing in the big leagues this week. A Short of just thirty-five seconds."
+      "texto": "Number four, from South Korea, 가방고리고도리, with a thirty-five second Short. Over seventeen point six million views, from a channel of about one hundred and seventy-two thousand subscribers."
     },
     {
       "id": "v03",
@@ -144,7 +144,7 @@
       "rank": 3,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from South Korea, RESCENE, with a video posted four days ago. Over nineteen million views. A Short of just ten seconds. It also has over one thousand comments.",
+      "texto": "And now, the podium. Bronze medal, from South Korea, RESCENE, with “2026 MAMA”. Ten seconds. Just ten seconds, and over nineteen point eight million views.",
       "capitulo": "The podium"
     },
     {
@@ -153,7 +153,7 @@
       "rank": 2,
       "modo": "completo",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Maddock Films, with “Sisuse me!!! Shraddha Kapoor Eetha in cinemas 4th December”. Over twenty-seven million views. It also has over one thousand comments."
+      "texto": "Silver medal, from India, Maddock Films, with a one minute and forty-one second promo featuring Shraddha Kapoor, for a film in cinemas on December fourth. Over twenty-seven point two million views. Massive. But not enough."
     },
     {
       "id": "v01",
@@ -161,7 +161,7 @@
       "rank": 1,
       "modo": "completo",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most viewed, from India, Techno Gamerz, with “My first day in vice city gta 6 gameplay”. Over thirty-six million views. It has the best engagement rate on this list: three out of every hundred viewers liked or commented. A video over one hundred and twenty-seven minutes long, and people still stayed to watch."
+      "texto": "Drum roll, please. The most viewed video of the week in Asia comes from India. Techno Gamerz, with “MY FIRST DAY IN VICE CITY”, GTA 6 gameplay part one. Over two hours long, and over thirty-six million views. Thirty-six million. And this is only the first list."
     },
     {
       "id": "c10",
@@ -169,7 +169,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Now for the conversation: the ten most commented videos. Coming in at number ten, لانا و رورو, with a video posted six days ago. Over five thousand comments. A video over twenty-eight minutes long, and people still stayed to watch. It also has over two point five million views.",
+      "texto": "Second list: the conversation. The ten most commented videos. At number ten, لانا و رورو, with a Roblox adventure over twenty-eight minutes long. Over five thousand, four hundred comments.",
       "capitulo": "Top 10 most commented"
     },
     {
@@ -178,7 +178,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number nine, from South Korea, T1, with a video posted one day ago. Over six thousand comments. It was the fastest-growing video on this list: about two hundred and forty thousand views per hour. It got there in just one day."
+      "texto": "Number nine, from South Korea, T1, with “Welcome Back Home, Zeus”. Over six thousand, four hundred comments, on the last day of the week."
     },
     {
       "id": "c08",
@@ -186,7 +186,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number eight, バズチェック, with a video posted three days ago. Over six thousand comments. And get this: it's a channel with about seventeen thousand subscribers, playing in the big leagues this week. A Short of just sixty seconds."
+      "texto": "Number eight, バズチェック, with a one-minute Short. Over six thousand, six hundred comments and over six point four million views, from a channel of about seventeen thousand subscribers."
     },
     {
       "id": "c07",
@@ -194,7 +194,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number seven, from India, The Roamer Amit, with a video posted four days ago. Over seven thousand comments. A video over fifty-five minutes long, and people still stayed to watch. It also has over three point one million views."
+      "texto": "Number seven, from India, The Roamer Amit, with “Last to Survive SQUID GAME Wins”. Almost an hour long, and over seven thousand, three hundred comments."
     },
     {
       "id": "c06",
@@ -202,7 +202,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number six, from South Korea, MarvelKorea, with a video posted two days ago. Over nine thousand comments. It got there in just two days. It also has over four point four million views."
+      "texto": "Number six, from South Korea, MarvelKorea, with the main trailer of Avengers: Doomsday. Over nine thousand, two hundred comments and over four point four million views."
     },
     {
       "id": "c05",
@@ -210,7 +210,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, from Indonesia, Nadia Omara, with a video posted six days ago. Over eleven thousand comments. A video over twenty-nine minutes long, and people still stayed to watch. It also has over sixteen million views."
+      "texto": "Number five, from Indonesia, Nadia Omara again. Over eleven thousand comments. Her fans don't just watch. They talk."
     },
     {
       "id": "c04",
@@ -218,7 +218,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number four, from South Korea, CORTIS, with a video posted one day ago. Over thirteen thousand comments. It has the best engagement rate on this list: nineteen out of every hundred viewers liked or commented. It got there in just one day."
+      "texto": "Number four, from South Korea, CORTIS, with “We're on a JoyRide (2024)”. Over thirteen thousand, one hundred comments. And this is a name to remember too."
     },
     {
       "id": "c03",
@@ -226,7 +226,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from India, Shivang Mini, with a video posted one day ago. Over fourteen thousand comments. A video over twenty-three minutes long, and people still stayed to watch. It got there in just one day."
+      "texto": "Podium time. Bronze medal, from India, Shivang Mini, with a Roblox Steal an Egg video, over twenty-three minutes long. Over fourteen thousand, four hundred comments."
     },
     {
       "id": "c02",
@@ -234,7 +234,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from Japan, なにわ男子, with a video posted three days ago. Over twenty thousand comments. It also has over one point four million views."
+      "texto": "Silver medal, from Japan, なにわ男子, with their official music video. Over twenty thousand, four hundred comments, from over one point four million views. That's a fan base that shows up."
     },
     {
       "id": "c01",
@@ -242,7 +242,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "Drum roll, please. Number one most commented, from India, Techno Gamerz, with “My first day in vice city gta 6 gameplay”. Over fifty-four thousand comments. A video over one hundred and twenty-seven minutes long, and people still stayed to watch. It also has over thirty-six million views."
+      "texto": "And here it is. The most commented video of the week in Asia. From India, Techno Gamerz, with “MY FIRST DAY IN VICE CITY”. Over fifty-four thousand comments. More than double second place. Two lists, two crowns."
     },
     {
       "id": "l10",
@@ -250,7 +250,7 @@
       "rank": 10,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "And the last list: the ten most liked videos. Number ten, from South Korea, CORTIS, with a video posted one day ago. Over one hundred and ninety-two thousand likes. It has the best engagement rate on this list: nineteen out of every hundred viewers liked or commented. It got there in just one day.",
+      "texto": "And the last list: the love. The ten most liked videos. At number ten, from South Korea, CORTIS, with “We're on a JoyRide (2024)”. Over one hundred and ninety-two thousand likes.",
       "capitulo": "Top 10 most liked"
     },
     {
@@ -259,7 +259,7 @@
       "rank": 9,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number nine, from India, Neetu Bisht, with a video posted one day ago. Over one hundred and ninety-seven thousand likes. It was the fastest-growing video on this list: about one million, two hundred thousand views per hour. It got there in just one day."
+      "texto": "Number nine, from India, Neetu Bisht, with the family prank Short. Over one hundred and ninety-seven thousand likes."
     },
     {
       "id": "l08",
@@ -267,7 +267,7 @@
       "rank": 8,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Next up, number eight, from India, The Laughter Show, with a video posted three days ago. Over one hundred and ninety-seven thousand likes. It also has over eight point five million views."
+      "texto": "Number eight, from India, The Laughter Show, with a comedy clip of two minutes and forty-seven seconds. Over one hundred and ninety-seven thousand likes and over eight point five million views."
     },
     {
       "id": "l07",
@@ -275,7 +275,7 @@
       "rank": 7,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number seven, from Japan, Bayashi TV, with “Minions Tortilla Hat”. Over two hundred and twenty-one thousand likes. A Short of just thirty-five seconds. It got there in just one day."
+      "texto": "Number seven, from Japan, Bayashi TV, with “Minions Tortilla Hat”. Thirty-five seconds, and over two hundred and twenty-one thousand likes."
     },
     {
       "id": "l06",
@@ -283,7 +283,7 @@
       "rank": 6,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number six, from India, Whimsy Aangan , with a video posted five days ago. Over two hundred and twenty-four thousand likes. And get this: it's a channel with about thirty-one thousand subscribers, playing in the big leagues this week. It also has over eight point four million views."
+      "texto": "Number six, from India, Whimsy Aangan, with the story of a man who built a refrigerator out of clay for his wife. Over two hundred and twenty-four thousand likes, from a channel of about thirty-one thousand subscribers."
     },
     {
       "id": "l05",
@@ -291,7 +291,7 @@
       "rank": 5,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Number five, from India, FactTechz, with a video posted three days ago. Over two hundred and forty-three thousand likes. A Short of just fifty-two seconds. It also has over seven point six million views."
+      "texto": "Number five, from India, FactTechz, with “NASA Again Did the IMPOSSIBLE!”. Fifty-two seconds and over two hundred and forty-three thousand likes."
     },
     {
       "id": "l04",
@@ -299,7 +299,7 @@
       "rank": 4,
       "modo": "rapido",
       "emocion": "agil",
-      "texto": "Coming in at number four, from Indonesia, Nadia Omara, with a video posted six days ago. Over two hundred and sixty-two thousand likes. A video over twenty-nine minutes long, and people still stayed to watch. It also has over sixteen million views."
+      "texto": "Number four, from Indonesia, Nadia Omara. Third list, third appearance. Over two hundred and sixty-two thousand likes."
     },
     {
       "id": "l03",
@@ -307,7 +307,7 @@
       "rank": 3,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Bronze medal, from India, resham info, with a video posted five days ago. Over two hundred and sixty-seven thousand likes. And get this: it's a channel with about forty-seven thousand subscribers, playing in the big leagues this week. It also has over eight point three million views."
+      "texto": "The final podium. Bronze medal, from India, resham info, explaining how the Kolkata underwater metro was built. Over two hundred and sixty-seven thousand likes, from a channel of about forty-seven thousand subscribers."
     },
     {
       "id": "l02",
@@ -315,7 +315,7 @@
       "rank": 2,
       "modo": "rapido",
       "emocion": "enfasis",
-      "texto": "Silver medal, from India, Aman Sharma , with a video posted five days ago. Over three hundred and thirteen thousand likes. It also has over nine point two million views."
+      "texto": "Silver medal, from India, Aman Sharma, with “How Maharashtra Brought a Dead River Back to Life!”. Over three hundred and thirteen thousand likes. A story people loved. But can it beat the giant?"
     },
     {
       "id": "l01",
@@ -323,7 +323,7 @@
       "rank": 1,
       "modo": "rapido",
       "emocion": "gancho",
-      "texto": "And here it is. Number one most liked, from India, Techno Gamerz, with “My first day in vice city gta 6 gameplay”. Over one million likes. A video over one hundred and twenty-seven minutes long, and people still stayed to watch. It also has over thirty-six million views."
+      "texto": "Drum roll, please. The most liked video of the week in Asia: from India, Techno Gamerz, with “MY FIRST DAY IN VICE CITY”. Over one million likes. One million. Most viewed, most commented and most liked. A clean sweep of all three lists."
     },
     {
       "id": "cierre",
