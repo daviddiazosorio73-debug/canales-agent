@@ -142,9 +142,9 @@ def meta_reels(cola):
                 continue
             try:
                 if red == "facebook":
-                    url = meta.reel_facebook(page_id, ptok, archivo, texto)
+                    url = meta.reel_facebook(page_id, ptok, archivo, texto.replace("?d=yt", "?d=fb"))
                 else:
-                    url = meta.reel_instagram(ig_id, ptok, archivo, texto)
+                    url = meta.reel_instagram(ig_id, ptok, archivo, texto.replace("?d=yt", "?d=ig"))
                 it[campo] = url
                 hecho = True
                 print("Meta OK", red, it["clave"], url)

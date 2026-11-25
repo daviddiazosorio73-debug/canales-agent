@@ -366,7 +366,7 @@ def esc(s):
 def qr_dataurl():
     import base64, io
     import qrcode
-    img = qrcode.make(SITIO + "?d=qr", box_size=10, border=1)
+    img = qrcode.make(SITIO + "?d=short", box_size=10, border=1)  # escaneado desde un Short
     b = io.BytesIO(); img.save(b, format="PNG")
     return "data:image/png;base64," + base64.b64encode(b.getvalue()).decode()
 
