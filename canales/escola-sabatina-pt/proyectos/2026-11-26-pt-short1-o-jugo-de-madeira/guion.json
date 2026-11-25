@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-26T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Two prophets, two opposing messages. Who was right? #shorts",
+        "description": "Two prophets in the house of the Lord, with opposing messages. One promised peace in two years. The other disagreed. Time gave the verdict. Jeremiah 28:1-17 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "نبيان، ورسالتان متعارضتان. من كان على صواب؟ #shorts",
+        "description": "نبيان في بيت الرب، برسالتين متعارضتين. وعد أحدهما بالسلام في غضون عامين. أما الآخر فكان يعارض ذلك. وأصدر الوقت حكمه. إرميا 28: 1-17 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "两位先知，两种截然相反的信息。谁是对的？ #shorts",
+        "description": "两位先知在耶和华的殿中，传达着截然相反的信息。其中一位承诺两年内将实现和平。另一位则持不同意见。时间给出了答案。耶利米书 28:1-17 订阅，即可在 1 分钟内观看更多安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "두 선지자, 두 가지 상반된 메시지. 누가 맞았을까요? #shorts",
+        "description": "주님의 집에 두 명의 선지자가 서로 상반된 메시지를 전합니다. 한 사람은 2년 안에 평화가 올 것이라고 약속했습니다. 다른 한 사람은 동의하지 않았습니다. 시간이 지나면서 결과가 드러났습니다. 예레미야 28:1-17 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "old wooden ox yoke hanging on rustic barn wall"
-      }
+      },
+      "texto_en": "Two prophets in the house of the Lord, with opposing messages. One promised peace in two years. The other disagreed. Time gave the verdict.",
+      "texto_ar": "نبيان في بيت الرب، برسالتين متعارضتين. وعد أحدهما بالسلام في غضون عامين. أما الآخر فكان لا يوافق. وأعطى الوقت الحكم.",
+      "texto_zh": "两位先知在耶和华的殿中，传达着截然相反的信息。其中一位承诺两年内将实现和平。另一位则持不同意见。时间给出了裁决。",
+      "texto_ko": "주님의 집에 두 명의 선지자가 서로 상반된 메시지를 전합니다. 한 사람은 2년 안에 평화가 올 것이라고 약속했습니다. 다른 한 사람은 이에 동의하지 않았습니다. 시간이 지나면서 결과가 드러났습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "broken wooden beam on stone floor"
-      }
+      },
+      "texto_en": "Jeremiah 28. Hananiah broke the wooden yoke that Jeremiah wore around his neck and announced that, within two years, Babylon's dominion would be broken. Jeremiah reminded everyone that the prophet who proclaims peace is recognized when his word comes true. Then he warned that the Lord had not sent Hananiah and that he would die that year. And Hananiah died in the seventh month of that same year. This is today's topic for Lesson Nine: Putting the Prophets to the Test: Fulfilled Prophecies. Promising what people want to hear is easy. Fulfillment is up to God. Comment \"God fulfills.\"",
+      "texto_ar": "إرميا الإصحاح الثامن والعشرون. كسر حننيا النير الخشبي الذي كان يرتديه إرميا على عنقه وأعلن أنه في غضون عامين، سيتم كسر هيمنة بابل. ذكّر إرميا بأن النبي الذي يبشر بالسلام يُعرف عندما تتحقق كلمته. ثم حذر من أن الرب لم يرسل حننيا وأنه سيموت في تلك السنة. وتوفي حننيا في الشهر السابع من ذلك العام نفسه. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: النبوءات التي تحققت. من السهل أن تعد بما يريد الناس سماعه. الوفاء بالوعود هو أمر يتعلق بالله. علق بعبارة \"الله يفي بالوعود\".",
+      "texto_zh": "耶利米书第二十八章。哈拿尼雅打碎了耶利米脖子上戴着的木轭，并宣布，在两年之内，巴比伦的统治将被打破。耶利米提醒说，当宣告和平的先知的话语应验时，他就会得到认可。然后，他警告说，耶和华没有差遣哈拿尼雅，他将在那一年死去。于是哈拿尼雅就在同年的七月死了。 这是第九课的今日主题：检验先知：应验的预言。许下人们想听的承诺很容易。应验则在于神。请发表评论“神必应验”。",
+      "texto_ko": "예레미야 28장. 하나냐는 예레미야가 목에 걸고 있던 나무 멍에를 부러뜨리고 2년 안에 바빌로니아의 지배가 무너질 것이라고 선포했습니다. 예레미야는 평화를 선포하는 예언자는 그의 말이 이루어질 때 인정받는다고 상기시켰습니다. 그런 다음 여호와께서 하나냐를 보내지 않으셨으며 그가 그해에 죽을 것이라고 경고했습니다. 그리고 하나냐는 그해 일곱째 달에 죽었습니다. 오늘 9과 '선지자들을 시험에 들게 함: 성취된 예언'의 주제입니다. 사람들이 듣고 싶어 하는 것을 약속하는 것은 쉽습니다. 약속을 지키시는 분은 하나님이십니다. \"하나님은 약속을 지키십니다\"라고 댓글을 달아 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
