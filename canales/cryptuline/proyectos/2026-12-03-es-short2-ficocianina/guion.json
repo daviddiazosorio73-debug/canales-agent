@@ -36,7 +36,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-12-03T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Phycocyanin: The Blue Pigment in Spirulina, Explained #shorts",
+        "description": "Phycocyanin: The blue pigment in spirulina. 📚 Sources (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina – An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (online: Aug-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Spínola MP, Mendes AR, Prates JAM. Chemical Composition, Bioactivities, and Applications of Spirulina (Limnospira platensis) in Food, Feed, and Medicine. Foods. 2024;13(22):3656. https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656 Educational content for adults over 18. This is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthetic voice. Cryptuline."
+      },
+      "pt": {
+        "title": "Ficocianina: o pigmento azul da espirulina, explicado #shorts",
+        "description": "Ficocianina: o pigmento azul da espirulina. 📚 Fontes (PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, et al. Spirulina – An Edible Cyanobacterium with Potential Therapeutic Health Benefits and Toxicological Consequences. J Am Nutr Assoc. 2023;42(6):559-572 (online: ago-2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Spínola MP, Mendes AR, Prates JAM. Composição química, bioatividades e aplicações da espirulina (Limnospira platensis) em alimentos, rações e medicamentos. Foods. 2024;13(22):3656. https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte o seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "الفيثوسيانين: صبغة سبيرولينا الزرقاء، شرح #shorts",
+        "description": "الفي कोशियाينين: الصبغة الزرقاء للسبيرولينا. 📚 المصادر (PubMed):\n• غوغنا س، كور ج، شارما ك، براساد ر، سينغ ج، بهاداريا ف، وآخرون. سبيرولينا - بكتيريا زرقاء صالحة للأكل ذات فوائد صحية علاجية محتملة وعواقب سمية. مجلة الجمعية الأمريكية للتغذية. 2023؛42(6):559-572 (على الإنترنت: أغسطس 2022). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• سبينولا م. ب.، مينديس أ. ر.، براتيس ج. أ. م. التركيب الكيميائي والأنشطة الحيوية واستخدامات سبيرولينا (ليمْنُوسْبِيرَا بلاتِنسِيس) في الأغذية والأعلاف والأدوية. Foods. 2024;13(22):3656. https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656 محتوى تثقيفي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشر طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتيولين."
+      },
+      "zh-Hans": {
+        "title": "藻蓝蛋白：螺旋藻的蓝色色素，详解 #shorts",
+        "description": "藻蓝蛋白：螺旋藻的蓝色色素。📚 资料来源（PubMed）：\n• Gogna S、Kaur J、Sharma K、Prasad R、Singh J、Bhadariya V 等。螺旋藻——一种具有潜在治疗保健益处和毒理学后果的可食用蓝藻。《美国营养协会杂志》。2023 年；42(6)：559-572（在线发布：2022 年 8 月）。https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• Spínola MP、Mendes AR、Prates JAM。 螺旋藻（Limnospira platensis）的化学成分、生物活性及其在食品、饲料和医药中的应用。《食品》。2024 年；13(22)：3656。https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656 适合 18 岁以上人士的教育内容。本内容不能替代医生建议：在改变饮食、体育锻炼或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "피코시아닌: 스피룰리나의 청색 색소에 대한 설명 #shorts",
+        "description": "피코시아닌: 스피룰리나의 청색 색소. 📚 출처(PubMed):\n• Gogna S, Kaur J, Sharma K, Prasad R, Singh J, Bhadariya V, 외. 스피룰리나 - 잠재적인 치료적 건강상의 이점과 독성학적 결과가 있는 식용 남세균. J Am Nutr Assoc. 2023;42(6):559-572 (온라인: 2022년 8월). https://pubmed.ncbi.nlm.nih.gov/35916491/ · https://doi.org/10.1080/27697061.2022.2103852\n• 스피놀라 MP, 멘데스 AR, 프라테스 JAM. 식품, 사료 및 의약품에서의 스피룰리나(Limnospira platensis)의 화학적 조성, 생물학적 활성 및 응용. Foods. 2024;13(22):3656. https://pubmed.ncbi.nlm.nih.gov/39594071/ · https://doi.org/10.3390/foods13223656 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식이, 신체 활동 또는 치료를 변경하기 전에 의사와 상의하세요. 인공 음성 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -47,7 +69,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "blue pigment liquid in glass beaker"
-      }
+      },
+      "texto_en": "Spirulina is green… but it hides a blue pigment.",
+      "texto_pt": "A espirulina é verde... mas esconde um pigmento azul.",
+      "texto_ar": "السبيرولينا خضراء... لكنها تخفي صبغة زرقاء.",
+      "texto_zh": "螺旋藻是绿色的……但它隐藏着一种蓝色的色素。",
+      "texto_ko": "스피룰리나는 녹색이지만 파란색 색소가 숨어 있습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "blue and green powder bowls overhead"
-      }
+      },
+      "texto_en": "It's called phycocyanin. Gogna's 2022 review lists it among the phycobiliproteins in spirulina, along with chlorophyll and carotenoids. Spínola’s 2024 review lists it among its most studied bioactive compounds. But beware: the same review calls for its efficacy and safety to be confirmed with large clinical trials in humans. The fact that a pigment is interesting in the lab doesn't prove that it will do the same in your body. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "Ela se chama ficocianina. A revisão de Gogna, de 2022, a inclui entre as ficobiliproteínas da espirulina, junto com a clorofila e os carotenos. A revisão de Spínola, de 2024, a menciona entre seus compostos bioativos mais estudados. Mas atenção: a mesma revisão pede que sua eficácia e segurança sejam confirmadas por meio de grandes ensaios clínicos em humanos. O fato de um pigmento ser interessante em laboratório não prova que ele faça o mesmo no seu corpo. Salve este vídeo e compartilhe com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos no Cryptuline para ver mais conteúdos sobre ciência da saúde.",
+      "texto_ar": "يُطلق عليها اسم الفيكوسيانين. تدرجها مراجعة غونيا، التي أُجريت في عام ألفين واثنان وعشرين، ضمن مجموعة بروتينات الفيكوبيلين الموجودة في السبيرولينا، إلى جانب الكلوروفيل والكاروتينات. وتذكرها مراجعة سبينولا، التي أُجريت في عام ألفين وأربعة وعشرين، ضمن مركباتها النشطة بيولوجيًا الأكثر دراسة. لكن انتبه: تطلب المراجعة نفسها تأكيد فعاليتها وسلامتها من خلال تجارب سريرية واسعة النطاق على البشر. كون الصبغة مثيرة للاهتمام في المختبر لا يثبت أنها تفعل الشيء نفسه في جسمك. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشيري طبيبكِ قبل إجراء أي تغييرات. تابعونا على كريبتولين للحصول على المزيد من العلوم الصحية.",
+      "texto_zh": "它被称为藻蓝蛋白。Gogna 在 2022 年的综述中将其列为螺旋藻的藻胆蛋白之一，与叶绿素和胡萝卜素并列。斯皮诺拉在 2024 年的综述中将其列为研究最多的生物活性化合物之一。但请注意：同一篇综述要求通过大规模人体临床试验来确认其功效和安全性。 一种色素在实验室中表现出良好效果，并不意味着它在您的体内也会有同样的效果。请保存此视频，并与可能需要的人分享。在做出任何改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学知识。",
+      "texto_ko": "그것은 피코시아닌이라고 불립니다. 2022년의 고냐(Gogna)의 검토에서는 이를 엽록소와 카로틴과 함께 스피룰리나의 피코빌리단백질 중 하나로 포함하고 있습니다. 2024년 스피놀라의 리뷰에서는 피코시아닌을 가장 많이 연구된 생리활성 화합물 중 하나로 언급하고 있습니다. 하지만 주의할 점은, 같은 문헌 고찰에서 그 효능과 안전성을 확인하기 위해 대규모 인간 임상 시험이 필요하다고 언급하고 있다는 것입니다. 어떤 색소가 실험실에서 흥미로운 결과를 보인다고 해서 그것이 우리 몸에서도 똑같은 효과를 낸다는 증거는 아닙니다. 이 동영상을 저장하고 도움이 될 수 있는 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline에서 저희를 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
