@@ -65,6 +65,7 @@ jobs:
           python -c "import json,os;print('Libreto:', json.load(open(os.environ['P']+'/guion.json')).get('libreto'))"
       - name: Producir y programar
         env:
+          GH_TOKEN: ${{ github.token }}
           SOLO_PROYECTO: ${{ matrix.proyecto }}
           VENTANA_HORAS: "120"
         run: |
