@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The seed that is kept… stays alone 🌱 #shorts",
+        "description": "Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit. (John 12:24–25, paraphrase RVR1960) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "A semente que é guardada… fica sozinha 🌱 #shorts",
+        "description": "Se o grão de trigo não cair na terra e morrer, permanecerá só; mas, se morrer, dará muito fruto. (João 12:24-25, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "البذرة التي تُحفظ... تبقى وحيدة 🌱 #shorts",
+        "description": "إن لم تقع حبة الحنطة في الأرض وتمت، فهي تبقى وحدها. ولكن إن ماتت، فإنها تأتي بثمر كثير. (يوحنا 12: 24-25، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "留下的种子……会独自生长 🌱 #shorts",
+        "description": "一粒麦子不落在地里死了，仍旧是一粒；若死了，就结出许多子粒来。（约翰福音 12:24-25，RVR1960 译本意译）订阅 MayorDom · 圣经管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "혼자 남겨진 씨앗은... 🌱 #shorts",
+        "description": "밀알이 땅에 떨어져 죽지 않으면 한 알 그대로 있지만, 죽으면 많은 열매를 맺습니다. (요한복음 12:24-25, RVR1960 번역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "single wheat grain macro"
-      }
+      },
+      "texto_en": "If you keep a seed in a drawer, you preserve it. But it remains alone forever.",
+      "texto_pt": "Se você guardar uma semente em uma gaveta, ela será preservada. Mas ela fica sozinha para sempre.",
+      "texto_ar": "إذا وضعت بذرة في درج، فأنت تحتفظ بها. لكنها ستبقى وحيدة إلى الأبد.",
+      "texto_zh": "如果您将种子存放在抽屉里，您就将它保存起来了。但它将永远孤零零地躺在那里。",
+      "texto_ko": "씨앗을 서랍에 넣어두면 보관할 수 있습니다. 하지만 그 씨앗은 영원히 혼자 남게 됩니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "calido",
       "visual": {
         "query": "wheat field growing sunrise"
-      }
+      },
+      "texto_en": "Jesus said it in John 12:24: Unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit. And in the next verse: Whoever loves his life loses it. This is how the principle of Christ works: What is given away multiplies; what is held back is lost. Today, at six o'clock in the evening, we will conclude chapter four of Counsels on Stewardship. I'll be waiting for you.",
+      "texto_pt": "Jesus disse em João 12:24: \"Se o grão de trigo não cair na terra e não morrer, fica só; mas, se morrer, dá muito fruto.\" E no versículo seguinte: aquele que ama a sua vida, a perderá. É assim que funciona o princípio de Cristo: o que se solta, se multiplica; o que se retém, se perde. Hoje, às seis da tarde, encerraremos o capítulo quatro de Conselhos sobre mordomia cristã. Espero por vocês.",
+      "texto_ar": "قال يسوع في إنجيل يوحنا الإصحاح الثاني عشر، الآية الرابعة والعشرين: إن لم تقع حبة الحنطة في الأرض وتمت، فهي تبقى وحدها. ولكن إن ماتت، فإنها تأتي بثمر كثير. وفي الآية التالية: من أحب حياته أضاعها. هكذا يعمل مبدأ المسيح: ما يُعطى يتضاعف؛ وما يُحتفظ به يُفقد. اليوم، في الساعة السادسة مساءً، سنختتم الفصل الرابع من كتاب \"نصائح حول الإشراف المسيحي\". في انتظارك.",
+      "texto_zh": "耶稣在《约翰福音》第十二章二十四节中说：一粒麦子不落在地里死了，仍旧是一粒；若死了，就结出许多子粒来。在下一节经文中，祂又说：爱惜自己生命的，就丧掉生命。基督的原则就是这样运作的：舍弃的会增多，留住的会失去。今天下午六点，我们将结束《基督徒管家职责的忠告》第四章的学习。期待您的参与。",
+      "texto_ko": "예수님께서 요한복음 12장 24절에서 말씀하셨습니다. 밀알이 땅에 떨어져 죽지 않으면 한 알 그대로 있지만, 죽으면 많은 열매를 맺는다고 하셨습니다. 그리고 다음 구절에서: 자기 목숨을 사랑하는 자는 잃을 것이요. 그리스도의 원리는 이렇게 작동합니다. 놓아주면 배가 되고, 붙잡으면 잃게 됩니다. 오늘 오후 6시에 우리는 기독교 청지기 직분에 대한 조언의 4장을 마치겠습니다. 여러분을 기다리겠습니다."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
