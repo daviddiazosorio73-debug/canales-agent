@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "God's invitation that can't be understood just by reading 🍯 #shorts",
+        "description": "There is an invitation in the Bible that cannot be understood by reading alone. You have to do something else. Psalm 34:8 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "دعوة الله التي لا يمكن فهمها فقط من خلال القراءة 🍯 #shorts",
+        "description": "هناك دعوة في الكتاب المقدس لا يمكن فهمها فقط من خلال القراءة. يجب القيام بشيء آخر. مزمور 34: 8 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "神的邀请，光靠阅读是无法理解的🍯 #shorts",
+        "description": "圣经中有一个邀请，仅仅通过阅读是无法理解的。还需要做另一件事。诗篇 34:8 订阅，1 分钟内即可获得更多安息日学堂内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "단지 읽는 것만으로는 이해할 수 없는 하나님의 초대 🍯 #shorts",
+        "description": "성경에는 읽기만 해서는 이해할 수 없는 권면이 있습니다. 다른 일을 해야 합니다. 시편 34:8 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "honey dripping from wooden dipper close up"
-      }
+      },
+      "texto_en": "There is an invitation in the Bible that cannot be understood by reading alone. You have to do something else.",
+      "texto_ar": "هناك دعوة في الكتاب المقدس لا يمكن فهمها فقط من خلال القراءة. يجب القيام بشيء آخر.",
+      "texto_zh": "圣经中有一个邀请，仅仅通过阅读是无法理解的。还需要做其他事情。",
+      "texto_ko": "성경에는 읽기만 해서는 이해할 수 없는 권면이 있습니다. 다른 일을 해야 합니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "sunrise over quiet green valley"
-      }
+      },
+      "texto_en": "Psalm thirty-four, verse eight. Taste and see that the Lord is good; blessed is the one who takes refuge in him. The psalmist doesn't just ask to hear about God, but to experience Him, like someone who tastes a food and discovers its flavor. This is today's theme for lesson nine, Putting the prophets to the test: taste and see. The biblical tests we have seen this week are important, but trust truly grows when you live the message and see the fruit in your own life. God is not afraid of being tested like this. Comment \"I will test Him.\"",
+      "texto_ar": "المزمور أربعة وثلاثون، الآية الثامنة. ذوقوا وانظروا ما أطيب الرب! طوبى للرجل الذي يحتمي به. لا يطلب كاتب المزمور فقط أن يسمع عن الله، بل أن يجربه، مثل من يتذوق طعامًا ويكتشف مذاقه. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: تذوقوا وانظروا. الاختبارات الكتابية التي رأيناها هذا الأسبوع مهمة، ولكن الثقة تنمو حقًا عندما تعيش الرسالة وترى ثمارها في حياتك. الله لا يخاف من أن يُختبر بهذه الطريقة. اكتب في التعليقات \"سأختبره\".",
+      "texto_zh": "诗篇第三十四篇第八节。你们要尝尝主恩的滋味，便知道他是美善；投靠他的人有福了！诗篇作者不仅要求听闻上帝，还要体验祂，就像品尝食物并发现其味道一样。这是今天第九课的主题：考验先知：尝尝看。 我们本周看到的圣经检验固然重要，但只有当您践行圣经信息并在自己的生活中看到果实时，信心才会真正增长。神并不害怕以这种方式被检验。请留言“我将检验”。",
+      "texto_ko": "시편 34편 8절. 여호와께서 선하시니 맛보고 알지어다 그를 의지하는 자는 복이 있도다. 시편 기자는 단순히 하나님에 대해 듣기만 하는 것이 아니라 음식을 맛보고 그 맛을 알아가는 것처럼 하나님을 경험해 보라고 권면합니다. 오늘 9과, 선지자들을 시험해 보기: 맛보고 경험해 보십시오의 주제입니다. 이번 주에 살펴본 성경적 시험은 중요하지만, 메시지를 실천하고 자신의 삶에서 그 열매를 볼 때 진정한 신뢰가 자랍니다. 하나님께서는 이렇게 시험받는 것을 두려워하지 않으십니다. \"시험해 보겠습니다\"라고 댓글을 달아 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
