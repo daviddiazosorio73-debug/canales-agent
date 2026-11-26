@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Six tests to determine whether a prophet is from God ✅ #shorts",
+        "description": "This week, we looked at six biblical tests to determine whether a message comes from God. Do you remember them all? 1 John 4:1 Subscribe for more 1-Minute Sabbath School. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Seis testes para saber se um profeta é de Deus ✅ #shorts",
+        "description": "Esta semana, vimos seis provas bíblicas para saber se uma mensagem vem de Deus. Você se lembra de todas elas? 1 João 4:1 Inscreva-se para ver mais vídeos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "ستة اختبارات لمعرفة ما إذا كان النبي من عند الله ✅ #shorts",
+        "description": "هذا الأسبوع، رأينا ستة أدلة كتابية لمعرفة ما إذا كانت الرسالة من الله. هل تتذكرها جميعًا؟ 1 يوحنا 4: 1 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "六项检验先知是否来自上帝的测试 ✅ #shorts",
+        "description": "本周我们学习了六项圣经检验标准，以判断某信息是否来自上帝。您还记得所有这些吗？约翰一书 4:1 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "선지자가 하나님께로부터 온 것인지 알아보는 여섯 가지 시험 ✅ #shorts",
+        "description": "이번 주에는 어떤 메시지가 하나님으로부터 온 것인지 알 수 있는 성경적 증거 6가지를 살펴보았습니다. 모두 기억하시나요? 요한일서 4:1 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "checklist on clipboard with pen"
-      }
+      },
+      "texto_en": "This week we looked at six biblical tests to determine whether a message comes from God. Do you remember them all?",
+      "texto_pt": "Esta semana, vimos seis provas bíblicas para saber se uma mensagem vem de Deus. Você se lembra de todas elas?",
+      "texto_ar": "شاهدنا هذا الأسبوع ستة أدلة كتابية لمعرفة ما إذا كانت الرسالة تأتي من الله. هل تتذكرها جميعًا؟",
+      "texto_zh": "本周我们学习了六项圣经检验标准，以判断某条信息是否来自上帝。您还记得所有这些标准吗？",
+      "texto_ko": "이번 주에는 메시지가 하나님으로부터 온 것인지 알 수 있는 성경적 증거 6가지를 살펴보았습니다. 모두 기억하시나요?"
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "six stones stacked in balance by river"
-      }
+      },
+      "texto_en": "Review of Lesson Nine, Testing the Prophets, key verse 1 John 4:1. One: The supernatural is not enough, according to Matthew 24. Two: Harmony with the Bible, Isaiah 8:20. Three: Confess that Jesus Christ came in the flesh, 1 John 4. Four: Fruits, Matthew 7. Five: Fulfilled prophecies, Jeremiah 28. Six: Taste and see, Psalm thirty-four. No single test tells the whole story; together, they form a reliable network. Save it to keep it handy. Subscribe and comment on which one helped you the most.",
+      "texto_pt": "Revisão da lição nove, Testando os profetas, versículo-chave 1 João 4:1. Primeiro: o sobrenatural não é suficiente, de acordo com Mateus 24. Dois: harmonia com a Bíblia, Isaías 8:20. Terceiro: confessar que Jesus Cristo veio em carne, 1 João 4. Quatro: frutos, Mateus 7. Quinto: profecias cumpridas, Jeremias 28. Seis: provar e ver, Salmo 34. Nenhum teste por si só diz tudo; juntos, eles formam uma rede segura. Guarde para ter por perto. Inscreva-se e comente qual delas mais ajudou você.",
+      "texto_ar": "مراجعة الدرس التاسع، اختبار الأنبياء، الآية الرئيسية الأولى من رسالة يوحنا الأولى الأصحاح الرابع، الآية الأولى. أولًا: الخوارق وحدها لا تكفي، وفقًا لإنجيل متى الإصحاح الرابع والعشرين. ثانيًا: الانسجام مع الكتاب المقدس، إشعياء 8: 20. ثالثًا: الاعتراف بأن يسوع المسيح جاء في الجسد، رسالة يوحنا الأولى الأصحاح الرابع. رابعًا: الثمار، متى الإصحاح السابع. خامسًا: النبوءات التي تحققت، إرميا ٢٨. سادسًا: تذوقوا وانظروا، مزمور أربعة وثلاثون. لا يوجد دليل واحد يخبرنا بكل شيء؛ ولكنها معًا تشكل شبكة آمنة. احتفظ به ليكون في متناول يدك. اشترك وعلق على أي منها ساعدك أكثر.",
+      "texto_zh": "第九课回顾，检验先知，关键经文约翰一书第四章第一节。第一：根据马太福音二十四章，超自然现象并不足以证明。第二：与圣经一致，以赛亚书第八章第二十节。第三：承认耶稣基督成了肉身，约翰一书第四章。四：果子，马太福音第七章。五：应验的预言，耶利米书第二十八章。第六：尝尝看，诗篇第三十四篇。 任何一项检测都不能说明全部问题；各项检测共同构成一个安全的网络。请妥善保管，以备不时之需。订阅并留言，告诉我们哪一项对您帮助最大。",
+      "texto_ko": "9과 복습, 선지자 시험하기, 핵심 성구 요한일서 4장 1절. 첫째, 마태복음 24장에 따르면 초자연적인 것만으로는 충분하지 않습니다. 둘째, 성경과의 조화, 이사야 8장 20절. 셋째, 예수 그리스도께서 육신으로 오셨음을 고백하는 것, 요한일서 4장입니다. 넷째, 열매, 마태복음 7장. 다섯째, 성취된 예언, 예레미야 28장. 여섯째, 맛보고 보라, 시편 34편. 어떤 증거도 단독으로는 모든 것을 말해주지 않습니다. 하지만 함께 모이면 안전한 네트워크를 형성합니다. 나중에 참고할 수 있도록 저장해 두세요. 구독하고 어떤 것이 가장 도움이 되었는지 댓글을 남겨주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
