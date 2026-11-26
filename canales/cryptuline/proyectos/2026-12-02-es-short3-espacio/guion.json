@@ -36,7 +36,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-12-03T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Spirulina in space? What a 2024 review says #shorts",
+        "description": "Spirulina and life support systems in space. 📚 Sources (PubMed):\n• Sinetova M.A., Kupriyanova E.V., Los D.A. Spirulina/Arthrospira/Limnospira – Three Names of the Single Organism. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762 Educational content for adults over 18. This is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthesized voice. Cryptuline."
+      },
+      "pt": {
+        "title": "Espirulina no espaço? O que diz uma revisão de 2024 #shorts",
+        "description": "Espirulina e sistemas de suporte à vida no espaço. 📚 Fontes (PubMed):\n• Sinetova MA, Kupriyanova EV, Los DA. Spirulina/Arthrospira/Limnospira – Três nomes do mesmo organismo. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte o seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "السبيرولينا في الفضاء؟ ما تقوله مراجعة عام 2024 #shorts",
+        "description": "السبيرولينا وأنظمة دعم الحياة في الفضاء. 📚 المصادر (PubMed):\n• سينيتوفا م. أ.، كوبريانوفا إ. ف.، لوس د. أ. السبيرولينا/الأرثروسبيرا/الليمنوسبيرا - ثلاثة أسماء لكائن حي واحد. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762 محتوى تثقيفي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشيري طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتولين."
+      },
+      "zh-Hans": {
+        "title": "螺旋藻在太空？2024 年的一项综述研究表明 #shorts",
+        "description": "螺旋藻与太空生命支持系统。📚 资料来源（PubMed）：\n• Sinetova MA、Kupriyanova EV、Los DA。螺旋藻/节旋藻/湖旋藻——同一种生物的三种名称。《食品》。2024 年；13(17)：2762。https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762 适合 18 岁以上人士的教育内容。 本产品不能替代医疗咨询：在改变饮食、体育锻炼或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "우주에서 스피룰리나? 2024년 리뷰가 말하는 것 #shorts",
+        "description": "스피룰리나와 우주 생명 유지 시스템. 📚 출처(PubMed):\n• 시네토바 MA, 쿠프리야노바 EV, 로스 DA. 스피룰리나/아트로스피라/림노스피라 - 하나의 유기체에 대한 세 가지 명칭. Foods. 2024;13(17):2762. https://pubmed.ncbi.nlm.nih.gov/39272527/ · https://doi.org/10.3390/foods13172762 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식단, 신체 활동 또는 치료를 변경하기 전에 의사와 상의하세요. 인공 음성 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -47,7 +69,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "earth from space night lights"
-      }
+      },
+      "texto_en": "A microscopic organism that is being studied for Earth… and for space.",
+      "texto_pt": "Um organismo microscópico que é estudado para a Terra… e para o espaço.",
+      "texto_ar": "كائن مجهري تتم دراسته من أجل الأرض... ومن أجل الفضاء.",
+      "texto_zh": "一种为地球……和太空而研究的微小生物。",
+      "texto_ko": "지구와 우주를 위해 연구되는 미생물."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "green algae bioreactor tubes laboratory"
-      }
+      },
+      "texto_en": "The 2024 review by Sinetova and her team describes spirulina as a possible component of life support systems, both on Earth and in space. It is a line of research, not a product. And remember: Just because something is being studied for astronauts doesn't prove that it's a superfood for you. This Friday at 6:00 p.m. Lima time, the nutrition video: What spirulina really contains. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "A revisão de Sinetova e sua equipe, de 2024, descreve a espirulina como um possível componente dos sistemas de suporte à vida, tanto na Terra quanto no espaço. É uma linha de pesquisa, não um produto. E lembre-se: o fato de algo ser estudado para astronautas não prova que seja um superalimento para você. Nesta sexta-feira, às 18h, horário de Lima, o vídeo sobre nutrição: o que a espirulina realmente contém. Salve este vídeo e compartilhe com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos no Cryptuline para ver mais conteúdos sobre ciência da saúde.",
+      "texto_ar": "تصف مراجعة سينيتوفا وفريقها، التي أجريت في عام ألفين وأربعة وعشرين، السبيرولينا كمكون محتمل لأنظمة دعم الحياة، سواء على الأرض أو في الفضاء. إنه مجال بحث، وليس منتجًا. وتذكر: مجرد أن يتم دراسة شيء ما من أجل رواد الفضاء لا يثبت أنه غذاء خارق بالنسبة لك. هذا الجمعة الساعة السادسة مساءً بتوقيت ليما، فيديو التغذية: ما الذي تحتويه السبيرولينا حقًا في الداخل. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشيري طبيبك قبل إجراء أي تغييرات. تابعنا على Cryptuline لمزيد من المعلومات العلمية المتعلقة بالصحة.",
+      "texto_zh": "西内托娃及其团队在 2024 年的综述中将螺旋藻描述为地球和太空生命支持系统的潜在组成部分。这只是一个研究方向，而不是一种产品。请记住：某样东西被用于对宇航员的研究，并不意味着它对您来说就是一种超级食物。本周五下午 6 点（利马时间），营养视频：螺旋藻的真正成分。 请保存此视频，并与可能需要的人分享。在做出任何改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学知识。",
+      "texto_ko": "시네토바와 그녀의 팀이 2024년에 발표한 연구 결과는 스피룰리나를 지구와 우주 모두에서 생명 유지 시스템의 잠재적 구성 요소로 설명합니다. 이것은 제품이 아니라 연구 분야입니다. 그리고 기억하세요. 우주비행사를 위해 무언가를 연구한다고 해서 그것이 여러분에게 슈퍼푸드라는 증거가 되는 것은 아닙니다. 이번 주 금요일 오후 6시(리마 시간)에 영양 관련 동영상이 공개됩니다. 스피룰리나의 실제 성분에 대해 알아보세요. 이 동영상을 저장하고 도움이 될 만한 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline에서 저희를 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
