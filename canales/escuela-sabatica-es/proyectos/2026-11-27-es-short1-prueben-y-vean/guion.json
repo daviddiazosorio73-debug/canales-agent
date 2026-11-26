@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The bravest invitation in the Bible 😋 #shorts",
+        "description": "There is a verse that doesn't ask you to believe first. It invites you to try. Psalm 34:8 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "O convite mais ousado da Bíblia 😋 #shorts",
+        "description": "Há um versículo que não pede que você acredite primeiro. Ele convida você a experimentar. Salmos 34:8 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الدعوة الأكثر شجاعة في الكتاب المقدس 😋 #shorts",
+        "description": "هناك آية لا تطلب منك أن تؤمن أولاً. إنه يدعوك للتجربة. مزمور 34: 8 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "圣经中最勇敢的邀请 😋 #shorts",
+        "description": "有一节经文并不要求你先相信。它邀请你来尝试。诗篇 34:8 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "성경에서 가장 용감한 초대 😋 #shorts",
+        "description": "먼저 믿으라고 요구하지 않는 성경 구절이 있습니다. 그 구절은 여러분에게 시도해 보라고 권합니다. 시편 34:8 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "fresh bread on rustic table steam rising"
-      }
+      },
+      "texto_en": "There is a verse that doesn't ask you to believe first. It invites you to try.",
+      "texto_pt": "Há um versículo que não pede que você acredite primeiro. Ele convida você a experimentar.",
+      "texto_ar": "هناك آية لا تطلب منك أن تؤمن أولاً. يدعوك لتجربته.",
+      "texto_zh": "有一节经文并不要求你先相信。它邀请你来尝试。",
+      "texto_ko": "먼저 믿으라고 요구하지 않는 성경 구절이 있습니다. 그 말씀은 여러분에게 시도해 보라고 권합니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "honey dripping from wooden dipper"
-      }
+      },
+      "texto_en": "It is Psalm thirty-four, verse eight: Taste and see that the Lord is good; blessed is the one who trusts in him. It is today's topic in Lesson Nine, Testing the Prophets. After the tests of the Word, of Christ, of the fruits, and of fulfillment, comes a personal invitation: experience it for yourself. No one can taste for you. Read, pray, obey what you understand, and observe what God does in your life. Biblical faith does not shy away from testing; it seeks it out. Subscribe and comment, \"I'm going to try it.\"",
+      "texto_pt": "É o Salmo trinta e quatro, versículo oito: Provai e vede que o Senhor é bom; bem-aventurado o homem que nele confia. É o tema de hoje na lição nove, Testando os profetas. Depois dos testes da Palavra, de Cristo, dos frutos e do cumprimento, vem um convite pessoal: experimente você mesmo. Ninguém pode provar por você. Leia, ore, obedeça ao que entender e observe o que Deus faz em sua vida. A fé bíblica não foge da provação; ela a busca. Inscreva-se e comente \"Vou testar\".",
+      "texto_ar": "إنه المزمور الرابع والثلاثون، الآية الثامنة: ذوقوا وانظروا ما أطيب الرب. طوبى للرجل الذي يتوكل عليه. هذا هو موضوع اليوم في الدرس التاسع، اختبار الأنبياء. بعد اختبارات الكلمة والمسيح والثمار والتحقق، تأتي دعوة شخصية: جربه بنفسك. لا أحد يستطيع أن يتذوق لك. اقرأ، وصلّ، وأطع ما تفهمه، ولاحظ ما يفعله الله في حياتك. الإيمان الكتابي لا يهرب من الاختبار؛ بل يبحث عنه. اشترك وعلق بعبارة \"سأجربه\".",
+      "texto_zh": "这是诗篇第三十四篇第八节：你们要尝尝主恩的滋味，便知道他是美善；投靠他的人有福了。这是今天第九课的主题：检验先知。在对圣言、基督、果子和应验的检验之后，接下来是一个个人的邀请：亲自去体验。没有人能替你品尝。阅读、祷告、遵行你所理解的，并观察神在你生命中所做的事。 圣经信仰并不逃避考验；它寻求考验。订阅并留言“我要试试”。",
+      "texto_ko": "시편 34편 8절입니다. 여호와를 맛보고 그가 선함을 알지어다. 그를 의지하는 자는 복이 있도다. 오늘 9과, 선지자들을 시험하는 것의 주제입니다. 말씀, 그리스도, 열매, 성취에 대한 시험이 끝나면 개인적인 권면이 이어집니다. 직접 경험해 보라는 것입니다. 아무도 당신을 대신해 맛볼 수 없습니다. 읽고, 기도하고, 이해한 것을 순종하고, 하나님께서 여러분의 삶에서 행하시는 일을 지켜보십시오. 성경적 믿음은 시련을 피하지 않고 오히려 시련을 찾습니다. 구독하고 \"한번 해보겠습니다\"라고 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
