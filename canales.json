@@ -533,5 +533,62 @@
       "divulgacion": "Comercio exterior paso a paso",
       "short": "Shorts de comercio exterior"
     }
+  },
+  "brycto": {
+    "youtube_id": "",
+    "cliente": "B",
+    "activo": false,
+    "idioma": "es",
+    "tts": "edge",
+    "voz": "es-PE-AlexNeural",
+    "res_4k": true,
+    "clips_largos": true,
+    "nombre": "BRYCTO · Cripto con ley y sin humo",
+    "handle": "",
+    "cuenta": "brycto.atomikchain",
+    "secreto": "REFRESH_TOKEN_BRYCTO",
+    "prioridad": 10,
+    "calendario": "Cripto neutro y legal (orden del Fundador, 25-nov-2026). Inicial: 1 largo semanal (lunes 19:00 Lima = 00:00Z martes) + 1 Short diario lun-vie 12:00 Lima (17:00Z). Temas: cómo funciona (blockchain, wallets, custodia), regulación y su estado real (Perú: SBS, SMV, SUNAT, UIF; internacional: GAFI/FATF, BIS, FMI, MiCA de la UE, SEC/CFTC), impuestos, seguridad y fraudes. Prohibido: recomendar comprar o vender, predecir precios, promocionar tokens, exchanges o NFT propios, prometer ganancias. Cada norma con número, fecha y enlace oficial verificado; aviso «Contenido educativo; no es asesoría financiera ni legal».",
+    "listas": {
+      "divulgacion": "Cripto con ley: regulación y seguridad",
+      "short": "Shorts: cripto sin humo"
+    }
+  },
+  "pentagono": {
+    "youtube_id": "",
+    "cliente": "B",
+    "activo": false,
+    "idioma": "es",
+    "tts": "edge",
+    "voz": "es-PE-AlexNeural",
+    "res_4k": true,
+    "clips_largos": true,
+    "nombre": "D. E. Pentágono S. A. · Minería y seguridad vial",
+    "handle": "@d.e.pentagonos.a.3902",
+    "cuenta": "(por confirmar)",
+    "secreto": "REFRESH_TOKEN_PENTAGONO",
+    "prioridad": 11,
+    "calendario": "Minería y seguridad vial (orden del Fundador, 25-nov-2026). Inicial: 1 largo semanal (jueves 19:00 Lima = 00:00Z viernes) + 3 Shorts por semana (lun/mié/vie 07:30 Lima = 12:30Z). Temas: seguridad en minería, manejo en carreteras mineras y de altura, fatiga, clima extremo, primeros auxilios básicos, normas. Fuentes oficiales verificadas: MINEM, OSINERGMIN, SUNAFIL, MTC, OIT, MSHA (EE. UU.); cifras solo de la fuente con año. Se pueden reusar sus 4 videos propios como material. Sin consejos que reemplacen la capacitación obligatoria.",
+    "listas": {
+      "divulgacion": "Minería segura y carreteras extremas",
+      "short": "Shorts de seguridad minera y vial"
+    }
+  },
+  "inicmes": {
+    "youtube_id": "",
+    "cliente": "B",
+    "activo": false,
+    "idioma": "es",
+    "tts": "edge",
+    "voz": "es-PE-AlexNeural",
+    "res_4k": true,
+    "clips_largos": true,
+    "nombre": "INICMES Instituto",
+    "handle": "@inicmesinstituto6860",
+    "cuenta": "(por confirmar)",
+    "secreto": "REFRESH_TOKEN_INICMES",
+    "prioridad": 12,
+    "calendario": "Contenido propio, no espejo (orden del Fundador, 25-nov-2026). Tema y calendario por confirmar con el Fundador.",
+    "listas": {}
   }
 }

@@ -16,6 +16,9 @@ Fuente: capturas de YouTube del Fundador (25-nov-2026) + `canales.json`. Suscrip
 | DaDios7 (@DaDios7) | sankys01@ | 27 | Preparado: espejo de SPRI (público médico); falta llave |
 | IASD Parachique Central | daviddiazosorio73 (gestor) | 1 | Preparado: espejo del Short 1 de ES, MayorDom y Cryptuline; falta llave |
 | David "IMEX" Diaz Osorio | ddiazimexpomundo@ | 3 | Preparado: comercio exterior; falta llave |
+| BRYCTO | brycto.atomikchain@ | 0 | Preparado: cripto neutro y legal; falta llave |
+| D. E. Pentágono S. A. (@d.e.pentagonos.a.3902) | por confirmar | – | Preparado: minería y seguridad vial; falta llave |
+| INICMES Instituto (@inicmesinstituto6860) | por confirmar | – | Contenido propio; falta tema y llave |
 
 Instagram/Facebook (Reels): bloqueados por Meta («API access blocked») desde el 18-nov.
 
@@ -25,7 +28,6 @@ Instagram/Facebook (Reels): bloqueados por Meta («API access blocked») desde e
 | David Diaz Osorio (@MetaVirtualizer) | daviddiazosorio73 | 2 |
 | LL GO ++ (@LLGOMASS) | daviddiazosorio73 | 0 |
 | BlueOceanNFT (@BlueOceanNFT) | ddiaz.zonaoriente.alfano@ | 3 |
-| BRYCTO | brycto.atomikchain@ | 0 |
 | VIRTUAL BUSINESS (@VIRTUALBUSINESSNFT) | sankys01@ | 0 |
 
 Más canales en «Ver todos los canales» de daviddiazosorio73 y sankys01 (no visibles en las capturas).
