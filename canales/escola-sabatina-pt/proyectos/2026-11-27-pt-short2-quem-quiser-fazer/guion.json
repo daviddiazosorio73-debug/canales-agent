@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "How can you tell if a teaching comes from God? 🗝️ #shorts",
+        "description": "Many people want to be sure before they obey. Jesus presented a different command. John 7:17 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "كيف تعرف ما إذا كان التعليم يأتي من الله؟ 🗝️ #shorts",
+        "description": "يريد الكثير من الناس التأكد قبل أن يطيعوا. قدم يسوع أمرًا مختلفًا. يوحنا 7: 17 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "如何知道某项教导是否来自上帝？🗝️ #shorts",
+        "description": "很多人在服从之前都想先确定。耶稣提出了一个不同的命令。约翰福音 7:17 订阅，1 分钟内即可观看更多安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "어떤 가르침이 하나님으로부터 온 것인지 어떻게 알 수 있을까요? 🗝️ #shorts",
+        "description": "많은 사람들이 순종하기 전에 확신을 얻고자 합니다. 예수님께서는 다른 순서를 제시하셨습니다. 요한복음 7:17 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "old iron key in lock of wooden door"
-      }
+      },
+      "texto_en": "Many people want to be sure before they obey. Jesus presented a different order.",
+      "texto_ar": "يريد الكثير من الناس التأكد قبل أن يطيعوا. قدم يسوع أمرًا مختلفًا.",
+      "texto_zh": "很多人在服从之前都想先确定。耶稣提出了一个不同的命令。",
+      "texto_ko": "많은 사람들이 순종하기 전에 확신하고 싶어 합니다. 예수님께서는 다른 명령을 내리셨습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "path of stepping stones leading toward light"
-      }
+      },
+      "texto_en": "John 7, verse 17. Jesus said that if anyone chooses to do God's will, he will find out whether the teaching comes from God or if he was speaking on his own. Certainty doesn't come just from discussing things. It comes from a disposition: being ready to obey. This is today's topic for Lesson 9, Testing the Prophets: Taste and See. Those who put into practice what God shows discover, through their own experience, that the Word is true. What step of obedience is God asking of you this week? Comment.",
+      "texto_ar": "إنجيل يوحنا الإصحاح السابع، الآية السابعة عشر. قال يسوع إنه إذا أراد أحد أن يفعل مشيئة الله، فسيعرف ما إذا كان التعليم يأتي من الله أم أنه كان يتكلم من تلقاء نفسه. لا يأتي اليقين من مجرد النقاش. بل ينبع من استعداد: الاستعداد للطاعة. هذا هو موضوع الدرس التاسع اليوم، اختبار الأنبياء: جربوا وشاهدوا. من يطبق ما يظهره الله يكتشف، من خلال تجربته الخاصة، أن الكلمة صادقة. ما هي خطوة الطاعة التي يطلبها منك الله هذا الأسبوع؟ اذكرها.",
+      "texto_zh": "约翰福音第七章第十七节。耶稣说，人若立志遵行神的旨意，就会知道这教训是出于神，还是他凭着自己说的。确定性并非仅仅来自争论。它源于一种态度：愿意服从。这是今天第九课的主题：检验先知：试一试，看一看。凡将上帝所启示的付诸实践的人，都会在自己的经历中发现，祂的话语是真实的。 本周，上帝要求您迈出哪一步顺服？请留言。",
+      "texto_ko": "요한복음 7장 17절입니다. 예수님께서는 누구든지 하나님의 뜻을 행하고자 하면 그 가르침이 하나님께로부터 온 것인지, 아니면 그분이 스스로 말한 것인지 알게 될 것이라고 말씀하셨습니다. 확신은 논쟁에서만 오는 것이 아닙니다. 확신은 순종할 준비가 되어 있는 태도에서 비롯됩니다. 오늘 9과, '선지자들을 시험해 보기: 시험해 보고 확인하기'의 주제입니다. 하나님께서 보여주시는 것을 실천하는 사람은 자신의 경험을 통해 말씀이 참되다는 것을 알게 됩니다. 이번 주에 하나님께서 여러분에게 요구하시는 순종의 단계는 무엇입니까? 의견을 남겨 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
