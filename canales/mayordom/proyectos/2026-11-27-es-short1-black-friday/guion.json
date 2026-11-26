@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-27T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Today is Black Friday. Listen to this before you buy 🛍️ #shorts",
+        "description": "Today is Black Friday. Jesus: Life does not consist in an abundance of possessions. (Luke 12:15 · Hebrews 13:5, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Hoje é Black Friday. Ouça isso antes de comprar 🛍️ #shorts",
+        "description": "Hoje é Black Friday. Jesus: A vida não consiste na abundância dos bens que se possui. (Lucas 12:15 · Hebreus 13:5, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "اليوم هو الجمعة البيضاء. استمع إلى هذا قبل الشراء 🛍️ #shorts",
+        "description": "اليوم هو الجمعة البيضاء. يسوع: الحياة ليست في وفرة الممتلكات التي يملكها المرء. (لوقا 12: 15 · عبرانيين 13: 5، تفسير RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "今天是黑色星期五。购物前请听我说 🛍️ #shorts",
+        "description": "今天是黑色星期五。耶稣说：人的生命不在乎家道丰富。（路加福音 12:15 · 希伯来书 13:5，RVR1960 译本意译）订阅 MayorDom · 圣经管家之道。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "오늘은 블랙프라이데이입니다. 구매하기 전에 이것을 들어보세요 🛍️ #shorts",
+        "description": "오늘은 블랙 프라이데이입니다. 예수님: 생명은 소유한 재산의 풍요로움에 있지 않습니다. (누가복음 12:15 · 히브리서 13:5, RVR1960 패러프레이즈) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 된 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "shopping bags sale crowd"
-      }
+      },
+      "texto_en": "Today is Black Friday. Millions of people are going to buy things that yesterday they didn't know they needed.",
+      "texto_pt": "Hoje é Black Friday. Milhões de pessoas vão comprar coisas que ontem não sabiam que precisavam.",
+      "texto_ar": "اليوم هو الجمعة البيضاء. سيذهب ملايين الأشخاص لشراء أشياء لم يكونوا يعلمون أمس أنهم بحاجة إليها.",
+      "texto_zh": "今天是黑色星期五。数以百万计的人将购买昨天还不知道自己需要的东西。",
+      "texto_ko": "오늘은 블랙 프라이데이입니다. 수백만 명의 사람들이 어제만 해도 필요하다고 생각하지 않았던 것들을 사러 갈 것입니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "enfasis",
       "visual": {
         "query": "wallet credit card hesitation"
-      }
+      },
+      "texto_en": "There's nothing wrong with buying things. But Jesus gave a warning in Luke 12:15: “Guard yourselves against every form of greed, for one’s life does not consist in the abundance of possessions.” And Hebrews 13 asks us to live without the love of money, content with what we have, because He promised not to leave us. Before you pay, ask yourself: Do I need this, or do I just want it? Today, at 6:00 p.m., we will wrap up Chapter 4: How to Choose the Right Principle.",
+      "texto_pt": "Não é errado comprar. Mas Jesus deixou um aviso em Lucas 12:15: \"Acautelai-vos e guardai-vos da avareza; porque a vida de qualquer não consiste na abundância dos bens que possui.\" E Hebreus 13 nos pede que vivamos sem amar o dinheiro, contentes com o que temos, porque Ele prometeu não nos abandonar. Antes de pagar, pergunte a si mesmo: eu preciso disso ou apenas quero? Hoje, às seis da tarde, encerramos o capítulo quatro: como escolher o princípio correto.",
+      "texto_ar": "ليس من الخطأ أن تشتري. لكن يسوع ترك تحذيرًا في إنجيل لوقا الإصحاح الثاني عشر، الآية الخامسة عشرة: احترسوا من كل طمع، لأن حياة الإنسان لا تتكون من وفرة ما يمتلكه من أموال. ويطلب منا سفر العبرانيين الثالث عشر أن نعيش دون حب للمال، راضين بما لدينا، لأنه وعد بأنه لن يتركنا. قبل أن تدفع، اسأل نفسك: هل أحتاج إلى هذا، أم أنني أريده فقط؟ اليوم، في الساعة السادسة مساءً، نختتم الفصل الرابع: كيفية اختيار المبدأ الصحيح.",
+      "texto_zh": "购物并没有错。但耶稣在《路加福音》第十二章第十五节中留下了警告：你们要谨慎自守，免去一切的贪心，因为人的生命不在乎家道丰富。希伯来书第十三章要求我们不要贪爱钱财，知足常乐，因为祂应许永不撇下我们。在付款之前，问问自己：我需要这个吗，还是我只是想要这个？ 今天下午六点，我们将结束第四章的学习：如何选择正确的原则。",
+      "texto_ko": "쇼핑하는 것이 나쁜 것은 아닙니다. 그러나 예수님께서는 누가복음 12장 15절에서 이렇게 경고하셨습니다. \"탐욕을 내지 않도록 조심하여라. 아무리 풍족하게 살더라도 사람의 생명은 그가 가진 것으로부터 생기는 것이 아니다.\" 그리고 히브리서 13장은 우리가 돈을 사랑하지 않고, 우리가 가진 것으로 만족하며 살라고 말합니다. 왜냐하면 하나님께서 우리를 버리지 않겠다고 약속하셨기 때문입니다. 결제하기 전에 스스로에게 물어보세요. 이것이 필요한가, 아니면 그냥 갖고 싶은 것인가? 오늘 오후 6시에 4장 '올바른 원칙을 선택하는 방법'을 마무리합니다."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
