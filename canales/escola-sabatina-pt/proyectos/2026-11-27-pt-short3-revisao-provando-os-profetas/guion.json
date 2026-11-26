@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Review: Putting the prophets to the test in 1 minute 🔁 #shorts",
+        "description": "Did you miss a day of this week's lesson? Here is the one-minute review. 1 John 4:1 Subscribe for more 1-Minute Sabbath School. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "مراجعة: اختبار الأنبياء في دقيقة واحدة 🔁 #shorts",
+        "description": "هل فاتتك أي حصة من دروس هذا الأسبوع؟ إليك المراجعة في دقيقة واحدة. 1 يوحنا 4: 1 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "回顾：在 1 分钟内检验先知 🔁 #shorts",
+        "description": "您错过了本周的哪一天的课程吗？以下是一分钟的复习。约翰一书 4:1 订阅更多“1 分钟安息日学”。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "복습: 1분 만에 선지자들을 시험해 보기 🔁 #shorts",
+        "description": "이번 주 수업 중 하루를 놓치셨나요? 1분 복습을 시작하겠습니다. 요한일서 4:1 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "open notebook with checklist beside old book"
-      }
+      },
+      "texto_en": "Did you miss any days of this week's lesson? Here's a one-minute review.",
+      "texto_ar": "هل فاتك أي يوم من درس هذا الأسبوع؟ إليك مراجعة في دقيقة واحدة.",
+      "texto_zh": "您是否错过了本周的某堂课？以下是一分钟回顾。",
+      "texto_ko": "이번 주 수업을 하루라도 놓치셨나요? 1분 만에 복습할 수 있습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "stack of study notes in morning light"
-      }
+      },
+      "texto_en": "Lesson nine, Putting the Prophets to the Test, started with 1 John 4:1: Do not believe every spirit, but test them. On Sunday, we saw the role of the supernatural: a sign alone proves nothing. On Monday, we saw that the message must be in harmony with the Bible. On Tuesday, that the true prophet confesses that Jesus Christ came in the flesh. On Wednesday, we looked at positive fruits in life and in the message. On Thursday, the fulfilled prophecies. And today, the invitation to taste and see that the Lord is good. The question for Saturday: Do I examine what I hear with the Word of God? Share this review with your class.",
+      "texto_ar": "الدرس التاسع، اختبار الأنبياء، انطلق من رسالة يوحنا الأولى الأصحاح الرابع الآية الأولى: لا تصدقوا كل روح، بل امتحنوا. رأينا يوم الأحد دور الخوارق: العلامة وحدها لا تثبت شيئًا. يوم الاثنين، رأينا أن الرسالة يجب أن تكون متوافقة مع الكتاب المقدس. يوم الثلاثاء، أن النبي الحقيقي يعترف بأن يسوع المسيح جاء في الجسد. يوم الأربعاء، الثمار الإيجابية في الحياة والرسالة. يوم الخميس، النبوءات التي تحققت. واليوم، الدعوة لتذوق ومعرفة أن الرب صالح. السؤال ليوم السبت: هل أفحص ما أسمعه بكلمة الله؟ شارك هذه المراجعة مع طلاب فصلك.",
+      "texto_zh": "第九课《检验先知》以约翰一书第四章第一节为基础：不要轻信各样的灵，要检验。周日，我们了解了超自然现象的作用：仅凭一个神迹并不能证明任何事情。周一，我们学习到信息必须与圣经相符。周二，我们学习了真正的先知承认耶稣基督道成肉身。周三，我们学习了生活和信息中的积极果实。周四，我们学习了应验的预言。 今天，我们受邀去品尝并看到主的良善。周六的问题：我是否用神的话语来检验我所听到的内容？与您的班级分享这份复习内容。",
+      "texto_ko": "9과 '선지자들을 시험해 보기'는 요한일서 4장 1절에서 시작했습니다. 모든 영을 믿지 말고 시험해 보라는 말씀입니다. 일요일에는 초자연적인 것의 역할을 살펴보았습니다. 한 가지 표적만으로는 아무것도 증명할 수 없습니다. 월요일에는 메시지가 성경과 일치해야 한다는 것을 배웠습니다. 화요일에는 참 선지자가 예수 그리스도께서 육신으로 오신 것을 고백한다는 것을 배웠습니다. 수요일에는 삶과 메시지에서 나타나는 긍정적인 열매에 대해 다뤘습니다. 목요일에는 성취된 예언에 대해 다뤘습니다. 그리고 오늘, 주님께서 선하시다는 것을 맛보고 보라는 권면이 있습니다. 토요일을 위한 질문: 저는 제가 듣는 것을 하나님의 말씀과 비교해 보나요? 이 복습 내용을 반원들과 공유하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
