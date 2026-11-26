@@ -84,6 +84,8 @@ jobs:
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_CLIENT_ID_B: ${{ secrets.GOOGLE_CLIENT_ID_B }}
+          GOOGLE_CLIENT_SECRET_B: ${{ secrets.GOOGLE_CLIENT_SECRET_B }}
           REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
           REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
@@ -91,6 +93,9 @@ jobs:
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
           REFRESH_TOKEN_NUTRICION: ${{ secrets.REFRESH_TOKEN_NUTRICION }}
           REFRESH_TOKEN_SPRI: ${{ secrets.REFRESH_TOKEN_SPRI }}
+          REFRESH_TOKEN_DADIOS7: ${{ secrets.REFRESH_TOKEN_DADIOS7 }}
+          REFRESH_TOKEN_PARACHIQUE: ${{ secrets.REFRESH_TOKEN_PARACHIQUE }}
+          REFRESH_TOKEN_IMEX: ${{ secrets.REFRESH_TOKEN_IMEX }}
           PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
           META_PAGE_TOKEN_MAYORDOM: ${{ secrets.META_PAGE_TOKEN_MAYORDOM }}
           META_PAGE_TOKEN_TOP10: ${{ secrets.META_PAGE_TOKEN_TOP10 }}
@@ -108,6 +113,8 @@ jobs:
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_CLIENT_ID_B: ${{ secrets.GOOGLE_CLIENT_ID_B }}
+          GOOGLE_CLIENT_SECRET_B: ${{ secrets.GOOGLE_CLIENT_SECRET_B }}
           REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
           REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
@@ -115,6 +122,9 @@ jobs:
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
           REFRESH_TOKEN_NUTRICION: ${{ secrets.REFRESH_TOKEN_NUTRICION }}
           REFRESH_TOKEN_SPRI: ${{ secrets.REFRESH_TOKEN_SPRI }}
+          REFRESH_TOKEN_DADIOS7: ${{ secrets.REFRESH_TOKEN_DADIOS7 }}
+          REFRESH_TOKEN_PARACHIQUE: ${{ secrets.REFRESH_TOKEN_PARACHIQUE }}
+          REFRESH_TOKEN_IMEX: ${{ secrets.REFRESH_TOKEN_IMEX }}
         run: python scripts/listas.py
 
       - name: Comentario con pregunta (videos largos recién publicados)
@@ -122,12 +132,17 @@ jobs:
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_CLIENT_ID_B: ${{ secrets.GOOGLE_CLIENT_ID_B }}
+          GOOGLE_CLIENT_SECRET_B: ${{ secrets.GOOGLE_CLIENT_SECRET_B }}
           REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
           REFRESH_TOKEN_ES_SABATICA: ${{ secrets.REFRESH_TOKEN_ES_SABATICA }}
           REFRESH_TOKEN_PT_SABATINA: ${{ secrets.REFRESH_TOKEN_PT_SABATINA }}
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
           REFRESH_TOKEN_NUTRICION: ${{ secrets.REFRESH_TOKEN_NUTRICION }}
           REFRESH_TOKEN_SPRI: ${{ secrets.REFRESH_TOKEN_SPRI }}
+          REFRESH_TOKEN_DADIOS7: ${{ secrets.REFRESH_TOKEN_DADIOS7 }}
+          REFRESH_TOKEN_PARACHIQUE: ${{ secrets.REFRESH_TOKEN_PARACHIQUE }}
+          REFRESH_TOKEN_IMEX: ${{ secrets.REFRESH_TOKEN_IMEX }}
         run: python scripts/comentario_pregunta.py || echo "comentarios con aviso"
 
       - name: Rutina semanal en YouTube Studio (enlaces para el Fundador)
@@ -139,10 +154,15 @@ jobs:
         env:
           GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
           GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+          GOOGLE_CLIENT_ID_B: ${{ secrets.GOOGLE_CLIENT_ID_B }}
+          GOOGLE_CLIENT_SECRET_B: ${{ secrets.GOOGLE_CLIENT_SECRET_B }}
           REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
           REFRESH_TOKEN_CRYPTULINE: ${{ secrets.REFRESH_TOKEN_CRYPTULINE }}
           REFRESH_TOKEN_NUTRICION: ${{ secrets.REFRESH_TOKEN_NUTRICION }}
           REFRESH_TOKEN_SPRI: ${{ secrets.REFRESH_TOKEN_SPRI }}
+          REFRESH_TOKEN_DADIOS7: ${{ secrets.REFRESH_TOKEN_DADIOS7 }}
+          REFRESH_TOKEN_PARACHIQUE: ${{ secrets.REFRESH_TOKEN_PARACHIQUE }}
+          REFRESH_TOKEN_IMEX: ${{ secrets.REFRESH_TOKEN_IMEX }}
         run: |
           python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])" || true
           python scripts/top10_cadena.py || echo "cadena: aviso"

@@ -21,14 +21,24 @@ MAX_POR_CORRIDA = int(os.environ.get("MAX_POR_CORRIDA", "8"))
 URGENTE_HORAS = int(os.environ.get("URGENTE_HORAS", "12"))
 
 
+def suf(cfg):
+    """Proyecto de Google Cloud del canal: "A" (MayorDom-uploader, el de siempre) o "B" (cuota aparte para los canales nuevos)."""
+    c = cfg.get("cliente", "A")
+    return "" if c == "A" else f"_{c}"
+
+
+def cuota_f(cfg):
+    return ROOT / "canales" / (f"cuota{suf(cfg)}.json")
+
+
 def token_file(canal, cfg):
     rt = os.environ.get(cfg["secreto"])
-    if not rt:
+    if not rt or not os.environ.get(f"GOOGLE_CLIENT_ID{suf(cfg)}"):
         return False
     d = Path.home() / ".yt-agent"
     d.mkdir(exist_ok=True)
     (d / f"token_{canal}.json").write_text(json.dumps({
-        "client_id": os.environ["GOOGLE_CLIENT_ID"], "client_secret": os.environ["GOOGLE_CLIENT_SECRET"],
+        "client_id": os.environ[f"GOOGLE_CLIENT_ID{suf(cfg)}"], "client_secret": os.environ[f"GOOGLE_CLIENT_SECRET{suf(cfg)}"],
         "refresh_token": rt, "token_uri": "https://oauth2.googleapis.com/token",
         "scopes": ["https://www.googleapis.com/auth/youtube.upload",
                    "https://www.googleapis.com/auth/youtube.force-ssl"]}))
@@ -42,7 +52,6 @@ def fecha_pub(g):
     return datetime.fromisoformat(p.replace("Z", "+00:00"))
 
 
-CUOTA_F = ROOT / "canales" / "cuota.json"
 
 
 class CuotaAgotada(Exception):
@@ -86,11 +95,24 @@ def que_hacer(msg):
     return "si se repite en la siguiente corrida, avisa a Claude con este mensaje."
 
 
-def guardar_ya(proj):
+def espejo_vale(cfg_m, proj):
+    """¿Este proyecto va también al canal espejo? (tipos y patrón del nombre en canales.json)."""
+    import re as _re
+    try:
+        tipo = json.loads((proj / "guion.json").read_text()).get("tipo")
+    except Exception:
+        return False
+    if cfg_m.get("espejo_tipos") and tipo not in cfg_m["espejo_tipos"]:
+        return False
+    pat = cfg_m.get("espejo_patron")
+    return not pat or bool(_re.search(pat, proj.name))
+
+
+def guardar_ya(proj, espejo=None):
     """Commit + push del proyecto recién publicado. Nunca detiene el motor si falla (se guarda al final)."""
     g = ["git", "-c", "user.name=canales-bot", "-c", "user.email=canales-bot@users.noreply.github.com"]
     try:
-        subprocess.run(g + ["add", str(proj / "publicado.json"), str(proj / "guion.json")], cwd=ROOT, check=True)
+        subprocess.run(g + ["add", str(proj / "guion.json"), *[str(f) for f in proj.glob("publicado*.json")]], cwd=ROOT, check=True)
         subprocess.run(g + ["commit", "-q", "-m", f"Publicado: {proj.name}"], cwd=ROOT, check=True)
         for _ in range(4):
             if subprocess.run(g + ["pull", "-q", "--rebase", "-X", "theirs", "--autostash"], cwd=ROOT).returncode == 0 \
@@ -104,22 +126,31 @@ def guardar_ya(proj):
 def main():
     canales = json.loads((ROOT / "canales.json").read_text())
     ahora = datetime.now(timezone.utc)
-    if CUOTA_F.exists():
-        hasta = datetime.fromisoformat(json.loads(CUOTA_F.read_text())["hasta"].replace("Z", "+00:00"))
+    pausados, avisos_pausa = set(), []
+    for f in sorted((ROOT / "canales").glob("cuota*.json")):
+        hasta = datetime.fromisoformat(json.loads(f.read_text())["hasta"].replace("Z", "+00:00"))
         if ahora < hasta and not os.environ.get("IGNORAR_CUOTA"):
-            lima = hasta - timedelta(hours=5)
-            msg = f"Cuota diaria de YouTube agotada: el motor espera hasta las {lima:%H:%M} de Lima ({hasta:%Y-%m-%d %H:%M} UTC) y sigue solo."
-            print(msg)
-            (ROOT / "reporte.md").write_text(f"# Último reporte ({ahora:%Y-%m-%d %H:%M} UTC)\n\n## En pausa\n- {msg}\n")
-            return
-        CUOTA_F.unlink()
+            pausados.add(f.name)
+            avisos_pausa.append(f"Cuota diaria de YouTube agotada ({f.stem}): espera hasta las {hasta - timedelta(hours=5):%H:%M} de Lima y sigue solo.")
+        else:
+            f.unlink()
+    activos = {c for c, v in canales.items() if not c.startswith("_") and isinstance(v, dict) and v.get("activo")}
+    # Espejos: un canal activo puede volver a publicar los videos de otros canales (canales.json → espejo_de).
+    espejos = {}
+    for m in activos:
+        for c in canales[m].get("espejo_de") or []:
+            espejos.setdefault(c, []).append(m)
     pendientes = []
     try:
         REPRODUCIR = set(json.loads((ROOT / ".github" / "top10_reproducir.json").read_text()).get("proyectos", []))
     except Exception:
         REPRODUCIR = set()
     for canal, cfg in canales.items():
-        if canal.startswith("_") or not cfg.get("activo"):
+        if canal.startswith("_") or not isinstance(cfg, dict):
+            continue
+        if not cfg.get("activo") and not espejos.get(canal):
+            continue
+        if cfg.get("activo") and cuota_f(cfg).name in pausados and not espejos.get(canal):
             continue
         for gj in sorted((ROOT / "canales" / canal / "proyectos").glob("*/guion.json")):
             proj = gj.parent
@@ -154,8 +185,13 @@ def main():
         if usados > presupuesto or (pesado and usados > presupuesto - 100):
             print(f"Tiempo de esta corrida usado ({usados:.0f} min): {proj.name} sigue en la próxima.", flush=True)
             continue
-        if not token_file(canal, cfg):
-            fallos.append(f"{canal}: falta el secreto {cfg['secreto']}")
+        propio = bool(cfg.get("activo")) and cuota_f(cfg).name not in pausados
+        mis_espejos = [m for m in espejos.get(canal, []) if espejo_vale(canales[m], proj)
+                       and cuota_f(canales[m]).name not in pausados and not (proj / f"publicado_{m}.json").exists()]
+        if not propio and not mis_espejos:
+            continue
+        if propio and not token_file(canal, cfg):
+            fallos.append(f"{canal}: falta el secreto {cfg['secreto']} (o GOOGLE_CLIENT_ID{suf(cfg)})")
             continue
         env = dict(os.environ)
         env["TTS_MOTOR"] = "chatterbox" if g.get("voz_fundador") and (ROOT / "voces" / "david.wav").exists() else cfg.get("tts", "piper")
@@ -219,6 +255,25 @@ def main():
                 run_opc("top10_miniatura.py", proj, env)
                 run_opc("top10_seo.py", proj, env, "--canal", canal)
             run("metadata.py", proj, env)
+            for m in mis_espejos:  # copia en los canales espejo (mismo video ya renderizado)
+                if not token_file(m, canales[m]):
+                    fallos.append(f"{m}: falta el secreto {canales[m]['secreto']} (o GOOGLE_CLIENT_ID{suf(canales[m])})")
+                    continue
+                try:
+                    run("upload.py", proj, env, "--canal", m)
+                    shutil.copy(proj / "salida" / "publicado.json", proj / f"publicado_{m}.json")
+                    if not propio:
+                        shutil.copy(proj / "salida" / "publicado.json", proj / "publicado.json")
+                    guardar_ya(proj, m)
+                    hechos.append(f"{m} (espejo de {canal}): {proj.name} → {json.loads((proj / f'publicado_{m}.json').read_text())['url']}")
+                except CuotaAgotada:
+                    hasta = reinicio_cuota(datetime.now(timezone.utc))
+                    cuota_f(canales[m]).write_text(json.dumps({"hasta": hasta.strftime("%Y-%m-%dT%H:%M:%SZ"), "motivo": f"espejo {m}"}))
+                    pausados.add(cuota_f(canales[m]).name)
+                except Exception as ex:
+                    fallos.append(f"{m} (espejo de {canal}): {proj.name}: {ex}")
+            if not propio:
+                continue
             run("upload.py", proj, env, "--canal", canal)
             shutil.copy(proj / "salida" / "publicado.json", proj / "publicado.json")
             guardar_ya(proj)  # se sube a git al instante: si la corrida se corta, no se vuelve a subir (sin duplicados)
@@ -242,12 +297,14 @@ def main():
                 if r.returncode:
                     print("AVISO: no se pudo encolar para Instagram/Facebook", flush=True)
             hechos.append(f"{canal}: {proj.name} → {json.loads((proj / 'publicado.json').read_text())['url']}")
-        except CuotaAgotada as e:  # no es un error del motor: se pausa hasta el reinicio y no se re-renderiza en vano
+        except CuotaAgotada as e:  # no es un error del motor: se pausa ese proyecto de Cloud hasta el reinicio
             hasta = reinicio_cuota(datetime.now(timezone.utc))
-            CUOTA_F.write_text(json.dumps({"hasta": hasta.strftime("%Y-%m-%dT%H:%M:%SZ"), "motivo": str(e)}))
-            pausa = f"Cuota diaria de YouTube agotada; se reanuda a las {hasta - timedelta(hours=5):%H:%M} de Lima."
+            cuota_f(cfg).write_text(json.dumps({"hasta": hasta.strftime("%Y-%m-%dT%H:%M:%SZ"), "motivo": str(e)}))
+            pausados.add(cuota_f(cfg).name)
+            pausa = f"Cuota diaria de YouTube agotada ({cuota_f(cfg).stem}); se reanuda a las {hasta - timedelta(hours=5):%H:%M} de Lima."
             print(pausa, flush=True)
-            break
+            if all(cuota_f(c).name in pausados for _, _, c, _, _ in pendientes):
+                break
         except Exception as e:  # sigue con el siguiente
             msg = str(e)
             fallos.append(f"{canal}: {proj.name}: {msg}")
@@ -259,7 +316,8 @@ def main():
     rep = ROOT / "reporte.md"
     rep.write_text(f"# Último reporte ({ahora:%Y-%m-%d %H:%M} UTC)\n\n## Subidos\n"
                    + "".join(f"- {h}\n" for h in hechos) + "\n## Fallos\n" + "".join(f"- {f}\n  - Qué hacer: {que_hacer(f)}\n" for f in fallos)
-                   + (f"\n## En pausa\n- {pausa}\n" if pausa else ""))
+                   + (f"\n## En pausa\n- {pausa}\n" if pausa else "")
+                   + "".join(f"\n## En pausa\n- {a}\n" for a in avisos_pausa))
     print(rep.read_text())
     if fallos:
         sys.exit(1)  # GitHub envía un correo al Fundador cuando la corrida falla

@@ -394,7 +394,8 @@
       ]
     },
     "nota_alimentos": "Solo alimentos limpios (Levítico 11). Lo vetado no aparece en textos, títulos, etiquetas ni imágenes; no se explica en el video. Orden del Fundador, 17-nov-2026.",
-    "microalgas": "Espirulina, chlorella y otras microalgas/cianobacterias: sí en este canal (platos, jugos y otros), con la marca Cryptuline como gancho. Orden del Fundador, 17-nov-2026."
+    "microalgas": "Espirulina, chlorella y otras microalgas/cianobacterias: sí en este canal (platos, jugos y otros), con la marca Cryptuline como gancho. Orden del Fundador, 17-nov-2026.",
+    "cliente": "B"
   },
   "spri": {
     "nombre": "SPRI · Radiología Intervencionista",
@@ -448,7 +449,8 @@
       "es",
       "en",
       "pt"
-    ]
+    ],
+    "cliente": "B"
   },
   "_idiomas_extra": {
     "nota": "Orden del Fundador 23-nov-2026: todos los videos y Shorts con idiomas extra desde el audio (texto narrado). traducir.py → seo.localizaciones + pistas audio_<idioma>.m4a/subtítulos en la release «audios-extra» (YouTube Studio → Idiomas; la API no sube pistas). Doblaje automático de YouTube (ES→EN/PT/AR) se activa en Studio. Un canal puede fijar su propia lista con \"idiomas_extra\".",
@@ -466,6 +468,70 @@
       "zh": "zh-CN-YunxiNeural",
       "ko": "ko-KR-InJoonNeural",
       "es": "es-MX-JorgeNeural"
+    }
+  },
+  "dadios7": {
+    "nombre": "DaDios7 · Radiología e Intervencionismo",
+    "handle": "@DaDios7",
+    "cuenta": "sankys01",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_DADIOS7",
+    "cliente": "B",
+    "activo": false,
+    "idioma": "es",
+    "espejo_de": [
+      "spri"
+    ],
+    "calendario": "Espejo de SPRI (orden del Fundador, 25-nov-2026): publica los mismos largos y Shorts de radiología intervencionista, a la misma hora. Público: médicos.",
+    "prioridad": 7,
+    "listas": {
+      "divulgacion": "Radiología intervencionista con evidencia",
+      "analisis": "Casos y procedimientos",
+      "short": "Shorts de radiología intervencionista"
+    }
+  },
+  "parachique": {
+    "nombre": "IASD Parachique Central",
+    "handle": "@IASDPARACHIQUECENTRAL",
+    "cuenta": "daviddiazosorio73 (gestor)",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_PARACHIQUE",
+    "cliente": "B",
+    "activo": false,
+    "idioma": "es",
+    "espejo_de": [
+      "escuela-sabatica-es",
+      "mayordom",
+      "cryptuline"
+    ],
+    "espejo_tipos": [
+      "short"
+    ],
+    "espejo_patron": "-short1-",
+    "calendario": "Espejo (orden del Fundador, 25-nov-2026): el primer Short del día de Escuela Sabática ES, MayorDom y Cryptuline (3 diarios), a la misma hora.",
+    "prioridad": 8,
+    "listas": {
+      "short": "Shorts: lección, mayordomía y salud"
+    }
+  },
+  "imex": {
+    "nombre": "David \"IMEX\" Diaz Osorio · Comercio exterior",
+    "handle": "",
+    "cuenta": "ddiazimexpomundo",
+    "youtube_id": "",
+    "secreto": "REFRESH_TOKEN_IMEX",
+    "cliente": "B",
+    "activo": false,
+    "idioma": "es",
+    "tts": "edge",
+    "voz": "es-PE-AlexNeural",
+    "res_4k": true,
+    "clips_largos": true,
+    "calendario": "Comercio exterior (orden del Fundador, 25-nov-2026). Inicial: 1 largo semanal (miércoles 19:00 Lima = 00:00Z jueves) + 1 Short diario de lunes a sábado (08:00 Lima = 13:00Z). Fuentes oficiales: SUNAT, MINCETUR, PROMPERÚ, acuerdoscomerciales.gob.pe, OMC/WTO, ITC Trade Map, Banco Mundial. Sin asesoría de inversión ni promesas de ganancia.",
+    "prioridad": 9,
+    "listas": {
+      "divulgacion": "Comercio exterior paso a paso",
+      "short": "Shorts de comercio exterior"
     }
   }
 }

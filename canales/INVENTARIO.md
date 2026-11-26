@@ -13,6 +13,9 @@ Fuente: capturas de YouTube del Fundador (25-nov-2026) + `canales.json`. Suscrip
 | Tecnología para Perú / Tecno Log IA (@tecnologiapperu) | tecnologiapperu@ | 2 | Activo: 7 Shorts/día dom-vie |
 | Andreia Luiza Fabres (@andreialuizafabres5041) | ddiaz.zonaoriente.alfano@ (administrador) | 1 | Preparado, falta llave REFRESH_TOKEN_NUTRICION |
 | SPRI · Radiología Intervencionista | (por crear) | – | Preparado, falta crear el canal y su llave |
+| DaDios7 (@DaDios7) | sankys01@ | 27 | Preparado: espejo de SPRI (público médico); falta llave |
+| IASD Parachique Central | daviddiazosorio73 (gestor) | 1 | Preparado: espejo del Short 1 de ES, MayorDom y Cryptuline; falta llave |
+| David "IMEX" Diaz Osorio | ddiazimexpomundo@ | 3 | Preparado: comercio exterior; falta llave |
 
 Instagram/Facebook (Reels): bloqueados por Meta («API access blocked») desde el 18-nov.
 
@@ -21,11 +24,8 @@ Instagram/Facebook (Reels): bloqueados por Meta («API access blocked») desde e
 |---|---|---|
 | David Diaz Osorio (@MetaVirtualizer) | daviddiazosorio73 | 2 |
 | LL GO ++ (@LLGOMASS) | daviddiazosorio73 | 0 |
-| IASD Parachique Central (@IASDPARACHIQUECENTRAL) | daviddiazosorio73 (gestor) | 1 |
-| David "IMEX" Diaz Osorio | ddiazimexpomundo@ | 3 |
 | BlueOceanNFT (@BlueOceanNFT) | ddiaz.zonaoriente.alfano@ | 3 |
 | BRYCTO | brycto.atomikchain@ | 0 |
-| DaDios7 (@DaDios7) | sankys01@ | 27 |
 | VIRTUAL BUSINESS (@VIRTUALBUSINESSNFT) | sankys01@ | 0 |
 
 Más canales en «Ver todos los canales» de daviddiazosorio73 y sankys01 (no visibles en las capturas).
