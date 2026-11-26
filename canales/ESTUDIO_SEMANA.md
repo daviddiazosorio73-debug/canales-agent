@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-26 11:32 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-26 18:59 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -7,25 +7,25 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 
 | Fecha | Video | ① Comentario | ② Pantalla final | ③ Subtítulos | ④ 4K |
 |---|---|---|---|---|---|
-| jue 19 | [Diezmo mal usado: ¿dejo de diezmar si el pastor lo malgasta?](https://youtu.be/GFEdr_0NQJM) | [fijar](https://studio.youtube.com/video/GFEdr_0NQJM/comments) | [editar](https://studio.youtube.com/video/GFEdr_0NQJM/edit) | [revisar](https://studio.youtube.com/video/GFEdr_0NQJM/translations) | sí |
-| vie 20 | [Dar te transforma: la razón más profunda por la que Dios te ](https://youtu.be/pOIJGxV6amQ) | [fijar](https://studio.youtube.com/video/pOIJGxV6amQ/comments) | [editar](https://studio.youtube.com/video/pOIJGxV6amQ/edit) | — | — |
+| vie 20 | [Dar te transforma: la razón más profunda por la que Dios te ](https://youtu.be/pOIJGxV6amQ) | [fijar](https://studio.youtube.com/video/pOIJGxV6amQ/comments) | [editar](https://studio.youtube.com/video/pOIJGxV6amQ/edit) | [revisar](https://studio.youtube.com/video/pOIJGxV6amQ/translations) | — |
 | lun 23 | [Dos principios en guerra: dónde nació el egoísmo | Mayordomí](https://youtu.be/ELfJtU5uM6Q) | [fijar](https://studio.youtube.com/video/ELfJtU5uM6Q/comments) | [editar](https://studio.youtube.com/video/ELfJtU5uM6Q/edit) | — | — |
 | mar 24 | [Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) | [fijar](https://studio.youtube.com/video/_-cCZx0ORcw/comments) | [editar](https://studio.youtube.com/video/_-cCZx0ORcw/edit) | — | sí |
 | mié 25 | [María y Judas: dos principios en la misma cena | Mayordomía ](https://youtu.be/Bjm4UTfAb8M) | [fijar](https://studio.youtube.com/video/Bjm4UTfAb8M/comments) | [editar](https://studio.youtube.com/video/Bjm4UTfAb8M/edit) | — | — |
+| jue 26 | [Siembra de fe: ¿das para recibir multiplicado? Lo que dice l](https://youtu.be/5tjoPx-OzrE) | [fijar](https://studio.youtube.com/video/5tjoPx-OzrE/comments) | [editar](https://studio.youtube.com/video/5tjoPx-OzrE/edit) | — | — |
 
-**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: Quiso comprar el poder de Dios con dinero 💰 #shorts](https://youtube.com/shorts/X1nk8oEEYCI)
+**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: El «ciento por uno» tiene una letra pequeña 🔎 #shorts](https://youtube.com/shorts/MzPuiri58Gw)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: La prueba que solo el tiempo puede hacer ⏳ #shorts](https://youtube.com/shorts/Gdyo3NRlews)
+**Escuchar:** [Short: Solo hay Uno que conoce el final de la historia 📜 #shorts](https://youtube.com/shorts/M5L4c0m20pc)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Dois profetas, duas mensagens opostas. Quem acertou? #shorts](https://youtube.com/shorts/JYWqyQFwV5s)
+**Escuchar:** [Short: Um sonho antigo que descreveu séculos de história #shorts](https://youtube.com/shorts/GEzZgb9FNXw)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 | dom 22 | [Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) | [fijar](https://studio.youtube.com/video/n9Bqd7M2oI4/comments) | [editar](https://studio.youtube.com/video/n9Bqd7M2oI4/edit) | — | sí |
 | mar 24 | [Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) | [fijar](https://studio.youtube.com/video/R7AwvjAMLSA/comments) | [editar](https://studio.youtube.com/video/R7AwvjAMLSA/edit) | — | sí |
 
-**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: ¿El jugo de fruta cuenta como fruta? Lo que encontró la cien](https://youtube.com/shorts/FWoQ81qaIfw)
+**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: ¿La papa cuenta como verdura? La respuesta de un gran estudi](https://youtube.com/shorts/GRJLINfcRd8)
 
