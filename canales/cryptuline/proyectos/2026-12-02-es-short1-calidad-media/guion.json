@@ -35,7 +35,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-12-02T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Spirulin: \"few tests and medium quality.\" What does that mean? #shorts",
+        "description": "Few essays and mean quality: what does it mean in espirulin studies.\n\npubMed:\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systemic review. Int J Food Sci Nutr. 2022, 73 (8): 1047-1056. https: / / pubmed.ncbi.nlm.nih.gov / 36273817 / · https: / / doi.org / 10.1080 / 09637486.2022.2137785\n\nEducational content for more than 18 years old. Do not substitute for medical care: check with your doctor before changing your food, physical activity or treatment. Narration with a synthetic voice. Cryptline."
+      },
+      "pt": {
+        "title": "Espirulina: \"poucos testes e qualidade média.\" O que significa isso? #shorts",
+        "description": "Poucos ensaios e média qualidade: o que significa em estudos espirulina.\n\nPubMed:\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. antioxidante, imunomodulador e efeitos anti-inflamatórios da espirulina em condições de doença: uma revisão sistêmica. Int J Food Sci Nutr. 2022, 73 (8): 1047-1056. https: // pubmed. ncbi. nlm. nih.gov / 36273817 / · https: // doi.org / 10. 1080 / 09637486.2022.2137785\n\nConteúdo educacional para mais de 18 anos. Não substitua os cuidados médicos: consulte o seu médico antes de alterar a sua alimentação, actividade física ou tratamento. Narração com uma voz sintética. Criptalina."
+      },
+      "ar": {
+        "title": "\"اختبارات قليلة ومتوسطة الجودة\" ماذا يعني ذلك؟ #shorts",
+        "description": "القليل من المقالات والجودة: ما يعنيه ذلك في دراسات التجسس.\n\n!\n• Calella P, Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. antioxidant, immunomodulatory, and anti-inflammatory effects of Spirulina in disease conditions: a systemic review. Int J Food Sci Nutr 2022, 73 (8): 1047-1056. https: / pubmed.ncbi.nlm.nih.gov / 36273817 / · https: / doi.org / 10.1080 / 09637486.2022.2137785\n\nالمحتوى التعليمي لأكثر من 18 سنة. لا تستبدلي الرعاية الطبية: تفقدي مع طبيبك قبل تغيير طعامك أو نشاطك الجسدي أو العلاج الغضب مع صوت اصطناعي مشفرة"
+      },
+      "zh-Hans": {
+        "title": "螺旋素:\"测试和中等质量\". 这是什么意思? #shorts",
+        "description": "少有散文和意指质量:这在螺旋素研究中意味着什么.\n\n阴茎 :\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. 抗氧化剂,免疫机能,以及Spiruina在疾病条件下的抗炎效应:系统审查. Int J Food Sci Nutr. 2022, 73 (8): 1047–1056. https: // pubmed.ncbi.nlm.nih.gov / 36273817 / · https: // doi.org/ 10.1080/09637486.202.2137785\n\n18岁以上教育内容. 不得替代医疗:在改变食物、身体活动或治疗之前与医生联系。 以合成声闻. 密码"
+      },
+      "ko": {
+        "title": "Spirulin : \"few 테스트 및 중간 품질.\" 무엇을 의미합니까? #shorts",
+        "description": "Few essays 및 평균 품질 : espirulin 연구에서 무엇을 의미합니까.\n\npubMed:\n• Calella P, Di Dio M, Cerullo G, Di Onofrio V, Gallé F, Liguori G. 항 산화, immunomodulatory 및 질병 조건에서 Spirulina의 항 염증 효과 : 체계적인 검토. Int J Food Sci Nutr. 2022, 73 (8) : 1047-1056. https : / / pubmed.ncbi.nlm.nih.gov / 36273817 / · https : / doi.org / 10.1080 / 09637486.2022.2137785\n\n18 세 이상의 교육 내용. 치료에 대 한 대체 하지 마십시오: 당신의 의사와 함께 당신의 음식, 신체 활동 또는 치료를 변경 하기 전에. 합성 음성과 비교. 암호화."
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "checklist clipboard research evaluation"
-      }
+      },
+      "texto_en": "When a studio says medium quality, what's she telling you?",
+      "texto_pt": "Quando um estúdio diz qualidade média, o que é que ela te diz?",
+      "texto_ar": "عندما يقول الاستوديو نوعية متوسطة، ماذا تقول لك؟",
+      "texto_zh": "当一个工作室说 中等质量, 她告诉你什么?",
+      "texto_ko": "스튜디오가 중간 품질을 말한다면, 그녀는 무엇을 말해?"
     },
     {
       "id": "mensaje",
@@ -55,7 +82,19 @@
       "emocion": "agil",
       "visual": {
         "query": "researcher writing notes clinical trial"
-      }
+      },
+      "texto_en": "The systematic review of Calella, about two thousand and twenty-two, about spirulin in sick people, warns about two things: there are few controlled clinical trials for each disease and some studies are of medium quality. That means they can have few participants, little time or bad how the groups were compared. It doesn't mean they're bad, but their results are less firm. That's why the authors demand more research before confirming their clinical role. Keep this video and share with someone I can serve. Check with your doctor before making changes. Follow us at Cryptline for more health science.",
+      "texto_pt": "A revisão sistemática de Calella, cerca de dois mil e vinte e dois, sobre espirulina em doentes, alerta sobre duas coisas: há poucos ensaios clínicos controlados para cada doença e alguns estudos são de qualidade média. Isso significa que eles podem ter poucos participantes, pouco tempo ou ruim como os grupos foram comparados. Não significa que sejam maus, mas os resultados são menos firmes. É por isso que os autores exigem mais pesquisas antes de confirmar seu papel clínico. Mantenha este vídeo e compartilhe com alguém que eu possa servir. Consulte o seu médico antes de fazer alterações. Siga-nos na Criptline para mais ciências da saúde.",
+      "texto_ar": "The systematic review of Calella, about two thousand and twenty-two, about spirulin in sick people, warnings about two things: there are few controlled clinical trials for each disease and some studies are of medium quality. وهذا يعني أنه يمكن أن يكون لهم عدد قليل من المشاركين، أو القليل من الوقت أو السيء في كيفية مقارنة المجموعات. هذا لا يعني أنهم سيئون لكن نتائجهم أقل صرامة لهذا يطلب المؤلفون المزيد من البحث قبل تأكيد دورهم السريري احتفظي بهذا الفيديو واشاركي شخص يمكنني خدمته تحقق مع طبيبك قبل إجراء التغييرات إتبعنا في (كريبتلين) لمزيد من العلوم الصحية",
+      "texto_zh": "对Calella的系统审查,大约两千两十二,关于病人的螺旋素,警告了两件事:对每种疾病几乎没有可控制的临床试验,有些研究质量中等. 这意味着他们可以少有参与者,少有时间或糟糕地对各小组进行比较。 这并不意味着他们不好,但他们的结果不那么坚定. 这就是为什么作者们在确认他们的临床作用之前要求更多的研究. 留着这段视频 和我能服务的人分享 在修改前先去找医生 跟随我们在密码线 更多的健康科学。",
+      "texto_ko": "Calella의 체계적인 검토, 약 2 천 및 20 두, 병에 있는 spirulin에 관하여, 약 2개의 것을 경고합니다: 각 질병을 위한 몇몇 통제한 임상 예심이 있고 몇몇 학문은 중간 질의 입니다. 그들은 몇 명의 참가자, 작은 시간 또는 나쁜 그룹이 비교 된 방법을 가질 수 있음을 의미합니다. 그들은 나쁜 것을 의미하지는 않지만 결과는 덜 확고합니다. 저자가 더 많은 연구를 요구하는 이유 때문에 임상의 역할 확인하기 전에. 이 비디오를 유지하고 누군가와 공유 할 수 있습니다. 변경하기 전에 의사와 확인. 더 많은 건강 과학을위한 Cryptline에서 우리를 따르라."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
