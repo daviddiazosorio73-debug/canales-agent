@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-26 00:21 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-26 11:32 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | mar 24 | [Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) | [fijar](https://studio.youtube.com/video/_-cCZx0ORcw/comments) | [editar](https://studio.youtube.com/video/_-cCZx0ORcw/edit) | — | sí |
 | mié 25 | [María y Judas: dos principios en la misma cena | Mayordomía ](https://youtu.be/Bjm4UTfAb8M) | [fijar](https://studio.youtube.com/video/Bjm4UTfAb8M/comments) | [editar](https://studio.youtube.com/video/Bjm4UTfAb8M/edit) | — | — |
 
-**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: Tenía todo… y se fue triste 😔 #shorts](https://youtube.com/shorts/dAHQmY1BrLA)
+**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: Quiso comprar el poder de Dios con dinero 💰 #shorts](https://youtube.com/shorts/X1nk8oEEYCI)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Decir «Señor, Señor» no es suficiente ⚠️ #shorts](https://youtube.com/shorts/Q9MMbzXHC6o)
+**Escuchar:** [Short: La prueba que solo el tiempo puede hacer ⏳ #shorts](https://youtube.com/shorts/Gdyo3NRlews)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Para que serve a profecia? Três palavras respondem #shorts](https://youtube.com/shorts/noAzqb9ASDM)
+**Escuchar:** [Short: Dois profetas, duas mensagens opostas. Quem acertou? #shorts](https://youtube.com/shorts/JYWqyQFwV5s)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 | dom 22 | [Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) | [fijar](https://studio.youtube.com/video/n9Bqd7M2oI4/comments) | [editar](https://studio.youtube.com/video/n9Bqd7M2oI4/edit) | — | sí |
 | mar 24 | [Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) | [fijar](https://studio.youtube.com/video/R7AwvjAMLSA/comments) | [editar](https://studio.youtube.com/video/R7AwvjAMLSA/edit) | — | sí |
 
-**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: ¿Cinco porciones de frutas y verduras al día es un mito? #sh](https://youtube.com/shorts/e4TRH7-fnlQ)
+**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: ¿El jugo de fruta cuenta como fruta? Lo que encontró la cien](https://youtube.com/shorts/FWoQ81qaIfw)
 
