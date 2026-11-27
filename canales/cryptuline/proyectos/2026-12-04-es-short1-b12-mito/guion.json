@@ -36,7 +36,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-12-04T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Is spirulina a source of vitamin B12? What science has concluded #shorts",
+        "description": "Is spirulina a source of vitamin B12? What a Japanese group concluded. 📚 Sources (PubMed):\n• Watanabe F, Katsura H, Takenaka S, Fujita T, Abe K, Tamura Y, et al. Pseudovitamin B(12) is the predominant cobamide of an algal health food, spirulina tablets. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n• Watanabe F, Takenaka S, Kittaka-Katsura H, Ebara S, Miyamoto E. Characterization and bioavailability of vitamin B12 compounds from edible algae. J Nutr Sci Vitaminol (Tokyo). 2002;48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325 Educational content for adults over 18. It is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthetic voice. Cryptuline."
+      },
+      "pt": {
+        "title": "A espirulina é uma fonte de vitamina B12? O que a ciência concluiu #shorts",
+        "description": "A espirulina é uma fonte de vitamina B12? O que um grupo japonês concluiu. 📚 Fontes (PubMed):\n• Watanabe F, Katsura H, Takenaka S, Fujita T, Abe K, Tamura Y, et al. A pseudovitamina B(12) é a cobamida predominante em um alimento saudável à base de algas, os comprimidos de espirulina. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n• Watanabe F, Takenaka S, Kittaka-Katsura H, Ebara S, Miyamoto E. Caracterização e biodisponibilidade de compostos de vitamina B12 de algas comestíveis. J Nutr Sci Vitaminol (Tóquio). 2002;48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "هل الإسبيرولينا مصدر لفيتامين ب12؟ ما خلص إليه العلم #shorts",
+        "description": "هل تُعدّ سبيرولينا مصدرًا لفيتامين ب12؟ ما خلصت إليه مجموعة يابانية. 📚 المصادر (PubMed):\n• واتانابي ف.، كاتسورا ه.، تاكيناكا س.، فوجيتا ت.، آبي ك.، تامورا ي.، وآخرون. الفيتامين الزائف ب(12) هو الكوباميد السائد في طعام صحي من الطحالب، أقراص سبيرولينا. مجلة الكيمياء الزراعية والغذائية. 1999؛47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n• واتانابي ف.، تاكيناكا س.، كيتّاكا-كاتسورا ه.، إيبارا س.، مياموتو إ. خصائص وتوافر مركبات فيتامين ب12 الحيوية من الطحالب الصالحة للأكل. مجلة العلوم الغذائية والفيتامينات (طوكيو). 2002؛48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325 محتوى تثقيفي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشر طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتولين."
+      },
+      "zh-Hans": {
+        "title": "螺旋藻是维生素 B12 的来源吗？科学的结论 #shorts",
+        "description": "螺旋藻是维生素 B12 的来源吗？一个日本研究小组得出的结论。📚 资料来源（PubMed）：\n• 渡边丰、桂秀树、竹中诚、藤田隆、阿部幸男、田村康二等。假维生素 B(12) 是一种藻类保健食品——螺旋藻片剂中的主要钴胺素。《农业与食品化学杂志》。1999 年；47(11)：4736-41。https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n• 渡边丰、竹中诚、北乐-桂弘、江原诚、宫本惠。 可食用藻类中维生素 B12 化合物的特性和生物利用度。《营养科学与维生素学杂志》（东京）。2002 年；48(5)：325-31。https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325 18 岁以上人士的教育内容。本文内容不能替代医生建议：在改变饮食、体育锻炼或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "스피룰리나는 비타민 B12의 공급원인가요? 과학이 내린 결론 #shorts",
+        "description": "스피룰리나는 비타민 B12의 공급원인가요? 일본 연구팀의 결론. 📚 출처(PubMed):\n• 와타나베 F, 가쓰라 H, 다케나카 S, 후지타 T, 아베 K, 다무라 Y, 외. 슈도비타민 B(12)는 조류 건강 식품인 스피룰리나 정제의 주요 코바미드입니다. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b\n• 와타나베 F, 타케나카 S, 키타카-카츠라 H, 에바라 S, 미야모토 E. 식용 해조류의 비타민 B12 화합물의 특성 및 생체이용률. J Nutr Sci Vitaminol (Tokyo). 2002;48(5):325-31. https://pubmed.ncbi.nlm.nih.gov/12656203/ · https://doi.org/10.3177/jnsv.48.325 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식이, 신체 활동 또는 치료를 변경하기 전에 의사와 상의하십시오. 인공 음성으로 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -47,7 +69,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "spirulina tablets jar close up"
-      }
+      },
+      "texto_en": "Many people take spirulina for vitamin B12. Does it work?",
+      "texto_pt": "Muitas pessoas tomam espirulina pela vitamina B12. Funciona?",
+      "texto_ar": "يتناول الكثير من الناس سبيرولينا للحصول على فيتامين ب12. هل هذا فعال؟",
+      "texto_zh": "很多人为了补充维生素 B12 而服用螺旋藻。它有效吗？",
+      "texto_ko": "많은 사람들이 비타민 B12를 위해 스피룰리나를 섭취합니다. 효과가 있나요?"
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "vegetarian plate vegetables and grains"
-      }
+      },
+      "texto_en": "In 1999, Watanabe and his team analyzed spirulina tablets in the laboratory. Of the compounds that bound to intrinsic factor, the protein we use to absorb B12, eighty-three percent were pseudovitamin B12, an inactive form. In 2002, the same group concluded that spirulina tablets are not suitable as a source of B12, especially for vegetarians. Today at 6:00 p.m. Lima time, the full video about what spirulina really contains. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "Em 1999, Watanabe e sua equipe analisaram comprimidos de espirulina em laboratório. Dos compostos que se ligavam ao fator intrínseco, a proteína que usamos para absorver a vitamina B12, 83% eram pseudovitamina B12, uma forma inativa. Em 2002, o mesmo grupo concluiu que os comprimidos de espirulina não são adequados como fonte de B12, especialmente para vegetarianos. Hoje, às 18h, horário de Lima, o vídeo completo sobre o que a espirulina realmente contém. Salve este vídeo e compartilhe com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos na Cryptuline para ver mais conteúdos científicos sobre saúde.",
+      "texto_ar": "في عام ألف وتسعمائة وتسعة وتسعين، قام واتانابي وفريقه بتحليل أقراص سبيرولينا في المختبر. من بين المركبات التي ارتبطت بالعامل الداخلي، وهو البروتين الذي نستخدمه لامتصاص فيتامين ب12، كان ثلاثة وثمانون بالمائة منها عبارة عن فيتامين ب12 الزائف، وهو شكل غير نشط. في عام ألفين واثنين، خلصت المجموعة نفسها إلى أن أقراص سبيرولينا غير مناسبة كمصدر لفيتامين ب12، خاصة للنباتيين. اليوم في الساعة السادسة مساءً بتوقيت ليما، الفيديو الكامل حول ما تحتويه الإسبيرولينا بالفعل. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشر طبيبك قبل إجراء أي تغييرات. تابعونا على Cryptuline لمزيد من المعلومات العلمية المتعلقة بالصحة.",
+      "texto_zh": "1999 年，渡边及其团队在实验室中对螺旋藻片进行了分析。在与内因子（我们用于吸收维生素 B12 的蛋白质）结合的化合物中，83% 是假性维生素 B12，这是一种非活性形式。2002年，该研究小组得出结论，螺旋藻片不适合作为维生素B12的来源，尤其是对于素食者而言。 今天下午 6 点（利马时间），将发布完整视频，介绍螺旋藻的真正功效。请保存此视频，并与可能从中受益的人分享。在做出任何改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学知识。",
+      "texto_ko": "1999년 와타나베와 그의 연구팀은 실험실에서 스피룰리나 정제를 분석했습니다. B12를 흡수하는 데 사용하는 단백질인 내인자(intrinsic factor)에 결합하는 화합물 중 83%는 비활성 형태인 유사 비타민 B12였습니다. 2002년에 같은 연구팀은 스피룰리나 정제가 특히 채식주의자에게 B12 공급원으로 적합하지 않다는 결론을 내렸습니다. 오늘 오후 6시(리마 시간)에 스피룰리나의 진정한 효능에 대한 전체 동영상이 공개됩니다. 이 동영상을 저장하고 도움이 될 수 있는 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline을 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
