@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Dios armó su tienda en tu vecindario ⛺",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "Dios con nosotros",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Dios armó su tienda en tu vecindario ⛺ #shorts",
+    "descripcion": "La Biblia dice que Dios armó su tienda entre nosotros. Literalmente.\n\nJuan 1:14\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La Biblia dice que Dios armó su tienda entre nosotros. Literalmente.",
+      "texto_pantalla": "Dios con nosotros",
+      "emocion": "gancho",
+      "visual": {
+        "query": "tent in desert under starry sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Juan uno, versículo catorce, dice que el Verbo se hizo carne y habitó entre nosotros, y vimos su gloria. La palabra que Juan usa para habitó evoca una tienda, como el santuario en el desierto. Dios no envió solo un mensaje desde lejos. Vino en persona, con hambre, cansancio y lágrimas. Por eso, en la lección nueve, la encarnación de Cristo es una prueba de todo profeta verdadero. El mensaje de Dios siempre apunta a un Dios que se acerca, no a uno que se aleja. Si hoy te sientes lejos, recuerda: él ya cruzó la distancia por ti. Comparte este video con alguien que necesita saberlo.",
+      "texto_pantalla": "Dios con nosotros",
+      "referencia": "Juan 1:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "hand reaching out warm sunlight"
+      }
+    }
+  ]
+}

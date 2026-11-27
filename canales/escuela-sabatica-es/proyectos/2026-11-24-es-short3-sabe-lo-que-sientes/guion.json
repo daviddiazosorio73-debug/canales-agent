@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Jesús sabe exactamente lo que sientes hoy 🤝",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "Él te entiende",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Jesús sabe exactamente lo que sientes hoy 🤝 #shorts",
+    "descripcion": "¿Alguna vez sentiste que nadie entiende lo que estás pasando? Hay alguien que sí.\n\nHebreos 2:17-18\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Alguna vez sentiste que nadie entiende lo que estás pasando? Hay alguien que sí.",
+      "texto_pantalla": "Él te entiende",
+      "emocion": "gancho",
+      "visual": {
+        "query": "tired worker hands resting on table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Hebreos dos, versículos diecisiete y dieciocho, enseña que Jesús tuvo que ser semejante a sus hermanos en todo, para ser un sumo sacerdote misericordioso y fiel. Y como él mismo padeció siendo tentado, puede socorrer a los que son tentados. Esa es la buena noticia detrás de la encarnación de Cristo, el tema de hoy en la lección nueve. Jesús no te mira desde arriba con indiferencia. Sabe lo que es el cansancio, la traición y el dolor. Por eso puedes acercarte a él tal como estás. Esta noche, cuéntale lo que te pesa. Suscríbete para más Escuela Sabática en un minuto.",
+      "texto_pantalla": "Él te entiende",
+      "referencia": "Hebreos 2:17-18",
+      "emocion": "agil",
+      "visual": {
+        "query": "sunrise over hills hope"
+      }
+    }
+  ]
+}

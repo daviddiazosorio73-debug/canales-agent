@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "A igreja que conferia até o apóstolo Paulo 🔍",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "En armonía con la Biblia"
+  },
+  "miniatura": {
+    "linea1": "Conferir Paulo?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A igreja que conferia até o apóstolo Paulo 🔍 #shorts",
+    "descripcion": "Houve uma igreja que conferia nas Escrituras tudo o que o apóstolo Paulo pregava. E a Bíblia elogia essa igreja.\n\nAtos 17:11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Houve uma igreja que conferia nas Escrituras tudo o que o apóstolo Paulo pregava. E a Bíblia elogia essa igreja.",
+      "texto_pantalla": "Conferir Paulo?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magnifying glass over open book pages"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Atos dezessete, versículo onze, conta que os judeus de Bereia eram mais nobres que os de Tessalônica, porque receberam a palavra com toda avidez, examinando as Escrituras todos os dias para ver se as coisas eram de fato assim. Repare: eles não rejeitaram Paulo; ouviram com entusiasmo. Mas conferiram. Isso é estar em harmonia com a Bíblia, o tema de hoje da lição nove. Ouvir com o coração aberto e a Bíblia aberta. Não é desconfiança: é nobreza. Que ensino você ouviu esta semana que ainda não conferiu nas Escrituras? Faça como os bereanos. Compartilhe este vídeo com a sua classe da Escola Sabatina.",
+      "texto_pantalla": "Conferir Paulo?",
+      "referencia": "Atos 17:11",
+      "emocion": "agil",
+      "visual": {
+        "query": "person reading book at desk lamp night"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "Deus armou a tenda dele na sua vizinhança ⛺",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "Deus conosco",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus armou a tenda dele na sua vizinhança ⛺ #shorts",
+    "descripcion": "A Bíblia diz que Deus armou a sua tenda entre nós. Literalmente.\n\nJoão 1:14\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "A Bíblia diz que Deus armou a sua tenda entre nós. Literalmente.",
+      "texto_pantalla": "Deus conosco",
+      "emocion": "gancho",
+      "visual": {
+        "query": "tent in desert under starry sky"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João um, versículo catorze, diz que o Verbo se fez carne e habitou entre nós, e vimos a sua glória. A palavra que João usa para habitou lembra uma tenda, como o santuário no deserto. Deus não mandou apenas uma mensagem de longe. Veio pessoalmente, com fome, cansaço e lágrimas. Por isso, na lição nove, a encarnação de Cristo é uma prova de todo profeta verdadeiro. A mensagem de Deus sempre aponta para um Deus que se aproxima, não para um que se afasta. Se hoje você se sente longe, lembre-se: ele já atravessou a distância por você. Compartilhe este vídeo com alguém que precisa saber disso.",
+      "texto_pantalla": "Deus conosco",
+      "referencia": "João 1:14",
+      "emocion": "agil",
+      "visual": {
+        "query": "hand reaching out warm sunlight"
+      }
+    }
+  ]
+}

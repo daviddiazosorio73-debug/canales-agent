@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Nove sinais de que Deus está agindo em você 🍇",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "9 sinais",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Nove sinais de que Deus está agindo em você 🍇 #shorts",
+    "descripcion": "Existem nove sinais de que Deus está agindo em uma vida. E nenhum deles é espetacular.\n\nGálatas 5:22-23\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existem nove sinais de que Deus está agindo em uma vida. E nenhum deles é espetacular.",
+      "texto_pantalla": "9 sinais",
+      "emocion": "gancho",
+      "visual": {
+        "query": "basket of colorful fresh fruits sunlight"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Gálatas cinco, versículos vinte e dois e vinte e três, lista esses sinais: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade, mansidão e domínio próprio. Repare que não há nenhum milagre na lista. O fruto do Espírito é caráter. Por isso, quando a lição nove fala de Frutos positivos, a pergunta não é só o que um mensageiro diz, mas que tipo de vida a mensagem dele produz. E agora vem a parte incômoda: essa mesma prova vale para mim e para você. Qual desses nove frutos você precisa que Deus faça crescer esta semana? Escreva nos comentários.",
+      "texto_pantalla": "9 sinais",
+      "referencia": "Gálatas 5:22-23",
+      "emocion": "agil",
+      "visual": {
+        "query": "vineyard grapes close up morning dew"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-22",
+  "tema": "Um milagre prova que vem de Deus? Cuidado 👀",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "El papel de lo sobrenatural"
+  },
+  "miniatura": {
+    "linea1": "Milagre = Deus?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Um milagre prova que vem de Deus? Cuidado 👀 #shorts",
+    "descripcion": "Você vê um milagre com os próprios olhos. Isso prova que a mensagem vem de Deus? A Bíblia responde que não necessariamente.\n\nMateus 24:24\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Você vê um milagre com os próprios olhos. Isso prova que a mensagem vem de Deus? A Bíblia responde que não necessariamente.",
+      "texto_pantalla": "Milagre = Deus?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "magician hands card trick dark stage"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "O tema de hoje na lição nove é O papel do sobrenatural. Jesus avisou em Mateus vinte e quatro, versículo vinte e quatro, que surgiriam falsos cristos e falsos profetas fazendo grandes sinais e prodígios, a ponto de enganar, se possível, até os escolhidos. E em Deuteronômio treze, Deus diz que, se um profeta anunciar um sinal que se cumpre, mas convidar você a seguir outros deuses, não lhe dê ouvidos. O sobrenatural impressiona, mas não é a prova final. A prova é a Palavra de Deus. Antes de se deixar levar por algo espetacular, pergunte: isto me aproxima da Bíblia ou me afasta dela? Comente «A Palavra primeiro».",
+      "texto_pantalla": "Milagre = Deus?",
+      "referencia": "Mateus 24:24",
+      "emocion": "agil",
+      "visual": {
+        "query": "compass on open old book candlelight"
+      }
+    }
+  ]
+}

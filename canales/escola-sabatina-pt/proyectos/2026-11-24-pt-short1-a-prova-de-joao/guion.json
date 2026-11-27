@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-24",
+  "tema": "A prova de João que muitos esquecem 🔑",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "La encarnación de Cristo"
+  },
+  "miniatura": {
+    "linea1": "A prova esquecida",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A prova de João que muitos esquecem 🔑 #shorts",
+    "descripcion": "João deu uma prova para reconhecer um falso profeta que hoje quase ninguém menciona. E é a mais profunda.\n\n1 João 4:2-3\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-24T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "João deu uma prova para reconhecer um falso profeta que hoje quase ninguém menciona. E é a mais profunda.",
+      "texto_pantalla": "A prova esquecida",
+      "emocion": "gancho",
+      "visual": {
+        "query": "key turning in old lock closeup"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "O tema de hoje na lição nove é A encarnação de Cristo. Em primeira João quatro, versículos dois e três, o apóstolo explica que todo espírito que confessa que Jesus Cristo veio em carne é de Deus, e o que não confessa não é de Deus. Por que essa prova? Porque toda a salvação depende de o Filho de Deus ter se tornado realmente humano. Se Jesus não veio em carne, não viveu por nós, não morreu por nós e não ressuscitou por nós. Uma mensagem que diminui Cristo, ainda que pareça espiritual, não vem de Deus. Hoje, coloque Jesus no centro de tudo o que você crê. Comente «Cristo veio em carne».",
+      "texto_pantalla": "A prova esquecida",
+      "referencia": "1 João 4:2-3",
+      "emocion": "agil",
+      "visual": {
+        "query": "manger straw warm lantern light night"
+      }
+    }
+  ]
+}

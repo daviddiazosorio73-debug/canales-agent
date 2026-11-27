@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "O exame que nenhum falso profeta consegue passar ⏳",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "O exame final",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O exame que nenhum falso profeta consegue passar ⏳ #shorts",
+    "descripcion": "Existe um exame que nenhum falso profeta consegue passar. Foi o próprio Deus quem o criou.\n\nDeuteronômio 18:21-22\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existe um exame que nenhum falso profeta consegue passar. Foi o próprio Deus quem o criou.",
+      "texto_pantalla": "O exame final",
+      "emocion": "gancho",
+      "visual": {
+        "query": "old calendar pages flipping"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "O tema de hoje na lição nove é Profecias cumpridas. Em Deuteronômio dezoito, versículos vinte e um e vinte e dois, o povo pergunta como saber se uma palavra não vem do Senhor. E Deus responde: se o profeta falar em seu nome e a coisa não acontecer nem se cumprir, essa palavra o Senhor não falou. O tempo é o examinador mais honesto. As previsões humanas falham; a Palavra de Deus se cumpre. Mas atenção: é uma prova necessária, não a única. Por isso a lição soma todas: harmonia com a Bíblia, Cristo no centro, bons frutos e cumprimento. Comente «Deus cumpre».",
+      "texto_pantalla": "O exame final",
+      "referencia": "Deuteronômio 18:21-22",
+      "emocion": "agil",
+      "visual": {
+        "query": "hourglass sand falling on wooden table"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Revisão: Provando os profetas em 1 minuto 🔁",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "Revisão da semana",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Revisão: Provando os profetas em 1 minuto 🔁 #shorts",
+    "descripcion": "Perdeu algum dia da lição desta semana? Aqui está a revisão em um minuto.\n\n1 João 4:1\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Perdeu algum dia da lição desta semana? Aqui está a revisão em um minuto.",
+      "texto_pantalla": "Revisão da semana",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open book review notes highlighter"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "A lição nove, Provando os profetas, começou com primeira João quatro, um: não crer em todo espírito, mas prová-lo. No domingo vimos que o sobrenatural impressiona, mas sozinho não prova nada. Na segunda, que toda mensagem deve estar em harmonia com a Bíblia. Na terça, que o verdadeiro profeta confessa Cristo vindo em carne. Na quarta, que ele é conhecido pelos frutos. Na quinta, que as suas profecias se cumprem. E hoje, o convite para provar e ver que o Senhor é bom. A pergunta para o sábado: com que régua eu meço o que ouço? Compartilhe esta revisão com a sua classe.",
+      "texto_pantalla": "Revisão da semana",
+      "referencia": "1 João 4:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "checklist on notebook with pen"
+      }
+    }
+  ]
+}

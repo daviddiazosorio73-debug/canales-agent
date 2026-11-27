@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "¿La Biblia sirve para tu vida real? Pablo responde 🧰",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "¿Sirve hoy?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "¿La Biblia sirve para tu vida real? Pablo responde 🧰 #shorts",
+    "descripcion": "Muchos dicen que la Biblia es un libro bonito, pero que no sirve para la vida real. Pablo pensaba distinto.\n\n2 Timoteo 3:16-17\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muchos dicen que la Biblia es un libro bonito, pero que no sirve para la vida real. Pablo pensaba distinto.",
+      "texto_pantalla": "¿Sirve hoy?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "toolbox with tools on workbench"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En segunda de Timoteo tres, versículos dieciséis y diecisiete, Pablo escribe que toda la Escritura es inspirada por Dios y útil para enseñar, para redargüir, para corregir y para instruir en justicia, a fin de que el hombre de Dios esté preparado para toda buena obra. Útil. No decorativa. Esa es la relevancia que estudiaremos en la lección diez, Autoridad y relevancia proféticas. La Biblia tiene algo que decir sobre tu familia, tu trabajo, tu dinero y tus decisiones. Esta noche, piensa en una decisión que tienes pendiente y busca qué dice la Palabra al respecto. Suscríbete para más Escuela Sabática en un minuto.",
+      "texto_pantalla": "¿Sirve hoy?",
+      "referencia": "2 Timoteo 3:16-17",
+      "emocion": "agil",
+      "visual": {
+        "query": "lamp lighting dark path night"
+      }
+    }
+  ]
+}

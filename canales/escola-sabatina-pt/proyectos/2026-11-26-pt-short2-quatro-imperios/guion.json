@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Um sonho previu 4 impérios… e acertou 🏛️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "Acertou?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Um sonho previu 4 impérios… e acertou 🏛️ #shorts",
+    "descripcion": "Um rei sonhou com uma estátua de quatro metais. Séculos depois, a história confirmou cada parte.\n\nDaniel 2:44\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Um rei sonhou com uma estátua de quatro metais. Séculos depois, a história confirmou cada parte.",
+      "texto_pantalla": "Acertou?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ancient stone statue ruins"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Daniel dois, Deus mostrou a Nabucodonosor uma estátua de ouro, prata, bronze e ferro. Daniel explicou que eram reinos que se sucederiam, começando pela Babilônia. A história viu passar Babilônia, Medo-Pérsia, Grécia e Roma, como ensina a interpretação adventista. E no versículo quarenta e quatro, Daniel anuncia que o Deus do céu levantará um reino que jamais será destruído. É isso que a lição nove chama de Profecias cumpridas. Se Deus acertou em tudo o que já passou, você pode confiar no que ainda falta. Compartilhe este vídeo com quem acha que a profecia bíblica é um mito.",
+      "texto_pantalla": "Acertou?",
+      "referencia": "Daniel 2:44",
+      "emocion": "agil",
+      "visual": {
+        "query": "mountain at sunrise wide landscape"
+      }
+    }
+  ]
+}

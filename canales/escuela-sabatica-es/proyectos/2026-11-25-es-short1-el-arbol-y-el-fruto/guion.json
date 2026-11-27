@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Jesús dio una prueba que nunca falla 🍎",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "La prueba que no falla",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Jesús dio una prueba que nunca falla 🍎 #shorts",
+    "descripcion": "Jesús dio una prueba para reconocer a un falso profeta que nunca falla. Solo necesita un poco de tiempo.\n\nMateo 7:15-20\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-25T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesús dio una prueba para reconocer a un falso profeta que nunca falla. Solo necesita un poco de tiempo.",
+      "texto_pantalla": "La prueba que no falla",
+      "emocion": "gancho",
+      "visual": {
+        "query": "apple tree with ripe fruit orchard"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "El tema de hoy en la lección nueve es Frutos positivos. En Mateo siete, versículos quince al veinte, Jesús advierte sobre los falsos profetas que vienen vestidos de ovejas, pero por dentro son lobos. Y da la clave: por sus frutos los conoceréis. Un árbol bueno no puede dar fruto malo. Las palabras pueden engañar por un tiempo; los frutos, no. ¿Qué produce ese mensaje en la vida de quienes lo siguen? ¿Más amor, más humildad, más fidelidad a Dios? ¿O división, orgullo y miedo? El tiempo revela el árbol. Hoy, mira los frutos antes de seguir una voz. Comenta «Por sus frutos».",
+      "texto_pantalla": "La prueba que no falla",
+      "referencia": "Mateo 7:15-20",
+      "emocion": "agil",
+      "visual": {
+        "query": "rotten fruit next to fresh fruit table"
+      }
+    }
+  ]
+}

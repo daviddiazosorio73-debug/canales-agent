@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-23",
+  "tema": "A régua que desmascara qualquer falso profeta 📏",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "En armonía con la Biblia"
+  },
+  "miniatura": {
+    "linea1": "A régua de medir",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A régua que desmascara qualquer falso profeta 📏 #shorts",
+    "descripcion": "Existe uma régua simples que desmascara qualquer falso profeta. Ela cabe em um único versículo.\n\nIsaías 8:20\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-23T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Existe uma régua simples que desmascara qualquer falso profeta. Ela cabe em um único versículo.",
+      "texto_pantalla": "A régua de medir",
+      "emocion": "gancho",
+      "visual": {
+        "query": "ruler measuring tape on wooden table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "O tema de hoje na lição nove é Em harmonia com a Bíblia. Isaías oito, versículo vinte, diz que devemos ir à lei e ao testemunho, e que, se alguém não falar segundo esta palavra, nunca verá a alva. A Bíblia é a régua com que se mede toda mensagem. Não o contrário. Um verdadeiro profeta nunca contradiz o que Deus já revelou, porque Deus não se contradiz. Se uma mensagem, uma visão ou um vídeo viral bate de frente com as Escrituras, as Escrituras vencem. Hoje, antes de crer em algo que se apresenta como vindo de Deus, meça com a Palavra. Escreva nos comentários «À lei e ao testemunho».",
+      "texto_pantalla": "A régua de medir",
+      "referencia": "Isaías 8:20",
+      "emocion": "agil",
+      "visual": {
+        "query": "old bible open on wooden table morning light"
+      }
+    }
+  ]
+}

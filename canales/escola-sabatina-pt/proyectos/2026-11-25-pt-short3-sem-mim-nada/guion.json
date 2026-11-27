@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Por que você se esforça tanto e não dá fruto 🌱",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "Sem fruto?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por que você se esforça tanto e não dá fruto 🌱 #shorts",
+    "descripcion": "Você se esforça, tenta de novo, e ainda assim sente que a sua vida não dá fruto. Jesus explicou por quê.\n\nJoão 15:5\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Você se esforça, tenta de novo, e ainda assim sente que a sua vida não dá fruto. Jesus explicou por quê.",
+      "texto_pantalla": "Sem fruto?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "grape vine branch with leaves close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João quinze, versículo cinco. Jesus diz: eu sou a videira, vocês são os ramos; quem permanece em mim, e eu nele, esse dá muito fruto, porque sem mim vocês nada podem fazer. Um ramo não produz uvas à força. Produz porque está ligado à videira. Os frutos positivos da lição nove não se fabricam: são recebidos quando permanecemos em Cristo. Por isso, a oração e a Palavra não são enfeite da vida cristã; são a conexão. Esta noite, antes de dormir, passe cinco minutos a sós com Jesus. Inscreva-se para mais Escola Sabatina em um minuto.",
+      "texto_pantalla": "Sem fruto?",
+      "referencia": "João 15:5",
+      "emocion": "agil",
+      "visual": {
+        "query": "small plant growing from soil sunlight"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Repaso: Poniendo a prueba a los profetas en 1 minuto 🔁",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "Repaso de la semana",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Repaso: Poniendo a prueba a los profetas en 1 minuto 🔁 #shorts",
+    "descripcion": "¿Te perdiste algún día de la lección de esta semana? Aquí tienes el repaso en un minuto.\n\n1 Juan 4:1\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "¿Te perdiste algún día de la lección de esta semana? Aquí tienes el repaso en un minuto.",
+      "texto_pantalla": "Repaso de la semana",
+      "emocion": "gancho",
+      "visual": {
+        "query": "open book review notes highlighter"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "La lección nueve, Poniendo a prueba a los profetas, empezó con primera de Juan cuatro, uno: no creer a todo espíritu, sino probarlo. El domingo vimos que lo sobrenatural impresiona, pero no prueba nada por sí solo. El lunes, que todo mensaje debe estar en armonía con la Biblia. El martes, que el verdadero profeta confiesa a Cristo venido en carne. El miércoles, que se le conoce por sus frutos. El jueves, que sus profecías se cumplen. Y hoy, la invitación a probar y ver que el Señor es bueno. La pregunta para el sábado: ¿con qué regla mido lo que escucho? Comparte este repaso con tu clase.",
+      "texto_pantalla": "Repaso de la semana",
+      "referencia": "1 Juan 4:1",
+      "emocion": "agil",
+      "visual": {
+        "query": "checklist on notebook with pen"
+      }
+    }
+  ]
+}

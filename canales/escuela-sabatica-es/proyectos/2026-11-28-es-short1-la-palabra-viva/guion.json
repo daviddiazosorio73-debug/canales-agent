@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "El único libro que te lee mientras lo lees 📖",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Un libro vivo",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "El único libro que te lee mientras lo lees 📖 #shorts",
+    "descripcion": "Hay un libro que, mientras lo lees, te lee a ti.\n\nHebreos 4:12\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Hay un libro que, mientras lo lees, te lee a ti.",
+      "texto_pantalla": "Un libro vivo",
+      "emocion": "gancho",
+      "visual": {
+        "query": "sharp sword blade light reflection dark"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Es el versículo para memorizar de la lección diez, Autoridad y relevancia proféticas: Hebreos cuatro, doce. Dice que la palabra de Dios es viva y eficaz, más cortante que toda espada de dos filos, y que penetra hasta lo más profundo, discerniendo los pensamientos y las intenciones del corazón. No es un libro antiguo que se quedó en el pasado. Es una Palabra viva, que sigue hablando hoy y que conoce lo que nadie más ve en ti. Por eso tiene autoridad. Este sábado, abre la Biblia no solo para estudiarla, sino para dejar que te examine. Memoriza Hebreos cuatro, doce, y comenta «Palabra viva».",
+      "texto_pantalla": "Un libro vivo",
+      "referencia": "Hebreos 4:12",
+      "emocion": "agil",
+      "visual": {
+        "query": "old bible pages glowing light"
+      }
+    }
+  ]
+}

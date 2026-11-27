@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "O jeito mais seguro de saber se algo vem de Deus 🚪",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "Como saber?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O jeito mais seguro de saber se algo vem de Deus 🚪 #shorts",
+    "descripcion": "Jesus revelou o jeito mais seguro de saber se um ensino vem de Deus. E não é estudar mais.\n\nJoão 7:17\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Jesus revelou o jeito mais seguro de saber se um ensino vem de Deus. E não é estudar mais.",
+      "texto_pantalla": "Como saber?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "hiker walking forest trail morning"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "João sete, versículo dezessete. Jesus disse que, se alguém quiser fazer a vontade de Deus, conhecerá se o ensino vem de Deus ou se ele fala por conta própria. Repare na ordem: primeiro a disposição de obedecer, depois a certeza. Muitas dúvidas não se resolvem com mais debates, mas com um coração disposto. Isso se liga a Provem e vejam, o tema de hoje da lição nove. Deus se deixa conhecer por quem caminha com ele. Antes de começar o sábado, diga a Deus: quero fazer a tua vontade, mostra-me o caminho. Compartilhe este vídeo com alguém que tem dúvidas sinceras.",
+      "texto_pantalla": "Como saber?",
+      "referencia": "João 7:17",
+      "emocion": "agil",
+      "visual": {
+        "query": "door opening to bright garden"
+      }
+    }
+  ]
+}

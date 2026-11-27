@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-26",
+  "tema": "Nenhuma promessa falhou. Nenhuma 🙌",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Profecías cumplidas"
+  },
+  "miniatura": {
+    "linea1": "Nenhuma falhou",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Nenhuma promessa falhou. Nenhuma 🙌 #shorts",
+    "descripcion": "No fim da vida, Josué olhou para trás e fez as contas. O resultado foi perfeito.\n\nJosué 21:45\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "No fim da vida, Josué olhou para trás e fez as contas. O resultado foi perfeito.",
+      "texto_pantalla": "Nenhuma falhou",
+      "emocion": "gancho",
+      "visual": {
+        "query": "promise ring box on wooden table soft light"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Josué vinte e um, versículo quarenta e cinco, resume a história de Israel em uma frase: nenhuma palavra falhou de todas as boas promessas que o Senhor tinha feito; tudo se cumpriu. Nenhuma. A lição nove fala de Profecias cumpridas, e não se trata só de impérios e datas. Trata-se de um Deus que cumpre o que diz, também na sua história. Esta noite, faça as suas próprias contas: que promessa de Deus você já viu se cumprir na sua vida? Escreva nos comentários para animar outras pessoas. Inscreva-se para mais Escola Sabatina em um minuto.",
+      "texto_pantalla": "Nenhuma falhou",
+      "referencia": "Josué 21:45",
+      "emocion": "agil",
+      "visual": {
+        "query": "old family photos and letters on table"
+      }
+    }
+  ]
+}

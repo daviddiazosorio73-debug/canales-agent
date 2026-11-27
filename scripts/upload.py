@@ -67,14 +67,19 @@ def main():
               "containsSyntheticMedia": bool(g.get("contenido_sintetico", True))}
     if m.get("publicar_en"):
         status["publishAt"] = m["publicar_en"]
-    body = {"snippet": {"title": m["titulo"], "description": m["descripcion"], "tags": m["tags"],
+    def _yt(t, n):  # YouTube rechaza < y > (invalidDescription) y más de 5000 bytes
+        t = (t or "").replace("<", "‹").replace(">", "›")
+        while len(t.encode("utf-8")) > n:
+            t = t[:-50]
+        return t
+    body = {"snippet": {"title": _yt(m["titulo"], 400)[:100], "description": _yt(m["descripcion"], 4900), "tags": m["tags"],
                         "categoryId": m["categoria_id"], "defaultLanguage": m["idioma"],
                         "defaultAudioLanguage": m["idioma"]},
             "status": status}
     locs = g.get("seo", {}).get("localizaciones") or {}
     partes = "snippet,status"
     if locs:
-        body["localizations"] = {l: {"title": v["title"][:100], "description": v["description"][:5000]}
+        body["localizations"] = {l: {"title": _yt(v["title"], 400)[:100], "description": _yt(v["description"], 4900)}
                                  for l, v in locs.items() if l != m["idioma"]}
         partes += ",localizations"
     req = yt.videos().insert(part=partes, body=body,

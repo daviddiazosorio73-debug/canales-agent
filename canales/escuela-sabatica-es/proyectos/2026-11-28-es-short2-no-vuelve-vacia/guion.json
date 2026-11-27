@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "Lo que Dios dice nunca vuelve vacío 🌧️",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Nunca vacía",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Lo que Dios dice nunca vuelve vacío 🌧️ #shorts",
+    "descripcion": "La lluvia nunca sube al cielo sin haber hecho su trabajo. Dios dice que su Palabra funciona igual.\n\nIsaías 55:10-11\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "La lluvia nunca sube al cielo sin haber hecho su trabajo. Dios dice que su Palabra funciona igual.",
+      "texto_pantalla": "Nunca vacía",
+      "emocion": "gancho",
+      "visual": {
+        "query": "rain falling on green field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "En Isaías cincuenta y cinco, versículos diez y once, Dios compara su Palabra con la lluvia y la nieve: descienden, riegan la tierra, la hacen germinar y dan semilla al que siembra y pan al que come. Así será la palabra que sale de mi boca, dice el Señor: no volverá a mí vacía. Esa es la autoridad de la que habla la lección diez, ligada a nuestro versículo para memorizar, Hebreos cuatro, doce. La Palabra de Dios no es información, es poder que transforma. Quizás compartiste un versículo y no viste resultado. Sigue sembrando: Dios se encarga de la cosecha. Comparte este video con alguien que necesita una palabra de Dios hoy.",
+      "texto_pantalla": "Nunca vacía",
+      "referencia": "Isaías 55:10-11",
+      "emocion": "agil",
+      "visual": {
+        "query": "seed sprouting soil close up"
+      }
+    }
+  ]
+}

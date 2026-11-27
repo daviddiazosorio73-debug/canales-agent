@@ -1,0 +1,67 @@
+{
+  "lang": "es",
+  "tipo": "short",
+  "fecha": "2026-11-25",
+  "tema": "Por qué te esfuerzas tanto y no das fruto 🌱",
+  "version_biblica": "RVR1960",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "Frutos positivos"
+  },
+  "miniatura": {
+    "linea1": "¿Sin fruto?",
+    "linea2": "",
+    "etiqueta": "ESCUELA SABÁTICA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Por qué te esfuerzas tanto y no das fruto 🌱 #shorts",
+    "descripcion": "Te esfuerzas, lo intentas otra vez, y aun así sientes que tu vida no da fruto. Jesús explicó por qué.\n\nJuan 15:5\n\nSuscríbete para más Escuela Sabática en 1 minuto. Narración con voz sintética. #shorts",
+    "tags": [
+      "escuela sabática",
+      "lección escuela sabática",
+      "biblia",
+      "reflexión cristiana",
+      "shorts",
+      "escritos proféticos",
+      "don de profecía"
+    ],
+    "hashtags": [
+      "EscuelaSabatica",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-26T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Te esfuerzas, lo intentas otra vez, y aun así sientes que tu vida no da fruto. Jesús explicó por qué.",
+      "texto_pantalla": "¿Sin fruto?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "grape vine branch with leaves close up"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Juan quince, versículo cinco. Jesús dice: yo soy la vid y ustedes los pámpanos; el que permanece en mí y yo en él, este lleva mucho fruto, porque separados de mí nada pueden hacer. Una rama no da uvas a fuerza de apretar. Las da porque está unida a la vid. Los frutos positivos de la lección nueve no se fabrican: se reciben al permanecer en Cristo. Por eso, la oración y la Palabra no son un adorno de la vida cristiana, son la conexión. Esta noche, antes de dormir, pasa cinco minutos a solas con Jesús. Suscríbete para más Escuela Sabática en un minuto.",
+      "texto_pantalla": "¿Sin fruto?",
+      "referencia": "Juan 15:5",
+      "emocion": "agil",
+      "visual": {
+        "query": "small plant growing from soil sunlight"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-27",
+  "tema": "Deus convida você a fazer o teste por si mesmo 🍯",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 9,
+    "dia": "«Gusten y vean»"
+  },
+  "miniatura": {
+    "linea1": "Faça o teste",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "Deus convida você a fazer o teste por si mesmo 🍯 #shorts",
+    "descripcion": "Deus não pede que você creia às cegas. Ele convida você a fazer o teste por si mesmo.\n\nSalmos 34:8\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-27T12:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Deus não pede que você creia às cegas. Ele convida você a fazer o teste por si mesmo.",
+      "texto_pantalla": "Faça o teste",
+      "emocion": "gancho",
+      "visual": {
+        "query": "fresh bread and honey on wooden table"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "O tema de hoje na lição nove se chama Provem e vejam, e vem do Salmo trinta e quatro, versículo oito: provai e vede que o Senhor é bom; bem-aventurado quem nele confia. Ninguém consegue explicar totalmente o sabor do mel. É preciso provar. Assim é com Deus e com a sua Palavra. Você pode ouvir mil argumentos, mas a convicção mais profunda chega quando você coloca em prática. Leia um conselho, viva-o e observe o resultado. Neste fim de semana, escolha uma promessa da Bíblia e prove na sua vida. Comente «Vou provar».",
+      "texto_pantalla": "Faça o teste",
+      "referencia": "Salmos 34:8",
+      "emocion": "agil",
+      "visual": {
+        "query": "person tasting spoon kitchen warm light"
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "O que Deus diz nunca volta vazio 🌧️",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Nunca vazia",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "O que Deus diz nunca volta vazio 🌧️ #shorts",
+    "descripcion": "A chuva nunca volta ao céu sem ter feito o seu trabalho. Deus diz que a sua Palavra funciona do mesmo jeito.\n\nIsaías 55:10-11\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-28T18:00:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "A chuva nunca volta ao céu sem ter feito o seu trabalho. Deus diz que a sua Palavra funciona do mesmo jeito.",
+      "texto_pantalla": "Nunca vazia",
+      "emocion": "gancho",
+      "visual": {
+        "query": "rain falling on green field"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em Isaías cinquenta e cinco, versículos dez e onze, Deus compara a sua Palavra com a chuva e a neve: descem, regam a terra, fazem brotar e dão semente ao que semeia e pão ao que come. Assim será a palavra que sair da minha boca, diz o Senhor: não voltará para mim vazia. Essa é a autoridade de que fala a lição dez, ligada ao nosso verso para memorizar, Hebreus quatro, doze. A Palavra de Deus não é informação; é poder que transforma. Talvez você tenha compartilhado um versículo e não viu resultado. Continue semeando: Deus cuida da colheita. Compartilhe este vídeo com alguém que precisa de uma palavra de Deus hoje.",
+      "texto_pantalla": "Nunca vazia",
+      "referencia": "Isaías 55:10-11",
+      "emocion": "agil",
+      "visual": {
+        "query": "seed sprouting soil close up"
+      }
+    }
+  ]
+}

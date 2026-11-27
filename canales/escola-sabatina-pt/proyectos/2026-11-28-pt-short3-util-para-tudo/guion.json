@@ -1,0 +1,67 @@
+{
+  "lang": "pt",
+  "tipo": "short",
+  "fecha": "2026-11-28",
+  "tema": "A Bíblia serve para a sua vida real? Paulo responde 🧰",
+  "version_biblica": "ARA",
+  "color_marca": [
+    212,
+    168,
+    83
+  ],
+  "contenido_sintetico": true,
+  "tema_leccion": {
+    "trimestre": "2026T4",
+    "leccion": 10,
+    "dia": "Autoridad y relevancia proféticas (versículo para memorizar)"
+  },
+  "miniatura": {
+    "linea1": "Serve hoje?",
+    "linea2": "",
+    "etiqueta": "ESCOLA SABATINA",
+    "imagen": "gancho"
+  },
+  "seo": {
+    "titulo": "A Bíblia serve para a sua vida real? Paulo responde 🧰 #shorts",
+    "descripcion": "Muita gente diz que a Bíblia é um livro bonito, mas que não serve para a vida real. Paulo pensava diferente.\n\n2 Timóteo 3:16-17\n\nInscreva-se para mais Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts",
+    "tags": [
+      "escola sabatina",
+      "lição da escola sabatina",
+      "bíblia",
+      "reflexão cristã",
+      "shorts",
+      "escritos proféticos",
+      "dom de profecia"
+    ],
+    "hashtags": [
+      "EscolaSabatina",
+      "shorts",
+      "Biblia"
+    ],
+    "privacidad": "private",
+    "publicar_en": "2026-11-29T01:30:00Z",
+    "lista_id": null
+  },
+  "escenas": [
+    {
+      "id": "gancho",
+      "capitulo": "Inicio",
+      "texto": "Muita gente diz que a Bíblia é um livro bonito, mas que não serve para a vida real. Paulo pensava diferente.",
+      "texto_pantalla": "Serve hoje?",
+      "emocion": "gancho",
+      "visual": {
+        "query": "toolbox with tools on workbench"
+      }
+    },
+    {
+      "id": "mensaje",
+      "texto": "Em segunda Timóteo três, versículos dezesseis e dezessete, Paulo escreve que toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção e para a educação na justiça, a fim de que o homem de Deus esteja preparado para toda boa obra. Útil. Não decorativa. Essa é a relevância que vamos estudar na lição dez, Autoridade e relevância proféticas. A Bíblia tem algo a dizer sobre a sua família, o seu trabalho, o seu dinheiro e as suas decisões. Esta noite, pense em uma decisão pendente e procure o que a Palavra diz sobre ela. Inscreva-se para mais Escola Sabatina em um minuto.",
+      "texto_pantalla": "Serve hoje?",
+      "referencia": "2 Timóteo 3:16-17",
+      "emocion": "agil",
+      "visual": {
+        "query": "lamp lighting dark path night"
+      }
+    }
+  ]
+}
