@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Why is the Bible compared to a sword? ⚔️ #shorts",
+        "description": "The Bible chose a surprising image to describe itself. And the target of this image is not who you think it is. Hebrews 4:12 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "لماذا يُشبه الكتاب المقدس بالسيف؟ ⚔️ #shorts",
+        "description": "اختار الكتاب المقدس صورة مدهشة لوصف نفسه. والهدف من هذه الصورة ليس من تتخيل. عبرانيين 4: 12 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "为什么圣经被比作一把剑？⚔️ #shorts",
+        "description": "圣经选择了一个令人惊讶的形象来描述自己。而这个形象的目标并不是您想象的那样。希伯来书 4:12 订阅，1 分钟内了解更多安息日学的内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "성경은 왜 검에 비유될까요? ⚔️ #shorts",
+        "description": "성경은 자신을 묘사하기 위해 놀라운 이미지를 선택했습니다. 그리고 이 비유의 대상은 여러분이 생각하는 사람이 아닙니다. 히브리서 4:12 1분 안식일학교 더 보시려면 구독하세요. 인공 음성 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "steel blade reflecting light close up"
-      }
+      },
+      "texto_en": "The Bible chose a surprising image to describe itself. And the subject of this image is not who you think it is.",
+      "texto_ar": "اختار الكتاب المقدس صورة مدهشة لوصف نفسه. والهدف من هذه الصورة ليس الشخص الذي تتخيله.",
+      "texto_zh": "圣经选择了一个令人意想不到的形象来描述自己。而这个形象所针对的对象并不是您想象的那个人。",
+      "texto_ko": "성경은 자신을 묘사하기 위해 놀라운 이미지를 선택했습니다. 그리고 이 이미지의 대상은 여러분이 생각하는 사람이 아닙니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "surgical scalpel on clean sterile tray"
-      }
+      },
+      "texto_en": "Hebrews 4, verse 12, the verse to memorize from Lesson 10, Prophetic Authority and Relevance. The Word of God is sharper than a double-edged sword. But notice the target: it does not attack people from the outside; it reaches the thoughts and intentions of the heart. Like a surgeon's scalpel, it cuts to heal. It shows what needs to change and, at the same time, points to grace. Those who let the Word work do not remain the same. What part of your heart has the Bible touched lately? Comment.",
+      "texto_ar": "رسالة بولس الرسول إلى العبرانيين الأصحاح الرابع، الآية الثانية عشر، الآية التي يجب حفظها من الدرس العاشر، السلطة النبوية وأهميتها. كلمة الله أشد حدة من سيف ذي حدين. لكن لاحظ الهدف: إنها لا تهاجم الناس من الخارج؛ بل تصل إلى أفكار القلب ونواياه. مثل مشرط الجراح، فهي تقطع من أجل الشفاء. إنها تبين ما يجب تغييره، وفي الوقت نفسه، تشير إلى النعمة. من يسمح للكلمة بأن تعمل لن يبقى كما هو. ما هو الجزء من قلبك الذي لامسه الكتاب المقدس مؤخرًا؟ اذكر تعليقك.",
+      "texto_zh": "希伯来书第四章第十二节，第十课的背诵经文，先知的权威和相关性。神的话比两刃的剑更锋利。但请注意它的目标：它不会攻击外在的人；它会触及内心的思想和意图。它像外科医生的手术刀一样，切开是为了治愈。它指明了需要改变的地方，同时又指向恩典。让神的话语发挥作用的人不会保持不变。 最近，圣经触动了您内心的哪个方面？请发表您的看法。",
+      "texto_ko": "히브리서 4장 12절, 10과 '예언의 권위와 관련성'의 암기 성구입니다. 하나님의 말씀은 양날칼보다 더 날카롭습니다. 하지만 그 대상에 주목하십시오. 말씀은 외부의 사람들을 공격하지 않고 마음의 생각과 의도에 도달합니다. 외과의사의 메스처럼 말씀은 치유하기 위해 베어냅니다. 그것은 무엇을 변화시켜야 하는지 보여주면서 동시에 은혜를 가리킵니다. 말씀이 작용하도록 내버려 두는 사람은 그대로 머물러 있지 않습니다. 최근에 성경이 여러분의 마음의 어떤 부분을 건드렸나요? 의견을 남겨 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
