@@ -4,9 +4,10 @@
  "fuentes": [
   "https://www.sabbath.school/LessonBook?lang=2&year=2026&quarter=4",
   "https://escuelasabaticamaestros.com/2026/10/31/leccion-6-los-escritos-profeticos-para-el-7-de-noviembre-de-2026/",
-  "https://escuelasabaticamaestros.com/"
+  "https://escuelasabaticamaestros.com/",
+  "https://ssnet.org/lessons/26d/less10.html"
  ],
- "nota": "dia = tema del día verificado (null = falta verificar: NO escribir Shorts de ese día; pedirlo al Fundador). Sábado = versículo para memorizar de la lección que empieza. Títulos PT oficiales: sin verificar.",
+ "nota": "dia = tema del día verificado (null = falta verificar: NO escribir Shorts de ese día; pedirlo al Fundador). Sábado = versículo para memorizar de la lección que empieza. Títulos PT oficiales: sin verificar. Respaldo (orden del Fundador, 27-nov-2026): si escuelasabaticamaestros.com no trae un día, se toma de ssnet.org (título oficial en inglés, traducido al español; campos dia_en y fuente_dia).",
  "fechas": {
   "2026-09-26": {
    "leccion": 1,
@@ -396,37 +397,49 @@
    "leccion": 10,
    "titulo": "Autoridad y relevancia proféticas",
    "versiculo": "Hebreos 4:12",
-   "dia": null
+   "dia": "La mediación de la autoridad de Dios",
+   "dia_en": "Mediating God's Authority",
+   "fuente_dia": "https://ssnet.org/lessons/26d/less10.html (título oficial en inglés, traducido; verificado 27-nov-2026)"
   },
   "2026-11-30": {
    "leccion": 10,
    "titulo": "Autoridad y relevancia proféticas",
    "versiculo": "Hebreos 4:12",
-   "dia": null
+   "dia": "La autoridad de Jesús",
+   "dia_en": "The Authority of Jesus",
+   "fuente_dia": "https://ssnet.org/lessons/26d/less10.html (título oficial en inglés, traducido; verificado 27-nov-2026)"
   },
   "2026-12-01": {
    "leccion": 10,
    "titulo": "Autoridad y relevancia proféticas",
    "versiculo": "Hebreos 4:12",
-   "dia": null
+   "dia": "La autoridad bíblica",
+   "dia_en": "Biblical Authority",
+   "fuente_dia": "https://ssnet.org/lessons/26d/less10.html (título oficial en inglés, traducido; verificado 27-nov-2026)"
   },
   "2026-12-02": {
    "leccion": 10,
    "titulo": "Autoridad y relevancia proféticas",
    "versiculo": "Hebreos 4:12",
-   "dia": null
+   "dia": "La autoridad organizacional",
+   "dia_en": "Organizational Authority",
+   "fuente_dia": "https://ssnet.org/lessons/26d/less10.html (título oficial en inglés, traducido; verificado 27-nov-2026)"
   },
   "2026-12-03": {
    "leccion": 10,
    "titulo": "Autoridad y relevancia proféticas",
    "versiculo": "Hebreos 4:12",
-   "dia": null
+   "dia": "Profetas canónicos y no canónicos",
+   "dia_en": "Canonical and Non-canonical Prophets",
+   "fuente_dia": "https://ssnet.org/lessons/26d/less10.html (título oficial en inglés, traducido; verificado 27-nov-2026)"
   },
   "2026-12-04": {
    "leccion": 10,
    "titulo": "Autoridad y relevancia proféticas",
    "versiculo": "Hebreos 4:12",
-   "dia": null
+   "dia": "Hablar con autoridad",
+   "dia_en": "Speaking With Authority",
+   "fuente_dia": "https://ssnet.org/lessons/26d/less10.html (título oficial en inglés, traducido; verificado 27-nov-2026)"
   },
   "2026-12-05": {
    "leccion": 11,

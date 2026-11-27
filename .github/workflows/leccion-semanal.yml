@@ -2,6 +2,8 @@ name: Temas de la lección (Escuela Sabática)
 
 on:
   schedule:
+    - cron: "0 17 * * 3"   # miércoles 12:00 Lima (respaldo ssnet.org con días de anticipación)
+    - cron: "0 17 * * 4"   # jueves 12:00 Lima
     - cron: "0 14 * * 6"   # sábado 09:00 Lima
     - cron: "0 20 * * 6"   # sábado 15:00 Lima
     - cron: "30 23 * * 6"  # sábado 18:30 Lima (antes de la tarea semanal de las 19:52)
@@ -26,11 +28,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Leer los temas del día
-        run: python scripts/leccion_indice.py ${{ github.event.inputs.url }} ${{ github.event.inputs.probar == 'true' && '--probar' || '' }}
+        run: python scripts/leccion_indice.py ${{ github.event.inputs.url }} ${{ github.event.inputs.probar == 'true' && '--probar' || '' }} || echo "aviso escuelasabaticamaestros"
+      - name: Respaldo ssnet.org (días que la fuente en español aún no trae)
+        if: github.event.inputs.probar != 'true'
+        run: |
+          pip install -q deep-translator
+          python scripts/leccion_ssnet.py || echo "aviso ssnet"
       - name: Guardar
         run: |
           git config user.name "canales-bot"
           git config user.email "canales-bot@users.noreply.github.com"
           git add investigacion
-          git diff --cached --quiet || git commit -m "Temas del día de la lección (escuelasabaticamaestros.com)"
+          git diff --cached --quiet || git commit -m "Temas del día de la lección (escuelasabaticamaestros.com / respaldo ssnet.org)"
           git pull --rebase --autostash -q && git push -q || true
