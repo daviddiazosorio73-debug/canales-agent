@@ -1,29 +1,29 @@
 {
  "semana": "2026-W48",
  "orden": [
-  "canales/top10-redes/proyectos/2026-11-25-en-top10-oceania",
-  "canales/top10-redes/proyectos/2026-11-25-en-top10-asia",
-  "canales/top10-redes/proyectos/2026-11-25-en-top10-africa",
-  "canales/top10-redes/proyectos/2026-11-25-en-top10-europa",
-  "canales/top10-redes/proyectos/2026-11-25-es-top10-america",
-  "canales/top10-redes/proyectos/2026-11-25-en-top10-mundial"
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-oceania-v2",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-asia-v2",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-africa-v2",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-europa-v2",
+  "canales/top10-redes/proyectos/2026-11-25-es-top10-america-v2",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-mundial-v2"
  ],
  "playlist": "PLPf3cMuRH42k",
  "en_lista": [
-  "kWYbk4JRIEU",
-  "T4rHSe5LGzA",
-  "B3ui9gQ2qZ8",
-  "2UBofLbfpcw",
-  "fzJcU7dHB8A",
-  "xkhc1zX8kJQ"
+  "y6aWGV7sXsU",
+  "tkRJuIF77_I",
+  "k2vwIulWZ5A",
+  "UqZtqtfYqEY",
+  "xqf3EHl4eUk",
+  "TfNplg01aXg"
  ],
  "enlazados": [
-  "kWYbk4JRIEU>T4rHSe5LGzA",
-  "T4rHSe5LGzA>B3ui9gQ2qZ8",
-  "B3ui9gQ2qZ8>2UBofLbfpcw",
-  "2UBofLbfpcw>fzJcU7dHB8A",
-  "fzJcU7dHB8A>xkhc1zX8kJQ",
-  "xkhc1zX8kJQ>fin"
+  "y6aWGV7sXsU>tkRJuIF77_I",
+  "tkRJuIF77_I>k2vwIulWZ5A",
+  "k2vwIulWZ5A>UqZtqtfYqEY",
+  "UqZtqtfYqEY>xqf3EHl4eUk",
+  "xqf3EHl4eUk>TfNplg01aXg",
+  "TfNplg01aXg>fin"
  ],
  "orden_v2": [
   "canales/top10-redes/proyectos/2026-11-25-en-top10-oceania-v2",
@@ -32,5 +32,13 @@
   "canales/top10-redes/proyectos/2026-11-25-en-top10-europa-v2",
   "canales/top10-redes/proyectos/2026-11-25-es-top10-america-v2",
   "canales/top10-redes/proyectos/2026-11-25-en-top10-mundial-v2"
+ ],
+ "orden_v1": [
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-oceania",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-asia",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-africa",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-europa",
+  "canales/top10-redes/proyectos/2026-11-25-es-top10-america",
+  "canales/top10-redes/proyectos/2026-11-25-en-top10-mundial"
  ]
 }
