@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-29T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The light that Peter told us not to lose sight of 🕯️ #shorts",
+        "description": "Peter saw Jesus glorified on the mountain. Even so, he pointed to something he called even more sure. 2 Peter 1:19-21 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "النور الذي طلب منك بطرس ألا تغفل عنه 🕯️ #shorts",
+        "description": "رأى بطرس يسوع وهو ممجد على الجبل. ومع ذلك، أشار إلى شيء وصفه بأنه أكثر ثباتًا. 2 بطرس 1: 19-21 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "彼得叮嘱我们不要忽视的光明 🕯️ #shorts",
+        "description": "彼得在山上看到了得荣耀的耶稣。尽管如此，他还是指出了他称之为更加稳固的东西。彼得后书 1:19-21 订阅，1 分钟内获取更多安息日学堂内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "베드로가 놓치지 말라고 한 빛 🕯️ #shorts",
+        "description": "베드로는 산에서 영광스러운 예수님을 보았습니다. 그럼에도 불구하고 그는 더 확실하다고 말한 것을 가리켰습니다. 베드로후서 1:19-21 1분 안식일학교 더 보기를 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "oil lamp glowing in dark stone room"
-      }
+      },
+      "texto_en": "Peter saw Jesus glorified on the mountain. Even so, he pointed to something he called even more steadfast.",
+      "texto_ar": "رأى بطرس يسوع وهو ممجد على الجبل. ومع ذلك، أشار إلى شيء وصفه بأنه أكثر ثباتًا.",
+      "texto_zh": "彼得在山上看到了荣耀的耶稣。尽管如此，他还是指出了他称之为更加稳固的东西。",
+      "texto_ko": "베드로는 산에서 영광스러운 예수님을 보았습니다. 그럼에도 불구하고 그는 더 굳건하다고 부른 것을 가리켰습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "dawn breaking over mountain ridge"
-      }
+      },
+      "texto_en": "2 Peter 1, verses 19 to 21. Peter says that we have the prophetic word, which is even more sure, and that we do well to pay attention to it, like a lamp shining in a dark place, until the day dawns. And he explains why: no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit. This is the theme of Lesson Ten, Prophetic Authority and Relevance, with Hebrews 4:12 as the memory verse. Authority comes from God, and relevance appears in the darkness in which we live. Comment on “Light on the Path.”",
+      "texto_ar": "رسالة بطرس الثانية، الإصحاح الأول، الآيات من التاسعة عشرة إلى الحادية والعشرين. يقول بطرس إن لدينا الكلمة النبوية، وهي أكثر ثباتًا، وأننا نفعل الصواب عندما نوليها اهتمامًا، مثل مصباح يضيء في مكان مظلم، حتى يشرق النهار. ويشرح السبب: لم تأتِ أي نبوءة بإرادة بشرية؛ بل تكلم الرجال باسم الله، مدفوعين بالروح القدس. إنه موضوع الدرس العاشر، السلطة والأهمية النبوية، مع رسالة العبرانيين الأصحاح الرابع، الآية الثانية عشر، كآية لحفظها. السلطة تأتي من الله، وتظهر الأهمية في الظلام الذي نعيش فيه. علق على \"نور على الطريق\".",
+      "texto_zh": "彼得后书第一章第十九至二十一节。彼得说，我们有更确实的预言的道，我们当作光照在暗处的话留心谨守，直到天亮，晨星在你们心里出现才是。他还解释了原因：因为没有先知讲的预言是出于人意的，乃是人被圣灵感动，说出神的话来。 这是第十课的主题，即先知的权威和相关性，背诵经文为希伯来书第四章第十二节。权威来自上帝，而意义则体现在我们所处的黑暗之中。请就“道路上的光”发表评论。",
+      "texto_ko": "베드로후서 1장 19절부터 21절까지입니다. 베드로는 우리가 더욱 확실한 예언의 말씀을 가지고 있으며, 날이 밝아 올 때까지 어두운 곳에서 비추는 등불처럼 그 말씀에 주의를 기울이는 것이 좋다고 말합니다. 그리고 그 이유를 설명합니다. 어떤 예언도 사람의 뜻에서 난 것이 아니며, 사람들은 성령의 감동을 받아 하나님의 뜻을 전했습니다. 이것이 10과 '예언적 권위와 관련성'의 주제이며, 암기할 성구는 히브리서 4장 12절입니다. 권위는 하나님으로부터 오고, 관련성은 우리가 살고 있는 어둠 속에서 드러납니다. «길을 비추는 빛»에 대해 말씀해 주십시오."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
