@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-29T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Nothing is hidden… and that's good news 👁️ #shorts",
+        "description": "There is a truth that is frightening at first and brings peace in the end. Hebrews 4:12–13 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Nada fica escondido… e essa é uma boa notícia 👁️ #shorts",
+        "description": "Há uma verdade que assusta no início e traz paz no final. Hebreus 4:12-13 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "لا شيء مخفي... وهذه أخبار جيدة 👁️ #shorts",
+        "description": "هناك حقيقة تخيف في البداية وتمنح السلام في النهاية. عبرانيين 4: 12-13 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "一切都一目了然……这是个好消息 👁️ #shorts",
+        "description": "有一种真理，起初令人害怕，最终却带来平安。希伯来书 4:12-13 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "숨겨진 것이 없습니다... 그리고 이것은 좋은 소식입니다. 👁️ #shorts",
+        "description": "처음에는 두렵지만 결국에는 평화를 가져다주는 진리가 있습니다. 히브리서 4:12-13 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성으로 내레이션. #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "sunlight breaking through window into dark room"
-      }
+      },
+      "texto_en": "There is a truth that is frightening at first and peaceful at the end.",
+      "texto_pt": "Há uma verdade que assusta no início e traz paz no final.",
+      "texto_ar": "هناك حقيقة تخيف في البداية وتعطي السلام في النهاية.",
+      "texto_zh": "有一种真相，起初令人害怕，最终却带来安宁。",
+      "texto_ko": "처음에는 두렵지만 결국에는 평화를 가져다주는 진리가 있습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "open hands receiving warm light"
-      }
+      },
+      "texto_en": "Hebrews 4, verses 12 and 13, together with the memory verse from Lesson 10, Prophetic Authority and Relevance, teach that no creature can hide from God: everything is in the sight of Him to whom we will one day give an account. It sounds harsh, but the following verses speak of a high priest who has compassion on our weaknesses. The Word shows us what we are in order to lead us to grace. That's why it's still relevant today. Subscribe and comment, “I approach with confidence.”",
+      "texto_pt": "Hebreus 4, versículos 12 e 13, juntamente com o versículo para memorizar da lição 10, Autoridade e relevância proféticas, ensinam que nenhuma criatura pode se esconder de Deus: tudo está à vista daquele a quem um dia prestaremos contas. Parece severo, mas os versículos seguintes falam de um sumo sacerdote que tem compaixão de nossas fraquezas. A Palavra nos mostra o que somos para nos levar à graça. É por isso que ainda é relevante hoje. Inscreva-se e comente \"Eu me aproximo com confiança\".",
+      "texto_ar": "رسالة بولس الرسول إلى العبرانيين الإصحاح الرابع، الآيتان الثانية عشرة والثالثة عشرة، جنبًا إلى جنب مع الآية التي يجب حفظها من الدرس العاشر، السلطة والأهمية النبوية، تعلمنا أنه لا يوجد مخلوق يمكنه الاختباء من الله: كل شيء مكشوف أمام من سنحاسب أمامه يومًا ما. يبدو الأمر قاسيًا، لكن الآيات التالية تتحدث عن رئيس كهنة يتعاطف مع ضعفنا. تُظهر لنا الكلمة ما نحن عليه لتقودنا إلى النعمة. لهذا السبب لا تزال ذات أهمية حتى اليوم. اشترك واكتب في التعليقات \"أتقدم بثقة\".",
+      "texto_zh": "希伯来书第四章第十二节和第十三节，以及第十课的背诵经文“先知的权威和意义”，都教导我们，任何受造物都无法躲避上帝：一切都展现在那位我们有朝一日将向其交账者眼前。听起来很严厉，但接下来的几节经文提到了一位为我们的软弱忧伤的大祭司。圣经向我们展示了我们的本相，以引导我们获得恩典。 这就是为什么它在今天仍然具有意义。订阅并留言“我充满自信地走近”。",
+      "texto_ko": "히브리서 4장 12절과 13절은 10과 '예언적 권위와 관련성'의 암기 성구와 함께 어떤 피조물도 하나님께 숨을 수 없다는 것을 가르칩니다. 모든 것이 언젠가 우리가 심판을 받게 될 그분의 눈앞에 있습니다. 강렬하게 들리지만, 그 뒤의 구절들은 우리의 연약함을 동정하시는 대제사장에 대해 말합니다. 말씀은 우리를 은혜로 인도하시기 위해 우리가 어떤 존재인지 보여주십니다. 그래서 오늘날에도 여전히 유효합니다. 구독하고 '자신감을 갖고 다가갑니다'라고 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
