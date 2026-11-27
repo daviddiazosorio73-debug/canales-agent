@@ -1,0 +1,22 @@
+name: Fotos para el Perfil de Empresa (Imexpomundo)
+on:
+  push:
+    paths: [".github/fotos_gbp.json"]
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q pillow requests
+      - run: python scripts/fotos_gbp.py
+      - name: Guardar
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add canales/tecnologia/gbp
+          git diff --cached --quiet || git commit -m "Fotos del catálogo para el Perfil de Empresa"
+          git pull --rebase --autostash -q && git push -q || true
