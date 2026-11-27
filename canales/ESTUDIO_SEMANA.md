@@ -1,4 +1,4 @@
-# Rutina semanal en YouTube Studio — 2026-11-26 18:59 (Lima)
+# Rutina semanal en YouTube Studio — 2026-11-27 03:58 (Lima)
 
 Orden por video: ① fijar comentario → ② pantalla final → ③ subtítulos (1 por canal) → ④ 4K si dice «sí».
 Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajustar.
@@ -13,19 +13,19 @@ Escuchar: 1 largo y 1 Short por canal; anota en el chat qué voz o emoción ajus
 | mié 25 | [María y Judas: dos principios en la misma cena | Mayordomía ](https://youtu.be/Bjm4UTfAb8M) | [fijar](https://studio.youtube.com/video/Bjm4UTfAb8M/comments) | [editar](https://studio.youtube.com/video/Bjm4UTfAb8M/edit) | — | — |
 | jue 26 | [Siembra de fe: ¿das para recibir multiplicado? Lo que dice l](https://youtu.be/5tjoPx-OzrE) | [fijar](https://studio.youtube.com/video/5tjoPx-OzrE/comments) | [editar](https://studio.youtube.com/video/5tjoPx-OzrE/edit) | — | — |
 
-**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: El «ciento por uno» tiene una letra pequeña 🔎 #shorts](https://youtube.com/shorts/MzPuiri58Gw)
+**Escuchar:** [largo: Diezmo y devorador: ¿Dios te castiga si no diezmas?](https://youtu.be/_-cCZx0ORcw) · [Short: Dios sí te quiere bendecir. Pero para esto 🎯 #shorts](https://youtube.com/shorts/FSs_HH6o6Ts)
 
 ## Maestro DD Escuela Sabática (ES)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Solo hay Uno que conoce el final de la historia 📜 #shorts](https://youtube.com/shorts/M5L4c0m20pc)
+**Escuchar:** [Short: ¿Por qué Dios avisa antes de que pase? 🔔 #shorts](https://youtube.com/shorts/JRBSsu8gllc)
 
 ## A Escola Sabatina (PT)
 
 Sin videos largos publicados esta semana.
 
-**Escuchar:** [Short: Um sonho antigo que descreveu séculos de história #shorts](https://youtube.com/shorts/GEzZgb9FNXw)
+**Escuchar:** [Short: Por que Jesus contou o futuro antes de acontecer? #shorts](https://youtube.com/shorts/rbfGqZhITZs)
 
 ## Top 10 Redes Sociales
 
@@ -44,5 +44,5 @@ Sin videos largos publicados esta semana.
 | dom 22 | [Gratitud y salud: lo que encontraron 49 mil enfermeras y 64 ](https://youtu.be/n9Bqd7M2oI4) | [fijar](https://studio.youtube.com/video/n9Bqd7M2oI4/comments) | [editar](https://studio.youtube.com/video/n9Bqd7M2oI4/edit) | — | sí |
 | mar 24 | [Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) | [fijar](https://studio.youtube.com/video/R7AwvjAMLSA/comments) | [editar](https://studio.youtube.com/video/R7AwvjAMLSA/edit) | — | sí |
 
-**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: ¿La papa cuenta como verdura? La respuesta de un gran estudi](https://youtube.com/shorts/GRJLINfcRd8)
+**Escuchar:** [largo: Estar sentado 8 horas al día: ¿cuánto movimiento compensa el](https://youtu.be/R7AwvjAMLSA) · [Short: 200 gramos más de frutas y verduras: lo que encontraron 95 e](https://youtube.com/shorts/ZxUUqxXJnLk)
 
