@@ -24,8 +24,25 @@ LINEAS = {
 }
 
 
+def inventario():
+    """Categorías y marcas del catálogo (sin precios) para armar la clasificación del Perfil de Empresa."""
+    import collections
+    todos = catalogo()["todos"]
+    cats = collections.Counter((p.get("categoria") or "?") for p in todos if p.get("estado") in ("Activo", "Próximo ingreso"))
+    por_cat = collections.defaultdict(collections.Counter)
+    for p in todos:
+        if p.get("estado") in ("Activo", "Próximo ingreso"):
+            por_cat[p.get("categoria") or "?"][p.get("marca") or "?"] += 1
+    claves = sorted({k for p in todos[:50] for k in p})
+    (OUT / "categorias.json").write_text(json.dumps({"campos": claves, "categorias": [
+        {"categoria": c, "productos": n, "marcas": dict(por_cat[c])} for c, n in cats.most_common()]}, ensure_ascii=False, indent=1))
+
+
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
+    inventario()
+    if "--solo-inventario" in sys.argv:
+        return
     resumen = {}
     for clave, pat in LINEAS.items():
         n = 0

@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: pip install -q pillow requests
-      - run: python scripts/fotos_gbp.py
+      - run: python scripts/fotos_gbp.py --solo-inventario
       - name: Guardar
         run: |
           git config user.name "canales-bot"
