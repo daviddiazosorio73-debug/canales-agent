@@ -790,5 +790,27 @@
     "segundos": 40.0,
     "facebook": null,
     "extra": {}
+  },
+  {
+    "proyecto": "2026-12-04-es-short1-b12-mito",
+    "asset": "cryptuline__2026-12-04-es-short1-b12-mito.mp4",
+    "publicar_en": "2026-12-04T12:00:00Z",
+    "caption": "¿La espirulina es fuente de vitamina B12? Lo que concluyó la ciencia\n\n¿La espirulina es fuente de vitamina B12? Lo que concluyó un grupo japonés.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 42.5,
+    "facebook": null,
+    "extra": {}
+  },
+  {
+    "proyecto": "2026-12-04-es-short2-pan-al-vapor",
+    "asset": "cryptuline__2026-12-04-es-short2-pan-al-vapor.mp4",
+    "publicar_en": "2026-12-04T18:00:00Z",
+    "caption": "Pan al vapor con espirulina: ¿cuánta aguanta la masa?\n\nPan al vapor con espirulina: cuánta aguanta la masa.\n\n#Cryptuline #SaludConCiencia",
+    "instagram": null,
+    "intentos": 0,
+    "segundos": 41.4,
+    "facebook": null,
+    "extra": {}
   }
 ]
