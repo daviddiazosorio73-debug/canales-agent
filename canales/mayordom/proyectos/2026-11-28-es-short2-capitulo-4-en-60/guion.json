@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Two principles in 60 seconds ⏱️ #shorts",
+        "description": "Summary of Chapter 4 of Counsels on Stewardship: The Principle of Christ and the Principle of Satan. (Philippians 2:6–8 · John 12:3–6 · Matthew 6:24, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Dois princípios em 60 segundos ⏱️ #shorts",
+        "description": "Resumo do capítulo 4 de Conselhos sobre mordomia cristã: o princípio de Cristo e o de Satanás. (Filipenses 2:6-8 · João 12:3-6 · Mateus 6:24, paráfrase RVR1960) Assine o MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "مبدآن في 60 ثانية ⏱️ #shorts",
+        "description": "ملخص الفصل الرابع من كتاب \"نصائح حول الإشراف المسيحي\": مبدأ المسيح ومبدأ الشيطان. (فيلبي 2: 6-8 · يوحنا 12: 3-6 · متى 6:24، تفسير RVR1960) اشترك في مايور دوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "60 秒内掌握两大原则 ⏱️ #shorts",
+        "description": "《基督徒管家职责指南》第 4 章摘要：基督的原则与撒但的原则。（腓立比书 2:6-8 ·约翰福音 12:3-6 ·马太福音 6:24，RVR1960 译本意译）订阅 MayorDom · 圣经管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "60초 만에 알아보는 두 가지 원칙 ⏱️ #shorts",
+        "description": "기독교 청지기직에 관한 조언 제4장 요약: 그리스도의 원리와 사탄의 원리. (빌립보서 2:6-8 · 요한복음 12:3-6 · 마태복음 6:24, RVR1960 성경 구절의 의역) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "light vs darkness sky"
-      }
+      },
+      "texto_en": "This week, we saw a war that began in heaven and is being fought today in your heart. In sixty seconds.",
+      "texto_pt": "Esta semana vimos uma guerra que começou no céu e que está sendo travada hoje em seu coração. Em sessenta segundos.",
+      "texto_ar": "شهدنا هذا الأسبوع حربًا بدأت في السماء وتُخاض اليوم في قلبك. في ستين ثانية.",
+      "texto_zh": "本周，我们看到了一场始于天界、如今在您心中进行的战争。在六十秒内。",
+      "texto_ko": "이번 주에는 하늘에서 시작되어 오늘 여러분의 마음 속에서 벌어지고 있는 전쟁을 살펴보았습니다. 60초 안에 말이죠."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "sunrise over mountains peace"
-      }
+      },
+      "texto_en": "One: Selfishness began with a being who wanted to rise by taking, and Jesus responded by coming down and giving. Two: At the supper in Bethany, Mary poured out her perfume, and Judas took from the money bag. Three: You cannot serve both God and wealth, but the seed that is given bears much fruit. And in the analyses: God does not ask us to give out of fear of the devourer, nor to receive more. He asks us to give out of love. Which of the three ideas resonated with you the most? Write it in the comments.",
+      "texto_pt": "Primeiro: o egoísmo começou com um ser que quis subir tomando, e Jesus respondeu descendo e dando. Dois: na ceia de Betânia, Maria derramou seu perfume e Judas tirava da bolsa. Terceiro: não se pode servir a Deus e às riquezas, mas o grão que se entrega dá muito fruto. E nas análises: Deus não pede que se dê por medo do devorador, nem para receber mais. Ele pede que se dê por amor. Qual das três ideias mais tocou você? Escreva nos comentários.",
+      "texto_ar": "أولاً: بدأت الأنانية بإنسان أراد أن يصعد من خلال الأخذ، ورد يسوع بالنزول والعطاء. ثانيًا: في عشاء بيت عنيا، سكبت مريم عطرها وكان يهوذا يسرق من الحقيبة. ثالثًا: لا يمكن للمرء أن يخدم الله والغنى، لكن الحبة التي تُعطى تؤتي ثمرًا كثيرًا. وفي التحليلات: لا يطلب الله العطاء خوفًا من الآكل، ولا للحصول على المزيد. إنه يطلب العطاء بدافع الحب. أي من الأفكار الثلاث أثرت فيك أكثر؟ اكتبها في التعليقات.",
+      "texto_zh": "第一：自私始于一个想要通过索取来提升自己的人，而耶稣的回应则是降卑自己并给予。第二：在伯大尼的晚餐上，玛利亚倾倒了她的香膏，而犹大则从钱袋里取钱。第三：人不能又侍奉天主，又侍奉钱财，但奉献的种子会结出丰硕的果实。在分析中：上帝并不要求我们出于对吞噬者的恐惧而施舍，也不要求我们施舍是为了得到更多。祂要求我们出于爱心而奉献。这三个观点中，哪一个最触动您？请在评论区写下您的想法。",
+      "texto_ko": "첫째, 이기심은 취하면서 올라가고자 했던 한 사람으로부터 시작되었고, 예수님께서는 내려오셔서 주심으로써 응답하셨습니다. 둘째, 베다니의 만찬에서 마리아는 향유를 붓고 유다는 주머니에서 돈을 꺼냈습니다. 셋째, 하느님과 재물을 함께 섬길 수는 없지만, 바치는 씨앗은 많은 열매를 맺습니다. 그리고 분석에서: 하느님께서는 삼키는 자에 대한 두려움 때문에, 또는 더 많이 받기 위해 베풀라고 요구하지 않으십니다. 사랑으로 베풀 것을 요구하십니다. 세 가지 생각 중 어떤 것이 가장 마음에 와닿으셨나요? 댓글에 적어 주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
