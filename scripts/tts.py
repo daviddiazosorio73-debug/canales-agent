@@ -79,6 +79,14 @@ ESTILOS = {
     "reflexivo":  (0.40, 0.35, 0.94, 0.40),  # preguntas para meditar
     "oracion":    (0.35, 0.30, 0.92, 0.45),  # oración, cierre solemne
 }
+# Perfil de noticiero (Top 10, orden del Fundador 27-nov-2026): la voz del Fundador como presentador de noticias:
+# ritmo firme y algo más rápido, energía media-alta sin gritar, pausas cortas entre frases.
+NOTICIERO = {
+    "gancho":  (0.68, 0.45, 1.05, 0.16),
+    "enfasis": (0.66, 0.45, 1.02, 0.22),  # podio: un poco más lento y marcado
+    "agil":    (0.55, 0.50, 1.06, 0.14),
+    "calido":  (0.52, 0.48, 1.02, 0.20),
+}
 MAPA_ID = {"gancho": "gancho", "intro": "gancho", "cierre": "reflexivo", "oracion": "oracion",
            "aplicacion": "calido", "reto": "calido", "historia": "narrativo", "lenador": "narrativo",
            "mensaje": "agil"}
@@ -100,7 +108,19 @@ def estilo(emocion, text):
     return ESTILOS[e]
 
 
-def chatterbox_scene(text, mp3, align, lang, emocion=None):
+def recorta_silencio(w, sr, umbral=0.012, margen=0.06):
+    """Quita el silencio del inicio y del final de una toma (deja 60 ms): pausas parejas entre frases."""
+    import torch
+    x = w.squeeze(0)
+    voz = (x.abs() > umbral).nonzero()
+    if voz.numel() == 0:
+        return w
+    a = max(0, int(voz[0]) - int(sr * margen))
+    b = min(x.shape[0], int(voz[-1]) + int(sr * margen))
+    return x[a:b].unsqueeze(0) if b > a else w
+
+
+def chatterbox_scene(text, mp3, align, lang, emocion=None, perfil=None):
     """Voz clonada del Fundador (Chatterbox, MIT). Referencia descifrada en voces/david.wav."""
     global _CB
     if _CB is None:
@@ -122,14 +142,30 @@ def chatterbox_scene(text, mp3, align, lang, emocion=None):
         trozos.append(buf)
     import torch
     exag, cfg, tempo, pausa = estilo(emocion, text)
+    if perfil == "noticiero":
+        exag, cfg, tempo, pausa = NOTICIERO.get(emocion if emocion in NOTICIERO else "agil")
     wavs = []
-    for t in trozos:
-        w = _CB.generate(t, language_id=lang, audio_prompt_path=ref, exaggeration=exag, cfg_weight=cfg)
-        wavs.append(w); wavs.append(torch.zeros(1, int(_CB.sr * pausa)))
+    for n, t in enumerate(trozos):
+        # Toma estable: semilla fija (misma voz en todo el video) y se repite la toma si sale rara
+        # (silencios largos o cortada): duración fuera de 0,45-2,2 veces lo esperado para el texto.
+        esperado = max(1.0, len(t) / 14.5)
+        mejor = None
+        for intento in range(3):
+            torch.manual_seed(1234 + 97 * n + 7919 * intento)
+            w = _CB.generate(t, language_id=lang, audio_prompt_path=ref, exaggeration=exag, cfg_weight=cfg)
+            w = recorta_silencio(w, _CB.sr)
+            r = w.shape[-1] / _CB.sr / esperado
+            if mejor is None or abs(r - 1) < abs(mejor[1] - 1):
+                mejor = (w, r)
+            if 0.45 <= r <= 2.2:
+                break
+            print(f"  toma {intento + 1} rara ({r:.2f}x): se repite", flush=True)
+        wavs.append(mejor[0]); wavs.append(torch.zeros(1, int(_CB.sr * pausa)))
     wav = str(mp3) + ".wav"
     import soundfile as sf  # torchaudio nuevo exige torchcodec; soundfile no
     sf.write(wav, torch.cat(wavs, dim=1).squeeze(0).cpu().numpy(), _CB.sr)
-    estudio = (f"atempo={tempo}," if abs(tempo - 1) > 0.005 else "") + ("highpass=f=80,equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.5:g=1.5,"
+    presencia = "equalizer=f=4500:t=q:w=1.4:g=2," if perfil == "noticiero" else ""
+    estudio = (f"atempo={tempo}," if abs(tempo - 1) > 0.005 else "") + presencia + ("highpass=f=80,equalizer=f=250:t=q:w=1.2:g=-2,equalizer=f=3200:t=q:w=1.5:g=1.5,"
                "deesser=i=0.3,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=150:makeup=1.5,"
                "loudnorm=I=-16:TP=-1.5:LRA=7")
     run(["ffmpeg", "-y", "-v", "error", "-i", wav, "-af", estudio, "-ar", "44100",
@@ -195,7 +231,7 @@ def main():
             piper_scene(e["texto"], mp3, align)
         elif motor == "chatterbox":
             emo = e.get("emocion") or MAPA_ID.get(e["id"].split("-")[0]) or ("agil" if g.get("tipo") == "short" else None)
-            chatterbox_scene(e["texto"], mp3, align, lang, emo)
+            chatterbox_scene(e["texto"], mp3, align, lang, emo, g.get("estilo"))
         elif motor == "edge":
             edge_scene(e["texto"], mp3, align)
         print(f"+ {e['id']}")

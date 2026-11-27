@@ -1,5 +1,6 @@
 {
- "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). Corte de datos: miércoles 05:00 UTC (00:00 Lima); producción y subida miércoles-jueves; cada edición se programa para el domingo a la hora 'publicar_utc' LOCAL de su zona 'tz' (06:00). lang = idioma de la narración; locs = títulos/descripciones traducidos.",
+ "_nota": "Ediciones del Top 10 semanal. orden = orden de la 'vuelta al mundo' (la playlist termina en la Mundial). Corte (orden del Fundador, 27-nov-2026): sábado 23:59 hora LOCAL de cada continente ('tz'); ventana de 7 días. Cascada: cada edición se arma apenas pasa su corte (top10_semana.py --auto, cada hora sáb-dom UTC) y se publica al terminar su producción. Mundial: los 3 primeros de cada lista de cada continente, al tener las 5 continentales. lang = idioma de la narración; locs = títulos/descripciones traducidos. 'publicar_utc' ya no se usa (publicación al terminar).",
+ "cascada_desde": "2026-12-05",
  "hashtag_canal": "Top10RS",
  "ediciones": [
   {

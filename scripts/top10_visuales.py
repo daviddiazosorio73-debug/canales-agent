@@ -1,8 +1,8 @@
 """Visuales del Top 10: descarga los fotogramas PÚBLICOS que YouTube genera de cada video (miniatura + 3 cuadros
 automáticos hq1/hq2/hq3 de i.ytimg.com) y arma la secuencia de cada escena según la duración de su audio.
 
-Puesto completo ("video_id" + "modo": "completo"): 3 × (3 s en movimiento + 5 s congelado), miniatura y ficha.
-Puesto rápido ("modo": "rapido"): miniatura en movimiento y ficha.
+Noticiero (orden del Fundador, 27-nov-2026): cada puesto muestra sus 4 momentos (portada + cuadros 25/50/75 %) a
+pantalla completa, en movimiento, el tiempo que pida la narración (2-4,5 s cada uno); después conteo, ficha y tabla.
 Escribe imagenes/<id>_NN.jpg y guarda la lista en escena["secuencia"] para render.py.
 Uso: python top10_visuales.py <proyecto_dir>   (después de tts.py)
 """
@@ -57,6 +57,20 @@ def lienzo(im):
     return fondo
 
 
+def completo(im):
+    """Pantalla completa estilo noticiero (orden del Fundador, 27-nov-2026): sin barras, recorte 16:9 y nitidez.
+    Los cuadros verticales (Shorts) no se recortan: van centrados sobre su propio fondo desenfocado."""
+    im = recortar_barras(im)
+    if im.height > im.width * 0.9:
+        return lienzo(im)
+    esc = max(W / im.width, H / im.height)
+    im = im.resize((max(W, int(im.width * esc + 0.5)), max(H, int(im.height * esc + 0.5))), Image.LANCZOS)
+    im = im.crop(((im.width - W) // 2, (im.height - H) // 2, (im.width - W) // 2 + W, (im.height - H) // 2 + H))
+    if esc > 1.6:  # cuadros chicos (480x360): se recupera nitidez
+        im = im.filter(ImageFilter.UnsharpMask(radius=2.2, percent=90, threshold=2))
+    return im
+
+
 def main():
     proj = Path(sys.argv[1])
     g = json.loads((proj / "guion.json").read_text())
@@ -73,22 +87,16 @@ def main():
         seq = []
         def guarda(im, n):
             ruta = f"imagenes/{e['id']}_{n:02d}.jpg"
-            lienzo(im).save(proj / ruta, quality=92)
+            completo(im).save(proj / ruta, quality=93)
             return ruta
-        if e.get("modo") == "completo":
-            for k, f in enumerate(frames, 1):
-                if f is None:
-                    continue
-                r = guarda(f, k)
-                seq += [{"img": r, "dur": 3.0, "mov": True}, {"img": r, "dur": 5.0, "mov": False}]
-            if thumb is not None:
-                seq.append({"img": guarda(thumb, 9), "dur": 4.0, "mov": True})
-        else:
-            if thumb is not None:
-                seq.append({"img": guarda(thumb, 9), "dur": 3.0, "mov": True})
-            f2 = frames[1] or frames[0]
-            if f2 is not None:
-                seq.append({"img": guarda(f2, 2), "dur": 2.5, "mov": False})
+        # Noticiero: los 4 momentos del video (portada + cuadros al 25 %, 50 % y 75 %) a pantalla completa, en
+        # movimiento mientras se narra su historia; el tiempo de cada uno se ajusta a la narración (mín. 2 s).
+        momentos = ([(thumb, 9)] if thumb is not None else []) + [(f, k) for k, f in enumerate(frames, 1) if f is not None]
+        cola_prev = len(e.get("ficha_anim", [])) * 0.06 + (3.0 if card else 0) + (6.0 if e.get("tabla") else 0)
+        libre = max(2.0, dur - min(max(cola_prev, 0), dur * 0.5))
+        cada = max(2.0, min(4.5, libre / max(1, len(momentos))))
+        seq = [{"img": guarda(im, n), "dur": round(cada, 3), "mov": True, "plano": k % 4, "noticiero": True}
+               for k, (im, n) in enumerate(momentos)]
         # Cierre de la escena: conteo animado + ficha + (en el #1) tabla. Se reservan al final.
         cola = [{"img": a, "dur": 0.06, "mov": False, "limpio": True} for a in e.get("ficha_anim", [])]
         if card:

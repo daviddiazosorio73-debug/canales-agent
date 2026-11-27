@@ -1,6 +1,8 @@
 """Top 10 semanal por continente + Mundial, 100 % automático (sin Claude, sin IA que invente).
 
-Corre en GitHub Actions el miércoles 05:00 UTC (00:00 Lima); programa cada edición para las 06:00 locales del domingo de su continente. Para cada edición de top10_ediciones.json:
+Corte por continente (orden del Fundador, 27-nov-2026): sábado 23:59 hora LOCAL de cada continente. GitHub Actions corre cada hora del
+sábado (UTC) al domingo con --auto: cada edición se arma apenas pasa su corte y se publica al terminar (en cascada:
+Oceanía → Asia → África → Europa → América → Mundial). Para cada edición de top10_ediciones.json:
   1. Datos: videos en tendencia (videos.list chart=mostPopular, 1 unidad/página) de cada país del continente
      + búsqueda de los más vistos de la semana en sus países grandes. Solo videos publicados en los últimos 7 días.
      Fuera: música (cat. 10), noticias/política (25), transmisiones en vivo, videos de más de 150 min y top10_vetos.json.
@@ -69,7 +71,7 @@ T = {
                       "comments": "Pasamos a la conversación: los diez videos más comentados.",
                       "likes": "Y la última lista: los diez videos con más likes."},
         "apertura": "Esta semana, en {c}, millones de personas vieron, comentaron y compartieron sin parar. Entre los treinta videos de este conteo suman {x}. Pero solo uno se quedó con el número uno. Bienvenidos a Top 10 Redes Sociales, edición {c}. Hoy, los diez videos más vistos, los diez más comentados y los diez con más likes de la semana. Quédate hasta el final, porque el número uno no lo vas a adivinar.",
-        "reglas": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en {c}. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, con corte cada miércoles a las cero horas, hora de Lima, Perú. Empecemos.",
+        "reglas": "Las reglas, rápido y claro. Solo entran videos publicados en los últimos siete días que fueron tendencia en {c}. Un solo video por creador en cada lista. La música y las noticias tienen su propio espacio. Todas las cifras salen de la API oficial de YouTube, con corte cada sábado a las once y cincuenta y nueve de la noche, hora local de cada continente. Empecemos.",
         "cierre_sig": "Y aquí no termina la vuelta al mundo. La siguiente parada es {s}: el enlace está en la descripción y en la lista de reproducción.",
         "cierre_fin": "Así terminó la vuelta al mundo de esta semana.",
         "cierre": "Ahora te toca a ti: ¿qué video debió estar en este conteo? Escríbelo en los comentarios con el hashtag {h}. Todos los enlaces a los videos originales están en la descripción: ve y apoya a los creadores. Suscríbete y activa la campana. Cada domingo, un nuevo Top 10.",
@@ -100,7 +102,7 @@ T = {
                       "comments": "Now for the conversation: the ten most commented videos.",
                       "likes": "And the last list: the ten most liked videos."},
         "apertura": "This week in {c}, millions of people watched, commented and shared non-stop. The thirty videos in this countdown add up to {x}. But only one took number one. Welcome to Top 10 Social Media, {c} edition. Today: the ten most viewed, the ten most commented and the ten most liked videos of the week. Stay until the end, because you won't guess number one.",
-        "reglas": "The rules, quick and clear. Only videos posted in the last seven days that trended in {c}. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, with the weekly cut every Wednesday at midnight, Lima, Peru time. Let's go.",
+        "reglas": "The rules, quick and clear. Only videos posted in the last seven days that trended in {c}. One video per creator on each list. Music and news have their own space. Every number comes from the official YouTube API, with the weekly cut every Saturday at eleven fifty-nine p.m., local time on each continent. Let's go.",
         "cierre_sig": "And the world tour isn't over. Next stop: {s}. The link is in the description and in the playlist.",
         "cierre_fin": "And that wraps up this week's world tour.",
         "cierre": "Now it's your turn: which video should have made this countdown? Tell us in the comments with the hashtag {h}. Links to every original video are in the description: go support the creators. Subscribe and hit the bell. A new Top 10 every Sunday.",
@@ -116,28 +118,28 @@ M = {
            "intro": "Los 10 videos más vistos, más comentados y con más likes de YouTube en {c} esta semana. Cifras reales, del 10 al 1.",
            "alfa": "Creadores de esta edición (en orden alfabético: el puesto de cada uno se revela en el video):",
            "cats": {"views": "👀 MÁS VISTOS", "comments": "💬 MÁS COMENTADOS", "likes": "❤️ MÁS LIKES"},
-           "metodo": "📊 CÓMO CONTAMOS: videos publicados en los últimos 7 días que fueron tendencia en {c}. Un video por creador en cada lista. Sin música ni noticias. Cifras de la API oficial de YouTube. ⏱ Corte semanal: miércoles 00:00 hora de Lima (05:00 UTC).",
+           "metodo": "📊 CÓMO CONTAMOS: videos publicados en los últimos 7 días que fueron tendencia en {c}. Un video por creador en cada lista. Sin música ni noticias. Cifras de la API oficial de YouTube. ⏱ Corte semanal: sábado 23:59, hora local de cada continente.",
            "cta": "💬 ¿Quién faltó? Coméntalo con #{h}. Apoya a los creadores: mira sus videos originales.",
            "ia": "Narración con la voz del autor recreada con IA."},
     "en": {"titulo": "Top 10 {c}: Most Viewed, Commented & Liked on YouTube | Week {n}",
            "intro": "The 10 most viewed, most commented and most liked YouTube videos in {c} this week. Real numbers, from 10 to 1.",
            "alfa": "Creators in this edition (alphabetical order: each ranking is revealed in the video):",
            "cats": {"views": "👀 MOST VIEWED", "comments": "💬 MOST COMMENTED", "likes": "❤️ MOST LIKED"},
-           "metodo": "📊 HOW WE COUNT: videos posted in the last 7 days that trended in {c}. One video per creator on each list. No music or news. Numbers from the official YouTube API. ⏱ Weekly cut: Wednesday 00:00 Lima time (05:00 UTC).",
+           "metodo": "📊 HOW WE COUNT: videos posted in the last 7 days that trended in {c}. One video per creator on each list. No music or news. Numbers from the official YouTube API. ⏱ Weekly cut: Saturday 23:59, local time on each continent.",
            "cta": "💬 Who was missing? Comment with #{h}. Support the creators: watch their original videos.",
            "ia": "Narrated with the author's voice recreated with AI."},
     "pt": {"titulo": "Top 10 {c}: os mais vistos, comentados e curtidos | Semana {n}",
            "intro": "Os 10 vídeos mais vistos, mais comentados e mais curtidos do YouTube em {c} nesta semana. Números reais, do 10 ao 1.",
            "alfa": "Criadores desta edição (em ordem alfabética: a posição de cada um é revelada no vídeo):",
            "cats": {"views": "👀 MAIS VISTOS", "comments": "💬 MAIS COMENTADOS", "likes": "❤️ MAIS CURTIDOS"},
-           "metodo": "📊 COMO CONTAMOS: vídeos publicados nos últimos 7 dias que estiveram em alta em {c}. Um vídeo por criador em cada lista. Sem música nem notícias. Números da API oficial do YouTube. ⏱ Corte semanal: quarta-feira 00:00, horário de Lima (05:00 UTC).",
+           "metodo": "📊 COMO CONTAMOS: vídeos publicados nos últimos 7 dias que estiveram em alta em {c}. Um vídeo por criador em cada lista. Sem música nem notícias. Números da API oficial do YouTube. ⏱ Corte semanal: sábado 23:59, horário local de cada continente.",
            "cta": "💬 Quem faltou? Comente com #{h}. Apoie os criadores: assista aos vídeos originais.",
            "ia": "Narração com a voz do autor recriada com IA."},
     "fr": {"titulo": "Top 10 {c} : les plus vues, commentées et aimées | Semaine {n}",
            "intro": "Les 10 vidéos YouTube les plus vues, les plus commentées et les plus aimées en {c} cette semaine. De vrais chiffres, du 10 au 1.",
            "alfa": "Créateurs de cette édition (ordre alphabétique : le classement est révélé dans la vidéo) :",
            "cats": {"views": "👀 LES PLUS VUES", "comments": "💬 LES PLUS COMMENTÉES", "likes": "❤️ LES PLUS AIMÉES"},
-           "metodo": "📊 MÉTHODE : vidéos publiées ces 7 derniers jours et en tendance en {c}. Une vidéo par créateur et par liste. Ni musique ni actualités. Chiffres de l'API officielle de YouTube. ⏱ Arrêt hebdomadaire : mercredi 00:00, heure de Lima (05:00 UTC).",
+           "metodo": "📊 MÉTHODE : vidéos publiées ces 7 derniers jours et en tendance en {c}. Une vidéo par créateur et par liste. Ni musique ni actualités. Chiffres de l'API officielle de YouTube. ⏱ Arrêt hebdomadaire : samedi 23:59, heure locale de chaque continent.",
            "cta": "💬 Qui manque ? Commente avec #{h}. Soutiens les créateurs : regarde leurs vidéos originales.",
            "ia": "Narration avec la voix de l'auteur recréée par IA."},
 }
@@ -218,8 +220,9 @@ def titulo_limpio(t):
 
 
 # ---------------------------------------------------------------- datos
-def recolectar(yt, ini, fin):
-    todas = sorted({r for e in CFG["ediciones"] if e["regiones"] != "todas" for r in e["regiones"]})
+def recolectar(yt, ini, fin, eds=None):
+    eds = eds or CFG["ediciones"]
+    todas = sorted({r for e in eds if e["regiones"] != "todas" for r in e["regiones"]})
     vids, regiones_de = {}, {}
 
     def guarda(items, reg):
@@ -241,7 +244,7 @@ def recolectar(yt, ini, fin):
             if not tok:
                 break
     extra = {}
-    for e in CFG["ediciones"]:
+    for e in eds:
         for reg in e["busqueda"]:
             try:
                 r = yt.search().list(part="id", type="video", order="viewCount", regionCode=reg, maxResults=50,
@@ -382,6 +385,30 @@ def descripcion(lang, cont, cats, h_canal, h_ed, semana_n):
           "", m["ia"]]
     return "\n".join(L)[:4600]
 
+PLAZO_LIBRETO_MIN = 100  # espera máxima del libreto de Claude; si no llega, sale la plantilla
+
+
+def geo(lang, cont, fin, mundial):
+    """GEO (orden del Fundador, 23-nov-2026): respuesta directa + preguntas reales. Sin revelar el podio (suspenso)."""
+    ini = fin - timedelta(days=7)
+    if lang == "es":
+        quien = "de todo el mundo (los 3 primeros de cada continente)" if mundial else f"de creadores de {cont}"
+        return {"resumen": (f"Ranking semanal de los 10 videos de YouTube más vistos, más comentados y con más likes {quien}, "
+                            f"publicados del {ini:%d/%m} al {fin:%d/%m/%Y} (corte: sábado 23:59, hora local). "
+                            "Cifras de la API oficial de YouTube; un video por creador en cada lista."),
+                "preguntas": [f"¿Cuáles son los videos de YouTube más vistos de la semana en {cont}?",
+                              f"¿Qué video de YouTube tuvo más comentarios esta semana en {cont}?",
+                              f"¿Qué video de YouTube tuvo más likes esta semana en {cont}?",
+                              "¿Cómo se calcula el Top 10 semanal de YouTube por continente?"]}
+    quien = "worldwide (the top 3 from every continent)" if mundial else f"by creators from {cont}"
+    return {"resumen": (f"Weekly ranking of the 10 most viewed, most commented and most liked YouTube videos {quien}, "
+                        f"posted {ini:%b %d} to {fin:%b %d, %Y} (cut: Saturday 23:59 local time). "
+                        "Numbers from the official YouTube API; one video per creator on each list."),
+            "preguntas": [f"What are the most viewed YouTube videos this week in {cont}?",
+                          f"Which YouTube video got the most comments this week in {cont}?",
+                          f"Which YouTube video got the most likes this week in {cont}?",
+                          "How is the weekly YouTube Top 10 by continent calculated?"]}
+
 
 def guion_edicion(ed, cats, fin, semana_iso, siguiente):
     lang = ed["lang"]
@@ -422,12 +449,10 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         cierre = an[lang] + " " + cierre
     escenas.append({"id": "cierre", "capitulo": t["cap"]["cierre"], "emocion": "calido", "texto": cierre,
                     "tarjeta": {"titulo": f"#{h_canal}", "sub": (f"→ {siguiente}" if siguiente else "")}})
-    hh, mm = map(int, ed["publicar_utc"].split(":"))
-    # 06:00 locales del domingo siguiente al corte, en la zona horaria del continente (respeta horario de verano)
-    from zoneinfo import ZoneInfo
-    tz = ZoneInfo(ed.get("tz", "UTC"))
-    dom = (fin.astimezone(tz) + timedelta(days=(6 - fin.astimezone(tz).weekday()) % 7 or 7)).date()
-    publicar = datetime(dom.year, dom.month, dom.day, hh, mm, tzinfo=tz).astimezone(timezone.utc)
+    # Publicación en cascada (orden del Fundador, 27-nov-2026): cada edición sale apenas termina su producción.
+    # publicar_en = corte (ya pasado) → el motor la toma de inmediato; upload.py fija publishAt = ahora + 10 min
+    # al subir (publicar_al_terminar) y guarda esa hora real (la usan los Shorts del podio).
+    publicar = fin + timedelta(minutes=1)
     locs = {}
     for l2 in ed["locs"]:
         c2 = ed["nombre"].get(l2, cont)
@@ -442,10 +467,14 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         "tema": f"Top 10 {cont} · {semana_iso}", "semana": semana_iso, "voz_fundador": True,
         "color_marca": [255, 45, 120], "contenido_sintetico": True,
         "reintento_desde": (fin + timedelta(hours=10)).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "libreto": "plantilla", "esperar_libreto_hasta": (fin + timedelta(minutes=150)).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "corte": fin.strftime("%Y-%m-%dT%H:%M:%SZ"), "publicar_al_terminar": True, "estilo": "noticiero",
+        "siguiente_parada": siguiente or "",
+        "libreto": "plantilla",
+        "esperar_libreto_hasta": (datetime.now(timezone.utc) + timedelta(minutes=PLAZO_LIBRETO_MIN)).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "miniatura": {"linea1": "TOP 10", "linea2": cont.upper(), "etiqueta": f"{'SEMANA' if lang == 'es' else 'WEEK'} {n}"},
         "seo": {"titulo": M[lang]["titulo"].format(c=ed.get("titulo", {}).get(lang, cont), n=n)[:100],
                 "descripcion": descripcion(lang, cont, cats, h_canal, h_ed, n),
+                **geo(lang, cont, fin, ed["id"] == "mundial"),
                 "tags": list(dict.fromkeys(tags)), "hashtags": [h_canal, h_ed, "Virales" if lang == "es" else "Viral"],
                 "localizaciones": locs, "categoria_id": "24", "privacidad": "public",
                 "publicar_en": publicar.strftime("%Y-%m-%dT%H:%M:%SZ"), "lista_id": None},
@@ -453,7 +482,108 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
     }
 
 
+def corte_de(ed, ahora):
+    """Último sábado 23:59:59 hora LOCAL del continente que ya pasó (en UTC)."""
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(ed.get("tz", "UTC"))
+    loc = ahora.astimezone(tz)
+    d = loc.date() - timedelta(days=(loc.weekday() - 5) % 7)
+    fin = datetime(d.year, d.month, d.day, 23, 59, 59, tzinfo=tz)
+    if fin > ahora:
+        fin -= timedelta(days=7)
+    return fin.astimezone(timezone.utc), fin.date()
+
+
+def semana_de(d):
+    return f"{d.isocalendar()[0]}-W{d.isocalendar()[1]:02d}"
+
+
+def main_auto():
+    """Cascada del sábado (corte 23:59 local por continente): arma las ediciones cuyo corte ya pasó y que aún no
+    existen. El Mundial se arma cuando están las 5 continentales (o pasaron 3 h del corte de América)."""
+    ahora = datetime.now(timezone.utc)
+    desde = CFG.get("cascada_desde", "2000-01-01")
+    eds = sorted(CFG["ediciones"], key=lambda e: e["orden"])
+    base = ROOT / "canales" / CANAL / "proyectos"
+    nuevos, orden, semana = [], [], None
+    yt = None
+    cont_cats = {}
+    for i, ed in enumerate(eds):
+        if ed["regiones"] == "todas":
+            continue
+        fin, dia = corte_de(ed, ahora)
+        if str(dia) < desde or ahora - fin > timedelta(hours=30):
+            continue  # semana vieja o anterior al cambio de horario
+        semana = semana_de(dia)
+        d = base / f"{dia:%Y-%m-%d}-{ed['lang']}-top10-{ed['id']}"
+        if (d / "omitido.json").exists():
+            continue
+        if (d / "categorias3.json").exists():
+            orden.append(str(d.relative_to(ROOT)))
+            cont_cats[ed["id"]] = (json.loads((d / "categorias3.json").read_text()), fin, dia)
+            continue
+        yt = yt or service(CANAL)
+        ini = fin - timedelta(days=7)
+        videos = recolectar(yt, ini, fin, [ed])
+        regs = set(ed["regiones"])
+
+        def del_continente(v):
+            if v.get("country"):
+                return continente_de(v["country"]) == ed["id"]
+            return bool(regs & set(v["regiones"])) and len({continente_de(r) for r in v["regiones"]}) == 1
+        pool = [v for v in videos if del_continente(v)]
+        cats = {k: ranking(pool, k) for k in ("views", "comments", "likes")}
+        if min(len(c) for c in cats.values()) < 10:
+            print(f"! {ed['id']}: datos insuficientes ({[len(c) for c in cats.values()]}), se omite")
+            d.mkdir(parents=True, exist_ok=True)
+            (d / "omitido.json").write_text(json.dumps({"motivo": "datos insuficientes", "n": [len(c) for c in cats.values()]}))
+            continue
+        sig = eds[i + 1]["nombre"][ed["lang"]] if i + 1 < len(eds) else None
+        g = guion_edicion(ed, cats, fin, semana, sig)
+        d.mkdir(parents=True, exist_ok=True)
+        (d / "categorias3.json").write_text(json.dumps({**cats, "vetados": []}, ensure_ascii=False, indent=1))
+        (d / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
+        rel = str(d.relative_to(ROOT))
+        nuevos.append(rel); orden.append(rel)
+        cont_cats[ed["id"]] = (cats, fin, dia)
+        print(f"+ {ed['id']}: {d.name} (corte {fin:%Y-%m-%d %H:%M}Z, {len(videos)} videos)")
+    # Mundial: los 3 primeros de cada lista de cada continente (mismo corte y mismas cifras)
+    mund = next((e for e in eds if e["regiones"] == "todas"), None)
+    if mund and "america" in cont_cats:
+        _, fin_am, dia = cont_cats["america"]
+        d = base / f"{dia:%Y-%m-%d}-{mund['lang']}-top10-{mund['id']}"
+        listos = len(cont_cats) >= 5 or ahora - fin_am > timedelta(hours=3)
+        if not (d / "guion.json").exists() and listos:
+            fin_global = max(f for _, f, _ in cont_cats.values())
+            finalistas = {k: [] for k in ("views", "comments", "likes")}
+            for cid, (cats, _, _) in cont_cats.items():
+                for k in finalistas:
+                    finalistas[k] += cats.get(k, [])[:3]
+            cats = {k: ranking(finalistas[k], k) for k in finalistas}
+            if min(len(c) for c in cats.values()) >= 10:
+                g = guion_edicion(mund, cats, fin_global, semana, None)
+                for o in orden:
+                    if o.endswith("-top10-america"):
+                        g["publicar_despues_de"] = o
+                d.mkdir(parents=True, exist_ok=True)
+                (d / "categorias3.json").write_text(json.dumps({**cats, "vetados": []}, ensure_ascii=False, indent=1))
+                (d / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
+                nuevos.append(str(d.relative_to(ROOT)))
+                print(f"+ mundial: {d.name}")
+        if (d / "guion.json").exists():
+            orden.append(str(d.relative_to(ROOT)))
+    (ROOT / "top10_matriz.json").write_text(json.dumps(nuevos))
+    if semana and orden:
+        sp = ROOT / "canales" / CANAL / f"semana_{semana}.json"
+        S = json.loads(sp.read_text()) if sp.exists() else {"semana": semana}
+        S["orden"] = list(dict.fromkeys(orden))
+        sp.write_text(json.dumps(S, ensure_ascii=False, indent=1))
+    print(f"Ediciones nuevas: {len(nuevos)}")
+
+
 def main():
+    if "--auto" in sys.argv:
+        return main_auto()
     fin = datetime.now(timezone.utc).replace(second=0, microsecond=0)
     ini = fin - timedelta(days=7)
     iso = fin - timedelta(days=1)  # la semana que termina (sábado)
@@ -493,6 +623,8 @@ def main():
                 finalistas[k] += cats[k][:3]
         if min(len(c) for c in cats.values()) < 10:
             print(f"! {ed['id']}: datos insuficientes ({[len(c) for c in cats.values()]}), se omite")
+            d.mkdir(parents=True, exist_ok=True)
+            (d / "omitido.json").write_text(json.dumps({"motivo": "datos insuficientes", "n": [len(c) for c in cats.values()]}))
             continue
         sig = eds[i + 1]["nombre"][ed["lang"]] if i + 1 < len(eds) else None
         g = guion_edicion(ed, cats, fin, semana_iso, sig)

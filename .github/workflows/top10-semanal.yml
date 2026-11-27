@@ -4,17 +4,17 @@ on:
   push:
     paths: [".github/top10_lanzar.json"]
   schedule:
-    - cron: "7 5 * * 3"   # miércoles 05:07 UTC ≈ 00:00 Lima (fuera del minuto 0: GitHub retrasa menos) (corte semanal); se programa para las 06:00 locales del domingo
+    # Corte: sábado 23:59 hora LOCAL de cada continente (orden del Fundador, 27-nov-2026). Cada hora del sábado 12:07 UTC
+    # al domingo 07:07 UTC, --auto arma las ediciones cuyo corte ya pasó y las produce y publica al terminar (cascada):
+    # Oceanía (~13:00Z) → Asia (~18:30Z) → África (~22:00Z) → Europa (~23:00Z) → América (~05:00Z dom) → Mundial.
+    - cron: "7 12-23 * * 6"
+    - cron: "7 0-7 * * 0"
   workflow_dispatch:
     inputs:
       prueba:
         description: "Solo probar datos y guiones (no publica)"
         type: boolean
         default: true
-
-concurrency:
-  group: top10-semanal
-  cancel-in-progress: false
 
 permissions:
   contents: write
@@ -28,6 +28,9 @@ jobs:
   datos:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    concurrency:
+      group: top10-datos
+      cancel-in-progress: false
     outputs:
       matriz: ${{ steps.m.outputs.matriz }}
     steps:
@@ -37,7 +40,7 @@ jobs:
         run: |
           python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('top10-redes',json.load(open('canales.json'))['top10-redes'])"
           if [ "${{ inputs.prueba }}" = "true" ]; then python scripts/top10_semana.py --prueba; echo '[]' > top10_matriz.json; exit 0; fi
-          python scripts/top10_semana.py $([ "${{ github.event_name }}" = "push" ] && echo --lanzar)
+          python scripts/top10_semana.py $([ "${{ github.event_name }}" = "push" ] && echo --lanzar) $([ "${{ github.event_name }}" = "schedule" ] && echo --auto)
           for d in $(python -c "import json;print(' '.join(json.load(open('top10_matriz.json'))))"); do python scripts/validate.py "$d"; done
       - id: m
         run: echo "matriz=$(cat top10_matriz.json)" >> "$GITHUB_OUTPUT"
@@ -112,9 +115,12 @@ jobs:
 
   cadena:
     needs: producir
-    if: always() && inputs.prueba != true
+    if: always() && inputs.prueba != true && needs.producir.result != 'skipped'
     runs-on: ubuntu-latest
     timeout-minutes: 15
+    concurrency:
+      group: top10-cadena
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
         with:

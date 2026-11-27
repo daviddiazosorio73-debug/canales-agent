@@ -61,6 +61,18 @@ def main():
     if m["errores"]:
         print("AVISOS de metadata:", *m["errores"], sep="\n - ")
     yt = service(canal)
+    if g.get("publicar_al_terminar"):  # Top 10 en cascada: sale apenas termina (10 min para que YouTube procese)
+        from datetime import datetime, timedelta, timezone
+        cuando = datetime.now(timezone.utc) + timedelta(minutes=10)
+        previa = g.get("publicar_despues_de")  # el Mundial cierra la vuelta al mundo: nunca antes que América
+        if previa:
+            pg = Path(__file__).resolve().parent.parent / previa / "guion.json"
+            pp = load_json(pg).get("seo", {}).get("publicar_en") if (pg.parent / "publicado.json").exists() else None
+            cuando = max(cuando, datetime.fromisoformat(pp.replace("Z", "+00:00")) + timedelta(minutes=30)) if pp \
+                else cuando + timedelta(minutes=90)
+        m["publicar_en"] = cuando.strftime("%Y-%m-%dT%H:%M:%SZ")
+        g.setdefault("seo", {})["publicar_en"] = m["publicar_en"]
+        save_json(g, proj / "guion.json")
 
     status = {"privacyStatus": "private" if m.get("publicar_en") else m["privacidad"],
               "selfDeclaredMadeForKids": False,

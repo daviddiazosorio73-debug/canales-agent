@@ -14,6 +14,8 @@ from PIL import Image, ImageDraw, ImageFont
 from common import FPS, H, W, VERTICAL, duration, font_path, load_json, run, save_json, ts
 
 SKILL_DIR = Path(__file__).resolve().parent.parent
+G = {}        # guion en curso (lo usa la capa de noticiero del Top 10)
+T0 = [0.0]    # inicio de la escena en el video (el cintillo corre continuo entre escenas)
 PAD = 0.6          # silencio tras cada escena (respiro)
 FADE = 0.35
 MOVES = [  # (zoom inicio, zoom fin, x, y) alternados por escena
@@ -88,10 +90,18 @@ def scene_clip(i, e, proj, tmp, preset, brand):
             nf = max(1, int(float(sgm["dur"]) * FPS))
             src = proj / sgm["img"]
             pz = "1.0+0.12*on/{}".format(nf) if sgm.get("mov") else "1.0"
+            px, py = "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
+            if sgm.get("mov") and "plano" in sgm:  # noticiero: acercar, alejar, paneo izq→der y der→izq
+                pl = int(sgm["plano"]) % 4
+                pz = {0: f"1.0+0.14*on/{nf}", 1: f"1.14-0.14*on/{nf}", 2: "1.12", 3: "1.12"}[pl]
+                if pl == 2:
+                    px = f"(iw-iw/zoom)*on/{nf}"
+                elif pl == 3:
+                    px = f"(iw-iw/zoom)*(1-on/{nf})"
             parte = tmp / f"{e['id']}_seg{k:02d}.mp4"
             run(["ffmpeg", "-y", "-v", "error", "-loop", "1", "-framerate", str(FPS), "-i", str(src),
                  "-vf", f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
-                        f"zoompan=z='{pz}':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps={FPS},format=yuv420p",
+                        f"zoompan=z='{pz}':x='{px}':y='{py}':d=1:s={W}x{H}:fps={FPS},format=yuv420p",
                  "-frames:v", str(nf), "-c:v", "libx264", "-preset", preset, "-crf", "19", str(parte)])
             partes.append(parte)
         lst = tmp / f"{e['id']}_segs.txt"
@@ -111,12 +121,39 @@ def scene_clip(i, e, proj, tmp, preset, brand):
                    f"[b1][3:v]overlay=0:0:enable='gte(t,{t_limpio:.3f})',")
         else:
             ovf = "[bg][1:v]overlay=0:0,"
+        extra_in = []
+        tl = t_limpio if t_limpio is not None else dur
+        if any(sg.get("noticiero") for sg in e["secuencia"]) and G.get("tipo") == "top10" and not VERTICAL:
+            try:  # noticiero (orden del Fundador, 27-nov-2026): sello, zócalo y cintillo sobre los momentos del video
+                from top10_noticiero import capa, cintillo, datos_video
+                cr, tit = datos_video(proj, e.get("video_id"))
+                nw = tmp / f"{e['id']}_news.png"
+                x_cint = capa(e, G, W, H, nw, titulo=tit, creador=cr)
+                ct = tmp / "cintillo.png"
+                if not ct.exists():
+                    cintillo(G, H, ct, G.get("siguiente_parada", ""))
+                from PIL import Image as _I
+                cw, chh = _I.open(ct).size
+                d0 = 3.0 if (e.get("rank") or 9) <= 3 else 0.3  # podio: el zócalo entra cuando la voz ya lo nombró
+                vel = 150 * H / 1080
+                extra_in = ["-loop", "1", "-framerate", str(FPS), "-i", str(nw),
+                            "-loop", "1", "-framerate", str(FPS), "-i", str(ct),
+                            "-loop", "1", "-framerate", str(FPS), "-i", str(nw).replace(".png", "_banda.png")]
+                ovf = ovf.rstrip(",") + "[b2];"
+                ovf += (f"[b2][6:v]overlay=0:0:enable='lt(t,{tl:.3f})'[b3];"
+                        f"[b3][5:v]overlay=x='{x_cint}+{W}-mod((t+{T0[0]:.3f})*{vel:.1f},{W}+{cw})':y={H - chh}:"
+                        f"enable='lt(t,{tl:.3f})'[b4];"
+                        f"[4:v]format=rgba,fade=t=in:st={d0}:d=0.4:alpha=1[nw];"
+                        f"[b4][nw]overlay=0:0:enable='lt(t,{tl:.3f})',")
+            except Exception as ex:  # nunca tumba el render: sale sin los gráficos
+                print(f"AVISO noticiero {e['id']}: {ex}", flush=True)
+                extra_in = []
         fc = (f"[0:v]format=yuv420p[bg];{ovf}"
               f"fade=t=in:st=0:d={FADE},fade=t=out:st={dur - FADE:.3f}:d={FADE}[v];"
               f"[2:a]apad=pad_dur={PAD},aresample=48000[a]")
         run(["ffmpeg", "-y", "-v", "error", "-i", str(bg),
              "-loop", "1", "-framerate", str(FPS), "-i", str(ov), "-i", str(aud),
-             "-loop", "1", "-framerate", str(FPS), "-i", str(ov2),
+             "-loop", "1", "-framerate", str(FPS), "-i", str(ov2), *extra_in,
              "-filter_complex", fc, "-map", "[v]", "-map", "[a]", "-t", f"{dur:.3f}",
              "-c:v", "libx264", "-preset", preset, "-crf", "19", "-c:a", "aac", "-b:a", "192k",
              str(out)])
@@ -250,7 +287,9 @@ def main():
     salida.mkdir(exist_ok=True)
 
     clips, t, all_cues, caps = [], 0.0, [], []
+    G.clear(); G.update(g)
     for i, e in enumerate(g["escenas"]):
+        T0[0] = t
         clip, dur = scene_clip(i, e, proj, tmp, preset, brand)
         clips.append(clip)
         al = load_json(proj / "audio" / f"{e['id']}.align.json")

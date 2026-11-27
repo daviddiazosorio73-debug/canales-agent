@@ -5,7 +5,7 @@ description: "Gerente de todos los canales de YouTube del Fundador (MayorDom, Es
 
 # Director de Canales
 
-> Versión 1.8 · 2026-11-17 · Cryptuline: foco único en la investigación sobre espirulina (Arthrospira / Limnospira) desde la edición del 29-nov-2026 (ediciones en `canales/cryptuline/ruta.json` → `semanas`). v1.7: Nutrición de Andreia: solo alimentos limpios (Levítico 11, sin explicarlo) y recetas con microalgas (espirulina, chlorella) con Cryptuline como gancho. v1.6: 2026-11-16 · Canales nuevos: Nutrición de Andreia (1 video con 3 idiomas de audio) y SPRI · Radiología Intervencionista (skill propia); fuentes científicas ampliadas; Meta con usuario del sistema. v1.5: 2026-11-12 · Shorts con imágenes y clips 4K alusivos al tema, automáticos en todos los canales. v1.4: Fuentes de Elena G. de White (PDF del White Estate) y temas de la lección automáticos desde escuelasabaticamaestros.com. v1.3: Shorts de Escuela Sabática solo con el tema del día verificado (índice + validación + aviso de los miércoles). Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
+> Versión 1.9 · 2026-11-27 · Top 10: corte sábado 23:59 hora local por continente, publicación en cascada al terminar cada edición (desde el 5-dic-2026), imagen de noticiero, voz del Fundador con perfil noticiero y GEO automático. v1.8 · 2026-11-17 · Cryptuline: foco único en la investigación sobre espirulina (Arthrospira / Limnospira) desde la edición del 29-nov-2026 (ediciones en `canales/cryptuline/ruta.json` → `semanas`). v1.7: Nutrición de Andreia: solo alimentos limpios (Levítico 11, sin explicarlo) y recetas con microalgas (espirulina, chlorella) con Cryptuline como gancho. v1.6: 2026-11-16 · Canales nuevos: Nutrición de Andreia (1 video con 3 idiomas de audio) y SPRI · Radiología Intervencionista (skill propia); fuentes científicas ampliadas; Meta con usuario del sistema. v1.5: 2026-11-12 · Shorts con imágenes y clips 4K alusivos al tema, automáticos en todos los canales. v1.4: Fuentes de Elena G. de White (PDF del White Estate) y temas de la lección automáticos desde escuelasabaticamaestros.com. v1.3: Shorts de Escuela Sabática solo con el tema del día verificado (índice + validación + aviso de los miércoles). Regla única de citas, gobierno de skills, skill de Cryptuline, vigía de la semana, Reels en pausa hasta los tokens de Meta, prioridad de subida.
 
 Gerencia de punta a punta todos los canales del Fundador. No produce videos a mano: decide qué se publica, encarga los guiones a la skill de cada canal, los entrega al motor y vigila que todo salga. Objetivo: crecimiento y monetización con un video insignia (con potencial viral) por canal y por semana.
 
@@ -32,7 +32,7 @@ Gerencia de punta a punta todos los canales del Fundador. No produce videos a ma
 | mayordom | MayorDom (@MayorDom) | Todo, con mayordom-youtube | Sermones lun/mié/vie 18:00 · Análisis mar/jue 18:00 · 3 Shorts diarios 07:00/13:00/20:30 |
 | escuela-sabatica-es | Maestro DD Escuela Sabática (ES) | **Solo Shorts** | 3 Shorts diarios 07:00/13:00/20:30 del tema del día de la lección |
 | escola-sabatina-pt | A Escola Sabatina (PT) | **Solo Shorts** (escritos nativos en PT) | 3 Shorts diarios 07:00/13:00/20:30 do tema do dia |
-| top10-redes | Top 10 Redes Sociales | Solo el libreto del miércoles (CLAUDE.md del repo y multiredes-agents-skill) | Corte miércoles 00:00 · ediciones el domingo a las 06:00 locales de cada continente · Shorts automáticos |
+| top10-redes | Top 10 Redes Sociales | Solo el libreto (CLAUDE.md del repo y multiredes-agents-skill) | Corte sábado 23:59 hora local de cada continente · cada edición se publica al terminar, en cascada (Oceanía → … → Mundial) · Shorts automáticos |
 | cryptuline | Cryptuline · Salud con ciencia | Todo, con cryptuline-ciencia (y CLAUDE.md del repo), con 1 semana de adelanto; desde el 29-nov-2026 solo investigación sobre espirulina (Arthrospira / Limnospira), edición semanal en `canales/cryptuline/ruta.json` → `semanas` | Largos 18:00: martes salud · viernes nutrición · domingo salud espiritual (IASD) · 3 Shorts diarios 07:00/13:00/20:30 de esos 3 temas |
 | nutricion-andreia | Nutrición de Andreia (@andreialuizafabres5041) · en preparación | 2 largos, con reglas de cryptuline-ciencia y SEO de `investigacion/nutricion_referentes.md`; narración en italiano + `texto_es` y `texto_pt` por escena; 1 semana de adelanto; solo alimentos limpios (Levítico 11, sin explicarlo; `veto_alimentos`); recetas con microalgas (espirulina, chlorella) y Cryptuline como gancho | Martes y viernes 12:00 (17:00Z) |
 | spri | SPRI · Radiología Intervencionista · en preparación | Todo, con spri-radiologia-intervencionista; 1 semana de adelanto | Largos mar/jue 20:00 (4K) · 1 Short diario lun-sáb 12:30 |
@@ -53,7 +53,7 @@ Canal nuevo: ver «Agregar un canal».
 - `/token <clave>`: renovar o crear el token de un canal.
 
 ## Ahorro de tokens (obligatorio)
-1. Claude trabaja en dos tareas programadas: «Director de canales: semana» (sábado 19:52 Lima; si falló, «reintento» a las 20:22) y «Top 10: libretos del miércoles» (miércoles, cada hora de 01:15 a 12:15 Lima). Producir, subir, reintentar y vigilar lo hace GitHub, sin Claude.
+1. Claude trabaja en dos tareas programadas: «Director de canales: semana» (sábado 19:52 Lima; si falló, «reintento» a las 20:22) y «Top 10: libretos del sábado (cascada)» (sábado 08, 09, 14 y 16-19 h; domingo 00-02 h Lima, minuto 25). Producir, subir, reintentar y vigilar lo hace GitHub, sin Claude.
 2. No crear tareas diarias de revisión: los fallos llegan por correo de GitHub. Revisar solo si el Fundador lo pide o si `reporte.md` muestra fallos.
 3. En la sesión semanal, leer solo `reporte.md`, `canales.json`, `investigacion/<canal>.md` y los títulos de la lección de la semana. No releer guiones antiguos ni libros completos.
 4. Escribir todos los guiones de un canal en una sola pasada.
@@ -91,7 +91,7 @@ Uno por canal con videos largos en el motor (hoy MayorDom y Cryptuline; Top 10 t
 3. Escribir la semana siguiente, de domingo a sábado. Antes, listar los proyectos existentes: **no escribir un día y un tipo que ya tengan proyecto** en ese canal (evita duplicados).
    - MayorDom: todo su calendario, con el insignia.
    - Escuela Sabática ES y PT: 21 Shorts por canal (empieza por buscar la lección de la semana y sus temas diarios).
-   - Top 10: nada (libreto en la tarea del miércoles; Shorts automáticos).
+   - Top 10: nada (libreto en la tarea del sábado en cascada; Shorts automáticos).
    - Cryptuline: la semana que empieza 8 días después (1 semana de adelanto para la revisión médica): 3 largos `divulgacion` + 21 Shorts de esos 3 temas; avisar al Fundador qué debe revisar la médica.
    - Nutrición de Andreia (si `activo`): la semana que empieza 8 días después: 2 largos (mar/vie) en italiano con `texto_es`/`texto_pt`; avisar qué debe revisar Andreia, el Fundador o la Dra.
    - SPRI (si `activo`): la semana que empieza 8 días después: 2 largos + 6 Shorts, según spri-radiologia-intervencionista.
