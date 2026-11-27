@@ -61,6 +61,10 @@ def final_hermano(yt):
 
 
 def main():
+    from datetime import datetime, timezone
+    if datetime.now(timezone.utc) < datetime(2026, 11, 30, 3, 0, tzinfo=timezone.utc) and "--ya" not in sys.argv:
+        print("Recorrido: empieza el domingo 29-nov en la noche (orden del Fundador).")
+        return
     yt = service(CANAL)
     est = json.loads(EST.read_text()) if EST.exists() else {}
     gasto = 0

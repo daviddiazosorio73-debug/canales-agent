@@ -1,9 +1,7 @@
 name: MayorDom · Recorrido completo (lista desde la Noche 1)
 on:
   schedule:
-    - cron: "41 8 * * *"   # 03:41 Lima, después del reinicio de cuota
-  push:
-    paths: [".github/recorrido.json"]
+    - cron: "41 3 * * *"   # 22:41 Lima: usa la cuota que sobra del día (orden del Fundador: empezar el domingo 29-nov en la noche)
   workflow_dispatch: {}
 concurrency:
   group: recorrido
