@@ -1,0 +1,35 @@
+name: MayorDom · Recorrido completo (lista desde la Noche 1)
+on:
+  schedule:
+    - cron: "41 8 * * *"   # 03:41 Lima, después del reinicio de cuota
+  push:
+    paths: [".github/recorrido.json"]
+  workflow_dispatch: {}
+concurrency:
+  group: recorrido
+  cancel-in-progress: false
+permissions:
+  contents: write
+env:
+  GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+  GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+  REFRESH_TOKEN_MAYORDOM: ${{ secrets.REFRESH_TOKEN_MAYORDOM }}
+jobs:
+  recorrido:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests google-api-python-client google-auth-oauthlib
+      - name: Lista ordenada + enlace en las descripciones
+        run: |
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;token_file('mayordom',json.load(open('canales.json'))['mayordom'])"
+          python scripts/recorrido.py
+      - name: Guardar
+        if: always()
+        run: |
+          git config user.name "canales-bot"
+          git config user.email "canales-bot@users.noreply.github.com"
+          git add canales/mayordom/recorrido.json
+          git diff --cached --quiet || git commit -m "MayorDom: recorrido completo"
+          for i in 1 2 3 4 5; do git pull --rebase --autostash -q && git push -q && break; sleep 7; done

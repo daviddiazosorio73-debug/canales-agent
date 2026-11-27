@@ -3,6 +3,7 @@
 Uso: python metadata.py <proyecto_dir>
 Combina guion.json["seo"] + salida/capitulos.json + creditos.json -> salida/metadata.json
 """
+import json
 import sys
 from pathlib import Path
 
@@ -38,6 +39,12 @@ def main():
     # preguntas que responde el video y referencias explícitas, para que buscadores con IA lo entiendan y lo citen.
     G = GEO_TXT.get(lang, GEO_TXT["es"])
     desc = seo["descripcion"].strip()
+    # Recorrido completo (MayorDom): cada video nuevo invita a empezar desde la Noche 1, dentro de nuestra lista
+    rec = proj.parent.parent / "recorrido.json"
+    if rec.exists():
+        r = json.loads(rec.read_text())
+        if r.get("enlace") and "Recorre todo" not in desc:
+            desc = f"▶ Recorre todo MayorDom desde la Noche 1: {r['enlace']}\n\n" + desc
     if seo.get("resumen"):
         desc = f"{G['resumen']}: {seo['resumen'].strip()}\n\n" + desc
     if seo.get("preguntas"):
