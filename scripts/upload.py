@@ -64,6 +64,9 @@ def main():
     if g.get("publicar_al_terminar"):  # Top 10 en cascada: sale apenas termina (10 min para que YouTube procese)
         from datetime import datetime, timedelta, timezone
         cuando = datetime.now(timezone.utc) + timedelta(minutes=10)
+        obj = g.get("publicar_objetivo")  # Top 10: 06:00 locales del domingo; si ya pasó, sale apenas sube
+        if obj:
+            cuando = max(cuando, datetime.fromisoformat(obj.replace("Z", "+00:00")))
         previa = g.get("publicar_despues_de")  # el Mundial cierra la vuelta al mundo: nunca antes que América
         if previa:
             pg = Path(__file__).resolve().parent.parent / previa / "guion.json"

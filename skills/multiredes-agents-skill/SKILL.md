@@ -1,11 +1,11 @@
 ---
 name: "multiredes-agents-skill"
-description: "Top 10 Redes Sociales (@Top10RedesSociales): conteo semanal automático en el motor canales-agent (corte sábado 23:59 hora local de cada continente, publicación en cascada al terminar cada edición, look de noticiero), libreto de Claude y Shorts del podio."
+description: "Top 10 Redes Sociales (@Top10RedesSociales): conteo semanal automático en el motor canales-agent (corte sábado 23:59 hora local de cada continente, estreno domingo 06:00 local, look de noticiero), libreto de Claude y Shorts del podio."
 ---
 
 # Top 10 Redes Sociales — conteo semanal (vigente: motor canales-agent)
 
-> Versión 1.2 · 2026-11-27 · Corte sábado 23:59 hora local por continente y publicación en cascada (desde el 5-dic-2026); imagen de noticiero (4 momentos a pantalla completa, sello, zócalo, cintillo); voz del Fundador con perfil noticiero; GEO automático. Antes: v1.1 · 2026-11-01 · El formato antiguo pasó a skills/multiredes-agents-skill/ARCHIVO.md del repo.
+> Versión 1.2 · 2026-11-27 · Corte sábado 23:59 hora local por continente y producción en cascada y estreno a las 06:00 locales del domingo (desde el 5-dic-2026); saludos a los 3 primeros comentaristas; imagen de noticiero (4 momentos a pantalla completa, sello, zócalo, cintillo); voz del Fundador con perfil noticiero; GEO automático. Antes: v1.1 · 2026-11-01 · El formato antiguo pasó a skills/multiredes-agents-skill/ARCHIVO.md del repo.
 
 Canal @Top10RedesSociales (ID `UC5hAk81MlV4wE5Lvl9PV1lQ`), hashtag #Top10RS. **Ninguna cifra sale de la IA: todas salen de la API oficial de YouTube** (`categorias3.json`). Úsala cuando el Fundador pida el conteo, el libreto, los Shorts, la miniatura o el SEO del Top 10, o /multiredes-agents-skill. Las reglas detalladas del libreto están en `CLAUDE.md` del repo `canales-agent` (mandan sobre esta skill si difieren). Repo: `add_repo` owner `daviddiazosorio73-debug`, repo `canales-agent`, access `push`; clonar en `/home/claude/canales-agent`.
 
@@ -14,13 +14,15 @@ Canal @Top10RedesSociales (ID `UC5hAk81MlV4wE5Lvl9PV1lQ`), hashtag #Top10RS. **N
 |---|---|---|
 | **Sábado 23:59 hora local** de cada continente | Corte (ventana de 7 días). Al pasar cada corte: datos + guion por plantilla de ESA edición | `.github/workflows/top10-semanal.yml` (cada hora sáb 12:07Z–dom 07:07Z) → `scripts/top10_semana.py --auto` |
 | Apenas aparece el guion | Claude reescribe el libreto (plazo 100 min; si no llega, sale la plantilla) | Tarea «Top 10: libretos del sábado (cascada)» (sáb 08, 09, 14, 16-19 h y dom 00-02 h Lima, minuto 25) |
-| Al terminar su producción (4K) | **Se publica** (publishAt = subida + 10 min): Oceanía (~sáb 13:00Z) → Asia (~18:30Z) → África (~22:00Z) → Europa (~23:00Z) → América (~dom 05:00Z) → Mundial (con los 5) | mismo workflow; `upload.py` (`publicar_al_terminar`) |
+| **Domingo 06:00 hora local** de cada continente | Estreno: Oceanía (Sídney) → Asia (India) → África (El Cairo) → Europa (París) → América (Lima) → Mundial (06:00 Lima, ≥ 30 min después de América). Si la producción se atrasa, sale apenas termina | mismo workflow; `upload.py` (`publicar_objetivo`) |
 | Después de cada edición | Cadena «Vuelta al mundo» (lista + enlace a la siguiente parada) y **3 Shorts por edición** | `scripts/top10_cadena.py`, `scripts/top10_shorts.py` |
 | Estreno + 7 h / + 14 h 30 / + 25 h | Shorts del podio: vistas, comentarios, likes (1080x1920) | `scripts/top10_short_visual.py` en el runner |
 
 Sábado bíblico: el Fundador aprobó (27-nov-2026) que cada continente arranque al terminar su propio sábado local (corte 23:59, ya pasada la puesta de sol allí).
 
 **Imagen de noticiero** (se suma a lo aprobado): por puesto, los 4 momentos públicos del video (portada + cuadros 25/50/75 %) a pantalla completa con movimiento de cámara, el tiempo que pida la narración; sello superior, zócalo (puesto, creador, título; en el podio entra a los 3 s) y cintillo sin spoilers; luego conteo animado, ficha y tabla. No se descargan videos ajenos (condiciones de YouTube y Content ID).
+
+**Saludos:** la apertura y la descripción saludan a las 3 primeras personas que comentaron la edición anterior del mismo continente (automático; el libreto los conserva).
 
 **Voz:** la del Fundador (Chatterbox multilingüe) con `"estilo": "noticiero"`. **GEO:** `seo.resumen` + `seo.preguntas` automáticos (sin revelar el podio).
 

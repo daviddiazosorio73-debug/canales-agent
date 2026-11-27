@@ -410,7 +410,50 @@ def geo(lang, cont, fin, mundial):
                           "How is the weekly YouTube Top 10 by continent calculated?"]}
 
 
-def guion_edicion(ed, cats, fin, semana_iso, siguiente):
+def _nombres(lista, lang):
+    y = " y " if lang == "es" else " and "
+    return lista[0] if len(lista) == 1 else ", ".join(lista[:-1]) + y + lista[-1]
+
+
+def primeros_comentarios(yt, ed, actual_dir=None, n=3):
+    """Los 3 primeros que comentaron la edición anterior del mismo continente (orden del Fundador, 27-nov-2026).
+    Excluye al propio canal; solo nombres que la voz y las fuentes pueden leer (alfabeto latino)."""
+    from top10_noticiero import latino
+    base = ROOT / "canales" / CANAL / "proyectos"
+    previas = sorted(d for d in base.glob(f"*-top10-{ed['id']}") if (d / "publicado.json").exists() and d != actual_dir)
+    if not previas or yt is None:
+        return []
+    vid = json.loads((previas[-1] / "publicado.json").read_text())["video_id"]
+    propio = json.loads((ROOT / "canales.json").read_text())[CANAL].get("youtube_id")
+    coms, tok = [], None
+    try:
+        for _ in range(10):
+            r = yt.commentThreads().list(part="snippet", videoId=vid, maxResults=100, order="time",
+                                         textFormat="plainText", pageToken=tok).execute()
+            for it in r.get("items", []):
+                c = it["snippet"]["topLevelComment"]["snippet"]
+                cid = (c.get("authorChannelId") or {}).get("value")
+                if cid and cid != propio:
+                    coms.append((c["publishedAt"], cid, c.get("authorDisplayName", "")))
+            tok = r.get("nextPageToken")
+            if not tok:
+                break
+    except Exception as ex:
+        print(f"  saludos {ed['id']}: {str(ex)[:80]}")
+        return []
+    vistos, out = set(), []
+    for _, cid, nom in sorted(coms):
+        limpio = latino(nom.lstrip("@").replace("-", " ").replace("_", " "))
+        if cid in vistos or not limpio:
+            continue
+        vistos.add(cid)
+        out.append(limpio)
+        if len(out) == n:
+            break
+    return out
+
+
+def guion_edicion(ed, cats, fin, semana_iso, siguiente, saludos=None):
     lang = ed["lang"]
     t = T[lang]
     cont = ed["nombre"][lang]
@@ -421,6 +464,11 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
     ap = t["apertura"].format(c=cont, x=aprox(total, lang, t["met"]["views"]))
     if ed["id"] == "mundial":
         ap = t["mundial_ap"] + " " + ap
+    if saludos:
+        ap += " " + ((f"Antes de empezar, un saludo especial para {_nombres(saludos, lang)}: los primeros en comentar la "
+                      "edición anterior. ¡Gracias! Comenta hoy y el próximo saludo puede ser para ti.") if lang == "es" else
+                     (f"Before we start, a special shout-out to {_nombres(saludos, lang)}: the first to comment on last "
+                      "week's edition. Thank you! Comment today and next week's shout-out could be yours."))
     escenas.append({"id": "apertura", "capitulo": t["cap"]["apertura"], "emocion": "gancho", "texto": ap,
                     "tarjeta": {"titulo": f"TOP 10 · {cont.upper()}", "sub": f"{'Semana' if lang == 'es' else 'Week'} {n}"}})
     escenas.append({"id": "reglas", "capitulo": t["cap"]["reglas"], "emocion": "agil", "texto": (t["reglas_mundial"] if ed["id"] == "mundial" else t["reglas"].format(c=cont)),
@@ -449,10 +497,12 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         cierre = an[lang] + " " + cierre
     escenas.append({"id": "cierre", "capitulo": t["cap"]["cierre"], "emocion": "calido", "texto": cierre,
                     "tarjeta": {"titulo": f"#{h_canal}", "sub": (f"→ {siguiente}" if siguiente else "")}})
-    # Publicación en cascada (orden del Fundador, 27-nov-2026): cada edición sale apenas termina su producción.
-    # publicar_en = corte (ya pasado) → el motor la toma de inmediato; upload.py fija publishAt = ahora + 10 min
-    # al subir (publicar_al_terminar) y guarda esa hora real (la usan los Shorts del podio).
-    publicar = fin + timedelta(minutes=1)
+    # Estreno a las 06:00 LOCALES del domingo de cada continente (orden del Fundador, 27-nov-2026), 6 h después del
+    # corte. Si la producción termina tarde, upload.py publica apenas sube (ahora + 10 min). Mundial: 06:00 Lima.
+    from zoneinfo import ZoneInfo
+    tz = ZoneInfo(ed.get("tz", "UTC"))
+    dom = fin.astimezone(tz).date() + timedelta(days=1)
+    publicar = datetime(dom.year, dom.month, dom.day, 6, 0, tzinfo=tz).astimezone(timezone.utc)
     locs = {}
     for l2 in ed["locs"]:
         c2 = ed["nombre"].get(l2, cont)
@@ -468,12 +518,16 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente):
         "color_marca": [255, 45, 120], "contenido_sintetico": True,
         "reintento_desde": (fin + timedelta(hours=10)).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "corte": fin.strftime("%Y-%m-%dT%H:%M:%SZ"), "publicar_al_terminar": True, "estilo": "noticiero",
-        "siguiente_parada": siguiente or "",
+        "publicar_objetivo": publicar.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "siguiente_parada": siguiente or "", "saludos": saludos or [],
         "libreto": "plantilla",
         "esperar_libreto_hasta": (datetime.now(timezone.utc) + timedelta(minutes=PLAZO_LIBRETO_MIN)).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "miniatura": {"linea1": "TOP 10", "linea2": cont.upper(), "etiqueta": f"{'SEMANA' if lang == 'es' else 'WEEK'} {n}"},
         "seo": {"titulo": M[lang]["titulo"].format(c=ed.get("titulo", {}).get(lang, cont), n=n)[:100],
-                "descripcion": descripcion(lang, cont, cats, h_canal, h_ed, n),
+                "descripcion": ((("👋 Saludos a " if lang == "es" else "👋 Shout-out to ") + _nombres(saludos, lang)
+                                 + (", los primeros en comentar la edición anterior.\n\n" if lang == "es"
+                                    else ", the first to comment on last week's edition.\n\n")) if saludos else "")
+                               + descripcion(lang, cont, cats, h_canal, h_ed, n),
                 **geo(lang, cont, fin, ed["id"] == "mundial"),
                 "tags": list(dict.fromkeys(tags)), "hashtags": [h_canal, h_ed, "Virales" if lang == "es" else "Viral"],
                 "localizaciones": locs, "categoria_id": "24", "privacidad": "public",
@@ -539,7 +593,7 @@ def main_auto():
             (d / "omitido.json").write_text(json.dumps({"motivo": "datos insuficientes", "n": [len(c) for c in cats.values()]}))
             continue
         sig = eds[i + 1]["nombre"][ed["lang"]] if i + 1 < len(eds) else None
-        g = guion_edicion(ed, cats, fin, semana, sig)
+        g = guion_edicion(ed, cats, fin, semana, sig, primeros_comentarios(yt, ed, d))
         d.mkdir(parents=True, exist_ok=True)
         (d / "categorias3.json").write_text(json.dumps({**cats, "vetados": []}, ensure_ascii=False, indent=1))
         (d / "guion.json").write_text(json.dumps(g, ensure_ascii=False, indent=2))
@@ -561,7 +615,7 @@ def main_auto():
                     finalistas[k] += cats.get(k, [])[:3]
             cats = {k: ranking(finalistas[k], k) for k in finalistas}
             if min(len(c) for c in cats.values()) >= 10:
-                g = guion_edicion(mund, cats, fin_global, semana, None)
+                g = guion_edicion(mund, cats, fin_global, semana, None, primeros_comentarios(yt or service(CANAL), mund, d))
                 for o in orden:
                     if o.endswith("-top10-america"):
                         g["publicar_despues_de"] = o
