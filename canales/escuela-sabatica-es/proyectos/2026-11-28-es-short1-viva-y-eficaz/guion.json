@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The only book that reads to you while you read it 📖 #shorts",
+        "description": "There is a book that you are not the only one to read. While you read it, it reads you. Hebrews 4:12 Subscribe for more Sabbath School in 1 minute. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "O único livro que lê para você enquanto você o lê 📖 #shorts",
+        "description": "Há um livro que não é apenas você quem lê. Enquanto você o lê, ele lê você. Hebreus 4:12 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الكتاب الوحيد الذي يقرأك أثناء قراءتك له 📖 #shorts",
+        "description": "هناك كتاب لا تقرأه أنت فقط. أثناء قراءتك له، فهو يقرأك أنت. عبرانيين 4: 12 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "唯一一本在你阅读时也在阅读你的书 📖 #shorts",
+        "description": "有一本书，不仅是你读它，当你阅读它时，它也在阅读你。希伯来书 4:12 订阅以获取更多 1 分钟安息日学课程。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "당신이 읽는 동안 당신을 읽어주는 유일한 책 📖 #shorts",
+        "description": "여러분이 읽는 것만이 아닌 책이 있습니다. 여러분이 책을 읽는 동안, 책이 여러분을 읽습니다. 히브리서 4:12 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성으로 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "open book glowing in dark room"
-      }
+      },
+      "texto_en": "There is a book that you are not the only one to read. While you read it, it reads you.",
+      "texto_pt": "Há um livro que não é apenas você quem lê. Enquanto você o lê, ele lê você.",
+      "texto_ar": "هناك كتاب لا تقرأه أنت فقط. بينما تقرأه، فهو يقرأك أنت.",
+      "texto_zh": "有一本书，不仅是你读它，当你阅读它时，它也在阅读你。",
+      "texto_ko": "여러분이 읽는 것만이 아닌 책이 있습니다. 여러분이 책을 읽는 동안, 책이 여러분을 읽습니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "green sprout growing from old book pages"
-      }
+      },
+      "texto_en": "This is the verse to memorize from lesson ten, Prophetic Authority and Relevance: Hebrews 4:12. It teaches that the word of God has life and power, that it cuts more than any sword and that it reaches the deepest parts, revealing what we think and what we really want. It is not a museum book. It speaks today, acts today, and transforms today. That is why it has authority: it comes from God and is still alive. Memorize Hebrews 4:12, and comment on “the living word.”",
+      "texto_pt": "É o versículo para memorizar da lição dez, Autoridade e relevância proféticas: Hebreus 4:12. Ele ensina que a palavra de Deus tem vida e poder, que corta mais do que qualquer espada e que alcança as profundezas, revelando o que pensamos e o que realmente queremos. Não é um livro de museu. Ela fala hoje, age hoje e transforma hoje. É por isso que ela tem autoridade: vem de Deus e continua viva. Memorize Hebreus 4:12 e comente sobre \"Palavra viva\".",
+      "texto_ar": "هذه هي الآية التي يجب حفظها من الدرس العاشر، السلطة والأهمية النبوية: عبرانيين أربعة، اثنا عشر. تعلّمنا أن كلمة الله فيها حياة وقوة، وأنها تقطع أكثر من أي سيف وتصل إلى أعمق الأعماق، وتكشف ما نفكر فيه وما نريده حقًا. إنه ليس كتابًا للمتحف. إنها تتكلم اليوم، وتعمل اليوم، وتغير اليوم. لهذا السبب تتمتع بالسلطة: فهي تأتي من الله ولا تزال حية. احفظ رسالة بولس الرسول إلى العبرانيين الإصحاح الرابع الآية الثانية عشر، وعلق على عبارة \"كلمة حية\".",
+      "texto_zh": "这是第十课“先知的权威和意义”的背诵经文：希伯来书 4:12。它教导我们，神的话语具有生命和力量，比任何刀剑都更锋利，能够深入人心，揭示我们的想法和真正想要的东西。它不是一本博物馆藏书。它在今天说话，在今天行事，在今天带来改变。这就是它具有权威的原因：它来自上帝，并且仍然具有生命力。 背诵希伯来书第四章第十二节，并评论“活泼的道”。",
+      "texto_ko": "이 구절은 10과 '예언의 권위와 관련성'의 암기 구절입니다. 히브리서 4장 12절입니다. 이 구절은 하나님의 말씀이 생명과 능력을 지니고 있으며, 어떤 칼보다 날카롭게 베고 가장 깊은 곳까지 도달하여 우리가 생각하는 것과 진정으로 원하는 것을 드러낸다고 가르칩니다. 성경은 박물관에나 있을 법한 책이 아닙니다. 오늘 말씀하시고, 오늘 역사하시며, 오늘 변화시키십니다. 그렇기 때문에 권위가 있습니다. 말씀은 하나님으로부터 오며 여전히 살아 있습니다. 히브리서 4장 12절을 암기하고 '살아 있는 말씀'에 대해 이야기해 보세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
