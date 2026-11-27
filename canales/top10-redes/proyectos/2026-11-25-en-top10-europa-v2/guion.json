@@ -151,7 +151,129 @@
       "texto_pt": "Primeira lista: os dez mais vistos. Abrindo a contagem regressiva no décimo lugar, da Espanha, Dagar, com uma aventura de Minecraft com mais de vinte e cinco minutos de duração. Mais de 5,7 milhões de visualizações.",
       "texto_ar": "القائمة الأولى: أكثر عشرة مقاطع مشاهدة. نفتتح العد التنازلي في المرتبة العاشرة، من إسبانيا، داغار، مع مغامرة ماين كرافت التي تزيد مدتها عن خمسة وعشرين دقيقة. أكثر من خمسة فاصلة سبعة ملايين مشاهدة.",
       "texto_zh": "第一份榜单：观看次数最多的十个视频。倒数第十名，来自西班牙的Dagar，带来一段超过25分钟的《我的世界》冒险。观看次数超过570万次。",
-      "texto_ko": "첫 번째 목록: 조회수 상위 10위. 10위부터 카운트다운을 시작합니다. 스페인의 Dagar가 25분이 넘는 Minecraft 어드벤처를 선보입니다. 조회수는 570만 회가 넘습니다."
+      "texto_ko": "첫 번째 목록: 조회수 상위 10위. 10위부터 카운트다운을 시작합니다. 스페인의 Dagar가 25분이 넘는 Minecraft 어드벤처를 선보입니다. 조회수는 570만 회가 넘습니다.",
+      "ficha_anim": [
+        "imagenes/v10_cnt_00.jpg",
+        "imagenes/v10_cnt_01.jpg",
+        "imagenes/v10_cnt_02.jpg",
+        "imagenes/v10_cnt_03.jpg",
+        "imagenes/v10_cnt_04.jpg",
+        "imagenes/v10_cnt_05.jpg",
+        "imagenes/v10_cnt_06.jpg",
+        "imagenes/v10_cnt_07.jpg",
+        "imagenes/v10_cnt_08.jpg",
+        "imagenes/v10_cnt_09.jpg",
+        "imagenes/v10_cnt_10.jpg",
+        "imagenes/v10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v10_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_03.jpg",
+          "dur": 0.302,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v09",
@@ -163,7 +285,122 @@
       "texto_pt": "Número nove, PORTIA AI STORY LITH, com uma história de IA de pouco menos de três minutos. Mais de 5,9 milhões de visualizações. E este não terminou conosco hoje.",
       "texto_ar": "المرتبة التاسعة، PORTIA AI STORY LITH، مع قصة ذكاء اصطناعي تقل عن ثلاث دقائق بقليل. أكثر من خمسة فاصلة تسعة ملايين مشاهدة. وهذا لم ينتهِ معنا اليوم.",
       "texto_zh": "第九个是PORTIA AI STORY LITH，一个不到三分钟的AI故事。浏览量超过590万次。而这个视频今天还没有结束。",
-      "texto_ko": "9위는 PORTIA AI STORY LITH입니다. 3분도 채 안 되는 AI 스토리를 선보였는데요. 조회수가 590만 회를 넘었습니다. 그리고 이 이야기는 오늘 여기서 끝나지 않습니다."
+      "texto_ko": "9위는 PORTIA AI STORY LITH입니다. 3분도 채 안 되는 AI 스토리를 선보였는데요. 조회수가 590만 회를 넘었습니다. 그리고 이 이야기는 오늘 여기서 끝나지 않습니다.",
+      "ficha_anim": [
+        "imagenes/v09_cnt_00.jpg",
+        "imagenes/v09_cnt_01.jpg",
+        "imagenes/v09_cnt_02.jpg",
+        "imagenes/v09_cnt_03.jpg",
+        "imagenes/v09_cnt_04.jpg",
+        "imagenes/v09_cnt_05.jpg",
+        "imagenes/v09_cnt_06.jpg",
+        "imagenes/v09_cnt_07.jpg",
+        "imagenes/v09_cnt_08.jpg",
+        "imagenes/v09_cnt_09.jpg",
+        "imagenes/v09_cnt_10.jpg",
+        "imagenes/v09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v09_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v09_02.jpg",
+          "dur": 0.453,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v08",
@@ -175,7 +412,129 @@
       "texto_pt": "Número oito, do Reino Unido, Mat Armstrong MK2, com \"TENTATIVA DE CONSERTAR O BUGATTI CHIRON COM FALHAS DE IGNIÇÃO\". Mais de 42 minutos de trabalho na oficina e mais de 6,9 milhões de visualizações.",
       "texto_ar": "المرتبة الثامنة، من المملكة المتحدة، مات أرمسترونغ MK2، مع \"محاولة إصلاح سيارة بوغاتي شيرون التي تعاني من خلل في الإشعال\". أكثر من اثنين وأربعين دقيقة من العمل في المرآب، وأكثر من ستة فاصلة تسعة ملايين مشاهدة.",
       "texto_zh": "第八名，来自英国的 Mat Armstrong MK2，作品为《尝试修复失火的布加迪 Chiron》。超过 42 分钟的车库作业，超过 690 万次观看。",
-      "texto_ko": "8위는 영국 출신의 Mat Armstrong MK2의 '실화가 발생한 부가티 시론을 고치려는 시도'입니다. 42분이 넘는 정비소 작업 영상으로, 조회수가 690만 회를 넘었습니다."
+      "texto_ko": "8위는 영국 출신의 Mat Armstrong MK2의 '실화가 발생한 부가티 시론을 고치려는 시도'입니다. 42분이 넘는 정비소 작업 영상으로, 조회수가 690만 회를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/v08_cnt_00.jpg",
+        "imagenes/v08_cnt_01.jpg",
+        "imagenes/v08_cnt_02.jpg",
+        "imagenes/v08_cnt_03.jpg",
+        "imagenes/v08_cnt_04.jpg",
+        "imagenes/v08_cnt_05.jpg",
+        "imagenes/v08_cnt_06.jpg",
+        "imagenes/v08_cnt_07.jpg",
+        "imagenes/v08_cnt_08.jpg",
+        "imagenes/v08_cnt_09.jpg",
+        "imagenes/v08_cnt_10.jpg",
+        "imagenes/v08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v08_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_03.jpg",
+          "dur": 1.106,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v07",
@@ -187,7 +546,115 @@
       "texto_pt": "Número sete, da Espanha, Miguel ASSAL, com um Short de sobrevivência de trinta e sete segundos. Mais de sete vírgula sete milhões de visualizações.",
       "texto_ar": "المرتبة السابعة، من إسبانيا، ميغيل أسال، مع فيديو قصير عن البقاء على قيد الحياة مدته سبع وثلاثون ثانية. أكثر من سبعة فاصلة سبعة ملايين مشاهدة.",
       "texto_zh": "第七名，来自西班牙的Miguel ASSAL，他的短视频时长为37秒。观看次数超过770万次。",
-      "texto_ko": "7위는 스페인의 미겔 아살 님입니다. 37초짜리 서바이벌 쇼츠 영상으로 조회수는 770만 회가 넘습니다."
+      "texto_ko": "7위는 스페인의 미겔 아살 님입니다. 37초짜리 서바이벌 쇼츠 영상으로 조회수는 770만 회가 넘습니다.",
+      "ficha_anim": [
+        "imagenes/v07_cnt_00.jpg",
+        "imagenes/v07_cnt_01.jpg",
+        "imagenes/v07_cnt_02.jpg",
+        "imagenes/v07_cnt_03.jpg",
+        "imagenes/v07_cnt_04.jpg",
+        "imagenes/v07_cnt_05.jpg",
+        "imagenes/v07_cnt_06.jpg",
+        "imagenes/v07_cnt_07.jpg",
+        "imagenes/v07_cnt_08.jpg",
+        "imagenes/v07_cnt_09.jpg",
+        "imagenes/v07_cnt_10.jpg",
+        "imagenes/v07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v07_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 1.54,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_card.jpg",
+          "dur": 2.82,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v06",
@@ -199,7 +666,115 @@
       "texto_pt": "Número seis, da Áustria, Red Bull, com \"Always Keep Going\". Trinta segundos e mais de oito milhões de visualizações.",
       "texto_ar": "المرتبة السادسة، من النمسا، ريد بُل، مع \"استمر دائمًا\". ثلاثون ثانية، وأكثر من ثمانية ملايين مشاهدة.",
       "texto_zh": "第六名，来自奥地利的红牛，广告语是“Always Keep Going”（永不止步）。30秒，超过800万次观看。",
-      "texto_ko": "6위는 오스트리아의 레드불(Red Bull)로, 'Always Keep Going'이라는 슬로건을 내세웠습니다. 30초 분량의 영상으로 조회수가 8백만 회를 넘었습니다."
+      "texto_ko": "6위는 오스트리아의 레드불(Red Bull)로, 'Always Keep Going'이라는 슬로건을 내세웠습니다. 30초 분량의 영상으로 조회수가 8백만 회를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/v06_cnt_00.jpg",
+        "imagenes/v06_cnt_01.jpg",
+        "imagenes/v06_cnt_02.jpg",
+        "imagenes/v06_cnt_03.jpg",
+        "imagenes/v06_cnt_04.jpg",
+        "imagenes/v06_cnt_05.jpg",
+        "imagenes/v06_cnt_06.jpg",
+        "imagenes/v06_cnt_07.jpg",
+        "imagenes/v06_cnt_08.jpg",
+        "imagenes/v06_cnt_09.jpg",
+        "imagenes/v06_cnt_10.jpg",
+        "imagenes/v06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v06_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 1.163,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_card.jpg",
+          "dur": 2.443,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v05",
@@ -211,7 +786,129 @@
       "texto_pt": "Número cinco, da Bélgica, Blin., com \"Como hackear Lucia no GTA 6\". Mais de 8,6 milhões de visualizações, de um canal com cerca de 62 mil inscritos. O primeiro vídeo do GTA 6 do dia. Mas não o último.",
       "texto_ar": "المرتبة الخامسة، من بلجيكا، بلين، مع \"كيفية اختراق لوسيا في GTA 6\". أكثر من ثمانية ملايين وستمائة ألف مشاهدة، من قناة تضم حوالي اثنتين وستين ألف مشترك. أول فيديو لـ GTA 6 لهذا اليوم. وليس الأخير.",
       "texto_zh": "第五名，来自比利时的Blin.，作品是《如何在GTA 6中攻克Lucia》。来自一个拥有约6.2万订阅者的频道，播放量超过860万次。这是今天的第一个《GTA 6》视频，但不是最后一个。",
-      "texto_ko": "5위는 벨기에의 Blin.이 올린 'GTA 6에서 루시아를 해킹하는 방법'입니다. 약 6만 2천 명의 구독자를 보유한 채널에서 860만 회 이상의 조회수를 기록했습니다. 오늘의 첫 번째 GTA 6 동영상입니다. 마지막은 아니죠."
+      "texto_ko": "5위는 벨기에의 Blin.이 올린 'GTA 6에서 루시아를 해킹하는 방법'입니다. 약 6만 2천 명의 구독자를 보유한 채널에서 860만 회 이상의 조회수를 기록했습니다. 오늘의 첫 번째 GTA 6 동영상입니다. 마지막은 아니죠.",
+      "ficha_anim": [
+        "imagenes/v05_cnt_00.jpg",
+        "imagenes/v05_cnt_01.jpg",
+        "imagenes/v05_cnt_02.jpg",
+        "imagenes/v05_cnt_03.jpg",
+        "imagenes/v05_cnt_04.jpg",
+        "imagenes/v05_cnt_05.jpg",
+        "imagenes/v05_cnt_06.jpg",
+        "imagenes/v05_cnt_07.jpg",
+        "imagenes/v05_cnt_08.jpg",
+        "imagenes/v05_cnt_09.jpg",
+        "imagenes/v05_cnt_10.jpg",
+        "imagenes/v05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v05_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_03.jpg",
+          "dur": 0.75,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v04",
@@ -223,7 +920,115 @@
       "texto_pt": "Em quarto lugar, a FÓRMULA 1, com os destaques da corrida do Grande Prêmio de Las Vegas de 2026. Mais de 10,6 milhões de visualizações.",
       "texto_ar": "الرابع، الفورمولا 1، مع أبرز أحداث سباق جائزة لاس فيغاس الكبرى لعام ألفين وستة وعشرين. أكثر من عشرة فاصلة ستة ملايين مشاهدة.",
       "texto_zh": "第四名，一级方程式赛车，内容是2026年拉斯维加斯大奖赛的精彩赛事集锦。观看次数超过1060万次。",
-      "texto_ko": "4위는 2026년 라스베이거스 그랑프리의 하이라이트를 담은 '포뮬러 원'입니다. 조회수가 1,060만 회를 넘었습니다."
+      "texto_ko": "4위는 2026년 라스베이거스 그랑프리의 하이라이트를 담은 '포뮬러 원'입니다. 조회수가 1,060만 회를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/v04_cnt_00.jpg",
+        "imagenes/v04_cnt_01.jpg",
+        "imagenes/v04_cnt_02.jpg",
+        "imagenes/v04_cnt_03.jpg",
+        "imagenes/v04_cnt_04.jpg",
+        "imagenes/v04_cnt_05.jpg",
+        "imagenes/v04_cnt_06.jpg",
+        "imagenes/v04_cnt_07.jpg",
+        "imagenes/v04_cnt_08.jpg",
+        "imagenes/v04_cnt_09.jpg",
+        "imagenes/v04_cnt_10.jpg",
+        "imagenes/v04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v04_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 1.885,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v03",
@@ -236,7 +1041,129 @@
       "texto_pt": "E agora, o pódio. Medalha de bronze, do Reino Unido, Mrwhosetheboss, com “Por que o GTA é mais importante do que você pensa”. Mais de onze vírgula quatro milhões de visualizações.",
       "texto_ar": "والآن، المنصة. الميدالية البرونزية، من المملكة المتحدة، Mrwhosetheboss، مع \"لماذا تعد لعبة GTA أهم مما تعتقد\". أكثر من أحد عشر فاصلة أربعة ملايين مشاهدة.",
       "texto_zh": "现在，请上台领奖。铜牌得主来自英国的Mrwhosetheboss，作品为《为什么GTA比你想象的更重要》。观看次数超过1140万次。",
-      "texto_ko": "이제 시상대에 올라보겠습니다. 동메달은 영국에서 온 Mrwhosetheboss의 'GTA가 생각보다 더 중요한 이유'입니다. 조회수가 1,140만 회를 넘었습니다."
+      "texto_ko": "이제 시상대에 올라보겠습니다. 동메달은 영국에서 온 Mrwhosetheboss의 'GTA가 생각보다 더 중요한 이유'입니다. 조회수가 1,140만 회를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/v03_cnt_00.jpg",
+        "imagenes/v03_cnt_01.jpg",
+        "imagenes/v03_cnt_02.jpg",
+        "imagenes/v03_cnt_03.jpg",
+        "imagenes/v03_cnt_04.jpg",
+        "imagenes/v03_cnt_05.jpg",
+        "imagenes/v03_cnt_06.jpg",
+        "imagenes/v03_cnt_07.jpg",
+        "imagenes/v03_cnt_08.jpg",
+        "imagenes/v03_cnt_09.jpg",
+        "imagenes/v03_cnt_10.jpg",
+        "imagenes/v03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v03_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_03.jpg",
+          "dur": 0.288,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v02",
@@ -248,7 +1175,122 @@
       "texto_pt": "Medalha de prata, da Turquia, Mr Spring, com “O GTA 6 finalmente consertou as portas de carro BLOQUEADAS?”. Trinta e seis segundos e mais de dezenove milhões de visualizações. Lembrem-se deste.",
       "texto_ar": "الميدالية الفضية، من تركيا، السيد سبرينغ، مع \"هل أصلح GTA 6 أخيرًا أبواب السيارات المحظورة؟\". ست وثلاثون ثانية، وأكثر من تسعة عشر مليون مشاهدة. تذكروا هذا الفيديو.",
       "texto_zh": "银牌来自土耳其的Mr Spring，作品是《GTA 6终于修复了无法打开的车门了吗？》。36秒，超过1900万次观看。记住这个视频。",
-      "texto_ko": "은메달은 터키의 Mr Spring 님이 차지했습니다. 작품 제목은 'GTA 6가 드디어 잠긴 차량 문 문제를 해결했나요?'입니다. 36초의 동영상이 1,900만 회 이상의 조회수를 기록했습니다. 이 동영상을 기억해 두세요."
+      "texto_ko": "은메달은 터키의 Mr Spring 님이 차지했습니다. 작품 제목은 'GTA 6가 드디어 잠긴 차량 문 문제를 해결했나요?'입니다. 36초의 동영상이 1,900만 회 이상의 조회수를 기록했습니다. 이 동영상을 기억해 두세요.",
+      "ficha_anim": [
+        "imagenes/v02_cnt_00.jpg",
+        "imagenes/v02_cnt_01.jpg",
+        "imagenes/v02_cnt_02.jpg",
+        "imagenes/v02_cnt_03.jpg",
+        "imagenes/v02_cnt_04.jpg",
+        "imagenes/v02_cnt_05.jpg",
+        "imagenes/v02_cnt_06.jpg",
+        "imagenes/v02_cnt_07.jpg",
+        "imagenes/v02_cnt_08.jpg",
+        "imagenes/v02_cnt_09.jpg",
+        "imagenes/v02_cnt_10.jpg",
+        "imagenes/v02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v02_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_02.jpg",
+          "dur": 1.913,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v01",
@@ -260,7 +1302,129 @@
       "texto_pt": "Tambores, por favor. O vídeo mais visto da semana na Europa: SEEDPIT Official, com \"Kevin says Seed is TOO SMALL\". Um Short de trinta e nove segundos com mais de vinte e oito milhões de visualizações. Semente pequena, números gigantes.",
       "texto_ar": "قرع الطبول، من فضلكم. الفيديو الأكثر مشاهدة هذا الأسبوع في أوروبا: SEEDPIT Official، مع \"كيفن يقول إن البذرة صغيرة جدًا\". فيديو قصير مدته تسع وثلاثون ثانية وحقق أكثر من ثمانية وعشرين مليون مشاهدة. بذرة صغيرة، أرقام ضخمة.",
       "texto_zh": "请敲响鼓点。本周欧洲观看次数最多的视频：SEEDPIT官方的“Kevin说种子太小了”。这段39秒的短视频获得了超过2800万次观看。小种子，大流量。",
-      "texto_ko": "북소리가 울립니다. 이번 주 유럽에서 가장 많이 본 동영상은 SEEDPIT Official의 'Kevin says Seed is TOO SMALL'입니다. 39초 길이의 쇼츠 동영상으로 조회수가 2,800만 회를 넘었습니다. 작은 씨앗, 엄청난 조회 수."
+      "texto_ko": "북소리가 울립니다. 이번 주 유럽에서 가장 많이 본 동영상은 SEEDPIT Official의 'Kevin says Seed is TOO SMALL'입니다. 39초 길이의 쇼츠 동영상으로 조회수가 2,800만 회를 넘었습니다. 작은 씨앗, 엄청난 조회 수.",
+      "ficha_anim": [
+        "imagenes/v01_cnt_00.jpg",
+        "imagenes/v01_cnt_01.jpg",
+        "imagenes/v01_cnt_02.jpg",
+        "imagenes/v01_cnt_03.jpg",
+        "imagenes/v01_cnt_04.jpg",
+        "imagenes/v01_cnt_05.jpg",
+        "imagenes/v01_cnt_06.jpg",
+        "imagenes/v01_cnt_07.jpg",
+        "imagenes/v01_cnt_08.jpg",
+        "imagenes/v01_cnt_09.jpg",
+        "imagenes/v01_cnt_10.jpg",
+        "imagenes/v01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_views.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/v01_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_views.jpg",
+          "dur": 3.861,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c10",
@@ -273,7 +1437,122 @@
       "texto_pt": "Segunda lista: a conversa. Os dez vídeos mais comentados. Em décimo lugar, da Ucrânia, Domer Grief, com uma história de Minecraft com mais de vinte e cinco minutos de duração. Mais de cinco mil e quatrocentos comentários.",
       "texto_ar": "القائمة الثانية: المحادثة. أكثر عشرة مقاطع فيديو تعليقًا. في المرتبة العاشرة، من أوكرانيا، دومر غريف، مع قصة ماين كرافت تزيد مدتها عن خمسة وعشرين دقيقة. أكثر من خمسة آلاف وأربعمائة تعليق.",
       "texto_zh": "第二个榜单：讨论度。评论数最多的十个视频。排名第十的是来自乌克兰的Domer Grief，他发布了一个超过25分钟的《我的世界》故事。超过5400条评论。",
-      "texto_ko": "두 번째 목록: 대화. 댓글이 가장 많이 달린 동영상 10개입니다. 10위는 우크라이나의 Domer Grief로, 25분이 넘는 Minecraft 스토리를 선보였습니다. 5,400개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "두 번째 목록: 대화. 댓글이 가장 많이 달린 동영상 10개입니다. 10위는 우크라이나의 Domer Grief로, 25분이 넘는 Minecraft 스토리를 선보였습니다. 5,400개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c10_cnt_00.jpg",
+        "imagenes/c10_cnt_01.jpg",
+        "imagenes/c10_cnt_02.jpg",
+        "imagenes/c10_cnt_03.jpg",
+        "imagenes/c10_cnt_04.jpg",
+        "imagenes/c10_cnt_05.jpg",
+        "imagenes/c10_cnt_06.jpg",
+        "imagenes/c10_cnt_07.jpg",
+        "imagenes/c10_cnt_08.jpg",
+        "imagenes/c10_cnt_09.jpg",
+        "imagenes/c10_cnt_10.jpg",
+        "imagenes/c10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c10_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c10_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c10_02.jpg",
+          "dur": 1.481,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c09",
@@ -285,7 +1564,122 @@
       "texto_pt": "Em nono lugar, do Reino Unido, Unknown Player, com \"GTA 6: What Actually Happens At IRREDEEMABLE?\". Mais de cinco mil e seiscentos comentários.",
       "texto_ar": "المرتبة التاسعة، من المملكة المتحدة، لاعب مجهول، مع \"GTA 6: ماذا يحدث بالفعل في IRREDEEMABLE؟\". أكثر من خمسة آلاف وستمائة تعليق.",
       "texto_zh": "第九名，来自英国的Unknown Player，作品是《GTA 6：IRREDEEMABLE到底发生了什么？》。超过5600条评论。",
-      "texto_ko": "9위는 영국에서 온 Unknown Player의 'GTA 6: IRREDEEMABLE에서는 실제로 무슨 일이 일어나는가?'입니다. 5,600개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "9위는 영국에서 온 Unknown Player의 'GTA 6: IRREDEEMABLE에서는 실제로 무슨 일이 일어나는가?'입니다. 5,600개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c09_cnt_00.jpg",
+        "imagenes/c09_cnt_01.jpg",
+        "imagenes/c09_cnt_02.jpg",
+        "imagenes/c09_cnt_03.jpg",
+        "imagenes/c09_cnt_04.jpg",
+        "imagenes/c09_cnt_05.jpg",
+        "imagenes/c09_cnt_06.jpg",
+        "imagenes/c09_cnt_07.jpg",
+        "imagenes/c09_cnt_08.jpg",
+        "imagenes/c09_cnt_09.jpg",
+        "imagenes/c09_cnt_10.jpg",
+        "imagenes/c09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c09_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c09_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c09_02.jpg",
+          "dur": 1.785,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c08",
@@ -297,7 +1691,122 @@
       "texto_pt": "Número oito, do Reino Unido, Mat Armstrong MK2 e o Bugatti Chiron. Mais de cinco mil e setecentos comentários.",
       "texto_ar": "المرتبة الثامنة، من المملكة المتحدة، مات أرمسترونغ MK2 وسيارة بوغاتي شيرون. أكثر من خمسة آلاف وسبعمائة تعليق.",
       "texto_zh": "第八名，来自英国的Mat Armstrong MK2和布加迪Chiron。超过5700条评论。",
-      "texto_ko": "8위는 영국 출신의 매트 암스트롱 MK2와 부가티 시론입니다. 5,700개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "8위는 영국 출신의 매트 암스트롱 MK2와 부가티 시론입니다. 5,700개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c08_cnt_00.jpg",
+        "imagenes/c08_cnt_01.jpg",
+        "imagenes/c08_cnt_02.jpg",
+        "imagenes/c08_cnt_03.jpg",
+        "imagenes/c08_cnt_04.jpg",
+        "imagenes/c08_cnt_05.jpg",
+        "imagenes/c08_cnt_06.jpg",
+        "imagenes/c08_cnt_07.jpg",
+        "imagenes/c08_cnt_08.jpg",
+        "imagenes/c08_cnt_09.jpg",
+        "imagenes/c08_cnt_10.jpg",
+        "imagenes/c08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c08_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_02.jpg",
+          "dur": 1.899,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c07",
@@ -309,7 +1818,115 @@
       "texto_pt": "Número sete, Jazzghost, com um vídeo de mais de duas horas e doze minutos. Mais de sete mil e seiscentos comentários.",
       "texto_ar": "المرتبة السابعة، \"جازغوست\"، مع فيديو مدته أكثر من ساعتين واثنتا عشرة دقيقة. أكثر من سبعة آلاف وستمائة تعليق.",
       "texto_zh": "第七名，Jazzghost，视频时长超过2小时12分钟。超过7600条评论。",
-      "texto_ko": "7위는 2시간 12분이 넘는 동영상을 올린 Jazzghost입니다. 7,600개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "7위는 2시간 12분이 넘는 동영상을 올린 Jazzghost입니다. 7,600개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c07_cnt_00.jpg",
+        "imagenes/c07_cnt_01.jpg",
+        "imagenes/c07_cnt_02.jpg",
+        "imagenes/c07_cnt_03.jpg",
+        "imagenes/c07_cnt_04.jpg",
+        "imagenes/c07_cnt_05.jpg",
+        "imagenes/c07_cnt_06.jpg",
+        "imagenes/c07_cnt_07.jpg",
+        "imagenes/c07_cnt_08.jpg",
+        "imagenes/c07_cnt_09.jpg",
+        "imagenes/c07_cnt_10.jpg",
+        "imagenes/c07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c07_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c07_01.jpg",
+          "dur": 1.433,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_card.jpg",
+          "dur": 2.713,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c06",
@@ -321,7 +1938,129 @@
       "texto_pt": "Em sexto lugar, do Reino Unido, temos Could You Survive History?, com \"GTA 6 é o fracasso mais caro já feito\". Mais de sete mil e novecentos comentários, de um canal com cerca de mil e novecentos inscritos.",
       "texto_ar": "المرتبة السادسة، من المملكة المتحدة، \"هل يمكنك النجاة من التاريخ؟\"، مع \"GTA 6 هي أغلى فشل تم إنتاجه على الإطلاق\". أكثر من سبعة آلاف وتسعمائة تعليق، من قناة تضم حوالي ألف وتسعمائة مشترك.",
       "texto_zh": "第六名来自英国的《你能否在历史上幸存下来？》，视频标题为“《GTA 6》是有史以来最昂贵的失败之作”。一个拥有约1900名订阅者的频道，获得了超过7900条评论。",
-      "texto_ko": "6위는 영국에서 온 Could You Survive History?의 'GTA 6는 사상 최고가 망작'입니다. 구독자가 약 1,900명인 채널에서 7,900개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "6위는 영국에서 온 Could You Survive History?의 'GTA 6는 사상 최고가 망작'입니다. 구독자가 약 1,900명인 채널에서 7,900개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c06_cnt_00.jpg",
+        "imagenes/c06_cnt_01.jpg",
+        "imagenes/c06_cnt_02.jpg",
+        "imagenes/c06_cnt_03.jpg",
+        "imagenes/c06_cnt_04.jpg",
+        "imagenes/c06_cnt_05.jpg",
+        "imagenes/c06_cnt_06.jpg",
+        "imagenes/c06_cnt_07.jpg",
+        "imagenes/c06_cnt_08.jpg",
+        "imagenes/c06_cnt_09.jpg",
+        "imagenes/c06_cnt_10.jpg",
+        "imagenes/c06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c06_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_03.jpg",
+          "dur": 0.316,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c05",
@@ -333,7 +2072,122 @@
       "texto_pt": "Em quinto lugar, do Reino Unido, DanTDM, com \"This Is Why You Hate GTA 6\". Mais de sete mil e novecentos comentários. O GTA 6 divide opiniões.",
       "texto_ar": "المرتبة الخامسة، من المملكة المتحدة، دان تي دي إم، مع \"هذا هو سبب كرهكم لـ GTA 6\". أكثر من سبعة آلاف وتسعمائة تعليق. تثير لعبة GTA 6 انقسامًا في الآراء.",
       "texto_zh": "第五名，来自英国的DanTDM，作品是《这就是你讨厌GTA 6的原因》。超过7900条评论。《GTA 6》引发了分歧。",
-      "texto_ko": "5위는 영국 출신의 DanTDM입니다. '이게 바로 여러분이 GTA 6를 싫어하는 이유'라는 제목의 동영상이죠. 7,900개가 넘는 댓글이 달렸습니다. GTA 6는 의견을 분열시킵니다."
+      "texto_ko": "5위는 영국 출신의 DanTDM입니다. '이게 바로 여러분이 GTA 6를 싫어하는 이유'라는 제목의 동영상이죠. 7,900개가 넘는 댓글이 달렸습니다. GTA 6는 의견을 분열시킵니다.",
+      "ficha_anim": [
+        "imagenes/c05_cnt_00.jpg",
+        "imagenes/c05_cnt_01.jpg",
+        "imagenes/c05_cnt_02.jpg",
+        "imagenes/c05_cnt_03.jpg",
+        "imagenes/c05_cnt_04.jpg",
+        "imagenes/c05_cnt_05.jpg",
+        "imagenes/c05_cnt_06.jpg",
+        "imagenes/c05_cnt_07.jpg",
+        "imagenes/c05_cnt_08.jpg",
+        "imagenes/c05_cnt_09.jpg",
+        "imagenes/c05_cnt_10.jpg",
+        "imagenes/c05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c05_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c05_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c05_02.jpg",
+          "dur": 0.924,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c04",
@@ -345,7 +2199,122 @@
       "texto_pt": "Número quatro, FÓRMULA 1 e o Grande Prêmio de Las Vegas. Mais de oito mil e cem comentários.",
       "texto_ar": "رقم أربعة، الفورمولا 1 وجائزة لاس فيغاس الكبرى. أكثر من ثمانية آلاف ومائة تعليق.",
       "texto_zh": "第四个，F1和拉斯维加斯大奖赛。超过8100条评论。",
-      "texto_ko": "네 번째, 포뮬러원(FORMULA 1)과 라스베이거스 그랑프리입니다. 8,100개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "네 번째, 포뮬러원(FORMULA 1)과 라스베이거스 그랑프리입니다. 8,100개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c04_cnt_00.jpg",
+        "imagenes/c04_cnt_01.jpg",
+        "imagenes/c04_cnt_02.jpg",
+        "imagenes/c04_cnt_03.jpg",
+        "imagenes/c04_cnt_04.jpg",
+        "imagenes/c04_cnt_05.jpg",
+        "imagenes/c04_cnt_06.jpg",
+        "imagenes/c04_cnt_07.jpg",
+        "imagenes/c04_cnt_08.jpg",
+        "imagenes/c04_cnt_09.jpg",
+        "imagenes/c04_cnt_10.jpg",
+        "imagenes/c04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c04_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_02.jpg",
+          "dur": 0.359,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c03",
@@ -357,7 +2326,129 @@
       "texto_pt": "Hora do pódio. Medalha de bronze, do Reino Unido, IAmBeanz, com “GTA 6 Feels Like Something's Off...”. Mais de nove mil e novecentos comentários, de um canal com cerca de cinco mil inscritos.",
       "texto_ar": "حان وقت المنصة. الميدالية البرونزية، من المملكة المتحدة، IAmBeanz، مع \"GTA 6 يبدو أن هناك شيئًا غير صحيح...\". أكثر من تسعة آلاف وتسعمائة تعليق، من قناة تضم حوالي خمسة آلاف مشترك.",
       "texto_zh": "颁奖时刻。铜牌得主来自英国的IAmBeanz，作品是《GTA 6 Feels Like Something's Off...》。一个拥有约5000名订阅者的频道，获得了超过9900条评论。",
-      "texto_ko": "시상식 시간입니다. 동메달은 영국에서 온 IAmBeanz의 'GTA 6 Feels Like Something's Off...'입니다. 구독자가 약 5천 명인 채널에서 9,900개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "시상식 시간입니다. 동메달은 영국에서 온 IAmBeanz의 'GTA 6 Feels Like Something's Off...'입니다. 구독자가 약 5천 명인 채널에서 9,900개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c03_cnt_00.jpg",
+        "imagenes/c03_cnt_01.jpg",
+        "imagenes/c03_cnt_02.jpg",
+        "imagenes/c03_cnt_03.jpg",
+        "imagenes/c03_cnt_04.jpg",
+        "imagenes/c03_cnt_05.jpg",
+        "imagenes/c03_cnt_06.jpg",
+        "imagenes/c03_cnt_07.jpg",
+        "imagenes/c03_cnt_08.jpg",
+        "imagenes/c03_cnt_09.jpg",
+        "imagenes/c03_cnt_10.jpg",
+        "imagenes/c03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c03_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_03.jpg",
+          "dur": 1.113,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c02",
@@ -369,7 +2460,115 @@
       "texto_pt": "Medalha de prata, da França, Ninjaxx, com \"La fin du duo\". Mais de treze mil e quatrocentos comentários.",
       "texto_ar": "الميدالية الفضية، من فرنسا، نينجاكس، مع \"لا فان دو ديو\". أكثر من ثلاثة عشر ألفًا وأربعمائة تعليق.",
       "texto_zh": "银奖，来自法国的 Ninjaxx，作品《La fin du duo》。超过13400条评论。",
-      "texto_ko": "은메달은 프랑스의 Ninjaxx가 'La fin du duo'로 수상했습니다. 13,400개 이상의 댓글이 달렸습니다."
+      "texto_ko": "은메달은 프랑스의 Ninjaxx가 'La fin du duo'로 수상했습니다. 13,400개 이상의 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c02_cnt_00.jpg",
+        "imagenes/c02_cnt_01.jpg",
+        "imagenes/c02_cnt_02.jpg",
+        "imagenes/c02_cnt_03.jpg",
+        "imagenes/c02_cnt_04.jpg",
+        "imagenes/c02_cnt_05.jpg",
+        "imagenes/c02_cnt_06.jpg",
+        "imagenes/c02_cnt_07.jpg",
+        "imagenes/c02_cnt_08.jpg",
+        "imagenes/c02_cnt_09.jpg",
+        "imagenes/c02_cnt_10.jpg",
+        "imagenes/c02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c02_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c02_01.jpg",
+          "dur": 1.96,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c01",
@@ -381,7 +2580,136 @@
       "texto_pt": "E aqui está. O vídeo mais comentado da semana na Europa. HYPNOS CR, com um vídeo do GTA 6 com mais de trinta minutos de duração. Mais de dezesseis mil comentários, com pouco mais de cento e trinta e dois mil visualizações. Mais comentários do que curtidas. É assim que se faz uma comunidade conversar.",
       "texto_ar": "وإليكم ذلك. الفيديو الأكثر تعليقًا لهذا الأسبوع في أوروبا. HYPNOS CR، مع فيديو GTA 6 مدته أكثر من ثلاثين دقيقة. أكثر من ستة عشر ألف تعليق، من ما يزيد قليلاً عن مائة واثنين وثلاثين ألف مشاهدة. تعليقات أكثر من الإعجابات. هذه هي الطريقة التي تجعل المجتمع يتحدث.",
       "texto_zh": "就是这个。本周欧洲评论数最多的视频。HYPNOS CR，发布了一段超过30分钟的《GTA 6》视频。超过1.6万条评论，来自略多于13.2万次观看。评论数多于点赞数。这就是让社区活跃起来的方式。",
-      "texto_ko": "바로 이겁니다. 이번 주 유럽에서 가장 많은 댓글을 받은 동영상입니다. HYPNOS CR, 30분이 넘는 GTA 6 동영상. 조회수는 13만 2천 회를 조금 넘는데, 댓글은 1만 6천 개가 넘습니다. 좋아요보다 댓글이 더 많네요. 이렇게 하면 커뮤니티에서 대화가 활발해집니다."
+      "texto_ko": "바로 이겁니다. 이번 주 유럽에서 가장 많은 댓글을 받은 동영상입니다. HYPNOS CR, 30분이 넘는 GTA 6 동영상. 조회수는 13만 2천 회를 조금 넘는데, 댓글은 1만 6천 개가 넘습니다. 좋아요보다 댓글이 더 많네요. 이렇게 하면 커뮤니티에서 대화가 활발해집니다.",
+      "ficha_anim": [
+        "imagenes/c01_cnt_00.jpg",
+        "imagenes/c01_cnt_01.jpg",
+        "imagenes/c01_cnt_02.jpg",
+        "imagenes/c01_cnt_03.jpg",
+        "imagenes/c01_cnt_04.jpg",
+        "imagenes/c01_cnt_05.jpg",
+        "imagenes/c01_cnt_06.jpg",
+        "imagenes/c01_cnt_07.jpg",
+        "imagenes/c01_cnt_08.jpg",
+        "imagenes/c01_cnt_09.jpg",
+        "imagenes/c01_cnt_10.jpg",
+        "imagenes/c01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_comments.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/c01_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_03.jpg",
+          "dur": 0.66,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_comments.jpg",
+          "dur": 4.44,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l10",
@@ -394,7 +2722,122 @@
       "texto_pt": "E a última lista: a mais curtida. Os dez vídeos mais curtidos. Em décimo lugar, da Áustria, Red Bull, com \"Always Keep Going\". Mais de cento e oito mil curtidas.",
       "texto_ar": "والقائمة الأخيرة: الإعجاب. أكثر عشرة مقاطع فيديو حازت على الإعجاب. في المرتبة العاشرة، من النمسا، ريد بُل، مع \"استمر دائمًا\". أكثر من مائة وثمانية آلاف إعجاب.",
       "texto_zh": "最后一份榜单：最受欢迎。点赞数最多的十个视频。排名第十的是来自奥地利的红牛，作品为《Always Keep Going》。点赞数超过10.8万。",
-      "texto_ko": "그리고 마지막 목록은 '좋아요'입니다. 가장 많은 '좋아요'를 받은 동영상 10편입니다. 10위는 오스트리아의 Red Bull이 'Always Keep Going'으로 차지했습니다. 108,000개 이상의 '좋아요'를 받았습니다."
+      "texto_ko": "그리고 마지막 목록은 '좋아요'입니다. 가장 많은 '좋아요'를 받은 동영상 10편입니다. 10위는 오스트리아의 Red Bull이 'Always Keep Going'으로 차지했습니다. 108,000개 이상의 '좋아요'를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l10_cnt_00.jpg",
+        "imagenes/l10_cnt_01.jpg",
+        "imagenes/l10_cnt_02.jpg",
+        "imagenes/l10_cnt_03.jpg",
+        "imagenes/l10_cnt_04.jpg",
+        "imagenes/l10_cnt_05.jpg",
+        "imagenes/l10_cnt_06.jpg",
+        "imagenes/l10_cnt_07.jpg",
+        "imagenes/l10_cnt_08.jpg",
+        "imagenes/l10_cnt_09.jpg",
+        "imagenes/l10_cnt_10.jpg",
+        "imagenes/l10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l10_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_02.jpg",
+          "dur": 0.965,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l09",
@@ -406,7 +2849,115 @@
       "texto_pt": "Número nove, da França, Ninjaxx, com \"La fin du duo\". Mais de cento e oito mil curtidas.",
       "texto_ar": "المرتبة التاسعة، من فرنسا، نينجاكس، مع \"لا فان دو ديو\". أكثر من مائة وثمانية آلاف إعجاب.",
       "texto_zh": "第九名，来自法国的Ninjaxx，歌曲《La fin du duo》。点赞数超过10.8万。",
-      "texto_ko": "9번은 프랑스의 Ninjaxx가 'La fin du duo'로 출전합니다. 좋아요 수가 10만 8천 개를 넘었습니다."
+      "texto_ko": "9번은 프랑스의 Ninjaxx가 'La fin du duo'로 출전합니다. 좋아요 수가 10만 8천 개를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/l09_cnt_00.jpg",
+        "imagenes/l09_cnt_01.jpg",
+        "imagenes/l09_cnt_02.jpg",
+        "imagenes/l09_cnt_03.jpg",
+        "imagenes/l09_cnt_04.jpg",
+        "imagenes/l09_cnt_05.jpg",
+        "imagenes/l09_cnt_06.jpg",
+        "imagenes/l09_cnt_07.jpg",
+        "imagenes/l09_cnt_08.jpg",
+        "imagenes/l09_cnt_09.jpg",
+        "imagenes/l09_cnt_10.jpg",
+        "imagenes/l09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l09_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l09_01.jpg",
+          "dur": 1.148,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_card.jpg",
+          "dur": 2.429,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l08",
@@ -418,7 +2969,115 @@
       "texto_pt": "Número oito, FÓRMULA 1, com Las Vegas. Mais de cento e trinta e um mil curtidas.",
       "texto_ar": "المرتبة الثامنة، الفورمولا 1، مع لاس فيغاس. أكثر من مائة وواحد وثلاثين ألف إعجاب.",
       "texto_zh": "第八名，F1一级方程式赛车，搭配拉斯维加斯。点赞数超过十三万一千。",
-      "texto_ko": "8위는 라스베이거스의 포뮬러원입니다. 13만 1천 개 이상의 좋아요를 받았습니다."
+      "texto_ko": "8위는 라스베이거스의 포뮬러원입니다. 13만 1천 개 이상의 좋아요를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l08_cnt_00.jpg",
+        "imagenes/l08_cnt_01.jpg",
+        "imagenes/l08_cnt_02.jpg",
+        "imagenes/l08_cnt_03.jpg",
+        "imagenes/l08_cnt_04.jpg",
+        "imagenes/l08_cnt_05.jpg",
+        "imagenes/l08_cnt_06.jpg",
+        "imagenes/l08_cnt_07.jpg",
+        "imagenes/l08_cnt_08.jpg",
+        "imagenes/l08_cnt_09.jpg",
+        "imagenes/l08_cnt_10.jpg",
+        "imagenes/l08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l08_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l08_01.jpg",
+          "dur": 1.022,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_card.jpg",
+          "dur": 2.301,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l07",
@@ -430,7 +3089,115 @@
       "texto_pt": "Número sete, do Reino Unido, Mrwhosetheboss. Mais de cento e trinta e dois mil curtidas.",
       "texto_ar": "المرتبة السابعة، من المملكة المتحدة، Mrwhosetheboss. أكثر من مائة واثنين وثلاثين ألف إعجاب.",
       "texto_zh": "第七名，来自英国的Mrwhosetheboss。超过十三万两千个赞。",
-      "texto_ko": "7위는 영국에서 온 Mrwhosetheboss입니다. 13만 2천 개 이상의 좋아요를 받았습니다."
+      "texto_ko": "7위는 영국에서 온 Mrwhosetheboss입니다. 13만 2천 개 이상의 좋아요를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l07_cnt_00.jpg",
+        "imagenes/l07_cnt_01.jpg",
+        "imagenes/l07_cnt_02.jpg",
+        "imagenes/l07_cnt_03.jpg",
+        "imagenes/l07_cnt_04.jpg",
+        "imagenes/l07_cnt_05.jpg",
+        "imagenes/l07_cnt_06.jpg",
+        "imagenes/l07_cnt_07.jpg",
+        "imagenes/l07_cnt_08.jpg",
+        "imagenes/l07_cnt_09.jpg",
+        "imagenes/l07_cnt_10.jpg",
+        "imagenes/l07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l07_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l07_01.jpg",
+          "dur": 1.111,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_card.jpg",
+          "dur": 2.391,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l06",
@@ -442,7 +3209,115 @@
       "texto_pt": "Número seis, SEEDPIT Official, agora com \"Can Kevin FEED Seed to the BIRDS?\". Mais de cento e quarenta e quatro mil curtidas e mais de vinte e três milhões de visualizações.",
       "texto_ar": "المرتبة السادسة، حساب SEEDPIT الرسمي، الآن مع \"هل يستطيع كيفن إطعام البذور للطيور؟\". أكثر من مائة وأربعة وأربعين ألف إعجاب وأكثر من ثلاثة وعشرين مليون مشاهدة.",
       "texto_zh": "第六名，SEEDPIT官方账号，现在是“Kevin能把种子喂给鸟吗？”。点赞数超过14.4万，观看次数超过2300万。",
-      "texto_ko": "6위는 SEEDPIT Official의 '케빈이 새들에게 씨앗을 줄 수 있을까?'입니다. 14만 4천 개 이상의 '좋아요'와 2,300만 회 이상의 조회수를 기록했습니다."
+      "texto_ko": "6위는 SEEDPIT Official의 '케빈이 새들에게 씨앗을 줄 수 있을까?'입니다. 14만 4천 개 이상의 '좋아요'와 2,300만 회 이상의 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/l06_cnt_00.jpg",
+        "imagenes/l06_cnt_01.jpg",
+        "imagenes/l06_cnt_02.jpg",
+        "imagenes/l06_cnt_03.jpg",
+        "imagenes/l06_cnt_04.jpg",
+        "imagenes/l06_cnt_05.jpg",
+        "imagenes/l06_cnt_06.jpg",
+        "imagenes/l06_cnt_07.jpg",
+        "imagenes/l06_cnt_08.jpg",
+        "imagenes/l06_cnt_09.jpg",
+        "imagenes/l06_cnt_10.jpg",
+        "imagenes/l06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l06_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l06_01.jpg",
+          "dur": 1.53,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_card.jpg",
+          "dur": 2.811,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l05",
@@ -454,7 +3329,115 @@
       "texto_pt": "Número cinco, da Espanha, Miguel ASSAL, com seu curta de sobrevivência. Mais de cento e cinquenta mil curtidas.",
       "texto_ar": "المرتبة الخامسة، من إسبانيا، ميغيل أسال، مع فيلمه القصير عن البقاء على قيد الحياة. أكثر من مائة وخمسين ألف إعجاب.",
       "texto_zh": "第五名，来自西班牙的Miguel ASSAL，他的作品是生存短片。超过十五万个赞。",
-      "texto_ko": "5위는 스페인의 미겔 아살(Miguel ASSAL) 님입니다. 서바이벌 숏폼 동영상이 선정되었습니다. 15만 개가 넘는 '좋아요'를 받았습니다."
+      "texto_ko": "5위는 스페인의 미겔 아살(Miguel ASSAL) 님입니다. 서바이벌 숏폼 동영상이 선정되었습니다. 15만 개가 넘는 '좋아요'를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l05_cnt_00.jpg",
+        "imagenes/l05_cnt_01.jpg",
+        "imagenes/l05_cnt_02.jpg",
+        "imagenes/l05_cnt_03.jpg",
+        "imagenes/l05_cnt_04.jpg",
+        "imagenes/l05_cnt_05.jpg",
+        "imagenes/l05_cnt_06.jpg",
+        "imagenes/l05_cnt_07.jpg",
+        "imagenes/l05_cnt_08.jpg",
+        "imagenes/l05_cnt_09.jpg",
+        "imagenes/l05_cnt_10.jpg",
+        "imagenes/l05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l05_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l05_01.jpg",
+          "dur": 1.137,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_card.jpg",
+          "dur": 2.417,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l04",
@@ -466,7 +3449,115 @@
       "texto_pt": "Número quatro, da Bélgica, Blin., com \"Como conquistar Lucia no GTA 6\". Mais de cento e oitenta e seis mil curtidas.",
       "texto_ar": "المرتبة الرابعة، من بلجيكا، بلين، مع \"كيفية اختراق لوسيا في GTA 6\". أكثر من مائة وستة وثمانين ألف إعجاب.",
       "texto_zh": "第四名来自比利时的Blin.，作品是《如何在GTA 6中攻略Lucia》。超过18.6万个赞。",
-      "texto_ko": "4위는 벨기에의 Blin. 님이 올린 'GTA 6에서 루시아를 공략하는 방법'입니다. 18만 6천 개 이상의 '좋아요'를 받았습니다."
+      "texto_ko": "4위는 벨기에의 Blin. 님이 올린 'GTA 6에서 루시아를 공략하는 방법'입니다. 18만 6천 개 이상의 '좋아요'를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l04_cnt_00.jpg",
+        "imagenes/l04_cnt_01.jpg",
+        "imagenes/l04_cnt_02.jpg",
+        "imagenes/l04_cnt_03.jpg",
+        "imagenes/l04_cnt_04.jpg",
+        "imagenes/l04_cnt_05.jpg",
+        "imagenes/l04_cnt_06.jpg",
+        "imagenes/l04_cnt_07.jpg",
+        "imagenes/l04_cnt_08.jpg",
+        "imagenes/l04_cnt_09.jpg",
+        "imagenes/l04_cnt_10.jpg",
+        "imagenes/l04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l04_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l04_01.jpg",
+          "dur": 1.105,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_card.jpg",
+          "dur": 2.384,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l03",
@@ -478,7 +3569,129 @@
       "texto_pt": "O pódio final. Medalha de bronze, do Reino Unido, Mat Armstrong MK2 e o Bugatti Chiron. Mais de cento e noventa e sete mil curtidas. Três listas, três aparições.",
       "texto_ar": "المنصة النهائية. الميدالية البرونزية، من المملكة المتحدة، مات أرمسترونغ MK2 وسيارة بوغاتي شيرون. أكثر من مائة وسبعة وتسعين ألف إعجاب. ثلاث قوائم، وثلاثة ظهور.",
       "texto_zh": "最终的领奖台。铜牌得主来自英国，Mat Armstrong MK2 和布加迪 Chiron。超过十九万七千个赞。三个榜单，三次上榜。",
-      "texto_ko": "최종 순위입니다. 동메달은 영국 출신의 매트 암스트롱 MK2와 부가티 시론입니다. 197,000개가 넘는 '좋아요'를 받았습니다. 세 개의 순위, 세 번의 등장."
+      "texto_ko": "최종 순위입니다. 동메달은 영국 출신의 매트 암스트롱 MK2와 부가티 시론입니다. 197,000개가 넘는 '좋아요'를 받았습니다. 세 개의 순위, 세 번의 등장.",
+      "ficha_anim": [
+        "imagenes/l03_cnt_00.jpg",
+        "imagenes/l03_cnt_01.jpg",
+        "imagenes/l03_cnt_02.jpg",
+        "imagenes/l03_cnt_03.jpg",
+        "imagenes/l03_cnt_04.jpg",
+        "imagenes/l03_cnt_05.jpg",
+        "imagenes/l03_cnt_06.jpg",
+        "imagenes/l03_cnt_07.jpg",
+        "imagenes/l03_cnt_08.jpg",
+        "imagenes/l03_cnt_09.jpg",
+        "imagenes/l03_cnt_10.jpg",
+        "imagenes/l03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l03_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_03.jpg",
+          "dur": 0.46,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l02",
@@ -490,7 +3703,122 @@
       "texto_pt": "Medalha de prata, PORTIA AI STORY LITH. Lembra do número nove em visualizações? Mais de duzentas e noventa e oito mil curtidas. Tão perto do topo. Mas não exatamente.",
       "texto_ar": "الميدالية الفضية، قصة بورتيا الذكاء الاصطناعي ليتوانيا. هل تتذكرون الرقم التاسع في المشاهدات؟ أكثر من مائتين وثمانية وتسعين ألف إعجاب. قريب جدًا من القمة. ولكن ليس تمامًا.",
       "texto_zh": "银牌，PORTIA AI STORY LITH。还记得浏览量排名第九的视频吗？超过29.8万个赞。离榜首很近了，但还差一点。",
-      "texto_ko": "은메달, PORTIA AI STORY LITH. 조회수 9위가 기억나시나요? 29만 8천 개가 넘는 좋아요. 정상에 정말 가까웠지만, 아쉽게도 1위는 아니었어요."
+      "texto_ko": "은메달, PORTIA AI STORY LITH. 조회수 9위가 기억나시나요? 29만 8천 개가 넘는 좋아요. 정상에 정말 가까웠지만, 아쉽게도 1위는 아니었어요.",
+      "ficha_anim": [
+        "imagenes/l02_cnt_00.jpg",
+        "imagenes/l02_cnt_01.jpg",
+        "imagenes/l02_cnt_02.jpg",
+        "imagenes/l02_cnt_03.jpg",
+        "imagenes/l02_cnt_04.jpg",
+        "imagenes/l02_cnt_05.jpg",
+        "imagenes/l02_cnt_06.jpg",
+        "imagenes/l02_cnt_07.jpg",
+        "imagenes/l02_cnt_08.jpg",
+        "imagenes/l02_cnt_09.jpg",
+        "imagenes/l02_cnt_10.jpg",
+        "imagenes/l02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l02_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_02.jpg",
+          "dur": 1.642,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l01",
@@ -502,7 +3830,129 @@
       "texto_pt": "Tambores, por favor. O vídeo mais curtido da semana na Europa vem da Turquia. Mr Spring, com “O GTA 6 finalmente consertou as portas de carro BLOQUEADAS?”. Mais de trezentos e três mil curtidas. Prata em visualizações, ouro em curtidas.",
       "texto_ar": "قرع الطبول، من فضلكم. الفيديو الأكثر إعجابًا لهذا الأسبوع في أوروبا يأتي من تركيا. السيد سبرينغ، مع \"هل أصلحت GTA 6 أخيرًا أبواب السيارات المحظورة؟\". أكثر من ثلاثمائة وثلاثة آلاف إعجاب. المركز الثاني في المشاهدات، والمركز الأول في الإعجابات.",
       "texto_zh": "请敲响鼓点。本周欧洲点赞数最多的视频来自土耳其。Mr Spring的视频《GTA 6终于修复了被堵住的车门了吗？》。点赞数超过30.3万。观看量排名第二，点赞量排名第一。",
-      "texto_ko": "짜잔! 이번 주 유럽에서 가장 많은 '좋아요'를 받은 동영상은 터키에서 나왔습니다. Mr Spring의 'GTA 6가 드디어 잠긴 차량 문 문제를 해결했나요?'입니다. 30만 3천 개 이상의 좋아요를 받았습니다. 조회수에서는 은메달, 좋아요에서는 금메달을 차지했습니다."
+      "texto_ko": "짜잔! 이번 주 유럽에서 가장 많은 '좋아요'를 받은 동영상은 터키에서 나왔습니다. Mr Spring의 'GTA 6가 드디어 잠긴 차량 문 문제를 해결했나요?'입니다. 30만 3천 개 이상의 좋아요를 받았습니다. 조회수에서는 은메달, 좋아요에서는 금메달을 차지했습니다.",
+      "ficha_anim": [
+        "imagenes/l01_cnt_00.jpg",
+        "imagenes/l01_cnt_01.jpg",
+        "imagenes/l01_cnt_02.jpg",
+        "imagenes/l01_cnt_03.jpg",
+        "imagenes/l01_cnt_04.jpg",
+        "imagenes/l01_cnt_05.jpg",
+        "imagenes/l01_cnt_06.jpg",
+        "imagenes/l01_cnt_07.jpg",
+        "imagenes/l01_cnt_08.jpg",
+        "imagenes/l01_cnt_09.jpg",
+        "imagenes/l01_cnt_10.jpg",
+        "imagenes/l01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_likes.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/l01_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_02.jpg",
+          "dur": 1.582,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_likes.jpg",
+          "dur": 3.361,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "cierre",
@@ -525,5 +3975,11 @@
   "corte_txt": "Cut: Wednesday 00:00, Lima time",
   "publicar_al_terminar": true,
   "publicar_objetivo": "2026-11-29T05:00:00Z",
-  "reemplaza": "canales/top10-redes/proyectos/2026-11-25-en-top10-europa"
+  "reemplaza": "canales/top10-redes/proyectos/2026-11-25-en-top10-europa",
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
