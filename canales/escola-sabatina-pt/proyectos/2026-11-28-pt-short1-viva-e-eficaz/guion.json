@@ -40,7 +40,25 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The only book that reads you while you read it 📖 #shorts",
+        "description": "There is a book that, while you read it, also reads you. Hebrews 4:12 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "ar": {
+        "title": "الكتاب الوحيد الذي يقرأك بينما تقرأه 📖 #shorts",
+        "description": "هناك كتاب، بينما تقرأه، فإنه يقرأك أيضًا. عبرانيين 4: 12 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "唯一一本在您阅读时也会阅读您的书📖 #shorts",
+        "description": "有一本书，当您阅读它时，它也在阅读您。希伯来书 4:12 订阅，即可在 1 分钟内获得更多安息日学堂内容。合成语音旁白。#shorts"
+      },
+      "ko": {
+        "title": "당신이 읽는 동안 당신을 읽는 유일한 책 📖 #shorts",
+        "description": "당신이 읽는 동안 당신을 읽는 책이 있습니다. 히브리서 4:12 1분 안식일학교를 더 보려면 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -51,7 +69,11 @@
       "emocion": "gancho",
       "visual": {
         "query": "old book opening with light glowing from pages"
-      }
+      },
+      "texto_en": "There is a book that, while you read it, also reads you.",
+      "texto_ar": "هناك كتاب، بينما تقرأه، فإنه يقرأك أيضًا.",
+      "texto_zh": "有一本书，当你阅读它时，它也在阅读你。",
+      "texto_ko": "당신이 책을 읽는 동안 책도 당신을 읽는 책이 있습니다."
     },
     {
       "id": "mensaje",
@@ -61,7 +83,17 @@
       "emocion": "agil",
       "visual": {
         "query": "sunbeam through dark room onto open book"
-      }
+      },
+      "texto_en": "This is the verse to memorize from lesson ten, Prophetic Authority and Relevance: Hebrews 4, verse 12. The Word of God is living and active, sharper than any double-edged sword. It penetrates to the very depths and judges the thoughts and intentions of the heart. Notice: The Bible is not a book stuck in the past. It is alive. It speaks today, with the same authority, and reaches what no one else can see. That is why it is the standard for every prophetic message. Memorize Hebrews 4:12, and comment on the \"living Word.\"",
+      "texto_ar": "هذه هي الآية التي يجب حفظها من الدرس العاشر، السلطة والأهمية النبوية: عبرانيين الأصحاح الرابع، الآية الثانية عشر. كلمة الله حية وفعالة، وأكثر حدة من أي سيف ذي حدين. تخترق حتى أعمق الأماكن وتحكم على أفكار القلب ونواياه. لاحظ: الكتاب المقدس ليس كتابًا عالقًا في الماضي. إنه كتاب حي. يتحدث اليوم بنفس السلطة، ويصل إلى ما لا يراه أحد غيره. لهذا السبب فهي معيار كل رسالة نبوية. احفظ رسالة بولس الرسول إلى العبرانيين الأصحاح الرابع، الآية الثانية عشر، وعلق على عبارة \"الكلمة الحية\".",
+      "texto_zh": "这是第十课的背诵经文，主题是“先知的权威和相关性”：希伯来书第四章第十二节。神的话语是活泼的，是有功效的，比一切两刃的剑更快。它能刺入人心深处，鉴察人心思念和意念。请注意：圣经不是一本停留在过去的书。它是活的。它今天以同样的权威说话，并触及其他人看不到的东西。 因此，它是所有预言信息的衡量标准。请背诵希伯来书第四章第十二节，并评论“活泼的道”。",
+      "texto_ko": "10과 '예언의 권위와 관련성'의 암기 성구입니다. 히브리서 4장 12절입니다. 하나님의 말씀은 살아 있고 능력이 있어, 어떤 양날칼보다도 더 날카롭습니다. 그것은 가장 깊은 곳까지 파고들어 마음의 생각과 의도를 판단합니다. 주의하십시오. 성경은 과거에 머물러 있는 책이 아닙니다. 성경은 살아 있습니다. 오늘날에도 동일한 권위를 가지고 말씀하시며 다른 누구도 보지 못하는 것을 꿰뚫어 보십니다. 그러므로 그것은 모든 예언적 메시지의 척도입니다. 히브리서 4장 12절을 암기하고 \"살아 있는 말씀\"에 대해 이야기해 보세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
