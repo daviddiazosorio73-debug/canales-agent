@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "The man who closed the city gates 🚪 #shorts",
+        "description": "Nehemiah ordered the gates of Jerusalem to be closed before the Sabbath. The marketplace does not rule on God's day. (Nehemiah 13:15–21, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "O homem que fechou os portões da cidade 🚪 #shorts",
+        "description": "Neemias ordenou que os portões de Jerusalém fossem fechados antes do sábado. O mercado não manda no dia de Deus. (Neemias 13:15-21, paráfrase RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "الرجل الذي أغلق أبواب المدينة 🚪 #shorts",
+        "description": "أمر نحميا بإغلاق أبواب أورشليم قبل يوم السبت. السوق ليس له سيطرة في يوم الله. (نحميا 13: 15-21، شرح RVR1960) اشترك في مايوردوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "关闭城门的人🚪 #shorts",
+        "description": "尼希米下令在安息日之前关闭耶路撒冷城门。在上帝的日子，市场没有主导权。（尼希米记 13:15-21，RVR1960 译本意译）订阅 MayorDom · 圣经管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "성문을 닫은 남자 🚪 #shorts",
+        "description": "느헤미야는 안식일 전에 예루살렘 성문을 닫으라고 명령했습니다. 시장은 하나님의 날을 지배하지 않습니다. (느헤미야 13:15-21, RVR1960 패러프레이즈) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성으로 들려드리는 이야기. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "ancient city gate closed"
-      }
+      },
+      "texto_en": "A ruler ordered the gates of his city to be closed. And the merchants were left outside.",
+      "texto_pt": "Um governante ordenou que os portões de sua cidade fossem fechados. E os comerciantes ficaram do lado de fora.",
+      "texto_ar": "أمر حاكم بإغلاق أبواب مدينته. وبقي التجار في الخارج.",
+      "texto_zh": "一位统治者下令关闭城门。商人们被挡在了城外。",
+      "texto_ko": "한 통치자가 성문을 닫으라고 명령했습니다. 그리고 상인들은 밖에서 기다렸습니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "calido",
       "visual": {
         "query": "peaceful morning sunlight window"
-      }
+      },
+      "texto_en": "It is Nehemiah. In chapter thirteen, he saw that on the Sabbath, people were treading winepresses, carrying goods, and that merchants were selling fish in Jerusalem. So he ordered the gates to be closed before the Sabbath began. Some merchants slept outside the wall, and he warned them not to come back. The Sabbath is a day when the market does not rule. A day to remember that who we are does not depend on what we buy or sell. Happy Sabbath.",
+      "texto_pt": "É Neemias. No capítulo treze, ele viu que, no sábado, as pessoas pisavam lagares, carregavam mercadorias e que alguns comerciantes vendiam peixe em Jerusalém. Então, ele ordenou que as portas fossem fechadas antes do início do sábado. Alguns comerciantes dormiram do lado de fora da muralha, e ele os advertiu para não voltarem. O sábado é um dia em que o mercado não manda. Um dia para lembrar que o que somos não depende do que compramos ou vendemos. Feliz sábado.",
+      "texto_ar": "إنه نحميا. في الإصحاح الثالث عشر، رأى أن الناس في يوم السبت كانوا يدوسون في المعاصر ويحملون البضائع، وأن بعض التجار كانوا يبيعون السمك في أورشليم. ثم أمر بإغلاق الأبواب قبل بدء يوم السبت. نام بعض التجار خارج السور، فحذرهم من العودة. السبت هو يوم لا يسود فيه السوق. يوم نتذكر فيه أن ما نحن عليه لا يعتمد على ما نشتريه أو نبيعه. سبت سعيد.",
+      "texto_zh": "这是尼希米。在第十三章中，他看到人们在安息日踩踏榨酒池、装载货物，还有一些商人在耶路撒冷卖鱼。于是，他下令在安息日开始前关闭城门。有些商人睡在城墙外，他警告他们不要再来。安息日是市场不占主导地位的一天。这一天是为了提醒我们，我们的身份并不取决于我们买卖的东西。安息日快乐。",
+      "texto_ko": "느헤미야입니다. 13장에서 그는 안식일에 사람들이 포도주 틀을 밟고, 물건을 나르고, 상인들이 예루살렘에서 생선을 팔고 있는 것을 보았습니다. 그래서 그는 안식일이 시작되기 전에 성문을 닫으라고 명령했습니다. 몇몇 상인들이 성벽 밖에서 잠을 잤고, 느헤미야는 그들에게 다시는 오지 말라고 경고했습니다. 안식일은 시장이 지배하지 않는 날입니다. 우리가 누구인지는 우리가 사고파는 것에 달려 있지 않음을 기억하는 날입니다. 즐거운 안식일 되세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
