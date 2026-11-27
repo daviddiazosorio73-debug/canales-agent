@@ -503,6 +503,8 @@ def guion_edicion(ed, cats, fin, semana_iso, siguiente, saludos=None):
     tz = ZoneInfo(ed.get("tz", "UTC"))
     dom = fin.astimezone(tz).date() + timedelta(days=1)
     publicar = datetime(dom.year, dom.month, dom.day, 6, 0, tzinfo=tz).astimezone(timezone.utc)
+    if ed["id"] == "mundial":  # cierra la vuelta al mundo: 30 min después de América
+        publicar += timedelta(minutes=30)
     locs = {}
     for l2 in ed["locs"]:
         c2 = ed["nombre"].get(l2, cont)

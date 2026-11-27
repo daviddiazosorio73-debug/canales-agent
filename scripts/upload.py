@@ -71,8 +71,8 @@ def main():
         if previa:
             pg = Path(__file__).resolve().parent.parent / previa / "guion.json"
             pp = load_json(pg).get("seo", {}).get("publicar_en") if (pg.parent / "publicado.json").exists() else None
-            cuando = max(cuando, datetime.fromisoformat(pp.replace("Z", "+00:00")) + timedelta(minutes=30)) if pp \
-                else cuando + timedelta(minutes=90)
+            if pp:  # si la previa aún no figura subida en esta copia, manda publicar_objetivo (ya va 30 min después)
+                cuando = max(cuando, datetime.fromisoformat(pp.replace("Z", "+00:00")) + timedelta(minutes=30))
         m["publicar_en"] = cuando.strftime("%Y-%m-%dT%H:%M:%SZ")
         g.setdefault("seo", {})["publicar_en"] = m["publicar_en"]
         save_json(g, proj / "guion.json")

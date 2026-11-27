@@ -1,0 +1,21 @@
+name: Cambiar hora programada de videos subidos
+on:
+  push:
+    paths: [".github/fijar_hora.json"]
+  workflow_dispatch: {}
+permissions:
+  contents: read
+env:
+  GOOGLE_CLIENT_ID: ${{ secrets.GOOGLE_CLIENT_ID }}
+  GOOGLE_CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+  REFRESH_TOKEN_TOP10: ${{ secrets.REFRESH_TOKEN_TOP10 }}
+jobs:
+  hora:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -q requests google-api-python-client google-auth-oauthlib
+      - run: |
+          python -c "import json,sys;sys.path.insert(0,'scripts');from runner import token_file;c=json.load(open('.github/fijar_hora.json'))['canal'];token_file(c,json.load(open('canales.json'))[c])"
+          python scripts/fijar_hora.py
