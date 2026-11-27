@@ -1,0 +1,117 @@
+{
+ "refrigeracion": [
+  {
+   "archivo": "refrigeracion_1.jpg",
+   "marca": "Dakota",
+   "categoria": "Congelador exhibidor",
+   "nombre": "Congelador exhibidor 6 pozas 320 L M/Embraco",
+   "codigo": "DK-320B"
+  },
+  {
+   "archivo": "refrigeracion_2.jpg",
+   "marca": "Dakota",
+   "categoria": "Congelador exhibidor",
+   "nombre": "Congelador exhibidor 9 pozas 420 L M/Embraco",
+   "codigo": "DK-420B"
+  },
+  {
+   "archivo": "refrigeracion_3.jpg",
+   "marca": "Dakota",
+   "categoria": "Congelador exhibidor",
+   "nombre": "Congelador exhibidor 12 pozas 520 L M/Embraco",
+   "codigo": "DK-520B"
+  }
+ ],
+ "ventus": [
+  {
+   "archivo": "ventus_1.jpg",
+   "marca": "Ventus",
+   "categoria": "Procesador de alimentos",
+   "nombre": "Plast de plástico para procesador de alimentos",
+   "codigo": "DISCO"
+  },
+  {
+   "archivo": "ventus_2.jpg",
+   "marca": "Ventus",
+   "categoria": "Procesador de alimentos",
+   "nombre": "Proc para procesador de alimentos",
+   "codigo": "DISCO"
+  },
+  {
+   "archivo": "ventus_3.jpg",
+   "marca": "Ventus",
+   "categoria": "Extractor de frutas",
+   "nombre": "Cuchilla P/Extractor",
+   "codigo": "CUCHILLA"
+  }
+ ],
+ "ilumi": [
+  {
+   "archivo": "ilumi_1.jpg",
+   "marca": "Ilumi",
+   "categoria": "Línea neutra",
+   "nombre": "Ventilador de pedestal",
+   "codigo": "IL-16"
+  },
+  {
+   "archivo": "ilumi_2.jpg",
+   "marca": "Ilumi",
+   "categoria": "Línea neutra",
+   "nombre": "Frigobar 80 L 2 Puertas",
+   "codigo": "RE-80DG"
+  },
+  {
+   "archivo": "ilumi_3.jpg",
+   "marca": "Ilumi",
+   "categoria": "Línea neutra",
+   "nombre": "Refri negra/roja 95 L",
+   "codigo": "RE-95BK"
+  }
+ ],
+ "dakota": [
+  {
+   "archivo": "dakota_1.jpg",
+   "marca": "Dakota",
+   "categoria": "Máquinas de helado soft",
+   "nombre": "Máquina de helado soft sobre mesa 25 L Preecooling, bomba de aire.",
+   "codigo": "DK-230M"
+  },
+  {
+   "archivo": "dakota_2.jpg",
+   "marca": "Dakota",
+   "categoria": "Máquinas de helado soft",
+   "nombre": "Máquina de helado sobre mesa 25 L Preecooling, bomba de aire.",
+   "codigo": "DK-235M"
+  },
+  {
+   "archivo": "dakota_3.jpg",
+   "marca": "Dakota",
+   "categoria": "Máquinas de helado soft",
+   "nombre": "Máquina de helado Soft 25 L Bomba de aire sin preecooling",
+   "codigo": "DK-310"
+  }
+ ],
+ "maquinas": [
+  {
+   "archivo": "maquinas_1.jpg",
+   "marca": "Dakota",
+   "categoria": "Máquinas cremoladeras",
+   "nombre": "Cremoladera refresquera 3 tolvas x 12 L M/Embraco",
+   "codigo": "RDK-123"
+  },
+  {
+   "archivo": "maquinas_2.jpg",
+   "marca": "Dakota",
+   "categoria": "Máquinas cremoladeras",
+   "nombre": "Cremoladera refresquera 3 tolvas x 15 L M/Embraco",
+   "codigo": "DK-315"
+  },
+  {
+   "archivo": "maquinas_3.jpg",
+   "marca": "Dakota",
+   "categoria": "Máquinas cremoladeras",
+   "nombre": "Cremoladera refresquera 2 tolvas x 12 L M/Embraco",
+   "codigo": "DK-12X2B"
+  }
+ ]
+}
