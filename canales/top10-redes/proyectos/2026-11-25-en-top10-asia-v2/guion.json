@@ -130,7 +130,122 @@
       "texto_pt": "Primeira lista: os dez mais vistos. Abrindo a contagem regressiva no décimo lugar, do Japão, Saito, com \"Bottle Flip\". Um Short de quinze segundos com mais de doze vírgula seis milhões de visualizações. E isso é apenas o ingresso para entrar na Ásia.",
       "texto_ar": "القائمة الأولى: أكثر عشرة مقاطع مشاهدة. نبدأ العد التنازلي بالمرتبة العاشرة، من اليابان، سايتو، مع \"قلب الزجاجة\". فيديو قصير مدته خمس عشرة ثانية حقق أكثر من اثني عشر فاصلة ستة مليون مشاهدة. وهذه مجرد تذكرة دخول إلى آسيا.",
       "texto_zh": "第一个榜单：观看次数最多的十个视频。倒数排名第十的是来自日本的Saito，作品是《瓶子翻转》。这是一条15秒的短视频，播放量超过1260万次。这只是亚洲的入场券。",
-      "texto_ko": "첫 번째 목록: 조회수 상위 10개. 10위부터 카운트다운을 시작합니다. 일본의 사이토 님이 '병 뒤집기'로 10위에 올랐습니다. 15초 길이의 쇼츠 동영상으로 조회수가 1,260만 회를 넘었습니다. 그리고 이건 아시아에서 10위 안에 들기 위한 최소한의 조건일 뿐입니다."
+      "texto_ko": "첫 번째 목록: 조회수 상위 10개. 10위부터 카운트다운을 시작합니다. 일본의 사이토 님이 '병 뒤집기'로 10위에 올랐습니다. 15초 길이의 쇼츠 동영상으로 조회수가 1,260만 회를 넘었습니다. 그리고 이건 아시아에서 10위 안에 들기 위한 최소한의 조건일 뿐입니다.",
+      "ficha_anim": [
+        "imagenes/v10_cnt_00.jpg",
+        "imagenes/v10_cnt_01.jpg",
+        "imagenes/v10_cnt_02.jpg",
+        "imagenes/v10_cnt_03.jpg",
+        "imagenes/v10_cnt_04.jpg",
+        "imagenes/v10_cnt_05.jpg",
+        "imagenes/v10_cnt_06.jpg",
+        "imagenes/v10_cnt_07.jpg",
+        "imagenes/v10_cnt_08.jpg",
+        "imagenes/v10_cnt_09.jpg",
+        "imagenes/v10_cnt_10.jpg",
+        "imagenes/v10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v10_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v10_card.jpg",
+          "dur": 3.165,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v09",
@@ -142,7 +257,122 @@
       "texto_pt": "Número nove, da Indonésia, Cici e Mas Bule, com \"BTS Bikin Trend Boom Clap\". Um Short de quarenta e oito segundos e mais de treze vírgula cinco milhões de visualizações.",
       "texto_ar": "المرتبة التاسعة، من إندونيسيا، سيسي وماس بولي، مع \"BTS Bikin Trend Boom Clap\". فيديو قصير مدته ثمانية وأربعون ثانية، وحقق أكثر من ثلاثة عشر فاصلة خمسة ملايين مشاهدة.",
       "texto_zh": "第九名，来自印尼的 Cici 和 Mas Bule，作品是《BTS Bikin Trend Boom Clap》。这是一部 48 秒的短视频，播放量超过 1350 万次。",
-      "texto_ko": "9위는 인도네시아의 시시와 마스 불레가 'BTS Bikin Trend Boom Clap'으로 차지했습니다. 48초 길이의 쇼츠 영상으로, 조회수가 1,350만 회를 넘었습니다."
+      "texto_ko": "9위는 인도네시아의 시시와 마스 불레가 'BTS Bikin Trend Boom Clap'으로 차지했습니다. 48초 길이의 쇼츠 영상으로, 조회수가 1,350만 회를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/v09_cnt_00.jpg",
+        "imagenes/v09_cnt_01.jpg",
+        "imagenes/v09_cnt_02.jpg",
+        "imagenes/v09_cnt_03.jpg",
+        "imagenes/v09_cnt_04.jpg",
+        "imagenes/v09_cnt_05.jpg",
+        "imagenes/v09_cnt_06.jpg",
+        "imagenes/v09_cnt_07.jpg",
+        "imagenes/v09_cnt_08.jpg",
+        "imagenes/v09_cnt_09.jpg",
+        "imagenes/v09_cnt_10.jpg",
+        "imagenes/v09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v09_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v09_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v09_02.jpg",
+          "dur": 0.639,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v09_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v08",
@@ -154,7 +384,129 @@
       "texto_pt": "Número oito, da Índia, Neetu Bisht, com uma pegadinha de família. Com menos de um minuto e cinquenta segundos. Mais de 13,7 milhões de visualizações, e foi publicado no último dia da semana. Imaginem onde vai parar.",
       "texto_ar": "المرتبة الثامنة، من الهند، نيتو بيشت، مع مقلب عائلي مدته أقل من دقيقة وخمسين ثانية. أكثر من ثلاثة عشر فاصلة سبعة مليون مشاهدة، وتم نشره في آخر يوم من الأسبوع. تخيل أين سينتهي به الأمر.",
       "texto_zh": "第八名，来自印度的Neetu Bisht，带来一个家庭恶作剧视频，时长不到一分五十秒。视频在当周的最后一天发布，观看量超过1370万次。想象一下它最终会达到什么程度。",
-      "texto_ko": "8위는 인도 출신의 니투 비슈트(Neetu Bisht)님이 올린 가족 장난 영상입니다. 1분 50초가 채 안 되는 짧은 영상이죠. 1,370만 회 이상의 조회수를 기록했으며, 일주일의 마지막 날에 게시되었습니다. 어디까지 올라갈지 상상해 보세요."
+      "texto_ko": "8위는 인도 출신의 니투 비슈트(Neetu Bisht)님이 올린 가족 장난 영상입니다. 1분 50초가 채 안 되는 짧은 영상이죠. 1,370만 회 이상의 조회수를 기록했으며, 일주일의 마지막 날에 게시되었습니다. 어디까지 올라갈지 상상해 보세요.",
+      "ficha_anim": [
+        "imagenes/v08_cnt_00.jpg",
+        "imagenes/v08_cnt_01.jpg",
+        "imagenes/v08_cnt_02.jpg",
+        "imagenes/v08_cnt_03.jpg",
+        "imagenes/v08_cnt_04.jpg",
+        "imagenes/v08_cnt_05.jpg",
+        "imagenes/v08_cnt_06.jpg",
+        "imagenes/v08_cnt_07.jpg",
+        "imagenes/v08_cnt_08.jpg",
+        "imagenes/v08_cnt_09.jpg",
+        "imagenes/v08_cnt_10.jpg",
+        "imagenes/v08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v08_09.jpg",
+          "dur": 2.033,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_01.jpg",
+          "dur": 2.033,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_02.jpg",
+          "dur": 2.033,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_03.jpg",
+          "dur": 2.033,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v07",
@@ -166,7 +518,129 @@
       "texto_pt": "Número sete, dos Emirados Árabes Unidos, Dami. Pai versus criança pequena versus gato: quem fez a melhor impressão? Dezesseis segundos, mais de 15,2 milhões de visualizações, de um canal com cerca de 5.700 inscritos. O azarão da semana.",
       "texto_ar": "المرتبة السابعة، من الإمارات العربية المتحدة، دامي. الأب مقابل الطفل الصغير مقابل القط: من ترك أفضل بصمة؟ ستة عشر ثانية، وأكثر من خمسة عشر فاصلة اثنين مليون مشاهدة، من قناة تضم حوالي خمسة آلاف وسبعمائة مشترك. المرشح الأقل حظًا هذا الأسبوع.",
       "texto_zh": "第七名，来自阿拉伯联合酋长国的dami。爸爸对幼儿对猫：谁留下的脚印最好看？16秒，超过1520万次观看，来自一个约有5700名订阅者的频道。本周的黑马。",
-      "texto_ko": "7위는 아랍에미리트의 다미입니다. 아빠 대 유아 대 고양이: 누가 가장 멋진 발자국을 남겼을까요? 16초 길이의 동영상으로, 약 5,700명의 구독자를 보유한 채널에서 조회수 1,520만 회 이상을 기록했습니다. 이번 주 언더독입니다."
+      "texto_ko": "7위는 아랍에미리트의 다미입니다. 아빠 대 유아 대 고양이: 누가 가장 멋진 발자국을 남겼을까요? 16초 길이의 동영상으로, 약 5,700명의 구독자를 보유한 채널에서 조회수 1,520만 회 이상을 기록했습니다. 이번 주 언더독입니다.",
+      "ficha_anim": [
+        "imagenes/v07_cnt_00.jpg",
+        "imagenes/v07_cnt_01.jpg",
+        "imagenes/v07_cnt_02.jpg",
+        "imagenes/v07_cnt_03.jpg",
+        "imagenes/v07_cnt_04.jpg",
+        "imagenes/v07_cnt_05.jpg",
+        "imagenes/v07_cnt_06.jpg",
+        "imagenes/v07_cnt_07.jpg",
+        "imagenes/v07_cnt_08.jpg",
+        "imagenes/v07_cnt_09.jpg",
+        "imagenes/v07_cnt_10.jpg",
+        "imagenes/v07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v07_09.jpg",
+          "dur": 2.262,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v07_01.jpg",
+          "dur": 2.262,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v07_02.jpg",
+          "dur": 2.262,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v07_03.jpg",
+          "dur": 2.261,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v07_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v06",
@@ -178,7 +652,122 @@
       "texto_pt": "Número seis, da Coreia do Sul, K덕톡, com um Short de quarenta segundos sobre a apresentação de CL no MAMA. Mais de 15,8 milhões de visualizações, de um canal com cerca de 53 mil inscritos.",
       "texto_ar": "المرتبة السادسة، من كوريا الجنوبية، K덕톡، مع فيديو قصير مدته أربعون ثانية عن عرض CL في حفل MAMA. أكثر من خمسة عشر فاصلة ثمانية مليون مشاهدة، من قناة تضم حوالي ثلاثة وخمسين ألف مشترك.",
       "texto_zh": "第六名，来自韩国的K덕톡，发布了一条时长42秒的短视频，内容是CL在MAMA舞台上的表演。该视频的观看次数超过1580万次，而该频道的订阅者人数约为5.3万。",
-      "texto_ko": "6위는 한국의 K덕톡으로, CL의 MAMA 무대를 다룬 42초짜리 쇼츠입니다. 약 5만 3천 명의 구독자를 보유한 채널에서 1,580만 회 이상의 조회수를 기록했습니다."
+      "texto_ko": "6위는 한국의 K덕톡으로, CL의 MAMA 무대를 다룬 42초짜리 쇼츠입니다. 약 5만 3천 명의 구독자를 보유한 채널에서 1,580만 회 이상의 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/v06_cnt_00.jpg",
+        "imagenes/v06_cnt_01.jpg",
+        "imagenes/v06_cnt_02.jpg",
+        "imagenes/v06_cnt_03.jpg",
+        "imagenes/v06_cnt_04.jpg",
+        "imagenes/v06_cnt_05.jpg",
+        "imagenes/v06_cnt_06.jpg",
+        "imagenes/v06_cnt_07.jpg",
+        "imagenes/v06_cnt_08.jpg",
+        "imagenes/v06_cnt_09.jpg",
+        "imagenes/v06_cnt_10.jpg",
+        "imagenes/v06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v06_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v06_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v06_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v06_card.jpg",
+          "dur": 3.157,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v05",
@@ -190,7 +779,129 @@
       "texto_pt": "Número cinco, da Indonésia, Nadia Omara, com a parte quatrocentos e cinco da sua série, filmada em Sumatra Ocidental. Com mais de vinte e nove minutos de duração e mais de dezesseis vírgula três milhões de visualizações. Lembrem-se desse nome. Vocês vão ouvi-lo de novo.",
       "texto_ar": "المرتبة الخامسة، من إندونيسيا، نادية أومارا، مع الجزء الأربعمائة والخامس من سلسلتها، الذي صُوّر في غرب سومطرة. مدة الفيديو أكثر من تسعة وعشرين دقيقة، وحقق أكثر من ستة عشر فاصلة ثلاثة مليون مشاهدة. تذكروا هذا الاسم. ستسمعونه مرة أخرى.",
       "texto_zh": "第五位，来自印尼的Nadia Omara，带来的是她在西苏门答腊拍摄的系列作品的第405集。时长超过29分钟，观看次数超过1630万次。记住这个名字。你还会再次听到它。",
-      "texto_ko": "5위는 인도네시아의 나디아 오마라입니다. 서부 수마트라에서 촬영한 시리즈의 405번째 에피소드입니다. 29분이 넘는 길이의 영상으로, 조회수가 1,630만 회를 넘었습니다. 이 이름을 기억하세요. 다시 듣게 되실 겁니다."
+      "texto_ko": "5위는 인도네시아의 나디아 오마라입니다. 서부 수마트라에서 촬영한 시리즈의 405번째 에피소드입니다. 29분이 넘는 길이의 영상으로, 조회수가 1,630만 회를 넘었습니다. 이 이름을 기억하세요. 다시 듣게 되실 겁니다.",
+      "ficha_anim": [
+        "imagenes/v05_cnt_00.jpg",
+        "imagenes/v05_cnt_01.jpg",
+        "imagenes/v05_cnt_02.jpg",
+        "imagenes/v05_cnt_03.jpg",
+        "imagenes/v05_cnt_04.jpg",
+        "imagenes/v05_cnt_05.jpg",
+        "imagenes/v05_cnt_06.jpg",
+        "imagenes/v05_cnt_07.jpg",
+        "imagenes/v05_cnt_08.jpg",
+        "imagenes/v05_cnt_09.jpg",
+        "imagenes/v05_cnt_10.jpg",
+        "imagenes/v05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v05_09.jpg",
+          "dur": 2.006,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_01.jpg",
+          "dur": 2.006,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_02.jpg",
+          "dur": 2.006,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_03.jpg",
+          "dur": 2.006,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v05_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v04",
@@ -202,7 +913,122 @@
       "texto_pt": "Número quatro, da Coreia do Sul, 가방고리고도리, com um Short de trinta e cinco segundos. Mais de 17,6 milhões de visualizações, de um canal com cerca de 172 mil inscritos.",
       "texto_ar": "المرشح رقم أربعة، من كوريا الجنوبية، 가방고리고도리، مع فيديو قصير مدته خمس وثلاثون ثانية. أكثر من سبعة عشر فاصلة ستة ملايين مشاهدة، من قناة تضم حوالي مائة واثنتين وسبعين ألف مشترك.",
       "texto_zh": "第四名，来自韩国的가방고리고도리，作品时长35秒。该视频的观看次数超过1760万次，发布该视频的频道拥有约17.2万订阅者。",
-      "texto_ko": "4번은 한국의 가방고리고도리 님으로, 35초짜리 쇼츠를 제출하셨습니다. 약 17만 2천 명의 구독자를 보유한 채널에서 1,760만 회 이상의 조회수를 기록했습니다."
+      "texto_ko": "4번은 한국의 가방고리고도리 님으로, 35초짜리 쇼츠를 제출하셨습니다. 약 17만 2천 명의 구독자를 보유한 채널에서 1,760만 회 이상의 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/v04_cnt_00.jpg",
+        "imagenes/v04_cnt_01.jpg",
+        "imagenes/v04_cnt_02.jpg",
+        "imagenes/v04_cnt_03.jpg",
+        "imagenes/v04_cnt_04.jpg",
+        "imagenes/v04_cnt_05.jpg",
+        "imagenes/v04_cnt_06.jpg",
+        "imagenes/v04_cnt_07.jpg",
+        "imagenes/v04_cnt_08.jpg",
+        "imagenes/v04_cnt_09.jpg",
+        "imagenes/v04_cnt_10.jpg",
+        "imagenes/v04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v04_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v04_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v04_02.jpg",
+          "dur": 1.576,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v04_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v03",
@@ -215,7 +1041,122 @@
       "texto_pt": "E agora, o pódio. Medalha de bronze, da Coreia do Sul, RESCENE, com \"2026 MAMA\". Dez segundos. Apenas dez segundos e mais de 19,8 milhões de visualizações.",
       "texto_ar": "والآن، المنصة. الميدالية البرونزية، من كوريا الجنوبية، RESCENE، مع \"2026 MAMA\". عشر ثوانٍ. عشر ثوانٍ فقط، وأكثر من تسعة عشر فاصلة ثمانية مليون مشاهدة.",
       "texto_zh": "现在，让我们看看领奖台。铜牌，来自韩国的 RESCENE，作品《2026 MAMA》。十秒钟。短短十秒钟，就获得了超过 1980 万次观看。",
-      "texto_ko": "이제 시상대에 오르실 차례입니다. 동메달은 한국의 RESCENE, '2026 MAMA'입니다. 10초입니다. 단 10초 만에 1,980만 회 이상의 조회수를 기록했습니다."
+      "texto_ko": "이제 시상대에 오르실 차례입니다. 동메달은 한국의 RESCENE, '2026 MAMA'입니다. 10초입니다. 단 10초 만에 1,980만 회 이상의 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/v03_cnt_00.jpg",
+        "imagenes/v03_cnt_01.jpg",
+        "imagenes/v03_cnt_02.jpg",
+        "imagenes/v03_cnt_03.jpg",
+        "imagenes/v03_cnt_04.jpg",
+        "imagenes/v03_cnt_05.jpg",
+        "imagenes/v03_cnt_06.jpg",
+        "imagenes/v03_cnt_07.jpg",
+        "imagenes/v03_cnt_08.jpg",
+        "imagenes/v03_cnt_09.jpg",
+        "imagenes/v03_cnt_10.jpg",
+        "imagenes/v03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v03_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_02.jpg",
+          "dur": 1.221,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v02",
@@ -227,7 +1168,129 @@
       "texto_pt": "Medalha de prata, da Índia, Maddock Films, com um trailer de um minuto e quarenta e um segundos com Shraddha Kapoor, para um filme que estreia nos cinemas no dia 4 de dezembro. Mais de 27,2 milhões de visualizações. Impressionante. Mas não é o suficiente.",
       "texto_ar": "الميدالية الفضية، من الهند، مادوك فيلمز، مع إعلان ترويجي مدته دقيقة وواحدة وأربعون ثانية من بطولة شرaddha كابور، لفيلم في دور السينما في الرابع من ديسمبر. أكثر من سبعة وعشرين فاصلة اثنين مليون مشاهدة. رقم هائل. لكنه ليس كافيًا.",
       "texto_zh": "银奖，来自印度的Maddock Films，时长一分四十一秒的宣传片，由施拉达·卡普尔主演，该片将于12月4日在影院上映。观看量超过2720万次。成绩斐然，但还不够。",
-      "texto_ko": "은메달은 인도 Maddock Films의 작품으로, 1분 41초 분량의 예고편에 슈라다 카푸르가 출연하며, 12월 4일 개봉 예정인 영화입니다. 조회수가 2,720만 회를 넘었습니다. 엄청난 수치죠. 하지만 충분하지는 않습니다."
+      "texto_ko": "은메달은 인도 Maddock Films의 작품으로, 1분 41초 분량의 예고편에 슈라다 카푸르가 출연하며, 12월 4일 개봉 예정인 영화입니다. 조회수가 2,720만 회를 넘었습니다. 엄청난 수치죠. 하지만 충분하지는 않습니다.",
+      "ficha_anim": [
+        "imagenes/v02_cnt_00.jpg",
+        "imagenes/v02_cnt_01.jpg",
+        "imagenes/v02_cnt_02.jpg",
+        "imagenes/v02_cnt_03.jpg",
+        "imagenes/v02_cnt_04.jpg",
+        "imagenes/v02_cnt_05.jpg",
+        "imagenes/v02_cnt_06.jpg",
+        "imagenes/v02_cnt_07.jpg",
+        "imagenes/v02_cnt_08.jpg",
+        "imagenes/v02_cnt_09.jpg",
+        "imagenes/v02_cnt_10.jpg",
+        "imagenes/v02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/v02_09.jpg",
+          "dur": 2.14,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_01.jpg",
+          "dur": 2.14,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_02.jpg",
+          "dur": 2.14,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_03.jpg",
+          "dur": 2.139,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "v01",
@@ -239,7 +1302,136 @@
       "texto_pt": "Tambores, por favor. O vídeo mais visto da semana na Ásia vem da Índia. Techno Gamerz, com \"MEU PRIMEIRO DIA EM VICE CITY\", gameplay de GTA 6, parte 1. Com mais de duas horas de duração e mais de 36 milhões de visualizações. Trinta e seis milhões. E esta é apenas a primeira lista.",
       "texto_ar": "قرع الطبول، من فضلكم. الفيديو الأكثر مشاهدة لهذا الأسبوع في آسيا يأتي من الهند. تكنو غيمرز، مع \"يومي الأول في فايس سيتي\"، الجزء الأول من لعبة GTA 6. أكثر من ساعتين، وأكثر من ستة وثلاثين مليون مشاهدة. ستة وثلاثون مليونًا. وهذه ليست سوى القائمة الأولى.",
       "texto_zh": "请敲响鼓点。本周亚洲观看次数最多的视频来自印度。Techno Gamerz 的《我在罪恶都市的第一天》，GTA 6 游戏演示第一部分。时长超过两小时，观看次数超过3600万。3600 万。这还只是第一个榜单。",
-      "texto_ko": "북소리 효과를 부탁드립니다. 이번 주 아시아에서 가장 많이 본 동영상은 인도에서 나왔습니다. Techno Gamerz의 'MY FIRST DAY IN VICE CITY', GTA 6 게임플레이 1부입니다. 2시간이 넘는 길이의 영상으로, 조회수가 3,600만 회를 돌파했습니다. 3,600만 회입니다. 그리고 이건 첫 번째 순위일 뿐이에요."
+      "texto_ko": "북소리 효과를 부탁드립니다. 이번 주 아시아에서 가장 많이 본 동영상은 인도에서 나왔습니다. Techno Gamerz의 'MY FIRST DAY IN VICE CITY', GTA 6 게임플레이 1부입니다. 2시간이 넘는 길이의 영상으로, 조회수가 3,600만 회를 돌파했습니다. 3,600만 회입니다. 그리고 이건 첫 번째 순위일 뿐이에요.",
+      "ficha_anim": [
+        "imagenes/v01_cnt_00.jpg",
+        "imagenes/v01_cnt_01.jpg",
+        "imagenes/v01_cnt_02.jpg",
+        "imagenes/v01_cnt_03.jpg",
+        "imagenes/v01_cnt_04.jpg",
+        "imagenes/v01_cnt_05.jpg",
+        "imagenes/v01_cnt_06.jpg",
+        "imagenes/v01_cnt_07.jpg",
+        "imagenes/v01_cnt_08.jpg",
+        "imagenes/v01_cnt_09.jpg",
+        "imagenes/v01_cnt_10.jpg",
+        "imagenes/v01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_views.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/v01_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_03.jpg",
+          "dur": 1.554,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/v01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/v01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_views.jpg",
+          "dur": 5.334,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c10",
@@ -252,7 +1444,122 @@
       "texto_pt": "Segunda lista: a conversa. Os dez vídeos mais comentados. Em décimo lugar, لانا و رورو, com uma aventura no Roblox de mais de vinte e oito minutos. Mais de cinco mil e quatrocentos comentários.",
       "texto_ar": "القائمة الثانية: المحادثة. مقاطع الفيديو العشرة الأكثر تعليقًا. في المرتبة العاشرة، لانا و رورو، مع مغامرة روبلوكس تزيد مدتها عن ثمانية وعشرين دقيقة. أكثر من خمسة آلاف وأربعمائة تعليق.",
       "texto_zh": "第二个榜单：讨论度。评论数最多的十个视频。排名第十的是لانا و رورو，发布了一段超过28分钟的Roblox冒险视频。超过5400条评论。",
-      "texto_ko": "두 번째 목록: 대화. 댓글이 가장 많이 달린 동영상 10개. 10위는 28분이 넘는 Roblox 어드벤처를 선보인 'لانا و رورو'입니다. 5,400개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "두 번째 목록: 대화. 댓글이 가장 많이 달린 동영상 10개. 10위는 28분이 넘는 Roblox 어드벤처를 선보인 'لانا و رورو'입니다. 5,400개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c10_cnt_00.jpg",
+        "imagenes/c10_cnt_01.jpg",
+        "imagenes/c10_cnt_02.jpg",
+        "imagenes/c10_cnt_03.jpg",
+        "imagenes/c10_cnt_04.jpg",
+        "imagenes/c10_cnt_05.jpg",
+        "imagenes/c10_cnt_06.jpg",
+        "imagenes/c10_cnt_07.jpg",
+        "imagenes/c10_cnt_08.jpg",
+        "imagenes/c10_cnt_09.jpg",
+        "imagenes/c10_cnt_10.jpg",
+        "imagenes/c10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c10_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c10_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c10_02.jpg",
+          "dur": 1.687,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c09",
@@ -264,7 +1571,115 @@
       "texto_pt": "Em nono lugar, da Coreia do Sul, o T1, com “Welcome Back Home, Zeus”. Mais de seis mil e quatrocentos comentários no último dia da semana.",
       "texto_ar": "المرتبة التاسعة، من كوريا الجنوبية، تي 1، مع \"مرحبًا بعودتك إلى الوطن، زيوس\". أكثر من ستة آلاف وأربعمائة تعليق، في آخر يوم من الأسبوع.",
       "texto_zh": "第九名，来自韩国的 T1，视频名为“欢迎回家，Zeus”。一周的最后一天，评论数超过 6400 条。",
-      "texto_ko": "9위는 한국의 T1, 'Welcome Back Home, Zeus'입니다. 주말 마지막 날에 6,400개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "9위는 한국의 T1, 'Welcome Back Home, Zeus'입니다. 주말 마지막 날에 6,400개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c09_cnt_00.jpg",
+        "imagenes/c09_cnt_01.jpg",
+        "imagenes/c09_cnt_02.jpg",
+        "imagenes/c09_cnt_03.jpg",
+        "imagenes/c09_cnt_04.jpg",
+        "imagenes/c09_cnt_05.jpg",
+        "imagenes/c09_cnt_06.jpg",
+        "imagenes/c09_cnt_07.jpg",
+        "imagenes/c09_cnt_08.jpg",
+        "imagenes/c09_cnt_09.jpg",
+        "imagenes/c09_cnt_10.jpg",
+        "imagenes/c09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c09_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c09_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c09_card.jpg",
+          "dur": 3.101,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c08",
@@ -276,7 +1691,129 @@
       "texto_pt": "Número oito, バズチェック, com um Short de um minuto. Mais de seis mil e seiscentos comentários e mais de seis vírgula quatro milhões de visualizações, de um canal com cerca de dezessete mil inscritos.",
       "texto_ar": "المرتبة الثامنة، バズチェック، مع فيديو قصير مدته دقيقة واحدة. أكثر من ستة آلاف وستمائة تعليق وأكثر من ستة ملايين وأربعمائة ألف مشاهدة، من قناة تضم حوالي سبعة عشر ألف مشترك.",
       "texto_zh": "第八名，バズチェック，发布了一条一分钟的短视频。来自一个拥有约1.7万订阅者的频道，获得了超过6600条评论和超过640万次观看。",
-      "texto_ko": "8위는 1분짜리 쇼츠를 올린 バズチェック입니다. 약 17,000명의 구독자를 보유한 채널에서 6,600개가 넘는 댓글과 640만 회 이상의 조회수를 기록했습니다."
+      "texto_ko": "8위는 1분짜리 쇼츠를 올린 バズチェック입니다. 약 17,000명의 구독자를 보유한 채널에서 6,600개가 넘는 댓글과 640만 회 이상의 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/c08_cnt_00.jpg",
+        "imagenes/c08_cnt_01.jpg",
+        "imagenes/c08_cnt_02.jpg",
+        "imagenes/c08_cnt_03.jpg",
+        "imagenes/c08_cnt_04.jpg",
+        "imagenes/c08_cnt_05.jpg",
+        "imagenes/c08_cnt_06.jpg",
+        "imagenes/c08_cnt_07.jpg",
+        "imagenes/c08_cnt_08.jpg",
+        "imagenes/c08_cnt_09.jpg",
+        "imagenes/c08_cnt_10.jpg",
+        "imagenes/c08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c08_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_03.jpg",
+          "dur": 0.308,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c07",
@@ -288,7 +1825,122 @@
       "texto_pt": "Número sete, da Índia, The Roamer Amit, com \"O último sobrevivente do ROUND 6 vence\". Com quase uma hora de duração e mais de sete mil e trezentos comentários.",
       "texto_ar": "المرتبة السابعة، من الهند، ذا رومر أميت، مع \"آخر من يبقى على قيد الحياة في لعبة الحبار يفوز\". يستغرق ما يقرب من ساعة، ويضم أكثر من سبعة آلاف وثلاثمائة تعليق.",
       "texto_zh": "第七名，来自印度的 The Roamer Amit，作品是《最后幸存者赢得鱿鱼游戏》。视频时长将近一个小时，评论数超过 7300 条。",
-      "texto_ko": "7위는 인도 출신의 The Roamer Amit의 '오징어 게임에서 마지막까지 살아남는 사람이 우승'입니다. 거의 1시간 분량에 7,300개가 넘는 댓글이 달렸습니다."
+      "texto_ko": "7위는 인도 출신의 The Roamer Amit의 '오징어 게임에서 마지막까지 살아남는 사람이 우승'입니다. 거의 1시간 분량에 7,300개가 넘는 댓글이 달렸습니다.",
+      "ficha_anim": [
+        "imagenes/c07_cnt_00.jpg",
+        "imagenes/c07_cnt_01.jpg",
+        "imagenes/c07_cnt_02.jpg",
+        "imagenes/c07_cnt_03.jpg",
+        "imagenes/c07_cnt_04.jpg",
+        "imagenes/c07_cnt_05.jpg",
+        "imagenes/c07_cnt_06.jpg",
+        "imagenes/c07_cnt_07.jpg",
+        "imagenes/c07_cnt_08.jpg",
+        "imagenes/c07_cnt_09.jpg",
+        "imagenes/c07_cnt_10.jpg",
+        "imagenes/c07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c07_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c07_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c07_02.jpg",
+          "dur": 1.936,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c07_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c06",
@@ -300,7 +1952,122 @@
       "texto_pt": "Em sexto lugar, da Coreia do Sul, MarvelKorea, com o trailer principal de Vingadores: O Juízo Final. Mais de nove mil e duzentos comentários e mais de quatro vírgula quatro milhões de visualizações.",
       "texto_ar": "المرتبة السادسة، من كوريا الجنوبية، مارفل كوريا، مع المقطع الدعائي الرئيسي لفيلم \"المنتقمون: يوم القيامة\". أكثر من تسعة آلاف ومائتي تعليق وأكثر من أربعة ملايين وأربعمائة ألف مشاهدة.",
       "texto_zh": "第六名来自韩国的MarvelKorea，发布了《复仇者联盟：末日》的主预告片。超过9200条评论，超过440万次观看。",
-      "texto_ko": "6위는 한국의 MarvelKorea로, '어벤져스:둠스데이'의 메인 예고편입니다. 9,200개가 넘는 댓글과 440만 회가 넘는 조회수를 기록했습니다."
+      "texto_ko": "6위는 한국의 MarvelKorea로, '어벤져스:둠스데이'의 메인 예고편입니다. 9,200개가 넘는 댓글과 440만 회가 넘는 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/c06_cnt_00.jpg",
+        "imagenes/c06_cnt_01.jpg",
+        "imagenes/c06_cnt_02.jpg",
+        "imagenes/c06_cnt_03.jpg",
+        "imagenes/c06_cnt_04.jpg",
+        "imagenes/c06_cnt_05.jpg",
+        "imagenes/c06_cnt_06.jpg",
+        "imagenes/c06_cnt_07.jpg",
+        "imagenes/c06_cnt_08.jpg",
+        "imagenes/c06_cnt_09.jpg",
+        "imagenes/c06_cnt_10.jpg",
+        "imagenes/c06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c06_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_02.jpg",
+          "dur": 1.61,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c06_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c05",
@@ -312,7 +2079,115 @@
       "texto_pt": "Número cinco, da Indonésia, Nadia Omara novamente. Mais de onze mil comentários. Seus fãs não apenas assistem. Eles conversam.",
       "texto_ar": "المرتبة الخامسة، من إندونيسيا، نادية أومارا مرة أخرى. أكثر من أحد عشر ألف تعليق. معجبيها لا يشاهدون فحسب. بل يتحدثون أيضًا.",
       "texto_zh": "第五名，来自印尼的Nadia Omara再次上榜。超过1.1万条评论。她的粉丝不仅会观看，还会发表评论。",
-      "texto_ko": "5위는 인도네시아의 나디아 오마라입니다. 또 나왔네요. 댓글이 1만 1천 개가 넘습니다. 그녀의 팬들은 단순히 시청만 하는 게 아니라 대화를 나눕니다."
+      "texto_ko": "5위는 인도네시아의 나디아 오마라입니다. 또 나왔네요. 댓글이 1만 1천 개가 넘습니다. 그녀의 팬들은 단순히 시청만 하는 게 아니라 대화를 나눕니다.",
+      "ficha_anim": [
+        "imagenes/c05_cnt_00.jpg",
+        "imagenes/c05_cnt_01.jpg",
+        "imagenes/c05_cnt_02.jpg",
+        "imagenes/c05_cnt_03.jpg",
+        "imagenes/c05_cnt_04.jpg",
+        "imagenes/c05_cnt_05.jpg",
+        "imagenes/c05_cnt_06.jpg",
+        "imagenes/c05_cnt_07.jpg",
+        "imagenes/c05_cnt_08.jpg",
+        "imagenes/c05_cnt_09.jpg",
+        "imagenes/c05_cnt_10.jpg",
+        "imagenes/c05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c05_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c05_01.jpg",
+          "dur": 1.583,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c05_card.jpg",
+          "dur": 2.863,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c04",
@@ -324,7 +2199,129 @@
       "texto_pt": "Número quatro, da Coreia do Sul, CORTIS, com \"We're on a JoyRide (2024)\". Mais de treze mil e cem comentários. E este também é um nome para lembrar.",
       "texto_ar": "الرقم أربعة، من كوريا الجنوبية، كورتيس، مع \"We 're on a JoyRide (2024)\". أكثر من ثلاثة عشر ألفًا ومائة تعليق. وهذا اسم يجب تذكره أيضًا.",
       "texto_zh": "第四名，来自韩国的CORTIS，歌曲是《We're on a JoyRide (2024)》。超过 13100 条评论。这也是一个值得记住的名字。",
-      "texto_ko": "4위는 한국의 CORTIS, 'We're on a JoyRide (2024)'입니다. 댓글이 13,100개가 넘습니다. 이 이름도 기억해 두셔야 해요."
+      "texto_ko": "4위는 한국의 CORTIS, 'We're on a JoyRide (2024)'입니다. 댓글이 13,100개가 넘습니다. 이 이름도 기억해 두셔야 해요.",
+      "ficha_anim": [
+        "imagenes/c04_cnt_00.jpg",
+        "imagenes/c04_cnt_01.jpg",
+        "imagenes/c04_cnt_02.jpg",
+        "imagenes/c04_cnt_03.jpg",
+        "imagenes/c04_cnt_04.jpg",
+        "imagenes/c04_cnt_05.jpg",
+        "imagenes/c04_cnt_06.jpg",
+        "imagenes/c04_cnt_07.jpg",
+        "imagenes/c04_cnt_08.jpg",
+        "imagenes/c04_cnt_09.jpg",
+        "imagenes/c04_cnt_10.jpg",
+        "imagenes/c04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c04_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_03.jpg",
+          "dur": 0.237,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c04_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c03",
@@ -336,7 +2333,122 @@
       "texto_pt": "Hora do pódio. Medalha de bronze, da Índia, Shivang Mini, com um vídeo de Roblox Steal an Egg, com mais de vinte e três minutos de duração. Mais de catorze mil e quatrocentos comentários.",
       "texto_ar": "حان وقت المنصة. الميدالية البرونزية، من الهند، شيفانغ ميني، مع فيديو \"سرقة بيضة\" من روبلوكس، مدته أكثر من ثلاث وعشرين دقيقة. أكثر من أربعة عشر ألفًا وأربعمائة تعليق.",
       "texto_zh": "颁奖时刻。铜牌得主是来自印度的Shivang Mini，他的作品是时长超过23分钟的Roblox《偷蛋》视频。超过14400条评论。",
-      "texto_ko": "시상식 시간입니다. 동메달은 인도 출신의 시방 미니 님이 차지하셨습니다. 23분이 넘는 Roblox '달걀 훔치기' 동영상을 올리셨는데요. 댓글이 14,400개가 넘습니다."
+      "texto_ko": "시상식 시간입니다. 동메달은 인도 출신의 시방 미니 님이 차지하셨습니다. 23분이 넘는 Roblox '달걀 훔치기' 동영상을 올리셨는데요. 댓글이 14,400개가 넘습니다.",
+      "ficha_anim": [
+        "imagenes/c03_cnt_00.jpg",
+        "imagenes/c03_cnt_01.jpg",
+        "imagenes/c03_cnt_02.jpg",
+        "imagenes/c03_cnt_03.jpg",
+        "imagenes/c03_cnt_04.jpg",
+        "imagenes/c03_cnt_05.jpg",
+        "imagenes/c03_cnt_06.jpg",
+        "imagenes/c03_cnt_07.jpg",
+        "imagenes/c03_cnt_08.jpg",
+        "imagenes/c03_cnt_09.jpg",
+        "imagenes/c03_cnt_10.jpg",
+        "imagenes/c03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c03_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_02.jpg",
+          "dur": 1.733,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c02",
@@ -348,7 +2460,122 @@
       "texto_pt": "Medalha de prata, do Japão, なにわ男子, com seu videoclipe oficial. Mais de vinte mil e quatrocentos comentários, de mais de um vírgula quatro milhões de visualizações. Essa é uma base de fãs que aparece.",
       "texto_ar": "الميدالية الفضية، من اليابان، なにわ男子، مع فيديوهم الموسيقي الرسمي. أكثر من عشرين ألف وأربعمائة تعليق، من أكثر من مليون وأربعمائة ألف مشاهدة. هذه قاعدة جماهيرية تظهر.",
       "texto_zh": "银奖来自日本的なにわ男子，以及他们的官方MV。超过 140 万次观看，超过 20400 条评论。这是一群积极活跃的粉丝。",
-      "texto_ko": "은메달은 일본의 なにわ男子가 공식 뮤직비디오로 수상했습니다. 140만 회 이상의 조회 수, 20,400개 이상의 댓글을 기록했습니다. 팬층이 확실히 드러나는 수치죠."
+      "texto_ko": "은메달은 일본의 なにわ男子가 공식 뮤직비디오로 수상했습니다. 140만 회 이상의 조회 수, 20,400개 이상의 댓글을 기록했습니다. 팬층이 확실히 드러나는 수치죠.",
+      "ficha_anim": [
+        "imagenes/c02_cnt_00.jpg",
+        "imagenes/c02_cnt_01.jpg",
+        "imagenes/c02_cnt_02.jpg",
+        "imagenes/c02_cnt_03.jpg",
+        "imagenes/c02_cnt_04.jpg",
+        "imagenes/c02_cnt_05.jpg",
+        "imagenes/c02_cnt_06.jpg",
+        "imagenes/c02_cnt_07.jpg",
+        "imagenes/c02_cnt_08.jpg",
+        "imagenes/c02_cnt_09.jpg",
+        "imagenes/c02_cnt_10.jpg",
+        "imagenes/c02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/c02_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c02_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c02_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c02_card.jpg",
+          "dur": 3.059,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "c01",
@@ -360,7 +2587,129 @@
       "texto_pt": "E aqui está. O vídeo mais comentado da semana na Ásia. Da Índia, Techno Gamerz, com \"MY FIRST DAY IN VICE CITY\". Mais de cinquenta e quatro mil comentários. Mais do que o dobro do segundo lugar. Duas listas, duas coroas.",
       "texto_ar": "وإليكم الفيديو. الفيديو الأكثر تعليقًا هذا الأسبوع في آسيا. من الهند، تكنو غيمرز، مع \"يومي الأول في فايس سيتي\". أكثر من أربعة وخمسين ألف تعليق. أكثر من ضعف المركز الثاني. قائمتان، تاجان.",
       "texto_zh": "这就是它。本周亚洲评论数最多的视频。来自印度的 Techno Gamerz，作品是《我在罪恶都市的第一天》。超过五万四千条评论。是第二名的两倍多。两个榜单，两个冠军。",
-      "texto_ko": "자, 바로 이겁니다. 이번 주 아시아에서 가장 많은 댓글을 받은 동영상입니다. 인도의 Techno Gamerz가 올린 'MY FIRST DAY IN VICE CITY'입니다. 5만 4천 개가 넘는 댓글이 달렸습니다. 2위의 두 배가 넘는 수치입니다. 두 개의 순위, 두 개의 왕관."
+      "texto_ko": "자, 바로 이겁니다. 이번 주 아시아에서 가장 많은 댓글을 받은 동영상입니다. 인도의 Techno Gamerz가 올린 'MY FIRST DAY IN VICE CITY'입니다. 5만 4천 개가 넘는 댓글이 달렸습니다. 2위의 두 배가 넘는 수치입니다. 두 개의 순위, 두 개의 왕관.",
+      "ficha_anim": [
+        "imagenes/c01_cnt_00.jpg",
+        "imagenes/c01_cnt_01.jpg",
+        "imagenes/c01_cnt_02.jpg",
+        "imagenes/c01_cnt_03.jpg",
+        "imagenes/c01_cnt_04.jpg",
+        "imagenes/c01_cnt_05.jpg",
+        "imagenes/c01_cnt_06.jpg",
+        "imagenes/c01_cnt_07.jpg",
+        "imagenes/c01_cnt_08.jpg",
+        "imagenes/c01_cnt_09.jpg",
+        "imagenes/c01_cnt_10.jpg",
+        "imagenes/c01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_comments.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/c01_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/c01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/c01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_comments.jpg",
+          "dur": 3.886,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l10",
@@ -373,7 +2722,129 @@
       "texto_pt": "E a última lista: o amor. Os dez vídeos mais curtidos. Em décimo lugar, da Coreia do Sul, CORTIS, com \"We're on a JoyRide (2024)\". Mais de cento e noventa e dois mil curtidas.",
       "texto_ar": "والقائمة الأخيرة: الإعجاب. أكثر عشرة مقاطع فيديو حازت على الإعجاب. في المرتبة العاشرة، من كوريا الجنوبية، كورتيس، مع \"We 're on a JoyRide (2024)\". أكثر من مائة وإثنين وتسعين ألف إعجاب.",
       "texto_zh": "最后一份榜单：最受欢迎榜。点赞数最多的十个视频。排名第十的是来自韩国的 CORTIS，歌曲为《We're on a JoyRide (2024)》。点赞数超过十九万两千。",
-      "texto_ko": "그리고 마지막 순위: 가장 많은 '좋아요'를 받은 영상입니다. 좋아요를 가장 많이 받은 동영상 10개입니다. 10위는 대한민국 출신 CORTIS의 'We're on a JoyRide (2024)'입니다. 192,000개가 넘는 좋아요를 받았습니다."
+      "texto_ko": "그리고 마지막 순위: 가장 많은 '좋아요'를 받은 영상입니다. 좋아요를 가장 많이 받은 동영상 10개입니다. 10위는 대한민국 출신 CORTIS의 'We're on a JoyRide (2024)'입니다. 192,000개가 넘는 좋아요를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l10_cnt_00.jpg",
+        "imagenes/l10_cnt_01.jpg",
+        "imagenes/l10_cnt_02.jpg",
+        "imagenes/l10_cnt_03.jpg",
+        "imagenes/l10_cnt_04.jpg",
+        "imagenes/l10_cnt_05.jpg",
+        "imagenes/l10_cnt_06.jpg",
+        "imagenes/l10_cnt_07.jpg",
+        "imagenes/l10_cnt_08.jpg",
+        "imagenes/l10_cnt_09.jpg",
+        "imagenes/l10_cnt_10.jpg",
+        "imagenes/l10_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l10_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_03.jpg",
+          "dur": 0.675,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l10_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l10_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l09",
@@ -385,7 +2856,115 @@
       "texto_pt": "Número nove, da Índia, Neetu Bisht, com o Short de pegadinha em família. Mais de cento e noventa e sete mil curtidas.",
       "texto_ar": "المرتبة التاسعة، من الهند، نيتو بيشت، مع مقطع فيديو قصير لمزحة عائلية. أكثر من مائة وسبعة وتسعين ألف إعجاب.",
       "texto_zh": "第九名，来自印度的 Neetu Bisht，作品是家庭恶作剧短视频。超过19.7万个赞。",
-      "texto_ko": "9위는 인도 출신의 니투 비슈트 님으로, 가족을 대상으로 한 몰래카메라 쇼츠 동영상을 올리셨습니다. 197,000개가 넘는 '좋아요'를 받았습니다."
+      "texto_ko": "9위는 인도 출신의 니투 비슈트 님으로, 가족을 대상으로 한 몰래카메라 쇼츠 동영상을 올리셨습니다. 197,000개가 넘는 '좋아요'를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l09_cnt_00.jpg",
+        "imagenes/l09_cnt_01.jpg",
+        "imagenes/l09_cnt_02.jpg",
+        "imagenes/l09_cnt_03.jpg",
+        "imagenes/l09_cnt_04.jpg",
+        "imagenes/l09_cnt_05.jpg",
+        "imagenes/l09_cnt_06.jpg",
+        "imagenes/l09_cnt_07.jpg",
+        "imagenes/l09_cnt_08.jpg",
+        "imagenes/l09_cnt_09.jpg",
+        "imagenes/l09_cnt_10.jpg",
+        "imagenes/l09_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l09_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l09_01.jpg",
+          "dur": 1.696,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l09_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l09_card.jpg",
+          "dur": 2.976,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l08",
@@ -397,7 +2976,129 @@
       "texto_pt": "Número oito, da Índia, The Laughter Show, com um clipe de comédia de dois minutos e quarenta e sete segundos. Mais de cento e noventa e sete mil curtidas e mais de oito vírgula cinco milhões de visualizações.",
       "texto_ar": "المرتبة الثامنة، من الهند، \"ذا لافتر شو\"، مع مقطع كوميدي مدته دقيقتان وسبع وأربعون ثانية. أكثر من مائة وسبعة وتسعين ألف إعجاب وأكثر من ثمانية ملايين ونصف مشاهدة.",
       "texto_zh": "第八名，来自印度的《欢乐秀》，喜剧片段时长2分47秒。点赞数超过19.7万，观看次数超过850万。",
-      "texto_ko": "8번은 인도에서 온 '더 라프터 쇼'로, 2분 47초 길이의 코미디 클립입니다. 197,000개가 넘는 '좋아요'와 850만 회가 넘는 조회수를 기록했습니다."
+      "texto_ko": "8번은 인도에서 온 '더 라프터 쇼'로, 2분 47초 길이의 코미디 클립입니다. 197,000개가 넘는 '좋아요'와 850만 회가 넘는 조회수를 기록했습니다.",
+      "ficha_anim": [
+        "imagenes/l08_cnt_00.jpg",
+        "imagenes/l08_cnt_01.jpg",
+        "imagenes/l08_cnt_02.jpg",
+        "imagenes/l08_cnt_03.jpg",
+        "imagenes/l08_cnt_04.jpg",
+        "imagenes/l08_cnt_05.jpg",
+        "imagenes/l08_cnt_06.jpg",
+        "imagenes/l08_cnt_07.jpg",
+        "imagenes/l08_cnt_08.jpg",
+        "imagenes/l08_cnt_09.jpg",
+        "imagenes/l08_cnt_10.jpg",
+        "imagenes/l08_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l08_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l08_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l08_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l08_03.jpg",
+          "dur": 1.011,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l08_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l08_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l07",
@@ -409,7 +3110,115 @@
       "texto_pt": "Número sete, do Japão, Bayashi TV, com \"Chapéu de Tortilha dos Minions\". Trinta e cinco segundos e mais de duzentas e vinte e um mil curtidas.",
       "texto_ar": "المرتبة السابعة، من اليابان، قناة Bayashi TV، مع \"قبعة التورتيلا للمينيونز\". خمس وثلاثون ثانية، وأكثر من مائتين وواحد وعشرين ألف إعجاب.",
       "texto_zh": "第七名，来自日本的Bayashi TV，作品是《小黄人玉米饼帽》。35 秒，超过 22.1 万个赞。",
-      "texto_ko": "7위는 일본의 바야시 TV가 '미니언즈 또띠아 모자'로 차지했습니다. 35초 분량의 영상으로, 좋아요 수가 22만 1천 개를 넘었습니다."
+      "texto_ko": "7위는 일본의 바야시 TV가 '미니언즈 또띠아 모자'로 차지했습니다. 35초 분량의 영상으로, 좋아요 수가 22만 1천 개를 넘었습니다.",
+      "ficha_anim": [
+        "imagenes/l07_cnt_00.jpg",
+        "imagenes/l07_cnt_01.jpg",
+        "imagenes/l07_cnt_02.jpg",
+        "imagenes/l07_cnt_03.jpg",
+        "imagenes/l07_cnt_04.jpg",
+        "imagenes/l07_cnt_05.jpg",
+        "imagenes/l07_cnt_06.jpg",
+        "imagenes/l07_cnt_07.jpg",
+        "imagenes/l07_cnt_08.jpg",
+        "imagenes/l07_cnt_09.jpg",
+        "imagenes/l07_cnt_10.jpg",
+        "imagenes/l07_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l07_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l07_01.jpg",
+          "dur": 1.936,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l07_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l07_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l06",
@@ -421,7 +3230,129 @@
       "texto_pt": "Número seis, da Índia, Whimsy Aangan, com a história de um homem que construiu uma geladeira de argila para sua esposa. Mais de duzentas e vinte e quatro mil curtidas, de um canal com cerca de trinta e um mil inscritos.",
       "texto_ar": "المرتبة السادسة، من الهند، ويزمي أنغان، مع قصة رجل صنع ثلاجة من الطين لزوجته. أكثر من مائتين وأربعة وعشرين ألف إعجاب، من قناة تضم حوالي واحد وثلاثين ألف مشترك.",
       "texto_zh": "第六个视频来自印度，创作者是Whimsy Aangan，讲述了一位男子为妻子用黏土制作冰箱的故事。该视频获得了超过22.4万个赞，而该频道只有约3.1万名订阅者。",
-      "texto_ko": "6위는 인도에서 온 'Whimsy Aangan'입니다. 아내를 위해 점토로 냉장고를 만든 남자의 이야기입니다. 약 3만1천 명의 구독자를 보유한 채널에서 22만4천 개 이상의 '좋아요'를 받았습니다."
+      "texto_ko": "6위는 인도에서 온 'Whimsy Aangan'입니다. 아내를 위해 점토로 냉장고를 만든 남자의 이야기입니다. 약 3만1천 명의 구독자를 보유한 채널에서 22만4천 개 이상의 '좋아요'를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l06_cnt_00.jpg",
+        "imagenes/l06_cnt_01.jpg",
+        "imagenes/l06_cnt_02.jpg",
+        "imagenes/l06_cnt_03.jpg",
+        "imagenes/l06_cnt_04.jpg",
+        "imagenes/l06_cnt_05.jpg",
+        "imagenes/l06_cnt_06.jpg",
+        "imagenes/l06_cnt_07.jpg",
+        "imagenes/l06_cnt_08.jpg",
+        "imagenes/l06_cnt_09.jpg",
+        "imagenes/l06_cnt_10.jpg",
+        "imagenes/l06_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l06_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l06_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l06_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l06_03.jpg",
+          "dur": 1.129,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l06_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l06_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l05",
@@ -433,7 +3364,122 @@
       "texto_pt": "Em quinto lugar, da Índia, FactTechz, com \"A NASA fez o IMPOSSÍVEL mais uma vez!\". Cinquenta e dois segundos e mais de duzentos e quarenta e três mil curtidas.",
       "texto_ar": "المرتبة الخامسة، من الهند، فاكت تيكز، بعنوان \"ناسا حققت المستحيل مرة أخرى!\". اثنان وخمسون ثانية وأكثر من مائتين وثلاثة وأربعين ألف إعجاب.",
       "texto_zh": "第五名，来自印度的FactTechz，标题为“NASA再次创造奇迹！”。52秒，超过24.3万个赞。",
-      "texto_ko": "5위는 인도의 FactTechz로, 'NASA가 또 불가능한 일을 해냈습니다!'라는 제목의 동영상입니다. 52초에 좋아요 24만 3천 개 이상을 받았습니다."
+      "texto_ko": "5위는 인도의 FactTechz로, 'NASA가 또 불가능한 일을 해냈습니다!'라는 제목의 동영상입니다. 52초에 좋아요 24만 3천 개 이상을 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l05_cnt_00.jpg",
+        "imagenes/l05_cnt_01.jpg",
+        "imagenes/l05_cnt_02.jpg",
+        "imagenes/l05_cnt_03.jpg",
+        "imagenes/l05_cnt_04.jpg",
+        "imagenes/l05_cnt_05.jpg",
+        "imagenes/l05_cnt_06.jpg",
+        "imagenes/l05_cnt_07.jpg",
+        "imagenes/l05_cnt_08.jpg",
+        "imagenes/l05_cnt_09.jpg",
+        "imagenes/l05_cnt_10.jpg",
+        "imagenes/l05_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l05_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l05_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l05_02.jpg",
+          "dur": 0.903,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l05_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l05_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l04",
@@ -445,7 +3491,115 @@
       "texto_pt": "Número quatro, da Indonésia, Nadia Omara. Terceira lista, terceira aparição. Mais de duzentas e sessenta e duas mil curtidas.",
       "texto_ar": "المرتبة الرابعة، من إندونيسيا، نادية أومارا. القائمة الثالثة، الظهور الثالث. أكثر من مائتين واثنتين وستين ألف إعجاب.",
       "texto_zh": "第四位，来自印尼的Nadia Omara。第三个榜单，第三次上榜。点赞数超过二十六万两千。",
-      "texto_ko": "4번, 인도네시아의 나디아 오마라입니다. 세 번째 목록, 세 번째 출연. 26만 2천 개 이상의 좋아요를 받았습니다."
+      "texto_ko": "4번, 인도네시아의 나디아 오마라입니다. 세 번째 목록, 세 번째 출연. 26만 2천 개 이상의 좋아요를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l04_cnt_00.jpg",
+        "imagenes/l04_cnt_01.jpg",
+        "imagenes/l04_cnt_02.jpg",
+        "imagenes/l04_cnt_03.jpg",
+        "imagenes/l04_cnt_04.jpg",
+        "imagenes/l04_cnt_05.jpg",
+        "imagenes/l04_cnt_06.jpg",
+        "imagenes/l04_cnt_07.jpg",
+        "imagenes/l04_cnt_08.jpg",
+        "imagenes/l04_cnt_09.jpg",
+        "imagenes/l04_cnt_10.jpg",
+        "imagenes/l04_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l04_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l04_01.jpg",
+          "dur": 1.523,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l04_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l04_card.jpg",
+          "dur": 2.803,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l03",
@@ -457,7 +3611,129 @@
       "texto_pt": "O pódio final. Medalha de bronze, da Índia, resham info, explicando como o metrô subaquático de Calcutá foi construído. Mais de duzentas e sessenta e sete mil curtidas, de um canal com cerca de quarenta e sete mil inscritos.",
       "texto_ar": "المنصة النهائية. الميدالية البرونزية، من الهند، ريشام إنفو، تشرح كيفية بناء مترو كولكاتا تحت الماء. أكثر من مائتين وسبعة وستين ألف إعجاب، من قناة تضم حوالي سبعة وأربعين ألف مشترك.",
       "texto_zh": "最后的领奖台。铜牌，来自印度的resham info，讲解加尔各答水下地铁是如何建成的。该频道拥有约4.7万订阅者，视频获得了超过26.7万个赞。",
-      "texto_ko": "최종 순위입니다. 동메달은 인도에서 오셨습니다. Resham Info에서 콜카타 수중 지하철이 어떻게 건설되었는지 설명해 주셨습니다. 약 47,000명의 구독자를 보유한 채널에서 267,000개가 넘는 '좋아요'를 받았습니다."
+      "texto_ko": "최종 순위입니다. 동메달은 인도에서 오셨습니다. Resham Info에서 콜카타 수중 지하철이 어떻게 건설되었는지 설명해 주셨습니다. 약 47,000명의 구독자를 보유한 채널에서 267,000개가 넘는 '좋아요'를 받았습니다.",
+      "ficha_anim": [
+        "imagenes/l03_cnt_00.jpg",
+        "imagenes/l03_cnt_01.jpg",
+        "imagenes/l03_cnt_02.jpg",
+        "imagenes/l03_cnt_03.jpg",
+        "imagenes/l03_cnt_04.jpg",
+        "imagenes/l03_cnt_05.jpg",
+        "imagenes/l03_cnt_06.jpg",
+        "imagenes/l03_cnt_07.jpg",
+        "imagenes/l03_cnt_08.jpg",
+        "imagenes/l03_cnt_09.jpg",
+        "imagenes/l03_cnt_10.jpg",
+        "imagenes/l03_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l03_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_03.jpg",
+          "dur": 1.743,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l03_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l03_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l02",
@@ -469,7 +3745,129 @@
       "texto_pt": "Medalha de prata, da Índia, Aman Sharma, com \"Como Maharashtra trouxe um rio morto de volta à vida!\". Mais de trezentas e treze mil curtidas. Uma história que as pessoas adoraram. Mas será que consegue vencer o gigante?",
       "texto_ar": "الميدالية الفضية، من الهند، أمان شارما، مع \"كيف أعادت ولاية ماهاراشترا نهرًا ميتًا إلى الحياة!\". أكثر من ثلاثمائة وثلاثة عشر ألف إعجاب. قصة أحبها الناس. ولكن هل يمكنها التغلب على العملاق؟",
       "texto_zh": "银奖得主是来自印度的Aman Sharma，他的作品是《马哈拉施特拉邦如何让一条死河重获新生！》。点赞数超过31.3万。一个深受人们喜爱的故事。但它能战胜巨人吗？",
-      "texto_ko": "은메달은 인도 출신의 아만 샤르마(Aman Sharma) 님이 수상했으며, 작품명은 '마하라슈트라가 죽은 강을 되살린 방법!'입니다. 31만 3천 개 이상의 '좋아요'를 받았습니다. 사람들이 좋아한 이야기입니다. 하지만 거인을 이길 수 있을까요?"
+      "texto_ko": "은메달은 인도 출신의 아만 샤르마(Aman Sharma) 님이 수상했으며, 작품명은 '마하라슈트라가 죽은 강을 되살린 방법!'입니다. 31만 3천 개 이상의 '좋아요'를 받았습니다. 사람들이 좋아한 이야기입니다. 하지만 거인을 이길 수 있을까요?",
+      "ficha_anim": [
+        "imagenes/l02_cnt_00.jpg",
+        "imagenes/l02_cnt_01.jpg",
+        "imagenes/l02_cnt_02.jpg",
+        "imagenes/l02_cnt_03.jpg",
+        "imagenes/l02_cnt_04.jpg",
+        "imagenes/l02_cnt_05.jpg",
+        "imagenes/l02_cnt_06.jpg",
+        "imagenes/l02_cnt_07.jpg",
+        "imagenes/l02_cnt_08.jpg",
+        "imagenes/l02_cnt_09.jpg",
+        "imagenes/l02_cnt_10.jpg",
+        "imagenes/l02_cnt_11.jpg"
+      ],
+      "secuencia": [
+        {
+          "img": "imagenes/l02_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_03.jpg",
+          "dur": 0.551,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l02_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l02_card.jpg",
+          "dur": 3.0,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "l01",
@@ -481,7 +3879,136 @@
       "texto_pt": "Tambores, por favor. O vídeo mais curtido da semana na Ásia: da Índia, Techno Gamerz, com \"MY FIRST DAY IN VICE CITY\". Mais de um milhão de curtidas. Um milhão. O mais visto, o mais comentado e o mais curtido. Uma vitória esmagadora nas três listas.",
       "texto_ar": "قرع الطبول، من فضلكم. الفيديو الأكثر إعجابًا لهذا الأسبوع في آسيا: من الهند، تكنو غيمرز، مع \"يومي الأول في فايس سيتي\". أكثر من مليون إعجاب. مليون. الأكثر مشاهدة والأكثر تعليقًا والأكثر إعجابًا. فوز ساحق في القوائم الثلاث جميعها.",
       "texto_zh": "请敲响鼓点。本周亚洲点赞最多的视频：来自印度的Techno Gamerz，作品名为《我在罪恶之城的第一天》。点赞数超过一百万。一百万。观看次数最多、评论最多、点赞最多。横扫所有三个榜单。",
-      "texto_ko": "북소리가 울려 퍼집니다. 이번 주 아시아에서 가장 많은 '좋아요'를 받은 동영상은 인도에서 온 Techno Gamerz의 'MY FIRST DAY IN VICE CITY'입니다. 좋아요가 백만 개를 넘었습니다. 100만 개입니다. 조회수, 댓글 수, 좋아요 수가 가장 많았죠. 세 가지 순위 모두를 석권했습니다."
+      "texto_ko": "북소리가 울려 퍼집니다. 이번 주 아시아에서 가장 많은 '좋아요'를 받은 동영상은 인도에서 온 Techno Gamerz의 'MY FIRST DAY IN VICE CITY'입니다. 좋아요가 백만 개를 넘었습니다. 100만 개입니다. 조회수, 댓글 수, 좋아요 수가 가장 많았죠. 세 가지 순위 모두를 석권했습니다.",
+      "ficha_anim": [
+        "imagenes/l01_cnt_00.jpg",
+        "imagenes/l01_cnt_01.jpg",
+        "imagenes/l01_cnt_02.jpg",
+        "imagenes/l01_cnt_03.jpg",
+        "imagenes/l01_cnt_04.jpg",
+        "imagenes/l01_cnt_05.jpg",
+        "imagenes/l01_cnt_06.jpg",
+        "imagenes/l01_cnt_07.jpg",
+        "imagenes/l01_cnt_08.jpg",
+        "imagenes/l01_cnt_09.jpg",
+        "imagenes/l01_cnt_10.jpg",
+        "imagenes/l01_cnt_11.jpg"
+      ],
+      "tabla": "imagenes/tabla_likes.jpg",
+      "secuencia": [
+        {
+          "img": "imagenes/l01_09.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 0,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_01.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 1,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_02.jpg",
+          "dur": 2.0,
+          "mov": true,
+          "plano": 2,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_03.jpg",
+          "dur": 0.453,
+          "mov": true,
+          "plano": 3,
+          "noticiero": true
+        },
+        {
+          "img": "imagenes/l01_cnt_00.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_01.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_02.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_03.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_04.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_05.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_06.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_07.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_08.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_09.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_10.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_cnt_11.jpg",
+          "dur": 0.06,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/l01_card.jpg",
+          "dur": 1.5,
+          "mov": false,
+          "limpio": true
+        },
+        {
+          "img": "imagenes/tabla_likes.jpg",
+          "dur": 4.233,
+          "mov": false,
+          "limpio": true
+        }
+      ]
     },
     {
       "id": "cierre",
@@ -504,5 +4031,11 @@
   "corte_txt": "Cut: Wednesday 00:00, Lima time",
   "publicar_al_terminar": true,
   "publicar_objetivo": "2026-11-29T00:30:00Z",
-  "reemplaza": "canales/top10-redes/proyectos/2026-11-25-en-top10-asia"
+  "reemplaza": "canales/top10-redes/proyectos/2026-11-25-en-top10-asia",
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
