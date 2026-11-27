@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T02:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais visto na Oceania esta semana 🏆 #shorts",
+        "description": "O pódio dos vídeos mais vistos na Oceania esta semana. Contagem regressiva completa, de 10 a 1: https://youtu.be/y6aWGV7sXsU Dados da API oficial do YouTube. Narração com voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر مشاهدة في أوقيانوسيا هذا الأسبوع 🏆 #shorts",
+        "description": "منصة الفيديوهات الأكثر مشاهدة في أوقيانوسيا هذا الأسبوع. العد التنازلي الكامل، من 10 إلى 1: https://youtu.be/y6aWGV7sXsU البيانات من واجهة برمجة التطبيقات الرسمية لـ YouTube. سرد صوتي اصطناعي. #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周大洋洲观看次数最多的视频🏆 #shorts",
+        "description": "本周大洋洲观看次数最多的视频榜单。完整倒数，从第 10 名到第 1 名：https://youtu.be/y6aWGV7sXsU数据来自官方 YouTube API。合成语音旁白。#Top10RS #shorts"
+      },
+      "ko": {
+        "title": "이번 주 오세아니아에서 가장 많이 본 동영상 🏆 #shorts",
+        "description": "이번 주 오세아니아에서 가장 많이 본 동영상 순위. 10위부터 1위까지 전체 순위: https://youtu.be/y6aWGV7sXsU 공식 YouTube API에서 제공하는 데이터입니다. 합성 음성 내레이션. #Top10RS #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most viewed video in Oceania this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "NwQKirh2dxE",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais visto na Oceania esta semana? Aqui está o pódio. Assista até o final.",
+      "texto_ar": "ما هو الفيديو الأكثر مشاهدة في أوقيانوسيا هذا الأسبوع؟ إليكم منصة التتويج. شاهد حتى النهاية.",
+      "texto_zh": "本周大洋洲观看次数最多的视频是哪一个？这是前三名。请看到最后。",
+      "texto_ko": "이번 주 오세아니아에서 가장 많이 본 동영상은 무엇이었나요? 순위는 다음과 같습니다. 끝까지 시청하세요."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "Owls in Towels",
       "cifra": 3983363,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em terceiro lugar, \"How to Wrap an Owl\", da Owls in Towels, com mais de 3 milhões de visualizações.",
+      "texto_ar": "في المركز الثالث، \"كيف تلف بومة\"، بواسطة \"البوم في المناشف\"، مع أكثر من 3 ملايين مشاهدة.",
+      "texto_zh": "排名第三的是《如何用毛巾裹猫头鹰》，作者是Owls in Towels，观看次数超过300万次。",
+      "texto_ko": "3위는 Owls in Towels의 'How to Wrap an Owl'로, 조회수가 3백만 회를 넘었습니다."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "CrackerMilk",
       "cifra": 7496256,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em segundo lugar, Swimming between the flags, de CrackerMilk, com mais de 7 milhões de visualizações.",
+      "texto_ar": "في المرتبة الثانية، \"السباحة بين الأعلام\"، من إعداد كراكر ميلك، مع أكثر من 7 ملايين مشاهدة.",
+      "texto_zh": "排名第二的是CrackerMilk的《Swimming between the flags》，观看次数超过700万次。",
+      "texto_ko": "2위는 CrackerMilk의 '깃발 사이에서 수영하기'로, 조회수가 7백만 회를 넘었습니다."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "LazarBeam",
       "cifra": 8572776,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "E em primeiro lugar: \"Testing Everything In GTA 6\", de LazarBeam, com mais de 8 milhões de visualizações.",
+      "texto_ar": "والمرتبة الأولى: اختبار كل شيء في GTA 6، بواسطة لازار بيم، مع أكثر من 8 ملايين مشاهدة.",
+      "texto_zh": "排名第一的是LazarBeam的《在GTA 6中测试一切》，观看量超过800万次。",
+      "texto_ko": "그리고 1위는 LazarBeam의 'GTA 6에서 모든 것을 테스트해 보기'로, 조회수가 8백만 회를 넘었습니다."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "NwQKirh2dxE",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva completa, de dez a um, já está no canal. Você encontra na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، موجود بالفعل على القناة. ستجدونه في الوصف. هاشتاغ Top 10 RS.",
+      "texto_zh": "从十到一的完整倒计时已经发布到频道上了。在描述中可以找到。话题标签：Top 10 RS。",
+      "texto_ko": "10부터 1까지의 전체 카운트다운은 이미 채널에 올라와 있습니다. 설명에서 찾아보세요. 해시태그 Top 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
