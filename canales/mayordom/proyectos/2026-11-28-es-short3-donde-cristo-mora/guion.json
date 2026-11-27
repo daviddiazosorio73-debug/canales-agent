@@ -35,7 +35,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-29T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "How can you tell that Christ lives in a house? 🏡 #shorts",
+        "description": "On Monday, we begin Chapter 5 of Counsels on Stewardship: Where Christ dwells, there is generosity. (Ephesians 3:17 · Luke 19:8, RVR1960 paraphrase) Subscribe to MayorDom · Biblical Stewardship. Narration with synthetic voice. #shorts"
+      },
+      "pt": {
+        "title": "Como se percebe que Cristo vive em uma casa? 🏡 #shorts",
+        "description": "Na segunda-feira, começamos o capítulo 5 de Conselhos sobre mordomia cristã: Onde Cristo habita, há generosidade. (Efésios 3:17 · Lucas 19:8, paráfrase da versão RVR1960) Inscreva-se no MayorDom · Mordomia Bíblica. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "كيف يمكن معرفة أن المسيح يعيش في بيت ما؟ 🏡 #shorts",
+        "description": "يوم الإثنين سنبدأ الفصل الخامس من \"نصائح حول الإشراف المسيحي\": حيث يسكن المسيح، هناك كرم. (أفسس 3: 17 · لوقا 19: 8، تفسير RVR1960) اشترك في مايور دوم · الإشراف الكتابي. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "如何知道基督住在某人家中？🏡 #shorts",
+        "description": "周一，我们将开始学习《基督徒管家职责指南》的第 5 章：基督所居之处，必有慷慨。（以弗所书 3:17 · 路加福音 19:8，RVR1960 译本意译）订阅 MayorDom · 圣经管家职分。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "그리스도께서 한 가정에 살아 계심을 어떻게 알 수 있을까요? 🏡 #shorts",
+        "description": "월요일에 우리는 기독교 청지기직에 대한 조언 5장을 시작합니다. 그리스도께서 계시는 곳에는 관대함이 있습니다. (에베소서 3:17 · 누가복음 19:8, RVR1960 패러프레이징) MayorDom · 성경적 청지기직에 구독하세요. 인공 음성 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "open door warm home light"
-      }
+      },
+      "texto_en": "How can you tell that Christ lives in a person? Not always by what they say. Sometimes, by their open hand.",
+      "texto_pt": "Como se percebe que Cristo vive em uma pessoa? Nem sempre pelo que ela diz. Às vezes, pela sua mão aberta.",
+      "texto_ar": "كيف يمكن معرفة أن المسيح يعيش في شخص ما؟ ليس دائمًا من خلال ما يقوله. أحيانًا، من خلال كرمه.",
+      "texto_zh": "如何看出基督活在一个人的心中？并不总是通过他所说的话。有时，通过他慷慨的举动。",
+      "texto_ko": "어떻게 그리스도께서 한 사람 안에 살아 계심을 알 수 있을까요? 그 사람이 하는 말 때문만은 아닙니다. 때로는 그 사람의 열린 손길을 통해서입니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "calido",
       "visual": {
         "query": "hands sharing bread table"
-      }
+      },
+      "texto_en": "In Ephesians 3, Paul asks that Christ dwell in our hearts through faith, rooted in love. And where love takes root, the hand opens. Zacchaeus didn't wait for anyone to ask anything of him: with Jesus in his house, he decided to give. On Monday, at six in the evening, we'll begin chapter five of Counsels on Stewardship, by Ellen G. White: Where Christ dwells, there is liberality. Subscribe and turn on notifications.",
+      "texto_pt": "Em Efésios 3, Paulo pede que Cristo habite pela fé em nossos corações, arraigados no amor. E onde o amor se enraíza, a mão se abre. Zaqueu não esperou que lhe exigissem nada: com Jesus em sua casa, ele decidiu dar. Na segunda-feira, às seis da tarde, começamos o capítulo cinco de Conselhos sobre mordomia cristã, de Ellen G. White: Onde Cristo habita, há generosidade. Inscreva-se e ative o sino.",
+      "texto_ar": "يطلب بولس في رسالة أفسس الإصحاح الثالث أن يسكن المسيح بالإيمان في قلوبنا، متجذرين في المحبة. وحيثما يتجذر الحب، تنفتح اليد. لم ينتظر زكّا أن يُطلب منه أي شيء: مع وجود يسوع في بيته، قرّر أن يعطي. يوم الإثنين، في الساعة السادسة مساءً، سنبدأ الفصل الخامس من كتاب \"نصائح حول الإشراف المسيحي\"، لإلينا دي وايت: حيث يسكن المسيح، هناك الكرم. اشترك وفعل الجرس.",
+      "texto_zh": "保罗在《以弗所书》第三章中祈求基督因着信心住在我们的心里，使我们扎根于爱中。爱生根的地方，就是慷慨解囊的地方。撒该没有等到别人向他提出要求：耶稣来到他家，他就决定施舍。周一下午六点，我们将开始学习怀爱伦的《基督徒管家工作指南》第五章：基督所居之处必有慷慨。请订阅并开启提醒铃。",
+      "texto_ko": "바울은 에베소서 3장에서 그리스도께서 믿음으로 우리 마음에 거하시고 사랑에 뿌리를 내리시기를 기도합니다. 그리고 사랑이 뿌리내리는 곳에서는 손이 열립니다. 삭개오는 아무도 자신에게 요구하기를 기다리지 않았습니다. 예수님을 집으로 모신 후, 그는 베풀기로 결심했습니다. 월요일 오후 6시에 우리는 엘레나 G. 화이트의 '기독교 청지기직에 대한 권면'의 5장, '그리스도께서 계신 곳에는 관대함이 있다'를 시작합니다. 구독하고 알림을 켜세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
