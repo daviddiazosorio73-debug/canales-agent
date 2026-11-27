@@ -1,0 +1,891 @@
+{
+ "campos": [
+  "_fotos",
+  "categoria",
+  "codigo",
+  "complementos",
+  "descripcion",
+  "estado",
+  "familia",
+  "ficha",
+  "foto",
+  "fotos",
+  "id",
+  "ideal",
+  "lista",
+  "manual",
+  "marca",
+  "nombre",
+  "nuevo",
+  "oferta",
+  "orden",
+  "pvp",
+  "video",
+  "zonas"
+ ],
+ "categorias": [
+  {
+   "categoria": "Visicoolers",
+   "productos": 50,
+   "marcas": {
+    "Ventus": 38,
+    "?": 12
+   }
+  },
+  {
+   "categoria": "Línea neutra",
+   "productos": 45,
+   "marcas": {
+    "?": 36,
+    "Ilumi": 9
+   }
+  },
+  {
+   "categoria": "Sartenes y woks",
+   "productos": 31,
+   "marcas": {
+    "Oster": 31
+   }
+  },
+  {
+   "categoria": "Hornos",
+   "productos": 26,
+   "marcas": {
+    "?": 17,
+    "Ventus": 9
+   }
+  },
+  {
+   "categoria": "Cuchillos",
+   "productos": 25,
+   "marcas": {
+    "Oster": 25
+   }
+  },
+  {
+   "categoria": "Friobares y visicoolers verticales",
+   "productos": 23,
+   "marcas": {
+    "?": 23
+   }
+  },
+  {
+   "categoria": "Línea caliente",
+   "productos": 23,
+   "marcas": {
+    "?": 22,
+    "Dakota": 1
+   }
+  },
+  {
+   "categoria": "Conservadoras y congeladoras horizontales",
+   "productos": 23,
+   "marcas": {
+    "Ventus": 21,
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Procesamiento de alimentos",
+   "productos": 21,
+   "marcas": {
+    "Ventus": 9,
+    "?": 12
+   }
+  },
+  {
+   "categoria": "Mesas refrigeradas y mesones gourmet",
+   "productos": 20,
+   "marcas": {
+    "?": 20
+   }
+  },
+  {
+   "categoria": "Licuadoras",
+   "productos": 19,
+   "marcas": {
+    "Dakota": 3,
+    "Ventus": 13,
+    "?": 3
+   }
+  },
+  {
+   "categoria": "Congeladoras horizontales · tapa sólida",
+   "productos": 19,
+   "marcas": {
+    "?": 19
+   }
+  },
+  {
+   "categoria": "Vitrinas sobremesa y pasteleras",
+   "productos": 17,
+   "marcas": {
+    "Ventus": 17
+   }
+  },
+  {
+   "categoria": "Yoguera,wafleras,panini, donut",
+   "productos": 16,
+   "marcas": {
+    "Dakota": 16
+   }
+  },
+  {
+   "categoria": "Vitrinas refrigeradas",
+   "productos": 15,
+   "marcas": {
+    "?": 15
+   }
+  },
+  {
+   "categoria": "Línea acero INOX premium",
+   "productos": 14,
+   "marcas": {
+    "?": 14
+   }
+  },
+  {
+   "categoria": "Congelador exhibidor",
+   "productos": 13,
+   "marcas": {
+    "Dakota": 12,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Congeladoras horizontales · tapa de vidrio y pozas de helado",
+   "productos": 13,
+   "marcas": {
+    "?": 13
+   }
+  },
+  {
+   "categoria": "Armarios frigoríficos y conservadores INOX",
+   "productos": 13,
+   "marcas": {
+    "?": 13
+   }
+  },
+  {
+   "categoria": "Batidoras, amasadoras y panadería",
+   "productos": 13,
+   "marcas": {
+    "?": 13
+   }
+  },
+  {
+   "categoria": "Freezers y refrigeradores verticales INOX",
+   "productos": 13,
+   "marcas": {
+    "Ventus": 13
+   }
+  },
+  {
+   "categoria": "Depósitos gastronorm",
+   "productos": 13,
+   "marcas": {
+    "?": 13
+   }
+  },
+  {
+   "categoria": "Máquinas de hielo y helado",
+   "productos": 12,
+   "marcas": {
+    "?": 12
+   }
+  },
+  {
+   "categoria": "Freidoras y planchas",
+   "productos": 12,
+   "marcas": {
+    "Ventus": 8,
+    "?": 4
+   }
+  },
+  {
+   "categoria": "Freezer congelador acerado estático",
+   "productos": 11,
+   "marcas": {
+    "?": 8,
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Máquinas raspadilleras",
+   "productos": 11,
+   "marcas": {
+    "Dakota": 8,
+    "?": 3
+   }
+  },
+  {
+   "categoria": "Pelador de papa",
+   "productos": 11,
+   "marcas": {
+    "Dakota": 5,
+    "?": 6
+   }
+  },
+  {
+   "categoria": "Máquinas de helado soft",
+   "productos": 10,
+   "marcas": {
+    "Dakota": 9,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Combos: máquina de helado soft + cono grande",
+   "productos": 10,
+   "marcas": {
+    "?": 10
+   }
+  },
+  {
+   "categoria": "Vitrinas refrigeradas murales",
+   "productos": 10,
+   "marcas": {
+    "Ventus": 10
+   }
+  },
+  {
+   "categoria": "Mesones refrigerados y saladette",
+   "productos": 10,
+   "marcas": {
+    "Ventus": 10
+   }
+  },
+  {
+   "categoria": "Vitrinas calientes",
+   "productos": 10,
+   "marcas": {
+    "Ventus": 10
+   }
+  },
+  {
+   "categoria": "Batidoras y amasadoras",
+   "productos": 10,
+   "marcas": {
+    "?": 2,
+    "Ventus": 8
+   }
+  },
+  {
+   "categoria": "Visicooler sistema fan cooling",
+   "productos": 9,
+   "marcas": {
+    "Dakota": 9
+   }
+  },
+  {
+   "categoria": "Refresqueras, cremoladoras y dispensadores",
+   "productos": 9,
+   "marcas": {
+    "Ventus": 9
+   }
+  },
+  {
+   "categoria": "Procesador de alimentos",
+   "productos": 8,
+   "marcas": {
+    "?": 4,
+    "Dakota": 2,
+    "Ventus": 2
+   }
+  },
+  {
+   "categoria": "Cocinas industriales",
+   "productos": 8,
+   "marcas": {
+    "?": 8
+   }
+  },
+  {
+   "categoria": "Máquinas de helado y conos luminosos",
+   "productos": 8,
+   "marcas": {
+    "Ventus": 8
+   }
+  },
+  {
+   "categoria": "Waffleras, creperas y panini",
+   "productos": 8,
+   "marcas": {
+    "Ventus": 8
+   }
+  },
+  {
+   "categoria": "Máquina paletera y bingsu",
+   "productos": 7,
+   "marcas": {
+    "Dakota": 5,
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Molino de granos",
+   "productos": 7,
+   "marcas": {
+    "Dakota": 6,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Picador de papa",
+   "productos": 7,
+   "marcas": {
+    "Dakota": 7
+   }
+  },
+  {
+   "categoria": "Balanzas y exprimidores",
+   "productos": 7,
+   "marcas": {
+    "Ventus": 6,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Juegos de ollas",
+   "productos": 7,
+   "marcas": {
+    "Oster": 7
+   }
+  },
+  {
+   "categoria": "Máquinas cremoladeras",
+   "productos": 6,
+   "marcas": {
+    "?": 2,
+    "Dakota": 4
+   }
+  },
+  {
+   "categoria": "Máquinas productoras de cubos de hielo",
+   "productos": 6,
+   "marcas": {
+    "Dakota": 6
+   }
+  },
+  {
+   "categoria": "Amasadoras monofásicas aceradas",
+   "productos": 6,
+   "marcas": {
+    "Dakota": 5,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Laminadoras de masa",
+   "productos": 6,
+   "marcas": {
+    "Dakota": 6
+   }
+  },
+  {
+   "categoria": "Freidoras sobre mesa",
+   "productos": 6,
+   "marcas": {
+    "Dakota": 6
+   }
+  },
+  {
+   "categoria": "Triturador de vegetales",
+   "productos": 6,
+   "marcas": {
+    "Dakota": 2,
+    "?": 4
+   }
+  },
+  {
+   "categoria": "Dispensadores y cremoladeras",
+   "productos": 6,
+   "marcas": {
+    "?": 6
+   }
+  },
+  {
+   "categoria": "Pop corn, algodón de azúcar y barquillos",
+   "productos": 6,
+   "marcas": {
+    "Ventus": 6
+   }
+  },
+  {
+   "categoria": "Vajilla y utensilios",
+   "productos": 6,
+   "marcas": {
+    "Oster": 6
+   }
+  },
+  {
+   "categoria": "Máquinas de helado frito",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 5
+   }
+  },
+  {
+   "categoria": "Máquinas refresqueras",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 4,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Freezer congelador acerado fan cooling",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 5
+   }
+  },
+  {
+   "categoria": "Batidoras",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 5
+   }
+  },
+  {
+   "categoria": "Horno convector eléctrico",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 4,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Deshidratador de alimentos",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 5
+   }
+  },
+  {
+   "categoria": "Cortador de embutidos",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 5
+   }
+  },
+  {
+   "categoria": "Moledor de carne",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 3,
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Embutidoras manuales",
+   "productos": 5,
+   "marcas": {
+    "?": 5
+   }
+  },
+  {
+   "categoria": "Pulverizador de granos secos",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 4,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Desplumador de aves - pollos",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 1,
+    "?": 4
+   }
+  },
+  {
+   "categoria": "Extractor de frutas",
+   "productos": 5,
+   "marcas": {
+    "Dakota": 2,
+    "Ventus": 2,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Congeladoras verticales · puerta de vidrio / sólida",
+   "productos": 5,
+   "marcas": {
+    "?": 5
+   }
+  },
+  {
+   "categoria": "Línea pro",
+   "productos": 5,
+   "marcas": {
+    "?": 5
+   }
+  },
+  {
+   "categoria": "Abatidores",
+   "productos": 5,
+   "marcas": {
+    "?": 5
+   }
+  },
+  {
+   "categoria": "Molinos y mesones",
+   "productos": 5,
+   "marcas": {
+    "?": 4,
+    "Ventus": 1
+   }
+  },
+  {
+   "categoria": "Hornos combinados y convectores",
+   "productos": 5,
+   "marcas": {
+    "?": 5
+   }
+  },
+  {
+   "categoria": "Ollas",
+   "productos": 5,
+   "marcas": {
+    "Oster": 5
+   }
+  },
+  {
+   "categoria": "Conos luminosos",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 4
+   }
+  },
+  {
+   "categoria": "Máquinas de helado artesanal",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 4
+   }
+  },
+  {
+   "categoria": "Mezclador amasador horizontal",
+   "productos": 4,
+   "marcas": {
+    "?": 3,
+    "Dakota": 1
+   }
+  },
+  {
+   "categoria": "Freidora brostera",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 2,
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Vitrinas exhibidoras calientes",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 4
+   }
+  },
+  {
+   "categoria": "Máquinas creperas",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 4
+   }
+  },
+  {
+   "categoria": "Máquinas popcorn",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 3,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Empacadoras al vacío",
+   "productos": 4,
+   "marcas": {
+    "Dakota": 4
+   }
+  },
+  {
+   "categoria": "Open coolers y closed coolers",
+   "productos": 4,
+   "marcas": {
+    "?": 4
+   }
+  },
+  {
+   "categoria": "Deshidratadores",
+   "productos": 4,
+   "marcas": {
+    "?": 4
+   }
+  },
+  {
+   "categoria": "Hervidores, percoladores y carro mantenedor",
+   "productos": 4,
+   "marcas": {
+    "Ventus": 4
+   }
+  },
+  {
+   "categoria": "Lavavajillas",
+   "productos": 4,
+   "marcas": {
+    "?": 4
+   }
+  },
+  {
+   "categoria": "Baterías y ollas",
+   "productos": 4,
+   "marcas": {
+    "Oster": 4
+   }
+  },
+  {
+   "categoria": "Rebanador de pan y divisora de masa",
+   "productos": 3,
+   "marcas": {
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Planchas",
+   "productos": 3,
+   "marcas": {
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Tostador de granos",
+   "productos": 3,
+   "marcas": {
+    "?": 2,
+    "Dakota": 1
+   }
+  },
+  {
+   "categoria": "Cortador de huesos sobre mesa",
+   "productos": 3,
+   "marcas": {
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Exprimidor de caña de azúcar",
+   "productos": 3,
+   "marcas": {
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Sellador de vasos",
+   "productos": 3,
+   "marcas": {
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Sellador de bolsas",
+   "productos": 3,
+   "marcas": {
+    "Dakota": 3
+   }
+  },
+  {
+   "categoria": "Línea cervecera",
+   "productos": 3,
+   "marcas": {
+    "?": 3
+   }
+  },
+  {
+   "categoria": "Dispensadores de agua",
+   "productos": 3,
+   "marcas": {
+    "?": 3
+   }
+  },
+  {
+   "categoria": "Selladoras y deshidratadores",
+   "productos": 3,
+   "marcas": {
+    "Ventus": 3
+   }
+  },
+  {
+   "categoria": "Máquinas de café",
+   "productos": 3,
+   "marcas": {
+    "Ventus": 2,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Máquinas de hielo industriales",
+   "productos": 3,
+   "marcas": {
+    "?": 3
+   }
+  },
+  {
+   "categoria": "Abatidor de temperatura",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Dispensador de chocolate",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Freidoras a gas industriales",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Horno convector a gas",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Horno pizzero a gas",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Vitrina exhibidor de hot dog",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Máquinas algodoneras",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Formador de hamburguesas",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 1,
+    "?": 1
+   }
+  },
+  {
+   "categoria": "Cortador de frutas",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Selladoras continuas",
+   "productos": 2,
+   "marcas": {
+    "Dakota": 2
+   }
+  },
+  {
+   "categoria": "Línea inverter",
+   "productos": 2,
+   "marcas": {
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Cafeteras comerciales",
+   "productos": 2,
+   "marcas": {
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Vitrinas barquilleras",
+   "productos": 2,
+   "marcas": {
+    "?": 2
+   }
+  },
+  {
+   "categoria": "Máquinas de hielo",
+   "productos": 2,
+   "marcas": {
+    "Ventus": 2
+   }
+  },
+  {
+   "categoria": "Selladoras al vacío",
+   "productos": 2,
+   "marcas": {
+    "Ventus": 2
+   }
+  },
+  {
+   "categoria": "Repostería",
+   "productos": 2,
+   "marcas": {
+    "Oster": 2
+   }
+  },
+  {
+   "categoria": "Teteras",
+   "productos": 2,
+   "marcas": {
+    "Mr. Coffee": 2
+   }
+  },
+  {
+   "categoria": "Línea Elsenborn",
+   "productos": 2,
+   "marcas": {
+    "Gibson": 2
+   }
+  },
+  {
+   "categoria": "Máquina productora de hielo gourmet",
+   "productos": 1,
+   "marcas": {
+    "Dakota": 1
+   }
+  },
+  {
+   "categoria": "Embutidora eléctrica",
+   "productos": 1,
+   "marcas": {
+    "Dakota": 1
+   }
+  },
+  {
+   "categoria": "Pelador de ajos",
+   "productos": 1,
+   "marcas": {
+    "Dakota": 1
+   }
+  },
+  {
+   "categoria": "Exprimidor de naranjas",
+   "productos": 1,
+   "marcas": {
+    "Dakota": 1
+   }
+  }
+ ]
+}
