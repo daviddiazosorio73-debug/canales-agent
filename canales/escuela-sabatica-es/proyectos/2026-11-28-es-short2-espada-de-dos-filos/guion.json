@@ -41,7 +41,29 @@
     ],
     "privacidad": "private",
     "publicar_en": "2026-11-28T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Why does the Bible cut like a sword? ⚔️ #shorts",
+        "description": "The Bible compares itself to a weapon. And it is not to be used against others. Hebrews 4:12 Subscribe for more Sabbath School in 1 minute. Narration with synthesized voice. #shorts"
+      },
+      "pt": {
+        "title": "Por que a Bíblia corta como uma espada? ⚔️ #shorts",
+        "description": "A Bíblia se compara a uma arma. E não é para ser usada contra os outros. Hebreus 4:12 Inscreva-se para mais conteúdos da Escola Sabatina em 1 minuto. Narração com voz sintética. #shorts"
+      },
+      "ar": {
+        "title": "لماذا يكون الكتاب المقدس حادًا مثل السيف؟ ⚔️ #shorts",
+        "description": "يشبه الكتاب المقدس نفسه بسلاح. وهو ليس لاستخدامه ضد الآخرين. عبرانيين 4: 12 اشترك للحصول على المزيد من دروس مدرسة السبت في دقيقة واحدة. سرد بصوت اصطناعي. #shorts"
+      },
+      "zh-Hans": {
+        "title": "为什么圣经像一把剑一样锋利？⚔️ #shorts",
+        "description": "圣经将自己比作一把武器。它不是用来对付他人的。希伯来书 4:12 订阅以获取更多 1 分钟安息日学内容。合成语音旁白。#短片"
+      },
+      "ko": {
+        "title": "성경은 왜 칼처럼 날카로운가요? ⚔️ #shorts",
+        "description": "성경은 자신을 무기에 비유합니다. 그리고 그것은 다른 사람들에게 사용하기 위한 것이 아닙니다. 히브리서 4:12 1분 안식일학교를 더 보시려면 구독하세요. 인공 음성으로 내레이션. #쇼츠"
+      }
+    }
   },
   "escenas": [
     {
@@ -52,7 +74,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "steel sword blade reflecting light close up"
-      }
+      },
+      "texto_en": "The Bible compares itself to a weapon. And it is not to be used against others.",
+      "texto_pt": "A Bíblia se compara a uma arma. E não é para ser usada contra os outros.",
+      "texto_ar": "يشبه الكتاب المقدس نفسه بسلاح. وهو ليس لاستخدامه ضد الآخرين.",
+      "texto_zh": "圣经将自己比作一件武器。它不是用来对付他人的。",
+      "texto_ko": "성경은 자신을 무기에 비유합니다. 그리고 그것은 다른 사람들에게 사용하기 위한 것이 아닙니다."
     },
     {
       "id": "mensaje",
@@ -62,7 +89,19 @@
       "emocion": "agil",
       "visual": {
         "query": "surgeon scalpel on sterile tray"
-      }
+      },
+      "texto_en": "Hebrews 4:12, the memory verse for Lesson 10, Prophetic Authority and Relevance, compares the word of God to a two-edged sword that penetrates to the point of dividing soul and spirit. That sword is not meant to wound our neighbor, but to reach our own hearts: it discerns thoughts and intentions that sometimes even we do not see. It cuts to heal, like a surgeon's scalpel. When a text makes you uncomfortable, it may well be doing its job. Let it do its work. Subscribe and comment \"Let me be tested.\"",
+      "texto_pt": "Hebreus 4:12, o versículo para memorizar da lição dez, Autoridade e relevância proféticas, compara a palavra de Deus a uma espada de dois gumes que penetra até dividir alma e espírito. Essa espada não é para ferir o próximo, mas para alcançar nosso próprio coração: ela discerne pensamentos e intenções que às vezes nem nós mesmos vemos. Corta para curar, como o bisturi de um cirurgião. Quando um texto te incomoda, talvez ele esteja cumprindo sua função. Deixe-o agir. Inscreva-se e comente \"Que me examine\".",
+      "texto_ar": "رسالة بولس الرسول إلى العبرانيين الأصحاح الرابع، الآية الثانية عشر، الآية التي يجب حفظها من الدرس العاشر، السلطة والأهمية النبوية، تقارن كلمة الله بسيف ذي حدين يخترق حتى يفصل النفس والروح. هذا السيف ليس لجرح الآخرين، بل للوصول إلى قلوبنا: فهو يميز الأفكار والنوايا التي أحيانًا لا نراها نحن أنفسنا. تقطع من أجل الشفاء، مثل مشرط الجراح. عندما يزعجك نص ما، فربما يكون يؤدي وظيفته. دعه يؤدي دوره. اشترك واكتب تعليقًا \"فلتختبرني\".",
+      "texto_zh": "希伯来书第四章第十二节是第十课的背诵经文，主题是“先知的权威和意义”。这节经文将神的话语比作一把两刃的剑，能刺透人心，直到灵与魂的深处。这把剑不是用来伤害邻舍的，而是用来触及我们自己的心的：它能辨别出有时连我们自己都看不到的思想和意图。它像外科医生的手术刀一样，切开是为了治愈。 当一段文字让您感到不适时，它也许正在发挥作用。让它发挥作用。订阅并留言“让我来检验一下”。",
+      "texto_ko": "히브리서 4장 12절, 10과 '예언의 권위와 관련성'의 암기 성경 구절은 하나님의 말씀을 영혼과 영을 쪼개는 양날의 검에 비유합니다. 이 칼은 이웃을 해치기 위한 것이 아니라 우리 자신의 마음에 다가가기 위한 것입니다. 때때로 우리 자신도 깨닫지 못하는 생각과 의도를 분별합니다. 외과의사의 메스처럼 치유하기 위해 베는 것입니다. 어떤 글이 불편하게 느껴진다면, 그 글이 제 역할을 하고 있는 것일지도 모릅니다. 그대로 두세요. 구독하고 '저를 시험해 보세요'라고 댓글을 달아주세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
