@@ -96,6 +96,8 @@ def cintillo(g, H, ruta, siguiente=""):
     k = H / 1080
     t = _t(g)
     items = list(t["cint"])
+    if g.get("corte_txt"):  # ediciones con otro corte (p. ej. la semana 48, cortada el miércoles)
+        items = [g["corte_txt"] if ("Corte" in x or "Cut" in x) else x for x in items]
     if siguiente:
         items.insert(1, ("Siguiente parada: " if g.get("lang") == "es" else "Next stop: ") + siguiente)
     txt = "   •   ".join(items) + "   •   "
