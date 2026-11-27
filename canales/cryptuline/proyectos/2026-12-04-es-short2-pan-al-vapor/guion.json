@@ -36,7 +36,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-12-04T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Steamed bread with spirulina: How long does the dough last? #shorts",
+        "description": "Steamed bread with spirulina: how much the dough can hold. 📚 Sources (PubMed):\n• Wang Y, Lyu Y, Xu L, Liu K, Chen J. Preparation and Quality Evaluation of Steamed Buns with Spirulina Powder. Foods. 2025;14(23):4136. https://pubmed.ncbi.nlm.nih.gov/41376073/ · https://doi.org/10.3390/foods14234136 Educational content for adults over 18. This is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthesized voice. Cryptuline."
+      },
+      "pt": {
+        "title": "Pão cozido no vapor com espirulina: quanto tempo a massa aguenta? #shorts",
+        "description": "Pão cozido no vapor com espirulina: quanto a massa aguenta. 📚 Fontes (PubMed):\n• Wang Y, Lyu Y, Xu L, Liu K, Chen J. Preparation and Quality Evaluation of Steamed Buns with Spirulina Powder. Foods. 2025;14(23):4136. https://pubmed.ncbi.nlm.nih.gov/41376073/ · https://doi.org/10.3390/foods14234136 Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte o seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "الخبز المطهو على البخار مع سبيرولينا: ما مقدار ما يتحمله العجين؟ #shorts",
+        "description": "الخبز المطهو على البخار مع سبيرولينا: كم من الوقت يتحمل العجين. 📚 المصادر (PubMed):\n• وانغ ي، لو يو، شو ل، ليو ك، تشن ج. تحضير وتقييم جودة الكعك المطهو على البخار مع مسحوق سبيرولينا. Foods. 2025;14(23):4136. https://pubmed.ncbi.nlm.nih.gov/41376073/ · https://doi.org/10.3390/foods14234136 محتوى تعليمي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشيري طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتولين."
+      },
+      "zh-Hans": {
+        "title": "螺旋藻馒头：面团能发酵多久？ #shorts",
+        "description": "螺旋藻蒸面包：面团能承受多少螺旋藻。📚 来源（PubMed）：\n• 王宇、吕宇、徐磊、刘凯、陈佳。《添加螺旋藻粉馒头的制备与品质评价》。《食品》。2025 年；14(23)：4136。https://pubmed.ncbi.nlm.nih.gov/41376073/ · https://doi.org/10.3390/foods14234136 适合 18 岁以上人士的教育内容。 本产品不能替代医疗咨询：在改变饮食、体育活动或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "스피룰리나를 넣은 찜빵: 반죽은 얼마나 오래 보관할 수 있나요? #shorts",
+        "description": "스피룰리나를 넣은 찐빵: 반죽이 얼마나 견딜 수 있을까요? 📚 출처(PubMed):\n• Wang Y, Lyu Y, Xu L, Liu K, Chen J. 스피룰리나 분말을 넣은 찐빵의 제조 및 품질 평가. Foods. 2025;14(23):4136. https://pubmed.ncbi.nlm.nih.gov/41376073/ · https://doi.org/10.3390/foods14234136 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식단, 신체 활동 또는 치료를 변경하기 전에 의사와 상의하세요. 인공 음성 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -47,7 +69,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "steamed buns bamboo steamer"
-      }
+      },
+      "texto_en": "They added spirulina to a steamed bun. With too much, the bread changed.",
+      "texto_pt": "Colocaram espirulina em um pão cozido no vapor. Com muita, o pão mudou.",
+      "texto_ar": "أضافوا سبيرولينا إلى خبز مطهو على البخار. مع الكثير منها، تغير الخبز.",
+      "texto_zh": "他们在蒸馒头里加了螺旋藻。加多了，馒头就变了。",
+      "texto_ko": "찐 빵에 스피룰리나를 넣었습니다. 너무 많이 넣으면 빵이 변합니다."
     },
     {
       "id": "mensaje",
@@ -56,7 +83,19 @@
       "emocion": "agil",
       "visual": {
         "query": "green dough kneading hands kitchen"
-      }
+      },
+      "texto_en": "This is a food science study by Wang and his team in China, published in 2025. With more than five percent spirulina, the gluten network broke down, the bread lost volume, became greener and harder, and tasted worse. With two percent, the bread was of the highest quality and had the most protein. This is a culinary study, not a health study. But the lesson is clear: in the kitchen, a little goes a long way. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "É um estudo de ciência dos alimentos realizado por Wang e sua equipe, na China, publicado em 2025. Com mais de 5% de espirulina, a rede de glúten se rompia, o pão perdia volume, ficava mais verde e mais duro, e tinha um sabor menos agradável. Com 2%, o pão apresentou a melhor qualidade e mais proteína. É um estudo de culinária, não de saúde. Mas a lição é clara: na cozinha, um pouco basta. Salve este vídeo e compartilhe com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos no Cryptuline para ver mais conteúdos sobre ciência da saúde.",
+      "texto_ar": "إنها دراسة في علوم الأغذية أجراها وانغ وفريقه في الصين، ونُشرت في عام ألفين وخمسة وعشرين. مع إضافة أكثر من خمسة في المائة من سبيرولينا، كانت شبكة الغلوتين تتفكك، وكان الخبز يفقد حجمه، ويصبح أكثر خضرة وأكثر صلابة، وكان مذاقه أقل استحسانًا. مع نسبة اثنين بالمائة، كان الخبز يتمتع بأفضل جودة وأعلى نسبة من البروتين. إنها دراسة عن الطهي، وليست عن الصحة. لكن الدرس واضح: في الطهي، القليل يكفي. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشيري طبيبك قبل إجراء أي تغييرات. تابعنا على Cryptuline لمزيد من المعلومات العلمية المتعلقة بالصحة.",
+      "texto_zh": "这是王和他的团队在中国进行的一项食品科学研究，发表于 2025 年。当螺旋藻含量超过 5% 时，面筋网络就会破裂，面包的体积会变小，颜色会变绿，质地会变硬，口感也会变差。当螺旋藻含量为 2% 时，面包的品质最佳，蛋白质含量也最高。这是一项烹饪研究，而不是健康研究。但经验教训很明显：在烹饪中，一点点就足够了。 请保存此视频，并与可能需要的人分享。在做出任何改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学知识。",
+      "texto_ko": "이것은 중국의 왕과 그의 팀이 2025년에 발표한 식품 과학 연구입니다. 스피룰리나가 5%를 초과하면 글루텐 망이 파괴되고, 빵의 부피가 줄어들고, 색이 더 푸르스름해지고 더 딱딱해지며, 맛이 덜 좋아졌습니다. 2%를 첨가했을 때 빵의 품질이 가장 좋았고 단백질 함량도 가장 높았습니다. 이것은 건강에 관한 연구가 아니라 요리에 관한 연구입니다. 하지만 교훈은 분명합니다. 요리에서는 조금만 넣어도 충분하다는 것입니다. 이 동영상을 저장하고 도움이 될 만한 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline에서 저희를 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
