@@ -1,0 +1,13 @@
+{
+ "_nota": "Clasificación comercial del catálogo de Tecno Log IA (aprobada por el Fundador, 27-nov-2026). Se usa en los productos del Perfil de Empresa de Google (Imexpomundo) y en los Shorts de Tecno. Cada categoría del catálogo cae en la PRIMERA clase cuya regla (expresión regular, sin distinguir mayúsculas) coincide; lo demás va a Industria. Subclases sin productos todavía: Muebles de sala, Muebles de alcoba, Educación · Montessori (falta la fuente de productos).",
+ "clases": [
+  {"clase": "Hogar", "subclase": "Cocina", "regla": "sartenes|cuchillos|juegos de ollas|^ollas|baterías|vajilla|teteras|repostería|licuadoras|^batidoras$|extractor de frutas|exprimidor de naranjas|balanzas"},
+  {"clase": "Hogar", "subclase": "Electrodomésticos", "regla": "línea neutra|línea inverter|dispensadores de agua|elsenborn"},
+  {"clase": "Hogar", "subclase": "Muebles de sala", "regla": "mueble.*sala|sofá|sofa"},
+  {"clase": "Hogar", "subclase": "Muebles de alcoba", "regla": "mueble.*(alcoba|dormitorio)|cama|colch"},
+  {"clase": "Educación", "subclase": "Montessori", "regla": "montessori|didáctic|educativ"},
+  {"clase": "Emprendedores", "subclase": "", "regla": "helado|raspadill|cremolad|refresquer|pop ?corn|algod|waffler|wafler|creper|panini|yoguera|freidoras sobre mesa|hot dog|café|cafeteras|conos|barquill|paletera|deshidrat|empacadoras|sellador|dispensador de chocolate|hamburguesas|cortador de frutas|caña"},
+  {"clase": "Industria", "subclase": "", "regla": "."}
+ ],
+ "conteo_27nov2026": {"Hogar · Cocina": 123, "Hogar · Electrodomésticos": 52, "Hogar · Muebles de sala": 0, "Hogar · Muebles de alcoba": 0, "Educación · Montessori": 0, "Emprendedores": 200, "Industria": 564}
+}
