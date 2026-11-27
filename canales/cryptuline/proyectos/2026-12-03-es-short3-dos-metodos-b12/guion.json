@@ -35,7 +35,29 @@
     "categoria_id": "27",
     "privacidad": "private",
     "publicar_en": "2026-12-04T01:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "Spirulina and B12: Two laboratory methods, two different results #shorts",
+        "description": "Spirulina and vitamin B12: two methods, two very different results. 📚 Sources (PubMed):\n• Watanabe F, Katsura H, Takenaka S, Fujita T, Abe K, Tamura Y, et al. Pseudovitamin B(12) is the predominant cobamide of an algal health food, spirulina tablets. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b Educational content for adults over 18. This is not a substitute for medical advice: Consult your doctor before changing your diet, physical activity, or treatment. Narration with synthesized voice. Cryptuline."
+      },
+      "pt": {
+        "title": "Espirulina e B12: dois métodos de laboratório, dois resultados diferentes #shorts",
+        "description": "Espirulina e vitamina B12: dois métodos, dois resultados muito diferentes. 📚 Fontes (PubMed):\n• Watanabe F, Katsura H, Takenaka S, Fujita T, Abe K, Tamura Y, et al. A pseudovitamina B(12) é a cobamida predominante em um alimento saudável à base de algas, os comprimidos de espirulina. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b Conteúdo educativo para maiores de 18 anos. Não substitui a consulta médica: consulte o seu médico antes de mudar sua alimentação, sua atividade física ou um tratamento. Narração com voz sintética. Cryptuline."
+      },
+      "ar": {
+        "title": "السبيرولينا وفيتامين ب12: طريقتان مختبريتان، نتيجتان مختلفتان #shorts",
+        "description": "السبيرولينا وفيتامين ب12: طريقتان، ونتيجتان مختلفتان تمامًا. 📚 المصادر (PubMed):\n• واتانابي ف.، كاتسورا ه.، تاكيناكا س.، فوجيتا ت.، آبي ك.، تامورا ي.، وآخرون. الفيتامين الزائف ب(12) هو الكوباميد السائد في طعام صحي من الطحالب، أقراص سبيرولينا. مجلة الكيمياء الزراعية والغذائية. 1999؛47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b محتوى تعليمي للأشخاص الذين تزيد أعمارهم عن 18 عامًا. لا يحل محل الاستشارة الطبية: استشيري طبيبك قبل تغيير نظامك الغذائي أو نشاطك البدني أو علاجك. سرد بصوت اصطناعي. كريبتولين."
+      },
+      "zh-Hans": {
+        "title": "螺旋藻和维生素 B12：两种实验室方法，两种不同的结果 #shorts",
+        "description": "螺旋藻和维生素 B12：两种方法，两种截然不同的结果。📚 参考资料（PubMed）：\n• 渡边丰、桂秀树、竹中诚、藤田隆、阿部幸男、田村康二等。假维生素 B(12) 是藻类保健食品螺旋藻片中主要的钴胺素。《农业与食品化学杂志》。1999 年；47(11)：4736-41。https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b 适合 18 岁以上人士的教育内容。 本产品不能替代医疗咨询：在改变饮食、体育活动或治疗方案之前，请咨询您的医生。合成语音旁白。Cryptuline。"
+      },
+      "ko": {
+        "title": "스피룰리나와 비타민 B12: 두 가지 실험 방법, 두 가지 다른 결과 #shorts",
+        "description": "스피룰리나와 비타민 B12: 두 가지 방법, 매우 다른 두 가지 결과. 📚 출처(PubMed):\n• 와타나베 F, 가쓰라 H, 다케나카 S, 후지타 T, 아베 K, 다무라 Y, 외. 슈도비타민 B(12)는 조류 건강식품인 스피룰리나 정제의 주요 코바마이드입니다. J Agric Food Chem. 1999;47(11):4736-41. https://pubmed.ncbi.nlm.nih.gov/10552882/ · https://doi.org/10.1021/jf990541b 만 18세 이상을 위한 교육 콘텐츠. 의료 상담을 대체하지 않습니다. 식이요법, 신체 활동 또는 치료를 변경하기 전에 의사와 상의하세요. 인공 음성 내레이션. Cryptuline."
+      }
+    }
   },
   "escenas": [
     {
@@ -46,7 +68,12 @@
       "emocion": "gancho",
       "visual": {
         "query": "laboratory test tubes analysis"
-      }
+      },
+      "texto_en": "They measured the vitamin B12 in spirulina tablets using two methods. One gave much more than the other.",
+      "texto_pt": "Eles mediram a vitamina B12 de alguns comprimidos de espirulina usando dois métodos. Um deu muito mais do que o outro.",
+      "texto_ar": "قاموا بقياس فيتامين ب12 في أقراص سبيرولينا باستخدام طريقتين. أعطت إحداهما نتيجة أعلى بكثير من الأخرى.",
+      "texto_zh": "他们使用两种方法测量了螺旋藻片剂中的维生素 B12 含量。其中一种方法得出的结果比另一种方法高出很多。",
+      "texto_ko": "연구팀은 두 가지 방법으로 스피룰리나 정제의 비타민 B12를 측정했습니다. 한 방법은 다른 방법보다 훨씬 더 많은 양을 측정했습니다."
     },
     {
       "id": "mensaje",
@@ -55,7 +82,19 @@
       "emocion": "agil",
       "visual": {
         "query": "spirulina tablets close up"
-      }
+      },
+      "texto_en": "This is a laboratory study by Watanabe and his team in Japan, published in 1999. Using a bacteria-based method, the values came out between six and nine times higher than with another method based on intrinsic factor, the protein that the body uses to absorb B12. Which one was closer to the truth, and what does it mean for you? Tomorrow at 6:00 p.m. Lima time, the full video. Save this video and share it with someone who might find it useful. Consult your doctor before making any changes. Follow us on Cryptuline for more health science.",
+      "texto_pt": "É um estudo de laboratório de Watanabe e sua equipe, no Japão, publicado em mil novecentos e noventa e nove. Com um método baseado em bactérias, os valores ficaram entre seis e nove vezes mais altos do que com outro método baseado no fator intrínseco, a proteína que o corpo usa para absorver a B12. Qual deles estava mais próximo da verdade e o que isso significa para você? Amanhã, às 18h, horário de Lima, o vídeo completo. Salve este vídeo e compartilhe com alguém que possa se beneficiar dele. Consulte o seu médico antes de fazer alterações. Siga-nos no Cryptuline para ver mais conteúdos sobre ciência da saúde.",
+      "texto_ar": "إنها دراسة مختبرية أجراها واتانابي وفريقه في اليابان، ونُشرت في عام ألف وتسعمائة وتسعة وتسعين. باستخدام طريقة تعتمد على البكتيريا، كانت القيم أعلى بست إلى تسع مرات مقارنة بطريقة أخرى تعتمد على العامل الداخلي، وهو البروتين الذي يستخدمه الجسم لامتصاص فيتامين ب12. أي منهما كان أقرب إلى الحقيقة، وماذا يعني ذلك بالنسبة لك؟ غدًا الساعة السادسة مساءً بتوقيت ليما، الفيديو الكامل. احفظ هذا الفيديو وشاركه مع شخص قد يفيده. استشيري طبيبك قبل إجراء أي تغييرات. تابعنا على Cryptuline للحصول على المزيد من المعلومات العلمية المتعلقة بالصحة.",
+      "texto_zh": "这是渡边及其团队在日本进行的一项实验室研究，发表于 1999 年。使用基于细菌的方法，测得的值比使用基于内因子（人体用于吸收维生素 B12 的蛋白质）的另一种方法测得的值高 6 至 9 倍。哪种方法更接近真相，这对您来说意味着什么？明天下午 6 点（利马时间），将发布完整视频。 请保存此视频，并与可能需要的人分享。在做出改变之前，请咨询您的医生。在 Cryptuline 上关注我们，了解更多健康科学知识。",
+      "texto_ko": "이것은 1999년에 발표된 일본의 와타나베와 그의 팀의 실험실 연구입니다. 박테리아 기반 방법을 사용한 경우, 체내에서 B12를 흡수하는 데 사용하는 단백질인 내인자(intrinsic factor)를 기반으로 한 다른 방법에 비해 수치가 6~9배 더 높게 나왔습니다. 어떤 것이 진실에 더 가까웠으며, 이는 여러분에게 어떤 의미가 있을까요? 내일 오후 6시(리마 시간)에 전체 동영상을 공개합니다. 이 동영상을 저장하고 도움이 될 만한 사람과 공유하세요. 변화를 시도하기 전에 의사와 상의하세요. 더 많은 건강 과학 정보를 얻으려면 Cryptuline에서 저희를 팔로우하세요."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
