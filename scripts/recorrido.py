@@ -64,19 +64,37 @@ def main():
     yt = service(CANAL)
     est = json.loads(EST.read_text()) if EST.exists() else {}
     gasto = 0
+    nueva = False
+    if not est.get("lista"):  # ¿ya existe (corrida anterior cortada)? se reutiliza, nunca se duplica
+        tok = None
+        while not est.get("lista"):
+            r = yt.playlists().list(part="snippet", mine=True, maxResults=50, pageToken=tok).execute()
+            for pl in r.get("items", []):
+                if pl["snippet"]["title"] == TITULO:
+                    est["lista"] = pl["id"]
+            tok = r.get("nextPageToken")
+            if not tok:
+                break
     if not est.get("lista"):
+        nueva = True
         r = yt.playlists().insert(part="snippet,status", body={"snippet": {"title": TITULO, "description": DESC, "defaultLanguage": "es"},
                                                               "status": {"privacyStatus": "public"}}).execute()
         est["lista"] = r["id"]
         gasto += 50
         print("+ lista", r["id"])
+        EST.write_text(json.dumps(est, ensure_ascii=False, indent=1))
     lista = est["lista"]
     orden = largos()
     est["inicio"] = orden[0] if orden else None
     # estado actual de la lista
     items, tok = [], None
     while True:
-        r = yt.playlistItems().list(part="snippet", playlistId=lista, maxResults=50, pageToken=tok).execute()
+        try:
+            r = yt.playlistItems().list(part="snippet", playlistId=lista, maxResults=50, pageToken=tok).execute()
+        except Exception as ex:  # una lista recién creada tarda unos segundos en aparecer
+            if nueva and "playlistNotFound" in str(ex):
+                break
+            raise
         items += [(it["id"], it["snippet"]["resourceId"]["videoId"], it["snippet"]["position"]) for it in r.get("items", [])]
         tok = r.get("nextPageToken")
         if not tok:
