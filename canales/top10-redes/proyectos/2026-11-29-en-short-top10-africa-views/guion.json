@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T11:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais visto em África esta semana . #shorts",
+        "description": "O pódio dos vídeos mais vistos em África esta semana.\n\nContagem decrescente total, de 10 a 1: https://youtu.be/k2vwIulWZ5A\n\nDados da API oficial do YouTube. Narração de voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر مشاهدة في أفريقيا هذا الأسبوع #shorts",
+        "description": "حجرة أشرطة الفيديو الأكثر مشاهدة في أفريقيا هذا الأسبوع\n\nالعد التنازلي الكامل من 10 إلى 1: https://youtu.be/k2vwIulWZ5A\n\nبيانات من مكتب \"يوتيوب\" الرسمي صوت اصطناعي #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周非洲收视率最高的影片 #shorts",
+        "description": "本周非洲收视率最高的视频的讲台。\n\n全面倒计时,从10到1:https://yotu.be/k2vwIulWZ5A\n\n数据来源于官方YouTube API. 合成声闻说法. #Top10RS #短裤"
+      },
+      "ko": {
+        "title": "The most viewed 비디오 에 Africa 이 주 ö #shorts",
+        "description": "이번 주 아프리카에서 가장 많은 동영상을 볼 수 있습니다.\n\n전체 카운트 다운, 10에서 1 : https://youtu.be/k2vwIulWZ5A\n\n공식 YouTube API에서 데이터. 합성 음성 narration. #Top10RS #짧은"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most viewed video in Africa this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "eAeSQSzQBlc",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais visto em África esta semana? Aqui está o pódio. Observa até ao fim.",
+      "texto_ar": "الذي كان أكثر الفيديو مشاهدة في أفريقيا هذا الأسبوع؟ ها هي المنصة راقب حتى النهاية",
+      "texto_zh": "哪个是非洲这个星期收视率最高的视频? 这里是讲台。 观察至终.",
+      "texto_ko": "이번 주 아프리카에서 가장 볼만한 비디오는 무엇입니까? 여기는 나트륨입니다. 끝까지 시계."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "SportFiction",
       "cifra": 14408453,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em terceiro lugar, Mbappé & Yamal Exposed Haaland's Fake Injury Instantaneamente..., da SportFiction, com mais de 14 milhões de visualizações.",
+      "texto_ar": "In third place, Mbappé &quot; Yamal Exposed Haaland’s Fake Instantly... by SportFiction, with over 14 million views.",
+      "texto_zh": "Mbappé & Yamal Exposed Haaland的假伤情瞬间,",
+      "texto_ko": "세 번째 장소에서 Mbappé & Yamal Exposed Haaland의 Fake Injury Instantly..., SportFiction에 의해, 이상 14 백만 전망."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Omar kotb",
       "cifra": 18780814,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em segundo lugar, للا اررا الا الا اا اا اا ارا , de Omar kotb, com mais de 18 milhões de visualizações.",
+      "texto_ar": "وفي المرتبة الثانية، نشير إلى ما يلي: &quot; عمر كوتب &quot; ، الذي يضم أكثر من 18 مليون مشاهدة.",
+      "texto_zh": "第二名是Omar Kotb,",
+      "texto_ko": "에 두 번째 장소, لمانيب ارنا منا ومن ردتها  O, Omar kotb에 의해, 이상 18 백만 조회."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "Goodluck Amarachi Yusuf",
       "cifra": 31156917,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "E número um: nosso novo pediatra me ensinou isso, por Goodluck Amarachi Yusuf, com mais de 31 milhões de visualizações.",
+      "texto_ar": "طبيبنا الجديد علمني هذا من قبل (غودلك أماراشي يوسف) مع أكثر من 31 مليون مشاهدة",
+      "texto_zh": "第一,我们的新儿科医生教给我这个, 由古德勒克·阿马拉奇·优素福(Goodluck Amarachi Yusuf), 有超过3,100万个观点。",
+      "texto_ko": "그리고 번호 하나: 우리의 새로운 소아과이를 가르쳤다, Goodluck Amarachi Yusuf에 의해, 이상 31 백만 전망."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "eAeSQSzQBlc",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva, de dez para um, já está no canal. Encontra-o na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، هو بالفعل على القناة. ابحث عنها في الوصف (هاشتاغ توب 10 آر إس)",
+      "texto_zh": "完全倒计时,从10到1,已经进入频道. 在描述中找到它。 Hashtag Top 10 RS. (英语).",
+      "texto_ko": "10에서 하나까지 가득 차있는 카운트다운은, 수로에 이미 입니다. 자주 묻는 질문 Hashtag 정상 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
