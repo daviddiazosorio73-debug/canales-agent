@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T18:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais comentado na África esta semana 🏆 #shorts",
+        "description": "O pódio dos vídeos mais comentados na África esta semana. Contagem regressiva completa, de 10 a 1: https://youtu.be/k2vwIulWZ5A Dados da API oficial do YouTube. Narração com voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر تعليقًا في أفريقيا هذا الأسبوع 🏆 #shorts",
+        "description": "منصة الفيديوهات الأكثر تعليقًا في أفريقيا هذا الأسبوع. العد التنازلي الكامل، من 10 إلى 1: https://youtu.be/k2vwIulWZ5A البيانات من واجهة برمجة التطبيقات الرسمية لـ YouTube. سرد صوتي اصطناعي. #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周非洲评论最多的视频🏆 #shorts",
+        "description": "本周非洲评论数最多的视频榜单。完整倒计时，从第 10 名到第 1 名：https://youtu.be/k2vwIulWZ5A 数据来自 YouTube 官方 API。合成语音旁白。#Top10RS #shorts"
+      },
+      "ko": {
+        "title": "이번 주 아프리카에서 가장 많은 댓글을 받은 동영상 🏆 #shorts",
+        "description": "이번 주 아프리카에서 가장 많은 댓글을 받은 동영상 순위. 10위부터 1위까지 전체 순위: https://youtu.be/k2vwIulWZ5A 공식 YouTube API에서 제공하는 데이터입니다. 합성 음성 내레이션. #Top10RS #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most commented video in Africa this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "fRw5yyFMnXg",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais comentado na África esta semana? Aqui está o pódio. Assista até o final.",
+      "texto_ar": "ما هو الفيديو الأكثر تعليقًا في أفريقيا هذا الأسبوع؟ إليكم منصة التتويج. شاهد حتى النهاية.",
+      "texto_zh": "本周非洲评论最多的视频是哪一个？以下是前三名。请看到最后。",
+      "texto_ko": "이번 주 아프리카에서 가장 많은 댓글을 받은 동영상은 무엇이었나요? 순위는 다음과 같습니다. 끝까지 시청하세요."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "Sonia Uche Tv",
       "cifra": 4966,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "Em terceiro lugar, GLORIA MUST GO - SONIA UCHE, RUTH KADIRI, SYMON OKOH…, de Sonia Uche Tv, com mais de 4 mil comentários.",
+      "texto_ar": "في المرتبة الثالثة، GLORIA MUST GO - SONIA UCHE، RUTH KADIRI، SYMON OKOH…، من إنتاج Sonia Uche Tv، مع أكثر من 4 آلاف تعليق.",
+      "texto_zh": "排名第三的是Sonia Uche Tv的《GLORIA MUST GO - SONIA UCHE, RUTH KADIRI, SYMON OKOH…》，该视频获得了4000多条评论。",
+      "texto_ko": "3위는 소니아 우체 TV(Sonia Uche Tv)의 '글로리아는 떠나야 한다 - 소니아 우체, 루스 카디리, 시몬 오코…'(GLORIA MUST GO - SONIA UCHE, RUTH KADIRI, SYMON OKOH…)로, 4천 개 이상의 댓글을 받았습니다."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Itelediconstudio",
       "cifra": 7943,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "Em segundo lugar, Koleoso parte 15 - Filme iorubá mais recente de 2026 |…, de Itelediconstudio, com mais de 7 mil comentários.",
+      "texto_ar": "في المرتبة الثانية، كوليسو الجزء 15 - أحدث فيلم يوروبا 2026 |…، من إعداد إيتيلديكونستوديو، مع أكثر من 7 آلاف تعليق.",
+      "texto_zh": "排名第二的是 Itelediconstudio 的《Koleoso 第 15 集 - 2026 年最新约鲁巴语电影 |…》，该视频获得了超过 7000 条评论。",
+      "texto_ko": "2위는 Itelediconstudio의 'Koleoso part 15 - Latest Yoruba Movie 2026 |…'로, 댓글이 7천 개 이상 달렸습니다."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "Bahati Kenya",
       "cifra": 8668,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "E em primeiro lugar: MORGAN BAHATI - ZOZA (NIKIFIKA 18), de Bahati Kenya, com mais de 8 mil comentários.",
+      "texto_ar": "والأولى: مورغان باهاتي - زوزا (نيكيفيكا 18)، من باهاتي كينيا، مع أكثر من 8 آلاف تعليق.",
+      "texto_zh": "第一名：MORGAN BAHATI - ZOZA（NIKIFIKA 18），由Bahati Kenya创作，评论数超过8000条。",
+      "texto_ko": "그리고 1위: 바하티 케냐의 MORGAN BAHATI - ZOZA (NIKIFIKA 18), 댓글 8천 개 이상."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "fRw5yyFMnXg",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva completa, de dez a um, já está no canal. Encontre-a na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، موجود بالفعل على القناة. ستجدونه في الوصف. هاشتاغ Top 10 RS.",
+      "texto_zh": "从十到一的完整倒计时已经发布到频道上了。在描述中可以找到。话题标签：Top 10 RS。",
+      "texto_ko": "10부터 1까지의 전체 카운트다운은 이미 채널에 올라와 있습니다. 설명에서 찾아보세요. 해시태그 Top 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
