@@ -1,24 +1,24 @@
-# Último reporte (2026-11-28 01:59 UTC)
+# Último reporte (2026-11-28 10:23 UTC)
 
 ## Subidos
-- top10-redes: 2026-11-29-en-short-top10-asia-views: pistas de idioma listas para Studio → release «audios-extra»
-- top10-redes: 2026-11-29-en-short-top10-asia-views → https://youtu.be/XaUCZ_TmGqc
-- top10-redes: 2026-11-29-en-short-top10-oceania-comments: pistas de idioma listas para Studio → release «audios-extra»
-- top10-redes: 2026-11-29-en-short-top10-oceania-comments → https://youtu.be/6jK1-aRZUyw
-- top10-redes: 2026-11-29-en-short-top10-africa-views: pistas de idioma listas para Studio → release «audios-extra»
-- top10-redes: 2026-11-29-en-short-top10-africa-views → https://youtu.be/BiVRSwfx9mA
-- top10-redes: 2026-11-29-en-short-top10-europa-views: pistas de idioma listas para Studio → release «audios-extra»
-- top10-redes: 2026-11-29-en-short-top10-europa-views → https://youtu.be/uIXt5p8t1Yw
-- cryptuline: 2026-12-04-es-divulgacion-composicion-espirulina-b12: pistas de idioma listas para Studio → release «audios-extra»
-- cryptuline: 2026-12-04-es-divulgacion-composicion-espirulina-b12 → https://youtu.be/EyyxQA1jD6g
-- cryptuline: 2026-12-04-es-short3-crema-verduras: pistas de idioma listas para Studio → release «audios-extra»
-- cryptuline: 2026-12-04-es-short3-crema-verduras → https://youtu.be/hn2pB7VmxQE
+- top10-redes: 2026-11-29-en-short-top10-asia-comments: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-29-en-short-top10-asia-comments → https://youtu.be/JbzFPhrPUtE
+- top10-redes: 2026-11-29-en-short-top10-mundial-views: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-29-en-short-top10-mundial-views → https://youtu.be/nKcKFxKFiNI
+- top10-redes: 2026-11-29-es-short-top10-america-views: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-29-es-short-top10-america-views → https://youtu.be/4stVS1ynZmk
+- top10-redes: 2026-11-29-en-short-top10-africa-comments: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-29-en-short-top10-africa-comments → https://youtu.be/5sS2V1XL-YA
+- top10-redes: 2026-11-29-en-short-top10-europa-comments: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-29-en-short-top10-europa-comments → https://youtu.be/a1V4gAXBqyg
+- top10-redes: 2026-11-29-en-short-top10-oceania-likes: pistas de idioma listas para Studio → release «audios-extra»
+- top10-redes: 2026-11-29-en-short-top10-oceania-likes → https://youtu.be/phPGiv_OoYE
 
 ## Fallos
 
 ## Instagram/Facebook
-- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"A95xcFQvWKBPwbqH0wLD_LV"}})
-- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"A5jFg_Ttpta4LhuobDa4QOZ"}})
-- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"AEvlfXFDHNMVDxQ7gkwaOeg"}})
-- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"A2Tf99hkFxQ3KwnJoDKdjbB"}})
-- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"AXuL7Sj0tZO2-pbc7AiVKRl"}})
+- mayordom: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"AXelPn68rL8oYi_0OkUq-ZJ"}})
+- escuela-sabatica-es: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"AsszCail2Sue8KFYvyDvkrK"}})
+- escola-sabatina-pt: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"AU8L6Ej_VOofoHzXuPku8uN"}})
+- top10-redes: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"A7HmZ9ak9JJLbcTh6CNWhxM"}})
+- cryptuline: token de Meta inválido o vencido (Meta 400: {"error":{"message":"API access blocked.","type":"OAuthException","code":200,"error_subcode":5258005,"fbtrace_id":"AQTqAmWyTZU9tOQ15Idlhlz"}})
