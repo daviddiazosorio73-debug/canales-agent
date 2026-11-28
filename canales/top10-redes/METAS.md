@@ -1,12 +1,12 @@
 # Metas de la premiación en vivo · Top 10 Redes Sociales
 
-Actualizado: 2026-11-27T09:45:33Z (UTC)
+Actualizado: 2026-11-28T08:57:57Z (UTC)
 
 | Meta | Hoy | Objetivo | Avance |
 |---|---|---|---|
 | Suscriptores (YouTube) | 4 | 1 000 000 | 0% |
 | Likes | 33 | 50 000 | 0% |
-| Comentarios | 15 | 500 000 | 0% |
+| Comentarios | 17 | 500 000 | 0% |
 | #Top10RS en comentarios | 3 | 50 000 | 0% |
 | #PremiosTop10RS en comentarios | 8 | 50 000 | 0% |
 
