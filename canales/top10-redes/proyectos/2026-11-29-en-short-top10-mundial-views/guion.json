@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais visto do mundo esta semana 🏆 #shorts",
+        "description": "O pódio dos vídeos mais vistos do mundo esta semana. Contagem regressiva completa, de 10 a 1: https://youtu.be/TfNplg01aXg Dados da API oficial do YouTube. Narração com voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر مشاهدة في العالم هذا الأسبوع 🏆 #shorts",
+        "description": "منصة الفيديوهات الأكثر مشاهدة في العالم هذا الأسبوع. العد التنازلي الكامل، من 10 إلى 1: https://youtu.be/TfNplg01aXg البيانات من واجهة برمجة التطبيقات الرسمية لليوتيوب. سرد صوتي اصطناعي. #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周全球观看次数最多的视频🏆 #shorts",
+        "description": "本周全球观看次数最多的视频榜单。完整倒计时，从第 10 名到第 1 名：https://youtu.be/TfNplg01aXg数据来自官方 YouTube API。合成语音旁白。#Top10RS #shorts"
+      },
+      "ko": {
+        "title": "이번 주 전 세계에서 가장 많이 본 동영상 🏆 #shorts",
+        "description": "이번 주 전 세계에서 가장 많이 본 동영상 순위. 10위부터 1위까지 전체 순위: https://youtu.be/TfNplg01aXg 공식 YouTube API에서 제공한 데이터입니다. 인공 음성 내레이션. #Top10RS #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most viewed video in the world this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "ymCHX_Dcc-U",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais visto no mundo esta semana? Aqui está o pódio. Assista até o final.",
+      "texto_ar": "ما هو الفيديو الأكثر مشاهدة في العالم هذا الأسبوع؟ إليكم منصة التتويج. شاهد حتى النهاية.",
+      "texto_zh": "本周全球观看次数最多的视频是哪一个？这是前三名。请看到最后。",
+      "texto_ko": "이번 주 전 세계에서 가장 많이 본 동영상은 무엇이었을까요? 순위는 다음과 같습니다. 끝까지 시청하세요."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "Techno Gamerz",
       "cifra": 36014741,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em terceiro lugar, MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY, de Techno Gamerz, com mais de 36 milhões de visualizações.",
+      "texto_ar": "في المرتبة الثالثة، \"يومي الأول في فايس سيتي | طريقة لعب GTA 6\"، بواسطة تكنو غيمرز، مع أكثر من 36 مليون مشاهدة.",
+      "texto_zh": "排名第三的是Techno Gamerz的《我在罪恶都市的第一天 | GTA 6游戏演示》，观看次数超过3600万次。",
+      "texto_ko": "3위는 Techno Gamerz의 'MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY'로, 조회수가 3,600만 회를 넘었습니다."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Marvel Entertainment",
       "cifra": 50165055,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em segundo lugar, Avengers: Doomsday | Final Trailer | In Theaters…, da Marvel Entertainment, com mais de 50 milhões de visualizações.",
+      "texto_ar": "في المرتبة الثانية، Avengers: Doomsday | Final Trailer | In Theaters…، من Marvel Entertainment، مع أكثر من 50 مليون مشاهدة.",
+      "texto_zh": "排名第二的是 Marvel Entertainment 的《复仇者联盟：末日 | 终极预告片 | 即将上映……》，观看量超过 5000 万次。",
+      "texto_ko": "2위는 Marvel Entertainment의 '어벤져스: 둠스데이 | 최종 예고편 | 극장 개봉...'으로, 조회수가 5천만 회를 넘었습니다."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "MrBeast Gaming",
       "cifra": 72326891,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "E em primeiro lugar: \"I Survived 100 Hours In GTA 6\", do MrBeast Gaming, com mais de 72 milhões de visualizações.",
+      "texto_ar": "والرقم واحد: \"نجوت 100 ساعة في GTA 6\"، من قبل MrBeast Gaming، مع أكثر من 72 مليون مشاهدة.",
+      "texto_zh": "排名第一的是MrBeast Gaming的《I Survived 100 Hours In GTA 6》，观看次数超过7200万次。",
+      "texto_ko": "그리고 1위는 MrBeast Gaming의 'GTA 6에서 100시간 동안 살아남았습니다'로, 조회수가 7,200만 회를 넘었습니다."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "ymCHX_Dcc-U",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva completa, de dez a um, já está no canal. Você encontra na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، موجود بالفعل على القناة. ستجدونه في الوصف. هاشتاغ Top 10 RS.",
+      "texto_zh": "从十到一的完整倒计时已经发布到频道上了。在描述中可以找到。话题标签：Top 10 RS。",
+      "texto_ko": "10부터 1까지의 전체 카운트다운은 이미 채널에 올라와 있습니다. 설명에서 찾아보세요. 해시태그 Top 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
