@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T09:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais comentado na Oceania esta semana #shorts",
+        "description": "O pódio dos vídeos mais comentados na Oceania esta semana.\n\nContagem regressiva total, de 10 a 1: https://youtu.be/y6aWGV7sXsU\n\nDados da API oficial do YouTube. Narração de voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر تعليقا في أوقيانوسيا هذا الأسبوع #shorts",
+        "description": "حجرة أشرطة الفيديو الأكثر تعليقاً في أوقيانوسيا هذا الأسبوع\n\nالعد التنازلي الكامل من 10 إلى 1: https://youtu.be/y6aWGV7sXsU\n\nبيانات من مكتب \"يوتيوب\" الرسمي صوت اصطناعي #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "这周大洋洲最受评论的影片, #shorts",
+        "description": "本周大洋洲最受评论的视频的讲台.\n\n完全倒计时,从10到1:https://youtu.be/y6aWGV7sXsU.\n\n数据来源于官方YouTube API. 合成声闻说法. #Top10RS #短裤"
+      },
+      "ko": {
+        "title": "이번 주 오세아니아에서 가장 논평한 비디오 #shorts",
+        "description": "이번 주 오세아니아에서 가장 논평한 동영상의 북극.\n\n전체 카운트 다운, 10에서 1 : https://youtu.be/y6aWGV7sXsU\n\n공식 YouTube API에서 데이터. 합성 음성 narration. #Top10RS #짧은"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most commented video in Oceania this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "mieJedsmxwE",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais comentado na Oceania esta semana? Aqui está o pódio. Observa até ao fim.",
+      "texto_ar": "الذي كَانَ الفيديو الأكثر تعليقاً في أوقيانوسيا هذا الإسبوعِ؟ ها هي المنصة راقب حتى النهاية",
+      "texto_zh": "这周大洋洲最受评论的视频是哪个? 这里是讲台。 观察至终.",
+      "texto_ko": "이번 주 오세아니아에서 가장 논평한 비디오였습니까? 여기는 나트륨입니다. 끝까지 시계."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "SAMTIME",
       "cifra": 3172,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "Em terceiro lugar, as pessoas não estão felizes com o GTA 6, de SAMTIME, com mais de 3 mil comentários.",
+      "texto_ar": "وثالثاً، فإن الناس لا يسعون بشأن اتفاق التجارة العالمية 6، من جانب شركة SAMTIME، مع ما يزيد على 000 3 تعليق.",
+      "texto_zh": "SAMTIME的GTA 6,",
+      "texto_ko": "세 번째 장소 인 People Aren’t Happy About GTA 6, SAMTIME에 의해, 이상 3 천 의견."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Owls in Towels",
       "cifra": 3482,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "Em segundo lugar, como embrulhar uma coruja, por Corujas em Toalhas, com mais de 3 mil comentários.",
+      "texto_ar": "في المرتبة الثانية، كيف يُستَعَبُ أَنْ يَغْرقَ a Owl، مِن قِبل الأوعيةِ في المناشفِ، مَع أكثر من 3 آلاف تعليقِ.",
+      "texto_zh": "第二,如何包装一只猫头鹰, 猫头鹰在毛巾, 有超过三千条评论。",
+      "texto_ko": "두 번째 장소에서, 올빼미를 포장하는 방법, 타월의 올빼미, 이상 3 천 댓글."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "Dolan Darkest",
       "cifra": 4576,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "E número um: é GTA 6 completamente cozido, por Dolan Darkest, com mais de 4 mil comentários.",
+      "texto_ar": "والرقم الأول: هل تُطَبَطَبَعَ شركة GTA 6 بالكامل من قبل دولان دارست، مع ما يزيد على 4 آلاف تعليق.",
+      "texto_zh": "第一,GTA 6是完全烹饪的, 由Dolan Darkest, 有超过四千条评论。",
+      "texto_ko": "그리고 번호 하나: GTA 6 완전하게 요리, Dolan Darkest, 이상 4 천 의견."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "mieJedsmxwE",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva, de dez para um, já está no canal. Encontra-o na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، هو بالفعل على القناة. ابحث عنها في الوصف (هاشتاغ توب 10 آر إس)",
+      "texto_zh": "完全倒计时,从10到1,已经进入频道. 在描述中找到它。 Hashtag Top 10 RS. (英语).",
+      "texto_ko": "10에서 하나까지 가득 차있는 카운트다운은, 수로에 이미 입니다. 자주 묻는 질문 Hashtag 정상 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
