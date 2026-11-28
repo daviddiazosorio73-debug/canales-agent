@@ -35,7 +35,29 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T18:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "en": {
+        "title": "America's #1 most-watched this week 🏆 #shorts",
+        "description": "The top most-watched videos in America this week. Full countdown, from 10 to 1: https://youtu.be/xqf3EHl4eUk Data from the official YouTube API. Narration with synthetic voice. #Top10RS #shorts"
+      },
+      "pt": {
+        "title": "O número 1 mais visto na América esta semana 🏆 #shorts",
+        "description": "O pódio dos vídeos mais vistos da América esta semana. Contagem completa, do 10º ao 1º: https://youtu.be/xqf3EHl4eUk Dados da API oficial do YouTube. Narração com voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الأكثر مشاهدة رقم 1 في أمريكا هذا الأسبوع 🏆 #shorts",
+        "description": "منصة الفيديوهات الأكثر مشاهدة في أمريكا هذا الأسبوع. الترتيب الكامل، من 10 إلى 1: https://youtu.be/xqf3EHl4eUk بيانات من واجهة برمجة التطبيقات الرسمية لمنصة يوتيوب. سرد بصوت اصطناعي. #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周美国观看次数最多的视频 #1 🏆 #shorts",
+        "description": "本周美国观看次数最多的视频榜单。完整排名，从第 10 名到第 1 名：https://youtu.be/xqf3EHl4eUk数据来自 YouTube 官方 API。合成语音旁白。#Top10RS #shorts"
+      },
+      "ko": {
+        "title": "이번 주 미국에서 가장 많이 본 #1 🏆 #shorts",
+        "description": "이번 주 미국에서 가장 많이 본 동영상 순위. 10위부터 1위까지 전체 순위: https://youtu.be/xqf3EHl4eUk 공식 YouTube API 데이터. 인공 음성으로 내레이션. #Top10RS #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +66,12 @@
       "texto": "¿Cuál fue el video más visto de América esta semana? Este es el podio. Mira hasta el final.",
       "emocion": "gancho",
       "video_id": "ymCHX_Dcc-U",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_en": "What was the most-watched video in America this week? Here's the podium. Watch until the end.",
+      "texto_pt": "Qual foi o vídeo mais visto na América esta semana? Este é o pódio. Assista até o final.",
+      "texto_ar": "ما هو الفيديو الأكثر مشاهدة في أمريكا هذا الأسبوع؟ هذه هي منصة التتويج. شاهد حتى النهاية.",
+      "texto_zh": "本周美国观看次数最多的视频是哪一个？这是前三名。请看到最后。",
+      "texto_ko": "이번 주 미국에서 가장 많이 본 동영상은 무엇이었나요? 다음은 순위입니다. 끝까지 봐주세요."
     },
     {
       "id": "p3",
@@ -54,7 +81,12 @@
       "puesto": 3,
       "creador": "VerrTV",
       "cifra": 34453605,
-      "categoria": "VISTAS"
+      "categoria": "VISTAS",
+      "texto_en": "In third place is Couch Glitch For New GTA 🎮🤣, by VerrTV, with over 34 million views.",
+      "texto_pt": "Em terceiro lugar, Couch Glitch For New GTA 🎮🤣, do VerrTV, com mais de 34 milhões de visualizações.",
+      "texto_ar": "في المرتبة الثالثة، فيديو Couch Glitch For New GTA 🎮🤣، من VerrTV، مع أكثر من 34 مليون مشاهدة.",
+      "texto_zh": "排名第三的是 VerrTV 的《Couch Glitch For New GTA》🎮🤣，观看次数超过 3400 万次。",
+      "texto_ko": "3위는 VerrTV의 'Couch Glitch For New GTA 🎮🤣'로, 조회수가 3,400만 회를 넘었습니다."
     },
     {
       "id": "p2",
@@ -64,7 +96,12 @@
       "puesto": 2,
       "creador": "Marvel Entertainment",
       "cifra": 50165055,
-      "categoria": "VISTAS"
+      "categoria": "VISTAS",
+      "texto_en": "In second place is Avengers: Doomsday | Final Trailer | In Theaters…, from Marvel Entertainment, with over 50 million views.",
+      "texto_pt": "Em segundo lugar, Avengers: Doomsday | Final Trailer | In Theaters…, da Marvel Entertainment, com mais de 50 milhões de visualizações.",
+      "texto_ar": "في المرتبة الثانية، فيلم Avengers: Doomsday | Final Trailer | In Theaters…، من إنتاج شركة Marvel Entertainment، والذي حقق أكثر من 50 مليون مشاهدة.",
+      "texto_zh": "排名第二的是漫威娱乐的《复仇者联盟：末日 | 终极预告片 | 即将上映……》，观看次数超过 5000 万次。",
+      "texto_ko": "두 번째로 많은 조회수를 기록한 영상은 마블 엔터테인먼트의 '어벤져스: 둠스데이 | 최종 예고편 | 극장 개봉...'으로, 5천만 회 이상의 조회수를 기록했습니다."
     },
     {
       "id": "p1",
@@ -74,14 +111,31 @@
       "puesto": 1,
       "creador": "MrBeast Gaming",
       "cifra": 72326891,
-      "categoria": "VISTAS"
+      "categoria": "VISTAS",
+      "texto_en": "And number one: I Survived 100 Hours In GTA 6, by MrBeast Gaming, with over 72 million views.",
+      "texto_pt": "E o número um: \"I Survived 100 Hours In GTA 6\", do MrBeast Gaming, com mais de 72 milhões de visualizações.",
+      "texto_ar": "والمرتبة الأولى: I Survived 100 Hours In GTA 6، من MrBeast Gaming، مع أكثر من 72 مليون مشاهدة.",
+      "texto_zh": "排名第一的是 MrBeast Gaming 的《我在 GTA 6 中生存了 100 小时》，观看次数超过 7200 万次。",
+      "texto_ko": "그리고 1위는 MrBeast Gaming의 'I Survived 100 Hours In GTA 6'로, 조회수가 7,200만 회를 넘었습니다."
     },
     {
       "id": "cierre",
       "texto": "El conteo completo, del diez al uno, ya está en el canal. Búscalo en la descripción. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "ymCHX_Dcc-U",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_en": "The full countdown, from ten to one, is already on the channel. Look for it in the description. Hashtag Top 10 RS.",
+      "texto_pt": "A contagem completa, de dez a um, já está no canal. Procure-a na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد الكامل، من عشرة إلى واحد، موجود بالفعل على القناة. ابحث عنه في الوصف. هاشتاج أفضل 10 RS.",
+      "texto_zh": "从十数到一的完整倒计时已上传至频道。请在描述中查找。话题标签：RS 十大排名。",
+      "texto_ko": "10위부터 1위까지의 전체 순위가 이미 채널에 올라와 있습니다. 설명에서 찾아보세요. 해시태그 Top 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "en": "en-US-AndrewNeural",
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
