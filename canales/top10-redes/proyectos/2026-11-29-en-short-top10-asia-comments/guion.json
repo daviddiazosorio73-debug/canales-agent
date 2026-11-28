@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T15:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais comentado na Ásia esta semana 🏆 #shorts",
+        "description": "O pódio dos vídeos mais comentados na Ásia esta semana. Contagem regressiva completa, de 10 a 1: https://youtu.be/tkRJuIF77_I Dados da API oficial do YouTube. Narração com voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر تعليقًا في آسيا هذا الأسبوع 🏆 #shorts",
+        "description": "منصة الفيديوهات الأكثر تعليقًا في آسيا هذا الأسبوع. العد التنازلي الكامل، من 10 إلى 1: https://youtu.be/tkRJuIF77_I البيانات من واجهة برمجة التطبيقات الرسمية لـ YouTube. سرد صوتي اصطناعي. #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周亚洲评论最多的视频🏆 #shorts",
+        "description": "本周亚洲评论数最多的视频榜单。完整倒数，从第 10 名到第 1 名：https://youtu.be/tkRJuIF77_I数据来自官方 YouTube API。合成语音旁白。#Top10RS #shorts"
+      },
+      "ko": {
+        "title": "이번 주 아시아에서 가장 많은 댓글을 받은 동영상 🏆 #shorts",
+        "description": "이번 주 아시아에서 가장 많은 댓글을 받은 동영상 순위. 10위부터 1위까지 전체 순위: https://youtu.be/tkRJuIF77_I 공식 YouTube API에서 제공하는 데이터입니다. 합성 음성 내레이션. #Top10RS #shorts"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most commented video in Asia this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "169ZzvPxvvM",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais comentado na Ásia esta semana? Aqui está o pódio. Assista até o final.",
+      "texto_ar": "ما هو الفيديو الأكثر تعليقًا في آسيا هذا الأسبوع؟ إليكم المنصة. شاهد حتى النهاية.",
+      "texto_zh": "本周亚洲评论数最多的视频是哪一个？这是前三名。请看到最后。",
+      "texto_ko": "이번 주 아시아에서 가장 많은 댓글을 받은 동영상은 무엇이었을까요? 순위는 다음과 같습니다. 끝까지 시청하세요."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "Shivang Mini",
       "cifra": 14487,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "Em terceiro lugar, I GOT OWNER INFINITE LUCK IN STEAL AN EGG ROBLOX !!, de Shivang Mini, com mais de 14 mil comentários.",
+      "texto_ar": "في المركز الثالث، \"حصلت على حظ لا نهائي للمالك في لعبة سرقة بيضة في روبلوكس!!\"، من شيفانغ ميني، مع أكثر من 14 ألف تعليق.",
+      "texto_zh": "第三名是Shivang Mini的《我在ROBLOX的偷蛋游戏中获得了无限幸运的房主！！》，该视频获得了超过1.4万条评论。",
+      "texto_ko": "3위는 14,000개 이상의 댓글을 받은 Shivang Mini의 'I GOT OWNER INFINITE LUCK IN STEAL AN EGG ROBLOX!!'입니다."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "なにわ男子",
       "cifra": 20447,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "Em segundo lugar, なにわ男子 - 僕がカワイくて君がカワイくて [Videoclipe oficial], de なにわ男子, com mais de 20 mil comentários.",
+      "texto_ar": "في المرتبة الثانية، なにわ男子 - 僕がカワイくて君がカワイくて [فيديو موسيقي رسمي]، بواسطة なにわ男子، مع أكثر من 20 ألف تعليق.",
+      "texto_zh": "排名第二的是なにわ男子的《なにわ男子 - 僕がカワイくて君がカワイくて [Official Music Video]》，该视频获得了超过 2 万条评论。",
+      "texto_ko": "2위는 나니와 단시의 'なにわ男子 - 僕がカワイくて君がカワイくて [Official Music Video]'로, 댓글이 2만 개 이상 달렸습니다."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "Techno Gamerz",
       "cifra": 54287,
-      "categoria": "COMMENTS"
+      "categoria": "COMMENTS",
+      "texto_pt": "E em primeiro lugar: MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY, de Techno Gamerz, com mais de 54 mil comentários.",
+      "texto_ar": "والرقم واحد: يومي الأول في فايس سيتي | طريقة لعب GTA 6، بواسطة تكنو غيمرز، مع أكثر من 54 ألف تعليق.",
+      "texto_zh": "第一个是Techno Gamerz的《我的罪恶都市第一天 | GTA 6游戏演示》，有超过5.4万条评论。",
+      "texto_ko": "그리고 1위: MY FIRST DAY IN VICE CITY | GTA 6 GAMEPLAY, Techno Gamerz 제작, 댓글 5만 4천 개 이상."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "169ZzvPxvvM",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva completa, de dez a um, já está no canal. Você encontra na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، موجود بالفعل على القناة. ستجدونه في الوصف. هاشتاغ Top 10 RS.",
+      "texto_zh": "从十到一的完整倒计时已经发布到频道上了。在描述中可以找到。话题标签：Top 10 RS。",
+      "texto_ko": "10부터 1까지의 전체 카운트다운은 이미 채널에 올라와 있습니다. 설명에서 찾아보세요. 해시태그 Top 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
