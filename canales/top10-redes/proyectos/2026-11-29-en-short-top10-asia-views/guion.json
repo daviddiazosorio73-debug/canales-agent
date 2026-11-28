@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T07:30:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais visto na Ásia esta semana #shorts",
+        "description": "O pódio dos vídeos mais vistos na Ásia esta semana.\n\nContagem regressiva total, de 10 a 1: https://youtu.be/tkRJuIF77 I\n\nDados da API oficial do YouTube. Narração de voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر مشاهدة في آسيا هذا الأسبوع #shorts",
+        "description": "حجرة أشرطة الفيديو الأكثر مشاهدة في آسيا هذا الأسبوع\n\nالعد التنازلي الكامل من 10 إلى 1: https://youtu.be/tkRJuIF77 I\n\nبيانات من مكتب \"يوتيوب\" الرسمي صوت اصطناعي #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "本周亚洲收视率最高的影片, #shorts",
+        "description": "本周亚洲收视率最高的视频的讲台.\n\n完全倒计时,从10到1:https://yotu.be/tkRJuIF77 I\n\n数据来源于官方YouTube API. 合成声闻说法. #Top10RS #短裤"
+      },
+      "ko": {
+        "title": "이번 주 아시아에서 가장 많이 볼 수 있는 비디오 #shorts",
+        "description": "이번 주 아시아에서 가장 많은 동영상을 볼 수 있습니다.\n\n전체 카운트 다운, 10에서 1 : https://youtu.be/tkRJuIF77 I\n\n공식 YouTube API에서 데이터. 합성 음성 narration. #Top10RS #짧은"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most viewed video in Asia this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "169ZzvPxvvM",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais visto na Ásia esta semana? Aqui está o pódio. Observa até ao fim.",
+      "texto_ar": "الذي كَانَ الأكثر مشاهدَ فيديو في آسيا هذا الإسبوعِ؟ ها هي المنصة راقب حتى النهاية",
+      "texto_zh": "这周亚洲最受欢迎的视频是什么? 这里是讲台。 观察至终.",
+      "texto_ko": "이번 주 아시아에서 가장 많이 본 동영상은? 여기는 나트륨입니다. 끝까지 시계."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "RESCENE",
       "cifra": 19825450,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em terceiro lugar, 2026 MAMA, por RESCENE, com mais de 19 milhões de visualizações.",
+      "texto_ar": "In third place, 2026 MAMA ., by RESCENE, with over 19 million views.",
+      "texto_zh": "第3名,2026 MAMA QQ,由RESCENE制作,收视超过1900万.",
+      "texto_ko": "3 위, 2026 MAMA ❤️, RESCENE에 의해, 이상 19 백만 전망."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Maddock Films",
       "cifra": 27213553,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em segundo lugar, Sisuse me!!!!!! Shraddha Kapoor □ Eetha em cinemas 4th..., por Maddock Films, com mais de 27 milhões de visualizações.",
+      "texto_ar": "في المركز الثاني، سيسوزي!",
+      "texto_zh": "第二名,西萨!!!########################################################################################################################################################################################################################################################",
+      "texto_ko": "두 번째 장소에서, sisuse me!!! | 슈라드하 카포어 | 영화의 시대 4..., Maddock 영화에 의해, 이상 27 백만 전망."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "Techno Gamerz",
       "cifra": 36014741,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "E número um: MEU PRIMEIRO DIA EM VICE CITY (GTA 6 GAMEPLAY), de Techno Gamerz, com mais de 36 milhões de visualizações.",
+      "texto_ar": "والرقم الأول: يومي الأول في مدينة فويس . GTA 6 GAMEPLAY, by Techno Gamerz, with over 36 million views.",
+      "texto_zh": "第一,我在维塞城的第一天 GTA 6 GAMEPLAY, 由Techno Gamerz, 有超过3600万的浏览量。",
+      "texto_ko": "그리고 번호 하나: VICE CITY 내 첫 날 | GTA 6 GAMEPLAY, Techno Gamerz, 이상으로 36 백만 전망."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "169ZzvPxvvM",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva, de dez para um, já está no canal. Encontra-o na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، هو بالفعل على القناة. ابحث عنها في الوصف (هاشتاغ توب 10 آر إس)",
+      "texto_zh": "完全倒计时,从10到1,已经进入频道. 在描述中找到它。 Hashtag Top 10 RS. (英语).",
+      "texto_ko": "10에서 하나까지 가득 차있는 카운트다운은, 수로에 이미 입니다. 자주 묻는 질문 Hashtag 정상 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
