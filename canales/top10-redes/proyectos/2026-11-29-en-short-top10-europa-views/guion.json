@@ -35,7 +35,25 @@
     "categoria_id": "24",
     "privacidad": "private",
     "publicar_en": "2026-11-29T12:00:00Z",
-    "lista_id": null
+    "lista_id": null,
+    "localizaciones": {
+      "pt": {
+        "title": "O vídeo mais visto na Europa esta semana #shorts",
+        "description": "O pódio dos vídeos mais vistos na Europa esta semana.\n\nContagem decrescente total, de 10 a 1: https://youtu.be/UqZtqtfYqEY\n\nDados da API oficial do YouTube. Narração de voz sintética. #Top10RS #shorts"
+      },
+      "ar": {
+        "title": "الفيديو الأكثر مشاهدة في أوروبا هذا الأسبوع #shorts",
+        "description": "حجرة أشرطة الفيديو الأكثر مشاهدة في أوروبا هذا الأسبوع\n\nالعد التنازلي الكامل من 10 إلى 1: https://youtu.be/UqZtqtfYqEY\n\nبيانات من مكتب \"يوتيوب\" الرسمي صوت اصطناعي #Top10RS #shorts"
+      },
+      "zh-Hans": {
+        "title": "这周欧洲收视率最高的视频, #shorts",
+        "description": "本周欧洲收视率最高的视频的讲台.\n\n全面倒计时,从10到1:https://youtu.be/UqZtqtfYqEY\n\n数据来源于官方YouTube API. 合成声闻说法. #Top10RS #短裤"
+      },
+      "ko": {
+        "title": "이번 주 유럽에서 가장 많이 본 비디오 ö #shorts",
+        "description": "이번 주 유럽에서 가장 볼만한 비디오의 북극.\n\n전체 카운트 다운, 10에서 1 : https://youtu.be/UqZtqtfYqEY\n\n공식 YouTube API에서 데이터. 합성 음성 narration. #Top10RS #짧은"
+      }
+    }
   },
   "escenas": [
     {
@@ -44,7 +62,11 @@
       "texto": "Which was the most viewed video in Europe this week? Here is the podium. Watch until the end.",
       "emocion": "gancho",
       "video_id": "sn4A-77T35Q",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "Qual foi o vídeo mais visto na Europa esta semana? Aqui está o pódio. Observa até ao fim.",
+      "texto_ar": "الذي كَانَ الأكثر مشاهدَ فيديو في أوروبا هذا الإسبوعِ؟ ها هي المنصة راقب حتى النهاية",
+      "texto_zh": "这周欧洲最受欢迎的视频是什么? 这里是讲台。 观察至终.",
+      "texto_ko": "이번 주 유럽에서 가장 볼만한 비디오는 무엇입니까? 여기는 나트륨입니다. 끝까지 시계."
     },
     {
       "id": "p3",
@@ -54,7 +76,11 @@
       "puesto": 3,
       "creador": "Mrwhosetheboss",
       "cifra": 11450386,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em terceiro lugar, Why GTA é um negócio maior do que você pensa, por Mrwhosetheboss, com mais de 11 milhões de visualizações.",
+      "texto_ar": "في المركز الثالث، لمَ (غيتا) هي صفقة أكبر مما تظنّ، من قبل السيد (هوزتيبوس)، مع أكثر من 11 مليون رأي.",
+      "texto_zh": "第三,为什么GTA是一个比你想的更大的交易, 由MrWhosetheboss, 有超过1100万的浏览。",
+      "texto_ko": "세 번째 장소에서, 왜 GTA는 당신이 생각보다 더 큰 거래, Mrwhosetheboss, 이상 11 백만 전망."
     },
     {
       "id": "p2",
@@ -64,7 +90,11 @@
       "puesto": 2,
       "creador": "Mr Spring",
       "cifra": 19096118,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "Em segundo lugar, o GTA 6 finalmente corrigir portas de carro bloqueadas?, por Mr Spring, com mais de 19 milhões de visualizações.",
+      "texto_ar": "في المركز الثاني، هل أقام فريق التجارة العالمية 6 أخيراً سيارات بليكس بلوكيد؟ من قبل السيد سبرنغ، مع أكثر من 19 مليون مشاهدة.",
+      "texto_zh": "排名第二的是GTA 6 终于修好了车门吗?",
+      "texto_ko": "두 번째 장소에서 GTA 6 마지막으로 BLOCKED 자동차 문을 수정 했습니까?, 미스터 스프링, 19 백만 전망 이상."
     },
     {
       "id": "p1",
@@ -74,14 +104,28 @@
       "puesto": 1,
       "creador": "SEEDPIT Official",
       "cifra": 28153391,
-      "categoria": "VIEWS"
+      "categoria": "VIEWS",
+      "texto_pt": "E número um: Kevin diz que a Seed é TOY PEQUENA, da SeedPIT Official, com mais de 28 milhões de visualizações.",
+      "texto_ar": "(كيفن) يقول أن (بريد) هو (سو سمال) من قِبل مسؤول (سي دي بي دي)",
+      "texto_zh": "第一,凯文说种子是TOO SMALL QQ,由SEEDPIT官方制作,拥有超过2800万的浏览量.",
+      "texto_ko": "그리고 번호 하나: Kevin 씨는 TOO SMALL ❁, 에 의해 SEEDPIT 공식, 이상 28 백만 전망."
     },
     {
       "id": "cierre",
       "texto": "The full countdown, from ten to one, is already on the channel. Find it in the description. Hashtag Top 10 RS.",
       "emocion": "calido",
       "video_id": "sn4A-77T35Q",
-      "solo_fondo": true
+      "solo_fondo": true,
+      "texto_pt": "A contagem regressiva, de dez para um, já está no canal. Encontra-o na descrição. Hashtag Top 10 RS.",
+      "texto_ar": "العد التنازلي الكامل، من عشرة إلى واحد، هو بالفعل على القناة. ابحث عنها في الوصف (هاشتاغ توب 10 آر إس)",
+      "texto_zh": "完全倒计时,从10到1,已经进入频道. 在描述中找到它。 Hashtag Top 10 RS. (英语).",
+      "texto_ko": "10에서 하나까지 가득 차있는 카운트다운은, 수로에 이미 입니다. 자주 묻는 질문 Hashtag 정상 10 RS."
     }
-  ]
+  ],
+  "audios_extra": {
+    "pt": "pt-BR-AntonioNeural",
+    "ar": "ar-SA-HamedNeural",
+    "zh": "zh-CN-YunxiNeural",
+    "ko": "ko-KR-InJoonNeural"
+  }
 }
